@@ -93,4 +93,4 @@ A full editing pass follows the completed first draft; see `WORKLIST.md` for kno
 
 None required. If you wish to:
 
-> Ormsby, Shalom. *Tao Te Ching: an English translation.* Public domain (CC0 1.0). https://github.com/shalomormsby/taoteching
+> Ormsby, Shalom. *Tao Te Ching: an English translation.* Public domain (CC0 1.0). https://github.com/opencosmos-ai/taoteching

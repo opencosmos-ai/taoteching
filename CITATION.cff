@@ -10,7 +10,7 @@ authors:
   - family-names: Ormsby
     given-names: Shalom
     website: "https://shalomormsby.substack.com/"
-repository-code: "https://github.com/shalomormsby/taoteching"
+repository-code: "https://github.com/opencosmos-ai/taoteching"
 license: CC0-1.0
 abstract: >-
   A from-the-source English translation of the Tao Te Ching, built chapter by
@@ -54,7 +54,7 @@ preferred-citation:
     - family-names: Ormsby
       given-names: Shalom
   year: 2026
-  url: "https://github.com/shalomormsby/taoteching"
+  url: "https://github.com/opencosmos-ai/taoteching"
   notes: >-
     A living text. Cite a specific version DOI or commit if the exact reading
     matters — chapters are still being revised.
