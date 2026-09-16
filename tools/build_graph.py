@@ -205,7 +205,7 @@ def char_graph(conn):
 
 
 META = {
-    "source": "https://github.com/shalomormsby/taoteching",
+    "source": "https://github.com/opencosmos-ai/taoteching",
     "rights": "CC0 1.0 Universal — public domain dedication, no rights reserved",
     "generator": "tools/build_graph.py",
     "note": ("Chinese is public domain by age. English glosses, renderings and "
