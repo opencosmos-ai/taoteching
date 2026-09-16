@@ -1,6 +1,6 @@
 {
  "meta": {
-  "source": "https://github.com/shalomormsby/taoteching",
+  "source": "https://github.com/opencosmos-ai/taoteching",
   "rights": "CC0 1.0 Universal — public domain dedication, no rights reserved",
   "generator": "tools/build_graph.py",
   "note": "Chinese is public domain by age. English glosses, renderings and translation are by Shalom Ormsby, dedicated CC0. The excavated manuscripts appear nowhere as text — only as recorded variant facts; see sources/PROVENANCE.md.",
