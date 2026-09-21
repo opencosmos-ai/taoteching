@@ -12,7 +12,7 @@ pairing: false
 
 *Say "show," dipping. Eleven lines across eight chapters, and it is the verb the book reaches for when it tells you what to do.*
 
-**Locked: 守 → "hold to" — and *guard* where what is kept is ground or property.** *(Never "embrace," never "attune to," never "stay with.")*
+**Locked: 守 → "hold to" — and *guard* where what is kept is ground or property.** *(Never "embrace," never "attune to," never "stay with." Never *keep* either — but that one is a ruling no check can hold, and it is the likeliest wrong word here, so it has a section of its own below.)*
 
 ### The graph: a roof and a rule, and no hand anywhere
 
@@ -62,7 +62,7 @@ The verb is the same in both halves of his sentence. Only the object changes. Th
 
 ### What no rule can enforce
 
-***"keep"* is not on the forbidden list, and cannot be.** 保 stands with 守 in chapters 9 and 67, and *keep safe* is 保's phrase in both. A rule keyed to 守's presence would fire on 保's own line. Likewise the two words a reader is most likely to confuse here — 守 at *guard* and 保 at *keep safe* — sit two lines apart at chapter 9 and again at chapter 67, and no check in this repository can tell them apart. See `bao-保.md`, `chi-持.md`, `zhi-執.md`.
+***"keep"* is ruled out in the verse, and it is not on the `forbidden:` list, because it cannot be.** Those are two different facts and the difference matters: the ruling holds, and the enforcement does not exist. 保 stands with 守 in chapters 9 and 67, and *keep safe* is 保's phrase in both. A rule keyed to 守's presence would fire on 保's own line. So *embrace*, *attune to* and *stay with* are held by the build; *keep* is held only by this entry and by the reader. Likewise the two words a reader is most likely to confuse here — 守 at *guard* and 保 at *keep safe* — sit two lines apart at chapter 9 and again at chapter 67, and no check in this repository can tell them apart. See `bao-保.md`, `chi-持.md`, `zhi-執.md`.
 
 ### Left open
 

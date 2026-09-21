@@ -12,7 +12,7 @@ pairing: false
 
 *Say "bao," dipping. Four lines across four chapters, and it is the only one of the holding words that is not about your grip.*
 
-**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain.")* **One declared flexion: bare *keep* at chapter 9**, for the reason below.
+**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain." Never *guard* either — but that one is a ruling no check can hold, and it has a section of its own below.)* **One declared flexion: bare *keep* at chapter 9**, for the reason below.
 
 ### The graph: a person carrying a child
 
@@ -69,7 +69,7 @@ English cannot chime here, and the entry records the loss rather than manufactur
 
 ### What no rule can enforce
 
-***"guard"* is not on the forbidden list, and cannot be.** 守 stands with 保 in chapters 9 and 67, and *guard* is 守's word in both. A rule keyed to 保's presence would fire on 守's own line. The two characters sit two lines apart at chapter 9 — 不可長**保** and 莫之能**守** — and nothing in this repository can tell one from the other there. See `shou-守.md`, `chi-持.md`, `zhi-執.md`.
+***"guard"* is ruled out in the verse, and it is not on the `forbidden:` list, because it cannot be.** Those are two different facts: the ruling holds, and the enforcement does not exist. 守 stands with 保 in chapters 9 and 67, and *guard* is 守's word in both. A rule keyed to 保's presence would fire on 守's own line. The two characters sit two lines apart at chapter 9 — 不可長**保** and 莫之能**守** — and nothing in this repository can tell one from the other there. See `shou-守.md`, `chi-持.md`, `zhi-執.md`.
 
 ### Left open
 

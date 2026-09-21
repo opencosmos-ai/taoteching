@@ -209,6 +209,15 @@
   check: concordance --formulas
   entry: process/principles/repeat-yourself.md
 
+- id: ruling-and-enforcement-are-two-facts
+  title: "Say which of an entry's rulings the build can hold, and which only the reader can"
+  trigger: "you are writing a lock line whose never-list includes a word that another character in the same chapters may legitimately print"
+  status: active
+  since: 2026-09-20
+  applies: [glossary, tooling]
+  check: none
+  entry: process/principles/ruling-and-enforcement-are-two-facts.md
+
 - id: supplied-verb-is-scaffolding
   title: "A supplied verb is scaffolding, not a character's English"
   trigger: "the Chinese object is a position or a place and your English needs a verb the Chinese does not print"

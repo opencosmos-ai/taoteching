@@ -12,7 +12,7 @@ pairing: false
 
 *Say "chr," rising. Three lines across three chapters — and the root of the whole field.*
 
-**Locked: 持 → "hold."** *(Never "grip," never "clutch.")*
+**Locked: 持 → "hold."** *(Never "grip," never "clutch." Never *grasp* either — but that one is a ruling no check can hold, and it has a section of its own below.)*
 
 ### The graph: a hand, and the word every other holding-word is defined by
 
@@ -56,7 +56,7 @@ Chapter 67 sets 持 beside 保 (*bǎo* — to keep safe) in a single line, 持�
 
 ### What no rule can enforce
 
-***"grasp"* is not on the forbidden list, and cannot be.** 執 stands with 持 in chapter 64, and *grasp* is 執's word there. A rule keyed to 持's presence would fire on 執's own line. Nor can *hold to* be reserved here: 守 (*shǒu*) stands with 持 in chapters 9 and 67. Three of the four holding characters meet on chapter 67's page — 持 · 保 · 守, with 寶 chiming against 保 — and the whole burden of keeping them apart falls on the entries and on the reader. See `zhi-執.md`, `shou-守.md`, `bao-保.md`.
+***"grasp"* is ruled out in the verse, and it is not on the `forbidden:` list, because it cannot be.** Those are two different facts: the ruling holds, and the enforcement does not exist. 執 stands with 持 in chapter 64, and *grasp* is 執's word there. A rule keyed to 持's presence would fire on 執's own line. Nor can *hold to* be reserved here: 守 (*shǒu*) stands with 持 in chapters 9 and 67. Three of the four holding characters meet on chapter 67's page — 持 · 保 · 守, with 寶 chiming against 保 — and the whole burden of keeping them apart falls on the entries and on the reader. See `zhi-執.md`, `shou-守.md`, `bao-保.md`.
 
 ### Left open
 

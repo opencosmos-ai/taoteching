@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-20
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,16 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-09-20 — 身 is locked, and two early chapters give up what they were hiding
+
+Pass E's second term family. 身 (*shēn* — body) stood twenty times across nine chapters and read **six** ways, and at chapter 9 it was not rendered at all. Settling it opened the two chapters that had been carrying the fault, and both turned out to owe more than the one character.
+
+- **身 → *body*, locked** — [`glossary/shen-身.md`](glossary/shen-身.md), the 48th entry. *Self* was refused because it belongs to 我/吾 and, at chapter 7, to 私 (*sī* — private interest), where 王弼 makes their difference the argument. One declared flexion: 終身 and 没身 mark the span of a life.
+- **Chapters 9 and 26 rebuilt.** Ch 9's spine is three characters for keeping — 持, 保, 守 — and the English had rendered one. Ch 26 turns on heavy against light, and 輕 had three Englishes while 天下 had been deleted from the chapter's central line.
+- **保 gains a declared flexion**, bare *keep* at chapter 9 — and the lock turned out never to have been tested there, because that verse rendered 保 nowhere and the ruling had been argued from the chapter's gloss table.
+- **A new principle: [*say which rulings the build can hold*](process/principles/ruling-and-enforcement-are-two-facts.md).** Four glossary entries carried a ruling no check can enforce; two stated it as though it were enforced and two omitted it entirely. Shalom found the first kind by reading. 28 principles now.
+- **T2-53 opened** — the calamity family, where *disaster* is currently worn by both 禍 and 凶.
 
 ## 2026-09-10 — The principles become a layer, and the oldest commentator is harvested
 
