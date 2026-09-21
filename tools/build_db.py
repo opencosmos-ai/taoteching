@@ -1050,8 +1050,9 @@ def print_report(cur, stats, align_stats):
 
 BASELINE = {
     "chapter": 81, "line": 798, "token": 5296, "character": 798,
-    "variant": 83, "verse_line": 855,   # 75 -> 82: the 韓非 harvest, 2026-09-10 (R1)
+    "variant": 84, "verse_line": 855,   # 75 -> 82: the 韓非 harvest, 2026-09-10 (R1)
                                         # 82 -> 83: ch 9 功遂 / 功成名遂, 2026-09-20
+                                        # 83 -> 84: ch 20 昏昏 / 若昏, 2026-09-20
                                         # verse 854 -> 855: ch 26's 奈何萬乘之主，
                                         # 而以身輕天下 set as its two segments, 2026-09-20
 }

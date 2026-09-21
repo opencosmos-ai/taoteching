@@ -41,6 +41,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"By not exalting the exceptional, the people have no cause to contend."
 3,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
 3,2,貨,huò,貨,goods,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
+3,3,亂,luàn,亂,disorder,NOT FOUND,1.0,exact-count,"By not displaying the desirable, the people's hearts are not disturbed."
 3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not disturbed."
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
@@ -241,8 +242,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,3,孝,xiào,慈,devotion,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
-18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When nations fall into chaos, loyal ministers appear."
-18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When nations fall into chaos, loyal ministers appear."
+18,4,亂,luàn,亂,disorder,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
+18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
+18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,孝,xiào,慈,devotion,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
@@ -264,7 +266,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,The crowd all have more than enough.
 20,14,心,xīn,心,heart,NOT FOUND,0.3,proportional,I alone seem to have missed out.
 20,14,我,Wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,I alone seem to have missed out.
-20,17,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,The worldly are bright. I alone am dark.
+20,17,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,The worldly are bright. I alone am clouded.
 20,19,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,"Calm, like the sea."
 20,21,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,The crowd all have something to use themselves for.
 20,22,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"I alone am stubborn, and look coarse."
@@ -558,6 +560,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 38,11,仁,rén,仁,humaneness,yes,0.3,proportional,"When integrity is lost, then humaneness."
 38,13,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"When duty is lost, then ritual."
 38,13,忠,zhōng,信,loyalty,NOT FOUND,0.3,proportional,"When duty is lost, then ritual."
+38,14,亂,luàn,亂,disorder,NOT FOUND,0.2,proportional-fill,"When duty is lost, then ritual."
 38,15,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Ritual is the thinning of loyalty and trust, and the head of disorder."
 38,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"This is why the great person dwells in the thick, not the thin,"
 39,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,These received the one long ago:
@@ -841,8 +844,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,and win the world by not meddling.
 57,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,How do I know it is so? By this:
 57,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The more taboos in the world, the poorer the people become."
-57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the darker the state becomes."
-57,6,器,qì,器,vessel / tool / implement,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the darker the state becomes."
+57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the more clouded the state becomes."
+57,6,器,qì,器,vessel / tool / implement,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the more clouded the state becomes."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more cunning people become, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
 57,10,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"I do not do, and the people transform themselves."
@@ -933,6 +936,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,7,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"Take much to be easy and much will be difficult. So the sage still finds it difficult,"
 63,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and in the end has no difficulty.
 64,1,持,chí,持,hold,yes,0.3,proportional,What is at rest is easy to hold. What shows no sign is easy to plan for.
+64,3,亂,luàn,亂,disorder,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
 64,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
 64,3,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
 64,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,The tree the width of both arms is born from a hair's tip.

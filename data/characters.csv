@@ -202,7 +202,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 門,mén,,apparatus-split,1/2,,,,5,5,"1,6,10,52,56",1,56,0.94,
 食,shí,,apparatus-split,1/2,,,,5,5,"20,24,53,75,80",20,80,0.94,
 驚,jīng,alarm,apparatus,3/4,,,,5,1,13,13,13,0.94,
-亂,luàn,,none,,,,,4,4,"3,18,38,64",3,64,0.76,
+亂,luàn,disorder,locked,,disorder,locked,,4,4,"3,18,38,64",3,64,0.76,glossary/luan-亂.md
 亡,wáng,perish,apparatus,1/1,,,,4,3,"33,41,44",33,44,0.76,
 保,bǎo,keep safe,locked,,keep safe,locked,preserve; safekeeping; maintain; hold on to; safeguard,4,4,"9,15,62,67",9,67,0.76,glossary/bao-保.md
 光,guāng,,none,,,,,4,4,"4,52,56,58",4,58,0.76,

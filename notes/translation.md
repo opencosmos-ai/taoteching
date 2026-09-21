@@ -2798,3 +2798,21 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **The English does not settle the commentators, and must not.** 王弼: 光而不耀, *"bright but not dazzling"* — the light present and unostentatious, and he quotes ch 58 to say so. 河上公: 明道之人若闇昧，無所見 — genuine obscurity, seeing nothing. *Murky* holds both: still light, and not seen through.
 
 **Still open in T2-54:** 昏 (*hūn*, 說文 日冥也 — the sun gone down) reads *dark* at ch 20's 我獨昏, so two characters still share 玄's word. And **昧 is settled but unlocked**, so the atlas keeps publishing the pre-lock gloss — the same debt T2-40 carries for 混.
+
+---
+
+## 昏 (*hūn*) → *clouded* — and 玄 gets its word back
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-54, closed.)*
+
+昏 stood in three chapters and read two ways, one of them 玄's: *dark* at ch 20 (我獨昏昏) and ch 57 (國家滋昏), and **not rendered at all** at ch 18, where 國家昏亂 came out as *"nations fall into chaos"* with both characters inside one English word. All three are now **clouded**.
+
+**說文: 日冥也。从日氐省。氐者，下也** — *"the sun gone dark; from 日 (the sun) and an abbreviated 氐, and 氐 means below."* **The sun under the line.** 昏 is dusk, and its other senses — muddle-headed, a state in disarray — are extensions of failing light.
+
+**The trade, named.** *Clouded* is atmospheric where 昏 is **temporal**; it loses the hour. **Benighted** keeps the hour exactly — *overtaken by night* is 日冥 in one English word — and was declined because in modern English it is a verdict, and a Victorian one, so it would have Laozi condemning himself at ch 20 where the tone is rueful. `no-verdict-the-chinese-lacks` and `imported-register` both fire on it. *Dim* is 和 and 冥, *dull* is 悶悶 **in the next line of the same chapter**, *muddled* is 沌沌 **nine lines above**, *murky* is now 昧's. 雲 (*yún* — cloud) occurs nowhere in the book, so *clouded* was free.
+
+**河上公 glosses 昏 at ch 20 with 闇昧, the same compound he used for 昧 at ch 41.** The two characters name nearly one state for him, so the English keeps them a step apart rather than identical — *clouded* against *murky*.
+
+**The result is the reverse check going clean.** `--english "dark"` was ten lines, six backed by 玄 and four not. It is now **six lines, six backed**: 玄 has 玄之又玄, 玄牝 and 玄德 to itself, and no reader will hear the book's deepest word in a chapter that does not contain it. One fork logged at ch 20.
+
+**Opened by this: T2-55, 亂.** Rendering 昏 at ch 18 exposed 亂 (*luàn*), which had been carrying both characters. It reads four ways in four lines and now has an entry — `glossary/luan-亂.md`, recommending *disorder* against *chaos*, `status: open` pending 治 (*zhì*).

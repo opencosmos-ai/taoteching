@@ -199,7 +199,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 18,1,0,大道廢，有仁義；,"Dà dào fèi, yǒu rén yì;","The Great \[da\] Tao \[dao\] is abandoned/abolished \[fei\], there is \[you\] benevolence \[ren\] and righteousness \[yi\];","When the great Tao is discarded, humaneness and duty appear.",exact-count
 18,2,0,智慧出，有大偽；,"Zhì huì chū, yǒu dà wěi;","Wisdom/cleverness \[zhi\] and intelligence \[hui\] emerge \[chu\], there is \[you\] great \[da\] hypocrisy/falseness \[wei\];","When cleverness and erudition arise, great hypocrisy appears.",exact-count
 18,3,0,六親不和，有孝慈；,"Liù qīn bù hé, yǒu xiào cí;","The six \[liu\] relations/kin \[qin\] are not \[bu\] harmonious \[he\], there is \[you\] filial piety \[xiao\] and deep love/compassion \[ci\];","When kin are out of harmony, devotion and tenderness appear.",exact-count
-18,4,0,國家昏亂，有忠臣。,"Guó jiā hūn luàn, yǒu zhōng chén.","The state \[guo\] and family/nation \[jia\] are dark/chaotic \[hun luan\], there are \[you\] loyal \[zhong\] ministers/officials \[chen\].","When nations fall into chaos, loyal ministers appear.",exact-count
+18,4,0,國家昏亂，有忠臣。,"Guó jiā hūn luàn, yǒu zhōng chén.","The state \[guo\] and family/nation \[jia\] are dark/chaotic \[hun luan\], there are \[you\] loyal \[zhong\] ministers/officials \[chen\].","When nations grow clouded and fall into chaos, loyal ministers appear.",exact-count
 19,1,1,絕聖棄智，民利百倍；,"Jué shèng qì zhì, mín lì bǎi bèi;","Sever/cut off \[jue\] sageliness \[sheng\], abandon/discard \[qi\] wisdom/cleverness \[zhi\], the people \[min\] benefit \[li\] a hundred \[bai\] fold \[bei\];","Cut off sagehood, abandon cleverness, and the people benefit a hundredfold.",exact-count
 19,2,1,絕仁棄義，民復孝慈；,"Jué rén qì yì, mín fù xiào cí;","Sever \[jue\] benevolence \[ren\], abandon \[qi\] righteousness \[yi\], the people \[min\] revert/return \[fu\] to filial piety \[xiao\] and deep love \[ci\];","Cut off humaneness, abandon duty, and the people return to devotion and tenderness.",exact-count
 19,3,1,絕巧棄利，盜賊無有。,"Jué qiǎo qì lì, dào zéi wú yǒu.","Sever \[jue\] skill/cunning \[qiao\], abandon \[qi\] profit/gain \[li\], thieves \[dao\] and robbers \[zei\] will not exist \[wu you\].","Cut off cunning, abandon profit, and there are no thieves.",exact-count
@@ -223,7 +223,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 20,14,3,我愚人之心也哉！,Wǒ yú rén zhī xīn yě zāi\!,My \[wo\] mind/heart \[xin\] is that of a fool \[yu ren\] alas \[ye zai\]\!,I alone seem to have missed out.,proportional
 20,15,3,沌沌兮！,Dùn dùn xī\!,Muddled/confused \[dun dun\] oh \[xi\]\!,I have the heart of a fool!,proportional
 20,16,3,俗人昭昭，,"Sú rén zhāo zhāo,","Ordinary/vulgar people \[su ren\] are clear/bright \[zhao zhao\],",How muddled!,proportional
-20,17,3,我獨昏昏。,wǒ dú hūn hūn.,I \[wo\] alone \[du\] am dark/murky \[hun hun\].,The worldly are bright. I alone am dark.,proportional
+20,17,3,我獨昏昏。,wǒ dú hūn hūn.,I \[wo\] alone \[du\] am dark/murky \[hun hun\].,The worldly are bright. I alone am clouded.,proportional
 20,18,3,俗人察察，,"Sú rén chá chá,","Ordinary people \[su ren\] are sharp/discriminating \[cha cha\],",The worldly are sharp. I alone am dull.,proportional
 20,19,3,我獨悶悶。,wǒ dú mèn mèn.,I \[wo\] alone \[du\] am dull/depressed \[men men\].,"Calm, like the sea.",proportional
 20,20,4,澹兮，其若海；,"Dàn xī, qí ruò hǎi;","Tranquil/drifting \[dan\] oh \[xi\], like \[ruo\] the sea \[hai\];","Blown along, as if never stopping.",proportional
@@ -614,7 +614,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win the world by not meddling.,exact-count
 57,4,1,吾何以知其然哉？以此：,Wú hé yǐ zhī qí rán zāi? Yǐ cǐ:,How do I know it is so? By this:,How do I know it is so? By this:,exact-count
 57,5,2,天下多忌諱，而民彌貧；,"Tiān xià duō jì huì, ér mín mí pín;","The more taboos/restrictions in the world, the poorer the people become;","The more taboos in the world, the poorer the people become.",exact-count
-57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more sharp weapons the people have, the darker the state becomes.",exact-count
+57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more sharp weapons the people have, the more clouded the state becomes.",exact-count
 57,7,2,人多伎巧，奇物滋起；,"Rén duō jì qiǎo, jī wù zī qǐ;","The more skill/cunning the people have, the more strange things arise;","The more cunning people become, the more strange contrivances appear.",exact-count
 57,8,2,法令滋彰，盜賊多有。,"Fǎ lìng zī zhāng, dào zéi duō yǒu.","The more laws and decrees are made prominent, the more thieves and robbers there are.","The more laws are proclaimed, the more thieves there are.",exact-count
 57,9,3,故聖人云：,Gù shèng rén yún:,Therefore the Sage says:,Therefore the sage says:,exact-count

@@ -320,6 +320,14 @@
   status: locked
   entry: glossary/huo-貨.md
 
+- term: "亂"
+  pinyin: "luàn"
+  render: "disorder"
+  forbidden: []
+  chapters: [3, 18, 38, 64]
+  status: open
+  entry: glossary/luan-亂.md
+
 - term: "保"
   pinyin: "bǎo"
   render: "keep safe"

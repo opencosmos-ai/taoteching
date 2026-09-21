@@ -72,6 +72,14 @@ We follow the second, on three grounds. **(1) The parallel with Chapter 37** is 
 
 ## Witness forks
 
+### Ch 20 · 昏昏 / 若昏 — a doubled state, or a simile
+
+We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone am clouded."* **The Siku compilers note on 王弼**: 〔案昏昏**河上公注本作若昏**〕, and our vendored 河上公 (*Héshàng Gōng*) prints 我獨**若昏**, *"I alone am **as if** 昏."*
+
+**The fork is 若 (*ruò* — as if), and it changes the grammar of the confession.** Our base gives a doubled adjective, a state; his gives a simile, a resemblance. **The chapter is built on reduplication** — 昭昭, 察察, 悶悶, 沌沌 all stand in the same passage — so the doubled form is the one that matches the pattern the chapter sets, and we keep it.
+
+Worth noting what he does next: having softened the text to *as if*, 河上公 glosses it **如闇昧也**, *"like 闇昧"* — and restores by commentary the flatness his reading had taken out. `sources/variants.yaml`.
+
 ### Ch 9 · 功遂 / 功成名遂 — how many things are finished before the body withdraws
 
 We print 功遂身退，天之道 — *"the work done, the body withdraws; this is the way of nature."* **The Siku compilers attach a collation note to their own 王弼 (*Wáng Bì*) text**: 〔案**河上公注本及各本俱作功成名遂身退**〕 — *"Heshang Gong's commentary text and all editions read 功成名遂身退."* Our vendored 河上公 prints the longer lemma, and glosses it 言人所為功成事立，**名迹稱遂**，不退身避位則遇於害.

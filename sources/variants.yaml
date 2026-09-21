@@ -378,6 +378,22 @@
     are finished before the body withdraws.
   logged: notes/manuscript.md
 
+- chapter: 20
+  line: "俗人昭昭，我獨昏昏"
+  base: "昏昏"
+  witnesses: { heshanggong: "若昏" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku editors attach the note 案昏昏河上公注本作若昏 to 王弼's text, and our
+    vendored 河上公 prints 我獨若昏. Our base doubles the character — a
+    reduplicated state, matching 昭昭, 察察, 悶悶 and 沌沌 elsewhere in the
+    chapter — where his reads 若 (ruò — as if), hedging it into a simile. The
+    chapter is built on reduplication, so the doubled form is the one that fits
+    its own pattern, and we keep the base. 河上公 then glosses his own shorter
+    reading 如闇昧也, which restores by commentary the force his text softened.
+  logged: notes/manuscript.md
+
 - chapter: 26
   line: "君子終日行不離輜重"
   base: "君子"

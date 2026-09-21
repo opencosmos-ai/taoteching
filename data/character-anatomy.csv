@@ -178,7 +178,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 止,zhǐ,stopping point,,止,exact,止,pictograph,,,,5,,0.0361,下基也。象艸木出有址，故以止爲足。凡止之屬皆从止。,
 入,rù,,,入,exact,入,pictograph,,,,4,,0.036,内也。象从上俱下也。凡入之屬皆从入。,
 獨,dú,alone,,獨,exact,犬,phonetic-compound,,犬 (quǎn = not yet glossed),蜀 (shǔ = a caterpillar),7,,0.0359,犬相得而鬬也。从犬蜀聲。羊爲羣，犬爲獨也。一曰北嚻山有獨𤞞獸，如虎，白身，豕鬣，尾如馬。,
-亂,luàn,,,亂,exact,乙,compound,,乙 (? = not yet glossed) + 𤔔 (? = not yet glossed),,4,,0.0358,治也。从乙，乙，治之也；从𤔔。,
+亂,luàn,disorder,disorder,亂,exact,乙,compound,,乙 (? = not yet glossed) + 𤔔 (? = not yet glossed),,4,locked,0.0358,治也。从乙，乙，治之也；从𤔔。,
 及,Jí,,,及,exact,又,compound,,又 (yòu = not yet glossed) + 人 (rén = ),,4,,0.0358,逮也。从又从人。,
 棄,qì,abandon,,棄,exact,𠦒,compound,,廾 (gǒng = two hands raised together) + 推 (tuī = not yet glossed) + 𠦒 (? = not yet glossed) + 棄 (qì = abandon) + 之 (zhī = it) + 𠫓 (? = not yet glossed),,6,,0.0354,捐也。从廾推𠦒棄之，从𠫓。𠫓，逆子也。,
 過,guo,,,過,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",咼 (? = not yet glossed),4,,0.035,度也。从辵咼聲。,
