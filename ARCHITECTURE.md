@@ -11,7 +11,7 @@
 Five things, and the first is the one to remember:
 
 1. **If a command can rebuild it, never edit it by hand.** Three directories are edited by hand and hold the truth — `chapters/`, `glossary/`, and the YAML in `sources/`. Everything else, including the vendored commentaries, is generated and can be deleted and rebuilt.
-2. **A glossary entry is both an essay and a machine-readable rule.** Its YAML frontmatter names the locked English and the forbidden alternatives; a build step turns that into `glossary/terms.yaml`, which the checker reads.
+2. **A glossary entry is both an essay and a machine-readable rule.** Its YAML frontmatter names the locked English, the **flexions** — secondary Englishes scoped to named chapters — and the forbidden alternatives; a build step turns that into `glossary/terms.yaml`, which the checker reads.
 3. **The checker never fires on English alone.** A forbidden word is an error only when the Chinese character licensing it is present in *that same chapter's* source table. This is the design decision that makes the tool trustworthy enough to gate on.
 4. **Two tools, opposite contracts.** `check_locks.py` optimizes precision and fails the build; `concordance.py` optimizes recall, judges nothing, and never fails.
 5. **Every override is recorded and costs something** — one finding waived by a `lock-ok` comment carrying a reason, or a whole rule set aside in `process/shaloms-call.md` with an expiry. An unused waiver is itself an error, so the files self-clean.
@@ -22,7 +22,8 @@ Five things, and the first is the one to remember:
   │   chapters/001-081.md        glossary/*.md            sources/*.yaml       │
   │     verse                      essay                     variants.yaml     │
   │     source table               frontmatter               guodian-inventory │
-  │     notes, frontmatter          (render, forbidden)      component-glosses │
+  │     notes, frontmatter        (render, flexions,         component-glosses │
+  │                                forbidden)                                  │
   └────────┬───────────────────────────┬──────────────────────────┬────────────┘
            │                           │                          │
            ├───────────────────────────┼──────────────────────────┤
@@ -87,7 +88,7 @@ Five things, and the first is the one to remember:
 | | Owns | Shape |
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
-| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render` and `forbidden`. | 35 entries, 13 secondary characters |
+| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 48 entries, 14 secondary characters |
 | **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
@@ -109,8 +110,10 @@ This is the operational heart of the system. A question about one character beco
 2. RULING        glossary/<pinyin>-<char>.md    the essay: graph, commentators, rejected
                         │                        candidates, the flexions, what stays open
                         │
-3. FRONTMATTER   render: "strong"                the machine-readable shadow of the essay
-                 forbidden: ["mighty", …]
+3. FRONTMATTER   render: "keep safe"              the machine-readable shadow of the essay
+                 flexions: [{english: "keep",   a flexion is DATA: the "where" is a chapter
+                   chapters: [9], why: "…"}]    a tool can check, the "why" a sentence for
+                 forbidden: ["preserve", …]     the reader. Never prose inside render:
                         │
 4. GENERATE      build_index.py                  → glossary/terms.yaml  (the locks, as data)
                         │                        → glossary/INDEX.md    (the human lookup)
@@ -198,7 +201,7 @@ CI additionally runs the tools' own tests (95 of them) and verifies the verse's 
 
 ---
 
-## The twelve rules
+## The thirteen rules
 
 | Rule | Protects | Severity |
 |---|---|---|
@@ -207,6 +210,7 @@ CI additionally runs the tools' own tests (95 of them) and verifies the verse's 
 | `devotional-capitalization` | lowercase everything but the Tao; capitals turn a word into a doctrine | **error** when the character is present; `info` otherwise |
 | `mechanistic-register` | "source code", "operating system", "generate" — our own besetting temptation | **error** |
 | `status-coherence` | `status: drafted` must mean there is a translation | **error** |
+| `flexion-chapter` | a declared flexion must name chapters its character actually stands in, must name some, and must not also be forbidden | **error** |
 | `source-drift` | a chapter's Chinese must match `source/chinese.md` | **error** |
 | `repeated-formula` | verbatim Chinese in two chapters should read alike in English | **warn** — a reading for a person, not a verdict |
 | `em-dash` | dashes in the verse strand subjects | `info` |

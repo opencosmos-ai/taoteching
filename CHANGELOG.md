@@ -43,6 +43,14 @@ Pass E's second term family. 身 (*shēn* — body) stood twenty times across ni
 - **A new principle: [*say which rulings the build can hold*](process/principles/ruling-and-enforcement-are-two-facts.md).** Four glossary entries carried a ruling no check can enforce; two stated it as though it were enforced and two omitted it entirely. Shalom found the first kind by reading. 28 principles now.
 - **T2-53 opened** — the calamity family, where *disaster* is currently worn by both 禍 and 凶.
 
+**And the flexions became data**, which the 保 decision exposed as a gap. A lock's secondary Englishes had been prose inside `render:` — *"keep safe — and bare keep where the object is not cherished (ch 9 alone)"* — a sentence in a YAML string that **no tool could read.**
+
+- **`flexions: [{ english, chapters, why }]`** — the *where* is a chapter a tool checks, the *why* stays a sentence for the reader. Seven locks converted: 保 · 執 · 守 · 身 · 一 · 王 · 極. Only where the condition is a **chapter**; a sense varying by grammar stays prose, because there is nothing to check. The contract is in [`CLAUDE.md`](CLAUDE.md) and the [glossary-entry skill](process/skills/glossary-entry/SKILL.md), the schema in [`ARCHITECTURE.md`](ARCHITECTURE.md).
+- **What it was costing.** `concordance.py --english` could not tell a licensed flexion from a breach, and `data/locked-renderings.csv` printed `NOT FOUND` on **36 lines a flexion existed to license** — including both flexed characters in the chapter rebuilt the same day.
+- **A thirteenth rule, `flexion-chapter`**, and a **refusal with its own test**: nothing checks whether a flexion's English appears *outside* its chapters, because inflection and insertion make that the thin-translation trap declined as T5-1. 144 tests.
+- **A second principle: [*the scope goes in a field, the reason goes in prose*](process/principles/scope-is-data-reason-is-prose.md).** The repository had been doing this twice already without saying so — `until:` in a `shaloms-call`, `meaning_bearing:` in the variant apparatus — and the flexions were the third case, written the wrong way. 29 principles.
+- **T2-46 closed, and it drew the boundary from the other side.** 明's four grammatical forms were unlicensed by its frontmatter while its own *working register* had listed them for months — but they stayed **prose**, because 明 predicates wherever it predicates. The entry also rendered 道 as *path* in three places, locked untranslated: **the file defining one lock was breaching another.**
+
 ## 2026-09-10 — The principles become a layer, and the oldest commentator is harvested
 
 Rules had been getting written down where they were discovered — as the last paragraph of a chapter note, a thousand lines into `notes/translation.md` — and the next person to need one had no reason to be reading that chapter. One of them carried a heading that read *"and that is a standing principle"* and had still never moved anywhere.
