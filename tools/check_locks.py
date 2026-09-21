@@ -276,6 +276,50 @@ def rule_status_coherence(chapters, **_):
     return out
 
 
+def rule_flexion_chapter(chapters, terms, **_):
+    """A declared flexion must name chapters its character actually stands in.
+
+    Flexions are the one place a lock says "this other English, but only here,"
+    so the "here" has to be checkable — that is the whole reason they are data
+    and not a sentence inside `render:`. Two ways to get it wrong, both cheap
+    to catch and neither capable of a false positive:
+
+      * the flexion names a chapter the character is absent from, so the
+        licence points at nothing;
+      * the flexion's English is also on the term's own forbidden list, which
+        would have the build fighting the entry.
+
+    Deliberately NOT checked: whether the flexion's English appears outside its
+    chapters. Inflection and insertion make that unanswerable — 保's *keep safe*
+    reads "keep the Tao safe" at ch 15 and "keeps safe those who are not" at 62,
+    so a scan for the bare string finds legitimate lines everywhere. That is the
+    thin-translation trap, prototyped and declined at ~90% false positives
+    (WORKLIST T5-1), and this checker's whole value is that it never cries wolf.
+    """
+    present = {ch.number for ch in chapters}
+    out = []
+    for t in terms:
+        for f in t.flexions:
+            eng = f.get("english", "")
+            if not f.get("chapters"):
+                out.append(Finding("flexion-chapter", ERROR, 0, 1,
+                                   f'{t.term}: flexion "{eng}" names no chapters — '
+                                   f"a flexion scoped to nowhere is a second render",
+                                   "", t.entry, {"flexion-chapter"}))
+            for n in f.get("chapters", []):
+                if n in present and n not in t.chapters:
+                    out.append(Finding("flexion-chapter", ERROR, n, 1,
+                                       f'{t.term}: flexion "{eng}" is licensed at ch {n}, '
+                                       f"but {'/'.join(t.characters)} is not in that chapter",
+                                       "", t.entry, {"flexion-chapter"}))
+            if any(eng.lower() == x.lower() for x in t.forbidden):
+                out.append(Finding("flexion-chapter", ERROR, 0, 1,
+                                   f'{t.term}: "{eng}" is both a declared flexion and '
+                                   f"forbidden — the entry contradicts itself",
+                                   "", t.entry, {"flexion-chapter"}))
+    return out
+
+
 def rule_source_drift(chapters, **_):
     """source/chinese.md is derived. This is what keeps that claim honest."""
     base = load_base_text()
@@ -568,6 +612,7 @@ RULES = {
     "devotional-capitalization": rule_devotional_capitalization,
     "mechanistic-register": rule_mechanistic_register,
     "status-coherence": rule_status_coherence,
+    "flexion-chapter": rule_flexion_chapter,
     "source-drift": rule_source_drift,
     "repeated-formula": rule_repeated_formula,
     "em-dash": rule_em_dash,

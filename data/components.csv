@@ -13,7 +13,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 土,tǔ,,semantic,not yet glossed — see sources/component-glosses.yaml,13,"在,地,均,坐,垢,埏,埴,基,堂,堅,塞,里,金"
 彳,chì,a step taken; going,semantic,glossed,13,"彼,往,後,徐,徑,得,御,復,微,德,徹,徼,行"
 攴,pū,a hand striking — action done to something,semantic,glossed,13,"徹,改,攻,政,故,救,敗,教,敝,敦,敵,數,畋"
-一,yī,the one (lowercase) · one thing (ch 22) · plain numeral where it counts,semantic,glossed,12,"不,二,兩,士,天,寸,日,甘,百,立,至,音"
+一,yī,the one (lowercase) · plain numeral where it counts,semantic,glossed,12,"不,二,兩,士,天,寸,日,甘,百,立,至,音"
 日,rì,day,semantic,glossed,11,"冥,早,昏,昧,昭,是,時,晚,普,曠,莫"
 糸,mì,silk thread,semantic,glossed,11,"紀,約,紛,素,細,終,結,絕,繟,繩,纇"
 在,zài,place in,semantic,glossed,10,"光,前,央,字,安,寒,早,莫,辯,辱"
@@ -341,7 +341,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 孚,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,甲
 孝,xiào,devotion,semantic,glossed,1,教
 孟,,,phonetic,"no gloss needed: present for sound, not meaning",1,猛
-守,shǒu,hold to — and *guard* where what is kept is ground or property,semantic,glossed,1,負
+守,shǒu,hold to,semantic,glossed,1,負
 宮,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,營
 害,hai,,phonetic,"no gloss needed: present for sound, not meaning",1,割
 寍,,,phonetic,"no gloss needed: present for sound, not meaning",1,寧
@@ -440,7 +440,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 牙,,,phonetic,"no gloss needed: present for sound, not meaning",1,邪
 犮,,,phonetic,"no gloss needed: present for sound, not meaning",1,拔
 猒,,,phonetic,"no gloss needed: present for sound, not meaning",1,厭
-王,wáng,ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb),semantic,glossed,1,寶
+王,wáng,ruler / sovereign · to rule (verb),semantic,glossed,1,寶
 瓜,,,phonetic,"no gloss needed: present for sound, not meaning",1,孤
 甘,gān,,semantic,not yet glossed — see sources/component-glosses.yaml,1,甚
 甚,shèn,,phonetic,the apparatus glosses this character several ways and none won a majority,1,湛

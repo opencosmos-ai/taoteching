@@ -1,7 +1,9 @@
 ---
 term: "保"
 pinyin: "bǎo"
-render: "keep safe — and bare *keep* where the object is not cherished (ch 9 alone)"
+render: "keep safe"
+flexions:
+  - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
 forbidden: ["preserve", "safekeeping", "maintain", "hold on to", "safeguard"]
 chapters: [9, 15, 62, 67]
 status: locked

@@ -541,3 +541,107 @@ class TheCorpusItself(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class FlexionChapter(unittest.TestCase):
+    """A flexion is a lock saying "this other English, but only here."
+
+    The "only here" is the whole reason flexions are data rather than a
+    sentence inside `render:`, so it has to be checkable. These are the three
+    ways it can be wrong, and the one way it must not be checked.
+    """
+
+    def _term(self, flexions, chapters=(9,), forbidden=()):
+        return Term(term="保", pinyin="bao", render="keep safe",
+                    forbidden=list(forbidden), chapters=list(chapters),
+                    status="locked", entry="glossary/bao-保.md",
+                    flexions=flexions)
+
+    def run_rule(self, t, chapter_numbers=(9, 44)):
+        chs = [chapter(n, "a line", "保") for n in chapter_numbers]
+        return C.rule_flexion_chapter(chapters=chs, terms=[t])
+
+    def test_licensed_chapter_the_character_is_in_is_clean(self):
+        t = self._term([{"english": "keep", "chapters": [9], "why": "x"}])
+        self.assertEqual(self.run_rule(t), [])
+
+    def test_licensed_chapter_the_character_is_absent_from_fires(self):
+        """The ch 9 flexion pointed at ch 44, where 保 does not stand."""
+        t = self._term([{"english": "keep", "chapters": [44], "why": "x"}])
+        found = self.run_rule(t)
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0].chapter, 44)
+        self.assertIn("not in that chapter", found[0].message)
+
+    def test_flexion_with_no_chapters_fires(self):
+        """A flexion scoped to nowhere is just a second render, unpoliced."""
+        t = self._term([{"english": "keep", "chapters": [], "why": "x"}])
+        self.assertEqual(len(self.run_rule(t)), 1)
+
+    def test_flexion_that_is_also_forbidden_fires(self):
+        """The build and the entry must not contradict each other."""
+        t = self._term([{"english": "keep", "chapters": [9], "why": "x"}],
+                       forbidden=["keep"])
+        found = self.run_rule(t)
+        self.assertEqual(len(found), 1)
+        self.assertIn("contradicts itself", found[0].message)
+
+    def test_a_chapter_outside_the_corpus_is_not_judged(self):
+        """The rule compares against chapters that were actually loaded, so a
+        --staged run over one file cannot invent findings about the rest."""
+        t = self._term([{"english": "keep", "chapters": [62], "why": "x"}])
+        self.assertEqual(self.run_rule(t, chapter_numbers=(9,)), [])
+
+    def test_the_english_outside_its_chapters_is_deliberately_not_checked(self):
+        """The trap this rule refuses to walk into.
+
+        保's own *keep safe* reads "keep the Tao safe" (15) and "keeps safe
+        those who are not" (62), so scanning for the bare flexion string finds
+        legitimate lines everywhere. T5-1 was declined at ~90% false positives
+        for exactly this; check_locks.py must never cry wolf.
+        """
+        t = self._term([{"english": "keep", "chapters": [9], "why": "x"}])
+        chs = [chapter(9, "it will not keep for long", "保"),
+               chapter(15, "Those who keep the Tao safe", "保")]
+        self.assertEqual(C.rule_flexion_chapter(chapters=chs, terms=[t]), [])
+
+
+class FlexionsAreData(unittest.TestCase):
+    """The parser and the Term model, which the rule and --english both rest on."""
+
+    def test_licenses_is_true_for_the_primary_render_everywhere(self):
+        t = Term(term="保", pinyin="bao", render="keep safe", forbidden=[],
+                 chapters=[9, 15], status="locked", entry="e",
+                 flexions=[{"english": "keep", "chapters": [9], "why": ""}])
+        self.assertTrue(t.licenses("keep safe", 15))
+        self.assertTrue(t.licenses("anything unrelated", 62))
+
+    def test_licenses_is_false_for_a_flexion_outside_its_chapters(self):
+        t = Term(term="保", pinyin="bao", render="keep safe", forbidden=[],
+                 chapters=[9, 15], status="locked", entry="e",
+                 flexions=[{"english": "keep", "chapters": [9], "why": ""}])
+        self.assertTrue(t.licenses("keep", 9))
+        self.assertFalse(t.licenses("keep", 15))
+
+    def test_frontmatter_reads_flexions_and_covers_side_by_side(self):
+        from lib.corpus import parse_frontmatter
+        fm = parse_frontmatter(
+            '---\n'
+            'term: "保"\n'
+            'render: "keep safe"\n'
+            'flexions:\n'
+            '  - { english: "keep", chapters: [9], why: "not cherished" }\n'
+            'covers:\n'
+            '  - { char: "寶", render: "treasure" }\n'
+            'status: locked\n'
+            '---\n'
+        )
+        self.assertEqual(fm["flexions"],
+                         [{"english": "keep", "chapters": [9], "why": "not cherished"}])
+        self.assertEqual(fm["covers"], [("寶", "treasure")])
+        self.assertEqual(fm["status"], "locked")
+
+    def test_an_entry_with_no_flexions_gets_an_empty_list(self):
+        from lib.corpus import parse_frontmatter
+        fm = parse_frontmatter('---\nterm: "德"\nrender: "integrity"\n---\n')
+        self.assertEqual(fm["flexions"], [])

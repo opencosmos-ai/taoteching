@@ -1,7 +1,9 @@
 ---
 term: "王"
 pinyin: "wáng"
-render: "ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb)"
+render: "ruler / sovereign · to rule (verb)"
+flexions:
+  - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
 forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]
 chapters: [16, 25, 32, 37, 39, 42, 66, 78]
 status: locked

@@ -114,12 +114,25 @@ covers:
 |---|---|
 | `term` | the character(s); pairings use `"我 & 吾"` |
 | `pinyin` | with tone marks; pairings use `"wǒ / wú"` |
-| `render` | the locked English, slashes for licensed flexions |
+| `render` | the primary locked English. Slashes for senses that vary by grammar |
+| `flexions` | a secondary English **scoped to named chapters** — data, not prose. See below |
 | `forbidden` | rejected renderings — feeds the future lock checker |
 | `chapters` | recomputed automatically on build; put your best list in |
 | `status` | `locked` or `open` |
 | `pairing` | `true` if the meaning lives between two characters |
 | `covers` | secondary characters treated inside this entry |
+
+**Flexions go in `flexions:`, never in a sentence inside `render:`.**
+
+```yaml
+render: "keep safe"
+flexions:
+  - { english: "keep", chapters: [9], why: "the object is not cherished" }
+```
+
+The **where** is a chapter list a tool can check; the **why** is a sentence for the reader. `check_locks.py`'s `flexion-chapter` rule verifies the licence points at a chapter the character stands in, and `concordance.py --english "keep"` then reports it as a declared flexion with its scope instead of looking like a breach.
+
+**Use it only where the condition is a chapter.** A sense that varies by grammar — adjective against verb, or a verb that takes an object — stays prose in `render:`, because there is nothing for a tool to check and inventing a chapter list would be making a decision rather than recording one.
 
 **Filename:** `pinyin-字.md`, no tone marks — `xin-心.md`, `wu-you-無有.md`.
 
@@ -132,6 +145,8 @@ python3 tools/build_index.py
 ```
 
 Regenerates `glossary/INDEX.md` and `glossary/terms.yaml`. **Never edit those by hand.**
+
+**If you changed `render:`, `flexions:` or `forbidden:`, grep the repo for the old English beside the term and reconcile every hit.** A lock's English is authored here and *restated in prose* across `notes/`, `WORKLIST.md` and the chapter notes, and **no check compares them** — so a change here silently leaves stale copies behind. This is measured: the 保 flexion of 2026-09-20 updated three places and left three saying the old thing, including a glossary entry asserting an English its own chapter had just stopped using.
 
 The frontmatter's `forbidden:` list becomes a live check the moment you run this — `tools/check_locks.py` reads `terms.yaml` and needs no code change to enforce a new lock. Two things follow, so write the list with care:
 

@@ -129,19 +129,23 @@
 
 - term: "身"
   pinyin: "shēn"
-  render: "body — and *the end of your days* in the lifespan compounds 終身 / 没身"
+  render: "body"
   forbidden: ["spirit", "soul", "the ego", "the separate self"]
   chapters: [7, 9, 13, 16, 26, 44, 52, 54, 66]
   status: locked
   entry: glossary/shen-身.md
+  flexions:
+    - { english: "to the end of your days", chapters: [16, 52], why: "the lifespan compounds 終身 and 没身, where 身 marks the span of a life" }
 
 - term: "一"
   pinyin: "yī"
-  render: "the one (lowercase) · one thing (ch 22) · plain numeral where it counts"
+  render: "the one (lowercase) · plain numeral where it counts"
   forbidden: ["the One", "Oneness", "the Absolute"]
   chapters: [10, 11, 14, 22, 25, 39, 42, 67]
   status: locked
   entry: glossary/yi-一.md
+  flexions:
+    - { english: "one thing", chapters: [22], why: "抱一 takes 一 as the object embraced, not as the name of the Tao" }
 
 - term: "信"
   pinyin: "xìn"
@@ -154,28 +158,34 @@
 
 - term: "守"
   pinyin: "shǒu"
-  render: "hold to — and *guard* where what is kept is ground or property"
+  render: "hold to"
   forbidden: ["embrace", "attune", "stay with", "cleave to", "preserve", "abide in"]
   chapters: [5, 9, 16, 28, 32, 37, 52, 67]
   status: locked
   entry: glossary/shou-守.md
+  flexions:
+    - { english: "guard", chapters: [9, 67], why: "what is kept is ground or property, not a stance" }
 
 - term: "王"
   pinyin: "wáng"
-  render: "ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb)"
+  render: "ruler / sovereign · to rule (verb)"
   forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]
   chapters: [16, 25, 32, 37, 39, 42, 66, 78]
   status: locked
   entry: glossary/wang-王.md
+  flexions:
+    - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
   # covers 侯 -> ruler (inside 侯王)
 
 - term: "執"
   pinyin: "zhí"
-  render: "grasp — and *seize* at ch 74, where the seizing is an arrest"
+  render: "grasp"
   forbidden: ["cling", "clinging", "attachment", "embody", "control", "possess"]
   chapters: [14, 29, 35, 64, 69, 74, 79]
   status: locked
   entry: glossary/zhi-執.md
+  flexions:
+    - { english: "seize", chapters: [74], why: "the seizing is an arrest, which is the dictionary headword: 捕罪人也" }
 
 - term: "天地"
   pinyin: "tiān dì"
@@ -270,11 +280,13 @@
 
 - term: "極"
   pinyin: "jí"
-  render: "the far end — where a thing runs out · the endless (無極)"
+  render: "the far end — where a thing runs out"
   forbidden: ["limitless", "absolute", "ultimate", "infinite", "extreme", "utmost"]
   chapters: [16, 28, 58, 59, 68]
   status: open
   entry: glossary/ji-極.md
+  flexions:
+    - { english: "the endless", chapters: [28], why: "the compound 無極, where the negation turns the limit into its absence" }
 
 - term: "母"
   pinyin: "mǔ"
@@ -310,11 +322,13 @@
 
 - term: "保"
   pinyin: "bǎo"
-  render: "keep safe — and bare *keep* where the object is not cherished (ch 9 alone)"
+  render: "keep safe"
   forbidden: ["preserve", "safekeeping", "maintain", "hold on to", "safeguard"]
   chapters: [9, 15, 62, 67]
   status: locked
   entry: glossary/bao-保.md
+  flexions:
+    - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
 
 - term: "公"
   pinyin: "gōng"

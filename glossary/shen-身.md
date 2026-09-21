@@ -1,7 +1,9 @@
 ---
 term: "身"
 pinyin: "shēn"
-render: "body — and *the end of your days* in the lifespan compounds 終身 / 没身"
+render: "body"
+flexions:
+  - { english: "to the end of your days", chapters: [16, 52], why: "the lifespan compounds 終身 and 没身, where 身 marks the span of a life" }
 forbidden: ["spirit", "soul", "the ego", "the separate self"]
 chapters: [7, 9, 13, 16, 26, 44, 52, 54, 66]
 status: locked

@@ -102,16 +102,26 @@ def show_english(phrase, chapters, terms, quiet=False):
     """
     lock = None
     for t in terms:
-        if phrase.lower() in t.render.lower() or any(
-                phrase.lower() == f.lower() for f in t.forbidden):
+        if (phrase.lower() in t.render.lower()
+                or t.flexion_for(phrase)
+                or any(phrase.lower() == f.lower() for f in t.forbidden)):
             lock = t
             break
+    flexion = lock.flexion_for(phrase) if lock else None
 
     print(f'\n{BOLD}"{phrase}"{OFF}', end="")
     if lock:
-        kind = "forbidden for" if any(phrase.lower() == f.lower() for f in lock.forbidden) \
-            else "the rendering of"
-        print(f"  — {kind} {lock.term} ({lock.pinyin})\n{DIM}{lock.entry}{OFF}")
+        if any(phrase.lower() == f.lower() for f in lock.forbidden):
+            kind, scope = "forbidden for", ""
+        elif flexion:
+            chs = ", ".join(str(c) for c in flexion["chapters"])
+            kind = "a declared flexion of"
+            scope = f" — licensed at ch {chs} only"
+        else:
+            kind, scope = "the rendering of", ""
+        print(f"  — {kind} {lock.term} ({lock.pinyin}){scope}\n{DIM}{lock.entry}{OFF}")
+        if flexion and flexion.get("why"):
+            print(f'{DIM}  why: {flexion["why"]}{OFF}')
     else:
         print(f"   {DIM}not tied to any locked term{OFF}")
 
@@ -122,7 +132,8 @@ def show_english(phrase, chapters, terms, quiet=False):
             continue
         for ln, line in ch.verse:
             if phrase.lower() in line.lower():
-                has = lock and any(ch.has(c) for c in lock.characters)
+                has = (lock and any(ch.has(c) for c in lock.characters)
+                       and lock.licenses(phrase, ch.number))
                 (backed if has else unbacked).append((ch, ln, line.strip()))
 
     print(f"{len(backed) + len(unbacked)} lines"
@@ -137,7 +148,12 @@ def show_english(phrase, chapters, terms, quiet=False):
         for ch, ln, line in group:
             print(f"    ch {ch.number}:{ln}  {line}")
             if lock and label == "not backed" and not quiet:
-                print(f"      {DIM}no {'/'.join(lock.characters)} in this chapter{OFF}")
+                if flexion and any(ch.has(c) for c in lock.characters):
+                    print(f"      {DIM}{'/'.join(lock.characters)} is here, but this "
+                          f"flexion is licensed only at ch "
+                          f"{', '.join(str(c) for c in flexion['chapters'])}{OFF}")
+                else:
+                    print(f"      {DIM}no {'/'.join(lock.characters)} in this chapter{OFF}")
         print()
 
     if lock and unbacked:

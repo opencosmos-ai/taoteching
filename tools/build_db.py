@@ -668,6 +668,7 @@ def build(conn, report=False):
     gloss = {}          # char -> (english, tier)
     render_of = {}      # char -> our_render
     lock_of = {}        # char -> (term, entry, forbidden)
+    flex_of = {}        # char -> [(english, {chapters})] — chapter-scoped flexions
     for t in terms:
         if len(t.characters) == 1 and len(t.characters[0]) > 1:
             cur.execute(
@@ -680,6 +681,9 @@ def build(conn, report=False):
             gloss.setdefault(c, (part, "locked"))
             render_of.setdefault(c, part)
             lock_of.setdefault(c, (t.term, t.entry, "; ".join(t.forbidden)))
+            if t.flexions:
+                flex_of.setdefault(c, [(f["english"], set(f["chapters"]))
+                                       for f in t.flexions])
 
     # `covers:` — a secondary character an entry absorbs (力 inside 強, 腹 inside
     # 心). The repo already treats these as glossed; so does this.
@@ -842,6 +846,10 @@ def build(conn, report=False):
                 honored = None
                 cands = [w.strip().lower() for w in re.split(r"[/·]", expected)
                          if w.strip()]
+                # A flexion is the lock's English too, in the chapters it names.
+                # Without this the atlas prints NOT FOUND on exactly the lines a
+                # flexion exists to license — ch 9's 保 and 守 were both wrong.
+                cands += [e.lower() for e, chs in flex_of.get(c, []) if n in chs]
                 if cands:
                     low = joined.lower()
                     honored = 1 if any(w in low for w in cands) else 0

@@ -1,7 +1,9 @@
 ---
 term: "守"
 pinyin: "shǒu"
-render: "hold to — and *guard* where what is kept is ground or property"
+render: "hold to"
+flexions:
+  - { english: "guard", chapters: [9, 67], why: "what is kept is ground or property, not a stance" }
 forbidden: ["embrace", "attune", "stay with", "cleave to", "preserve", "abide in"]
 chapters: [5, 9, 16, 28, 32, 37, 52, 67]
 status: locked

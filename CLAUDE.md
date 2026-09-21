@@ -90,7 +90,7 @@ He decides; the AI argues. Bring him a **clear recommendation with the evidence 
 
 ## The glossary is generated — keep the frontmatter accurate
 
-Every `glossary/*.md` entry opens with YAML frontmatter (`term`, `pinyin`, `render`, `forbidden`, `chapters`, `status`, `covers`). **That frontmatter is the single source of truth for the locks.** Two files are derived from it and must never be hand-edited:
+Every `glossary/*.md` entry opens with YAML frontmatter (`term`, `pinyin`, `render`, `flexions`, `forbidden`, `chapters`, `status`, `covers`). **That frontmatter is the single source of truth for the locks.** Two files are derived from it and must never be hand-edited:
 
 - **`glossary/INDEX.md`** — the human lookup table
 - **`glossary/terms.yaml`** — the machine-readable locks, for `tools/check_locks.py` later
@@ -102,6 +102,20 @@ python3 tools/build_index.py
 ```
 
 `terms.yaml` is what `tools/check_locks.py` reads, so **a new lock becomes a live check the moment you regenerate** — no code change needed.
+
+**`render:` holds the primary English. A secondary English scoped to named chapters goes in `flexions:`, as data.**
+
+```yaml
+render: "keep safe"
+flexions:
+  - { english: "keep", chapters: [9], why: "the object is not cherished" }
+```
+
+This used to be a sentence — `render: "keep safe — and bare keep where the object is not cherished (ch 9 alone)"` — and **no tool could read it**, so `concordance.py --english` could not tell a licensed flexion from a breach and the atlas published prose in a data column. Split, the **where** becomes a chapter number a tool checks and the **why** stays a sentence for the reader, which is the same split the entries already make between the lock and its argument. `check_locks.py`'s `flexion-chapter` rule then verifies the licence points at a chapter the character actually stands in, and `--english` reports the flexion's scope and reason.
+
+**Only use it where the condition is a chapter.** A sense that varies by grammar rather than by place — 虛 (*xū*) as adjective and verb, 強 (*qiáng*) taking an object — stays prose in `render:`, because there is nothing for a tool to check. Inventing chapter lists for those would be making a decision, not recording one.
+
+**What it deliberately does not do:** nothing checks whether a flexion's English appears *outside* its chapters. Inflection and insertion make that unanswerable — 保's own *keep safe* reads "keep the Tao safe" at ch 15 — and that is the thin-translation trap, prototyped and declined at ~90% false positives (`WORKLIST.md` T5-1).
 
 **A `forbidden:` entry must be a word no *other* character in those same chapters can legitimately claim.** The checker gates on whether a character is present in the chapter; it cannot express *right for that character, wrong for this one, same chapter.* So "integrity" cannot be forbidden for 信 (chapters 21, 23, 38, 49 hold both 信 and 德) and "energy" cannot be forbidden for 精 (ch 55 holds both 精 and 氣). Those distinctions live in the entry's prose and in the reader, not in the tool. Two consequences for how you write `forbidden:`: a capital in the string means the capital *is* the violation (`"the Way"` leaves *"the way of nature"* legal, `"eternal"` catches "eternally"), and a forbidden *phrase* can be defeated by an inserted word (`"the Way"` misses "the great Way" — forbid the bare word where register matters more than phrasing).
 

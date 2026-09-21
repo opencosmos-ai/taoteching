@@ -26,12 +26,12 @@ python3 tools/build_index.py
 | **明** | *míng* | clear-seeing / clarity | "enlightenment", "illumination", "brilliance" | 12 | **locked** | [`ming-明.md`](ming-明.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
-| **身** | *shēn* | body — and *the end of your days* in the lifespan compounds 終身 / 没身 | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
-| **一** | *yī* | the one (lowercase) · one thing (ch 22) · plain numeral where it counts | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
+| **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
+| **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
-| **守** | *shǒu* | hold to — and *guard* where what is kept is ground or property | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
-| **王** | *wáng* | ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
-| **執** | *zhí* | grasp — and *seize* at ch 74, where the seizing is an arrest | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
+| **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
+| **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
+| **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 7 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
 | **敢** | *gǎn* | push / venture — the forward press to take | "dare", "dares", "dared", "daring" | 7 | **locked** | [`gan-敢.md`](gan-敢.md) |
@@ -43,12 +43,12 @@ python3 tools/build_index.py
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "dependency" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
-| **極** | *jí* | the far end — where a thing runs out · the endless (無極) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
+| **極** | *jí* | the far end — where a thing runs out · *the endless* (ch 28) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
 | **母** | *mǔ* | mother | "the Source", "the Origin", "the Ground of Being" | 5 | **locked** | [`mu-母.md`](mu-母.md) |
 | **自然** | *zì rán* | of itself / of themselves · so of itself | "Nature", "spontaneity", "self-so" | 5 | **locked** | [`ziran-自然.md`](ziran-自然.md) |
 | **虛** | *xū* | empty (adjective) · to empty (verb) | "emptiness", "the void", "vacuity", "nothingness" | 5 | open — not yet a lock | [`xu-虛.md`](xu-虛.md) |
 | **貨** | *huò* | goods | "treasure", "precious", "scarce", "riches" | 5 | **locked** | [`huo-貨.md`](huo-貨.md) |
-| **保** | *bǎo* | keep safe — and bare *keep* where the object is not cherished (ch 9 alone) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
+| **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |

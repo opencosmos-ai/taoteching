@@ -163,6 +163,27 @@ class Baseline(unittest.TestCase):
             " ON l.chapter=t.chapter AND l.seq=t.line_seq"
             " WHERE instr(l.chinese, t.char)=0"), 0)
 
+    def test_a_flexion_counts_as_honored_in_the_chapters_it_licenses(self):
+        """The atlas must not print NOT FOUND on a line a flexion licenses.
+
+        Ch 9 is the case: 保 reads bare *keep* there and 守 reads *guard*, both
+        declared flexions, and both were reported as breaches while `render:`
+        carried its flexions as prose no tool could read. 36 rows of the export
+        were wrong this way.
+        """
+        for char in ("保", "守"):
+            got = self.conn.execute(
+                "SELECT honored FROM render WHERE chapter=9 AND char=?",
+                (char,)).fetchone()[0]
+            self.assertEqual(got, 1, f"{char} at ch 9 should be honored by its flexion")
+
+    def test_a_flexion_does_not_leak_into_chapters_it_does_not_name(self):
+        """執 → *seize* is licensed at ch 74 only. Ch 29 and 64 read *grasp*,
+        the primary render, and must be judged against that."""
+        self.assertEqual(
+            self.q("SELECT count(*) FROM render WHERE char='執'"
+                   " AND chapter IN (29, 64) AND expected LIKE '%seize%'"), 0)
+
     def test_rule_zero_every_token_has_pinyin(self):
         self.assertEqual(self.q("SELECT count(*) FROM token WHERE pinyin IS NULL"), 0)
         self.assertEqual(self.stats["pinyin_fail"], 0)
