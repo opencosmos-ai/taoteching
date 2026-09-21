@@ -181,8 +181,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 13,15,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,One who loves their body as a way to serve the world can be trusted with it.
 13,15,身,shēn,身,body,yes,0.3,proportional,One who loves their body as a way to serve the world can be trusted with it.
 13,16,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,One who loves their body as a way to serve the world can be trusted with it.
-14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,Or a dark bottom.
-14,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Or a dark bottom.
+14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,Or a murky bottom.
+14,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Or a murky bottom.
 14,12,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"This is the shape of no-shape, the image of no-thing."
 14,12,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,"This is the shape of no-shape, the image of no-thing."
 14,13,無,wú,無 & 有,absence,NOT FOUND,0.2,proportional-fill,"This is the shape of no-shape, the image of no-thing."
@@ -612,8 +612,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,3,士,shì,士,in service,NOT FOUND,0.3,proportional,"Therefore, as the established sayings have it:"
 41,3,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"Therefore, as the established sayings have it:"
 41,3,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Therefore, as the established sayings have it:"
-41,4,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The clear Tao seems dark. The advancing Tao seems to retreat.
-41,4,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The clear Tao seems dark. The advancing Tao seems to retreat.
+41,4,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The clear Tao seems murky. The advancing Tao seems to retreat.
+41,4,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The clear Tao seems murky. The advancing Tao seems to retreat.
 41,5,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,The level Tao seems rough.
 41,6,明,Míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
 41,6,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.

@@ -2780,3 +2780,21 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **The glossary-self-check hole, found by hand.** The entry rendered 明道若昧 as *"the clear **path** seems dim"* in **three places**, and 道 (*dào*) is locked untranslated with *"the Path"* forbidden outright. **The file that defines one lock was breaching another** — which is the case `PLAN.md` opened `glossary-self-check` for, and the rule is still unbuilt. Note the near-miss: the forbidden string is capitalised, so a lowercase *path* would not have fired even if the rule existed.
 
 **Two stale examples corrected in the same pass**, both overtaken by later decisions: 襲明 was glossed *"inherited clarity"* where ch 27 has read *clarity worn covered* since T2-10 settled 襲 → *covered*, and 明白四達 was glossed *"clear and penetrating in all directions"* where ch 10 reads *clarity reaching the four quarters*. An entry's examples are a second copy of the verse and go stale exactly as the prose restating a lock does.
+
+---
+
+## 昧 (*mèi*) → *murky* — *dark* is 玄's, in a chapter that has no 玄
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-54, its first half.)*
+
+明道若昧 (41) read *"The clear Tao seems dark"* and 其下不昧 (14) read *"a dark bottom."* Both now **murky**.
+
+**The fault is a collision, not a misreading.** 說文 gives 昧 both senses — 昧爽，旦明也 for the compound (*daybreak*) and 一曰**闇**也 for the graph alone (*shut-in dark*) — so *dark* was defensible about the character. It was unavailable anyway: **玄 (*xuán*) is locked to *dark or profound* and carries six verse lines**, among them ch 1's 玄之又玄, *"dark, and dark again, the gate of all subtleties,"* and 玄牝, *the dark female*. Neither ch 14 nor ch 41 contains 玄. So the English made a reader hear the book's signature word for the unseeable where the Chinese has only the plain antonym of 明 — **invented repetition**, the mirror of the ch 11 fault and the class `WORKLIST` T5-14 exists for. `--english "dark"` had ten lines, six backed and four not.
+
+**Everything nearer was already worn.** *Dim* is 和 (*hé*) at 和其光 (4, 56) and 冥 (*míng*) at ch 21's 窈兮冥兮; *faint* is 微 (*wēi*) at 15 and 64; *dull* is 爽 at 12 and 悶 at 20 and 58; *hidden* is 微 again at 36. Free were *murky*, *clouded*, *obscure*, *shadowed*, *veiled*. **Obscure** was declined as abstract and as carrying *unimportant*, a verdict 昧 has not.
+
+**The chime with 濁 (*zhuó* — *muddy*, 15 and 49) was weighed and accepted**, which is the part worth recording. `already-spoken-for` would ordinarily refuse a rendering that rhymes with a neighbour's; here the two were judged distinct enough to stand apart and resonant enough to be worth the nearness. *Clouded* was free of even that and was declined for it.
+
+**The English does not settle the commentators, and must not.** 王弼: 光而不耀, *"bright but not dazzling"* — the light present and unostentatious, and he quotes ch 58 to say so. 河上公: 明道之人若闇昧，無所見 — genuine obscurity, seeing nothing. *Murky* holds both: still light, and not seen through.
+
+**Still open in T2-54:** 昏 (*hūn*, 說文 日冥也 — the sun gone down) reads *dark* at ch 20's 我獨昏, so two characters still share 玄's word. And **昧 is settled but unlocked**, so the atlas keeps publishing the pre-lock gloss — the same debt T2-40 carries for 混.

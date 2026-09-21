@@ -53,7 +53,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **It sees what does not change.** 知常曰明 — *knowing the ever-present is called clear-seeing* — appears verbatim in **16** and **55**. This is a repeated formula and must read identically in both places.
 
-**And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear Tao seems dim.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
+**And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear Tao seems murky.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
 
 ### The lock: why not "enlightenment" or "illumination"
 
@@ -61,7 +61,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **"Illumination"** fails on the evidence: Chapter 52 sets 光 and 明 side by side, and "illumination" collapses them. It also names emission where the text names reception.
 
-**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems dim) directly.
+**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems murky) directly.
 
 **"Wisdom"** belongs to a different character — 智 (*zhì*), which Chapter 33 explicitly ranks *below* 明.
 

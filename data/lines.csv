@@ -138,8 +138,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 14,5,1,搏之不得，,"Bó zhī bù dé,","Grasping/reaching for \[bo\] it \[zhi\] but not \[bu\] getting/obtaining \[de\],",These three defy comprehension.,proportional-fill
 14,6,1,名曰微。,míng yuē wēi.,its name \[ming\] is called \[yue\] intangible/formless \[wei\].,"Therefore, they mix into one.",proportional
 14,7,2,此三者不可致詰，,"Cǐ sān zhě bù kě zhì jié,","These \[ci\] three \[san\] things \[zhe\] cannot \[bu ke\] be fully probed/investigated \[zhi jie\],","It doesn’t have a bright top,",proportional
-14,8,2,故混而為一。,Gù hùn ér wéi yī.,Therefore \[gu\] they blend/merge \[hun\] and \[er\] become \[wei\] one \[yi\].,Or a dark bottom.,proportional
-14,9,3,其上不皦，,"Qí shàng bù jiǎo,","Its \[qi\] upper part/top \[shang\] is not \[bu\] bright/dazzling \[jiao\],",Or a dark bottom.,proportional-fill
+14,8,2,故混而為一。,Gù hùn ér wéi yī.,Therefore \[gu\] they blend/merge \[hun\] and \[er\] become \[wei\] one \[yi\].,Or a murky bottom.,proportional
+14,9,3,其上不皦，,"Qí shàng bù jiǎo,","Its \[qi\] upper part/top \[shang\] is not \[bu\] bright/dazzling \[jiao\],",Or a murky bottom.,proportional-fill
 14,10,3,其下不昧。,Qí xià bù mèi.,Its \[qi\] lower part/bottom \[xia\] is not \[bu\] dark/obscure \[mei\].,"Continuously flowing, it cannot be named",proportional
 14,11,3,繩繩兮不可名，,"Shéng shéng xī bù kě míng,","Continuous/unbroken \[sheng sheng\] oh \[xi\]\! It cannot \[bu ke\] be named \[ming\],",And returns to no-thing.,proportional
 14,12,3,復歸於無物。,Fù guī yú wú wù.,It reverts/returns \[fu gui\] to \[yu\] nothingness/non-entity \[wu wu\].,"This is the shape of no-shape, the image of no-thing.",proportional
@@ -488,7 +488,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 41,1,1,上士聞道，勤而行之；,"Shàng shì wén dào, qín ér xíng zhī","Top-tier scholars/users ( Shàng shì ) hear the Tao, diligently practice/execute it ( xíng zhī ).","Those highest in service hear the Tao and practice it with diligence. / Those middling in service hear the Tao and keep some, forget some.",proportional
 41,2,1,中士聞道，若存若亡；,"Zhōng shì wén dào, ruò cún ruo wáng","Mid-tier scholars/users ( Zhōng shì ) hear the Tao, seemingly keep/preserve it ( cún ), seemingly lose/forget it ( wáng ).","Those lowest in service hear the Tao and laugh aloud at it. / If it weren’t laughed at, the Tao wouldn’t be what it is.",proportional
 41,3,1,下士聞道，大笑之。,"Xià shì wén dào, dà xiào zhī","Low-tier scholars/users ( Xià shì ) hear the Tao, laugh loudly at it.","Therefore, as the established sayings have it:",proportional
-41,4,1,不笑不足以為道。,Bù xiào bù zú yǐ wéi dào,"If it were not laughed at, it would not be sufficient ( zú ) to function as ( wéi ) the Tao.",The clear Tao seems dark. / The advancing Tao seems to retreat.,proportional
+41,4,1,不笑不足以為道。,Bù xiào bù zú yǐ wéi dào,"If it were not laughed at, it would not be sufficient ( zú ) to function as ( wéi ) the Tao.",The clear Tao seems murky. / The advancing Tao seems to retreat.,proportional
 41,5,2,故建言有之：,Gù jiàn yán yǒu zhī:,Therefore established sayings have it:,The level Tao seems rough.,proportional
 41,6,2,明道若昧，進道若退，夷道若纇。,"Míng dào ruò mèi, jìn dào ruò tuì, yí dào ruò lèi.","The bright Tao seems dark/obscure, the advancing Tao seems to retreat, the level/smooth Tao seems rough/uneven.",The highest integrity seems a valley. / The whitest white seems soiled.,proportional
 41,7,2,上德若谷，大白若辱，,"Shàng dé ruò gǔ, dà bái ruò rǔ,","Highest capacity/virtue seems like a valley, great white/purity seems disgraced/soiled.",Boundless integrity seems not enough. / Sturdy integrity seems slack.,proportional
