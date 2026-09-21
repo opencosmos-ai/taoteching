@@ -323,9 +323,9 @@
 - term: "亂"
   pinyin: "luàn"
   render: "disorder"
-  forbidden: []
+  forbidden: ["chaos", "chaotic"]
   chapters: [3, 18, 38, 64]
-  status: open
+  status: locked
   entry: glossary/luan-亂.md
 
 - term: "保"

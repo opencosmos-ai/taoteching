@@ -1,7 +1,7 @@
 chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,status,han_chars,english_words,words_per_character,guodian_attested,guodian_extent,guodian_bundles,source_lines,verse_lines,variants
 1,體道,tǐ dào,Embodying the Tao,drafted,59,77,1.305,no,,,9,9,1
 2,養身,yǎng shēn,Nourishing the self,drafted,87,126,1.448,yes,complete,A,12,15,1
-3,安民,ān mín,Settling the people,drafted,67,78,1.164,no,,,9,9,2
+3,安民,ān mín,Settling the people,drafted,67,80,1.194,no,,,9,9,2
 4,無源,wú yuán,The sourceless,drafted,42,58,1.381,no,,,7,7,1
 5,虛用,xū yòng,The use of emptiness,drafted,45,64,1.422,yes,middle,A,5,6,0
 6,成象,chéng xiàng,Taking form,drafted,25,30,1.2,no,,,6,4,0
@@ -62,7 +62,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 61,謙德,qiān dé,Humble integrity,drafted,81,106,1.309,no,,,9,11,2
 62,為道,wéi dào,Practising the Tao,drafted,81,111,1.37,no,,,10,13,4
 63,恩始,ēn shǐ,Favour at the beginning,drafted,79,94,1.19,yes,complete,A,8,15,2
-64,守微,shǒu wēi,Holding fast to the slight,drafted,125,168,1.344,yes,split,"A, C",13,22,3
+64,守微,shǒu wēi,Holding fast to the slight,drafted,125,169,1.352,yes,split,"A, C",13,22,3
 65,淳德,chún dé,Unspoiled integrity,drafted,69,95,1.377,no,,,7,13,1
 66,後巳,hòu jǐ,Putting the self last,drafted,76,97,1.276,yes,complete,A,8,10,0
 67,三寳,sān bǎo,The three treasures,drafted,99,144,1.455,no,,,11,16,2

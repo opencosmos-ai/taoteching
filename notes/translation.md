@@ -2816,3 +2816,25 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **The result is the reverse check going clean.** `--english "dark"` was ten lines, six backed by 玄 and four not. It is now **six lines, six backed**: 玄 has 玄之又玄, 玄牝 and 玄德 to itself, and no reader will hear the book's deepest word in a chapter that does not contain it. One fork logged at ch 20.
 
 **Opened by this: T2-55, 亂.** Rendering 昏 at ch 18 exposed 亂 (*luàn*), which had been carrying both characters. It reads four ways in four lines and now has an entry — `glossary/luan-亂.md`, recommending *disorder* against *chaos*, `status: open` pending 治 (*zhì*).
+
+---
+
+## 亂 (*luàn*) → *disorder* — a tangle with hands in it, not a void
+
+*(Shalom's call, 2026-09-21. `WORKLIST.md` T2-55. Full argument: `glossary/luan-亂.md`.)*
+
+亂 stood in four chapters and read **four ways**: *disturbed* (3) · *chaos* (18) · *disorder* (38) · *chaotic* (64). Now **disorder** in all four, and locked.
+
+**說文 defines it as its own opposite, and says so twice.** 亂，**治**也。从乙，**乙，治之也** — *"亂 is to bring to order; from 乙, and 乙 is what orders it."* The dictionary picks out a component and names it the ordering agent. And it defines the 𤔔 element outright, in the entry for a character **this book uses**: 辭，訟也。从𤔔，**𤔔猶理辜也。𤔔，理也** — *"辭 is pleading a case; from 𤔔, because 𤔔 is like putting right a wrong. 𤔔 means 理 — to put in order."* 辭 stands at ch 34.
+
+**So the hands in the graph are untangling.** 爪 (說文 覆手曰爪, a covering hand) above, 又 (手也) below, silk between them on a frame. **亂 does not name a mess; it names a mess somebody has their hands in** — which is why ch 64 can say 治之於未亂 at all, and why 王弼 reads that line as scale rather than kind: 謂㣲脆也, *"what is faint and brittle."*
+
+**What that settles about *chaos*.** The objection is not only register, though the register is wrong — Hesiod's Χάος, the void before creation, where this book's undifferentiated beginning is 混成 at ch 25. The deeper objection is that ***chaos* is a condition with nobody in it.** You cannot catch chaos early. You can catch a tangle early, and that is the whole counsel of ch 64.
+
+**The 反訓 stays in the entry and out of the verse.** All four of Laozi's lines sit on the disorder side; the 治 sense is the dictionary's, not the text's. Rendering it would be a fact about the character overriding a fact about the sentence — the 萬 (*wàn*) arrangement: a scorpion in the entry, *the countless things* on the page.
+
+**Two candidates recorded as declined, for opposite reasons.** ***Unravelled*** is the near miss: it performs the graph and faces both ways in English natively, and *"Order it before it unravels"* is a better line than the locked one. It breaks at ch 38 — 亂之**首**, *"the head of the unravelling"*, is not English, and the obvious repair spends 首 on *begins*, **re-colliding it with 始 one line below, which Pass D separated on purpose**. ***Untangled*** is the opposite error: it is the 治 half, the hands succeeding, and it inverts every line — ch 18 would have nations becoming untangled as loyal ministers appear.
+
+**What ch 3 gained, which is why this was worth doing.** *Disturbed* read psychologically in a chapter that is political from end to end — contending, thieving, 聖人之治, 無不治. 亂 is the governance word, and ch 3 holds it with 治 **twice**. The hearts are not in a mood; they are what comes untidy when people are shown what to want.
+
+**Still owed: 治.** Twelve lines, nine chapters, no entry — *govern* in ten, *order* in two (8 and 64). The outlier is 政善治 at ch 8, where 政 and 治 stand in one three-character line and English needs two words, which **may be what forces 治's second rendering at all**. Until then the pairing this lock rests on is held by ch 64 alone. `WORKLIST.md` T2-56. And *order* is also worn by 正 at ch 45, under a deferred call (T4-2).

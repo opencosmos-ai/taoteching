@@ -41,8 +41,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"By not exalting the exceptional, the people have no cause to contend."
 3,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
 3,2,貨,huò,貨,goods,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,3,亂,luàn,亂,disorder,NOT FOUND,1.0,exact-count,"By not displaying the desirable, the people's hearts are not disturbed."
-3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not disturbed."
+3,3,亂,luàn,亂,disorder,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
+3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
@@ -242,9 +242,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,3,孝,xiào,慈,devotion,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
-18,4,亂,luàn,亂,disorder,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
-18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
-18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into chaos, loyal ministers appear."
+18,4,亂,luàn,亂,disorder,yes,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
+18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
+18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,孝,xiào,慈,devotion,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
@@ -936,9 +936,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,7,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"Take much to be easy and much will be difficult. So the sage still finds it difficult,"
 63,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and in the end has no difficulty.
 64,1,持,chí,持,hold,yes,0.3,proportional,What is at rest is easy to hold. What shows no sign is easy to plan for.
-64,3,亂,luàn,亂,disorder,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
-64,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
-64,3,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,Handle it before it exists. Order it before it is chaotic.
+64,3,亂,luàn,亂,disorder,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
+64,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
+64,3,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,The tree the width of both arms is born from a hair's tip.
 64,7,執,zhí,執,grasp,NOT FOUND,0.3,proportional,"Therefore, the sage does not do, and so ruins nothing,"
 64,7,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,"Therefore, the sage does not do, and so ruins nothing,"

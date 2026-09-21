@@ -48,7 +48,7 @@ python3 tools/build_index.py
 | **自然** | *zì rán* | of itself / of themselves · so of itself | "Nature", "spontaneity", "self-so" | 5 | **locked** | [`ziran-自然.md`](ziran-自然.md) |
 | **虛** | *xū* | empty (adjective) · to empty (verb) | "emptiness", "the void", "vacuity", "nothingness" | 5 | open — not yet a lock | [`xu-虛.md`](xu-虛.md) |
 | **貨** | *huò* | goods | "treasure", "precious", "scarce", "riches" | 5 | **locked** | [`huo-貨.md`](huo-貨.md) |
-| **亂** | *luàn* | disorder | — | 4 | open — not yet a lock | [`luan-亂.md`](luan-亂.md) |
+| **亂** | *luàn* | disorder | "chaos", "chaotic" | 4 | **locked** | [`luan-亂.md`](luan-亂.md) |
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
