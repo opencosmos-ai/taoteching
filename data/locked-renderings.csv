@@ -121,7 +121,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Clarity reaching the four quarters, can you be non-doing?"
 10,9,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,"Clarity reaching the four quarters, can you be non-doing?"
 10,10,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Giving birth to things and rearing them,"
-10,11,明,Míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,"giving birth without possessing,"
+10,11,明,Míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,"giving birth without possessing,"
 10,12,為,wéi,為,do / handle / serve as,NOT FOUND,0.2,proportional-fill,"giving birth without possessing,"
 10,12,無,wú,無 & 有,absence,NOT FOUND,0.2,proportional-fill,"giving birth without possessing,"
 10,13,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"acting yet relying on nothing,"
@@ -214,7 +214,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,9,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,0.3,proportional,Returning to what is given is called the ever-present.
 16,9,常,cháng,常,the ever-present / the abiding,yes,0.3,proportional,Returning to what is given is called the ever-present.
 16,10,常,cháng,常,the ever-present / the abiding,yes,0.3,proportional,Knowing the ever-present is called clear-seeing.
-16,10,明,míng,明,clear-seeing / clarity,yes,0.3,proportional,Knowing the ever-present is called clear-seeing.
+16,10,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,0.3,proportional,Knowing the ever-present is called clear-seeing.
 16,11,常,cháng,常,the ever-present / the abiding,yes,0.3,proportional,Not knowing the ever-present brings reckless action and disaster.
 16,13,常,cháng,常,the ever-present / the abiding,NOT FOUND,0.3,proportional,Containing everything leads to impartiality.
 16,14,公,gōng,公,impartiality / impartial (the quality) · lord / minister (the office),yes,0.3,proportional,Impartiality leads to supreme authority.
@@ -293,7 +293,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 22,7,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,"They do not show themselves off, and so they see clearly."
 22,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"They do not insist they are right, and so their rightness shows."
 22,8,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"They do not insist they are right, and so their rightness shows."
-22,9,明,míng,明,clear-seeing / clarity,NOT FOUND,0.2,proportional-fill,"They do not insist they are right, and so their rightness shows."
+22,9,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.2,proportional-fill,"They do not insist they are right, and so their rightness shows."
 22,11,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"They do not make themselves great, and so they endure."
 22,13,爭,zhēng,爭,contend / contention,yes,0.3,proportional,"Because they do not contend, no one in the world can contend with them."
 22,14,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"When the ancients said ""bend, and stay whole,"" were those empty words?"
@@ -317,7 +317,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 23,17,信,Xìn,信,trust / trustworthy,yes,0.3,proportional,"Where trust runs short, there is no trust."
 23,18,信,xìn,信,trust / trustworthy,yes,0.2,proportional-fill,"Where trust runs short, there is no trust."
 23,18,有,Yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,"Where trust runs short, there is no trust."
-24,3,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,Those who show themselves off do not see clearly.
+24,3,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,Those who show themselves off do not see clearly.
 24,5,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Those who claim the work have none.
 24,7,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Measured by the Tao, these are called leftover food and wasted motion."
 24,9,物,Wù,萬物,things / something,NOT FOUND,0.3,proportional,Those who are with the Tao do not dwell among them.
@@ -376,7 +376,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,8,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
 27,9,無,wú,無 & 有,absence,NOT FOUND,0.2,proportional-fill,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
 27,9,物,wù,萬物,things / something,NOT FOUND,0.2,proportional-fill,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
-27,10,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,"Always masterful at rescuing things, and so nothing is abandoned."
+27,10,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,"Always masterful at rescuing things, and so nothing is abandoned."
 27,11,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.3,proportional,This is called clarity worn covered.
 27,12,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.2,proportional-fill,This is called clarity worn covered.
 27,13,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"Therefore, the masterful one naturally teaches the novice."
@@ -468,7 +468,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,7,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Since names already exist, one must know when to stop."
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,The Tao in the world is like streams and valleys to the river and the sea.
 32,9,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The Tao in the world is like streams and valleys to the river and the sea.
-33,2,明,míng,明,clear-seeing / clarity,NOT FOUND,1.0,exact-count,One who knows themselves sees clearly.
+33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,One who knows themselves sees clearly.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
@@ -503,7 +503,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 35,7,用,Yong,無 & 有,use,yes,1.0,exact-count,Use it. It never runs out.
 36,2,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
 36,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
-36,5,明,míng,明,clear-seeing / clarity,yes,1.0,exact-count,This is called the hidden clarity.
+36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the hidden clarity.
 36,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,The soft and yielding overcome the hard and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the hard and strong.
 36,8,利,lì,無 & 有,advantage,yes,1.0,exact-count,A state's tools of advantage must never be shown.
@@ -615,7 +615,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,4,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The clear Tao seems dark. The advancing Tao seems to retreat.
 41,4,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The clear Tao seems dark. The advancing Tao seems to retreat.
 41,5,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,The level Tao seems rough.
-41,6,明,Míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
+41,6,明,Míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
 41,6,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
 41,6,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
 41,6,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The highest integrity seems a valley. The whitest white seems soiled.
@@ -692,7 +692,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.3,proportional,"Without leaving home, you know the whole world. Without looking out the window, you see the way of nature."
 47,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
 47,2,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
-47,5,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,and accomplishes without acting.
+47,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,and accomplishes without acting.
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,and accomplishes without acting.
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
@@ -787,8 +787,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,6,守,shǒu,守,hold to,NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,小,xiǎo,大,small,NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
-52,6,明,míng,明,clear-seeing / clarity,yes,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
-52,7,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,and leave no calamity for the body.
+52,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
+52,7,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,7,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,7,用,Yòng,無 & 有,use,NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,7,身,shēn,身,body,yes,0.3,proportional,and leave no calamity for the body.
@@ -824,7 +824,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,4,精,jīng,精,vital essence / essence,yes,0.3,proportional,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost. It cries all day and never goes hoarse — this is harmony at its utmost."
 55,6,常,cháng,常,the ever-present / the abiding,NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
 55,6,常,cháng,常,the ever-present / the abiding,NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
-55,6,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
+55,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
 55,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"When the heart drives the vital energy, that is called strong. When things reach their prime, they decay."
 55,7,心,Xīn,心,heart,yes,0.3,proportional,"When the heart drives the vital energy, that is called strong. When things reach their prime, they decay."
 55,7,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"When the heart drives the vital energy, that is called strong. When things reach their prime, they decay."
@@ -955,7 +955,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,13,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,and never pushes them.
 64,13,萬,wàn,萬物,countless,NOT FOUND,0.3,proportional,and never pushes them.
 65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
-65,1,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
+65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,6,常,Cháng,常,the ever-present / the abiding,NOT FOUND,0.3,proportional,"Profound integrity is deep, and far, and turns back together with things,"

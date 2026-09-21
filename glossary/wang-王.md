@@ -16,7 +16,7 @@ covers:
 
 *Say "wahng," rising. Thirteen lines across eight chapters, and not one of them shows a 王 commanding anything.*
 
-**Locked: 王 → "ruler / sovereign" · "to rule" (as a verb).** *(Never "king," never "kings," never "monarch," never "emperor." 侯 (hóu) → "ruler," inside 侯王.)*
+**Locked: 王 → "ruler / sovereign" · "to rule" (as a verb) — and *supreme authority* at chapter 16, where 王 is a rung in a sequence rather than a person.** *(Never "king," never "kings," never "monarch," never "emperor." 侯 (hóu) → "ruler," inside 侯王.)*
 
 Every English Tao Te Ching renders 王 as **king**. The word arrives so naturally that the question never gets asked, and three separate things ride in with it.
 

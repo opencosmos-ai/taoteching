@@ -2766,3 +2766,17 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **奈何萬乘之主，而以身輕天下 had lost three of its parts** — 萬乘 (*wàn shèng* — ten thousand chariots) flattened to *a great ruler*, 身 turned into *their being*, and **天下 (*tiān xià* — the world) deleted outright.** This is one of only three lines in the book where 身 and 天下 stand together, and `chapters/013.md` cites it as the support for ch 13's closing couplet — so the evidence for a settled call did not say what the note said it said. 河上公: 王者至尊，而以其身行輕躁乎.
 
 **靜 → *stillness* (T2-5)**, against *Silence* here alone and seven lines elsewhere. **君 → *ruler* in both places (T2-6)**, where it had been *ruler* and *mastery* three lines apart in a matched pair. **燕處超然 → *they dwell at ease and stay apart***; *their equanimity is undisturbed* rendered no character.
+
+---
+
+## 明 (*míng*) · the frontmatter catches up with the entry, and 道 stops being a path
+
+*(2026-09-20. `WORKLIST.md` T2-46.)*
+
+**The entry already knew; the data did not.** `glossary/ming-明.md`'s *working register* section has listed four forms since it was written — the named state, the noun, the predicate, the modifier — while `render:` said only *"clear-seeing / clarity"*. So four of 明's thirteen lines (22, 24, 33, 47) and the modifier at 41 were **unlicensed by the frontmatter**, and `concordance.py --english "see clearly"` reported *not tied to any locked term* for a phrase that renders a locked character twice. `render:` now carries all three shapes.
+
+**Why this stayed prose rather than becoming a `flexions:` entry.** The variation is **grammatical, not chapter-scoped**: 明 takes the predicate form wherever it predicates, and would in a chapter nobody has written. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that — so pinning a grammatical form to a chapter list would assert a condition the language does not have. The boundary is stated in `CLAUDE.md`.
+
+**The glossary-self-check hole, found by hand.** The entry rendered 明道若昧 as *"the clear **path** seems dim"* in **three places**, and 道 (*dào*) is locked untranslated with *"the Path"* forbidden outright. **The file that defines one lock was breaching another** — which is the case `PLAN.md` opened `glossary-self-check` for, and the rule is still unbuilt. Note the near-miss: the forbidden string is capitalised, so a lowercase *path* would not have fired even if the rule existed.
+
+**Two stale examples corrected in the same pass**, both overtaken by later decisions: 襲明 was glossed *"inherited clarity"* where ch 27 has read *clarity worn covered* since T2-10 settled 襲 → *covered*, and 明白四達 was glossed *"clear and penetrating in all directions"* where ch 10 reads *clarity reaching the four quarters*. An entry's examples are a second copy of the verse and go stale exactly as the prose restating a lock does.

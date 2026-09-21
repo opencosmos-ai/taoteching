@@ -23,7 +23,7 @@ python3 tools/build_index.py
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
-| **明** | *míng* | clear-seeing / clarity | "enlightenment", "illumination", "brilliance" | 12 | **locked** | [`ming-明.md`](ming-明.md) |
+| **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier | "enlightenment", "illumination", "brilliance" | 12 | **locked** | [`ming-明.md`](ming-明.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
