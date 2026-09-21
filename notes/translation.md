@@ -2642,7 +2642,7 @@ Four characters had collapsed into *hold* and its neighbours across seventeen ch
 | 持 (*chí*) | 握也 — *"to grip"* | 手 (*shǒu* — hand) + 寺 | **hold** |
 | 執 (*zhí*) | **捕罪人也** — *"to seize a criminal"* | 丮 a reaching hand + 㚔, **manacles** | **grasp** · *seize* (74) |
 | 守 (*shǒu*) | **守官也** — *"to keep an office"* | 宀 a roof + 寸 (法度, a regulation) | **hold to** · *guard* (9, 67) |
-| 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** |
+| 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** · bare ***keep*** at 9 |
 
 A grip, a pair of handcuffs, a post you are answerable for, and a child on your back. Entries: `zhi-執.md`, `shou-守.md`, `bao-保.md`, `chi-持.md`.
 
@@ -2660,7 +2660,7 @@ So 執者失之 is not a caution against clinging. **Its object is 天下, and t
 
 守 read *guard* at ch 9, 保 read *guard* at ch 15, and 衛 (*wèi*) read *guards* at ch 67. **And 守 and 保 stand together in both ch 9 and ch 67**, so no rule in this repository could ever have seen it — a `forbidden:` entry keys off a character being present in the chapter and cannot express *right for that character, wrong for this one, same chapter*. Both new entries say so in a section of their own, because the gap is permanent.
 
-Now: 守 → *guard* (9, 67), 保 → *keep safe* (9, 15, 62, 67), 衛 → *shields* (67).
+Now: 守 → *guard* (9, 67), 保 → *keep safe* (15, 62, 67) and **bare *keep* at 9** *(flexion declared 2026-09-20 — see Ch 9 below)*, 衛 → *shields* (67).
 
 ### 保 runs in both directions, and one English lets them answer each other
 

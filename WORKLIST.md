@@ -53,7 +53,7 @@
 | T1-20 | ⬜ | Four `unlogged-variant` warnings | 2 9 26 51 | E |
 | T1-21 | ⬜ | 配天 — the chapter and its own note disagree; the contested 天 line | 68 | F |
 | | | **Tier 2 · One character, many Englishes** | | |
-| T2-19 | ✅ | ~~★ **The holding family — 守 執 保 有 collapsed into "hold."**~~ — **說文 gives four different hands, and 守 has none.** 執 → *grasp* (*seize* at 74, the arrest — 捕罪人也 is the dictionary headword) · 守 → *hold to* / *guard* · 保 → *keep safe* · 持 → *hold*. **Four entries written and locked.** *Guard* had been worn by **three characters** (守 9, 保 15, 衛 67) — unseeable by any rule, since 守 and 保 share both ch 9 and ch 67. Riders: 搏 (14), 握 (55), 左 (79), 有 (59), 襲 (52), ch 5. **Ch 9 open → T2-51** | 5 9 14 15 16 28 29 32 35 37 52 55 59 62 64 67 69 74 79 | E |
+| T2-19 | ✅ | ~~★ **The holding family — 守 執 保 有 collapsed into "hold."**~~ — **說文 gives four different hands, and 守 has none.** 執 → *grasp* (*seize* at 74, the arrest — 捕罪人也 is the dictionary headword) · 守 → *hold to* / *guard* · 保 → *keep safe* · 持 → *hold*. **Four entries written and locked.** *Guard* had been worn by **three characters** (守 9, 保 15, 衛 67) — unseeable by any rule, since 守 and 保 share both ch 9 and ch 67. Riders: 搏 (14), 握 (55), 左 (79), 有 (59), 襲 (52), ch 5. ~~Ch 9 open → T2-51~~ *(closed 2026-09-20; 保 gained a declared flexion there)* | 5 9 14 15 16 28 29 32 35 37 52 55 59 62 64 67 69 74 79 | E |
 | T2-51 | ✅ | ~~**Ch 9 renders neither 持 nor 保, and invents a vessel**~~ — the chapter rebuilt: **持 · 保 · 守 all three on the page**, 不如 restored as a construction, the 器-less vessel gone and the referent named grammatically, 銳 held to *point* (說文 芒也; the edge is 刃, one line in the book), 咎 → *fault* following ch 46's couplet, 遺 rendered, and 身退 restored. **保 takes bare *keep* here, a declared flexion** — ch 9 is its only negative instance and its only uncherished object, and the lock had been argued from this chapter's gloss table rather than its verse. One fork logged | 9 | E |
 | T2-1 | ✅ | ~~**身** — *body* / *self* / *themselves*, and two of them inside ch 54~~ — **身 → *body*, locked** (2026-09-19, Shalom's call); one character that had **six** Englishes and at ch 9 none. Entry written; 終身/没身 flexed to *to the end of your days* and declared. Swept at 7 (身 ×4, and **生** restored at 故能長生), 9, 26, 44, 52, 54, 66, plus the **ch 76 rider** where *body* rendered 人. *Self* refused: it is 我/吾's and, at ch 7, 私's. **Ch 10's rider resolves as no change** | 7 9 13 16 26 44 52 54 66 76 | E |
 | T2-2 | 🔶 | **智** four ways; **ch 3 settled as *the knowers*, fork logged**; *"cunning"* still wears 巧 at 19 and 57 | 3 18 19 33 65 | E |
@@ -249,7 +249,7 @@ Meaning changed. Each needs a decision; most need one line rewritten.
    | 持 (*chí*) | 握也 — *"to grip"* | 手 (*shǒu* — hand) + 寺 | **hold** (9, 64, 67) |
    | 執 (*zhí*) | **捕罪人也** — *"to seize a criminal"* | 丮 a reaching hand + 㚔, **manacles** | **grasp** · ***seize*** at 74 |
    | 守 (*shǒu*) | **守官也** — *"to keep an office"* | 宀 a roof + 寸 (法度, a regulation) — **no hand** | **hold to** · ***guard*** at 9, 67 |
-   | 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** (9, 15, 62, 67) |
+   | 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** (15, 62, 67) · bare ***keep*** (9) |
 
    **Four entries written and locked:** `zhi-執.md` · `shou-守.md` · `bao-保.md` · `chi-持.md`. Full argument in `notes/translation.md` → *The holding family*.
 
