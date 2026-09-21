@@ -48,11 +48,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 6,5,0,綿綿若存，,"Mián mián ruò cún,","Continuous/unbroken \[mian mian\], it seems/appears \[ruo\] to exist \[cun\],","Unceasing yet barely perceptible, it can never be exhausted.",proportional
 6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].","Unceasing yet barely perceptible, it can never be exhausted.",proportional-fill
 7,1,1,天長地久。,Tiān cháng dì jiǔ.,"Heaven \[tian\] is long-lasting \[chang\], earth \[di\] is enduring \[jiu\].","The sky is lasting, the earth enduring.",exact-count
-7,2,1,天地所以能長且久者，,"Tiān dì suǒ yǐ néng cháng qiě jiǔ zhě,","The reason heaven and earth can \[neng\] be long-lasting and \[qie\] enduring,","Lasting and enduring,",exact-count
-7,3,1,以其不自生，,"yǐ qí bù zì shēng,","is because \[yi\] they \[qi\] do not \[bu\] live/generate \[sheng\] for themselves \[zi\],",Sky and earth do not live for themselves.,exact-count
-7,4,1,故能長生。,gù néng cháng shēng.,therefore \[gu\] they can live long \[chang sheng\].,They endure without limit.,exact-count
-7,5,2,是以聖人後其身而身先，,"Shì yǐ shèng rén hòu qí shēn ér shēn xiān,","Therefore \[shi yi\] the Sage \[sheng ren\] puts behind \[hou\] their \[qi\] body/self \[shen\], yet \[er\] their body comes first/ahead \[xian\],","Placing themselves last, the sage is first;",exact-count
-7,6,2,外其身而身存。,wài qí shēn ér shēn cún.,"puts outside \[wai\] their body, yet their body is preserved/exists \[cun\].","unconcerned for themselves, their selves endure.",exact-count
+7,2,1,天地所以能長且久者，,"Tiān dì suǒ yǐ néng cháng qiě jiǔ zhě,","The reason heaven and earth can \[neng\] be long-lasting and \[qie\] enduring,",Sky and earth can last and endure,exact-count
+7,3,1,以其不自生，,"yǐ qí bù zì shēng,","is because \[yi\] they \[qi\] do not \[bu\] live/generate \[sheng\] for themselves \[zi\],","because they do not live for themselves,",exact-count
+7,4,1,故能長生。,gù néng cháng shēng.,therefore \[gu\] they can live long \[chang sheng\].,and so they live long.,exact-count
+7,5,2,是以聖人後其身而身先，,"Shì yǐ shèng rén hòu qí shēn ér shēn xiān,","Therefore \[shi yi\] the Sage \[sheng ren\] puts behind \[hou\] their \[qi\] body/self \[shen\], yet \[er\] their body comes first/ahead \[xian\],","So the sage puts their body last, and their body comes first;",exact-count
+7,6,2,外其身而身存。,wài qí shēn ér shēn cún.,"puts outside \[wai\] their body, yet their body is preserved/exists \[cun\].","puts their body outside, and their body survives.",exact-count
 7,7,2,非以其無私邪？,Fēi yǐ qí wú sī xié?,Is it not (fei) because they have no (wu) private self (si — grain held back for oneself)?,Is it not because they have no private self?,exact-count
 7,8,2,故能成其私。,gù néng chéng qí sī.,"Therefore they can complete (cheng) their private self (si) — the same character, emptied then fulfilled.",And so their private self is fulfilled.,exact-count
 8,1,1,上善若水。,Shàng shàn ruò shuǐ.,The highest/supreme \[shang\] good/excellence \[shan\] is like \[ruo\] water \[shui\].,The most masterful are like water.,exact-count
@@ -68,16 +68,16 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 8,11,2,動善時。,dòng shàn shí.,"in moving/action \[dong\], be good at timing \[shi\].","In moving, masterful at timing.",exact-count
 8,12,3,夫唯不爭，,"Fū wéi bù zhēng,","Now only/precisely \[fu wei\] because it does not contend \[zheng\],","Because it does not contend,",exact-count
 8,13,3,故無尤。,gù wú yóu.,therefore \[gu\] there is no \[wu\] blame/fault \[you\].,there is no blame.,exact-count
-9,1,1,持而盈之，,"Chí ér yíng zhī,","Holding/grasping \[chi\] and \[er\] filling \[ying\] it \[zhi\],","Filling a vessel, stop before spilling.",proportional
-9,2,1,不如其已；,bù rú qí yǐ;,is not as good as \[bu ru\] stopping \[yi\];,"Filling a vessel, stop before spilling.",proportional-fill
-9,3,1,揣而銳之，,"chuǎi ér ruì zhī,","hammering/feeling \[chuai\] and sharpening \[rui\] it,",An over-sharpened blade’s edge cannot last.,proportional
-9,4,1,不可長保。,bù kě cháng bǎo.,cannot \[bu ke\] be long \[chang\] preserved/guarded \[bao\].,An over-sharpened blade’s edge cannot last.,proportional-fill
-9,5,2,金玉滿堂，,"Jīn yù mǎn táng,","Gold \[jin\] and jade \[yu\] filling \[man\] the hall \[tang\],",The hall of gold and jade can’t be guarded.,proportional
-9,6,2,莫之能守；,mò zhī néng shǒu;,no one \[mo\] can \[neng\] guard/protect \[shou\] it;,The hall of gold and jade can’t be guarded.,proportional-fill
-9,7,2,富貴而驕，,"fù guì ér jiāo,","wealth \[fu\] and high status \[gui\] combined with arrogance \[jiao\],",Those who seek wealth and status with arrogance bring ruin upon themselves.,proportional
-9,8,2,自遺其咎。,zì yí qí jiù.,brings upon oneself \[zi yi\] its \[qi\] disaster/blame \[jiu\].,Those who seek wealth and status with arrogance bring ruin upon themselves.,proportional-fill
-9,9,3,功遂身退，,"Gōng suì shēn tuì,","Work/merit \[gong\] accomplished/completed \[sui\], the body/self \[shen\] retreats/retires \[tui\],","When the work is done, cease striving. This is the way of nature.",proportional
-9,10,3,天之道。,tiān zhī dào.,the Tao/way of Heaven \[tian\].,"When the work is done, cease striving. This is the way of nature.",proportional-fill
+9,1,1,持而盈之，,"Chí ér yíng zhī,","Holding/grasping \[chi\] and \[er\] filling \[ying\] it \[zhi\],","Rather than keep filling what you hold, stop.",proportional
+9,2,1,不如其已；,bù rú qí yǐ;,is not as good as \[bu ru\] stopping \[yi\];,"Rather than keep filling what you hold, stop.",proportional-fill
+9,3,1,揣而銳之，,"chuǎi ér ruì zhī,","hammering/feeling \[chuai\] and sharpening \[rui\] it,","Hammer a point ever sharper, and it will not keep for long.",proportional
+9,4,1,不可長保。,bù kě cháng bǎo.,cannot \[bu ke\] be long \[chang\] preserved/guarded \[bao\].,"Hammer a point ever sharper, and it will not keep for long.",proportional-fill
+9,5,2,金玉滿堂，,"Jīn yù mǎn táng,","Gold \[jin\] and jade \[yu\] filling \[man\] the hall \[tang\],","Gold and jade fill the hall, and no one can guard them.",proportional
+9,6,2,莫之能守；,mò zhī néng shǒu;,no one \[mo\] can \[neng\] guard/protect \[shou\] it;,"Gold and jade fill the hall, and no one can guard them.",proportional-fill
+9,7,2,富貴而驕，,"fù guì ér jiāo,","wealth \[fu\] and high status \[gui\] combined with arrogance \[jiao\],","Grow arrogant with wealth and status, and you leave yourself the fault.",proportional
+9,8,2,自遺其咎。,zì yí qí jiù.,brings upon oneself \[zi yi\] its \[qi\] disaster/blame \[jiu\].,"Grow arrogant with wealth and status, and you leave yourself the fault.",proportional-fill
+9,9,3,功遂身退，,"Gōng suì shēn tuì,","Work/merit \[gong\] accomplished/completed \[sui\], the body/self \[shen\] retreats/retires \[tui\],","The work done, the body withdraws. This is the way of nature.",proportional
+9,10,3,天之道。,tiān zhī dào.,the Tao/way of Heaven \[tian\].,"The work done, the body withdraws. This is the way of nature.",proportional-fill
 10,1,1,載營魄抱一，,"Zài yíng pò bào yī,","Carrying \[zai\] the vital/encampment \[ying\] soul \[po\] and embracing \[bao\] the One \[yi\],","Housing your soul and embracing the one, can you keep these from parting?",proportional
 10,2,1,能無離乎？,néng wú lí hū?,can you \[neng\] not \[wu\] depart/separate \[li\]?,"Gathering the breath to softness, can you be like an infant?",proportional
 10,3,1,專氣致柔，,"Zhuān qì zhì róu,","Concentrating \[zhuan\] the vital breath \[qi\] to reach \[zhi\] suppleness/softness \[rou\],","Gathering the breath to softness, can you be like an infant?",proportional-fill
@@ -308,15 +308,15 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 25,17,5,地法天，,"Dì fǎ tiān,","Earth \[di\] models/follows the law of \[fa\] heaven \[tian\],","The sky models itself on the Tao,",proportional
 25,18,5,天法道，,"Tiān fǎ dào,","Heaven \[tian\] models/follows the law of \[fa\] the Tao \[dao\],",The Tao models itself on being what it is.,proportional
 25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,proportional-fill
-26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the ungrounded.,proportional
-26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness/silence \[jing\] functions as/is \[wei\] the master/ruler \[jun\] of the restless/agitated \[zao\].,Silence is the ruler of the agitated.,proportional
-26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without becoming disconnected from sustenance.",proportional
-26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even when the sights are glorious, their equanimity is undisturbed.",proportional
-26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,"Even when the sights are glorious, their equanimity is undisturbed.",proportional-fill
-26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",How could a great ruler become ungrounded in their being?,proportional
-26,7,3,而以身輕天下？,Ér yǐ shēn qīng tiān xià?,And/yet \[er\] use \[yi\] their body/person \[shen\] lightly \[qing\] in the world \[tian xia\]?,To become ungrounded is to lose connection with one’s roots.,proportional
-26,8,4,輕則失本，,"Qīng zé shī běn,","Light/weightless \[qing\] then/thus \[ze\] loses \[shi\] the root/foundation \[ben\],",To become agitated is to lose one’s mastery.,proportional
-26,9,4,躁則失君。,Zào zé shī jūn.,Restless/agitated \[zao\] then/thus \[ze\] loses \[shi\] the master/ruler \[jun\].,To become agitated is to lose one’s mastery.,proportional-fill
+26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,proportional
+26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness/silence \[jing\] functions as/is \[wei\] the master/ruler \[jun\] of the restless/agitated \[zao\].,Stillness is the ruler of the agitated.,proportional
+26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the baggage wagons.",proportional
+26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even where the sights are glorious, they dwell at ease and stay apart.",proportional
+26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,How can the lord of ten thousand chariots,proportional
+26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",make their own body light in the world?,proportional
+26,7,3,而以身輕天下？,Ér yǐ shēn qīng tiān xià?,And/yet \[er\] use \[yi\] their body/person \[shen\] lightly \[qing\] in the world \[tian xia\]?,Lightness loses the root.,proportional
+26,8,4,輕則失本，,"Qīng zé shī běn,","Light/weightless \[qing\] then/thus \[ze\] loses \[shi\] the root/foundation \[ben\],",Agitation loses the ruler.,proportional
+26,9,4,躁則失君。,Zào zé shī jūn.,Restless/agitated \[zao\] then/thus \[ze\] loses \[shi\] the master/ruler \[jun\].,Agitation loses the ruler.,proportional-fill
 27,1,1,善行無轍跡，,"Shàn xíng wú zhé jì,","Expert/masterful \[shan\] traveling/executing \[xing\] has no \[wu\] ruts/tracks \[zhe ji\],",Masterful traveling leaves no tracks.,proportional
 27,2,1,善言無瑕謫，,"Shàn yán wú xiá zhé,","Expert/masterful \[shan\] speaking/words \[yan\] has no \[wu\] flaws/blemishes \[xia\] or blame \[zhe\],",Masterful speaking is flawless.,proportional
 27,3,1,善計不用籌策，,"Shàn jì bù yòng chóu cè,","Expert/masterful \[shan\] calculating/planning \[ji\] does not \[bu\] use \[yong\] counting rods/tallies \[chou ce\],",Masterful speaking is flawless.,proportional-fill
@@ -510,8 +510,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 43,3,1,吾是以知無為之有益。,Wú shì yǐ zhī wú wéi zhī yǒu yì.,Therefore I know the benefit/advantage of zero-friction execution (wu wei).,This is how I know the benefit of non-doing.,exact-count
 43,4,2,不言之教，無為之益，,"Bù yán zhī jiào, wú wéi zhī yì,","The teaching without words, the benefit of zero-friction execution,","The wordless teaching, the benefit of non-doing —",exact-count
 43,5,2,天下希及之。,Tiān xià xī jí zhī.,few in the world can reach/match it.,few ever reach this.,exact-count
-44,1,1,名與身孰親？,Míng yǔ shēn shú qīn?,"Fame/Name or the body/self, which is closer/dearer?",Reputation or your self — which is dearer?,exact-count
-44,2,1,身與貨孰多？,Shēn yǔ huò shú duō?,"The body/self or wealth/goods, which is more/worth more?",Your self or goods — which is worth more?,exact-count
+44,1,1,名與身孰親？,Míng yǔ shēn shú qīn?,"Fame/Name or the body/self, which is closer/dearer?",Reputation or your body — which is dearer?,exact-count
+44,2,1,身與貨孰多？,Shēn yǔ huò shú duō?,"The body/self or wealth/goods, which is more/worth more?",Your body or goods — which is worth more?,exact-count
 44,3,1,得與亡孰病？,Dé yǔ wáng shú bìng?,"Gaining or losing, which is the disease/harm?",Gain or loss — which does more harm?,exact-count
 44,4,2,是故甚愛必大費，,"Shì gù shèn ài bì dà fèi,","Therefore, extreme love/attachment must lead to great expenditure/waste,","Therefore, extreme attachment inevitably brings great cost",exact-count
 44,5,2,多藏必厚亡。,Duō cáng bì hòu wáng.,Heavy hoarding must lead to massive loss.,And hoarding inevitably brings heavy loss.,exact-count
@@ -572,11 +572,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,proportional
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has an origin, which serves as the mother of the world. / Find our mother, and you know her children.",proportional
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Know her children, return and hold fast to our mother,",proportional
-52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","and to the end of your days, no danger will find you. / Block the openings, close the doors, and all your life will be struggle-free.",proportional
-52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not toil/struggle.","Open the openings, multiply your affairs, and your life is beyond saving.",proportional
+52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","and to the end of your days, no danger will find you. / Block the openings, close the doors, and to the end of your days you will not toil.",proportional
+52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not toil/struggle.","Open the openings, multiply your affairs, and to the end of your days you are beyond saving.",proportional
 52,5,2,開其兌，濟其事，終身不救。,"Kāi qí duì, ji qí shì, zhōng shēn bù jiù.","Open the openings, multiply affairs/tasks, to the end of life one is beyond rescue.",To recognize things in their smallest form is clear-seeing.,proportional
 52,6,3,見小曰明，守柔曰強。,"Jiàn xiǎo yuē míng, shǒu róu yuē qiáng.","Seeing the small is called clarity/illumination, guarding the soft/yielding is called strength.","Holding to the soft is called strong. / Use the outer light, return to your inner clarity,",proportional
-52,7,3,用其光，復歸其明，無遺身殃；,"Yòng qí guāng, fù guī qí míng, wú yí shēn yāng;","Use the light, return to the clarity/illumination, leaving no disaster for the body;",and you bring no calamity upon yourself.,proportional
+52,7,3,用其光，復歸其明，無遺身殃；,"Yòng qí guāng, fù guī qí míng, wú yí shēn yāng;","Use the light, return to the clarity/illumination, leaving no disaster for the body;",and leave no calamity for the body.,proportional
 52,8,3,是謂襲常。,Shì wèi xí cháng.,This is called inheriting/practicing the constant.,This is called the ever-present worn covered.,proportional
 53,1,1,使我介然有知，行於大道，唯施是畏。,"Shǐ wǒ jiè rán yǒu zhī, xíng yú dà dào, wéi shī shì wèi.","If I had just a little knowledge, walking on the Great Tao, my only fear would be straying/deviating from it.","If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it.",exact-count
 53,2,1,大道甚夷，而人好徑。,"Dà dào shèn yí, ér rén hào jìng.","The Great Tao is very level/smooth, yet people love the bypaths/shortcuts.","The great Tao is very level, yet people love to take shortcuts.",exact-count
@@ -588,7 +588,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 54,3,2,修之於家，其德乃餘；,"Xiū zhī yú jiā, qí dé nǎi yú;","Cultivate it in the family, its Virtue becomes abundant;","Cultivate this in your family, and its integrity becomes abundant.",proportional
 54,4,2,修之於鄉，其德乃長；,"Xiū zhī yú xiāng, qí dé nǎi cháng;","Cultivate it in the village/community, its Virtue becomes enduring/long-lasting;","Cultivate this in your community, and its integrity becomes long-lasting. / Cultivate this in your nation, and its integrity becomes bountiful.",proportional
 54,5,2,修之於邦，其德乃豐；,"Xiū zhī yú bāng, qí dé nǎi fēng;","Cultivate it in the state/nation, its Virtue becomes rich/bountiful;","Cultivate this in the world, and its integrity becomes universal.",proportional
-54,6,2,修之於天下，其德乃普。,"Xiū zhī yú tiān xià, qí dé nǎi pǔ.","Cultivate it in the world, its Virtue becomes universal/widespread.","Therefore, observe the self through your own self. / Observe the family through your family.",proportional
+54,6,2,修之於天下，其德乃普。,"Xiū zhī yú tiān xià, qí dé nǎi pǔ.","Cultivate it in the world, its Virtue becomes universal/widespread.","Therefore, observe the body through your own body. / Observe the family through your family.",proportional
 54,7,3,故以身觀身，以家觀家，,"Gù yǐ shēn guān shēn, yǐ jiā guān jiā,","Therefore observe the self through the self, observe the family through the family,",Observe the community through your community.,proportional
 54,8,3,以鄉觀鄉，以邦觀邦，以天下觀天下。,"Yǐ xiāng guān xiāng, yǐ bāng guān bāng, yǐ tiān xià guān tiān xià.","observe the village through the village, observe the state through the state, observe the world through the world.",Observe the nation through your nation. / Observe the world through the world.,proportional
 54,9,3,吾何以知天下然哉？以此。,Wú hé yǐ zhī tiān xià rán zāi? Yǐ cǐ.,How do I know the world is thus? By this.,How do I know the world is so? By this.,proportional
@@ -696,7 +696,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 66,1,1,江海所以能為百谷王者，,"Jiāng hǎi suǒ yǐ néng wéi bǎi gǔ wáng zhě,","The reason rivers and seas can function as the kings of the hundred valleys,",Rivers and seas can rule the hundred valleys / because they are masterful at staying below them.,proportional
 66,2,1,以其善下之，故能為百谷王。,"Yǐ qí shàn xià zhī, gù néng wéi bǎi gǔ wáng.","Is because they are masterful at positioning themselves lower than them, thus they can function as the kings of the hundred valleys.",That is how they come to rule the hundred valleys.,proportional
 66,3,2,是以欲上民，必以言下之；,"Shì yǐ yù shàng mín, bì yǐ yán xià zhī;","Therefore, wishing to be above the people, one must by words position oneself below them;","So to rise above the people, you must speak from below them.",proportional
-66,4,2,欲先民，必以身後之。,"Yù xiān mín, bì yǐ shēn hòu zhī.","Wishing to be ahead of the people, one must put one's person/body behind them.","To walk ahead of the people, you must put yourself behind.",proportional
+66,4,2,欲先民，必以身後之。,"Yù xiān mín, bì yǐ shēn hòu zhī.","Wishing to be ahead of the people, one must put one's person/body behind them.","To walk ahead of the people, you must put your body behind them.",proportional
 66,5,3,是以聖人處上而民不重，,"Shì yǐ shèng rén chǔ shàng ér mín bù zhòng,",Therefore the Sage dwells above and the people do not feel heavy/burdened;,"The sage stands above, and the people are not weighed down, / stands in front, and the people are not hindered.",proportional
 66,6,3,處前而民不害。,Chǔ qián ér mín bù hài.,Dwells in front and the people do not feel harmed/obstructed.,So the world gladly pushes them forward and never tires of them.,proportional
 66,7,4,是以天下樂推而不厭。,Shì yǐ tiān xià lè tuī ér bù yàn.,Therefore the world gladly pushes them forward and does not tire of them.,"Because they do not contend,",proportional
@@ -764,7 +764,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 75,2,2,民之難治，以其上之有為，是以難治。,"Mín zhī nán zhì, yǐ qí shàng zhī yǒu wéi, shì yǐ nán zhì.","The people are difficult to govern, because their superiors have ""doing"" (interference), therefore they are difficult to govern.",The people are hard to govern / because those over them will not stop doing.,proportional
 75,3,2,民之輕死，以其上求生之厚，是以輕死。,"Mín zhī qīng sǐ, yǐ qí shàng qiú shēng zhī hòu, shì yǐ qīng sǐ.","The people treat death lightly, because their superiors seek ""life"" (luxury) with such thickness/profuseness, therefore they treat death lightly.",The people make light of death / because those over them want their own lives so rich.,proportional
 75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Those who don't use living for doing / are worthier than those who hold life precious.,proportional
-76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and weak; at death it is rigid and hard/strong.,"In life the body is soft and yielding. / In death, hard and strong.",proportional
+76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and weak; at death it is rigid and hard/strong.,"In life a person is soft and yielding. / In death, hard and strong.",proportional
 76,2,1,萬物草木之生也柔脆，其死也枯槁。,"Wàn wù cǎo mù zhī shēng yě róu cuì, qí sǐ yě kū gǎo.",The ten thousand things—grass and trees—are in life supple and fragile; at death they are withered and dried.,"In life the countless things, the grasses and trees, are soft and tender. / In death, withered and dry.",proportional
 76,3,2,故堅強者死之徒，,"Gù jiān qiáng zhě sǐ zhī tú,","Therefore the rigid and hard/strong are the disciples/company of death,",So the hard and strong are followers of death.,proportional
 76,4,2,柔弱者生之徒。,Róu ruò zhě shēng zhī tú.,The supple and weak are the disciples/company of life.,"The soft and yielding are followers of life. / This is why a strong army does not win,",proportional

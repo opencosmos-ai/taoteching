@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**47 entries.** Sorted by how much of the book each term touches.
+**48 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -26,6 +26,7 @@ python3 tools/build_index.py
 | **明** | *míng* | clear-seeing / clarity | "enlightenment", "illumination", "brilliance" | 12 | **locked** | [`ming-明.md`](ming-明.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
+| **身** | *shēn* | body — and *the end of your days* in the lifespan compounds 終身 / 没身 | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
 | **一** | *yī* | the one (lowercase) · one thing (ch 22) · plain numeral where it counts | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
 | **守** | *shǒu* | hold to — and *guard* where what is kept is ground or property | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
@@ -47,7 +48,7 @@ python3 tools/build_index.py
 | **自然** | *zì rán* | of itself / of themselves · so of itself | "Nature", "spontaneity", "self-so" | 5 | **locked** | [`ziran-自然.md`](ziran-自然.md) |
 | **虛** | *xū* | empty (adjective) · to empty (verb) | "emptiness", "the void", "vacuity", "nothingness" | 5 | open — not yet a lock | [`xu-虛.md`](xu-虛.md) |
 | **貨** | *huò* | goods | "treasure", "precious", "scarce", "riches" | 5 | **locked** | [`huo-貨.md`](huo-貨.md) |
-| **保** | *bǎo* | keep safe | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
+| **保** | *bǎo* | keep safe — and bare *keep* where the object is not cherished (ch 9 alone) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |

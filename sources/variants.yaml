@@ -360,6 +360,24 @@
     sense of over-sharpening requires.
   logged: notes/manuscript.md
 
+- chapter: 9
+  line: "功遂身退，天之道"
+  base: "功遂"
+  witnesses: { siku-wangbi: "功成名遂", heshanggong: "功成名遂" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku editors' own collation note on 王弼 reads 案河上公注本及各本俱作功成名遂身退
+    — "Heshang Gong's commentary text and all editions read 功成名遂身退." Our base
+    carries the shorter 功遂身退, which is therefore the minority reading among the
+    editions the compilers knew. 名 (míng — name, reputation) is the character at
+    stake: the longer reading adds "the name achieved" beside "the work
+    completed," which is what 河上公 then glosses at ch 44 (名遂則身退也). We keep
+    the base, per the standing rule that this is an edition of the received
+    recension; the fork is recorded because the English turns on how many things
+    are finished before the body withdraws.
+  logged: notes/manuscript.md
+
 - chapter: 26
   line: "君子終日行不離輜重"
   base: "君子"

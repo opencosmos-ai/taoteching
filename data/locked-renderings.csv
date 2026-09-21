@@ -77,9 +77,13 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,This dark gateway birthed the sky and the earth.
 6,6,用,yòng,無 & 有,use,NOT FOUND,0.2,proportional-fill,"Unceasing yet barely perceptible, it can never be exhausted."
 7,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The sky is lasting, the earth enduring."
-7,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Lasting and enduring,"
-7,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Sky and earth do not live for themselves.
-7,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,They endure without limit.
+7,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Sky and earth can last and endure
+7,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"because they do not live for themselves,"
+7,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,and so they live long.
+7,5,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,"So the sage puts their body last, and their body comes first;"
+7,5,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,"So the sage puts their body last, and their body comes first;"
+7,6,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,"puts their body outside, and their body survives."
+7,6,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,"puts their body outside, and their body survives."
 7,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
 7,7,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
 7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so their private self is fulfilled.
@@ -104,11 +108,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 8,11,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In moving, masterful at timing."
 8,12,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"Because it does not contend,"
 8,13,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,there is no blame.
-9,1,持,Chí,持,hold,NOT FOUND,0.3,proportional,"Filling a vessel, stop before spilling."
-9,4,保,bǎo,保,keep safe,NOT FOUND,0.2,proportional-fill,An over-sharpened blade’s edge cannot last.
-9,6,守,shǒu,守,hold to — and *guard* where what is kept is ground or property,NOT FOUND,0.2,proportional-fill,The hall of gold and jade can’t be guarded.
-9,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.2,proportional-fill,"When the work is done, cease striving. This is the way of nature."
-9,10,道,dào,道,the Tao (left untranslated),NOT FOUND,0.2,proportional-fill,"When the work is done, cease striving. This is the way of nature."
+9,1,持,Chí,持,hold,yes,0.3,proportional,"Rather than keep filling what you hold, stop."
+9,4,保,bǎo,保,keep safe — and bare *keep* where the object is not cherished (ch 9 alone),NOT FOUND,0.2,proportional-fill,"Hammer a point ever sharper, and it will not keep for long."
+9,6,守,shǒu,守,hold to — and *guard* where what is kept is ground or property,NOT FOUND,0.2,proportional-fill,"Gold and jade fill the hall, and no one can guard them."
+9,9,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"The work done, the body withdraws. This is the way of nature."
+9,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.2,proportional-fill,"The work done, the body withdraws. This is the way of nature."
+9,10,道,dào,道,the Tao (left untranslated),NOT FOUND,0.2,proportional-fill,"The work done, the body withdraws. This is the way of nature."
 10,1,一,yī,一,the one (lowercase) · one thing (ch 22) · plain numeral where it counts,NOT FOUND,0.3,proportional,"Housing your soul and embracing the one, can you keep these from parting?"
 10,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Gathering the breath to softness, can you be like an infant?"
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,0.3,proportional,"Loving the people and governing the state, can you be unknowing?"
@@ -152,23 +157,29 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 12,8,腹,fù,心,belly,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 13,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,Prize great trouble as your own body.
+13,2,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,Prize great trouble as your own body.
 13,4,為,wéi,為,do / handle / serve as,yes,0.2,proportional-fill,What does it mean that favor and disgrace are both a shock?
 13,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.2,proportional-fill,Losing it is a shock.
+13,8,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.2,proportional-fill,Losing it is a shock.
 13,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,This is what is meant: favor and disgrace are both a shock.
 13,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,This is what is meant: favor and disgrace are both a shock.
 13,9,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,This is what is meant: favor and disgrace are both a shock.
 13,10,吾,wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,What does it mean to prize great trouble as your own body?
 13,10,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,What does it mean to prize great trouble as your own body?
 13,10,為,Wèi,為,do / handle / serve as,yes,0.3,proportional,What does it mean to prize great trouble as your own body?
+13,10,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,What does it mean to prize great trouble as your own body?
 13,11,吾,wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,The reason I have great trouble is that I have a body.
 13,11,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,The reason I have great trouble is that I have a body.
+13,11,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,The reason I have great trouble is that I have a body.
 13,12,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.2,proportional-fill,The reason I have great trouble is that I have a body.
 13,12,有,yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,The reason I have great trouble is that I have a body.
 13,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"If I had no body, what trouble would I have?"
 13,13,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"If I had no body, what trouble would I have?"
+13,13,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"If I had no body, what trouble would I have?"
 13,14,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,So one who prizes their body as a way to serve the world can be trusted with the world.
 13,15,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,One who loves their body as a way to serve the world can be trusted with it.
 13,15,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,One who loves their body as a way to serve the world can be trusted with it.
+13,15,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,One who loves their body as a way to serve the world can be trusted with it.
 13,16,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,One who loves their body as a way to serve the world can be trusted with it.
 14,8,一,yī,一,the one (lowercase) · one thing (ch 22) · plain numeral where it counts,NOT FOUND,0.3,proportional,Or a dark bottom.
 14,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Or a dark bottom.
@@ -190,7 +201,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,5,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I force a likeness:
 15,10,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"Solid, like uncarved wood."
 15,14,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Who can be at rest, and by moving it slowly come to life?"
-15,15,保,Bǎo,保,keep safe,NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
+15,15,保,Bǎo,保,keep safe — and bare *keep* where the object is not cherished (ch 9 alone),NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
 15,15,道,dào,道,the Tao (left untranslated),NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
 16,1,極,jí,極,the far end — where a thing runs out · the endless (無極),NOT FOUND,0.3,proportional,Go totally empty.
 16,1,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,0.3,proportional,Go totally empty.
@@ -214,6 +225,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,17,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,The Tao leads to what endures.
 16,17,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The Tao leads to what endures.
 16,18,道,Dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"And to the end of your days, no danger will find you."
+16,19,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.2,proportional-fill,"And to the end of your days, no danger will find you."
 17,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"About the greatest leaders, little is known."
 17,5,信,Xìn,信,trust / trustworthy,yes,1.0,exact-count,"Where trust runs short, there is no trust."
 17,5,信,xìn,信,trust / trustworthy,yes,1.0,exact-count,"Where trust runs short, there is no trust."
@@ -340,11 +352,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,18,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,The Tao models itself on being what it is.
 25,18,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The Tao models itself on being what it is.
 25,19,道,Dào,道,the Tao (left untranslated),NOT FOUND,0.2,proportional-fill,The Tao models itself on being what it is.
-26,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The heavy is the root of the ungrounded.
-26,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Silence is the ruler of the agitated.
-26,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Even when the sights are glorious, their equanimity is undisturbed."
-26,6,萬,wàn,萬物,countless,NOT FOUND,0.3,proportional,How could a great ruler become ungrounded in their being?
-26,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,To become ungrounded is to lose connection with one’s roots.
+26,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The heavy is the root of the light.
+26,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Stillness is the ruler of the agitated.
+26,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Even where the sights are glorious, they dwell at ease and stay apart."
+26,6,萬,wàn,萬物,countless,NOT FOUND,0.3,proportional,make their own body light in the world?
+26,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Lightness loses the root.
+26,7,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,Lightness loses the root.
 27,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful traveling leaves no tracks.
 27,1,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful traveling leaves no tracks.
 27,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful speaking is flawless.
@@ -653,7 +666,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 43,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
 43,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
 43,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,few ever reach this.
-44,2,貨,huò,貨,goods,yes,1.0,exact-count,Your self or goods — which is worth more?
+44,1,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,Reputation or your body — which is dearer?
+44,2,貨,huò,貨,goods,yes,1.0,exact-count,Your body or goods — which is worth more?
+44,2,身,Shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,1.0,exact-count,Your body or goods — which is worth more?
 44,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Therefore, extreme attachment inevitably brings great cost"
 45,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,1,用,yòng,無 & 有,use,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
@@ -763,16 +778,20 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,1,母,mǔ,母,mother,yes,0.3,proportional,"The world has an origin, which serves as the mother of the world. Find our mother, and you know her children."
 52,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"The world has an origin, which serves as the mother of the world. Find our mother, and you know her children."
 52,2,母,mǔ,母,mother,yes,0.3,proportional,"Know her children, return and hold fast to our mother,"
-52,3,守,shǒu,守,hold to — and *guard* where what is kept is ground or property,NOT FOUND,0.3,proportional,"and to the end of your days, no danger will find you. Block the openings, close the doors, and all your life will be struggle-free."
-52,3,母,mǔ,母,mother,NOT FOUND,0.3,proportional,"and to the end of your days, no danger will find you. Block the openings, close the doors, and all your life will be struggle-free."
+52,3,守,shǒu,守,hold to — and *guard* where what is kept is ground or property,NOT FOUND,0.3,proportional,"and to the end of your days, no danger will find you. Block the openings, close the doors, and to the end of your days you will not toil."
+52,3,母,mǔ,母,mother,NOT FOUND,0.3,proportional,"and to the end of your days, no danger will find you. Block the openings, close the doors, and to the end of your days you will not toil."
+52,3,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"and to the end of your days, no danger will find you. Block the openings, close the doors, and to the end of your days you will not toil."
+52,4,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"Open the openings, multiply your affairs, and to the end of your days you are beyond saving."
 52,5,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.3,proportional,To recognize things in their smallest form is clear-seeing.
+52,5,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,To recognize things in their smallest form is clear-seeing.
 52,6,守,shǒu,守,hold to — and *guard* where what is kept is ground or property,NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,小,xiǎo,大,small,NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,明,míng,明,clear-seeing / clarity,yes,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
-52,7,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,and you bring no calamity upon yourself.
-52,7,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and you bring no calamity upon yourself.
-52,7,用,Yòng,無 & 有,use,NOT FOUND,0.3,proportional,and you bring no calamity upon yourself.
+52,7,明,míng,明,clear-seeing / clarity,NOT FOUND,0.3,proportional,and leave no calamity for the body.
+52,7,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and leave no calamity for the body.
+52,7,用,Yòng,無 & 有,use,NOT FOUND,0.3,proportional,and leave no calamity for the body.
+52,7,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,8,常,cháng,常,the ever-present / the abiding,yes,0.3,proportional,This is called the ever-present worn covered.
 53,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
@@ -788,11 +807,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away.
 54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away.
 54,2,德,dé,德,integrity,yes,0.3,proportional,"Descendants will never cease offering sacrifices honoring this. Cultivate this in your body, and its integrity becomes authentic."
+54,2,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"Descendants will never cease offering sacrifices honoring this. Cultivate this in your body, and its integrity becomes authentic."
 54,3,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in your family, and its integrity becomes abundant."
 54,4,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your nation, and its integrity becomes bountiful."
 54,5,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in the world, and its integrity becomes universal."
-54,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Therefore, observe the self through your own self. Observe the family through your family."
-54,6,德,dé,德,integrity,NOT FOUND,0.3,proportional,"Therefore, observe the self through your own self. Observe the family through your family."
+54,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Therefore, observe the body through your own body. Observe the family through your family."
+54,6,德,dé,德,integrity,NOT FOUND,0.3,proportional,"Therefore, observe the body through your own body. Observe the family through your family."
+54,7,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,Observe the community through your community.
+54,7,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,Observe the community through your community.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the nation through your nation. Observe the world through the world.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the nation through your nation. Observe the world through the world.
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,How do I know the world is so? By this.
@@ -875,7 +897,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 62,1,物,wù,萬物,things / something,yes,0.3,proportional,"The Tao is the sanctuary of the countless things, the treasure of those who are masterful,"
 62,1,萬,wàn,萬物,countless,yes,0.3,proportional,"The Tao is the sanctuary of the countless things, the treasure of those who are masterful,"
 62,1,道,Dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"The Tao is the sanctuary of the countless things, the treasure of those who are masterful,"
-62,2,保,bǎo,保,keep safe,NOT FOUND,0.3,proportional,and what keeps safe those who are not.
+62,2,保,bǎo,保,keep safe — and bare *keep* where the object is not cherished (ch 9 alone),NOT FOUND,0.3,proportional,and what keeps safe those who are not.
 62,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.3,proportional,and what keeps safe those who are not.
 62,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.3,proportional,and what keeps safe those who are not.
 62,4,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"Fine conduct can raise a person above others. So when a person is unmasterful, why abandon them?"
@@ -948,6 +970,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.3,proportional,That is how they come to rule the hundred valleys.
 66,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,That is how they come to rule the hundred valleys.
 66,2,王,wáng,王,ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb),NOT FOUND,0.3,proportional,That is how they come to rule the hundred valleys.
+66,4,身,shēn,身,body — and *the end of your days* in the lifespan compounds 終身 / 没身,NOT FOUND,0.3,proportional,"To walk ahead of the people, you must put your body behind them."
 66,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Because they do not contend,"
 66,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,no one in the world can contend with them.
 66,8,爭,zhēng,爭,contend / contention,yes,0.3,proportional,no one in the world can contend with them.
@@ -957,7 +980,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,1,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
 67,1,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
 67,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"If it looked like anything, it would long since have been slight."
-67,4,保,bǎo,保,keep safe,NOT FOUND,0.3,proportional,The second is frugality.
+67,4,保,bǎo,保,keep safe — and bare *keep* where the object is not cherished (ch 9 alone),NOT FOUND,0.3,proportional,The second is frugality.
 67,4,我,Wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,The second is frugality.
 67,4,持,chí,持,hold,NOT FOUND,0.3,proportional,The second is frugality.
 67,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,The second is frugality.
@@ -1045,9 +1068,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,4,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Those who don't use living for doing are worthier than those who hold life precious.
 75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Those who don't use living for doing are worthier than those who hold life precious.
 75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Those who don't use living for doing are worthier than those who hold life precious.
-76,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"In life the body is soft and yielding. In death, hard and strong."
-76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"In life the body is soft and yielding. In death, hard and strong."
-76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life the body is soft and yielding. In death, hard and strong."
+76,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
+76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
+76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
 76,2,物,wù,萬物,things / something,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
 76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
 76,2,萬,Wàn,萬物,countless,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."

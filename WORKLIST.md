@@ -16,7 +16,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **125 item rows: 55 open · 63 done · 4 part done · 3 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **126 item rows: 53 open · 67 done · 3 part done · 3 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 | PB | ✅ | **仁 → humaneness · 慈 → tenderness · 孝 → devotion**; Guodian G1 closed | 5 18 19 20 38 | B |
 | PC | ✅ | ~~**The mirrors**~~ — every C-tagged row closed (T3-1, T2-9→14); T2-15's remainder moved to D with ch 28 and T1-8 | T3-1 · T2-9→15 | C |
 | PD | ✅ | ~~**Chapter-level rewrites** — the real work~~ — **all 19 chapters closed 2026-09-07.** One row per chapter below; **the count lives in those rows, not here** | D3 → D64 | D |
-| PE | 🔶 | Entries and sweeps — ~~**守 執 保 持**~~ (T2-19 ★, closed 2026-09-08) · 身 氣 靜 君 智 事 志 谷 恃 | book-wide | E |
+| PE | 🔶 | Entries and sweeps — ~~**守 執 保 持**~~ (T2-19 ★, closed 2026-09-08) · ~~**身**~~ (T2-1 ★, closed 2026-09-20) · 氣 靜 君 智 事 志 谷 恃 | book-wide | E |
 | PF | ⬜ | The deferred calls | 民/人 · 正/奇 · em-dashes | F |
 | PG | ⬜ | `build.py` | — | G |
 | | | **Tier 1 · Wrong, not merely inconsistent** | | |
@@ -54,15 +54,15 @@
 | T1-21 | ⬜ | 配天 — the chapter and its own note disagree; the contested 天 line | 68 | F |
 | | | **Tier 2 · One character, many Englishes** | | |
 | T2-19 | ✅ | ~~★ **The holding family — 守 執 保 有 collapsed into "hold."**~~ — **說文 gives four different hands, and 守 has none.** 執 → *grasp* (*seize* at 74, the arrest — 捕罪人也 is the dictionary headword) · 守 → *hold to* / *guard* · 保 → *keep safe* · 持 → *hold*. **Four entries written and locked.** *Guard* had been worn by **three characters** (守 9, 保 15, 衛 67) — unseeable by any rule, since 守 and 保 share both ch 9 and ch 67. Riders: 搏 (14), 握 (55), 左 (79), 有 (59), 襲 (52), ch 5. **Ch 9 open → T2-51** | 5 9 14 15 16 28 29 32 35 37 52 55 59 62 64 67 69 74 79 | E |
-| T2-51 | ⬜ | **Ch 9 renders neither 持 nor 保, and invents a vessel** — 持而盈之 → *"Filling a vessel"* (no 器 in the chapter); 揣而銳之，不可長保 → *"An over-sharpened blade's edge cannot last"*. A stanza rewrite; travels with T2-1 and T1-20 | 9 | E |
-| T2-1 | ⬜ | **身** — *body* / *self* / *themselves*, and two of them inside ch 54. *Ch 10 avoided the noun for 營魄; if 身 lands on* body*, revisit that line* | 7 9 13 44 54 | E |
+| T2-51 | ✅ | ~~**Ch 9 renders neither 持 nor 保, and invents a vessel**~~ — the chapter rebuilt: **持 · 保 · 守 all three on the page**, 不如 restored as a construction, the 器-less vessel gone and the referent named grammatically, 銳 held to *point* (說文 芒也; the edge is 刃, one line in the book), 咎 → *fault* following ch 46's couplet, 遺 rendered, and 身退 restored. **保 takes bare *keep* here, a declared flexion** — ch 9 is its only negative instance and its only uncherished object, and the lock had been argued from this chapter's gloss table rather than its verse. One fork logged | 9 | E |
+| T2-1 | ✅ | ~~**身** — *body* / *self* / *themselves*, and two of them inside ch 54~~ — **身 → *body*, locked** (2026-09-19, Shalom's call); one character that had **six** Englishes and at ch 9 none. Entry written; 終身/没身 flexed to *to the end of your days* and declared. Swept at 7 (身 ×4, and **生** restored at 故能長生), 9, 26, 44, 52, 54, 66, plus the **ch 76 rider** where *body* rendered 人. *Self* refused: it is 我/吾's and, at ch 7, 私's. **Ch 10's rider resolves as no change** | 7 9 13 16 26 44 52 54 66 76 | E |
 | T2-2 | 🔶 | **智** four ways; **ch 3 settled as *the knowers*, fork logged**; *"cunning"* still wears 巧 at 19 and 57 | 3 18 19 33 65 | E |
 | T2-3 | ✅ | ~~**士** three ways, two on the identical phrase 善為士者~~ — all three now **in service** (2026-09-07, Shalom's call). 說文 士，事也: one who handles **affairs**, not a student; 河上公 has the middle 士 治國以太平, *governing the state*. *Officer* was declined as bureaucratic and negatively valenced. **Entry written and locked: `glossary/shi-士.md`.** **Seam noted:** 士 named a male class and the English is deliberately neutral. Opens T2-47 | 15 41 68 | E |
 | T2-4 | 🔶 | **氣** — ch 10 → *breath* (河上公 呼吸精氣); *vital breath* (42) and *vital energy* (55) still split | 10 42 55 | E |
 | T2-21 | ⬜ | **厚** four ways — *thick* (38) · *heavy* (44) · *abundant* (55) · *rich* (75) | 38 44 50 55 75 | E |
 | T2-22 | ✅ | ~~**嬰兒 / 赤子** both read *newborn*~~ — 嬰兒 → *infant* (10, 20, 28); 赤子 keeps *newborn* (55) | 10 20 28 55 | E |
-| T2-5 | ⬜ | **靜** reads *"Silence"* here alone | 26 | E |
-| T2-6 | 🔶 | ~~君子 → *"the sage"* — the opposition's honorific on our figure~~ — **君子 → *the noble* at 26 and 31** (2026-09-07, Shalom's call; neutral over *the gentleman*). **Still open: 君 alone reads *ruler* and *mastery* three lines apart at ch 26.** *Rank question → T4-7* | 26 31 | E |
+| T2-5 | ✅ | ~~**靜** reads *"Silence"* here alone~~ — **stillness**, matching its seven other lines (16, 45, 57, 61); closed with the ch 26 rebuild | 26 | E |
+| T2-6 | ✅ | ~~君子 → *"the sage"* — the opposition's honorific on our figure~~ — **君子 → *the noble* at 26 and 31** (2026-09-07, Shalom's call; neutral over *the gentleman*), and **君 alone now reads *ruler* in both of ch 26's lines** (2026-09-20), where it had been *ruler* and *mastery* three lines apart in a matched pair. *Rank question → T4-7* | 26 31 | E |
 | T2-7 | ⬜ | **志** — *ambition* (3) / *will* (33) | 3 33 | E |
 | T2-8 | ✅ | ~~Eight 善 rendered eight ways~~ — **nine**, and one was deleted; all nine now **masterful**; 上善 → *the most masterful*; **善 governs a verb, 18 of 18** | 8 | D |
 | T2-9 | ✅ | ~~**辯** → *"eloquence"*~~ — **argue** in both; the 大X若Y frame does not endorse its X | 45 81 | C |
@@ -120,6 +120,7 @@
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together | 41 45 + glossary | E |
 | T2-49 | ⬜ | **兵 two Englishes** — *weapons* at 31, 50, 57, 69, 80 and *military force* at ch 30 (以兵強天下). *Arms* is unavailable: that is 臂, the body's arms, at 38, 42 and 64 | 30 31 50 57 69 76 80 | E |
 | T2-50 | ⬜ | **Two characters now share the "carv-" root** — 制 (28, 32) and 斫 (*zhuó* — to hew) at ch 74, 代大匠斫 → *"those who carve in place of the master carpenter."* They never share a chapter, so no check fires; but 斫 is axe-work where 制 is a fitted cut | 28 32 74 | E |
+| T2-53 | ⬜ | ★ **The calamity family — five characters, and *disaster* is worn by two of them.** 禍 (*huò*, 說文 害也，神不福也) → *disaster* at 46, 58 ×2, 69 · **凶** (*xiōng*) → *disaster* at 16, 30 and *ill* at 31 · 咎 (*jiù*, 說文 **災也**; 人 + 各, 相違也 *at odds*) → *fault* at 46 and 9 · 殃 (*yāng*, 說文 **咎也**) → *calamity* at 52 · 患 (*huàn*, 說文 憂也) → *trouble*, locked at 13. **The 守/保/衛 *guard* pattern again**, and unlike 身/神 **a rule could catch this one**: 咎 and 禍 share ch 46, in a parallel couplet that is only legible because they differ. Wants one entry | 13 16 30 31 46 52 58 69 | E |
 | T4-1 | ⏸ | **民 / 人** — one decision, whole book. Consider taking 身 (T2-1) with it. *Kin to T4-7* | 13 chapters | F |
 | T4-2 | ⏸ | **正 / 奇** — five Englishes | 37 45 57 58 78 | F |
 | T4-3 | ⏸ | **Em-dashes in the verse** — 14 lines *(ch 28's two and ch 15's one went with their rewrites, not by decision)* | 10 14 29 43 44 51 53 55 58 | F |

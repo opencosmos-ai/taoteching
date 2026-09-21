@@ -5,7 +5,7 @@ status: active
 since: 2026-09-06
 trigger: "your English carries a pronoun, a participle or a dash whose subject the reader has to guess"
 applies: [drafting]
-evidence: ["notes/translation.md#ch-22", "notes/translation.md#typography-lowercase-and-no-em-dashes-in-the-verse"]
+evidence: ["notes/translation.md#ch-22", "notes/translation.md#typography-lowercase-and-no-em-dashes-in-the-verse", "notes/translation.md#ch-9-three-verbs-for-keeping-and-the-english-had-one"]
 check: none
 supersedes: []
 ---
@@ -35,6 +35,8 @@ supersedes: []
 **Ch 22's 之.** An intermediate draft read *"Stay whole, and return to it,"* and Shalom asked what *it* referred to — the words, or wholeness. **The Chinese does not say, and English had already answered.** The referent was named. → [ch 22](../../notes/translation.md#ch-22)
 
 **Ch 2's stranded subject** is the same fault behind a dash, and it is what the typography rule is actually protecting against. → [Typography](../../notes/translation.md#typography-lowercase-and-no-em-dashes-in-the-verse)
+
+**Ch 9's 之, twice.** A draft read *"To hold it and fill it is not as good as stopping"* for 持而盈之, and Shalom asked what was being held and filled. The old published line had answered the question by **inventing a vessel** — 器 (*qì*) is not in the chapter, and is a locked term belonging to nine other chapters. **Both are the same failure**: one hid the choice in a pronoun, the other made the choice and imported a noun to carry it. The resolution was to name the referent **grammatically** — *what you hold* — which resolves the pronoun without adding a character. → [ch 9](../../notes/translation.md#ch-9-three-verbs-for-keeping-and-the-english-had-one)
 
 ---
 

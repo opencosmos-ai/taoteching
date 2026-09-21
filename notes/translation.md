@@ -2706,3 +2706,63 @@ At ch 15 and 67 a person keeps something safe; at ch 62 the Tao keeps a person s
 **The standing principle it yields: where a rendering is chosen for one chapter's legibility, the connection it forgoes becomes an obligation on the notes, not a debt on the verse.** So the link is carried by an **anchor note at ch 14** listing all three with their graphs and recurrences, and a matching **thread note at chapters 15, 23, 36, 41, 43, 53, 64, 70 and 74**, each pointing back. **Ch 41 carries the counter-argument as well as the pointer**, because that is where 王弼 makes it.
 
 **What stays open** is whether the *recurrences* agree among themselves: 夷 at 41 against 53 (T2-30), and 微's *hidden* at 36 against *faint* at 15 and 64 (T2-34). 希's six chapters remain TRIAGE 14b.
+
+---
+
+## 身 (*shēn*) → *body* — one character that had six Englishes
+
+*(Shalom's call, 2026-09-19. `WORKLIST.md` T2-1. Full argument: `glossary/shen-身.md`.)*
+
+身 stands twenty times across nine chapters and was reading **six ways** — *body* (13, 54), *self* (44, 54), *themselves / their selves* (7), *yourself* (52, 66), *their being* (26), and at ch 9 **nothing at all**. Now **body** everywhere, with one declared flexion.
+
+**The graph settles what kind of word it is.** The oracle-bone form is a person in profile **with the abdomen swollen**, which is the entire difference from 人 (*rén* — a person); 說文 gives 躳也。象人之身 and 段玉裁 rejects its 从人𠂆聲 phonetic reading as an error. The oldest attested sense is pregnancy — 詩經 大明, 大任**有身**，生此文王 — and 身 is cognate with 孕 (*yùn* — pregnant). So **身 is a person seen as something that carries, and can be burdened**, which is 河上公's 財多**累身** (*"much wealth burdens the body"*, 9 and 44) and is why ch 13's 為吾**有身** is the Odes' idiom character for character.
+
+**Why not *self*, which flows better at ch 7.** Three reasons, and the third is the general one:
+
+1. *self* is **我/吾**'s (`wo-wu-我吾.md`, which already names 吾/身 as its cousin-pair), and at **ch 7 it is also 私's** — the one chapter where 身 and 私 (*sī* — private interest) stand in the same stanza, and where 王弼 makes their difference the argument: 無私者，**無為於身**也.
+2. **Ch 7 is about staying alive.** 存 (*cún* — remains in existence) answers 長生 (*cháng shēng* — long life) four lines above it, and 河上公 reads 身存 with no metaphor: 百姓愛之如父母…故**身常存**. A self does not survive; a body does.
+3. **Using *body* for the physical lines and *self* for the interior ones performs a split this tradition does not make.** 河上公's 修道於身，**愛氣養神** names the 身 as the *site* and 氣 and 神 as what is nourished in it — a structure, not a merger. Choosing between the two English words chapter by chapter is a dualism imported and then attributed to the text.
+
+**The flexion, declared rather than drifted into.** In 終身 (*zhōng shēn*) and 没身 (*mò shēn*) the character marks **the span of a life**, not the flesh: all four lines (16 · 52 ×3) read *to the end of your days*. Ch 52's two 終身 lines had been *"all your life"* and *"your life"*; they now match.
+
+**Riders applied.**
+
+- **Ch 7** — 身 ×4 restored in place of *themselves / their selves*, and **生 (*shēng* — to live) restored at 故能長生**, which the verse had lost to *"They endure without limit."* The chapter now runs 長生 → 身存 as one argument.
+- **Ch 54** — 以身觀身 → *observe the body through your own body*, rejoining the first stanza's 修之於身 and restoring the 身 → 家 → 鄉 → 國 → 天下 ladder's first rung in both directions.
+- **Ch 52** — 無遺身殃 → *leave no calamity for the body*; 遺 (*yí* — to leave behind) now rendered.
+- **Ch 44 · 66** — mechanical.
+- **Ch 76** — *"In life the body is soft and yielding"* renders 人之生也柔弱, which has **no 身**. Now *a person*. A rendering that had taken 身's English in a chapter where the character is absent.
+
+**The axis the entry adds.** 身 is weighed against 名 (*míng* — reputation) and 貨 (*huò* — goods) at 44, against 功 (*gōng* — merit and office) at 9, and against 大患 (*dà huàn* — great trouble) at 13. **The class is everything a person could acquire, and 天下 (*tiān xià* — the world) is simply the maximum of that class** — which is why ch 13, 26 and 54 put 身 and 天下 in a single line, and why ch 26's English losing 天下 cost more than one word.
+
+**What no check can hold.** *self* cannot go on 身's `forbidden:` list: 身 shares ch 7 with 私 and ch 13, 16, 54 with 我/吾, and the evidence gate keys off a character's presence in that chapter. And the collision with **神** (*shén* — spirit) is invisible for the opposite reason — 神 stands in 6, 29, 39, 60 and 身 in 7, 9, 13, 16, 26, 44, 52, 54, 66, so **they share no chapter at all**. Only `concordance.py --english "spirit"` finds it. The same two-way blindness that hid 固 and 壯 inside chapters containing 強.
+
+---
+
+## Ch 9 · three verbs for keeping, and the English had one
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-51 · T2-1. Fork in `notes/manuscript.md`.)*
+
+The chapter is a list of things that cannot be kept, and it uses **three different characters to say *keep*** — 持 (*chí* — hold), 保 (*bǎo* — keep safe), 守 (*shǒu* — guard). The old English rendered one of the three, invented a **vessel** for a chapter with no 器 (*qì*), flattened 不如 (*bù rú* — not as good as) to a comma, deleted 身 (*shēn* — body), and gave 咎 (*jiù*) the word that belongs to 敗 (*bài* — ruin) at ch 29 and 64.
+
+**The vessel was not arbitrary, and it still had to go.** 河上公 glosses the opening 持滿必傾 — *"hold it full and it must tip over"* — which points at the 欹器 (*qī qì*), the tilting vessel of the ancestral temple that stands upright part-full and capsizes when filled. But 器 is locked to *vessel / tool / implement* across nine chapters, none of them this one. **The referent is named grammatically instead** — *what you hold* — which is `name-the-referent`'s answer and its third case: 之 (*zhī*) is a light particle a Chinese reader passes over, where English *it* actively selects, so declining to resolve is not preserving openness.
+
+**保 → bare *keep*, a declared flexion** (`glossary/bao-保.md`). Its other three lines take a cherished object and are all positive — the Tao at 15 and 62, the three treasures at 67. **Ch 9 is the only negative instance and the only uncherished object**, and English *keep safe* wants something valued for its own sake. The lock had never been tested here: this verse rendered 保 nowhere, so the 2026-09-06 ruling was argued from the chapter's **gloss table** rather than from a line anyone had to say aloud.
+
+**銳 (*ruì*) is a point, not an edge, and what fails is the point.** 說文: 芒也。从金兌聲 — *"it is 芒 (máng, the awn of grain), on the metal radical."* The edge is 刃 (*rèn*), which occurs **once in the whole book**, at ch 50. 王弼 agrees — 既揣**末**令**尖** — and 揣 as *hammer* is 說文's own second gloss, 一曰**捶**之. The failure is breakage, not blunting: 王弼 勢必**摧**䘐, 河上公 後必**弃捐**. **And blunting is 挫's** (*cuò*, 說文 摧也) at 挫其銳, ch 4 and 56 — where it is the **remedy**. An English reading *"cannot be kept sharp"* would make this chapter's affliction and those chapters' cure the same sentence.
+
+**咎 → *fault*, on our own ch 46's authority.** 說文 gives 災也 (*disaster*) and a graph of 人 with 各 (相違也, *at odds*) — the falling-out and its consequence in one word. *Disaster* is unavailable anyway: **ch 46 sets 禍 (*huò*) and 咎 in a parallel couplet** — 禍莫大於不知足 / 咎莫大於欲得 — and gives *disaster* to 禍, *fault* to 咎. 遺 (*yí* — to leave behind) is now rendered, matching ch 20 and ch 52. **Opens T2-53**, the calamity family: *disaster* is currently worn by 禍 **and** 凶.
+
+**功遂身退 → *the work done, the body withdraws*.** *Cease striving* deleted 身 and borrowed 爭's (*zhēng*) word. 河上公 reads it as vacating office — 不**退身**避位則遇於害 — and quotes the same shape back at ch 44, 名遂則**身退**也.
+
+---
+
+## Ch 26 · the chapter turns on heavy against light, and *light* was gone
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-1 · T2-5 · T2-6.)*
+
+**輕 (*qīng* — light) had three Englishes in eight lines**, and it is the chapter's pivot: 重 (*zhòng* — heavy) against 輕 opens the chapter and delivers its verdict. *Ungrounded* stood at all three, so the pair was invisible. **輜重 (*zī zhòng* — the heavy baggage train) had become *sustenance***, taking the 重 that line 1 depends on; 王弼: 以重為本故不離.
+
+**奈何萬乘之主，而以身輕天下 had lost three of its parts** — 萬乘 (*wàn shèng* — ten thousand chariots) flattened to *a great ruler*, 身 turned into *their being*, and **天下 (*tiān xià* — the world) deleted outright.** This is one of only three lines in the book where 身 and 天下 stand together, and `chapters/013.md` cites it as the support for ch 13's closing couplet — so the evidence for a settled call did not say what the note said it said. 河上公: 王者至尊，而以其身行輕躁乎.
+
+**靜 → *stillness* (T2-5)**, against *Silence* here alone and seven lines elsewhere. **君 → *ruler* in both places (T2-6)**, where it had been *ruler* and *mastery* three lines apart in a matched pair. **燕處超然 → *they dwell at ease and stay apart***; *their equanimity is undisturbed* rendered no character.

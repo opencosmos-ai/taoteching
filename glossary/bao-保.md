@@ -1,7 +1,7 @@
 ---
 term: "保"
 pinyin: "bǎo"
-render: "keep safe"
+render: "keep safe — and bare *keep* where the object is not cherished (ch 9 alone)"
 forbidden: ["preserve", "safekeeping", "maintain", "hold on to", "safeguard"]
 chapters: [9, 15, 62, 67]
 status: locked
@@ -12,7 +12,7 @@ pairing: false
 
 *Say "bao," dipping. Four lines across four chapters, and it is the only one of the holding words that is not about your grip.*
 
-**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain.")*
+**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain.")* **One declared flexion: bare *keep* at chapter 9**, for the reason below.
 
 ### The graph: a person carrying a child
 
@@ -40,6 +40,16 @@ Both commentators make the Tao the agent there, not the object. 王弼 (*Wáng B
 > *"The Tao is what the unmasterful lean on for safety. Meeting trouble and sudden danger, they still know to repent and humble themselves."*
 
 保倚 — *to be kept safe by, to lean on.* He uses the same compound at chapter 67 for the three treasures: 我有三寳，抱持而**保倚**. One English across all four lets the two directions answer each other. **At chapter 15 you keep the Tao safe; at chapter 62 the Tao keeps you safe.** That reciprocity is in the character and nowhere in the syntax, and it disappears the moment the four lines take four words.
+
+### The one flexion, and the marker that licenses it
+
+Three of the four lines take an object that is **cherished**, and all three are **positive**: 此道 (*cǐ dào* — this Tao) at 15, the Tao acting on people at 62, 三寶 (*sān bǎo* — the three treasures) at 67. **Chapter 9 is the only negative instance and the only one whose object is not cherished** — 揣而銳之，**不可長保**, a metal point hammered ever finer by someone who is destroying it.
+
+English *keep safe* carries a requirement the Chinese does not: it wants an object **valued for its own sake**, something you would protect. A tool being wrecked by overwork is not that, and the phrase reads as a category error. So chapter 9 takes the verb without the qualifier — *"and it will not keep for long"* — which is 保's own root word, and which lets the intransitive do the work an impersonal 不可 asks for.
+
+**The entry's own argument demanded this and had not noticed.** Two sections below, *preserve* is set aside because *"保 is 養, growth, and the object of the verb at chapter 67 is three **living dispositions**, not three artifacts."* That reasoning presupposes a living or cherished object. Chapter 9's object is precisely the artifact.
+
+**The lock had never been tested here.** Chapter 9's verse rendered 保 nowhere until 2026-09-20, so the ruling of 2026-09-06 was argued from this chapter's **literal gloss table** rather than from a line anyone had to say out loud. Two markers, not one, keep the flexion honest and scoped: the negation and the object. A fifth occurrence sharing both would extend it; anything else does not.
 
 ### The chime, and what it costs
 
