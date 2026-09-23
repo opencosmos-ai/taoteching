@@ -77,7 +77,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 後,hòu,,,後,exact,彳,compound,,彳 (chì = a step taken; going),,11,,0.0799,遲也。从彳、幺、夊者，後也。,
 或,huò,sometimes,,或,exact,戈,compound,,"囗 (wéi = an enclosure, a boundary) + 戈 (gē = a dagger-axe)",,18,,0.0797,邦也。从囗从戈，以守一。一，地也。,
 柔,róu,suppleness/softness,,柔,exact,木,phonetic-compound,,木 (mù = not yet glossed),矛 (? = not yet glossed),11,,0.0791,木曲直也。从木矛聲。,
-治,zhì,,,治,exact,水,phonetic-compound,,水 (shuǐ = water),台 (? = not yet glossed),13,,0.0791,水。出東萊曲城陽丘山，南入海。从水台聲。,
+治,zhì,govern,govern,治,exact,水,phonetic-compound,,水 (shuǐ = water),台 (? = not yet glossed),13,locked,0.0791,水。出東萊曲城陽丘山，南入海。从水台聲。,
 矣,yǐ,particle,,矣,exact,矢,phonetic-compound,,矢 (shǐ = an arrow),以 (yǐ = ),10,,0.0788,語已詞也。从矢以聲。,
 終,zhōng,last the whole,,終,exact,糸,phonetic-compound,,糸 (mì = silk thread),冬 (dōng = not yet glossed),10,,0.0788,絿絲也。从糸冬聲。,
 歸,guī,return,,歸,exact,止,phonetic-compound,,止 (zhǐ = stopping point) + 婦 (? = not yet glossed),𠂤 (? = not yet glossed),11,,0.0778,女嫁也。从止，从婦省，𠂤聲。,

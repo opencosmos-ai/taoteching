@@ -43,6 +43,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,2,貨,huò,貨,goods,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
 3,3,亂,luàn,亂,disorder,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
 3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
+3,4,治,zhì,治,govern,yes,1.0,exact-count,This is how the sage governs:
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
@@ -53,6 +54,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,exact-count,and the knowers never push to act.
 3,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and the knowers never push to act.
+3,9,治,zhì,治,govern,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
@@ -104,6 +106,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 8,8,信,xìn,信,trust / trustworthy,yes,1.0,exact-count,"In speech, masterful at trust."
 8,8,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In speech, masterful at trust."
 8,9,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In governing, masterful at order."
+8,9,治,zhì,治,govern,yes,1.0,exact-count,"In governing, masterful at order."
 8,10,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,exact-count,"In affairs, masterful at what can be done."
 8,10,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In affairs, masterful at what can be done."
 8,11,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In moving, masterful at timing."
@@ -119,6 +122,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Gathering the breath to softness, can you be like an infant?"
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,0.3,proportional,"Loving the people and governing the state, can you be unknowing?"
 10,6,無,wú,無 & 有,absence,NOT FOUND,0.2,proportional-fill,"Loving the people and governing the state, can you be unknowing?"
+10,7,治,zhì,治,govern,NOT FOUND,0.3,proportional,"When the gate of the sky opens and closes, can you be the hen?"
 10,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Clarity reaching the four quarters, can you be non-doing?"
 10,9,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,"Clarity reaching the four quarters, can you be non-doing?"
 10,10,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Giving birth to things and rearing them,"
@@ -838,6 +842,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,7,利,lì,無 & 有,advantage,NOT FOUND,0.3,proportional,"neither benefit nor harm them,"
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"And so, they become the most honored in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"And so, they become the most honored in the world."
+57,1,治,zhì,治,govern,yes,1.0,exact-count,"Govern the state with uprightness,"
 57,2,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"wage war with surprise,"
 57,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,and win the world by not meddling.
 57,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,and win the world by not meddling.
@@ -865,6 +870,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 58,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 59,1,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
+59,1,治,Zhì,治,govern,yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,3,德,dé,德,integrity,yes,1.0,exact-count,"returning early is called a heavy accumulation of integrity,"
 59,4,德,dé,德,integrity,yes,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
 59,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
@@ -878,6 +884,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,8,道,dào,道,the Tao (left untranslated),NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 60,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,小,xiǎo,大,small,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
+60,1,治,Zhì,治,govern,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
 60,2,道,dào,道,the Tao (left untranslated),NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
@@ -938,6 +945,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,1,持,chí,持,hold,yes,0.3,proportional,What is at rest is easy to hold. What shows no sign is easy to plan for.
 64,3,亂,luàn,亂,disorder,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
+64,3,治,zhì,治,govern,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,3,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,The tree the width of both arms is born from a hair's tip.
 64,7,執,zhí,執,grasp,NOT FOUND,0.3,proportional,"Therefore, the sage does not do, and so ruins nothing,"
@@ -962,6 +970,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
+65,2,治,zhì,治,govern,yes,0.3,proportional,They used it to return them to being guileless. The people are hard to govern
+65,3,治,zhì,治,govern,yes,0.3,proportional,because they have too much guile. So to govern a state with guile robs the state.
+65,4,治,zhì,治,govern,yes,0.3,proportional,Not to govern it with guile is the state's good fortune. Knowing these two is itself the pattern.
 65,6,常,Cháng,常,the ever-present / the abiding,NOT FOUND,0.3,proportional,"Profound integrity is deep, and far, and turns back together with things,"
 65,6,德,dé,德,integrity,yes,0.3,proportional,"Profound integrity is deep, and far, and turns back together with things,"
 65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,0.3,proportional,"Profound integrity is deep, and far, and turns back together with things,"
@@ -1066,6 +1077,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 74,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,few fail to cut their own hand.
 74,5,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,few fail to cut their own hand.
 75,2,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,The people are hard to govern because those over them will not stop doing.
+75,2,治,zhì,治,govern,yes,0.3,proportional,The people are hard to govern because those over them will not stop doing.
+75,2,治,zhì,治,govern,yes,0.3,proportional,The people are hard to govern because those over them will not stop doing.
 75,2,為,wéi,為,do / handle / serve as,yes,0.3,proportional,The people are hard to govern because those over them will not stop doing.
 75,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,The people make light of death because those over them want their own lives so rich.
 75,4,為,wéi,為,do / handle / serve as,yes,0.3,proportional,Those who don't use living for doing are worthier than those who hold life precious.

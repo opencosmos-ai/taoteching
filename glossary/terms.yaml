@@ -127,6 +127,16 @@
   status: locked
   entry: glossary/qi-器.md
 
+- term: "治"
+  pinyin: "zhì"
+  render: "govern"
+  forbidden: []
+  chapters: [3, 8, 10, 57, 59, 60, 64, 65, 75]
+  status: open
+  entry: glossary/zhi-治.md
+  flexions:
+    - { english: "order", chapters: [8, 64], why: "the object is not a polity — 政 already stands in the line at 8, and at 64 it is a small brittle situation" }
+
 - term: "身"
   pinyin: "shēn"
   render: "body"
