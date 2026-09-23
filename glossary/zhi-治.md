@@ -4,9 +4,9 @@ pinyin: "zhì"
 render: "govern"
 flexions:
   - { english: "order", chapters: [8, 64], why: "the object is not a polity — 政 already stands in the line at 8, and at 64 it is a small brittle situation" }
-forbidden: []
+forbidden: ["control", "manage", "administer"]
 chapters: [3, 8, 10, 57, 59, 60, 64, 65, 75]
-status: open
+status: locked
 pairing: false
 ---
 
@@ -14,7 +14,7 @@ pairing: false
 
 *Say "jr," falling. Twelve lines across nine chapters — the book's ordinary word for what a ruler does, and 說文解字 files it as a river.*
 
-**Recommended: 治 → "govern," with *order* at chapters 8 and 64.** *(Not "rule," not "control," not "manage.")* *Left open pending 政 (zhèng — government) at chapter 8; see the close.*
+**Locked: 治 → "govern," with *order* at chapters 8 and 64.** *(Never "control," never "manage," never "administer." Never *rule* either — but that one is a ruling no check can hold; see* What no rule can enforce *below.)*
 
 ### The graph: a river in Shandong
 
@@ -78,10 +78,18 @@ At **8**, the line is 政善治, and **政 (*zhèng* — government) is already 
 - as the state's own condition → **ungoverned** (無不治 → "nothing is left ungoverned")
 - where the object is not a polity → **order** (治之於未亂 → "order it before it falls into disorder")
 
+### 政, settled — and 正, which is not
+
+**政 (*zhèng* — government) is settled as of 2026-09-23: *government* in all three of its lines**, so chapter 8 reads *"In government, masterful at order."* It had been *"In governing"* here and *"the government"* at chapter 58 twice (其政悶悶 · 其政察察).
+
+**The decision turned on part of speech, not on consistency.** 其政 (*qí zhèng* — ***its*** government) can only be nominal, since 其 takes a noun — so the book's own two unambiguous uses of 政 are nouns. And chapter 8's other six first slots are each rendered by **their own** part of speech: 居 (*jū* — to dwell), 與 (*yǔ* — to give) and 動 (*dòng* — to move) as verbs, 心 (*xīn* — heart), 言 (*yán* — speech) and 事 (*shì* — affairs) as nouns. **The stanza alternates three and four, and that mix is the thing to keep.** Making 政 the one slot rendered against its own part of speech was the error, and it is what pushed 治 onto *order* in the first place.
+
+**正 (*zhèng* — upright) is in the room and stays untouched.** 說文 defines 政 *as* 正 — 政，正也。从攴从正, *"from 攴 (pū — a hand holding a rod) and 正, which is also the sound"*; our base at chapter 8 reads 政 where 河上公's reads 正, a fork already logged; and 正 stands at chapter 57 inside another 治 line, 以正治國 (*"govern the state with uprightness"*). **正 is one of the calls Shalom has deferred** (`WORKLIST.md` T4-2, 正/奇), so 政 was settled without reaching into it.
+
 ### Left open
 
-**政 (*zhèng* — government) reads two ways across three lines, and one of them is this chapter.** It is *"In governing"* at 8 and *"the government"* at 58 (其政悶悶 · 其政察察, *"when the government is dull and undiscerning"*). One character, one English, would make chapter 8 read *"In government, masterful at order"* — which is a small change and possibly a better line, since it stops 政 and 治 both wearing verbs.
+**居 (*jū* — to dwell) reads at least four ways and is unrendered twice.** It stands beside 治 in this very stanza, and chapter 8 gives it *settling* — correctly, because 處 (*chǔ*) holds *dwell* four lines above at 處眾人之所惡. But elsewhere 居 is *stay* (ch 2 ×2), *at home* (ch 31), *homes* (ch 72), and **nothing at all at chapter 38**, where 不居其薄 and 不居其華 are folded into 處's verb. `WORKLIST.md` T2-57.
 
-**And 正 (*zhèng* — upright) is in the room and must not be touched.** 說文 defines 政 *as* 正; our own base at chapter 8 reads 政 where 河上公's reads 正, a fork already logged; and 正 stands at 57 inside another 治 line, 以正治國 (*"govern the state with uprightness"*). **正 is one of the calls Shalom has deferred** (`WORKLIST.md` T4-2, 正/奇), so the 政 question has to be settled without reaching into it.
+### What no rule can enforce
 
-**Until 政 is decided, this entry stays `status: open`** and its `forbidden:` list stays empty — the ruling is stated here, the enforcement waits for the lock.
+***"rule" is ruled out in the verse, and it is not on the `forbidden:` list, because it cannot be.*** Those are two different facts: the ruling holds, and the enforcement does not exist. **宰 (*zǎi* — to lord over) stands with 治 in chapter 10**, where 長而不宰 legitimately reads *"growing them without **ruling** them"* — so a rule keyed to 治's presence would fire on 宰's own line. *Control*, *manage* and *administer* are held by the build; *rule* is held only by this entry and by the reader.

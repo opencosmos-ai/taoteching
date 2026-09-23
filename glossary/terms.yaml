@@ -130,9 +130,9 @@
 - term: "治"
   pinyin: "zhì"
   render: "govern"
-  forbidden: []
+  forbidden: ["control", "manage", "administer"]
   chapters: [3, 8, 10, 57, 59, 60, 64, 65, 75]
-  status: open
+  status: locked
   entry: glossary/zhi-治.md
   flexions:
     - { english: "order", chapters: [8, 64], why: "the object is not a polity — 政 already stands in the line at 8, and at 64 it is a small brittle situation" }

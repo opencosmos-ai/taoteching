@@ -26,7 +26,7 @@ python3 tools/build_index.py
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier | "enlightenment", "illumination", "brilliance" | 12 | **locked** | [`ming-明.md`](ming-明.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
-| **治** | *zhì* | govern · *order* (ch 8, 64) | — | 9 | open — not yet a lock | [`zhi-治.md`](zhi-治.md) |
+| **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |

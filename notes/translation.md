@@ -2838,3 +2838,21 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **What ch 3 gained, which is why this was worth doing.** *Disturbed* read psychologically in a chapter that is political from end to end — contending, thieving, 聖人之治, 無不治. 亂 is the governance word, and ch 3 holds it with 治 **twice**. The hearts are not in a mood; they are what comes untidy when people are shown what to want.
 
 **Still owed: 治.** Twelve lines, nine chapters, no entry — *govern* in ten, *order* in two (8 and 64). The outlier is 政善治 at ch 8, where 政 and 治 stand in one three-character line and English needs two words, which **may be what forces 治's second rendering at all**. Until then the pairing this lock rests on is held by ch 64 alone. `WORKLIST.md` T2-56. And *order* is also worn by 正 at ch 45, under a deferred call (T4-2).
+
+---
+
+## 治 (*zhì*) → *govern* — a river, and what you do to one
+
+*(Shalom's call, 2026-09-23. `WORKLIST.md` T2-56. Full argument: `glossary/zhi-治.md`.)*
+
+**說文's headword sense of 治 is not *to govern*. It is a river**: 治，**水**。出東萊曲城陽丘山，南入海。从水台聲 — *"a watercourse; it rises at Mount Yangqiu in Quchang, Donglai, and runs south into the sea; from 水 (shuǐ — water) with 台 (tái) as the sound."* Everything else the character means grows out of what one does to moving water, which is China's oldest governing metaphor: 大禹**治**水 (*dà yǔ zhì shuǐ*), Yu the Great **治**-ed the floods and was given the realm for it — by **channelling**, not damming.
+
+**And the book puts the word in the water chapter.** 政善治 stands in ch 8, which opens 上善若水 (*"the most masterful are like water"*), and 河上公 glosses 治 there through water alone: 无有不洗清且平也, *"there is nothing it does not wash clean and level."* 王弼 supplies the content at ch 60: 治大國若烹小鮮 → **不擾也** (*bù rǎo yě* — *"it is not to disturb"*). Turn the small fish too often and it falls apart. **So 治 is keeping a thing in its course** — which is what 亂 (*luàn* — disorder) is the failure of, and why 說文 defines 亂 *as* 治.
+
+**Locked *govern*, ten of twelve, with a declared flexion to *order* at ch 8 and ch 64** — the two lines whose object is not a polity. At 64 it is what 王弼 calls 㣲脆 (*wēi cuì* — faint and brittle); at 8 it is the institution, with 政 standing in the same three characters.
+
+**政 settled with it: *government*, all three lines**, so ch 8 reads *"In government, masterful at order."* **The decision was about part of speech.** 其政 (*qí zhèng* — *its* government) at ch 58 twice can only be nominal, 其 taking a noun; and ch 8's other six first slots are each rendered by their own part of speech — 居, 與, 動 as verbs, 心, 言, 事 as nouns. **The stanza alternates three and four, and the mix is the thing to keep.** 政 was the one slot rendered against its own, and that is what had forced 治 onto *order* there: two near-twins both wearing verbs, in a pair modern Chinese fuses into 政治 (*zhèngzhì* — politics). 正 (*zhèng* — upright) stayed untouched throughout, per T4-2.
+
+***Rule* is refused and cannot be enforced.** It puts a person on a throne, where 治 is what you do to the thing; and the book is explicit that the sage does not 宰 (*zǎi* — lord over, ch 10 and 51). But 宰 **stands with 治 in ch 10**, where 長而不宰 rightly reads *"growing them without ruling them"* — so a `forbidden:` entry would fire on 宰's own line. *Control*, *manage* and *administer* are on the list; *rule* lives in the entry only.
+
+**Opened by this: T2-57, 居** (*jū* — to dwell). It stands in this stanza and reads at least four ways — *settling* (8), *stay* (2 ×2), *at home* (31), *homes* (72) — and is **unrendered twice at ch 38**, where 不居其薄 and 不居其華 are folded into 處's verb. Ch 8's *settling* is right for a reason worth keeping: 處 (*chǔ*) holds *dwell* four lines above, and 說文 separates them — 居 蹲也 (*"to squat"*, on 尸 a seated body) against 處 止也。得几而止 (*"to stop, having got a stool"*).
