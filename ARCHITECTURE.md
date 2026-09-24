@@ -284,6 +284,24 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 
 ---
 
+## Skills — the method, executed
+
+**`process/method.md` says how the work is done; a skill makes a piece of it run.** Three exist, each a folder with a `SKILL.md`:
+
+| Skill | Runs |
+|---|---|
+| `chapter-review` | one chapter from the Chinese — witnesses, commentaries, formulas, the record, the read-back, the log |
+| `glossary-entry` | one term — evidence, the entry standard, the lock, the regenerated index |
+| `principle-entry` | one principle — detection, deduplication, the trigger, the shape, the wiring, the threshold |
+
+**Where they live, and how Claude finds them.** The skills are kept in `process/skills/` — in the method's own directory, under CC0 — and exposed through `.claude/skills/`, which holds one **relative** symlink per skill. Claude Code loads a repository's `.claude/skills/` when the repository is its working directory or an added directory, follows symlinked folders, and loads a skill once however many locations point at it. So a fresh clone gets all three with no setup, and there is still one copy of each. *The links were once absolute and per-machine; a repository move left all three dangling, and a dangling link fails silently. See `process/skills/README.md`.*
+
+**Skills are how principles reach the work.** Each skill loads the principles for its kind of work with `build_principles.py --applies`, at the step where they fire, and `CLAUDE.md` loads the two kinds of work no skill covers — `tooling` and `process`. The table of which kind of work loads where is in `process/principles/README.md`, and `build_principles.py --check` refuses a principle that nothing loads.
+
+**They are bound to this repository, and are not shared by link.** Every skill runs this repo's Python tools and walks its `chapters/`, `notes/` and `process/principles/`; in another repository a linked skill would be discovered, invoked, and wrong. A neighbouring project inherits the **method** by carrying its own skill that says what it takes from here and what differs — the same way it inherits the principles.
+
+---
+
 ## The documents, and who each is for
 
 | File | Audience | Answers |
@@ -293,7 +311,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`CLAUDE.md`](CLAUDE.md) · [`AGENTS.md`](AGENTS.md) | AI collaborators, loaded every session | the rules, the locks, the workflow, the current state |
 | [`process/method.md`](process/method.md) | translator and collaborators | how a chapter is actually translated |
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
-| [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable |
+| [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
 | [`PLAN.md`](PLAN.md) | tool builders | what the harness is, what it taught, what is deliberately not built |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | readers and writers | the findings worth an essay |
