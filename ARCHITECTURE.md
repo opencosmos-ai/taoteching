@@ -88,7 +88,7 @@ Five things, and the first is the one to remember:
 | | Owns | Shape |
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
-| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 48 entries, 14 secondary characters |
+| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 50 entries, 14 secondary characters |
 | **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
@@ -239,8 +239,11 @@ Unsuppressable rules get disabled wholesale; free suppression rots. So both hatc
 | **`lock-ok` comment** in a chapter's `## Notes` | one finding | must carry a reason, and an **unused waiver is itself an error** — so the files self-clean |
 | **`process/shaloms-call.md`** | a whole rule | requires a scope, an expiry and a reason; the checker prints a footer naming active calls, and an expired call fails the build |
 | **`git commit --no-verify`** | one commit | leaves no record — which is the point: a second `--no-verify` on the same rule is the signal that a call is owed |
+| **raising a `BASELINE` count** in `tools/build_db.py` | one regression check | each entry is `(count, note)` and **the note is required** — it says what the number counts and why it last moved, so a bump is an argument rather than a reflex. A test asserts the note is still there |
 
 **Never delete a rule to silence it.**
+
+**The baseline deserves its place in that table**, even though it is a test fixture rather than a rule. A regression count is the one check whose failure has an obvious and fatal repair — raise the number until the build is green — and nothing about a bare integer distinguishes *the corpus legitimately grew* from *a test was bent to pass*. Three counts moved in a single week's work (two logged forks and one re-lineated verse line), and a reviewer had only a code comment to go on. The note makes the distinction reviewable, and the failure message now names what the number counts and what to do about it.
 
 ---
 
