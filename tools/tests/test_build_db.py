@@ -150,18 +150,56 @@ class Baseline(unittest.TestCase):
         return self.conn.execute(sql).fetchone()[0]
 
     def test_counts(self):
-        for table, expected in build_db.BASELINE.items():
-            if table == "variant":
-                got = self.q("SELECT count(DISTINCT variant_group) FROM variant")
-            else:
-                got = self.q(f"SELECT count(*) FROM {table}")
-            self.assertEqual(got, expected, f"{table} moved")
+        for table, (expected, note) in build_db.BASELINE.items():
+            got = build_db.baseline_count(self.conn, table)
+            self.assertEqual(got, expected, (
+                f"\n\n  {table} moved: {expected} -> {got}\n"
+                f"  what it counts: {note}\n"
+                f"  If you meant this, update BASELINE in tools/build_db.py and\n"
+                f"  extend that entry's note with the date and the cause. If you\n"
+                f"  did not, something changed the corpus without meaning to —\n"
+                f"  that is the finding, not the failure.\n"))
+
+    def test_every_baseline_entry_states_what_it_counts(self):
+        """The note is the cost of bumping a number, so it cannot be empty.
+
+        A bare baseline invites the one response that destroys the check:
+        raise it until the build is green. Same doctrine as `lock-ok`'s
+        required reason and `shaloms-call`'s required `until:`.
+        """
+        for table, entry in build_db.BASELINE.items():
+            self.assertIsInstance(entry, tuple, f"{table}: baseline must be (count, note)")
+            count, note = entry
+            self.assertIsInstance(count, int, f"{table}: count must be an int")
+            self.assertGreater(len(note.strip()), 20,
+                               f"{table}: the note must say what the number counts")
 
     def test_every_token_reassembles_into_its_line(self):
         self.assertEqual(self.q(
             "SELECT count(*) FROM token t JOIN line l"
             " ON l.chapter=t.chapter AND l.seq=t.line_seq"
             " WHERE instr(l.chinese, t.char)=0"), 0)
+
+    def test_a_flexion_counts_as_honored_in_the_chapters_it_licenses(self):
+        """The atlas must not print NOT FOUND on a line a flexion licenses.
+
+        Ch 9 is the case: 保 reads bare *keep* there and 守 reads *guard*, both
+        declared flexions, and both were reported as breaches while `render:`
+        carried its flexions as prose no tool could read. 36 rows of the export
+        were wrong this way.
+        """
+        for char in ("保", "守"):
+            got = self.conn.execute(
+                "SELECT honored FROM render WHERE chapter=9 AND char=?",
+                (char,)).fetchone()[0]
+            self.assertEqual(got, 1, f"{char} at ch 9 should be honored by its flexion")
+
+    def test_a_flexion_does_not_leak_into_chapters_it_does_not_name(self):
+        """執 → *seize* is licensed at ch 74 only. Ch 29 and 64 read *grasp*,
+        the primary render, and must be judged against that."""
+        self.assertEqual(
+            self.q("SELECT count(*) FROM render WHERE char='執'"
+                   " AND chapter IN (29, 64) AND expected LIKE '%seize%'"), 0)
 
     def test_rule_zero_every_token_has_pinyin(self):
         self.assertEqual(self.q("SELECT count(*) FROM token WHERE pinyin IS NULL"), 0)

@@ -184,9 +184,13 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 ***"Those who know" was tried and refused*** — it is 知者's English at ch 56 (知者不言) and ch 81 (知者不博), in both places naming the sage's side. The **string** collided; the **family resemblance** did not, and 河上公 makes that resemblance deliberately. *The knowers* also chimes with *unknowing* one line above, which is what his text does with one graph twice. **The book-wide 智 split stays open** — disparaged at 18, 19, 65 and neutral at 33. `WORKLIST` T2-2.
 
-**Ch 3 · 心 restored to line 3, and 亂 → "disturbed."** 使民心不亂 had dropped 心 (*xīn* — heart) at its first appearance, two lines before 虛其心 empties it — the joint that makes 王弼's anatomy legible (心懷智而腹懷食，虛有智而實無知也 — *"the heart harbors clever knowing and the belly harbors food: empty what has 智, fill what has no 知"*). **Knowing lives in the heart, so 虛其心 and 常使民無知 are one instruction.** *Perturbed* rendered no character.
+**Ch 3 · 心 restored to line 3, and 亂 → "disturbed."** *(⚠ The 亂 half was superseded on 2026-09-21 — 亂 is locked to* disorder *and the line now reads "the people's hearts are not thrown into disorder." The reasoning below stands and was not overridden; see the note at the foot of this section.)* 使民心不亂 had dropped 心 (*xīn* — heart) at its first appearance, two lines before 虛其心 empties it — the joint that makes 王弼's anatomy legible (心懷智而腹懷食，虛有智而實無知也 — *"the heart harbors clever knowing and the belly harbors food: empty what has 智, fill what has no 知"*). **Knowing lives in the heart, so 虛其心 and 常使民無知 are one instruction.** *Perturbed* rendered no character.
 
-**The choice was between the ring and the organ, and the organ won.** 說文解字 glosses 亂 as **治也** — *"to put in order"* — the graph being hands at tangled silk with the tool that untangles it, so **亂 and 治 are one act read from both ends** and this chapter opens on the first and closes on the second (無不治). No English word holds both. *Disordered hearts* is clinical, and 亂 here is done **to** the heart from outside (王弼: 心無所亂也). ***Confused* was refused on the stronger ground** that it puts the damage in the **knowing**, which the chapter has just spent two lines separating from the heart; 河上公's 不惑亂也 pairs 亂 with 惑 (*huò* — led astray) and is still agitation, not misunderstanding. **Rider:** ch 26's *"undisturbed"* wears the word for 燕處超然, which has no 亂 — it goes with T2-5/T2-6.
+**The choice was between the ring and the organ, and the organ won.** 說文解字 glosses 亂 as **治也** — *"to put in order"* — the graph being hands at tangled silk with the tool that untangles it, so **亂 and 治 are one act read from both ends** and this chapter opens on the first and closes on the second (無不治). No English word holds both. *Disordered hearts* is clinical, and 亂 here is done **to** the heart from outside (王弼: 心無所亂也). ***Confused* was refused on the stronger ground** that it puts the damage in the **knowing**, which the chapter has just spent two lines separating from the heart; 河上公's 不惑亂也 pairs 亂 with 惑 (*huò* — led astray) and is still agitation, not misunderstanding. **Rider:** ch 26's *"undisturbed"* wears the word for 燕處超然, which has no 亂 — it goes with T2-5/T2-6. *(Closed 2026-09-20 with the ch 26 rebuild.)*
+
+> **⚠ Superseded on the 亂 half, 2026-09-21 — and the argument above was not wrong.** 亂 is now locked to **disorder** (`glossary/luan-亂.md`), and this line reads *"the people's hearts are not thrown into disorder."* **The objection recorded here is answered rather than overruled:** *disordered hearts* is indeed clinical, and the locked line avoids it by taking the **noun** and leaving the adjective alone. *Perturbed* and *confused* stay refused on the grounds given.
+>
+> **What this note got to first, and the later work did not find.** 說文's 亂，治也, the tangled-silk graph with the tool that untangles, and the conclusion that **亂 and 治 are one act read from both ends** — all of it is here, written during the ch 3 rebuild of 2026-08-31, and the 2026-09-21 entry rediscovered it from the dictionary instead of from this paragraph. What was genuinely new in September was the second gloss, 𤔔，理也, which 說文 gives under 辭 (ch 34) and which settles that the hands are **untangling**. *A finding recorded in a chapter note is a finding the next reader has no reason to be reading — which is what `process/principles/` exists for, and this one had no principle to carry it.*
 
 **Still open on this chapter:** line 1's *"have no cause to contend"* asserts a causal claim 不爭 does not make, and it is the last of the three opening clauses whose negation does not match the other two.
 
@@ -818,9 +822,9 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 
 *"Entities"* occurred **exactly once in all 81 chapters of verse** — this line — and was tied to no locked term. 物 (*wù*) is a mottled ox: things, kinds, stuff. Heshang Gong's gloss settles the register: 聖人不賤石而貴玉，視之如一, *"the sage does not despise stone and prize jade; he sees them as one."* Stones and jade, not entities. The 萬物 lock forbids *"beings"* for the same reason — see `glossary/wanwu-萬物.md` — and *entities* is that abstraction in a lab coat.
 
-#### 襲明 → "inherited clarity", not "innate clarity"
+#### 襲明 → not "innate clarity"
 
-`glossary/ming-明.md` had already ruled this: 襲明 → **"inherited clarity."** The verse said *innate*, which claims the opposite about where it comes from — 襲 (*xí*) is to inherit, to receive in succession, to put on in layers. *Innate* says it was born in you; *inherited* says it was handed to you. The glossary decided; the verse had not been told.
+`glossary/ming-明.md` had already ruled against the verse here. It said *innate*, which claims the opposite about where it comes from — 襲 (*xí*) is to inherit, to receive in succession, to put on in layers. *Innate* says it was born in you; *inherited* says it was handed to you. The glossary decided; the verse had not been told. *(**Superseded 2026-08-31 by T2-10**: 襲 is not 習, and the line now reads **"clarity worn covered"** — 襲 as a garment put on over. *Inherited* was the right correction to* innate *and the wrong destination.)*
 
 #### 常 restored
 
@@ -2642,7 +2646,7 @@ Four characters had collapsed into *hold* and its neighbours across seventeen ch
 | 持 (*chí*) | 握也 — *"to grip"* | 手 (*shǒu* — hand) + 寺 | **hold** |
 | 執 (*zhí*) | **捕罪人也** — *"to seize a criminal"* | 丮 a reaching hand + 㚔, **manacles** | **grasp** · *seize* (74) |
 | 守 (*shǒu*) | **守官也** — *"to keep an office"* | 宀 a roof + 寸 (法度, a regulation) | **hold to** · *guard* (9, 67) |
-| 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** |
+| 保 (*bǎo*) | **養也** — *"to rear"* | 人 a person + 孚, a hand over a child | **keep safe** · bare ***keep*** at 9 |
 
 A grip, a pair of handcuffs, a post you are answerable for, and a child on your back. Entries: `zhi-執.md`, `shou-守.md`, `bao-保.md`, `chi-持.md`.
 
@@ -2660,7 +2664,7 @@ So 執者失之 is not a caution against clinging. **Its object is 天下, and t
 
 守 read *guard* at ch 9, 保 read *guard* at ch 15, and 衛 (*wèi*) read *guards* at ch 67. **And 守 and 保 stand together in both ch 9 and ch 67**, so no rule in this repository could ever have seen it — a `forbidden:` entry keys off a character being present in the chapter and cannot express *right for that character, wrong for this one, same chapter*. Both new entries say so in a section of their own, because the gap is permanent.
 
-Now: 守 → *guard* (9, 67), 保 → *keep safe* (9, 15, 62, 67), 衛 → *shields* (67).
+Now: 守 → *guard* (9, 67), 保 → *keep safe* (15, 62, 67) and **bare *keep* at 9** *(flexion declared 2026-09-20 — see Ch 9 below)*, 衛 → *shields* (67).
 
 ### 保 runs in both directions, and one English lets them answer each other
 
@@ -2706,3 +2710,153 @@ At ch 15 and 67 a person keeps something safe; at ch 62 the Tao keeps a person s
 **The standing principle it yields: where a rendering is chosen for one chapter's legibility, the connection it forgoes becomes an obligation on the notes, not a debt on the verse.** So the link is carried by an **anchor note at ch 14** listing all three with their graphs and recurrences, and a matching **thread note at chapters 15, 23, 36, 41, 43, 53, 64, 70 and 74**, each pointing back. **Ch 41 carries the counter-argument as well as the pointer**, because that is where 王弼 makes it.
 
 **What stays open** is whether the *recurrences* agree among themselves: 夷 at 41 against 53 (T2-30), and 微's *hidden* at 36 against *faint* at 15 and 64 (T2-34). 希's six chapters remain TRIAGE 14b.
+
+---
+
+## 身 (*shēn*) → *body* — one character that had six Englishes
+
+*(Shalom's call, 2026-09-19. `WORKLIST.md` T2-1. Full argument: `glossary/shen-身.md`.)*
+
+身 stands twenty times across nine chapters and was reading **six ways** — *body* (13, 54), *self* (44, 54), *themselves / their selves* (7), *yourself* (52, 66), *their being* (26), and at ch 9 **nothing at all**. Now **body** everywhere, with one declared flexion.
+
+**The graph settles what kind of word it is.** The oracle-bone form is a person in profile **with the abdomen swollen**, which is the entire difference from 人 (*rén* — a person); 說文 gives 躳也。象人之身 and 段玉裁 rejects its 从人𠂆聲 phonetic reading as an error. The oldest attested sense is pregnancy — 詩經 大明, 大任**有身**，生此文王 — and 身 is cognate with 孕 (*yùn* — pregnant). So **身 is a person seen as something that carries, and can be burdened**, which is 河上公's 財多**累身** (*"much wealth burdens the body"*, 9 and 44) and is why ch 13's 為吾**有身** is the Odes' idiom character for character.
+
+**Why not *self*, which flows better at ch 7.** Three reasons, and the third is the general one:
+
+1. *self* is **我/吾**'s (`wo-wu-我吾.md`, which already names 吾/身 as its cousin-pair), and at **ch 7 it is also 私's** — the one chapter where 身 and 私 (*sī* — private interest) stand in the same stanza, and where 王弼 makes their difference the argument: 無私者，**無為於身**也.
+2. **Ch 7 is about staying alive.** 存 (*cún* — remains in existence) answers 長生 (*cháng shēng* — long life) four lines above it, and 河上公 reads 身存 with no metaphor: 百姓愛之如父母…故**身常存**. A self does not survive; a body does.
+3. **Using *body* for the physical lines and *self* for the interior ones performs a split this tradition does not make.** 河上公's 修道於身，**愛氣養神** names the 身 as the *site* and 氣 and 神 as what is nourished in it — a structure, not a merger. Choosing between the two English words chapter by chapter is a dualism imported and then attributed to the text.
+
+**The flexion, declared rather than drifted into.** In 終身 (*zhōng shēn*) and 没身 (*mò shēn*) the character marks **the span of a life**, not the flesh: all four lines (16 · 52 ×3) read *to the end of your days*. Ch 52's two 終身 lines had been *"all your life"* and *"your life"*; they now match.
+
+**Riders applied.**
+
+- **Ch 7** — 身 ×4 restored in place of *themselves / their selves*, and **生 (*shēng* — to live) restored at 故能長生**, which the verse had lost to *"They endure without limit."* The chapter now runs 長生 → 身存 as one argument.
+- **Ch 54** — 以身觀身 → *observe the body through your own body*, rejoining the first stanza's 修之於身 and restoring the 身 → 家 → 鄉 → 國 → 天下 ladder's first rung in both directions.
+- **Ch 52** — 無遺身殃 → *leave no calamity for the body*; 遺 (*yí* — to leave behind) now rendered.
+- **Ch 44 · 66** — mechanical.
+- **Ch 76** — *"In life the body is soft and yielding"* renders 人之生也柔弱, which has **no 身**. Now *a person*. A rendering that had taken 身's English in a chapter where the character is absent.
+
+**The axis the entry adds.** 身 is weighed against 名 (*míng* — reputation) and 貨 (*huò* — goods) at 44, against 功 (*gōng* — merit and office) at 9, and against 大患 (*dà huàn* — great trouble) at 13. **The class is everything a person could acquire, and 天下 (*tiān xià* — the world) is simply the maximum of that class** — which is why ch 13, 26 and 54 put 身 and 天下 in a single line, and why ch 26's English losing 天下 cost more than one word.
+
+**What no check can hold.** *self* cannot go on 身's `forbidden:` list: 身 shares ch 7 with 私 and ch 13, 16, 54 with 我/吾, and the evidence gate keys off a character's presence in that chapter. And the collision with **神** (*shén* — spirit) is invisible for the opposite reason — 神 stands in 6, 29, 39, 60 and 身 in 7, 9, 13, 16, 26, 44, 52, 54, 66, so **they share no chapter at all**. Only `concordance.py --english "spirit"` finds it. The same two-way blindness that hid 固 and 壯 inside chapters containing 強.
+
+---
+
+## Ch 9 · three verbs for keeping, and the English had one
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-51 · T2-1. Fork in `notes/manuscript.md`.)*
+
+The chapter is a list of things that cannot be kept, and it uses **three different characters to say *keep*** — 持 (*chí* — hold), 保 (*bǎo* — keep safe), 守 (*shǒu* — guard). The old English rendered one of the three, invented a **vessel** for a chapter with no 器 (*qì*), flattened 不如 (*bù rú* — not as good as) to a comma, deleted 身 (*shēn* — body), and gave 咎 (*jiù*) the word that belongs to 敗 (*bài* — ruin) at ch 29 and 64.
+
+**The vessel was not arbitrary, and it still had to go.** 河上公 glosses the opening 持滿必傾 — *"hold it full and it must tip over"* — which points at the 欹器 (*qī qì*), the tilting vessel of the ancestral temple that stands upright part-full and capsizes when filled. But 器 is locked to *vessel / tool / implement* across nine chapters, none of them this one. **The referent is named grammatically instead** — *what you hold* — which is `name-the-referent`'s answer and its third case: 之 (*zhī*) is a light particle a Chinese reader passes over, where English *it* actively selects, so declining to resolve is not preserving openness.
+
+**保 → bare *keep*, a declared flexion** (`glossary/bao-保.md`). Its other three lines take a cherished object and are all positive — the Tao at 15 and 62, the three treasures at 67. **Ch 9 is the only negative instance and the only uncherished object**, and English *keep safe* wants something valued for its own sake. The lock had never been tested here: this verse rendered 保 nowhere, so the 2026-09-06 ruling was argued from the chapter's **gloss table** rather than from a line anyone had to say aloud.
+
+**銳 (*ruì*) is a point, not an edge, and what fails is the point.** 說文: 芒也。从金兌聲 — *"it is 芒 (máng, the awn of grain), on the metal radical."* The edge is 刃 (*rèn*), which occurs **once in the whole book**, at ch 50. 王弼 agrees — 既揣**末**令**尖** — and 揣 as *hammer* is 說文's own second gloss, 一曰**捶**之. The failure is breakage, not blunting: 王弼 勢必**摧**䘐, 河上公 後必**弃捐**. **And blunting is 挫's** (*cuò*, 說文 摧也) at 挫其銳, ch 4 and 56 — where it is the **remedy**. An English reading *"cannot be kept sharp"* would make this chapter's affliction and those chapters' cure the same sentence.
+
+**咎 → *fault*, on our own ch 46's authority.** 說文 gives 災也 (*disaster*) and a graph of 人 with 各 (相違也, *at odds*) — the falling-out and its consequence in one word. *Disaster* is unavailable anyway: **ch 46 sets 禍 (*huò*) and 咎 in a parallel couplet** — 禍莫大於不知足 / 咎莫大於欲得 — and gives *disaster* to 禍, *fault* to 咎. 遺 (*yí* — to leave behind) is now rendered, matching ch 20 and ch 52. **Opens T2-53**, the calamity family: *disaster* is currently worn by 禍 **and** 凶.
+
+**功遂身退 → *the work done, the body withdraws*.** *Cease striving* deleted 身 and borrowed 爭's (*zhēng*) word. 河上公 reads it as vacating office — 不**退身**避位則遇於害 — and quotes the same shape back at ch 44, 名遂則**身退**也.
+
+---
+
+## Ch 26 · the chapter turns on heavy against light, and *light* was gone
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-1 · T2-5 · T2-6.)*
+
+**輕 (*qīng* — light) had three Englishes in eight lines**, and it is the chapter's pivot: 重 (*zhòng* — heavy) against 輕 opens the chapter and delivers its verdict. *Ungrounded* stood at all three, so the pair was invisible. **輜重 (*zī zhòng* — the heavy baggage train) had become *sustenance***, taking the 重 that line 1 depends on; 王弼: 以重為本故不離.
+
+**奈何萬乘之主，而以身輕天下 had lost three of its parts** — 萬乘 (*wàn shèng* — ten thousand chariots) flattened to *a great ruler*, 身 turned into *their being*, and **天下 (*tiān xià* — the world) deleted outright.** This is one of only three lines in the book where 身 and 天下 stand together, and `chapters/013.md` cites it as the support for ch 13's closing couplet — so the evidence for a settled call did not say what the note said it said. 河上公: 王者至尊，而以其身行輕躁乎.
+
+**靜 → *stillness* (T2-5)**, against *Silence* here alone and seven lines elsewhere. **君 → *ruler* in both places (T2-6)**, where it had been *ruler* and *mastery* three lines apart in a matched pair. **燕處超然 → *they dwell at ease and stay apart***; *their equanimity is undisturbed* rendered no character.
+
+---
+
+## 明 (*míng*) · the frontmatter catches up with the entry, and 道 stops being a path
+
+*(2026-09-20. `WORKLIST.md` T2-46.)*
+
+**The entry already knew; the data did not.** `glossary/ming-明.md`'s *working register* section has listed four forms since it was written — the named state, the noun, the predicate, the modifier — while `render:` said only *"clear-seeing / clarity"*. So four of 明's thirteen lines (22, 24, 33, 47) and the modifier at 41 were **unlicensed by the frontmatter**, and `concordance.py --english "see clearly"` reported *not tied to any locked term* for a phrase that renders a locked character twice. `render:` now carries all three shapes.
+
+**Why this stayed prose rather than becoming a `flexions:` entry.** The variation is **grammatical, not chapter-scoped**: 明 takes the predicate form wherever it predicates, and would in a chapter nobody has written. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that — so pinning a grammatical form to a chapter list would assert a condition the language does not have. The boundary is stated in `CLAUDE.md`.
+
+**The glossary-self-check hole, found by hand.** The entry rendered 明道若昧 as *"the clear **path** seems dim"* in **three places**, and 道 (*dào*) is locked untranslated with *"the Path"* forbidden outright. **The file that defines one lock was breaching another** — which is the case `PLAN.md` opened `glossary-self-check` for, and the rule is still unbuilt. Note the near-miss: the forbidden string is capitalised, so a lowercase *path* would not have fired even if the rule existed.
+
+**Two stale examples corrected in the same pass**, both overtaken by later decisions: 襲明 was glossed *"inherited clarity"* where ch 27 has read *clarity worn covered* since T2-10 settled 襲 → *covered*, and 明白四達 was glossed *"clear and penetrating in all directions"* where ch 10 reads *clarity reaching the four quarters*. An entry's examples are a second copy of the verse and go stale exactly as the prose restating a lock does.
+
+---
+
+## 昧 (*mèi*) → *murky* — *dark* is 玄's, in a chapter that has no 玄
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-54, its first half.)*
+
+明道若昧 (41) read *"The clear Tao seems dark"* and 其下不昧 (14) read *"a dark bottom."* Both now **murky**.
+
+**The fault is a collision, not a misreading.** 說文 gives 昧 both senses — 昧爽，旦明也 for the compound (*daybreak*) and 一曰**闇**也 for the graph alone (*shut-in dark*) — so *dark* was defensible about the character. It was unavailable anyway: **玄 (*xuán*) is locked to *dark or profound* and carries six verse lines**, among them ch 1's 玄之又玄, *"dark, and dark again, the gate of all subtleties,"* and 玄牝, *the dark female*. Neither ch 14 nor ch 41 contains 玄. So the English made a reader hear the book's signature word for the unseeable where the Chinese has only the plain antonym of 明 — **invented repetition**, the mirror of the ch 11 fault and the class `WORKLIST` T5-14 exists for. `--english "dark"` had ten lines, six backed and four not.
+
+**Everything nearer was already worn.** *Dim* is 和 (*hé*) at 和其光 (4, 56) and 冥 (*míng*) at ch 21's 窈兮冥兮; *faint* is 微 (*wēi*) at 15 and 64; *dull* is 爽 at 12 and 悶 at 20 and 58; *hidden* is 微 again at 36. Free were *murky*, *clouded*, *obscure*, *shadowed*, *veiled*. **Obscure** was declined as abstract and as carrying *unimportant*, a verdict 昧 has not.
+
+**The chime with 濁 (*zhuó* — *muddy*, 15 and 49) was weighed and accepted**, which is the part worth recording. `already-spoken-for` would ordinarily refuse a rendering that rhymes with a neighbour's; here the two were judged distinct enough to stand apart and resonant enough to be worth the nearness. *Clouded* was free of even that and was declined for it.
+
+**The English does not settle the commentators, and must not.** 王弼: 光而不耀, *"bright but not dazzling"* — the light present and unostentatious, and he quotes ch 58 to say so. 河上公: 明道之人若闇昧，無所見 — genuine obscurity, seeing nothing. *Murky* holds both: still light, and not seen through.
+
+**Still open in T2-54:** 昏 (*hūn*, 說文 日冥也 — the sun gone down) reads *dark* at ch 20's 我獨昏, so two characters still share 玄's word. And **昧 is settled but unlocked**, so the atlas keeps publishing the pre-lock gloss — the same debt T2-40 carries for 混.
+
+---
+
+## 昏 (*hūn*) → *clouded* — and 玄 gets its word back
+
+*(Shalom's call, 2026-09-20. `WORKLIST.md` T2-54, closed.)*
+
+昏 stood in three chapters and read two ways, one of them 玄's: *dark* at ch 20 (我獨昏昏) and ch 57 (國家滋昏), and **not rendered at all** at ch 18, where 國家昏亂 came out as *"nations fall into chaos"* with both characters inside one English word. All three are now **clouded**.
+
+**說文: 日冥也。从日氐省。氐者，下也** — *"the sun gone dark; from 日 (the sun) and an abbreviated 氐, and 氐 means below."* **The sun under the line.** 昏 is dusk, and its other senses — muddle-headed, a state in disarray — are extensions of failing light.
+
+**The trade, named.** *Clouded* is atmospheric where 昏 is **temporal**; it loses the hour. **Benighted** keeps the hour exactly — *overtaken by night* is 日冥 in one English word — and was declined because in modern English it is a verdict, and a Victorian one, so it would have Laozi condemning himself at ch 20 where the tone is rueful. `no-verdict-the-chinese-lacks` and `imported-register` both fire on it. *Dim* is 和 and 冥, *dull* is 悶悶 **in the next line of the same chapter**, *muddled* is 沌沌 **nine lines above**, *murky* is now 昧's. 雲 (*yún* — cloud) occurs nowhere in the book, so *clouded* was free.
+
+**河上公 glosses 昏 at ch 20 with 闇昧, the same compound he used for 昧 at ch 41.** The two characters name nearly one state for him, so the English keeps them a step apart rather than identical — *clouded* against *murky*.
+
+**The result is the reverse check going clean.** `--english "dark"` was ten lines, six backed by 玄 and four not. It is now **six lines, six backed**: 玄 has 玄之又玄, 玄牝 and 玄德 to itself, and no reader will hear the book's deepest word in a chapter that does not contain it. One fork logged at ch 20.
+
+**Opened by this: T2-55, 亂.** Rendering 昏 at ch 18 exposed 亂 (*luàn*), which had been carrying both characters. It reads four ways in four lines and now has an entry — `glossary/luan-亂.md`, recommending *disorder* against *chaos*, `status: open` pending 治 (*zhì*).
+
+---
+
+## 亂 (*luàn*) → *disorder* — a tangle with hands in it, not a void
+
+*(Shalom's call, 2026-09-21. `WORKLIST.md` T2-55. Full argument: `glossary/luan-亂.md`.)*
+
+亂 stood in four chapters and read **four ways**: *disturbed* (3) · *chaos* (18) · *disorder* (38) · *chaotic* (64). Now **disorder** in all four, and locked.
+
+**說文 defines it as its own opposite, and says so twice.** 亂，**治**也。从乙，**乙，治之也** — *"亂 is to bring to order; from 乙, and 乙 is what orders it."* The dictionary picks out a component and names it the ordering agent. And it defines the 𤔔 element outright, in the entry for a character **this book uses**: 辭，訟也。从𤔔，**𤔔猶理辜也。𤔔，理也** — *"辭 is pleading a case; from 𤔔, because 𤔔 is like putting right a wrong. 𤔔 means 理 — to put in order."* 辭 stands at ch 34.
+
+**So the hands in the graph are untangling.** 爪 (說文 覆手曰爪, a covering hand) above, 又 (手也) below, silk between them on a frame. **亂 does not name a mess; it names a mess somebody has their hands in** — which is why ch 64 can say 治之於未亂 at all, and why 王弼 reads that line as scale rather than kind: 謂㣲脆也, *"what is faint and brittle."*
+
+**What that settles about *chaos*.** The objection is not only register, though the register is wrong — Hesiod's Χάος, the void before creation, where this book's undifferentiated beginning is 混成 at ch 25. The deeper objection is that ***chaos* is a condition with nobody in it.** You cannot catch chaos early. You can catch a tangle early, and that is the whole counsel of ch 64.
+
+**The 反訓 stays in the entry and out of the verse.** All four of Laozi's lines sit on the disorder side; the 治 sense is the dictionary's, not the text's. Rendering it would be a fact about the character overriding a fact about the sentence — the 萬 (*wàn*) arrangement: a scorpion in the entry, *the countless things* on the page.
+
+**Two candidates recorded as declined, for opposite reasons.** ***Unravelled*** is the near miss: it performs the graph and faces both ways in English natively, and *"Order it before it unravels"* is a better line than the locked one. It breaks at ch 38 — 亂之**首**, *"the head of the unravelling"*, is not English, and the obvious repair spends 首 on *begins*, **re-colliding it with 始 one line below, which Pass D separated on purpose**. ***Untangled*** is the opposite error: it is the 治 half, the hands succeeding, and it inverts every line — ch 18 would have nations becoming untangled as loyal ministers appear.
+
+**What ch 3 gained, which is why this was worth doing.** *Disturbed* read psychologically in a chapter that is political from end to end — contending, thieving, 聖人之治, 無不治. 亂 is the governance word, and ch 3 holds it with 治 **twice**. The hearts are not in a mood; they are what comes untidy when people are shown what to want.
+
+**Still owed: 治.** Twelve lines, nine chapters, no entry — *govern* in ten, *order* in two (8 and 64). The outlier is 政善治 at ch 8, where 政 and 治 stand in one three-character line and English needs two words, which **may be what forces 治's second rendering at all**. Until then the pairing this lock rests on is held by ch 64 alone. `WORKLIST.md` T2-56. And *order* is also worn by 正 at ch 45, under a deferred call (T4-2).
+
+---
+
+## 治 (*zhì*) → *govern* — a river, and what you do to one
+
+*(Shalom's call, 2026-09-23. `WORKLIST.md` T2-56. Full argument: `glossary/zhi-治.md`.)*
+
+**說文's headword sense of 治 is not *to govern*. It is a river**: 治，**水**。出東萊曲城陽丘山，南入海。从水台聲 — *"a watercourse; it rises at Mount Yangqiu in Quchang, Donglai, and runs south into the sea; from 水 (shuǐ — water) with 台 (tái) as the sound."* Everything else the character means grows out of what one does to moving water, which is China's oldest governing metaphor: 大禹**治**水 (*dà yǔ zhì shuǐ*), Yu the Great **治**-ed the floods and was given the realm for it — by **channelling**, not damming.
+
+**And the book puts the word in the water chapter.** 政善治 stands in ch 8, which opens 上善若水 (*"the most masterful are like water"*), and 河上公 glosses 治 there through water alone: 无有不洗清且平也, *"there is nothing it does not wash clean and level."* 王弼 supplies the content at ch 60: 治大國若烹小鮮 → **不擾也** (*bù rǎo yě* — *"it is not to disturb"*). Turn the small fish too often and it falls apart. **So 治 is keeping a thing in its course** — which is what 亂 (*luàn* — disorder) is the failure of, and why 說文 defines 亂 *as* 治.
+
+**Locked *govern*, ten of twelve, with a declared flexion to *order* at ch 8 and ch 64** — the two lines whose object is not a polity. At 64 it is what 王弼 calls 㣲脆 (*wēi cuì* — faint and brittle); at 8 it is the institution, with 政 standing in the same three characters.
+
+**政 settled with it: *government*, all three lines**, so ch 8 reads *"In government, masterful at order."* **The decision was about part of speech.** 其政 (*qí zhèng* — *its* government) at ch 58 twice can only be nominal, 其 taking a noun; and ch 8's other six first slots are each rendered by their own part of speech — 居, 與, 動 as verbs, 心, 言, 事 as nouns. **The stanza alternates three and four, and the mix is the thing to keep.** 政 was the one slot rendered against its own, and that is what had forced 治 onto *order* there: two near-twins both wearing verbs, in a pair modern Chinese fuses into 政治 (*zhèngzhì* — politics). 正 (*zhèng* — upright) stayed untouched throughout, per T4-2.
+
+***Rule* is refused and cannot be enforced.** It puts a person on a throne, where 治 is what you do to the thing; and the book is explicit that the sage does not 宰 (*zǎi* — lord over, ch 10 and 51). But 宰 **stands with 治 in ch 10**, where 長而不宰 rightly reads *"growing them without ruling them"* — so a `forbidden:` entry would fire on 宰's own line. *Control*, *manage* and *administer* are on the list; *rule* lives in the entry only.
+
+**Opened by this: T2-57, 居** (*jū* — to dwell). It stands in this stanza and reads at least four ways — *settling* (8), *stay* (2 ×2), *at home* (31), *homes* (72) — and is **unrendered twice at ch 38**, where 不居其薄 and 不居其華 are folded into 處's verb. Ch 8's *settling* is right for a reason worth keeping: 處 (*chǔ*) holds *dwell* four lines above, and 說文 separates them — 居 蹲也 (*"to squat"*, on 尸 a seated body) against 處 止也。得几而止 (*"to stop, having got a stool"*).

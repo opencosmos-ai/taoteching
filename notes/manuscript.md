@@ -72,6 +72,22 @@ We follow the second, on three grounds. **(1) The parallel with Chapter 37** is 
 
 ## Witness forks
 
+### Ch 20 · 昏昏 / 若昏 — a doubled state, or a simile
+
+We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone am clouded."* **The Siku compilers note on 王弼**: 〔案昏昏**河上公注本作若昏**〕, and our vendored 河上公 (*Héshàng Gōng*) prints 我獨**若昏**, *"I alone am **as if** 昏."*
+
+**The fork is 若 (*ruò* — as if), and it changes the grammar of the confession.** Our base gives a doubled adjective, a state; his gives a simile, a resemblance. **The chapter is built on reduplication** — 昭昭, 察察, 悶悶, 沌沌 all stand in the same passage — so the doubled form is the one that matches the pattern the chapter sets, and we keep it.
+
+Worth noting what he does next: having softened the text to *as if*, 河上公 glosses it **如闇昧也**, *"like 闇昧"* — and restores by commentary the flatness his reading had taken out. `sources/variants.yaml`.
+
+### Ch 9 · 功遂 / 功成名遂 — how many things are finished before the body withdraws
+
+We print 功遂身退，天之道 — *"the work done, the body withdraws; this is the way of nature."* **The Siku compilers attach a collation note to their own 王弼 (*Wáng Bì*) text**: 〔案**河上公注本及各本俱作功成名遂身退**〕 — *"Heshang Gong's commentary text and all editions read 功成名遂身退."* Our vendored 河上公 prints the longer lemma, and glosses it 言人所為功成事立，**名迹稱遂**，不退身避位則遇於害.
+
+**The fork is 名 (*míng* — name, reputation).** The longer reading finishes two things before the withdrawal: the work, **and the name**. That is not idle, because 河上公 then quotes the same shape back at ch 44's opening — 名遂則身退也 — where 名 is the first term of the chapter's question (名與身孰親, *"your name or your body, which is dearer?"*). On the longer reading ch 9 and ch 44 are one argument about reputation; on ours, ch 9 is about work alone.
+
+**We keep the base**, per the standing rule that this is an edition of the received recension. Recorded because our base is here the **minority** reading among the editions the Siku compilers knew, and because the English turns on it. `sources/variants.yaml`.
+
 ### Ch 10 · two forks, and both sit on the lines our English had swapped
 
 **能為雌乎 / 能無雌乎.** We print 能**為**雌乎, *"can you be the hen?"* 河上公 (*Héshàng Gōng*) reads 能**無**雌乎, *"can you be **without** the hen?"* — the opposite instruction. And **our own vendored 王弼 (*Wáng Bì*) prints 無 in the lemma**, with the Siku compilers' collation note attached: 〔案**注義無似作為**〕 — *"by the sense of the commentary, 無 appears to be 為."* The commentary does settle it: 雌**應而不倡，因而不為**。言天門開闔，**能為雌乎**？ — *"the hen responds and does not lead off; she goes along and does not act. It says: when the gate of the sky opens and closes, can you be the hen?"* **So our 為 follows the Siku editors' own correction of the text they print**, and that had never been recorded.

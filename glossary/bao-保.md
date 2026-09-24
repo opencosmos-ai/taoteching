@@ -2,6 +2,8 @@
 term: "保"
 pinyin: "bǎo"
 render: "keep safe"
+flexions:
+  - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
 forbidden: ["preserve", "safekeeping", "maintain", "hold on to", "safeguard"]
 chapters: [9, 15, 62, 67]
 status: locked
@@ -12,7 +14,7 @@ pairing: false
 
 *Say "bao," dipping. Four lines across four chapters, and it is the only one of the holding words that is not about your grip.*
 
-**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain.")*
+**Locked: 保 → "keep safe."** *(Never "preserve," never "safekeeping," never "maintain." Never *guard* either — but that one is a ruling no check can hold, and it has a section of its own below.)* **One declared flexion: bare *keep* at chapter 9**, for the reason below.
 
 ### The graph: a person carrying a child
 
@@ -41,6 +43,16 @@ Both commentators make the Tao the agent there, not the object. 王弼 (*Wáng B
 
 保倚 — *to be kept safe by, to lean on.* He uses the same compound at chapter 67 for the three treasures: 我有三寳，抱持而**保倚**. One English across all four lets the two directions answer each other. **At chapter 15 you keep the Tao safe; at chapter 62 the Tao keeps you safe.** That reciprocity is in the character and nowhere in the syntax, and it disappears the moment the four lines take four words.
 
+### The one flexion, and the marker that licenses it
+
+Three of the four lines take an object that is **cherished**, and all three are **positive**: 此道 (*cǐ dào* — this Tao) at 15, the Tao acting on people at 62, 三寶 (*sān bǎo* — the three treasures) at 67. **Chapter 9 is the only negative instance and the only one whose object is not cherished** — 揣而銳之，**不可長保**, a metal point hammered ever finer by someone who is destroying it.
+
+English *keep safe* carries a requirement the Chinese does not: it wants an object **valued for its own sake**, something you would protect. A tool being wrecked by overwork is not that, and the phrase reads as a category error. So chapter 9 takes the verb without the qualifier — *"and it will not keep for long"* — which is 保's own root word, and which lets the intransitive do the work an impersonal 不可 asks for.
+
+**The entry's own argument demanded this and had not noticed.** Two sections below, *preserve* is set aside because *"保 is 養, growth, and the object of the verb at chapter 67 is three **living dispositions**, not three artifacts."* That reasoning presupposes a living or cherished object. Chapter 9's object is precisely the artifact.
+
+**The lock had never been tested here.** Chapter 9's verse rendered 保 nowhere until 2026-09-20, so the ruling of 2026-09-06 was argued from this chapter's **literal gloss table** rather than from a line anyone had to say out loud. Two markers, not one, keep the flexion honest and scoped: the negation and the object. A fifth occurrence sharing both would extend it; anything else does not.
+
 ### The chime, and what it costs
 
 保 (*bǎo*) and 寶 (*bǎo* — treasure) are homophones, and the book prints them together twice — 善人之**寶**，不善人之所**保** (62) and 我有三**寶**，持而**保**之 (67). 說文 on 寶 is 珍也, *"a precious thing,"* built from 宀 a roof over 玉 jade and 貝 a cowrie shell: a hoard indoors. 王弼 separates the pair cleanly at 62 — **寶以為用也** / **保以全也**, *"treasure, because they put it to use; keeping safe, because it keeps them whole."*
@@ -59,7 +71,7 @@ English cannot chime here, and the entry records the loss rather than manufactur
 
 ### What no rule can enforce
 
-***"guard"* is not on the forbidden list, and cannot be.** 守 stands with 保 in chapters 9 and 67, and *guard* is 守's word in both. A rule keyed to 保's presence would fire on 守's own line. The two characters sit two lines apart at chapter 9 — 不可長**保** and 莫之能**守** — and nothing in this repository can tell one from the other there. See `shou-守.md`, `chi-持.md`, `zhi-執.md`.
+***"guard"* is ruled out in the verse, and it is not on the `forbidden:` list, because it cannot be.** Those are two different facts: the ruling holds, and the enforcement does not exist. 守 stands with 保 in chapters 9 and 67, and *guard* is 守's word in both. A rule keyed to 保's presence would fire on 守's own line. The two characters sit two lines apart at chapter 9 — 不可長**保** and 莫之能**守** — and nothing in this repository can tell one from the other there. See `shou-守.md`, `chi-持.md`, `zhi-執.md`.
 
 ### Left open
 

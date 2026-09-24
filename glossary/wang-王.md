@@ -1,7 +1,9 @@
 ---
 term: "王"
 pinyin: "wáng"
-render: "ruler / sovereign · supreme authority (in ch 16's chain) · to rule (verb)"
+render: "ruler / sovereign · to rule (verb)"
+flexions:
+  - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
 forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]
 chapters: [16, 25, 32, 37, 39, 42, 66, 78]
 status: locked
@@ -14,7 +16,7 @@ covers:
 
 *Say "wahng," rising. Thirteen lines across eight chapters, and not one of them shows a 王 commanding anything.*
 
-**Locked: 王 → "ruler / sovereign" · "to rule" (as a verb).** *(Never "king," never "kings," never "monarch," never "emperor." 侯 (hóu) → "ruler," inside 侯王.)*
+**Locked: 王 → "ruler / sovereign" · "to rule" (as a verb) — and *supreme authority* at chapter 16, where 王 is a rung in a sequence rather than a person.** *(Never "king," never "kings," never "monarch," never "emperor." 侯 (hóu) → "ruler," inside 侯王.)*
 
 Every English Tao Te Ching renders 王 as **king**. The word arrives so naturally that the question never gets asked, and three separate things ride in with it.
 

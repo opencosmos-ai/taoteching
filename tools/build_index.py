@@ -33,6 +33,15 @@ SOURCE = ROOT / "source" / "chinese.md"
 OPTIONAL_FIELDS = ("case", "match", "severity")
 
 
+def _render_cell(e):
+    """The render, plus any flexions as `english (ch N)` — so the index shows
+    the whole ruling rather than only its headline."""
+    base = e.get("render", "")
+    fx = ["*{}* (ch {})".format(f["english"], ", ".join(str(c) for c in f["chapters"]))
+          for f in e.get("flexions", [])]
+    return base + (" · " + " · ".join(fx) if fx else "")
+
+
 def chapters_for(term, by_chapter):
     return [n for n in sorted(by_chapter) if term and term in by_chapter[n]]
 
@@ -92,7 +101,7 @@ def main():
         status = e.get("status", "").strip() or "?"
         badge = {"locked": "**locked**", "open": "open — not yet a lock"}.get(status, status)
         out.append(
-            f'| **{e.get("term","")}** | *{e.get("pinyin","")}* | {e.get("render","")} '
+            f'| **{e.get("term","")}** | *{e.get("pinyin","")}* | {_render_cell(e)} '
             f'| {never} | {span} | {badge} | [`{e["file"]}`]({e["file"]}) |'
         )
 
@@ -138,6 +147,12 @@ def main():
         for f in OPTIONAL_FIELDS:
             if e.get(f):
                 y.append(f'  {f}: {e[f]}')
+        if e.get("flexions"):
+            y.append("  flexions:")
+            for f in e["flexions"]:
+                chs = ", ".join(str(c) for c in f.get("chapters", []))
+                y.append(f'    - {{ english: "{f["english"]}", chapters: [{chs}], '
+                         f'why: "{f.get("why", "")}" }}')
         for c, r in e.get("covers", []):
             y.append(f'  # covers {c} -> {r}')
         y.append("")

@@ -46,26 +46,40 @@ def parse_frontmatter(text):
     """Read the YAML frontmatter of a markdown file. Returns None if absent.
 
     Deliberately minimal rather than a real YAML parser — the frontmatter in
-    this repo is a flat map of scalars and inline lists, plus the glossary's
-    `covers:` list of inline mappings. Anything richer should be reconsidered
-    rather than parsed.
+    this repo is a flat map of scalars and inline lists, plus two lists of
+    inline mappings: the glossary's `covers:` and `flexions:`. Anything richer
+    should be reconsidered rather than parsed.
     """
     m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
     if not m:
         return None
-    data, covers = {}, []
-    in_covers = False
+    data, covers, flexions = {}, [], []
+    block = None
     for line in m.group(1).split("\n"):
         if line.startswith("covers:"):
-            in_covers = True
+            block = "covers"
             continue
-        if in_covers and line.strip().startswith("- {"):
-            c = re.search(r'char:\s*"([^"]*)"', line)
-            r = re.search(r'render:\s*"([^"]*)"', line)
-            if c:
-                covers.append((c.group(1), r.group(1) if r else ""))
+        if line.startswith("flexions:"):
+            block = "flexions"
             continue
-        in_covers = False
+        if block and line.strip().startswith("- {"):
+            if block == "covers":
+                c = re.search(r'char:\s*"([^"]*)"', line)
+                r = re.search(r'render:\s*"([^"]*)"', line)
+                if c:
+                    covers.append((c.group(1), r.group(1) if r else ""))
+            else:
+                e = re.search(r'english:\s*"([^"]*)"', line)
+                ch = re.search(r'chapters:\s*\[([^\]]*)\]', line)
+                why = re.search(r'why:\s*"([^"]*)"', line)
+                if e:
+                    flexions.append({
+                        "english": e.group(1),
+                        "chapters": [int(x) for x in re.findall(r"\d+", ch.group(1))] if ch else [],
+                        "why": why.group(1) if why else "",
+                    })
+            continue
+        block = None
         km = re.match(r"^(\w+):\s*(.*)$", line)
         if not km:
             continue
@@ -76,6 +90,7 @@ def parse_frontmatter(text):
         else:
             data[key] = raw.strip('"')
     data["covers"] = covers
+    data["flexions"] = flexions
     return data
 
 
@@ -301,6 +316,26 @@ class Term:
     case: str = "insensitive"       # per-rule case policy; see WORKLIST.md lesson 2
     match: str = "substring"        # substring catches "eternally"; lesson 1
     severity: str = "error"
+    # A lock's secondary Englishes, each scoped to named chapters. Data, not
+    # prose: `render:` used to carry these as a sentence ("keep safe — and bare
+    # keep where the object is not cherished (ch 9 alone)"), which no tool could
+    # read, so --english could not tell a licensed flexion from a breach.
+    flexions: list = field(default_factory=list)
+
+    def flexion_for(self, phrase):
+        """The flexion whose English is this phrase, or None."""
+        return next((f for f in self.flexions
+                     if f.get("english", "").lower() == phrase.lower()), None)
+
+    def licenses(self, phrase, chapter):
+        """Is this English licensed for this chapter — as the render, or a flexion?
+
+        The primary render is licensed everywhere the character stands. A
+        flexion is licensed only in the chapters it names, which is the whole
+        point of writing it down.
+        """
+        f = self.flexion_for(phrase)
+        return chapter in f["chapters"] if f else True
 
     @property
     def characters(self):
@@ -333,6 +368,25 @@ def load_terms():
     if cur:
         terms.append(cur)
 
+    # flexions are inline mappings under a `flexions:` key; the scalar loop
+    # above cannot see them, so they are read from the raw text per block.
+    flex_by_term = {}
+    for blk in path.read_text(encoding="utf-8").split("\n- term:")[1:]:
+        name = re.match(r'\s*"?([^"\n]*)"?', blk).group(1).strip()
+        rows = []
+        for line in blk.split("\n"):
+            if not line.strip().startswith("- {"):
+                continue
+            e = re.search(r'english:\s*"([^"]*)"', line)
+            ch = re.search(r'chapters:\s*\[([^\]]*)\]', line)
+            why = re.search(r'why:\s*"([^"]*)"', line)
+            if e:
+                rows.append({"english": e.group(1),
+                             "chapters": [int(x) for x in re.findall(r"\d+", ch.group(1))] if ch else [],
+                             "why": why.group(1) if why else ""})
+        if rows:
+            flex_by_term[name] = rows
+
     out = []
     for t in terms:
         chapters = [int(c) for c in t.get("chapters", []) if str(c).strip().isdigit()]
@@ -347,6 +401,7 @@ def load_terms():
             case=t.get("case", "insensitive"),
             match=t.get("match", "substring"),
             severity=t.get("severity", "error"),
+            flexions=flex_by_term.get(t.get("term", ""), []),
         ))
     return out
 

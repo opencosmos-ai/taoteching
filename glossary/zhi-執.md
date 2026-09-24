@@ -1,7 +1,9 @@
 ---
 term: "執"
 pinyin: "zhí"
-render: "grasp — and *seize* at ch 74, where the seizing is an arrest"
+render: "grasp"
+flexions:
+  - { english: "seize", chapters: [74], why: "the seizing is an arrest, which is the dictionary headword: 捕罪人也" }
 forbidden: ["cling", "clinging", "attachment", "embody", "control", "possess"]
 chapters: [14, 29, 35, 64, 69, 74, 79]
 status: locked

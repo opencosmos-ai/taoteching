@@ -61,6 +61,17 @@ guess at confidence 0.3, recorded so it can be improved, and **not evidence of
 anything**. `rendering_present = NOT FOUND` on a `proportional` row usually means
 the alignment is wrong, not the translation.
 
+**`expected_rendering` is the lock's primary English, and `rendering_present`
+also consults its flexions.** A flexion is a secondary English scoped to named
+chapters — 保 (*bǎo*) reads *keep safe* generally and bare *keep* at chapter 9,
+執 (*zhí*) reads *grasp* and *seize* at chapter 74 — declared as data in the
+entry's frontmatter. The column counts a line honored if it carries the primary
+render **or** a flexion licensed in that chapter. Before 2026-09-20 the flexions
+were prose inside `render:` and this column printed `NOT FOUND` on 36 lines that
+were correct, all of them on flexed locks. `expected_rendering` still shows only
+the primary render, so a flexed line reads as `keep safe · yes`; the licence is
+in `glossary/terms.yaml`.
+
 **The excavated manuscripts are facts here, never text.** 郭店 (*Guōdiàn*),
 馬王堆 (*Mǎwángduī*) and 北大 (*Běidà*) appear only in `variants.csv`, as recorded
 disagreements with citations. `sources/PROVENANCE.md` explains why: reconstructing

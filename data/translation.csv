@@ -25,7 +25,7 @@ chapter,line,stanza,english
 2,15,5,"Because the sage does not stay, it does not leave."
 3,1,1,"By not exalting the exceptional, the people have no cause to contend."
 3,2,1,"By not prizing rare goods, the people do not become thieves."
-3,3,1,"By not displaying the desirable, the people's hearts are not disturbed."
+3,3,1,"By not displaying the desirable, the people's hearts are not thrown into disorder."
 3,4,2,This is how the sage governs:
 3,5,2,"emptying their hearts and filling their bellies,"
 3,6,2,"weakening their ambition and strengthening their bones,"
@@ -50,11 +50,11 @@ chapter,line,stanza,english
 6,3,1,This dark gateway birthed the sky and the earth.
 6,4,1,"Unceasing yet barely perceptible, it can never be exhausted."
 7,1,1,"The sky is lasting, the earth enduring."
-7,2,1,"Lasting and enduring,"
-7,3,1,Sky and earth do not live for themselves.
-7,4,1,They endure without limit.
-7,5,2,"Placing themselves last, the sage is first;"
-7,6,2,"unconcerned for themselves, their selves endure."
+7,2,1,Sky and earth can last and endure
+7,3,1,"because they do not live for themselves,"
+7,4,1,and so they live long.
+7,5,2,"So the sage puts their body last, and their body comes first;"
+7,6,2,"puts their body outside, and their body survives."
 7,7,3,Is it not because they have no private self?
 7,8,3,And so their private self is fulfilled.
 8,1,1,The most masterful are like water.
@@ -65,16 +65,16 @@ chapter,line,stanza,english
 8,6,2,"In the heart, masterful at staying deep."
 8,7,2,"In giving, masterful at humaneness."
 8,8,2,"In speech, masterful at trust."
-8,9,2,"In governing, masterful at order."
+8,9,2,"In government, masterful at order."
 8,10,2,"In affairs, masterful at what can be done."
 8,11,2,"In moving, masterful at timing."
 8,12,3,"Because it does not contend,"
 8,13,3,there is no blame.
-9,1,1,"Filling a vessel, stop before spilling."
-9,2,1,An over-sharpened blade’s edge cannot last.
-9,3,2,The hall of gold and jade can’t be guarded.
-9,4,2,Those who seek wealth and status with arrogance bring ruin upon themselves.
-9,5,3,"When the work is done, cease striving. This is the way of nature."
+9,1,1,"Rather than keep filling what you hold, stop."
+9,2,1,"Hammer a point ever sharper, and it will not keep for long."
+9,3,2,"Gold and jade fill the hall, and no one can guard them."
+9,4,2,"Grow arrogant with wealth and status, and you leave yourself the fault."
+9,5,3,"The work done, the body withdraws. This is the way of nature."
 10,1,1,"Housing your soul and embracing the one, can you keep these from parting?"
 10,2,1,"Gathering the breath to softness, can you be like an infant?"
 10,3,2,"Washing and clearing the dark mirror, can you be without blemish?"
@@ -122,7 +122,7 @@ chapter,line,stanza,english
 14,4,1,These three defy comprehension.
 14,5,1,"Therefore, they mix into one."
 14,6,2,"It doesn’t have a bright top,"
-14,7,2,Or a dark bottom.
+14,7,2,Or a murky bottom.
 14,8,2,"Continuously flowing, it cannot be named"
 14,9,2,And returns to no-thing.
 14,10,2,"This is the shape of no-shape, the image of no-thing."
@@ -178,7 +178,7 @@ chapter,line,stanza,english
 18,1,1,"When the great Tao is discarded, humaneness and duty appear."
 18,2,1,"When cleverness and erudition arise, great hypocrisy appears."
 18,3,1,"When kin are out of harmony, devotion and tenderness appear."
-18,4,1,"When nations fall into chaos, loyal ministers appear."
+18,4,1,"When nations grow clouded and fall into disorder, loyal ministers appear."
 19,1,1,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,1,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,3,1,"Cut off cunning, abandon profit, and there are no thieves."
@@ -202,7 +202,7 @@ chapter,line,stanza,english
 20,14,4,I alone seem to have missed out.
 20,15,4,I have the heart of a fool!
 20,16,4,How muddled!
-20,17,4,The worldly are bright. I alone am dark.
+20,17,4,The worldly are bright. I alone am clouded.
 20,18,4,The worldly are sharp. I alone am dull.
 20,19,5,"Calm, like the sea."
 20,20,5,"Blown along, as if never stopping."
@@ -268,13 +268,14 @@ chapter,line,stanza,english
 25,14,5,"Earth models itself on the sky,"
 25,15,5,"The sky models itself on the Tao,"
 25,16,5,The Tao models itself on being what it is.
-26,1,1,The heavy is the root of the ungrounded.
-26,2,1,Silence is the ruler of the agitated.
-26,3,2,"Therefore, the noble travels all day without becoming disconnected from sustenance."
-26,4,2,"Even when the sights are glorious, their equanimity is undisturbed."
-26,5,3,How could a great ruler become ungrounded in their being?
-26,6,3,To become ungrounded is to lose connection with one’s roots.
-26,7,3,To become agitated is to lose one’s mastery.
+26,1,1,The heavy is the root of the light.
+26,2,1,Stillness is the ruler of the agitated.
+26,3,2,"Therefore, the noble travels all day without leaving the baggage wagons."
+26,4,2,"Even where the sights are glorious, they dwell at ease and stay apart."
+26,5,3,How can the lord of ten thousand chariots
+26,6,3,make their own body light in the world?
+26,7,3,Lightness loses the root.
+26,8,3,Agitation loses the ruler.
 27,1,1,Masterful traveling leaves no tracks.
 27,2,1,Masterful speaking is flawless.
 27,3,1,Masterful calculating uses no abacus.
@@ -427,7 +428,7 @@ chapter,line,stanza,english
 41,3,1,Those lowest in service hear the Tao and laugh aloud at it.
 41,4,1,"If it weren’t laughed at, the Tao wouldn’t be what it is."
 41,5,2,"Therefore, as the established sayings have it:"
-41,6,2,The clear Tao seems dark.
+41,6,2,The clear Tao seems murky.
 41,7,2,The advancing Tao seems to retreat.
 41,8,2,The level Tao seems rough.
 41,9,2,The highest integrity seems a valley.
@@ -454,8 +455,8 @@ chapter,line,stanza,english
 43,3,1,This is how I know the benefit of non-doing.
 43,4,2,"The wordless teaching, the benefit of non-doing —"
 43,5,2,few ever reach this.
-44,1,1,Reputation or your self — which is dearer?
-44,2,1,Your self or goods — which is worth more?
+44,1,1,Reputation or your body — which is dearer?
+44,2,1,Your body or goods — which is worth more?
 44,3,1,Gain or loss — which does more harm?
 44,4,2,"Therefore, extreme attachment inevitably brings great cost"
 44,5,2,And hoarding inevitably brings heavy loss.
@@ -525,12 +526,12 @@ chapter,line,stanza,english
 52,2,1,"Find our mother, and you know her children."
 52,3,1,"Know her children, return and hold fast to our mother,"
 52,4,1,"and to the end of your days, no danger will find you."
-52,5,2,"Block the openings, close the doors, and all your life will be struggle-free."
-52,6,2,"Open the openings, multiply your affairs, and your life is beyond saving."
+52,5,2,"Block the openings, close the doors, and to the end of your days you will not toil."
+52,6,2,"Open the openings, multiply your affairs, and to the end of your days you are beyond saving."
 52,7,3,To recognize things in their smallest form is clear-seeing.
 52,8,3,Holding to the soft is called strong.
 52,9,4,"Use the outer light, return to your inner clarity,"
-52,10,4,and you bring no calamity upon yourself.
+52,10,4,and leave no calamity for the body.
 52,11,5,This is called the ever-present worn covered.
 53,1,1,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,2,1,"The great Tao is very level, yet people love to take shortcuts."
@@ -545,7 +546,7 @@ chapter,line,stanza,english
 54,6,2,"Cultivate this in your community, and its integrity becomes long-lasting."
 54,7,2,"Cultivate this in your nation, and its integrity becomes bountiful."
 54,8,2,"Cultivate this in the world, and its integrity becomes universal."
-54,9,3,"Therefore, observe the self through your own self."
+54,9,3,"Therefore, observe the body through your own body."
 54,10,3,Observe the family through your family.
 54,11,3,Observe the community through your community.
 54,12,3,Observe the nation through your nation.
@@ -579,7 +580,7 @@ chapter,line,stanza,english
 57,3,1,and win the world by not meddling.
 57,4,1,How do I know it is so? By this:
 57,5,1,"The more taboos in the world, the poorer the people become."
-57,6,1,"The more sharp weapons the people have, the darker the state becomes."
+57,6,1,"The more sharp weapons the people have, the more clouded the state becomes."
 57,7,1,"The more cunning people become, the more strange contrivances appear."
 57,8,1,"The more laws are proclaimed, the more thieves there are."
 57,9,2,Therefore the sage says:
@@ -655,7 +656,7 @@ chapter,line,stanza,english
 64,3,1,What is brittle is easy to shatter.
 64,4,1,What is faint is easy to scatter.
 64,5,1,Handle it before it exists.
-64,6,1,Order it before it is chaotic.
+64,6,1,Order it before it falls into disorder.
 64,7,2,The tree the width of both arms is born from a hair's tip.
 64,8,2,The nine-tiered terrace rises from a heap of dirt.
 64,9,2,The thousand-mile journey begins beneath your feet.
@@ -689,7 +690,7 @@ chapter,line,stanza,english
 66,2,1,because they are masterful at staying below them.
 66,3,1,That is how they come to rule the hundred valleys.
 66,4,2,"So to rise above the people, you must speak from below them."
-66,5,2,"To walk ahead of the people, you must put yourself behind."
+66,5,2,"To walk ahead of the people, you must put your body behind them."
 66,6,3,"The sage stands above, and the people are not weighed down,"
 66,7,3,"stands in front, and the people are not hindered."
 66,8,3,So the world gladly pushes them forward and never tires of them.
@@ -780,7 +781,7 @@ chapter,line,stanza,english
 75,6,3,because those over them want their own lives so rich.
 75,7,4,Those who don't use living for doing
 75,8,4,are worthier than those who hold life precious.
-76,1,1,In life the body is soft and yielding.
+76,1,1,In life a person is soft and yielding.
 76,2,1,"In death, hard and strong."
 76,3,1,"In life the countless things, the grasses and trees, are soft and tender."
 76,4,1,"In death, withered and dry."

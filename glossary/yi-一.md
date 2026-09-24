@@ -1,7 +1,9 @@
 ---
 term: "一"
 pinyin: "yī"
-render: "the one (lowercase) · one thing (ch 22) · plain numeral where it counts"
+render: "the one (lowercase) · plain numeral where it counts"
+flexions:
+  - { english: "one thing", chapters: [22], why: "抱一 takes 一 as the object embraced, not as the name of the Tao" }
 forbidden: ["the One", "Oneness", "the Absolute"]
 chapters: [10, 11, 14, 22, 39, 42, 67]
 status: locked

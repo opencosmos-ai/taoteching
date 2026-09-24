@@ -360,6 +360,40 @@
     sense of over-sharpening requires.
   logged: notes/manuscript.md
 
+- chapter: 9
+  line: "功遂身退，天之道"
+  base: "功遂"
+  witnesses: { siku-wangbi: "功成名遂", heshanggong: "功成名遂" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku editors' own collation note on 王弼 reads 案河上公注本及各本俱作功成名遂身退
+    — "Heshang Gong's commentary text and all editions read 功成名遂身退." Our base
+    carries the shorter 功遂身退, which is therefore the minority reading among the
+    editions the compilers knew. 名 (míng — name, reputation) is the character at
+    stake: the longer reading adds "the name achieved" beside "the work
+    completed," which is what 河上公 then glosses at ch 44 (名遂則身退也). We keep
+    the base, per the standing rule that this is an edition of the received
+    recension; the fork is recorded because the English turns on how many things
+    are finished before the body withdraws.
+  logged: notes/manuscript.md
+
+- chapter: 20
+  line: "俗人昭昭，我獨昏昏"
+  base: "昏昏"
+  witnesses: { heshanggong: "若昏" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku editors attach the note 案昏昏河上公注本作若昏 to 王弼's text, and our
+    vendored 河上公 prints 我獨若昏. Our base doubles the character — a
+    reduplicated state, matching 昭昭, 察察, 悶悶 and 沌沌 elsewhere in the
+    chapter — where his reads 若 (ruò — as if), hedging it into a simile. The
+    chapter is built on reduplication, so the doubled form is the one that fits
+    its own pattern, and we keep the base. 河上公 then glosses his own shorter
+    reading 如闇昧也, which restores by commentary the force his text softened.
+  logged: notes/manuscript.md
+
 - chapter: 26
   line: "君子終日行不離輜重"
   base: "君子"

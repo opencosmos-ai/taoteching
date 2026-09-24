@@ -74,7 +74,7 @@ The book uses three characters built on the cowrie, and our English had been shu
 
 說文 on 盜 (*dào* — thief), the word chapter 3 says the ruler creates: **私利物也。从㳄，㳄欲皿者** — *"to take private profit from a thing. It follows 㳄 (*xián* — drool), the drooling of one who wants the dish."*
 
-A thief, in the oldest analysis of the graph, is **someone salivating over a vessel.** The theft begins in the wanting, and chapter 3's third line says where the wanting begins: 不見可欲，使民心不亂 — *"do not display what can be desired, and the people's hearts are not disturbed."* Display, then appetite, then theft. The chapter blames the first link, and the character agrees with it.
+A thief, in the oldest analysis of the graph, is **someone salivating over a vessel.** The theft begins in the wanting, and chapter 3's third line says where the wanting begins: 不見可欲，使民心不亂 — *"do not display what can be desired, and the people's hearts are not thrown into disorder."* Display, then appetite, then theft. The chapter blames the first link, and the character agrees with it.
 
 ---
 

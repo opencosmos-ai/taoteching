@@ -5,7 +5,7 @@ status: active
 since: 2026-08-11
 trigger: "you are writing a check, or widening one, so that it can fire without seeing the character"
 applies: [tooling]
-evidence: ["ARCHITECTURE.md#the-evidence-gate", "ARCHITECTURE.md#the-twelve-rules"]
+evidence: ["ARCHITECTURE.md#the-evidence-gate", "ARCHITECTURE.md#the-thirteen-rules"]
 check: check_locks
 supersedes: []
 ---
@@ -34,7 +34,7 @@ supersedes: []
 
 **The evidence gate** has a section of its own in the architecture, because it is the design decision the rest of the checker rests on. → [ARCHITECTURE](../../ARCHITECTURE.md#the-evidence-gate)
 
-**The twelve rules** each carry a severity, and which findings are allowed to fail a build is the same decision made twelve times. → [ARCHITECTURE](../../ARCHITECTURE.md#the-twelve-rules)
+**The thirteen rules** each carry a severity, and which findings are allowed to fail a build is the same decision made thirteen times. → [ARCHITECTURE](../../ARCHITECTURE.md#the-thirteen-rules)
 
 ---
 

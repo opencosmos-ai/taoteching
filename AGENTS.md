@@ -77,7 +77,8 @@ Several renderings depart from the English convention **on purpose**, because th
 Reasoning for each is in `glossary/` and `process/overlay-audit.md`.
 
 **Machine-readable:** [`glossary/terms.yaml`](glossary/terms.yaml) lists every locked term with its
-rendering, forbidden alternatives, and the chapters it appears in. [`glossary/INDEX.md`](glossary/INDEX.md) is the same data as a lookup table.
+rendering, its **flexions** (a secondary English scoped to named chapters — 執 (*zhí*) reads *grasp*,
+and *seize* at chapter 74), its forbidden alternatives, and the chapters it appears in. [`glossary/INDEX.md`](glossary/INDEX.md) is the same data as a lookup table.
 Both are generated from the entries by `tools/build_index.py`; do not edit them directly.
 
 ## Status

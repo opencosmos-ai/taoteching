@@ -1,7 +1,9 @@
 ---
 term: "極"
 pinyin: "jí"
-render: "the far end — where a thing runs out · the endless (無極)"
+render: "the far end — where a thing runs out"
+flexions:
+  - { english: "the endless", chapters: [28], why: "the compound 無極, where the negation turns the limit into its absence" }
 forbidden: ["limitless", "absolute", "ultimate", "infinite", "extreme", "utmost"]
 chapters: [16, 28, 58, 59, 68]
 status: open

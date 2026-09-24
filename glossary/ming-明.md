@@ -1,7 +1,7 @@
 ---
 term: "明"
 pinyin: "míng"
-render: "clear-seeing / clarity"
+render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
 forbidden: ["enlightenment", "illumination", "brilliance"]
 chapters: [10, 16, 22, 24, 27, 33, 36, 41, 47, 52, 55, 65]
 status: locked
@@ -53,7 +53,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **It sees what does not change.** 知常曰明 — *knowing the ever-present is called clear-seeing* — appears verbatim in **16** and **55**. This is a repeated formula and must read identically in both places.
 
-**And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear path seems dim.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
+**And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear Tao seems murky.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
 
 ### The lock: why not "enlightenment" or "illumination"
 
@@ -61,7 +61,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **"Illumination"** fails on the evidence: Chapter 52 sets 光 and 明 side by side, and "illumination" collapses them. It also names emission where the text names reception.
 
-**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear path seems dim) directly.
+**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems murky) directly.
 
 **"Wisdom"** belongs to a different character — 智 (*zhì*), which Chapter 33 explicitly ranks *below* 明.
 
@@ -70,12 +70,14 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 明 flexes by grammar; keep it inside one image — *sight that is unobstructed*:
 
 - as the named state → **clear-seeing** (知常曰明 → "knowing the ever-present is called clear-seeing")
-- as a noun → **clarity** (用其光，復歸其明 → "use its light, return to its clarity"; 微明 → "subtle clarity"; 襲明 → "inherited clarity")
+- as a noun → **clarity** (用其光，復歸其明 → "use its light, return to its clarity"; 微明 → "the hidden clarity"; 襲明 → "clarity worn covered")
 - as predicate or verb → **sees clearly / does not see clearly** (不自見，故明; 自見者不明)
-- as an adjective of the path → **clear** (明道若昧 → "the clear path seems dim")
-- 明白四達 (10) → **"clear and penetrating in all directions"**
+- as a modifier → **clear** (明道 at 41 → "the clear Tao")
+- 明白四達 (10) → **"clarity reaching the four quarters"**
 
 **Never** "enlightened," "illuminated," "brilliant."
+
+*Why this stays prose in `render:` and is not a `flexions:` entry.* The variation here is **grammatical, not chapter-scoped** — 明 takes the predicate form wherever it predicates, which happens at 22, 24, 33 and 47, and would take it in a chapter nobody has written yet. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that; pinning a grammatical form to a chapter list would assert a condition the language does not have. See `CLAUDE.md` → *the frontmatter contract*.
 
 
 ### The tension, left open
