@@ -20,11 +20,7 @@ supersedes: []
 
 ## Why this holds
 
-**Both failure modes are documented here, and both were expensive.**
-
-**A hand-kept copy went stale twice in one week.** `CLAUDE.md` carried a table of the locks, maintained by hand. 仁 (*rén*) and 慈 (*cí*) were locked and never reached it — while the generated index had them right the whole time. **The copy was a reminder of a rule a tool already keeps**, and it was deleted.
-
-**Two generated files disagreed for seven months.** `data/constellation-chars.json` published glosses `data/characters.csv` had already withdrawn, because nothing rebuilt the second one. See [[deterministic-before-gated]].
+**A hand-kept copy of a derivable fact is a second authority, and two authorities drift.** Nothing makes the copy wrong on the day it is written; it goes wrong on the day the source changes and nobody remembers the copy exists. A generated file cannot drift, because it has no author to forget.
 
 **The rule is what makes the architecture legible.** Three directories are edited by hand and are the truth — `chapters/`, `glossary/`, parts of `sources/`. Everything else is a build product with a named generator, and you can always answer *"where does this come from?"* in one step. A file that is partly hand-edited destroys that answer for the whole tree, because you can no longer trust any generated file to be a function of its source.
 
@@ -32,11 +28,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
+
+Both failure modes happened here. A hand-kept table of the locks in `CLAUDE.md` went stale twice in one week — 仁 (*rén* — humaneness) and 慈 (*cí* — tenderness) were locked and never reached it, while the generated index had them right throughout — and it was deleted. And `data/constellation-chars.json` published glosses that `data/characters.csv` had already withdrawn, for seven months, because nothing rebuilt it (see [[deterministic-before-gated]]).
 
 **The one rule that explains most of the design**, with the two places it deliberately bends. → [ARCHITECTURE](../../ARCHITECTURE.md#the-one-rule-that-explains-most-of-the-design)
 
 **The generated-file table** — what is built, by what, from what, and whether CI fails when it is stale. → [ARCHITECTURE](../../ARCHITECTURE.md#what-is-generated-and-from-what)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **The generated files' headers** | `glossary/INDEX.md`, `glossary/terms.yaml`, `process/principles/INDEX.md`, `data/README.md` each say what built them and not to edit by hand |
+| **CI**, three *generated … files are current* steps | rebuild the glossary, the principles and the atlas, and fail on any diff — a hand edit to a build product cannot survive a push |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Enforced by CI** for every generated file. A hand edit is also overwritten by the next build, silently — which is how `data/README.md` lost one on 2026-09-23.
 
 ---
 

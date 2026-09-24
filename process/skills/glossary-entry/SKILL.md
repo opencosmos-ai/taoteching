@@ -66,6 +66,8 @@ That covers the first, second, and last of the four below; the character's histo
 4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3).
 5. **State the working register.** How the term flexes by grammar, with examples. Include a table of protected verbs where the noun cannot carry the whole sense.
 6. **Leave the real tension open.** Every good entry ends somewhere honest and unresolved. If nothing is unresolved, look harder.
+7. **Say which rulings the build holds.** A word you rule out that another character in the same chapters may legitimately print cannot go on `forbidden:` — the gate keys on chapter presence. Name it in the lock line as a ruling no check can hold, and explain it under a `### What no rule can enforce` section, naming the blocking character and the shared chapters. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
+8. **Never put a supplied word in `render:`.** A verb English grammar needs to carry a bare noun belongs to the construction, not the character; entering it in the frontmatter commits the character to a word that was never its own. See `process/principles/supplied-verb-is-scaffolding.md`.
 
 **Two tests on every sentence:**
 

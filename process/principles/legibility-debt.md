@@ -30,13 +30,25 @@ supersedes: []
 
 ---
 
-## The case that produced it
+## Why this principle exists
 
 Chapter 14 names three characters — 夷 (*yí*), 希 (*xī*) and 微 (*wēi*) — in a definition passage, 名曰X three times. Each is rendered by its meaning here (*the invisible · the inaudible · the intangible*) rather than by the word it carries elsewhere (*level* at 41 and 53; *barely heard* at 41 and *sparse* at 23, 43, 70, 74; *faint* at 15 and 64). 王弼 (*Wáng Bì*) argues against that choice directly, defining 希 at chapter 41 by quoting chapter 14 outright — 聽之不聞名曰希, *"listen but you cannot hear it, its name is called 希"* — which makes 大音希聲 and 名曰希 one word by his own hand.
 
 **The choice went to legibility**, because chapter 14 is early and three bare adjectives give a reader nothing to hang them on. The debt was then paid: an anchor note at chapter 14 carrying all three graphs and their recurrences, and a thread note in chapters 15, 23, 36, 41, 43, 53, 64, 70 and 74 pointing back — with chapter 41 carrying 王弼's counter-argument as well as the pointer, since that is where he makes it.
 
 Full argument: [`notes/translation.md` → Ch 14's opening triad](../../notes/translation.md#ch-14s-opening-triad-夷-希-微-the-names-and-why-the-verse-gives-their-meanings).
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 7** | the anchor note where the choice was made, and the thread notes in every chapter the forgone reading runs through |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Not enforced.** The thread notes are the part that gets skipped, and nothing checks that they were written.
 
 ---
 

@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,17 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-09-24 — The principles are made to run, and the build now checks that they do
+
+A principle had one job the directory never asked about: **where does it actually run?** Twenty-nine of thirty entries said nothing about it, and seven applied to kinds of work — `notes`, `tooling`, `process` — that no skill or `CLAUDE.md` ever loaded. They were argued well and reached by nobody.
+
+- **Every entry now has the same shape**, enforced by `build_principles.py --check` and CI: *Why this holds · Why this principle exists · How it is implemented · Where it does not fire · What it obliges*. **The failure story is told once**, in *Why this principle exists*; every other section says what the rule is and how it works. Six stories that had leaked into other sections were moved to their one place, and the 帛書版 (*bó shū bǎn*) story, told in two principles, now lives in the one it produced.
+- **How it is implemented** was written for all thirty — the skill step where each rule is met, the rule or CI step that enforces it, the loader that surfaces it, and one honest sentence on whether it is enforced at all. Most are not, and now say so and why.
+- **All five kinds of work are loaded.** `notes` at `chapter-review`'s logging step, `tooling` before anything in `tools/` changes, `process` at the start of every session. A test fails if any loader is removed.
+- **`chapter-review` step 5 gained *Before you offer a line***: six checks on the finished English, carrying eight drafting principles to the one step where they can fire.
+- **The standard is written down** in [`process/principles/README.md`](process/principles/README.md) → *The shape of an entry*, and [`principle-entry`](process/skills/principle-entry/SKILL.md) gained *Make it run — the wiring*, so a new principle ships wired rather than audited later.
+- **And the project's three skills had not been loadable at all** since the repository moved from `shalomormsby/taoteching` to `opencosmos-ai/taoteching`: they are exposed by absolute symlinks in `~/.claude/skills`, and all three were dangling. Shalom noticed `principle-entry` was missing. Relinked; `process/skills/README.md` has the loop.
 
 ## 2026-09-23 — Three characters were wearing 玄's word, and the governance pair gets settled
 

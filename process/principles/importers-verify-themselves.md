@@ -22,19 +22,33 @@ supersedes: []
 
 **The check is what converts a copy into a witness.** `import_commentary.py` checks every lemma it vendors against our own base text and marks the divergent ones with `*`. **That mark is the whole value**: a commentator's lemma differing from our base is a manuscript fork, and finding those is most of what the commentaries are for. Without the check, the file is a wall of characters nobody can use.
 
-**And the absence is not visible from the file.** When the check was missing for 韓非 (*Hán Fēi*), **the files asserted an agreement nobody had tested.** Nothing looked wrong — a vendored text with no divergence marks reads exactly like a vendored text that agrees. Silence from an unverified importer is indistinguishable from silence from a verified one, which is why the verification has to be in the importer rather than in a reader's diligence.
+**And the absence is not visible from the file.** A vendored text with no divergence marks reads exactly like one that agrees. Silence from an unverified importer is indistinguishable from silence from a verified one, so the verification has to live in the importer rather than in a reader's diligence.
 
-**It also pays for itself immediately.** The verification pass on first run caught three corrections plus more in passing, and the 韓非 import surfaced **35 divergent lemmas** — the oldest witness to this text, and a body of evidence that exists only because the importer looked.
+**It pays for itself on the first run**, because the forks it marks are most of what a commentary is for.
 
 **And it is the same argument as the diff gate, one step upstream.** [[deterministic-before-gated]] makes a generated file trustworthy by rebuilding it; this makes a vendored file trustworthy by checking it. Both refuse to let a committed artifact rest on the assumption that whoever made it was careful.
 
 ---
 
-## The cases
+## Why this principle exists
+
+The 韓非 (*Hán Fēi*) importer shipped without the fidelity check the other two ran, so its files asserted an agreement nobody had tested — and nothing looked wrong. With the check added, **35 of its 53 lemmas** turned out to diverge from our base: the oldest witness to this text, evidence that exists only because the importer finally looked.
 
 **The importers verify themselves** — the design statement, alongside the generated-file table. → [ARCHITECTURE](../../ARCHITECTURE.md#what-is-generated-and-from-what)
 
 **What the building taught**, including the corrections the verification pass caught on its first run. → [PLAN](../../PLAN.md#what-the-building-taught)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`tools/import_commentary.py`** | checks every lemma against `source/chinese.md` and marks a divergent one with `*`, reproducibly to byte-identical output |
+| **`check_locks.py`** · `unmarked-lemma` | fails the build on a divergent lemma without its mark |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Enforced by `unmarked-lemma`** for the commentaries. A new importer has to build its own check; nothing forces it to.
 
 ---
 

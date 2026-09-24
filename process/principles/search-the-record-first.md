@@ -22,7 +22,7 @@ python3 tools/concordance.py --record 亂
 
 ---
 
-## What the record is, and why it comes first
+## Why this holds
 
 **This repository holds its own prior reasoning**: fifty glossary entries, three notes layers, `WORKLIST.md`, `DISCOVERIES.md`, and the notes of eighty-one chapters. Much of it was written by someone with the evidence open, and it is dated and argued.
 

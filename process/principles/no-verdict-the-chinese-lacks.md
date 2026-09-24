@@ -30,13 +30,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **貴 and 賤 are price words, not moral ones.** Both sit in the commercial register; ch 39's 貴以賤為本 is about what a thing costs and what it rests on. Rendered *prized* and *cheap*, the mirror holds. → [貴 and 賤](../../notes/translation.md#貴-and-賤-are-price-words-not-moral-ones)
 
 **Ch 79 — 善 (*shàn*) twice in one chapter, and the moral falls out.** 安可以為善 is not *"how can that be good"* but a question about **mastery**; 天道無親，常與善人 keeps the same word. Once 善 is *masterful* throughout, the chapter stops rewarding virtue and starts describing competence. → [ch 79](../../notes/translation.md#ch-79-善-twice-in-one-chapter-and-the-moral-falls-out)
 
 **Ch 67 — 細 (*xì*) read *petty*.** 細 is *slight*, a matter of scale; *petty* adds contempt the character does not carry, and it collided with ch 63, where the same word is plainly small-not-contemptible. → [ch 67](../../notes/translation.md#ch-67-似不肖-look-like-nothing-and-細-petty)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *ask what the line implies about the people in it* |
+| **`glossary-entry` §2** | *What is set aside* — where a rejected verdict is named, with its reason |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Not enforced.** A verdict lives in valence, which no rule keyed to a word can read.
 
 ---
 

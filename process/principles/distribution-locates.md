@@ -30,13 +30,25 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 4's 象 — distribution defeated.** Four noun uses against one, and the grammar overruled the count. Both commentaries agreed with the grammar. → [ch 4](../../notes/translation.md#ch-4-the-chapter-rebuilt-and-帝-restored-pass-ds-first)
 
 **Ch 28's 雄/雌 — distribution concluding, legitimately.** *Rooster* and *hen* were **forced** because 牝/牡 already hold *male* and *female*. The note says so outright: the forcing argument is **distributional, not etymological**. This is a claim about which English words are already spoken for, not about what 雄 means. → [ch 28](../../notes/translation.md#ch-28-the-pointing-test-failed-on-nearly-every-line)
 
 **Ch 8's 善 — distribution concluding, on grammar.** The shape was decided **by counting, not by taste**: 善 governs a **verb** in all eighteen of its other instances, so X善Y is *masterful at Y*. What made the count decisive is that it was a count of a **grammatical pattern** and the alternative parse collapsed on its own terms — *masterful ground*, *masterful trust*. → [ch 8](../../notes/translation.md#ch-8-善s-showcase-and-the-grammar-that-decides-it-2026-09-02)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`concordance.py`** | gives recall and counts and judges nothing, deliberately. `chapter-review` step 3 and `glossary-entry` §1 |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Not enforced.** The rule governs what a count may be used to conclude, which is judgment.
 
 ---
 

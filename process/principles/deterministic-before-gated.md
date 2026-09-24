@@ -30,11 +30,24 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **What is generated, and from what** — the table of every build product, its generator, and whether CI fails when it is stale. → [ARCHITECTURE](../../ARCHITECTURE.md#what-is-generated-and-from-what)
 
 **The gates** — where each check runs, and what it is allowed to block. → [ARCHITECTURE](../../ARCHITECTURE.md#the-gates)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`export.py`** · **`build_graph.py`** | every query ordered and every map emitted sorted, so output is a function of the data alone |
+| **CI**, *generated atlas files are current* | rebuilds `build_db → export → build_graph` and fails on `git diff data/` — a gate that is only safe because of the ordering above |
+| **`BASELINE`** in `tools/build_db.py` | the regression counts, each carrying the note that says what it counts and why it last moved |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Enforced by CI**, once a generator is deterministic. Making it so is the author's job and nothing checks it in advance — a nondeterministic generator shows up as a gate that fails on one machine only.
 
 ---
 

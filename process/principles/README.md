@@ -69,9 +69,9 @@ supersedes: []
 | `status` | `provisional` · `active` · `superseded` — see the threshold below |
 | `since` | the date the rule was first stated |
 | `trigger` | **the field that makes this actionable.** When does it fire? Written so a reader about to do the thing recognises themselves in it |
-| `applies` | which work loads it: `drafting` · `glossary` · `notes` · `tooling` · `process` |
+| `applies` | which work loads it: `drafting` · `glossary` · `notes` · `tooling` · `process`. **Must include at least one that something actually loads** — see *Where each kind of work loads its principles* below. The build checks |
 | `evidence` | anchor links to the decisions that produced it — **verified by the build, so a rotted link is an error** |
-| `check` | the tool that enforces it, or `none`. Most are `none`, and that is the point |
+| `check` | the tool that enforces it, or `none`. Most are `none`, and that is the point. **If it names a tool, *How it is implemented* must name it too** — the build checks |
 | `supersedes` | ids this replaces |
 
 **`trigger:` is the difference between this and an ADR.** An architecture decision record answers *"why is it built this way?"* and its `context` field is retrospective. A principle has to fire **prospectively**, in the middle of work, on someone who does not yet know they need it. If you cannot write the trigger, you do not yet have a principle — you have an observation.
@@ -92,15 +92,75 @@ The repository already teaches this twice over. `DISCOVERIES.md` §1's central c
 
 ---
 
-## Writing the entry
+## The shape of an entry
 
-1. **Open with the rule, then the trigger.** Not with the chapter that produced it.
-2. **Argue it generally.** Why is this true of the book, the language, or English — rather than true of that one line?
-3. **Give the case that produced it in two sentences and link out.** The full argument is already written; do not restate it.
-4. **Name where it does not fire.** A rule with no boundary is a slogan, and it will be applied somewhere it does not belong.
-5. **Say what it obliges.** A principle that does not change what someone does is an observation with better formatting.
-6. **Gloss every Chinese character, every time** — 為 (*wéi* — "to do / to handle"), never bare 為.
-7. **Lowercase everything but the Tao**, and no em-dashes in quoted verse.
+**A principle has two jobs: to be understood, and to run.** The first is argument; the second is wiring. An entry that argues well and is reached by nobody governs nothing — and when this standard was written, twenty-nine of thirty entries here said nothing about where they ran, and seven were loaded by no skill at all. So the shape below has a section for each job, and **the build refuses an entry that is missing either.**
+
+```markdown
+# <the rule, as a rule — the same sentence as title:>
+
+**The rule.** One or two sentences, imperative, saying what to do.
+
+**When it fires.** The moment, in the reader's own terms — same substance as `trigger:`.
+
+## Why this holds
+## Why this principle exists
+## How it is implemented
+## Where it does not fire
+## What it obliges
+```
+
+**The five sections are required, in this order.** Other sections may sit between them where an entry needs one — `imported-register` has *The three tests* — but none of the five may be dropped or reordered. `build_principles.py --check` enforces this, along with the two opening paragraphs.
+
+### Tell the story once
+
+**A principle exists because something went wrong, and that story is told exactly once — in *Why this principle exists*.** Everywhere else, the entry says what the rule is and how it works, in the present tense.
+
+| Section | Holds | Does not hold |
+|---|---|---|
+| **The rule** · **When it fires** | the instruction and its moment | the history |
+| **Why this holds** | the general argument: why this is true of the book, the language, or English | *"ch 25 was drafted over…"* — that is the story |
+| **Why this principle exists** | **the story, once**: what happened, in a short paragraph, with the cases linked | the full argument of each case — link to it, do not restate it |
+| **How it is implemented** | where the rule runs | aspiration |
+| **Where it does not fire** | the boundary | the story again |
+| **What it obliges** | what someone now does | *"because last time…"* |
+
+**Examples are not stories.** *"強 (qiáng — strong) is the disease at ch 76 and the cure at ch 52"* illustrates the rule and belongs in *Why this holds*. *"Ch 21 was drafted over a chronology the silks reverse, and nobody had looked"* is the failure that produced the rule, and belongs in *Why this principle exists*. The test: does the sentence say what **is** true, or what **happened**?
+
+**Why once.** A story retold in every section turns guidance into a grievance, and it buries the instruction a reader came for. It also dates the entry: the next reader needs the rule, and needs the history only to trust it.
+
+### How it is implemented — the section that makes a principle run
+
+**This section names every place the rule is met or enforced.** A table, `| Where | What it does |`, with three kinds of row:
+
+1. **Where it is applied** — the specific step of a skill, `process/method.md` or `CLAUDE.md` where someone doing the work meets it. Name the step, not the file: *`chapter-review` step 5, Before you offer a line*.
+2. **What enforces it** — a `check_locks.py` rule, a CI step, a test, or a tool that makes it easy (`concordance.py --english`). Name the rule.
+3. **Where it is loaded** — one row per `applies:` value, from the table below.
+
+Then **one sentence on enforcement, honestly**: *enforced by X*, *partly enforced*, *not enforced, and cannot be — here is why*, or *deliberately not enforced* with the reason. **"Not enforced" is a legitimate answer; a missing answer is not.** Most principles here are judgment, and saying so makes the gap visible rather than assumed — the same honesty as `check: none` and the glossary's *What no rule can enforce*.
+
+**If the rule has no step to be applied at, give it one before you ship it.** A principle whose only home is this directory is read after the mistake it exists to prevent. That usually means one line added to the skill step where the moment occurs — `search-the-record-first` became a command in `chapter-review` step 0; eight drafting rules became the six checks of *Before you offer a line* in step 5.
+
+### Where each kind of work loads its principles
+
+| `applies:` | Loaded by | When |
+|---|---|---|
+| `drafting` | `chapter-review` step 0 | before a chapter is drafted |
+| `glossary` | `glossary-entry` §1 | before an entry is written |
+| `notes` | `chapter-review` step 7 | at the logging step |
+| `tooling` | `CLAUDE.md` → *The harness* | before anything in `tools/` or `data/` changes |
+| `process` | `CLAUDE.md` → *Start here* | every session |
+
+**The build refuses an entry none of whose `applies:` values is loaded anywhere.** It reads the loaders from the files themselves, so if a new kind of work is added, it must be given a loader before any principle can use it.
+
+### And the writing itself
+
+- **Gloss every Chinese character, every time** — 為 (*wéi* — "to do / to handle"), never bare 為.
+- **Lowercase everything but the Tao**, and no em-dashes in quoted verse.
+- **Argue generally.** A rule that has only ever been stated as a coda to one decision has not been argued as a principle; the general argument usually has to be written, not moved.
+- **A rule with no boundary is a slogan.** If you cannot fill *Where it does not fire*, it is not yet a principle.
+
+`process/skills/principle-entry` is the procedure that produces an entry of this shape — detection, deduplication, the trigger, the threshold, and the wiring.
 
 ---
 
@@ -110,4 +170,4 @@ The repository already teaches this twice over. `DISCOVERIES.md` §1's central c
 python3 tools/build_principles.py
 ```
 
-Regenerates `INDEX.md` and `principles.yaml`, and **verifies every `evidence:` anchor resolves to a real heading in the file it names.** A reworded heading becomes a build error instead of a dead link — which is why `notes/translation.md` requires that its headings carry only the stable claim, with dates and supersessions on the line beneath.
+Regenerates `INDEX.md` and `principles.yaml`, **verifies every `evidence:` anchor resolves to a real heading in the file it names**, and **verifies the shape**: the opening paragraphs, the five sections in order, a *How it is implemented* that names its `check:` tool, and an `applies:` that something loads. Any failure writes nothing and exits non-zero, and CI runs it. A reworded heading becomes a build error instead of a dead link — which is why `notes/translation.md` requires that its headings carry only the stable claim, with dates and supersessions on the line beneath.

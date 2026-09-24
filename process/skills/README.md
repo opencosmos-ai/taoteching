@@ -23,6 +23,14 @@ for s in process/skills/*/; do
 done
 ```
 
+**The links are absolute, so they break when the repository moves** — and a broken link fails silently: the skill simply stops appearing. All three went missing this way when the repo moved from `shalomormsby/taoteching` to `opencosmos-ai/taoteching`. If a skill is missing, check where its link points, and re-run the loop above from the repository's current location:
+
+```bash
+for s in chapter-review glossary-entry principle-entry; do readlink ~/.claude/skills/$s; done
+```
+
+Skills load when a session starts, so a relink shows up in the next one.
+
 ## Why these exist
 
 `process/method.md` describes how the work is done. A skill makes a piece of that method

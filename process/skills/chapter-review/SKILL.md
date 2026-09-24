@@ -92,6 +92,21 @@ And our own besetting temptation, the **mechanistic**: "operating system", "sour
 - **Push back honestly.** Respectful disagreement is worth more than agreement. Never flatter a choice into acceptance.
 - **Surface the deeper claim even when not asked.**
 
+### Before you offer a line, read it back
+
+Six checks on the **finished English**. Each is a principle, and this is the step where it fires — they cannot be run earlier, because they are about the line you have made, not the line you are reading.
+
+| Check | Principle |
+|---|---|
+| **Point every English word at a character.** A word that renders nothing is either scaffolding English grammar requires — say so in the note — or it comes out | `renders-no-character` · `supplied-verb-is-scaffolding` |
+| **Read the English alone, without the Chinese beside it, and say what it claims.** Then check that claim against the source | `defensible-but-a-different-claim` |
+| **Ask what the line implies about the people in it.** Would this book say the same of the sage? | `collocation-carries-a-verdict` · `no-verdict-the-chinese-lacks` |
+| **Ask what every pronoun points at.** If two things could be *it*, the English has chosen; choose deliberately or recast | `name-the-referent` |
+| **Where the commentators split, has the English chosen between them?** If so, try for a line that holds both, or say in the note what choosing cost | `divergence-stays-open` |
+| **Where you used two English words for one Chinese modifier, name the single word you avoided** | `one-modifier-one-modifier` |
+
+**A line you are especially pleased with is the first place to look**, not the last. Pleasure is the reliable sign that the English came from English rather than from the character — run `--english` on its key word.
+
 Then **offer clay**: a full rendering he can accept, reject, or reshape. His poetic intuition is the final arbiter — exercised *after* the deepest reading is on the table, not instead of it.
 
 ---
@@ -110,6 +125,10 @@ Then **offer clay**: a full rendering he can accept, reject, or reshape. His poe
 ## 7. Log it, then verify
 
 Log **only what changes meaning**. Notes stay thin so they stay usable; the glossary carries the weight.
+
+```bash
+python3 tools/build_principles.py --applies notes   # the rules for writing the record
+```
 
 | File | What goes there |
 |---|---|

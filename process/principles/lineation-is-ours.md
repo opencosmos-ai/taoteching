@@ -30,13 +30,28 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 56's six phrases are three couplets**, and ch 4 carries four of the same six. Following the established lineation rather than making a fresh choice is what kept the two chapters answering each other. → [ch 4, 56](../../notes/translation.md#ch-4-56-挫其銳解其紛和其光同其塵-the-nouns-unified-the-subject-deferred)
 
 **Ch 57 keeps its colon** where chapters 21 and 54 take a full stop — because the colon is punctuation, not a word, and ch 57's 以此 (*yǐ cǐ* — "by this") is the only one of the three that points **forward**, opening the list that follows. The marks do work the Chinese leaves to position. → [以此](../../notes/translation.md#ch-21-54-57-以此-by-this-one-formula-one-english)
 
 **Ch 41's 建言 (*jiàn yán* — "established sayings") catalogue had twelve proverbs packed onto five lines.** Rebuilt one saying per line, the catalogue reads as a catalogue — which is what it is. → [ch 41](../../notes/translation.md#ch-41-the-建言-catalogue-rebuilt-and-建-licensed-to-flex)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`tools/fix-linebreaks.py`** | restores the two trailing spaces a verse line needs; `chapter-review` step 7 |
+| **CI**, *verse line breaks* | runs `fix-linebreaks.py --check` and fails on a collapsed stanza |
+| **`.editorconfig`** | keeps editors from trimming the trailing whitespace the line breaks are made of |
+| **`chapter-review` step 6** | *let the layout track the original's rhythm* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Enforced** for the hard breaks. Whether the lineation tracks the source's beats is judgment.
 
 ---
 

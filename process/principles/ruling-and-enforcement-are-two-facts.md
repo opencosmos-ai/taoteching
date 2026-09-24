@@ -30,11 +30,24 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **身 (*shēn*) and *self*.** The entry's opening ruled out *spirit*, *soul* and *self* in one breath. The first two are on the `forbidden:` list; the third cannot be, because 身 shares chapter 7 with 私 (*sī* — private interest) and chapters 13, 16 and 54 with 我/吾 (*wǒ / wú*), all of which may legitimately print *self*. Shalom read the entry, hit *"never the self"* at the top and *"'self' is not on the forbidden list, and cannot be"* near the bottom, and asked which it was. → [身](../../notes/translation.md#身-shēn-body-one-character-that-had-six-englishes)
 
 **守 (*shǒu*) and *keep*, and two more beside it.** 守's entry avoided the contradiction by **omission** — *keep* appeared nowhere in the opening and surfaced only in the closing section. 保 (*bǎo*) does the same with *guard*, 持 (*chí*) with *grasp*. Each is blocked by a sibling: 保 stands with 守 in chapters 9 and 67, 執 (*zhí*) with 持 in chapter 64. The silence is the worse failure of the two, because it gives a future drafter no warning at all. → [the holding family](../../notes/translation.md#the-error-that-had-no-name-guard-was-worn-by-three-characters)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`glossary-entry` §2** | the entry standard: a word ruled out but not forbiddable is named in the lock line and explained under *What no rule can enforce* |
+| **Glossary entries** | `bao-保`, `chi-持`, `shou-守`, `shen-身` and `zhi-治` each carry the section |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Not enforced.** Whether an entry discloses what its list cannot hold is a reading question.
 
 ---
 

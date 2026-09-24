@@ -1,13 +1,13 @@
 ---
 name: principle-entry
-description: Recognize, record, or revise a principle in process/principles/ — the transferable rules this project learns by making particular decisions. Use when a decision yields a rule that will govern chapters nobody has read yet, when the user says "that's a principle" or "worth keeping", when harvesting principles out of the notes, or when an existing entry needs promoting, demoting or superseding. Enforces detection, deduplication, the trigger standard, and the evidence threshold.
+description: Recognize, record, or revise a principle in process/principles/ — the transferable rules this project learns by making particular decisions. Use when a decision yields a rule that will govern chapters nobody has read yet, when the user says "that's a principle" or "worth keeping", when harvesting principles out of the notes, when auditing existing entries, or when an entry needs promoting, demoting or superseding. Enforces detection, deduplication, the trigger standard, the entry shape, the wiring that makes a principle run, and the evidence threshold.
 ---
 
 # Recording a principle
 
 A principle here is almost always a **by-product**. Someone settles one line in one chapter and, in settling it, discovers a rule that governs sixty chapters nobody is looking at. Left where it was found, it is invisible — which is why `process/principles/` exists and why this procedure does.
 
-**Read [`process/principles/README.md`](../../principles/README.md) for the standard.** This skill is the part the README does not cover: how to **find** one, how to know it is one, and how to write the field that makes it fire.
+**Read [`process/principles/README.md`](../../principles/README.md) for the standard.** This skill is the part the README does not cover: how to **find** one, how to know it is one, how to write the field that makes it fire, and how to wire it so it runs.
 
 **Gloss every Chinese character, every time** — 為 (*wéi* — "to do / to handle"), never bare 為. Shalom does not read Chinese.
 
@@ -89,15 +89,36 @@ That last row is the one that kills a principles directory. *"When you are trans
 
 ## 3. Write the entry
 
-Follow [`process/principles/README.md`](../../principles/README.md) → *Writing the entry*. In short: the rule, then the trigger, then **why it holds generally** — not why it held in the case that produced it. That general argument usually has to be **written rather than moved**: a rule that has only ever been stated as a coda to one decision has never actually been argued as a principle.
+Follow [`process/principles/README.md`](../../principles/README.md) → *The shape of an entry*. **The build enforces that shape**, so an entry that skips it will not ship: the two opening paragraphs, then **Why this holds · Why this principle exists · How it is implemented · Where it does not fire · What it obliges**, in that order.
+
+**Tell the story once.** The failure that produced the rule goes in *Why this principle exists* — a short paragraph with the cases linked — and nowhere else. Every other section says what the rule is and how it works, in the present tense. The test for a sentence: does it say what **is** true, or what **happened**? Only the second belongs in the story, and only there.
+
+**Why this holds is the general argument** — why the rule is true of the book, the language or English, not why it held in the case that produced it. It usually has to be **written rather than moved**: a rule only ever stated as a coda to one decision has never been argued as a principle.
 
 **Do not copy the chapter's argument.** Link to it. A hand-kept second copy of a decision is how the lock table in `CLAUDE.md` went stale twice in one week.
 
-**Always include *"Where it does not fire."*** A rule with no boundary is a slogan, and it will be applied somewhere it does not belong. If you cannot name a boundary, the rule is probably too broad to be useful.
+**Always include *Where it does not fire.*** If you cannot name a boundary, the rule is too broad to be useful.
 
 ---
 
-## 4. The evidence threshold, and how to earn the second case
+## 4. Make it run — the wiring
+
+**A principle that lives only in `process/principles/` is read after the mistake it exists to prevent.** Before shipping, answer three questions, and put the answers in *How it is implemented*:
+
+1. **At what exact step does someone meet the moment in `trigger:`?** Find that step in a skill, in `process/method.md`, or in `CLAUDE.md`. If the step exists but says nothing, **add the line** — usually one row or one command. If no step exists, the trigger may be describing a moment nobody reaches; reconsider it.
+2. **Can anything enforce it?** A `check_locks.py` rule, a CI step, a test, a tool. If yes, set `check:` and name it in the section. If no, **say so and say why** — *"not enforced, and cannot be: a collocation is innocent word by word"* is a complete answer.
+3. **Is it loaded?** Pick `applies:` from the loader table in the README. The build refuses an entry whose `applies:` nothing loads.
+
+```bash
+grep -rn "<a phrase from your trigger>" process/skills/ process/method.md CLAUDE.md   # is the moment already a step?
+python3 tools/build_principles.py --check                                             # shape, loaders, anchors
+```
+
+**If the wiring needs a tool that does not exist, that is a real finding** — `search-the-record-first` produced `concordance.py --record`. Build it or record the gap; do not ship a principle that claims wiring it lacks.
+
+---
+
+## 5. The evidence threshold, and how to earn the second case
 
 **`provisional` until two independent cases; then `active`.** The build enforces it.
 
@@ -114,7 +135,7 @@ A second case must be **independent** — a different chapter, a different term,
 
 ---
 
-## 5. Anchors — the evidence links are checked
+## 6. Anchors — the evidence links are checked
 
 `evidence:` entries are `path/to/file.md#anchor`, and **the build verifies every one resolves to a real heading.** A principle whose link has rotted is worse than one with no link: it looks checked.
 
@@ -126,7 +147,7 @@ python3 -c "import sys; sys.path.insert(0,'tools'); from build_principles import
 
 ---
 
-## 6. Revising: promote, demote, supersede
+## 7. Revising: promote, demote, supersede
 
 - **Promote** `provisional` → `active` when a genuine second case arrives. Add it to `evidence:` and say in the entry what the new case added.
 - **Demote** `active` → `provisional` if a case turns out not to be independent. This is not an embarrassment; it is the threshold working.
@@ -136,7 +157,7 @@ python3 -c "import sys; sys.path.insert(0,'tools'); from build_principles import
 
 ---
 
-## 7. When not to write one
+## 8. When not to write one
 
 - **It explains one line.** Chapter note.
 - **It is about one term.** Glossary entry — that is what the entry's prose is for.
@@ -147,7 +168,7 @@ python3 -c "import sys; sys.path.insert(0,'tools'); from build_principles import
 
 ---
 
-## 8. Finish — every time, no exceptions
+## 9. Finish — every time, no exceptions
 
 ```bash
 python3 tools/build_principles.py
@@ -159,4 +180,4 @@ Then:
 
 1. **Add the `evidence:` anchor's own note a pointer back**, if the decision that produced the rule does not already name it.
 2. **If the principle contradicts something already written elsewhere in the repo, that is a finding** — `CLAUDE.md` → *"if you find them disagreeing, that is a finding: fix both and say which was wrong."* Do not silently pick a side.
-3. **Report**: the rule, the trigger, the cases, and whether it shipped `provisional` or `active`.
+3. **Report**: the rule, the trigger, the cases, **where it is implemented**, and whether it shipped `provisional` or `active`.

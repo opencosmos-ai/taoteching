@@ -17,6 +17,14 @@ It also VERIFIES every `evidence:` anchor, because a principle whose evidence
 link has rotted is worse than one with no link at all: it looks checked.
 An unresolvable anchor is an error and exits non-zero.
 
+And it verifies STRUCTURE, because a principle that is well argued and
+reached by nobody does not govern anything. Every entry must carry the
+standard sections in order (see README, *The shape of an entry*); must say
+in *How it is implemented* where the rule runs, naming its `check:` tool if
+it has one; and must apply to at least one kind of work that a skill or
+CLAUDE.md actually loads with `--applies`. An entry that fails any of these
+is an error.
+
     python3 tools/build_principles.py --check            verify only, write nothing
     python3 tools/build_principles.py --applies drafting  what fires on this work
 """
@@ -36,6 +44,20 @@ SCOPES = ("drafting", "glossary", "notes", "tooling", "process")
 REQUIRED = ("id", "title", "status", "since", "trigger", "applies")
 
 BADGE = {"active": "✅", "provisional": "🔶", "superseded": "⊘"}
+
+# The standard sections, in order. Other sections may sit between them
+# (imported-register's "The three tests"), but these five are required.
+SECTIONS = (
+    "Why this holds",
+    "Why this principle exists",
+    "How it is implemented",
+    "Where it does not fire",
+    "What it obliges",
+)
+
+# The files that load principles into work, via `build_principles.py --applies`.
+# A scope nobody loads is a principle nobody meets.
+LOADERS = ("CLAUDE.md", "process/method.md", "process/skills")
 
 
 def slug(heading):
@@ -108,6 +130,58 @@ def verify_anchors(entries):
                 problems.append(f"{e['file']}: evidence file `{rel}` does not exist")
             elif anchor not in cache[rel]:
                 problems.append(f"{e['file']}: anchor `#{anchor}` not found in {rel}")
+    return problems
+
+
+def loaded_scopes():
+    """Every `--applies <scope>` that some operational file actually runs."""
+    found = set()
+    for spec in LOADERS:
+        path = ROOT / spec
+        files = sorted(path.rglob("*.md")) if path.is_dir() else [path]
+        for f in files:
+            if not f.exists() or "principle-entry" in f.parts:
+                continue   # principle-entry lists scopes as documentation, not work
+            for line in f.read_text(encoding="utf-8").splitlines():
+                code = line.split("#", 1)[0] if line.lstrip().startswith("python3") else line
+                found.update(re.findall(r"--applies\s+([a-z]+)", code))
+    return found
+
+
+def verify_structure(entries):
+    """The shape a principle needs in order to be read, and in order to run."""
+    problems = []
+    loaded = loaded_scopes()
+    for e in entries:
+        if e.get("status") == "superseded":
+            continue
+        text = (PRINCIPLES / e["file"]).read_text(encoding="utf-8")
+        body = text.split("\n---\n", 1)[1] if text.startswith("---") else text
+        for lead in ("**The rule.**", "**When it fires.**"):
+            if lead not in body:
+                problems.append(f"{e['file']}: no `{lead}` paragraph at the top")
+        heads = [h.strip() for h in re.findall(r"^## (.+)$", body, re.M)]
+        pos = []
+        for want in SECTIONS:
+            hit = next((i for i, h in enumerate(heads) if h.lower().startswith(want.lower())), None)
+            if hit is None:
+                problems.append(f"{e['file']}: missing section `## {want}`")
+            else:
+                pos.append(hit)
+        if pos and pos != sorted(pos):
+            problems.append(f"{e['file']}: sections out of order — expected "
+                            f"{' → '.join(SECTIONS)}")
+        m = re.search(r"^## How it is implemented\s*\n(.*?)(?=^## |\Z)", body, re.M | re.S)
+        impl = m.group(1) if m else ""
+        tool = (e.get("check") or "none").strip()
+        if m and len(impl.split()) < 12:
+            problems.append(f"{e['file']}: `How it is implemented` is too thin to say where the rule runs")
+        if tool != "none" and m and tool.split()[0] not in impl:
+            problems.append(f"{e['file']}: `check: {tool}` is not named in `How it is implemented`")
+        if not set(e.get("applies", [])) & loaded:
+            problems.append(f"{e['file']}: applies {e.get('applies')} — no skill or CLAUDE.md "
+                            f"loads any of these with `--applies`, so nobody meets this rule "
+                            f"(loaded: {', '.join(sorted(loaded))})")
     return problems
 
 
@@ -203,6 +277,7 @@ def main():
         return show_applies(entries, scope)
     entries, problems = load()
     problems += verify_anchors(entries)
+    problems += verify_structure(entries)
 
     if problems:
         print("process/principles — problems:\n")
@@ -212,7 +287,7 @@ def main():
         return 1
 
     if check_only:
-        print(f"process/principles — {len(entries)} entr(y/ies), all anchors resolve.")
+        print(f"process/principles — {len(entries)} entr(y/ies), all anchors resolve, all structured.")
         return 0
 
     write_index(entries)

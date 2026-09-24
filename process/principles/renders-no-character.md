@@ -30,13 +30,24 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 10** carried *five* Englishes attached to characters not in the chapter — 全 (*quán* — whole), 萬物 (*wàn wù* — the countless things) and 鑑 (*jiàn* — mirror) among them. `status: drafted`, `retrofit: []`, and it had passed every check and a hand sweep. → [Ch 10](../../notes/translation.md#ch-10-five-englishes-attached-to-characters-that-are-not-in-the-chapter)
 
 **Ch 23** had *intensity* and *sustain* rendering nothing at all — and *intensity* was worse than invented: it was 王弼 (*Wáng Bì*)'s gloss 暴疾 (*bào jí* — violent and rapid) lifted out of the commentary into the verse. The chapter also read 人 (*rén* — a person) as ***we***. → [Ch 23](../../notes/translation.md#ch-23-同-is-the-same-not-a-merging-2026-09-03)
 
 **Ch 41** read *the countless things* on a chapter with no 萬物 in it, and packed twelve proverbs of the 建言 (*jiàn yán* — "established sayings") catalogue onto five lines, which required connective tissue the Chinese does not print. → [Ch 41](../../notes/translation.md#ch-41-the-建言-catalogue-rebuilt-and-建-licensed-to-flex)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *point every English word at a character* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+
+**Deliberately not enforced.** A thin-translation rule was prototyped and declined at ~90% false positives (`WORKLIST.md` T5-1): inflection, inserted articles and licensed flexions make the check unanswerable by a tool.
 
 ---
 

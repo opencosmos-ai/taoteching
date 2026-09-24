@@ -30,13 +30,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 8** — seven 善X couplets, one shape. A stance verb is supplied at exactly two of them, where the object is a place: **choosing ground** (地) and **staying deep** (淵). The other five take the bare construction. → [ch 8](../../notes/translation.md#ch-8-善s-showcase-and-the-grammar-that-decides-it-2026-09-02)
 
 **Ch 66 is the precedent, and it predates ch 8.** 善下之 already read *"masterful at **staying** below them"* — 下 (*xià* — below) is a position and the English supplied the verb, before anyone had stated the rule. → [ch 66](../../notes/translation.md#ch-66-處前而民不害-the-people-are-not-hindered-and-the-reading-we-did-not-take)
 
 **Ch 61 does the same with *staying low***, which is what made the pattern visible as a pattern rather than a one-off. → [ch 61](../../notes/translation.md#ch-61)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *point every English word at a character* — a supplied verb is allowed, and must be named in the note |
+| **`glossary-entry` §2** | a supplied verb never goes in `render:` |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Not enforced.** The line between scaffolding and a rendering is judgment.
 
 ---
 

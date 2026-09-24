@@ -30,11 +30,24 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 11** — three identical 當其無 frames rendered three ways, and 利 (*lì* — advantage) and 用 (*yòng* — use) both lost into an abstraction. Now one frame, three times, eleven lines for eleven. → [DISCOVERIES §6](../../DISCOVERIES.md#6-the-repetition-is-the-argument-and-our-tools-could-not-see-it)
 
 **What it taught the tools** — `--formulas` now covers *within* a chapter as well as across, and finds **frames** as well as segments: 將欲▢之, ▢得一以▢, 有▢之用. → [PLAN](../../PLAN.md#what-chapter-11-taught-the-tools-2026-09-05)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`concordance.py --formulas N`** | every segment and frame the chapter repeats, within itself and across the book, with the English underneath. `chapter-review` step 0, marked not optional |
+| **`check_locks.py`** · `repeated-formula` | compares shared segments **across** chapters, at `warn` |
+| **`tools/tests/test_concordance.py`** | pins the within-chapter case that was invisible until 2026-09-05 |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+
+**Partly enforced.** Across chapters it warns; within a chapter it is found only by running `--formulas`.
 
 ---
 
