@@ -228,7 +228,7 @@
   entry: process/principles/scope-is-data-reason-is-prose.md
 
 - id: search-the-record-first
-  title: "The repository's own record is a source, and it is the one nobody checks"
+  title: "Before researching a character, start from what this repository has already decided"
   trigger: "you are about to research a character, a fork or a rendering from 說文, the commentaries, or the web"
   status: active
   since: 2026-09-23

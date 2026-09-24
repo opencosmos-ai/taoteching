@@ -1,6 +1,6 @@
 ---
 id: search-the-record-first
-title: "The repository's own record is a source, and it is the one nobody checks"
+title: "Before researching a character, start from what this repository has already decided"
 status: active
 since: 2026-09-23
 trigger: "you are about to research a character, a fork or a rendering from 說文, the commentaries, or the web"
@@ -10,7 +10,7 @@ check: concordance --record
 supersedes: []
 ---
 
-# The repository's own record is a source, and it is the one nobody checks
+# Before researching a character, start from what this repository has already decided
 
 **The rule.** Before researching a character from the dictionary, the commentators or the open web, **ask this repository what it has already decided.** Eleven thousand lines of notes, fifty glossary entries and eighty-one sets of chapter notes have already been written, and the answer is often in them — argued, dated, and by someone with the evidence open.
 
