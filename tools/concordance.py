@@ -162,6 +162,91 @@ def show_english(phrase, chapters, terms, quiet=False):
     return backed, unbacked
 
 
+# ------------------------------------------------- what we have already decided
+
+# Where a decision can have been written down. Ordered as a reader should take
+# them: the ruling first, then the thin record, then the debt, then the essays.
+_RECORD = [
+    ("glossary", "the ruling and its argument"),
+    ("notes", "the decision, thin"),
+    ("WORKLIST.md", "what is still owed"),
+    ("DISCOVERIES.md", "findings worth an essay"),
+    ("chapters", "the chapter notes — where findings are born and stay"),
+]
+
+
+def _record_hits(term):
+    """Every place this repository has already written about a character.
+
+    Chapters are searched in their `## Notes` only. Their source tables print
+    the character on every line it occurs in, which would bury the findings
+    under the evidence — and the findings are the point.
+    """
+    out = []
+    for name, _ in _RECORD:
+        if name.endswith(".md"):
+            paths = [ROOT / name]
+        else:
+            paths = sorted((ROOT / name).glob("*.md"))
+        for path in paths:
+            if not path.exists() or path.name in ("INDEX.md", "terms.yaml"):
+                continue
+            text = path.read_text(encoding="utf-8")
+            if name == "chapters":
+                i = text.find("## Notes")
+                if i < 0:
+                    continue
+                offset = text[:i].count("\n")
+                text = text[i:]
+            else:
+                offset = 0
+            for n, line in enumerate(text.split("\n"), 1):
+                if term in line:
+                    out.append((name, path, n + offset, line.strip()))
+    return out
+
+
+def show_record(term, quiet=False):
+    """`--record 亂` — the repo's own prior reasoning, before the dictionary.
+
+    The method sends you to the graph, the witnesses, the commentaries and the
+    locks: every source outside this repository and none inside it. So the
+    record we have built is the one source nobody consults, and it is the
+    cheapest. See process/principles/search-the-record-first.md.
+    """
+    hits = _record_hits(term)
+    print(f"\n{BOLD}{term}{OFF} — what this repository has already written\n")
+    if not hits:
+        print(f"  {DIM}nothing yet. That is an answer, and it took one command.{OFF}\n")
+        return hits
+
+    blurb = dict(_RECORD)
+    for name, _ in _RECORD:
+        group = [h for h in hits if h[0] == name]
+        if not group:
+            continue
+        print(f"  {BOLD}{name}{OFF}  {DIM}{blurb[name]} — {len(group)}{OFF}")
+        # The term's own entry is the one place nobody forgets to look, and it
+        # is long enough to bury everything else. Collapse it to a pointer.
+        own = [h for h in group if name == "glossary" and term in h[1].stem]
+        if own:
+            print(f"    {DIM}{own[0][1].relative_to(ROOT)}{OFF}  "
+                  f"{DIM}— its own entry, {len(own)} lines{OFF}")
+            group = [h for h in group if h not in own]
+        for _, path, n, line in group:
+            rel = path.relative_to(ROOT)
+            if quiet:
+                print(f"    {rel}:{n}")
+            else:
+                text = line if len(line) <= 150 else line[:147] + "…"
+                print(f"    {DIM}{rel}:{n}{OFF}  {text}")
+        print()
+
+    print(f"  {DIM}This is our own prior reasoning, not evidence — a first stop, "
+          f"never the last.{OFF}\n")
+    return hits
+
+
 # ----------------------------------------------------------------------- pairs
 
 def show_pairs(a, b, chapters, terms, quiet=False):
@@ -470,6 +555,8 @@ def main():
                         "book or (with N) the ones touching chapter N")
     p.add_argument("--witnesses", type=int, metavar="N",
                    help="where the older witnesses disagree with our base text, for chapter N")
+    p.add_argument("--record", metavar="TERM",
+                   help="what this repo has already decided about a character")
     p.add_argument("--commentary", type=int, metavar="N",
                    help="Wang Bi's commentary on chapter N")
     p.add_argument("-q", "--quiet", action="store_true",
@@ -542,6 +629,9 @@ def main():
         did = True
     if args.pairs:
         show_pairs(args.pairs[0], args.pairs[1], chapters, terms, args.quiet)
+        did = True
+    if args.record:
+        show_record(args.record, args.quiet)
         did = True
     if args.english:
         show_english(args.english, chapters, terms, args.quiet)

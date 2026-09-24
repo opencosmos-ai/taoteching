@@ -18,6 +18,7 @@ python3 tools/concordance.py --witnesses N                   # where the witness
 python3 tools/concordance.py --commentary N                  # 王弼 and 河上公 on this chapter
 python3 tools/check_locks.py --chapter N --severity info     # what this chapter already violates
 python3 tools/concordance.py --formulas N                    # the repeated frames, with this chapter's English
+python3 tools/concordance.py --record 亂                      # what we have already written about a character
 ```
 
 **`--formulas N` is not optional, and it is the newest of these.** It prints every Chinese segment and frame this chapter repeats — **within itself as well as across the book** — with the chapter's English underneath, so a flattened parallelism is visible in one screen. **Where the Chinese repeats, the English must repeat too.** Chapter 11 says one identical sentence over a cart, a pot and a room, and our English varied all three; the fault is invisible line by line, and was invisible to every tool until 2026-09-05. `DISCOVERIES.md` §6.
@@ -29,6 +30,8 @@ python3 tools/build_principles.py --applies drafting   # the rules this work fir
 ```
 
 **Run it, and read the *fires when* line on each.** `process/principles/` holds the rules this project learned by making particular decisions — they govern chapters nobody has read yet, which is exactly why they cannot be left where they were discovered. A 🔶 is **provisional**: one case so far, so weigh it rather than obey it. `process/principles/README.md` has the standard.
+
+**`--record` is the one that is easy to skip, and it is the cheapest.** Every other command here queries a source; this one queries **us**. A finding gets written where it is found — in the notes of the chapter that produced it — and the next person who needs it is working on a different chapter. Ch 3's notes held 說文's 亂，治也 and the tangled-silk graph from August; the 亂 entry rebuilt that argument from the dictionary in September. Run it on each contested character before you open anything else. `process/principles/search-the-record-first.md`.
 
 Read `process/shaloms-call.md`. If a call is in effect that touches this chapter, **the call wins** — say so once and proceed. Do not re-argue it.
 

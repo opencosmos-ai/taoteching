@@ -10,6 +10,8 @@ chapter numbers, so three occurrences in one chapter collapsed to one entry and
 were then filtered out as "not shared". Found by a human on 2026-09-05.
 """
 
+import contextlib
+import io
 import sys
 import unittest
 from types import SimpleNamespace
@@ -111,3 +113,46 @@ class LiveCorpus(unittest.TestCase):
 
     def test_grammar_spans_many_chapters_and_is_demoted(self):
         self.assertGreater(len(self.frames.get("是謂▢▢", [])), 3)
+
+
+class TheRecord(unittest.TestCase):
+    """`--record` — the repository's own prior reasoning, before the dictionary.
+
+    Built after 亂's entry rediscovered, from 說文, a finding that had been
+    sitting in chapters/003.md's notes since 2026-08-31. The command exists so
+    that is one keystroke instead of luck. See
+    process/principles/search-the-record-first.md.
+    """
+
+    def record(self, term):
+        """show_record prints; a test suite should not."""
+        with contextlib.redirect_stdout(io.StringIO()):
+            return co.show_record(term, quiet=True)
+
+    def test_it_finds_a_finding_buried_in_another_chapters_notes(self):
+        """The motivating case, asserted directly: 亂's argument lives in ch 3."""
+        hits = self.record("亂")
+        chapters = {h[1].name for h in hits if h[0] == "chapters"}
+        self.assertIn("003.md", chapters,
+                      "ch 3's notes hold 說文's 亂，治也 and the tangled-silk graph")
+
+    def test_chapter_source_tables_are_not_searched(self):
+        """Only the `## Notes` of a chapter — its source table prints the
+        character on every line it occurs in, which would bury the findings
+        under the evidence."""
+        hits = self.record("道")
+        for layer, path, n, line in hits:
+            if layer == "chapters":
+                text = path.read_text(encoding="utf-8")
+                self.assertGreater(n, text[:text.find("## Notes")].count("\n"),
+                                   f"{path.name}:{n} is above ## Notes")
+
+    def test_generated_files_are_skipped(self):
+        """INDEX.md and terms.yaml are build products; a hit there is a hit on
+        the entry that generated it, counted twice."""
+        hits = self.record("德")
+        self.assertEqual([h for h in hits if h[1].name in ("INDEX.md", "terms.yaml")], [])
+
+    def test_a_character_with_no_record_returns_nothing_and_does_not_fail(self):
+        """A blank result is an answer, not an error — recall tools never fail."""
+        self.assertEqual(self.record("鱷"), [])

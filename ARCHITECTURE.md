@@ -104,6 +104,7 @@ This is the operational heart of the system. A question about one character beco
 ```
 1. EVIDENCE      concordance.py <char>          every occurrence, line, gloss, verse
                  concordance.py --english "x"   the reverse: is the rendering backed by the character?
+                 concordance.py --record 字      what we have already decided about it
                  concordance.py --commentary N  王弼 (Wáng Bì) and 河上公 (Héshàng Gōng)
                  concordance.py --witnesses N   where the older manuscripts disagree
                         │

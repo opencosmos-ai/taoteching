@@ -6,27 +6,29 @@ since: 2026-09-23
 trigger: "you are about to research a character, a fork or a rendering from 說文, the commentaries, or the web"
 applies: [drafting, glossary, notes]
 evidence: ["notes/translation.md#亂-luàn-disorder-a-tangle-with-hands-in-it-not-a-void", "notes/translation.md#明-míng-the-frontmatter-catches-up-with-the-entry-and-道-stops-being-a-path", "notes/translation.md#the-holding-family-執-守-保-持-four-hands-one-english-word"]
-check: none
+check: concordance --record
 supersedes: []
 ---
 
 # The repository's own record is a source, and it is the one nobody checks
 
-**The rule.** Before researching a character from the dictionary, the commentators or the open web, **grep this repository for it.** Eleven thousand lines of notes, fifty glossary entries and eighty-one sets of chapter notes have already been written, and the answer is often in them — argued, dated, and by someone with the evidence open.
+**The rule.** Before researching a character from the dictionary, the commentators or the open web, **ask this repository what it has already decided.** Eleven thousand lines of notes, fifty glossary entries and eighty-one sets of chapter notes have already been written, and the answer is often in them — argued, dated, and by someone with the evidence open.
 
 **When it fires.** Any time you are about to open 說文解字, a commentary or a search engine on a character, a textual fork or a candidate rendering.
 
 ```bash
-grep -rn "亂" glossary/ notes/ chapters/ WORKLIST.md | grep -v "^chapters/[0-9]*\.md:[0-9]*| "
+python3 tools/concordance.py --record 亂
 ```
+
+It searches `glossary/`, the three `notes/` layers, `WORKLIST.md`, `DISCOVERIES.md`, and **the chapter notes** — the last being the layer findings are born in and stay in. Chapter source tables are excluded, since they print the character on every line it occurs in and would bury the findings under the evidence. The term's own entry collapses to a pointer, because that is the one place nobody forgets to look.
 
 ---
 
 ## Why this holds
 
-**The method names every source except this one.** `process/method.md` §3 sends you to the graph, the oldest witnesses, the classical commentaries and the locks. All four are **outside** the repository, or vendored into it from outside. Nothing in the method says *read what we have already decided* — so the omission is structural, not carelessness, and it will recur for exactly as long as it goes unwritten.
+**The method named every source except this one.** `process/method.md` §3 sends you to the graph, the oldest witnesses, the classical commentaries and the locks — all four **outside** the repository, or vendored into it from outside. Until 2026-09-23 nothing in it said *read what we have already decided*, so the omission was **structural rather than careless**, and it recurred for as long as it went unwritten. That is now fixed at the source: §3 opens with this step, and both skills carry the command in their first block. **A principle that lives only in this directory is one that gets read after the mistake** — which was the objection this rule was written against, and it applied to the rule itself.
 
-**The record is not indexed by the thing you are looking for.** A finding about 亂 (*luàn* — disorder) can live in `chapters/003.md`'s notes because that is where it was found, and the next person needing it is working on chapter 64. `notes/` is indexed by chapter, `glossary/` by term, `WORKLIST.md` by debt — and a finding often belongs to none of the three cleanly. **That is the same gap [[scope-is-data-reason-is-prose]] and `process/principles/` itself were built for**, and it is why grep beats browsing here.
+**The record is not indexed by the thing you are looking for.** A finding about 亂 (*luàn* — disorder) can live in `chapters/003.md`'s notes because that is where it was found, and the next person needing it is working on chapter 64. `notes/` is indexed by chapter, `glossary/` by term, `WORKLIST.md` by debt — and a finding often belongs to none of the three cleanly. **That is the same gap [[scope-is-data-reason-is-prose]] and `process/principles/` itself were built for**, and it is why a search beats browsing here.
 
 **Rediscovery is not free, and it is not harmless.** It costs the research again, and it risks arriving at a *different* answer from the one already recorded — at which point the repository holds two rulings and no one knows which is live. The point of a record is that the second person does not have to be as lucky as the first.
 
@@ -46,7 +48,7 @@ grep -rn "亂" glossary/ notes/ chapters/ WORKLIST.md | grep -v "^chapters/[0-9]
 
 **Not as a substitute for the primary sources.** The record is a **first** stop, never the last. [[commentary-is-not-a-rendering]] and [[verify-the-flag]] still hold: what the repository says about a character is our own prior reasoning, not evidence, and it can be wrong. 亂's own case makes the point — the earlier note was right about 說文 and had not seen the 辭 gloss that settles which way the hands work.
 
-**Not on a character with no history here.** Where grep returns nothing, that is the answer and it took one command.
+**Not on a character with no history here.** A blank result is an answer, and it cost one command.
 
 **Not a reason to trust a note over a line.** A note records what was true when written. Where it disagrees with the verse, that is a finding — see the supersession blocks in `notes/translation.md`, which exist because this happens.
 
@@ -54,7 +56,7 @@ grep -rn "亂" glossary/ notes/ chapters/ WORKLIST.md | grep -v "^chapters/[0-9]
 
 ## What it obliges
 
-1. **Grep before you research.** `glossary/`, `notes/`, `chapters/` and `WORKLIST.md`, on the character itself.
+1. **Run `--record` before you research.** It is in `process/method.md` §3 as the step before the four corners, and in the opening command block of both `chapter-review` and `glossary-entry` — **because a principle that lives only in this directory is a principle that gets read after the mistake.** That was the objection this rule was written against, and it applies to the rule itself.
 2. **Cite what you find**, so the second recording points at the first instead of competing with it.
 3. **If the record is superseded, say so in place** — a supersession block where the old reasoning sits, not only a new note elsewhere. An old ruling with no mark on it will be found again and believed.
 4. **If the record was right and you rediscovered it, record that too.** It is evidence about the method, and it is how this rule got written.
