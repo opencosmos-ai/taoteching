@@ -30,13 +30,29 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Flexions in a glossary lock.** `render:` carried its exceptions as prose — *"keep safe — and bare keep where the object is not cherished (ch 9 alone)"*. No tool read it, so `concordance.py --english` could not tell a licensed flexion from a breach, and the character atlas printed `NOT FOUND` on **36 lines a flexion existed to license**. Now `flexions: [{ english, chapters, why }]`: the chapters are checked by a rule, the `why` is a sentence. → [ARCHITECTURE](../../ARCHITECTURE.md#how-a-decision-becomes-an-enforced-rule)
 
 **`until:` in a `shaloms-call`.** The scope of a suspension is a date; the reason it was granted is a paragraph. The date is enforced — an expired call is a build error — and the paragraph is what a reader needs in order to renew or retire it deliberately. → [shaloms-call](../shaloms-call.md#how-a-call-works)
 
 **`meaning_bearing:` in the variant apparatus.** `sources/variants.yaml` splits the same way: typed fields for chapter, line, witness and our call, a boolean saying whether the fork changes the meaning, and a free `note:` for the argument. The boolean drives `unlogged-variant`; the note is what makes the entry worth having. → [manuscript notes](../../notes/manuscript.md#using-this-file)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`flexions:`** in glossary frontmatter | a secondary English's scope as a chapter list; `check_locks.py` `flexion-chapter` verifies each chapter is real |
+| **`until:`** in `process/shaloms-call.md` | a suspension's scope as a date; `stale-shaloms-call` fails it when it lapses |
+| **`meaning_bearing:`** in `sources/variants.yaml` | a boolean `unlogged-variant` acts on, beside a free `note:` |
+| **`CLAUDE.md`** → the frontmatter contract | says which conditions belong in a field and which stay prose |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+| **`CLAUDE.md` → *Start here*** | `--applies process` lists it at the start of every session |
+
+**Enforced wherever a field exists**, by the rule attached to it. Deciding to create the field is judgment.
 
 ---
 

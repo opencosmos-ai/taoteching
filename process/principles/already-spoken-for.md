@@ -30,13 +30,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **The holding family.** 執 · 守 · 保 · 持 — four characters with four different hands in 說文解字 (*Shuōwén Jiězì*) — had collapsed into *hold* across seventeen chapters, and ***guard* was being worn by three characters at once**: 守 (*shǒu*) at ch 9, 保 (*bǎo*) at ch 15, 衛 (*wèi*) at ch 67. The ch 15 decision had been argued from ch 9's literal gloss table, landing 保 on the English that 守 wears in the very chapter cited. → [the holding family](../../notes/translation.md#the-holding-family-執-守-保-持-four-hands-one-english-word)
 
 ***Embrace* was doing duty for four characters** — 抱 (*bào* — to embrace), 守 (*shǒu* — to hold to), 有 (*yǒu* — to have) and 取 (*qǔ* — to take) — before the ch 12/38/72 sweep freed it. → [故去彼取此](../../notes/translation.md#ch-12-38-72-故去彼取此-they-let-go-of-what-is-out-there-and-take-what-is-here)
 
 **殆 (*dài* — danger) had five occurrences and four Englishes, and two of those Englishes belonged to other characters**: *harm* is 害's (35, 56, 66, 73, 81) and *inexhaustible* is 窮's (6, 35). → [殆](../../notes/translation.md#ch-15-16-25-32-44-52-殆-danger-and-the-death-radical-that-was-missing-from-all-four-englishes)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`concordance.py --english`** | the reverse check the rule depends on: every verse line wearing an English, and whether its character is present. Named in `chapter-review` step 3 and `glossary-entry` §1 |
+| **`check_locks.py`** · `forbidden-rendering` | holds the enforceable half — a locked term's rejected Englishes, wherever its character stands in the chapter |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Partly enforced.** A word taken by a character in a chapter the two never share is invisible to any gate; `--english`, run by hand, is the only instrument that finds it.
 
 ---
 

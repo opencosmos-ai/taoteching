@@ -34,11 +34,25 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **The 2026-08-10 sweep** — the first automated pass, and the record of what it taught. The error list went to **9 findings with zero false positives** only after the evidence gate was built; before it, a third of the flags were wrong. → [what the sweep taught the checker](../../PLAN.md#what-the-2026-08-10-sweep-taught-the-checker)
 
 **The hand sweep it replaced** missed `chapters/053.md` rendering 大道 (*dà dào* — the great Tao) as *"the great Way"* — the one rendering `CLAUDE.md` forbids most emphatically — **one line below rendering the same compound correctly**. A careful human sweep missed it; a checker finds it in under a second. **Both halves of that story are the point.** → [the record](../../PLAN.md#the-2026-08-10-hand-sweep-the-record)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`check_locks.py`** | a match without its character is reported as *verify before changing*, not as an error |
+| **`lock-ok`** waivers | record a false positive where the tool will see it; an unused waiver is an error, so the files self-clean |
+| **`CLAUDE.md` → *How Shalom works*** | *always verify a flagged line against the Chinese in its own chapter* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Not enforced.** It governs what a person does with a flag.
 
 ---
 

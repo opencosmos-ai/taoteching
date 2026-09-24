@@ -66,6 +66,16 @@ The rule that makes this both original and legally clean:
 
 **The copyright line (verified, US, as of 2026):** works first published **before January 1, 1931** are in the public domain. So pre-1931 English translations are free to consult *for meaning*. Everything from 1934 on (Waley and later) is **off-limits** — for copyright, and to keep the work uncontaminated. When in doubt, don't open it.
 
+**Before the corners: what we have already decided.**
+
+```bash
+python3 tools/concordance.py --record 亂       # every place this repo has written about it
+```
+
+**This is not a fifth corner, and that is the point.** The four below are *evidence about the Chinese*; the record is *our own prior reasoning* — dated, argued, and often by someone who had the evidence open. It is the cheapest source we have and the only one this section used to omit, so it was the one nobody consulted. In September 2026 the argument for 亂 (*luàn* — disorder) was rebuilt from 說文解字 when the same argument had been sitting in `chapters/003.md`'s notes since August. **A finding is written where it is found, and the next person who needs it is working somewhere else.**
+
+Run it first, cite what it returns, and then go to the corners anyway: the record can be wrong, and where it disagrees with the verse that is a finding. `process/principles/search-the-record-first.md`.
+
 **The corners to triangulate** (all public domain unless noted):
 
 1. **The Chinese, across recensions.** Wang Bi received text = our **base** (public domain by age; provenance and the licensing reasoning are in the header of `source/chinese.md`). Compare where the older witnesses differ: **Mawangdui** A/B (before 168 BCE), **Guodian** (~300 BCE, oldest, partial), **Beida** (early Han), **Fu Yi** (Tang, tomb-recovered), **Heshang Gong** text. The ancient texts themselves are public domain.
@@ -77,7 +87,7 @@ The rule that makes this both original and legally clean:
 
 This does not put these sources off-limits — they remain valuable for the *range of readings*. It means we read them **with the overlay in view**, and strip it deliberately rather than absorbing it. The systematic list of contaminated terms, our rulings, and the live watchlist lives in **"The Overlay Audit — reading Laozi without the missionary lens."** Consult it whenever a term feels unaccountably churchy.
 
-**Method:** for any contested line, gather these four corners, form an independent reading, then render in Shalom's voice.
+**Method:** for any contested line, **search the record**, then gather these four corners, form an independent reading, then render in Shalom's voice.
 
 ---
 

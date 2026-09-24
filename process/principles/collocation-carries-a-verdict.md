@@ -30,13 +30,24 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 3's closing movement** was drafted as *"keeping the people without knowing," "weakening their will," "keeping those who know from pushing to act."* Every word defensible; all three phrases wrong. 王弼 (*Wáng Bì*) on the first: 骨無知以幹 — *"the bones have no knowing, and so they are the frame."* **Bones are not being deceived.** And 河上公 (*Héshàng Gōng*) reads the third as what the knowers **become**: 思慮深，不輕言. → [ch 3](../../notes/translation.md#ch-3-the-closing-movement-restored-and-a-sinister-register-that-was-ours)
 
 **Ch 4's 帝** — *"the high god"*, where the definite article does the work. The article is the single-word cousin of this fault, and the two were named together. → [ch 4](../../notes/translation.md#ch-4-the-chapter-rebuilt-and-帝-restored-pass-ds-first)
 
 **Ch 13's closing couplet was reversed** by a construction rather than by a word: 以A為B is *take A as B*, and an English that inverted it turned a judgment of persons into a theory of value. → [ch 13](../../notes/translation.md#ch-13-one-word-per-character-and-the-chapters-argument-appears)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *ask what the line implies about the people in it* — the sage test |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+
+**Not enforced, and cannot be.** A collocation is innocent word by word, so no rule keyed to a word can see it. It is held by the read-back and by judgment.
 
 ---
 

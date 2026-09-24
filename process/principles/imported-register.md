@@ -44,13 +44,27 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **§1's register rule** was written after *"here, now"* and the *Be Here Now* family were caught in the verse. → [Register](../../notes/translation.md#register-no-modern-spiritual-idiom)
 
 **以此 across ch 21, 54 and 57** — the phrase had three Englishes, one of which was a commentator's gloss in a 1971 register. Now *"By this."* in all three. → [以此](../../notes/translation.md#ch-21-54-57-以此-by-this-one-formula-one-english)
 
 **Ch 74's register correction**, where the cause was identified as well as the symptom. → [ch 74](../../notes/translation.md#ch-74-a-register-correction-and-what-caused-it)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 4** | the overlay watchlist, the hymn test and the pointing test |
+| **`glossary-entry` §2** | the same two tests, applied to every sentence of an entry |
+| **`check_locks.py`** · `forbidden-rendering` · `devotional-capitalization` · `mechanistic-register` | catch the known overlay words and the capitals that turn a word into a doctrine |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Partly enforced.** The known words are gated; a new overlay has no entry on any list until someone recognises it.
 
 ---
 

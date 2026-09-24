@@ -18,6 +18,7 @@ python3 tools/concordance.py --witnesses N                   # where the witness
 python3 tools/concordance.py --commentary N                  # 王弼 and 河上公 on this chapter
 python3 tools/check_locks.py --chapter N --severity info     # what this chapter already violates
 python3 tools/concordance.py --formulas N                    # the repeated frames, with this chapter's English
+python3 tools/concordance.py --record 亂                      # what we have already written about a character
 ```
 
 **`--formulas N` is not optional, and it is the newest of these.** It prints every Chinese segment and frame this chapter repeats — **within itself as well as across the book** — with the chapter's English underneath, so a flattened parallelism is visible in one screen. **Where the Chinese repeats, the English must repeat too.** Chapter 11 says one identical sentence over a cart, a pot and a room, and our English varied all three; the fault is invisible line by line, and was invisible to every tool until 2026-09-05. `DISCOVERIES.md` §6.
@@ -29,6 +30,8 @@ python3 tools/build_principles.py --applies drafting   # the rules this work fir
 ```
 
 **Run it, and read the *fires when* line on each.** `process/principles/` holds the rules this project learned by making particular decisions — they govern chapters nobody has read yet, which is exactly why they cannot be left where they were discovered. A 🔶 is **provisional**: one case so far, so weigh it rather than obey it. `process/principles/README.md` has the standard.
+
+**`--record` is the one that is easy to skip, and it is the cheapest.** Every other command here queries a source; this one queries **us**. A finding gets written where it is found — in the notes of the chapter that produced it — and the next person who needs it is working on a different chapter. Ch 3's notes held 說文's 亂，治也 and the tangled-silk graph from August; the 亂 entry rebuilt that argument from the dictionary in September. Run it on each contested character before you open anything else. `process/principles/search-the-record-first.md`.
 
 Read `process/shaloms-call.md`. If a call is in effect that touches this chapter, **the call wins** — say so once and proceed. Do not re-argue it.
 
@@ -89,6 +92,21 @@ And our own besetting temptation, the **mechanistic**: "operating system", "sour
 - **Push back honestly.** Respectful disagreement is worth more than agreement. Never flatter a choice into acceptance.
 - **Surface the deeper claim even when not asked.**
 
+### Before you offer a line, read it back
+
+Six checks on the **finished English**. Each is a principle, and this is the step where it fires — they cannot be run earlier, because they are about the line you have made, not the line you are reading.
+
+| Check | Principle |
+|---|---|
+| **Point every English word at a character.** A word that renders nothing is either scaffolding English grammar requires — say so in the note — or it comes out | `renders-no-character` · `supplied-verb-is-scaffolding` |
+| **Read the English alone, without the Chinese beside it, and say what it claims.** Then check that claim against the source | `defensible-but-a-different-claim` |
+| **Ask what the line implies about the people in it.** Would this book say the same of the sage? | `collocation-carries-a-verdict` · `no-verdict-the-chinese-lacks` |
+| **Ask what every pronoun points at.** If two things could be *it*, the English has chosen; choose deliberately or recast | `name-the-referent` |
+| **Where the commentators split, has the English chosen between them?** If so, try for a line that holds both, or say in the note what choosing cost | `divergence-stays-open` |
+| **Where you used two English words for one Chinese modifier, name the single word you avoided** | `one-modifier-one-modifier` |
+
+**A line you are especially pleased with is the first place to look**, not the last. Pleasure is the reliable sign that the English came from English rather than from the character — run `--english` on its key word.
+
 Then **offer clay**: a full rendering he can accept, reject, or reshape. His poetic intuition is the final arbiter — exercised *after* the deepest reading is on the table, not instead of it.
 
 ---
@@ -107,6 +125,10 @@ Then **offer clay**: a full rendering he can accept, reject, or reshape. His poe
 ## 7. Log it, then verify
 
 Log **only what changes meaning**. Notes stay thin so they stay usable; the glossary carries the weight.
+
+```bash
+python3 tools/build_principles.py --applies notes   # the rules for writing the record
+```
 
 | File | What goes there |
 |---|---|

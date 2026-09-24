@@ -32,13 +32,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **The throne and the male default** run together as a reader-facing thread, which distinguishes *where the manuscripts side with us*, *where we universalize on our own authority and say so*, and *where the text needs no help*. That three-way sorting is the rule in practice. → [Thread](../../notes/reading.md#thread-reading-past-the-throne-and-past-the-male-default)
 
 **The feminine thread** is the other half — 母, 牝, 雌, 谷, 嬰兒 — and it is why the seam exists at all. → [Thread](../../notes/reading.md#thread-the-mother-and-her-kin-the-feminine)
 
 **士 is the worked instance.** Settled as *in service* across chapters 15, 41 and 68 — 說文 士，事也, one who handles **affairs** — with the seam noted: **士 named a male class and the English is deliberately neutral.**
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`check_locks.py`** · `sage-pronoun` | fails on *he / his / him* near the sage — an absolute rule, never gated on the Chinese |
+| **`CLAUDE.md`** standing rules 1–2 · **`chapter-review` step 6** | the rule stated where drafting happens |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Half enforced.** The pronoun is gated; naming the seam in the note is not.
 
 ---
 

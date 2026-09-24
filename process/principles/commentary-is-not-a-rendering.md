@@ -32,13 +32,27 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **以此 at ch 21, 54 and 57.** *"By this, here, now"* was 河上公's 此，今也 (*"'this' means now"*) wearing the verse's clothes. The Chinese is two characters — 以 (*yǐ* — by means of) and 此 (*cǐ* — this) — and says only that. The import also **picked 河上公 over 王弼**, whose 此上之所云也 (*"'this' is what was said above"*) reads the pointer as anaphoric. → [以此](../../notes/translation.md#ch-21-54-57-以此-by-this-one-formula-one-english)
 
 **Ch 23's *intensity*.** The word rendered no character at all: it was 王弼's gloss 暴疾 (*bào jí* — violent and rapid) lifted out of the commentary. **Two faults at once** — an import, and an addition ([[renders-no-character]]). → [ch 23](../../notes/translation.md#ch-23-同-is-the-same-not-a-merging-2026-09-03)
 
 **Ch 38's *clutches at*.** The word renders 執 (*zhí* — to grasp), which **appears zero times in the chapter**. It came from 王弼's gloss 無執無用 on the line above, describing what 上德 (*shàng dé* — the highest integrity) lacks — and it displaced 失 (*shī* — to lose), the chapter's actual spine. → [ch 38](../../notes/translation.md#ch-38-the-道-德-仁-義-禮-descent-rebuilt-and-the-rank-word-seam-named)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`concordance.py --commentary N`** | prints 王弼 and 河上公 on the chapter, so the gloss is read as evidence rather than remembered as wording. `chapter-review` step 0 |
+| **`sources/commentaries/`** | the commentaries are vendored with no English, so every rendering of them in this repository is visibly ours |
+| **`chapter-review` step 5**, *Before you offer a line* | *point every English word at a character* — a word that came from a gloss has none |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Not enforced.** Whether a word came from a commentary is a question about its origin, which no tool can see.
 
 ---
 

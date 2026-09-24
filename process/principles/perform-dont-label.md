@@ -30,11 +30,23 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 10's 營魄.** *Soul* was the overlay; *"the body's soul"* was the accurate label; ***housing*** was the repair. **Four Englishes were blocked on the way, and which ones is the useful record**: *spirit* is 神's (6, 39, 60); *flesh* is Pauline — the flesh against the spirit, Romans 8 — which is the hymn test; *quarters* was taken four lines below by the chapter's own 四達; and ***body* is 身's**, avoided rather than borrowed even though 身 does not occur here. → [ch 10](../../notes/translation.md#ch-10-five-englishes-attached-to-characters-that-are-not-in-the-chapter)
 
 **Ch 28's 雄/雌.** The line read *"assertive/yielding energy"* — a label, and a New Age one. The repair is **rooster and hen**, two birds, forced by 牝/牡 already holding *male* and *female*. The chapter failed the pointing test on nearly every line, and every repair was of this shape. → [ch 28](../../notes/translation.md#ch-28-the-pointing-test-failed-on-nearly-every-line)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`glossary-entry` §2** | *read the character as a picture changing over time* — go to the graph before the meaning |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`glossary-entry` §1** | `--applies glossary` lists it before an entry is written |
+
+**Not enforced.** It governs how an overlay is corrected, which is judgment.
 
 ---
 

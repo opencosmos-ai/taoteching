@@ -28,7 +28,7 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **難得之貨 (*nán dé zhī huò* — "goods hard to come by").** *"Rare and scarce"* was considered and refused. The settled reading is **rare goods**, with the cost stated plainly: *rare* renders no character, because **"hard" is 堅's** and 難's own *difficult* will not go attributive. English has **no one-word adjective for "difficult to obtain" that is not also a value word** — which is why three chapters drifted the same way independently. → [難得之貨](../../notes/translation.md#ch-3-12-44-64-難得之貨-rare-goods-and-貨-locked-to-goods)
 
@@ -41,6 +41,17 @@ supersedes: []
 **The doublet-refusal half rests on one case.** 難得之貨 is a clean instance; ch 63 exemplifies the *record-the-loss* half rather than the refusal. One case is an observation. A second genuine doublet refused — or a doublet found and repaired — promotes this.
 
 **Two adjacent cases were examined and are not instances.** Ch 21's 恍 and 惚 take *vague* and *elusive*: **two characters, two words**, which is the rule being obeyed, not bent. Ch 24's 跨 rendered *stride* left a near-synonym of 行's *walk* — that is a collision between characters, governed by [[already-spoken-for]].
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *where you used two English words for one Chinese modifier, name the single word you avoided* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+
+**Not enforced.** Provisional, on one case.
 
 ---
 

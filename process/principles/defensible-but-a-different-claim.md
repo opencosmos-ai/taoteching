@@ -30,11 +30,23 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 13's closing couplet was reversed.** 以A為B is *take A as B*, and the English had inverted it — converting **a judgment of persons** into **a theory of value**. Both readings can be argued from the characters; only one is the chapter's claim. Two of that chapter's decisions turned on this test. → [ch 13](../../notes/translation.md#ch-13-one-word-per-character-and-the-chapters-argument-appears)
 
 **Ch 39's opening line.** The same test decided it: a construal the Chinese permits was set aside because the English it produced asserted something the chapter does not. → [ch 39](../../notes/translation.md#ch-39-what-得一-means-and-the-mirror-that-was-inverted)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *read the English alone, without the Chinese, and say what it claims* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Not enforced.** The two-pass reading is the whole method, and it is a reading.
 
 ---
 

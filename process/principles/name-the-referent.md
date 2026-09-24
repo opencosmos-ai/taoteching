@@ -30,13 +30,26 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 22's 之.** An intermediate draft read *"Stay whole, and return to it,"* and Shalom asked what *it* referred to — the words, or wholeness. **The Chinese does not say, and English had already answered.** The referent was named. → [ch 22](../../notes/translation.md#ch-22)
 
 **Ch 2's stranded subject** is the same fault behind a dash, and it is what the typography rule is actually protecting against. → [Typography](../../notes/translation.md#typography-lowercase-and-no-em-dashes-in-the-verse)
 
 **Ch 9's 之, twice.** A draft read *"To hold it and fill it is not as good as stopping"* for 持而盈之, and Shalom asked what was being held and filled. The old published line had answered the question by **inventing a vessel** — 器 (*qì*) is not in the chapter, and is a locked term belonging to nine other chapters. **Both are the same failure**: one hid the choice in a pronoun, the other made the choice and imported a noun to carry it. The resolution was to name the referent **grammatically** — *what you hold* — which resolves the pronoun without adding a character. → [ch 9](../../notes/translation.md#ch-9-three-verbs-for-keeping-and-the-english-had-one)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`chapter-review` step 5**, *Before you offer a line* | *ask what every pronoun points at* |
+| **`chapter-review` step 6** | no em-dashes in the verse |
+| **`check_locks.py`** · `em-dash` | flags a dash in the verse, at `info` |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+
+**Partly enforced.** The dash is flagged; a floating pronoun is not, because nothing can tell which of two antecedents the English meant.
 
 ---
 

@@ -30,13 +30,27 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **Ch 4 and ch 56 share four lines, and the subject is left split — deliberately.** 王弼 reads ch 4's 挫其銳 with **the Tao** as subject (銳挫而無損…同塵而不渝其真) and ch 56's as **a person's practice** (含守質也). 河上公 reads both as instruction to a person. **The contexts back 王弼**, so the nouns were unified across both chapters and the verb forms were not. → [ch 4, 56](../../notes/translation.md#ch-4-56-挫其銳解其紛和其光同其塵-the-nouns-unified-the-subject-deferred)
 
 **Ch 3's 智者 — any English specific enough to settle it picks a side.** 王弼 prints 智者 and glosses 智者謂知為也 (*"those who know how to handle"*); 河上公 prints 知者 with the phonetic note 知音智 and glosses 思慮深不輕言 — near-identical to what he says of the *approving* 知者 at ch 56. **The neutral *the knowers* was chosen because it declines**, and the fork is logged in `sources/variants.yaml`. → [ch 3](../../notes/translation.md#ch-3-the-closing-movement-restored-and-a-sinister-register-that-was-ours)
 
 **信不足焉 — the commentators cross in *both* directions, and the English had been split on context.** 王弼 reads the line at ch 17 as impersonal natural law (此自然之道也); 河上公 supplies a ruler at ch 23 (君信不足於下). The old Englishes each asserted **reciprocity**, which is only 河上公's reading — 王弼's is **emergence**, with no second party. The line is now **agent-free and holds both**. → [信不足焉](../../notes/translation.md#信不足焉有不信焉-where-trust-runs-short-there-is-no-trust-ch-17-and-ch-23-alike)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`concordance.py --commentary N`** | puts both commentators on the screen before drafting. `chapter-review` step 0 |
+| **`check_locks.py`** · `unlogged-variant` | holds the textual half: a meaning-bearing fork in `sources/variants.yaml` must have a logged decision |
+| **`chapter-review` step 5**, *Before you offer a line* | *where the commentators split, has the English chosen?* |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+
+**Partly enforced.** Textual forks are gated; interpretive divergence between commentators is held only by the read-back.
 
 ---
 

@@ -24,17 +24,30 @@ supersedes: []
 
 **The catastrophic version of the mistake is the synonym.** A word feels off; a better-feeling word is offered; the feeling subsides; **the fault is still there, now harder to see, because the alarm has been silenced.** The discomfort was pointing at something structural, and it got answered at the level of diction.
 
-**The proof is the largest finding in the repository.** Ch 25's *king* was caught exactly this way — a feeling, then a hunt, then the oldest witnesses, which do not have the king. **A throne had been installed in the text and the detector was a feeling.**
-
 **And the direction of the rule matters.** Intuition detects; it does not adjudicate. A feeling that survives investigation is a finding; a feeling that the evidence contradicts is a feeling. The order — characters, witnesses, commentaries, internal consistency, ethos, then intuition — is the adjudication order, and it is not what this rule is about.
 
 ---
 
-## The cases
+## Why this principle exists
+
+The largest finding in this repository began as a feeling. Shalom said ch 25's *king* did not sit right before anyone could say why; the hunt that followed reached the oldest witnesses, which have 人 (*rén* — a person) where the received text has 王 (*wáng* — king). A throne had been installed in the text, and the detector was a feeling.
 
 **The method states it directly**, as a section of its own. → [method](../../process/method.md#intuition-is-last-as-an-arbiter-and-often-first-as-a-detector)
 
 **Ch 25 — "it started with a feeling."** Shalom noticed that *king* did not feel right; the manuscripts proved him right. → [DISCOVERIES §1](../../DISCOVERIES.md#how-it-was-found-and-it-started-with-a-feeling)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`CLAUDE.md` → *How Shalom works*** | stated as a working rule, starred |
+| **`concordance.py`**, `--commentary`, `--witnesses` | the instruments for answering the alarm rather than muting it with a synonym |
+| **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
+| **`CLAUDE.md` → *Start here*** | `--applies process` lists it at the start of every session |
+
+**Not enforced.** It governs how a challenge is received.
 
 ---
 

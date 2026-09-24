@@ -29,7 +29,13 @@ A working approximation is fine and expected; the *deep* meaning is what the glo
 
 1. **`WORKLIST.md`** — everything the manuscript owes, prioritized, with the pass order. **Work by term, in passes, not chapter by chapter:** one decision touches a dozen chapters, and walking 1→81 re-opens the same argument twenty times.
 2. **`process/shaloms-call.md`** — rules Shalom has currently set aside. Where a call is in effect, the call wins: say so once and proceed.
-3. **`process/principles/INDEX.md`** — the rules this project learned by making decisions, each with a **trigger** saying when it fires. **The skills load the relevant ones automatically** (`build_principles.py --applies drafting|glossary`), so this is for taking stock rather than for remembering. A 🔶 is provisional — one case so far, so weigh it rather than obey it.
+3. **`process/principles/INDEX.md`** — the rules this project learned by making decisions, each with a **trigger** saying when it fires. **The skills load the relevant ones at the step where they apply** — `drafting` in `chapter-review`, `glossary` in `glossary-entry`, `notes` when logging, `tooling` before changing `tools/` (below). One kind of work has no skill, because it is the collaboration itself, so load it here, every session:
+
+   ```bash
+   python3 tools/build_principles.py --applies process   # how to work with Shalom
+   ```
+
+   A 🔶 is provisional — one case so far, so weigh it rather than obey it.
 4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. **⚠ §1's central claim was superseded on 2026-08-20;** the file carries a banner. The *heaven* half stands, the *king* half was backwards, and the lesson worth keeping is that a popular "帛書版" (*bó shū bǎn* — "silk-manuscript edition") text online had been silently emended and we took it for the silks. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
 
 **Three calls are deferred by Shalom and must not be quietly settled inside a chapter review** — 民/人 (*mín / rén* — the governed / a person), 正/奇 (*zhèng / qí* — straight / crooked), and the em-dashes in the verse. Argue them with new evidence if you have it; otherwise leave them. `WORKLIST.md` T4.
@@ -237,7 +243,13 @@ ARCHITECTURE.md       ★ how the system fits together — read before changing 
 
 *Stdlib only, so a fresh clone can run everything with no install step. `PLAN.md`'s no-new-tooling rule was set aside permanently on 2026-08-28 — **tooling now needs a reason, like any other work, not a call.** `build.py` stays deferred on its own merits: the text is still moving.*
 
-**Read `ARCHITECTURE.md` before changing any of it.** It maps what holds authority, what is generated, how a decision becomes an enforced rule, and what each gate covers.
+**Read `ARCHITECTURE.md` before changing any of it**, and load the rules the harness has learned:
+
+```bash
+python3 tools/build_principles.py --applies tooling   # before changing anything in tools/ or data/
+```
+
+`ARCHITECTURE.md` maps what holds authority, what is generated, how a decision becomes an enforced rule, and what each gate covers. The tooling principles are the ones it cost something to learn — never hand-edit a generated file, make a generator deterministic before gating it, make an importer verify itself.
 
 ```bash
 python3 tools/check_locks.py                    # the gate — every rule, whole book

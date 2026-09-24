@@ -30,11 +30,25 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **The escape hatches**, and what each costs, are set out together precisely so the cheap one is not reached for when the expensive one is owed. → [ARCHITECTURE](../../ARCHITECTURE.md#escape-hatches-and-why-each-costs-something)
 
 **How a call works** — only Shalom makes one; a call **suspends, it never deletes**; the rule stays written where it is and the override sits beside it, so a future reader sees the rule, the override, and the reason. → [shaloms-call](../../process/shaloms-call.md#how-a-call-works)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`lock-ok`** waivers | waive one finding, in a chapter's Notes, with a required reason; an unused waiver is itself an error |
+| **`process/shaloms-call.md`** | sets aside a whole rule, with `scope:` and `until:`; `stale-shaloms-call` fails an expired call and `shaloms-call-unparsed` fails one the tool cannot read |
+| **`CLAUDE.md`** | *the AI never writes a call on its own initiative* |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+| **`CLAUDE.md` → *Start here*** | `--applies process` lists it at the start of every session |
+
+**Enforced by `check_locks.py`.**
 
 ---
 

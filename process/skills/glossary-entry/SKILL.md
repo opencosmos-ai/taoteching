@@ -23,11 +23,14 @@ python3 tools/build_principles.py --applies glossary   # the rules this work fir
 
 
 ```bash
+python3 tools/concordance.py --record 明            # FIRST: what we have already written about it
 python3 tools/concordance.py 明                     # every chapter, line, gloss, and verse
 python3 tools/concordance.py --english "clarity"    # is this rendering backed by the character?
 python3 tools/concordance.py --pairs 玄 妙           # the term and its partner
 python3 tools/concordance.py --formulas             # segments repeated across chapters
 ```
+
+**Run `--record` before anything else.** It prints every place this repository has already argued about the character — glossary entries, the three notes layers, `WORKLIST.md`, `DISCOVERIES.md`, and the chapter notes where findings are born and stay. **The answer is often already there**, dated and argued by someone with the evidence open: 亂's case for *disorder* was rebuilt from 說文解字 in September when `chapters/003.md` had carried it since August, and 明's four grammatical forms were listed in its own entry's *working register* while its frontmatter carried two. It is our own reasoning and not evidence, so it is a first stop and never the last — but it costs one command. `process/principles/search-the-record-first.md`.
 
 That covers the first, second, and last of the four below; the character's history still needs you.
 
@@ -63,6 +66,8 @@ That covers the first, second, and last of the four below; the character's histo
 4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3).
 5. **State the working register.** How the term flexes by grammar, with examples. Include a table of protected verbs where the noun cannot carry the whole sense.
 6. **Leave the real tension open.** Every good entry ends somewhere honest and unresolved. If nothing is unresolved, look harder.
+7. **Say which rulings the build holds.** A word you rule out that another character in the same chapters may legitimately print cannot go on `forbidden:` — the gate keys on chapter presence. Name it in the lock line as a ruling no check can hold, and explain it under a `### What no rule can enforce` section, naming the blocking character and the shared chapters. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
+8. **Never put a supplied word in `render:`.** A verb English grammar needs to carry a bare noun belongs to the construction, not the character; entering it in the frontmatter commits the character to a word that was never its own. See `process/principles/supplied-verb-is-scaffolding.md`.
 
 **Two tests on every sentence:**
 

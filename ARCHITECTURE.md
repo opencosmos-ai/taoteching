@@ -88,12 +88,12 @@ Five things, and the first is the one to remember:
 | | Owns | Shape |
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
-| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 48 entries, 14 secondary characters |
+| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 50 entries, 14 secondary characters |
 | **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
 
-**A fourth is emerging: [`process/principles/`](process/principles/README.md), the rules learned by making decisions.** It is not a fourth authority over the *text* — it owns no rendering — but it owns something the other three cannot hold, because a principle discovered while settling one line governs chapters nobody has read yet. The three above are all indexed by the thing they describe: a chapter, a term, a witness. A transferable rule has no such index, so it was landing wherever it was found. Same architecture as the glossary — frontmatter is the source of truth, `INDEX.md` and `principles.yaml` are generated, CI fails if stale — with one addition the glossary does not need: **every `evidence:` anchor is verified to resolve**, because a principle whose link has rotted looks checked.
+**A fourth is emerging: [`process/principles/`](process/principles/README.md), the rules learned by making decisions.** It is not a fourth authority over the *text* — it owns no rendering — but it owns something the other three cannot hold, because a principle discovered while settling one line governs chapters nobody has read yet. The three above are all indexed by the thing they describe: a chapter, a term, a witness. A transferable rule has no such index, so it was landing wherever it was found. Same architecture as the glossary — frontmatter is the source of truth, `INDEX.md` and `principles.yaml` are generated, CI fails if stale — with two additions the glossary does not need: **every `evidence:` anchor is verified to resolve**, because a principle whose link has rotted looks checked; and **every entry's shape is verified** — the five required sections in order, a *How it is implemented* that names its `check:` tool, and an `applies:` that some skill or `CLAUDE.md` actually loads. A principle that is argued well and reached by nobody governs nothing, so the build refuses one.
 
 ---
 
@@ -104,6 +104,7 @@ This is the operational heart of the system. A question about one character beco
 ```
 1. EVIDENCE      concordance.py <char>          every occurrence, line, gloss, verse
                  concordance.py --english "x"   the reverse: is the rendering backed by the character?
+                 concordance.py --record 字      what we have already decided about it
                  concordance.py --commentary N  王弼 (Wáng Bì) and 河上公 (Héshàng Gōng)
                  concordance.py --witnesses N   where the older manuscripts disagree
                         │
@@ -239,8 +240,11 @@ Unsuppressable rules get disabled wholesale; free suppression rots. So both hatc
 | **`lock-ok` comment** in a chapter's `## Notes` | one finding | must carry a reason, and an **unused waiver is itself an error** — so the files self-clean |
 | **`process/shaloms-call.md`** | a whole rule | requires a scope, an expiry and a reason; the checker prints a footer naming active calls, and an expired call fails the build |
 | **`git commit --no-verify`** | one commit | leaves no record — which is the point: a second `--no-verify` on the same rule is the signal that a call is owed |
+| **raising a `BASELINE` count** in `tools/build_db.py` | one regression check | each entry is `(count, note)` and **the note is required** — it says what the number counts and why it last moved, so a bump is an argument rather than a reflex. A test asserts the note is still there |
 
 **Never delete a rule to silence it.**
+
+**The baseline deserves its place in that table**, even though it is a test fixture rather than a rule. A regression count is the one check whose failure has an obvious and fatal repair — raise the number until the build is green — and nothing about a bare integer distinguishes *the corpus legitimately grew* from *a test was bent to pass*. Three counts moved in a single week's work (two logged forks and one re-lineated verse line), and a reviewer had only a code comment to go on. The note makes the distinction reviewable, and the failure message now names what the number counts and what to do about it.
 
 ---
 
@@ -280,6 +284,24 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 
 ---
 
+## Skills — the method, executed
+
+**`process/method.md` says how the work is done; a skill makes a piece of it run.** Three exist, each a folder with a `SKILL.md`:
+
+| Skill | Runs |
+|---|---|
+| `chapter-review` | one chapter from the Chinese — witnesses, commentaries, formulas, the record, the read-back, the log |
+| `glossary-entry` | one term — evidence, the entry standard, the lock, the regenerated index |
+| `principle-entry` | one principle — detection, deduplication, the trigger, the shape, the wiring, the threshold |
+
+**Where they live, and how Claude finds them.** The skills are kept in `process/skills/` — in the method's own directory, under CC0 — and exposed through `.claude/skills/`, which holds one **relative** symlink per skill. Claude Code loads a repository's `.claude/skills/` when the repository is its working directory or an added directory, follows symlinked folders, and loads a skill once however many locations point at it. So a fresh clone gets all three with no setup, and there is still one copy of each. *The links were once absolute and per-machine; a repository move left all three dangling, and a dangling link fails silently. See `process/skills/README.md`.*
+
+**Skills are how principles reach the work.** Each skill loads the principles for its kind of work with `build_principles.py --applies`, at the step where they fire, and `CLAUDE.md` loads the two kinds of work no skill covers — `tooling` and `process`. The table of which kind of work loads where is in `process/principles/README.md`, and `build_principles.py --check` refuses a principle that nothing loads.
+
+**They are bound to this repository, and are not shared by link.** Every skill runs this repo's Python tools and walks its `chapters/`, `notes/` and `process/principles/`; in another repository a linked skill would be discovered, invoked, and wrong. A neighbouring project inherits the **method** by carrying its own skill that says what it takes from here and what differs — the same way it inherits the principles.
+
+---
+
 ## The documents, and who each is for
 
 | File | Audience | Answers |
@@ -289,7 +311,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`CLAUDE.md`](CLAUDE.md) · [`AGENTS.md`](AGENTS.md) | AI collaborators, loaded every session | the rules, the locks, the workflow, the current state |
 | [`process/method.md`](process/method.md) | translator and collaborators | how a chapter is actually translated |
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
-| [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable |
+| [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
 | [`PLAN.md`](PLAN.md) | tool builders | what the harness is, what it taught, what is deliberately not built |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | readers and writers | the findings worth an essay |

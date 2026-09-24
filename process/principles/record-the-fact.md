@@ -36,11 +36,27 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
+
+Two pressures produced this rule. The excavated witnesses exist only as modern transcriptions, which are living scholarship and somebody else's copyright — so this CC0 repository cannot hold them. And a popular online *"帛書版"* (*bó shū bǎn* — "silk-manuscript edition") had been silently emended; it was taken for the silks, and it cost `DISCOVERIES.md` §1 its central claim. Recording facts with their edition named, rather than text, answers both.
 
 **The admission rules** — four conditions, all of which must hold, plus one category excluded outright on grounds unrelated to licence text. → [PROVENANCE](../../sources/PROVENANCE.md#the-admission-rules)
 
 **The Guodian question**, asked properly and answered no, with the reasoning preserved rather than the conclusion alone. → [PROVENANCE](../../sources/PROVENANCE.md#the-guodian-question-asked-properly-and-answered-no-2026-08-17)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`sources/PROVENANCE.md`** | the rights reasoning for everything in `sources/`, and why the excavated witnesses are never transcribed |
+| **`sources/variants.yaml`** | the apparatus schema records a witness and a reading, never a witness's text |
+| **`concordance.py --witnesses N`** | reads the apparatus; `chapter-review` step 0 |
+| **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Not enforced by a tool**, and it is the one rule no `shaloms-call` can set aside: it is somebody else's copyright.
 
 ---
 
@@ -70,4 +86,4 @@ supersedes: []
 1. **Read `sources/PROVENANCE.md` before adding anything to `sources/`.**
 2. **Record variants as facts in `sources/variants.yaml`**, with the witness named and the difference stated — not the witness's text reproduced.
 3. **Cite rather than copy**, and say which edition the claim rests on.
-4. **Do not trust a manuscript claim that is not in the apparatus** — a popular online *"帛書版"* had been silently emended, and it cost `DISCOVERIES.md` §1 its central claim.
+4. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.** A transcription found elsewhere is somebody's edition, and it may have been emended.

@@ -32,11 +32,22 @@ supersedes: []
 
 ---
 
-## The cases
+## Why this principle exists
 
 **How Shalom works** — the rule, the correction that produced it, and the catches that show why a thin argument is worse than none. → [CLAUDE.md](../../CLAUDE.md#how-shalom-works)
 
 **The prime directive** — take a stand, argue for the deepest reading, push back honestly. The one-question rule is what makes that possible per message. → [method](../../process/method.md#1-prime-directive-for-the-ai-collaborator-take-a-stand)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`CLAUDE.md` → *How Shalom works*** | stated as a working rule, starred, and loaded every session |
+| **`CLAUDE.md` → *Start here*** | `--applies process` lists it at the start of every session |
+
+**Not enforced.** It governs the conversation, not the text.
 
 ---
 

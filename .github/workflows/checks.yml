@@ -41,7 +41,7 @@ jobs:
       # link at all: it looks checked. notes/translation.md requires that its
       # headings carry only the stable claim precisely so these resolve, and
       # this is what makes that requirement load-bearing rather than advisory.
-      - name: principles — anchors resolve and the evidence threshold holds
+      - name: principles — anchors resolve, the threshold holds, and every entry is shaped to run
         run: python3 tools/build_principles.py --check
 
       - name: generated principles files are current

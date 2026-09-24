@@ -24,17 +24,30 @@ supersedes: []
 
 **The evidence gate is what made it usable.** It took the first run's error list to **nine findings with zero false positives.** Before it, roughly a third of flags were wrong.
 
-**And precision has a price that must be paid elsewhere, not wished away.** The gate keys off the character being present, so it can only ever test **one direction** of a lock — every 強 renders *strong*, never every *strong* renders 強. The reverse direction is a reader's job with `--english`, and it caught 固 and 壯 both wearing 強's English **inside chapters that contain 強**. See [[already-spoken-for]].
+**And precision has a price that must be paid elsewhere, not wished away.** The gate keys off the character being present, so it can only ever test **one direction** of a lock — every 強 renders *strong*, never every *strong* renders 強. The reverse direction is a reader's job with `--english`, the only instrument that finds a word worn **inside a chapter that contains its owner** — 固 (*gù* — firm) and 壯 (*zhuàng* — in its prime) wearing 強's English is the standing example. See [[already-spoken-for]].
 
 **Which is why the two tools have opposite contracts and must not be merged.** `check_locks.py` optimises precision and judges. `concordance.py` optimises recall and judges nothing. **A tool that gated and searched at once would be too noisy to gate and too quiet to search.**
 
 ---
 
-## The cases
+## Why this principle exists
 
 **The evidence gate** has a section of its own in the architecture, because it is the design decision the rest of the checker rests on. → [ARCHITECTURE](../../ARCHITECTURE.md#the-evidence-gate)
 
 **The thirteen rules** each carry a severity, and which findings are allowed to fail a build is the same decision made thirteen times. → [ARCHITECTURE](../../ARCHITECTURE.md#the-thirteen-rules)
+
+---
+
+## How it is implemented
+
+| Where | What it does |
+|---|---|
+| **`check_locks.py`** | every rendering rule keys on the character being present in that chapter; a match where it is absent drops to `info` |
+| **`tools/tests/test_check_locks.py`** | the false-friend cases — lines that must **not** fire — so a rule that starts crying wolf fails its own tests |
+| **CI**, *the locks* | gates on `error` severity only |
+| **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
+
+**Enforced by `check_locks.py` and its tests.**
 
 ---
 
