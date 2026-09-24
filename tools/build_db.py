@@ -1048,27 +1048,54 @@ def print_report(cur, stats, align_stats):
     print(f"    → {100.0 * covered / total:.1f}% of running text carries a gloss")
 
 
+# The regression baseline: what the corpus measured last time somebody looked.
+#
+# Each entry is (count, note), and **the note is required** — it says what the
+# number counts and why it last moved. That is deliberate, and it is the same
+# doctrine as `lock-ok` and `shaloms-call`: a suppression has to exist and has
+# to cost something. A bare number invites the one response that destroys the
+# check, which is to bump it until the build goes green. Writing down what
+# moved and when makes the bump an argument instead of a reflex, and makes a
+# reviewer able to tell a real corpus change from a test bent to pass.
+#
+# If a count moves and you did not mean it to, something changed the corpus
+# without meaning to — that is the finding, not the failure.
 BASELINE = {
-    "chapter": 81, "line": 798, "token": 5296, "character": 798,
-    "variant": 84, "verse_line": 855,   # 75 -> 82: the 韓非 harvest, 2026-09-10 (R1)
-                                        # 82 -> 83: ch 9 功遂 / 功成名遂, 2026-09-20
-                                        # 83 -> 84: ch 20 昏昏 / 若昏, 2026-09-20
-                                        # verse 854 -> 855: ch 26's 奈何萬乘之主，
-                                        # 而以身輕天下 set as its two segments, 2026-09-20
+    "chapter":    (81, "one file in chapters/, 1-81"),
+    "line":       (798, "source-table rows across all chapters"),
+    "token":      (5296, "Han characters in the base text"),
+    "character":  (798, "rows in the character table"),
+    "variant":    (84, "distinct variant_group rows, from sources/variants.yaml. "
+                       "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
+                       "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
+                       "83→84 ch 20 昏昏 / 若昏, 2026-09-20"),
+    "verse_line": (855, "English verse lines across chapters/*.md. "
+                        "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
+                        "two comma-segments, 2026-09-20"),
 }
+
+
+def baseline_count(cur, table):
+    """One place that knows how each baselined table is counted."""
+    if table == "variant":
+        return cur.execute(
+            "SELECT count(DISTINCT variant_group) FROM variant").fetchone()[0]
+    return cur.execute(f"SELECT count(*) FROM {table}").fetchone()[0]
+
 
 
 def verify(cur):
     ok = True
     print("\n  verification")
-    for table, expected in BASELINE.items():
-        got = cur.execute(f"SELECT count(*) FROM {table}").fetchone()[0]
-        if table == "variant":
-            got = cur.execute(
-                "SELECT count(DISTINCT variant_group) FROM variant").fetchone()[0]
+    for table, (expected, note) in BASELINE.items():
+        got = baseline_count(cur, table)
         flag = "ok " if got == expected else "FAIL"
         ok &= got == expected
         print(f"    {flag} {table:12} {got:5}  expected {expected}")
+        if got != expected:
+            print(f"         counts: {note}")
+            print(f"         if this move is intended, update BASELINE and extend "
+                  f"its note with the date and the cause.")
 
     bad = cur.execute(
         "SELECT count(*) FROM token t JOIN line l"

@@ -43,6 +43,8 @@ Read that twice, because it says the opposite of what the character is used to m
 | 38 | 忠信之薄，而**亂**之首 | 忠信 (*zhōng xìn* — loyalty and trust), worn thin |
 | 64 | 為之於未有，**治**之於未**亂** | **治 itself, in the same clause** |
 
+**Chapter 3 shows what it does to a person.** 亂 there is something done **to** the heart from outside, not a state it generates: 王弼 (*Wáng Bì*) glosses the line 心無所亂也, *"the heart has nothing to be disordered by"* — remove the display and the disordering has no purchase. 河上公 (*Héshàng Gōng*) pairs it with 惑 (*huò* — led astray): 不惑亂也. Both read it as agitation rather than as misunderstanding, which is why *confused* is wrong for it: that word puts the damage in the knowing, and this chapter has just spent two lines separating knowing from the heart. *(This was established during the ch 3 rebuild of 2026-08-31 and is recorded in `notes/translation.md` → Ch 3.)*
+
 **Chapter 64 prints the pair the dictionary describes** — *"Order it before it falls into disorder."* Two of the four chapters set 亂 directly against 治, and the English keeps them visibly related, which *chaos* could not do.
 
 **王弼 (*Wáng Bì*) reads 64 as a matter of scale, not of kind**: 治之於未亂 gets the gloss 謂㣲脆也, *"this refers to what is faint and brittle."* The disorder is not a different condition arriving from outside. It is the same thing, further along — a thread or two before it is a knot.
@@ -79,8 +81,8 @@ It fails at **chapter 38**, and the failure is structural rather than a matter o
 
 **Never** "chaos," "chaotic," "untangled."
 
-### Left open
+### Settled alongside
 
-**治 (*zhì*) has no entry, and it is the larger word** — twelve lines across nine chapters against 亂's four. It reads **govern** in ten of the twelve and **order** in two, chapters 8 and 64. The outlier is 政善治 at chapter 8, where 政 (*zhèng* — governing) and 治 stand in one three-character line and the English needs two words for them. **That single line may be what is forcing 治's second English**, and until 治 is settled the pairing this entry rests on is held together by chapter 64 alone.
+**治 (*zhì*) was locked on 2026-09-23** — *govern*, with a declared flexion to *order* at chapters 8 and 64 — so the pairing this entry rests on is now held at both ends. `zhi-治.md`. 說文 files 治 as **a river**, which is the other half of this entry's picture: 亂 is the tangle, 治 is what you do to a watercourse, and 王弼 says what that consists of at ch 60 — **不擾也**, *"it is not to disturb."*
 
-**And a third character is in the room.** *Order* also does duty for 正 (*zhèng*) at chapter 45 — 清靜為天下正, *"clear stillness brings order to the world."* **正 is one of the calls Shalom has deferred** (`WORKLIST.md` T4-2), so it is named here and not touched.
+**正 (*zhèng* — upright) stays out of it.** *Order* is also worn by 正 at chapter 45 — 清靜為天下正, *"clear stillness brings order to the world"* — and 正 is one of the calls Shalom has deferred (`WORKLIST.md` T4-2, 正/奇). It is named here so that a reader who notices the third claimant knows it was seen and left alone.

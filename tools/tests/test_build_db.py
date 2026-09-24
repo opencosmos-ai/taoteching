@@ -150,12 +150,29 @@ class Baseline(unittest.TestCase):
         return self.conn.execute(sql).fetchone()[0]
 
     def test_counts(self):
-        for table, expected in build_db.BASELINE.items():
-            if table == "variant":
-                got = self.q("SELECT count(DISTINCT variant_group) FROM variant")
-            else:
-                got = self.q(f"SELECT count(*) FROM {table}")
-            self.assertEqual(got, expected, f"{table} moved")
+        for table, (expected, note) in build_db.BASELINE.items():
+            got = build_db.baseline_count(self.conn, table)
+            self.assertEqual(got, expected, (
+                f"\n\n  {table} moved: {expected} -> {got}\n"
+                f"  what it counts: {note}\n"
+                f"  If you meant this, update BASELINE in tools/build_db.py and\n"
+                f"  extend that entry's note with the date and the cause. If you\n"
+                f"  did not, something changed the corpus without meaning to —\n"
+                f"  that is the finding, not the failure.\n"))
+
+    def test_every_baseline_entry_states_what_it_counts(self):
+        """The note is the cost of bumping a number, so it cannot be empty.
+
+        A bare baseline invites the one response that destroys the check:
+        raise it until the build is green. Same doctrine as `lock-ok`'s
+        required reason and `shaloms-call`'s required `until:`.
+        """
+        for table, entry in build_db.BASELINE.items():
+            self.assertIsInstance(entry, tuple, f"{table}: baseline must be (count, note)")
+            count, note = entry
+            self.assertIsInstance(count, int, f"{table}: count must be an int")
+            self.assertGreater(len(note.strip()), 20,
+                               f"{table}: the note must say what the number counts")
 
     def test_every_token_reassembles_into_its_line(self):
         self.assertEqual(self.q(
