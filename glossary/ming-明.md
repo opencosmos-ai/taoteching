@@ -2,6 +2,8 @@
 term: "明"
 pinyin: "míng"
 render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
+flexions:
+  - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 forbidden: ["enlightenment", "illumination", "brilliance"]
 chapters: [10, 16, 22, 24, 27, 33, 36, 41, 47, 52, 55, 65]
 status: locked
@@ -86,6 +88,8 @@ One chapter uses 明 against everything above, and honesty requires flagging it 
 
 **Chapter 65**: 古之善為道者，非以明民，將以愚之 — *those anciently good at the Tao did not use it to make the people 明, but to keep them 愚 (simple, uncarved).* Here 明 is not a virtue to be sought but something done **to** a populace, and the text is against it — the opposite pole from 愚 (*yú*), the useful simplicity Laozi elsewhere praises in himself (20).
 
-Two readings are available and we do not choose between them. Either 明 here means something different — *clever, sophisticated, knowing-too-much*, the acquired brightness that makes people hard to govern and quick to scheme — or Laozi is being deliberately provocative, using the same word for a good thing (seeing clearly for yourself) and a bad one (being made bright by someone else). The second reading is sharper, and consistent with a book that says *the straight turns crooked* (58): even clarity curdles when it is administered rather than arrived at.
+Two readings are available. Either 明 here means something different — *clever, sophisticated, knowing-too-much*, the acquired brightness that makes people hard to govern and quick to scheme — or Laozi is being deliberately provocative, using the same word for a good thing (seeing clearly for yourself) and a bad one (being made bright by someone else). The second reading is sharper, and consistent with a book that says *the straight turns crooked* (58): even clarity curdles when it is administered rather than arrived at.
+
+**We chose the first, and ch 65 reads *clever*.** *(Shalom's call, 2026-09-24. `WORKLIST.md` T1-17.)* This entry used to say *"we do not choose between them"* while the verse had already chosen, and nothing recorded that. It is now the one declared exception to this lock, a `flexions:` entry scoped to ch 65, so `concordance.py --english` reports it as licensed instead of passing it in silence. **Three reasons.** 王弼 (*Wáng Bì*) glosses the line outright: 明謂多見巧詐蔽其樸也, *"明 here means seeing too much, craft and deceit, which covers over their simplicity."* The chapter's own next lines put it among 智 (*zhì* — knowing, guile) as what makes a people 難治 (*nán zhì* — hard to govern). And the lock's English fails a test this project keeps: *"did not use it to make the people clear-seeing"* would say, in English, that the sages kept people from seeing clearly. That contradicts ch 16, 33, 52 and 55, where seeing clearly is the goal. A reading the Chinese permits but that lands as a different claim in English has not been translated. **The cost:** the provocation is gone from the verse, so this paragraph is where a reader finds it. *Clever* also sits close to 智's *cleverness* at ch 18 and 19, which `WORKLIST.md` T2-2 must weigh when 智 is settled.
 
 Either way the entry's core holds. 明 is what you see with when nothing is in the way — including, in Chapter 65, the well-meaning hand of someone trying to enlighten you.

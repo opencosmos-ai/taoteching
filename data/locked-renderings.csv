@@ -966,7 +966,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,13,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,and never pushes them.
 64,13,萬,wàn,萬物,countless,NOT FOUND,0.3,proportional,and never pushes them.
 65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
-65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
+65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,1,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,The ancients who were masterful at the Tao did not use it to make the people clever.
 65,2,治,zhì,治,govern,yes,0.3,proportional,They used it to return them to being guileless. The people are hard to govern
