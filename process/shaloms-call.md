@@ -126,7 +126,7 @@ reason: >
   at Ch 63.
 
 **Why retired:** the `until:` condition is met. All three classical commentaries named in
-`process/method.md` §3 are vendored — 王弼 (*Wáng Bì*, 71 chapters), 河上公 (*Héshàng Gōng*, all 81),
+`process/method.md` §3 are vendored — 王弼 (*Wáng Bì*, all 81), 河上公 (*Héshàng Gōng*, all 81),
 and 韓非 (*Hán Fēi*, the 17 he discusses) — with per-file provenance, a reproducible importer, and
 self-verification against our own base text. **The no-new-tooling rule is back in force. Drafting
 resumes at Ch 63.**

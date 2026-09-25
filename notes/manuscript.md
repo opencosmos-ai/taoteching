@@ -72,6 +72,14 @@ We follow the second, on three grounds. **(1) The parallel with Chapter 37** is 
 
 ## Witness forks
 
+### Ch 2 · 相形 / 相較 and 相盈 / 相傾 — our "王弼 base" is not 王弼's text here
+
+We print 長短相**形**，高下相**盈** — *"long and short give each other shape, high and low fill each other."* **Our own vendored 王弼 (*Wáng Bì*) prints neither**: 長短相**較**〔案各本俱作形陸徳明經典釋文作較盖用弼本〕髙下相**傾**. The Siku compilers' note reads *"all editions read 形 (*xíng* — shape); 陸德明 (*Lù Démíng*)'s 經典釋文 (*Jīngdiǎn Shìwén*) reads 較 (*jiào* — to compare), presumably because he used 王弼's text."* Our vendored 河上公 (*Héshàng Gōng*) prints 相**形** and 相**傾**.
+
+**Two forks, and they fall differently.** 形 / 較 splits the transmitted editions from 王弼's own: *give each other shape* against *measure against each other*. 盈 / 傾 splits **every transmitted text we carry** — both commentaries print 傾 (*qīng* — to lean, incline) — from our base's 盈 (*yíng* — to fill), which is the reading `sources/variants.yaml` attributes to the Mawangdui silks. The usual explanation for 傾 is the Han taboo on the personal name of Emperor Hui, 劉盈 (*Liú Yíng*), r. 195–188 BCE — the same mechanism as 邦 (*bāng* — state) → 國 (*guó*) at ch 61. **So at this line our base carries the older, pre-taboo reading, and the text it is named after does not.**
+
+**We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58.
+
 ### Ch 20 · 昏昏 / 若昏 — a doubled state, or a simile
 
 We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone am clouded."* **The Siku compilers note on 王弼**: 〔案昏昏**河上公注本作若昏**〕, and our vendored 河上公 (*Héshàng Gōng*) prints 我獨**若昏**, *"I alone am **as if** 昏."*
@@ -136,7 +144,7 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **It is barely a fork, and 說文解字 is why.** It defines the one by the other: **政，正也。从攴从正，正亦聲** — *"政 is 正; from 攴 (*pū* — a hand holding a stick) and 正, and 正 also gives the sound."* 政 is 正 with the stick added — the same word, with enforcement attached. Nothing in the line's sense turns on which is printed, though the pair are not identical in force, and the stick is exactly what this chapter's water does without.
 
-**We keep the base text's 政**, rendered *governing*, which leaves 治 (*zhì* — to order) free for *order* — as at ch 64's 治之於未亂 — instead of colliding with it. 王弼 is **not vendored for ch 8**: the Siku transcription is unproofread for ten chapters, this among them, so the chapter has one classical commentary and not two.
+**We keep the base text's 政**, rendered *governing*, which leaves 治 (*zhì* — to order) free for *order* — as at ch 64's 治之於未亂 — instead of colliding with it. *(Updated 2026-09-24.)* This entry once said 王弼 (*Wáng Bì*) was not vendored for ch 8. **He was always in the transcription.** The importer missed ten chapter headings that sat at the end of a comment line (`WORKLIST` T5-6). **The Siku 王弼 prints 正 as well**: 正善治〔案永樂大典正作政古通用〕, *"the Yongle Dadian reads 政; the two were interchangeable in antiquity."* So both commentaries print 正, and our base agrees with the Ming encyclopaedia. The call stands, because nothing in the line turns on it.
 
 **This does not touch T4-2**, the deferred 正 / 奇 (*zhèng / qí* — straight / crooked) call. That is a question about how 正 is rendered where we print it; this is a question about which graph is printed, and logging a fork settles nothing about the other.
 
@@ -144,7 +152,17 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 *(2026-09-06.)* The second of the two 孰能 (*shú néng* — who can) questions reads 孰能安以動之徐生 in our base. **河上公 (*Héshàng Gōng*) carries the line with an extra 久 (*jiǔ* — long, for a long time): 孰能安以久動之徐生**, and his gloss leans on it — 誰能安靜以久徐徐以**長生**也, *"who can be settled and still **for long**, and slowly slowly attain **long life**."*
 
+**The Siku 王弼 (*Wáng Bì*) carries 久 too** *(found 2026-09-24, when his ten missing chapters were recovered)*: 孰能安以久〔案永樂大典無久字〕動之徐生, *"the Yongle Dadian has no 久."* **So both commentaries have it, and our base agrees with the Yongle alone.**
+
 **It is meaning-bearing, and we keep the base.** With 久 the line acquires duration and, in 河上公's hands, 長生 (*cháng shēng* — long life) — the longevity reading that runs through his commentary and that this edition's naturalistic razor is wary of. Without it the line is a plain mirror of the one above it: a state, an action applied to it, a slow result. The parallel with 孰能濁以靜之徐清 is exact only without 久, and that parallel is the point of the pair.
+
+### Ch 15 · 若客 / 若容 — a guest, or a bearing
+
+*(2026-09-24, found when the ten missing 王弼 chapters were recovered.)* We print 儼兮其若**客** (*yǎn xī qí ruò kè*), *"dignified, like a guest."* **The Siku 王弼 (*Wáng Bì*) prints 若容 (*ruò róng*)**, with the note 〔案容一本作客〕, *"for 容, one edition reads 客."* 河上公 (*Héshàng Gōng*) prints 客, with us.
+
+**It is meaning-bearing.** 客 (*kè* — guest) makes the line a simile about a person. 容 (*róng* — countenance, bearing) makes it about a demeanour, and 容 already stands five lines up in this chapter, at 強為之容 (*qiǎng wéi zhī róng* — *"I force a likeness"*). 王弼's gloss on the whole 若 (*ruò* — like) series, 凡此諸若皆言其容象不可得而形名也 (*"all these 'like's speak of its 容象, which cannot be given a shape or a name"*), uses 容 without saying which graph he read in the line.
+
+**The base is kept provisionally.** Ch 15 was reworked on 2026-09-06 without 王弼 on the table, and this belongs to the read `WORKLIST` R3 owes. `sources/variants.yaml`.
 
 ### Ch 23 · three facts on one chapter — a dropped 道者, a 得/失 swap, and a Ming witness without 樂
 
@@ -227,6 +245,14 @@ Heshang Gong's reading also independently supports the Mawangdui 自今及古 (*
 
 *`DISCOVERIES.md` §1 and §4 rest on the superseded version of this note and both need rewriting. See the correction banners there.*
 
+### Ch 26 · 君子 / 聖人, 主 / 王 and 失本 / 失臣 — three forks, and our base is alone on the first
+
+**君子 / 聖人.** We print 是以**君子**終日行不離輜重 — *"the noble travels all day without leaving the baggage wagons."* **Both of our vendored commentaries print 聖人** (*shèng rén* — the sage) in the lemma, and 河上公 (*Héshàng Gōng*) glosses on his own reading: 聖人終日行道，不離其靜與重也, *"the sage travels the Tao all day and does not leave stillness and heaviness."* 王弼 (*Wáng Bì*)'s gloss, 以重為本故不離 (*"takes the heavy as the root, and so does not leave it"*), names no subject and cannot settle it. **Our base is the minority reading against two independent editions.** We keep it, per the standing rule that this is an edition of the received recension. 君子 (*jūn zǐ* — the noble, literally a ruler's son) and 聖人 are different figures in this book, not two names for one (`WORKLIST` T2-6, T4-7). That makes this a live fork about **who** the chapter is addressed to, not a synonym swap. The English follows the base: *the noble*.
+
+**主 / 王.** We print 奈何萬乘之**主** (*zhǔ* — lord); **the Siku 王弼 prints 萬乗之王** (*wáng* — king, ruler), and 河上公 agrees with our base (柰何萬乗之主). Not meaning-bearing, since both name the sovereign and the English's *lord* fits either. *(Corrected 2026-09-24: `sources/variants.yaml` had this the wrong way round, saying the Siku reads 主 where we read 王.)*
+
+**失本 / 失臣.** We print 輕則失**本** (*běn* — root). The Siku note on 王弼 reads 〔案本河上公注本作臣永樂大典作根〕, *"for 本, 河上公's text reads 臣 (chén — minister); the Yongle Dadian reads 根 (gēn — root)"*, and our vendored 河上公 does print 輕則失臣, glossed 王者輕淫則失其臣, *"a ruler who is light and dissolute loses their ministers."* **This is meaning-bearing.** Our reading closes the chapter back onto its first line, 重為輕根 (*"the heavy is the root of the light"*): lightness loses the *root* it was just told to have. 河上公's reading makes it a political consequence instead. The Yongle 根 is the same claim as ours in the first line's own word. **We keep the base**, which the chapter's ring structure supports. `sources/variants.yaml`.
+
 ### Ch 31 · the Siku editors flag part of this chapter as absorbed commentary
 
 *(2026-09-07.)* Our vendored 王弼 carries an unusual note in the running text, at 兵者不祥之器:
@@ -262,7 +288,7 @@ The received text gives **two** calamity-clauses: 禍莫大於不知足 (no *dis
 
 ### Ch 47 · 不見而名 / 不見而明 — the homophone fork
 
-Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
+Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." ~~We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here.~~ **Reversed 2026-09-24, Shalom's call: we keep the received 名**, which both our commentaries print. 王弼 (*Wáng Bì*): 雖不見而是非之理可得而名也, *"though not seeing, the principles of right and wrong can still be named."* The parallel holds with 名: *know / name / accomplish*. 明's predicate English, *see clearly*, had put *see* on two characters in one line, 明 and 見 (*jiàn* — to see). Now *"names without seeing."* See `chapters/047.md`. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
 
 ### Ch 52 · 是謂襲常 / 習常 — two characters, and our English had been following the one we do not print
 
@@ -312,7 +338,7 @@ Where our base reads 三**公** (*sān gōng*), the silks write 三**鄉**, whic
 
 #### Apparatus note · Wang Bi's commentary on this chapter is filed under Chapter 61
 
-`tools/concordance.py --commentary 62` reports Wang Bi as *not vendored*, and the importer lists 62 among ten chapters whose Siku transcription is unproofread. But the text is present: the Siku printing runs Chapter 62 on into Chapter 61's block, opening with the chapter heading and the compilers' own collation note 〔案河上公注本此為為道章〕 (*"in the Heshang Gong recension this is the chapter titled 為道"*), and the whole of Wang Bi's Ch 62 commentary follows inside `sources/commentaries/wangbi/061.md`. Ch 62 was drafted with it. **The importer's chapter-splitting needs a look** — wherever else a chapter heading sits mid-block, the same thing will have happened. Logged in `WORKLIST.md`.
+`tools/concordance.py --commentary 62` reports Wang Bi as *not vendored*, and the importer lists 62 among ten chapters whose Siku transcription is unproofread. But the text is present: the Siku printing runs Chapter 62 on into Chapter 61's block, opening with the chapter heading and the compilers' own collation note 〔案河上公注本此為為道章〕 (*"in the Heshang Gong recension this is the chapter titled 為道"*), and the whole of Wang Bi's Ch 62 commentary follows inside `sources/commentaries/wangbi/061.md`. Ch 62 was drafted with it. **The importer's chapter-splitting needs a look** — wherever else a chapter heading sits mid-block, the same thing will have happened. Logged in `WORKLIST.md`. ✅ ***Fixed 2026-09-24 (`WORKLIST` T5-6).*** It had happened nine more times: at 8, 14, 15, 19, 30, 54, 70, 71 and 78. All ten chapters are now at `sources/commentaries/wangbi/`, and this chapter's commentary is at `062.md`.
 
 ### Ch 63 · 報怨以德 is native to this chapter, not a stray from Ch 79
 
@@ -589,13 +615,13 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 ### Ch 38 · 失道而後德 / 失道而後失德 — a descent, or a cascade
 
-**Our base prints 失 once per clause; 韓非 prints it twice, five clauses running.** 故失道而後德，失德而後仁 against 失道而後失德，失德而後失仁.
+**Our base prints 失 once per clause; 韓非 prints it twice, four clauses running.** 故失道而後德，失德而後仁 against 失道而後失德，失德而後失仁.
 
 **The two texts make different claims.** Ours is a **descent**: lose the Tao, and then there is 德 (*dé* — integrity); lose 德, and then there is 仁 (*rén* — humaneness). Each rung *appears* as the one above it goes, which is why the chapter can be read as an account of how the lesser virtues arise. 韓非's is a **cascade**: lose the Tao and then lose 德, lose 德 and then lose 仁. Nothing appears. Everything is successively forfeited.
 
 **This chapter was rebuilt in Pass D around 失 as its spine** (`WORKLIST` T1-4), on the finding that 失 has five occurrences here — more than in any chapter in the book — and had been deleted from its hinge. The English reads *"So when the Tao is lost, then integrity."* **The oldest witness says the second half is a loss too.**
 
-**Undecided.** The decision changes five lines and reopens settled work, so it goes to Shalom rather than being taken here.
+~~**Undecided.**~~ **Decided 2026-09-24, Shalom's call: we follow 韓非 and depart from the base.** The ladder now reads *"When the Tao is lost, then integrity is lost,"* four clauses running. His own essay argues the chain just before he quotes it: 德者，道之功…仁者，德之光…義者，仁之事也…禮者，義之文也 (*"integrity is the achievement of the Tao; humaneness is the radiance of integrity; duty is the business of humaneness; ritual is the pattern of duty"*). Each rung is made from the one above, so it cannot outlast it. Full note in `chapters/038.md`.
 
 ### Ch 64 · 輔 / 恃 — the sage supports 自然, or leans on it
 
@@ -619,4 +645,4 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 ### An incidental finding: our base is inconsistent on the Han name-taboo
 
-**Ch 54 reads 修之於邦; ch 36 reads 國.** 邦 (*bāng* — state) was tabooed under Liu Bang (劉邦, r. 202–195 BCE) and replaced with 國 (*guó*) in Han-era copying — which is what dates our base to Han hands. Ch 54 appears to have escaped a substitution ch 36 did not. Recorded as a fact about the recension; nothing in the English turns on it, since both render *state*.
+**Ch 54 reads 修之於邦; ch 36 reads 國.** 邦 (*bāng* — state) was tabooed under Liu Bang (劉邦, r. 202–195 BCE) and replaced with 國 (*guó*) in Han-era copying — which is what dates our base to Han hands. Ch 54 appears to have escaped a substitution ch 36 did not. Recorded as a fact about the recension; nothing in the English turns on it, since both render *state*. *(2026-09-24: the recovered Siku 王弼 (*Wáng Bì*) prints 修之於**國** at ch 54, so the text our base is named after made the taboo substitution here and our base did not.)*

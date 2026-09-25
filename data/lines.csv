@@ -149,9 +149,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 14,16,5,迎之不見其首，,"Yíng zhī bù jiàn qí shǒu,","Meeting/welcoming \[ying\] it \[zhi\] you do not \[bu\] see \[jian\] its \[qi\] head/front \[shou\],","Follow it, and you cannot see its back.",proportional
 14,17,5,隨之不見其後。,Suí zhī bù jiàn qí hòu.,Following \[sui\] it \[zhi\] you do not \[bu\] see \[jian\] its \[qi\] back/rear \[hou\].,"Follow it, and you cannot see its back.",proportional-fill
 14,18,6,執古之道，,"Zhí gǔ zhī dào,","Grasping/holding \[zhi\] the ancient \[gu\] Tao \[dao\],","Grasp the ancient Tao, and steer what is present now.",proportional
-14,19,6,以御今之有。,Yǐ yù jīn zhī yǒu.,In order to \[yi\] manage/control \[yu\] present/current \[jin\] existence/presence \[you\].,"Know the primordial source,",proportional
-14,20,6,能知古始，,"Néng zhī gǔ shǐ,","Being able to \[neng\] know \[zhi\] the ancient \[gu\] beginnings/origins \[shi\],",The thread of the Tao.,proportional
-14,21,6,是謂道紀。,Shì wèi dào jì.,This \[shi\] is called \[wei\] the thread/discipline of the Tao \[dao ji\].,The thread of the Tao.,proportional-fill
+14,19,6,以御今之有。,Yǐ yù jīn zhī yǒu.,In order to \[yi\] manage/control \[yu\] present/current \[jin\] existence/presence \[you\].,"If you can know the ancient beginning,",proportional
+14,20,6,能知古始，,"Néng zhī gǔ shǐ,","Being able to \[neng\] know \[zhi\] the ancient \[gu\] beginnings/origins \[shi\],",this is called the thread of the Tao.,proportional
+14,21,6,是謂道紀。,Shì wèi dào jì.,This \[shi\] is called \[wei\] the thread/discipline of the Tao \[dao ji\].,this is called the thread of the Tao.,proportional-fill
 15,1,1,古之善為士者，,"Gǔ zhī shàn wéi shì zhě,","The ancient \[gu\] ones who were masterful \[shan\] at being \[wei\] scholars/officers \[shi\],",The ancients who were masterful in service,exact-count
 15,2,1,微妙玄通，,"Wēi miào xuán tōng,","Were microscopic/subtle \[wei\], highly-optimized/marvelous \[miao\], dark/profound \[xuan\], and penetrating/connected \[tong\],","were faint, subtle, dark, and unobstructed,",exact-count
 15,3,1,深不可識。,Shēn bù kě shí.,So deep \[shen\] they could not \[bu ke\] be known/understood \[shi\].,so deep they could not be read.,exact-count
@@ -449,11 +449,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 38,7,2,上禮為之而莫之應，,"Shàng lǐ wéi zhī ér mò zhī yìng,","Highest ritual takes action, and when none respond to it,","The highest duty acts, and has something it acts for.",proportional-fill
 38,8,2,則攘臂而扔之。,zé rǎng bì ér rēng zhī.,then it bares its arms and forces them.,"The highest ritual acts, and no one answers,",proportional
 38,9,3,故失道而後德，,"Gù shī dào ér hòu dé,","Therefore, losing the Tao, afterward comes virtue.",so it bares its arms and drags them along.,proportional
-38,10,3,失德而後仁，,"Shī dé ér hòu rén,","Losing virtue, afterward comes benevolence.","So when the Tao is lost, then integrity.",proportional
-38,11,3,失仁而後義，,"Shī rén ér hòu yì,","Losing benevolence, afterward comes righteousness.","When integrity is lost, then humaneness.",proportional
-38,12,3,失義而後禮。,Shī yì ér hòu lǐ.,"Losing righteousness, afterward comes ritual.","When humaneness is lost, then duty.",proportional
-38,13,3,夫禮者，忠信之薄，,"Fū lǐ zhě, zhōng xìn zhī bó,","Now ritual is the thinning of loyalty and trustworthiness,","When duty is lost, then ritual.",proportional
-38,14,3,而亂之首。,ér luàn zhī shǒu.,and the head of chaos.,"When duty is lost, then ritual.",proportional-fill
+38,10,3,失德而後仁，,"Shī dé ér hòu rén,","Losing virtue, afterward comes benevolence.","So when the Tao is lost, then integrity is lost.",proportional
+38,11,3,失仁而後義，,"Shī rén ér hòu yì,","Losing benevolence, afterward comes righteousness.","When integrity is lost, then humaneness is lost.",proportional
+38,12,3,失義而後禮。,Shī yì ér hòu lǐ.,"Losing righteousness, afterward comes ritual.","When humaneness is lost, then duty is lost.",proportional
+38,13,3,夫禮者，忠信之薄，,"Fū lǐ zhě, zhōng xìn zhī bó,","Now ritual is the thinning of loyalty and trustworthiness,","When duty is lost, then ritual is lost.",proportional
+38,14,3,而亂之首。,ér luàn zhī shǒu.,and the head of chaos.,"When duty is lost, then ritual is lost.",proportional-fill
 38,15,3,前識者，道之華，,"Qián shí zhě, dào zhī huá,","Foreknowledge is the flowery display of the Tao,","Ritual is the thinning of loyalty and trust, and the head of disorder.",proportional
 38,16,3,而愚之始。,ér yú zhī shǐ.,and the beginning of foolishness.,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness.",proportional
 38,17,4,是以大丈夫處其厚，,"Shì yǐ dà zhàng fū chǔ qí hòu,","Therefore the fully grown person dwells in its thickness,","This is why the great person dwells in the thick, not the thin,",proportional
@@ -533,8 +533,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 47,1,1,不出戶，知天下；,"Bù chū hù, zhī tiān xià;","Without going out the door, one can know the world;","Without leaving home, you know the whole world. / Without looking out the window, you see the way of nature.",proportional
 47,2,1,不闚牖，見天道。,"Bù kuī yǒu, jiàn tiān dào.","Without looking through the window, one can see the Tao of heaven.","The further out you venture, the less you know.",proportional
 47,3,1,其出彌遠，其知彌少。,"Qí chū mí yuǎn, qí zhī mí shǎo.","The further one goes out, the less one knows.","Therefore, the sage knows without venturing,",proportional
-47,4,2,是以聖人不行而知，,"Shì yǐ shèng rén bù xíng ér zhī,","Therefore the Sage knows without traveling,","understands clearly without seeing,",proportional
-47,5,2,不見而明，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","understands/sees clearly without looking, compiles/completes without forcing action.",and accomplishes without acting.,proportional
+47,4,2,是以聖人不行而知，,"Shì yǐ shèng rén bù xíng ér zhī,","Therefore the Sage knows without traveling,","names without seeing,",proportional
+47,5,2,不見而名，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","names/discerns \[ming\] without seeing \[bu jian\], completes \[cheng\] without doing \[bu wei\].",and accomplishes without acting.,proportional
 48,1,1,為學日益，為道日損。,"Wéi xué rì yì, wéi dào rì sǔn.","Pursuing study/learning, one increases daily; pursuing the Tao, one decreases daily.","In pursuit of learning, you increase daily; / in pursuit of the Tao, you decrease daily.",proportional
 48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decreasing and decreasing, until you reach non-doing.",proportional
 48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",proportional

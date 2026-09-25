@@ -65,4 +65,4 @@ The 韓非 (*Hán Fēi*) importer shipped without the fidelity check the other t
 1. **Verify against something already in the repository**, and record the method in the file's frontmatter.
 2. **Mark divergences rather than resolving them** — a fork is a finding, not a defect.
 3. **Make the import reproducible to byte-identical output**, so the vendored file can be gated like any other build product.
-4. **Record coverage honestly**, including what is missing — the ten unproofread 王弼 chapters are named, so a blank result is never mistaken for agreement.
+4. **Record coverage honestly**, including what is missing — a blank result must never be mistaken for agreement. **And a shortfall is a finding about the parser until shown otherwise:** the ten 王弼 (*Wáng Bì*) chapters recorded here as *unproofread* for two years had been in the transcription the whole time, merged into their neighbours by the importer (2026-09-24).

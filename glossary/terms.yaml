@@ -107,9 +107,11 @@
   pinyin: "míng"
   render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
   forbidden: ["enlightenment", "illumination", "brilliance"]
-  chapters: [10, 16, 22, 24, 27, 33, 36, 41, 47, 52, 55, 65]
+  chapters: [10, 16, 22, 24, 27, 33, 36, 41, 52, 55, 65]
   status: locked
   entry: glossary/ming-明.md
+  flexions:
+    - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 
 - term: "無為"
   pinyin: "wú wéi"

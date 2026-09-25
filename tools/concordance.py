@@ -336,6 +336,68 @@ def _templates(index, min_len):
     return {v: sorted(k) for k, v in out.items()}
 
 
+EMBED_MIN = 4
+
+
+def _embedded(index, templates):
+    """Find repeats that sit INSIDE a longer segment, and add them in place.
+
+    Segments are cut at punctuation, so a formula that does not start at a mark
+    was invisible: 為天下貞 sits inside 侯王得一以為天下貞, ch 39 was missing
+    from the 為天下▢ group, and a settled formula got a fourth rendering that
+    way (WORKLIST T5-13). Two passes, both over segments longer than the thing
+    being looked for:
+
+      exact   a segment of EMBED_MIN+ characters found inside a longer one
+              gains that occurrence;
+      frame   a window of a longer segment that matches a known frame on
+              every fixed position joins the frame as a member.
+
+    EMBED_MIN is 4, not 3: three-character strings are inside everything, and a
+    searcher that finds 天下 in every chapter has stopped searching. Mutates
+    both arguments and returns the number of occurrences added.
+    """
+    added = 0
+    whole = list(index.items())
+    for seg, _ in whole:
+        if len(seg) < EMBED_MIN:
+            continue
+        for longer, occ in whole:
+            if len(longer) > len(seg) and seg in longer:
+                index[seg].extend(occ * longer.count(seg))
+                added += len(occ) * longer.count(seg)
+
+    for (n, fixed), members in templates.items():
+        if n < EMBED_MIN:
+            continue
+        have = set(members)
+        for longer, occ in whole:
+            if len(longer) <= n:
+                continue
+            for i in range(len(longer) - n + 1):
+                w = longer[i:i + n]
+                if w in have or any(w[k] != c for k, c in fixed):
+                    continue
+                index[w].extend(occ)
+                members.append(w)
+                have.add(w)
+                added += len(occ)
+        members.sort()
+    return added
+
+
+def _formula_index(chapters, min_len=3):
+    """The segment index and its frames, embedded repeats included.
+
+    One function for both callers — the printed report and --json — so they
+    cannot drift apart again (see the note in main()).
+    """
+    index = _segments(chapters, min_len)
+    templates = _templates(index, min_len)
+    _embedded(index, templates)
+    return index, templates
+
+
 def _render(n, fixed):
     chars = [SLOT] * n
     for k, c in fixed:
@@ -351,8 +413,7 @@ def show_formulas(chapters, min_len=3, only=None):
     from here: that one gates and must never cry wolf, this one searches and
     judges nothing. See CLAUDE.md on why the two are not merged.
     """
-    index = _segments(chapters, min_len)
-    templates = _templates(index, min_len)
+    index, templates = _formula_index(chapters, min_len)
 
     def spread(occ):
         """(within, across) — repeats inside one chapter, and chapters spanned."""
@@ -448,9 +509,6 @@ def show_commentary(number, quiet=False):
         path = ROOT / "sources" / "commentaries" / slug / f"{number:03d}.md"
         if not path.exists():
             print(f"\n{BOLD}chapter {number}{OFF} — {who}: {DIM}not vendored{OFF}")
-            if slug == "wangbi":
-                print(f"  {DIM}The Siku transcription is unproofread for 10 chapters "
-                      f"(8, 14, 15, 19, 30, 54, 62, 70, 71, 78).{OFF}")
             continue
         text = path.read_text(encoding="utf-8")
         title = ""
@@ -605,7 +663,7 @@ def main():
             # segment index by hand and had already drifted from the printed
             # one: min_len 4 against 3, and a set of chapters, which cannot
             # express a segment repeating inside a chapter at all.
-            index = _segments(chapters, 3)
+            index, templates = _formula_index(chapters, 3)
             payload["formulas"] = {
                 s: [{"chapter": n, "row": i} for n, i in occ]
                 for s, occ in index.items() if len(occ) > 1}
@@ -613,7 +671,7 @@ def main():
                 _render(n, fixed): {"members": members,
                                     "chapters": sorted({c for m in members
                                                         for c, _ in index[m]})}
-                for (n, fixed), members in _templates(index, 3).items()}
+                for (n, fixed), members in templates.items()}
         print(json.dumps(payload, indent=2, ensure_ascii=False))
         return 0
 

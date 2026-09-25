@@ -1065,10 +1065,12 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (84, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (87, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
-                       "83→84 ch 20 昏昏 / 若昏, 2026-09-20"),
+                       "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
+                       "84→87 ch 26 失本 / 失臣, ch 15 若客 / 若容, ch 78 是謂 / 是為 — the last two from "
+                       "the ten recovered 王弼 chapters, 2026-09-24 (T5-6)"),
     "verse_line": (855, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20"),

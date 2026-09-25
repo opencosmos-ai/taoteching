@@ -102,6 +102,75 @@ def fetch():
 # oldest witness to the graph agreeing.
 SHUOWEN_VARIANTS = {
     "明": "朙", "善": "譱", "真": "眞", "處": "処", "法": "灋",
+    # 2026-09-24 (WORKLIST T5-10). The gap list had become the worklist its own
+    # footer says it is, and nobody had worked it: 87 of 798 characters, most of
+    # them filed under a Han graph. Each pair below was checked the same way as
+    # the five above — the old form is an entry in the vendored text, and its
+    # definition is this character's word. Four were confirmed by the
+    # transcription itself, which names the seal image after the modern graph:
+    # 㠯（[[File:以-seal.svg]]）, 𠧞 兆, 宐 宜, 秊 年.
+    #
+    # Graph variants of one word — the definition reads straight across:
+    "並": "竝",   # 併也
+    "乘": "椉",   # 覆也
+    "享": "亯",   # 獻也
+    "以": "㠯",   # 用也
+    "侯": "矦",   # 春饗所䠶矦也
+    "偽": "僞",   # 詐也
+    "兆": "𠧞",   # 灼龜坼也 — the crack in a heated shell
+    "全": "仝",   # 完也
+    "劍": "劒",   # 人所帶兵也
+    "塵": "𪋻",   # 鹿行揚土也 — dust raised by running deer
+    "宜": "宐",   # 所安也
+    "年": "秊",   # 穀孰也 — the harvest ripening
+    "弊": "獘",   # 頓仆也
+    "彌": "镾",   # 久長也
+    "既": "旣",   # 小食也
+    "春": "萅",   # 推也
+    "智": "𥏼",   # 識詞也
+    "槁": "槀",   # 木枯也
+    "窮": "竆",   # 極也
+    "累": "纍",   # 綴得理也
+    "耀": "燿",   # 照也
+    "脆": "膬",   # 耎易破也
+    "舉": "擧",   # 對舉也
+    "蓋": "葢",   # 苫也
+    "衛": "衞",   # 宿衞也
+    "躁": "趮",   # 疾也
+    "鎮": "鎭",   # 博壓也
+    "間": "閒",   # 隟也
+    "隳": "隓",   # 敗城𨸏曰隓
+    "飲": "㱃",   # 歠也
+    "似": "佀",   # 象也
+    "孰": "𦏧",   # 食飪也 — cooked through, the sense behind "ripe"
+    "戎": "𢦦",   # 兵也
+    "肆": "𨽸",   # 極、陳也
+    "兕": "𤉡",   # 如野牛而青
+    "傫": "儽",   # 垂皃。一曰嬾解 — drooping; slack (ch 20's 傫傫)
+    "鄉": "𨞰",   # 國離邑，民所封鄉也 — the definition uses 鄉 itself
+    # The modern graph is the entry's 或體 / 篆文 / later form, filed under it:
+    "抱": "捊",   # 引取也 — 抱 is 捊's variant with 包
+    "網": "网",   # 庖犧所結繩以漁
+    "跡": "迹",   # 步處也
+    "隣": "鄰",   # 五家爲鄰
+    "域": "或",   # 邦也 — 或 is the older graph; 域 adds 土, the soil
+    "學": "斆",   # 覺悟也
+    "尊": "𢍜",   # 酒器也 — and the definition writes the vessel 尊
+    "抑": "𢑏",   # 按也
+    "糞": "𡊄",   # 埽除也。讀若糞
+    "偷": "媮",   # 巧黠也
+    "靈": "𩆜",   # 𩆜巫，以玉事神
+    "佐": "左",   # 手相左助也 — 左 is the hand that helps; 佐 adds 人
+    "孩": "咳",   # 小兒笑也 — ch 20's 如嬰兒之未孩, the infant's first laugh
+    "恍": "怳",   # 狂之皃
+    "惚": "忽",   # 忘也
+    #
+    # Deliberately NOT mapped, though 說文 files each graph under another
+    # entry: 其 (箕), 云 (雲), 於 (烏), 求 (裘). The modern character is a
+    # borrowed graph there — 其 is "its", 箕 is a winnowing basket — so the
+    # entry's definition is another word's, and attaching it would put a wrong
+    # etymology under a right character. 太 stays out as well: 泰 is its likely
+    # source but the vendored text does not say so.
 }
 
 

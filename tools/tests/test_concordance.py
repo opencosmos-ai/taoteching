@@ -93,6 +93,34 @@ class Templates(unittest.TestCase):
         self.assertEqual(self.frames("當其無。當其無。"), set())
 
 
+class Embedded(unittest.TestCase):
+    """T5-13: a repeat that does not start at a punctuation mark.
+
+    為天下貞 sits inside 侯王得一以為天下貞, so the whole-segment index never
+    saw it, ch 39 was missing from the 為天下▢ group, and a settled formula got
+    a fourth rendering that way.
+    """
+
+    def index(self, **by_number):
+        return co._formula_index(chapters(**by_number), 3)
+
+    def test_an_exact_repeat_inside_a_longer_segment_is_counted(self):
+        idx, _ = self.index(c22=["為天下式。"], c39=["侯王得一以為天下式。"])
+        self.assertEqual(sorted(c for c, _ in idx["為天下式"]), [22, 39])
+
+    def test_a_frame_member_inside_a_longer_segment_joins_the_frame(self):
+        idx, templates = self.index(
+            c28=["為天下谿。為天下谷。"], c39=["侯王得一以為天下貞。"])
+        frames = {co._render(n, f): m for (n, f), m in templates.items()}
+        self.assertIn("為天下貞", frames["為天下▢"])
+        self.assertIn(39, {c for c, _ in idx["為天下貞"]})
+
+    def test_three_characters_are_below_the_embed_floor(self):
+        """天下之 is inside everything; EMBED_MIN keeps it from being found there."""
+        idx, _ = self.index(c1=["天下之。"], c2=["天下之至柔。"])
+        self.assertEqual(len(idx["天下之"]), 1)
+
+
 class LiveCorpus(unittest.TestCase):
     """The finder against the real book, on the rows it exists to surface."""
 
@@ -110,6 +138,13 @@ class LiveCorpus(unittest.TestCase):
     def test_ch36_and_ch39_open_worklist_rows_surface(self):
         self.assertEqual(self.frames.get("必固▢之"), [36])       # T3-4
         self.assertEqual(self.frames.get("▢得一以▢"), [39])      # T3-6
+
+    def test_ch39_joins_the_wei_tianxia_frame(self):
+        """T5-13 against the real book: 為天下貞 is inside 侯王得一以為天下貞."""
+        index, templates = co._formula_index(self.chapters, 3)
+        frames = {co._render(n, f): m for (n, f), m in templates.items()}
+        self.assertIn("為天下貞", frames["為天下▢"])
+        self.assertEqual(sorted({c for c, _ in index["為而不恃"]}), [10, 51, 77])
 
     def test_grammar_spans_many_chapters_and_is_demoted(self):
         self.assertGreater(len(self.frames.get("是謂▢▢", [])), 3)

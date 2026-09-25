@@ -76,7 +76,7 @@ And a fourth blocker that would stand even if all three fell: the page's content
 |---|---|---|
 | `variants.yaml` | The variant apparatus, as **facts** | 24 forks across 12 chapters |
 | `guodian-inventory.yaml` | What the **oldest witness** contains, as facts — never a text | 31 chapters, 3 bundles |
-| `commentaries/wangbi/` | 王弼 (d. 249 CE) on the Laozi, lemma by lemma | **71 of 81 chapters** |
+| `commentaries/wangbi/` | 王弼 (d. 249 CE) on the Laozi, lemma by lemma | **all 81 chapters** *(71 until 2026-09-24)* |
 | `commentaries/heshanggong/` | 河上公章句 (Han), lemma by lemma, with his own chapter titles | **81 of 81 chapters** |
 | `commentaries/hanfeizi/` | 韓非子 解老 / 喻老 — the oldest commentary on the Laozi | **the 17 chapters he discusses** |
 | `.cache/` | The fetched wikitext the import ran from | gitignored |
@@ -90,12 +90,14 @@ And a fourth blocker that would stand even if all three fell: the page's content
 **Imported by `tools/import_commentary.py`**, which is the point: the vendoring is **reproducible**, and it **verifies itself**. The source interleaves Laozi lemmas with Wang Bi's comment on each, so every lemma is matched against our own `source/chinese.md`:
 
 ```
-71/81 chapters · 328 lemma lines matched exactly, 26 with variants (93%) · 470 commentary lines
+wangbi: 81/81 chapters — complete
+lemma lines: 361 matched our base text exactly, 38 with variants (90% exact)
+commentary blocks: 425
 ```
 
 A lemma that matches is direct evidence the transcription was carried across intact at that point. Lemmas that differ are **reported, never normalized away** — Siku glyph forms go in the importer's `ORTHOGRAPHIC` map, and genuine forks go in `variants.yaml`.
 
-**The 10 missing chapters — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78** — are simply not yet transcribed on Wikisource. To add them: transcribe from the archive.org scan above, or wait for the proofreading, then re-run the importer. `concordance.py --commentary N` says so plainly rather than failing silently.
+**Ten chapters were missing until 2026-09-24, and the transcription was never the reason.** For two years this paragraph said chapters 8, 14, 15, 19, 30, 54, 62, 70, 71 and 78 were *"simply not yet transcribed on Wikisource."* They were transcribed. In each case the chapter heading ran onto the end of the previous chapter's last comment line (…相濡之徳生也十九章, *"…then the kindness of moistening each other arises. Chapter nineteen"*). The importer matched only headings at the start of a line, so each of the ten was merged into the chapter before it. **The self-check reported the shortfall accurately and the explanation beside it was wrong.** A count of 71/81 is a finding about the parser as much as the source, and nothing asked which. `WORKLIST` T5-6.
 
 **Preserved from the edition:** the Siku compilers' own collation notes, marked 〔…〕. They are 18th-century editorial matter, public domain by age, and immediately useful — the note at Ch 21, 〔案狀各本俱作然〕 ("for 狀, all editions read 然"), reopened a decision we had already made. **□** marks a glyph the transcribers could not encode; a gap is never passed off as text.
 
@@ -125,9 +127,9 @@ A lemma that matches is direct evidence the transcription was carried across int
 
 ### Nothing is owed
 
-All three classical commentaries named in `process/method.md` §3 are now in the repository. **Every chapter has at least one**, because Heshang Gong covers the ten the Siku Wang Bi transcription lacks.
+All three classical commentaries named in `process/method.md` §3 are now in the repository. **Every chapter has at least two**: 王弼 and 河上公 both cover all 81.
 
-What could still be added, in rough order of value: the **10 unproofread Wang Bi chapters** (8, 14, 15, 19, 30, 54, 62, 70, 71, 78), transcribed from the archive.org scan; the **Fu Yi** (傅奕) recension, which is a *received* text and therefore admissible in full where the excavated manuscripts are not; and a **Guodian / Mawangdui variant sweep** for the chapters not yet in `variants.yaml`, recorded as facts.
+What could still be added, in rough order of value: the **Fu Yi** (傅奕) recension, which is a *received* text and therefore admissible in full where the excavated manuscripts are not; and a **Guodian / Mawangdui variant sweep** for the chapters not yet in `variants.yaml`, recorded as facts.
 
 **The Guodian sweep is now the highest-value item on that list**, and `guodian-inventory.yaml` says where to point it. Two chapters are flagged in the inventory as owing work: **Ch 19**, where the best-known divergence in the entire Guodian Laozi sits and our apparatus is silent, and **Ch 25**, where `DISCOVERIES.md` §1 rests on the Mawangdui silks without consulting the older witness that also carries the chapter.
 

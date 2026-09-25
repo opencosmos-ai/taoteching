@@ -26,7 +26,7 @@ Every consequential decision is documented. Nothing is asserted without evidence
 
 - **The glossary is both the ruling and the rule.** Each of the 35 entries argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
-- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, 71 chapters), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of all 711 characters in the book, and an apparatus of 45 places where the excavated manuscripts disagree with the received text.
+- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of 763 of the book's 798 characters, and an apparatus of 45 places where the excavated manuscripts disagree with the received text.
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
@@ -52,7 +52,7 @@ Start at [`chapters/001.md`](chapters/001.md). Each chapter carries the English 
 | `process/method.md` | The full working method |
 | `process/overlay-audit.md` | Reading Laozi without the missionary lens |
 | `process/skills/` | The method made executable, for AI collaborators |
-| [`sources/`](sources/PROVENANCE.md) | The classical commentaries — Wang Bi (71 ch.) and Heshang Gong (81 ch.) — the variant apparatus, and per-file provenance |
+| [`sources/`](sources/PROVENANCE.md) | The classical commentaries — Wang Bi and Heshang Gong (all 81 ch. each) — the variant apparatus, and per-file provenance |
 | `tools/` | The harness — see below |
 | [`ARCHITECTURE.md`](ARCHITECTURE.md) | **How the system fits together** — authorities, what is generated, the gates, the rules, provenance |
 | `CLAUDE.md` · `AGENTS.md` | Operating context for AI collaborators and tools |
@@ -105,7 +105,7 @@ python3 tools/concordance.py --witnesses 21    # where the older manuscripts dis
 
 | Commentary | Date | Coverage | Edition |
 |---|---|---|---|
-| **王弼** Wang Bi | d. 249 CE | 71 of 81 chapters | 欽定四庫全書 (Siku Quanshu), 1782 |
+| **王弼** Wang Bi | d. 249 CE | all 81 chapters | 欽定四庫全書 (Siku Quanshu), 1782 |
 | **河上公** Heshang Gong | Han | **81 of 81** | Song woodblock, via *Sibu congkan* 0532 |
 | **韓非** Han Feizi, 解老 / 喻老 | d. 233 BCE | 17 chapters he discusses | 韓非子, chs. 20–21 |
 

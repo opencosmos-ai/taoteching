@@ -51,7 +51,7 @@
 - chapter: 8
   line: "政善治"
   base: "政"
-  witnesses: { heshanggong: "正" }
+  witnesses: { heshanggong: "正", siku-wangbi: "正", yongle-dadian: "政" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -61,8 +61,10 @@
     where 平 (level) answers 正. Barely a fork: Shuowen defines the one by the
     other, 政，正也。从攴从正，正亦聲 — 政 is 正 with 攴 (a hand holding a
     stick) added. We keep 政, rendered "governing," which also leaves 治 free
-    for "order" instead of colliding with it. Wang Bi is not vendored for this
-    chapter, so there is no third reading to weigh.
+    for "order" instead of colliding with it. (Updated 2026-09-24: Wang Bi is now
+    vendored for this chapter, and the Siku text prints 正 too, with the note
+    案永樂大典正作政古通用 — "the Yongle Dadian reads 政; anciently interchangeable."
+    Both commentaries print 正; our base agrees with the Yongle.)
   logged: notes/manuscript.md
 
 - chapter: 23
@@ -402,10 +404,24 @@
   our_call: base
   note: >
     Our base reads 君子 (the gentleman — a Confucian term); BOTH the Siku Wang Bi
-    and the Song Heshang Gong read 聖人 (the sage), and the Siku reads 主 where we
-    read 王 later in the chapter. Two independent editions against our reading.
-    Directly relevant to the thread on reading past the throne, since it shows
-    the two vocabularies competing inside one recension. See DISCOVERIES.md §1.
+    and the Song Heshang Gong read 聖人 (the sage), and the Siku reads 王 where we
+    read 主 later in the chapter (萬乘之主). Two independent editions against our
+    reading. Directly relevant to the thread on reading past the throne, since it
+    shows the two vocabularies competing inside one recension. See DISCOVERIES.md
+    §1. (Corrected 2026-09-24: this note had 主 and 王 the wrong way round.)
+  logged: notes/manuscript.md
+
+- chapter: 26
+  line: "輕則失本，躁則失君"
+  base: "失本"
+  witnesses: { heshanggong: "失臣", yongle-dadian: "失根" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku note on Wang Bi reads 案本河上公注本作臣永樂大典作根 — Heshang Gong's
+    text reads 臣 (minister), the Yongle Dadian reads 根 (root). Our 本 closes the
+    chapter back onto its first line, 重為輕根; 河上公's 臣 makes lightness cost a
+    ruler their ministers instead. The Yongle 根 is our claim in line 1's own word.
   logged: notes/manuscript.md
 
 - chapter: 55
@@ -474,12 +490,15 @@
 - chapter: 47
   line: "不見而名"
   base: "名"
-  witnesses: { mawangdui-a: "明" }
+  witnesses: { mawangdui-a: "明", siku-wangbi: "名", heshanggong: "名" }
   meaning_bearing: true
-  our_call: mawangdui-a
+  our_call: base
   note: >
-    The homophone pair, both míng. We follow 明 (clear-seeing): it completes the
-    parallel of know / see-clearly / accomplish, each without its usual means.
+    The homophone pair, both míng. We followed 明 (clear-seeing) until
+    2026-09-24; Shalom's call restores the received 名 (to name), which both
+    commentaries print — Wang Bi: 雖不見而是非之理可得而名也. The triad holds
+    either way (know / name / accomplish, each without its usual means), and
+    明's predicate English "see clearly" collided with 見 "see" in one line.
   logged: notes/manuscript.md
 
 - chapter: 51
@@ -1215,7 +1234,7 @@
 - chapter: 15
   line: "孰能安以動之徐生"
   base: "安以動之"
-  witnesses: { heshanggong: "安以久動之" }
+  witnesses: { heshanggong: "安以久動之", siku-wangbi: "安以久動之", yongle-dadian: "安以動之" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1224,8 +1243,38 @@
     slowly attain long life." The 久 pulls the line toward 長生, the longevity
     reading. Without it the line is an exact mirror of 孰能濁以靜之徐清 above it -
     state, action applied to it, slow result - and that parallel is the pair's
-    whole point. We keep the base.
+    whole point. We keep the base. (Updated 2026-09-24: the Siku Wang Bi carries
+    久 as well, with the note 案永樂大典無久字 — "the Yongle Dadian has no 久." So
+    both commentaries have it and our base agrees with the Yongle alone.)
   logged: notes/manuscript.md
+
+- chapter: 15
+  line: "儼兮其若客"
+  base: "客"
+  witnesses: { siku-wangbi: "容", heshanggong: "客" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku Wang Bi prints 儼兮其若容 with the note 案容一本作客 — "for 容, one
+    edition reads 客." 容 (rong - countenance, bearing) against 客 (ke - guest).
+    With 客 the line is a simile about a person (dignified, like a guest); with
+    容 it is about a demeanour, and 容 already stands in the chapter at 強為之容.
+    Wang Bi's own gloss on the series, 凡此諸若皆言其容象不可得而形名也, speaks
+    of 容象 without settling which graph he read. Recorded when the ten missing
+    Wang Bi chapters were recovered; the base is kept provisionally — WORKLIST R3.
+  logged: notes/manuscript.md
+
+- chapter: 78
+  line: "受國之不祥，是謂天下王"
+  base: "是謂"
+  witnesses: { siku-wangbi: "是為" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    The Siku Wang Bi prints 是為天下王 (this IS the ruler of the world) against our
+    是謂 (this is CALLED), in the second half of a pair whose first half both
+    print as 是謂社稷主. Our reading keeps the pair parallel.
+  logged: false
 
 - chapter: 29
   line: "或挫或隳"
@@ -1272,17 +1321,20 @@
   base: "失道而後德"
   witnesses: { hanfeizi: "失道而後失德" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: hanfeizi
   note: >
     The oldest witness prints 失 twice per clause where our base prints it
-    once, five clauses running. Our base is a DESCENT — lose the Tao, and then
+    once, four clauses running. Our base is a DESCENT — lose the Tao, and then
     there is 德; lose 德, and then there is 仁 — each rung appearing as the one
     above it goes. 韓非's is a CASCADE: lose the Tao and then lose 德, lose 德
     and then lose 仁. Nothing appears; everything is successively forfeited.
     The chapter was rebuilt in Pass D around 失 as its spine (WORKLIST T1-4),
     and our English reads "So when the Tao is lost, then integrity." Which
     text we follow decides whether 仁 and 義 are what is left after a loss or
-    two more things lost. Undecided pending Shalom.
+    two more things lost. DECIDED 2026-09-24, Shalom's call: we follow 韓非 and
+    depart from the base. His 解老 argues the chain outright — 德者道之功, 仁者德之光,
+    義者仁之事, 禮者義之文 — each rung made from the one above, so it cannot
+    outlast it. English: "When the Tao is lost, then integrity is lost."
   logged: notes/manuscript.md
 
 - chapter: 64
