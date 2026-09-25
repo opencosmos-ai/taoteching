@@ -490,12 +490,15 @@
 - chapter: 47
   line: "不見而名"
   base: "名"
-  witnesses: { mawangdui-a: "明" }
+  witnesses: { mawangdui-a: "明", siku-wangbi: "名", heshanggong: "名" }
   meaning_bearing: true
-  our_call: mawangdui-a
+  our_call: base
   note: >
-    The homophone pair, both míng. We follow 明 (clear-seeing): it completes the
-    parallel of know / see-clearly / accomplish, each without its usual means.
+    The homophone pair, both míng. We followed 明 (clear-seeing) until
+    2026-09-24; Shalom's call restores the received 名 (to name), which both
+    commentaries print — Wang Bi: 雖不見而是非之理可得而名也. The triad holds
+    either way (know / name / accomplish, each without its usual means), and
+    明's predicate English "see clearly" collided with 見 "see" in one line.
   logged: notes/manuscript.md
 
 - chapter: 51

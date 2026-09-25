@@ -2551,11 +2551,11 @@
    "ourRender": null,
    "locked": false,
    "triageTier": "Tier 3",
-   "centrality": 0.1129,
-   "occurrences": 23,
+   "centrality": 0.1194,
+   "occurrences": 24,
    "construction": "compound",
    "shuowenSection": "口",
-   "degree": 14,
+   "degree": 15,
    "x": 0.0,
    "y": 0.0
   },
@@ -7545,11 +7545,11 @@
    "ourRender": "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",
    "locked": true,
    "triageTier": "Tier 1",
-   "centrality": 0.0947,
-   "occurrences": 13,
+   "centrality": 0.0882,
+   "occurrences": 12,
    "construction": "compound",
    "shuowenSection": "朙",
-   "degree": 14,
+   "degree": 13,
    "x": 0.0,
    "y": 0.0
   },
@@ -13375,7 +13375,7 @@
    "ourRender": null,
    "locked": false,
    "triageTier": null,
-   "centrality": 0.0919,
+   "centrality": 0.093,
    "occurrences": 14,
    "construction": "unanalysed",
    "shuowenSection": "見",
@@ -35094,6 +35094,11 @@
    "type": "occurs_in"
   },
   {
+   "source": "char:名",
+   "target": "ch:47",
+   "type": "occurs_in"
+  },
+  {
    "source": "char:君",
    "target": "ch:26",
    "type": "occurs_in"
@@ -38716,11 +38721,6 @@
   {
    "source": "char:明",
    "target": "ch:41",
-   "type": "occurs_in"
-  },
-  {
-   "source": "char:明",
-   "target": "ch:47",
    "type": "occurs_in"
   },
   {

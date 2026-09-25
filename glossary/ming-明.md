@@ -77,7 +77,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **Never** "enlightened," "illuminated," "brilliant."
 
-*Why this stays prose in `render:` and is not a `flexions:` entry.* The variation here is **grammatical, not chapter-scoped** — 明 takes the predicate form wherever it predicates, which happens at 22, 24, 33 and 47, and would take it in a chapter nobody has written yet. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that; pinning a grammatical form to a chapter list would assert a condition the language does not have. See `CLAUDE.md` → *the frontmatter contract*.
+*Why this stays prose in `render:` and is not a `flexions:` entry.* The variation here is **grammatical, not chapter-scoped** — 明 takes the predicate form wherever it predicates, which happens at 22, 24 and 33 (47 left 明 for the received 名 on 2026-09-24), and would take it in a chapter nobody has written yet. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that; pinning a grammatical form to a chapter list would assert a condition the language does not have. See `CLAUDE.md` → *the frontmatter contract*.
 
 
 ### The tension, left open

@@ -706,7 +706,7 @@ was taken is the ancient text, which is free.*
 不闚牖，見天道。
 其出彌遠，其知彌少。
 是以聖人不行而知，
-不見而明，不為而成。
+不見而名，不為而成。
 
 ## Chapter 48
 

@@ -288,7 +288,7 @@ The received text gives **two** calamity-clauses: 禍莫大於不知足 (no *dis
 
 ### Ch 47 · 不見而名 / 不見而明 — the homophone fork
 
-Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
+Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." ~~We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here.~~ **Reversed 2026-09-24, Shalom's call: we keep the received 名**, which both our commentaries print. 王弼 (*Wáng Bì*): 雖不見而是非之理可得而名也, *"though not seeing, the principles of right and wrong can still be named."* The parallel holds with 名: *know / name / accomplish*. 明's predicate English, *see clearly*, had put *see* on two characters in one line, 明 and 見 (*jiàn* — to see). Now *"names without seeing."* See `chapters/047.md`. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
 
 ### Ch 52 · 是謂襲常 / 習常 — two characters, and our English had been following the one we do not print
 
