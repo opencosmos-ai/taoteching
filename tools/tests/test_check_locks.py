@@ -343,6 +343,25 @@ class RepeatedFormula(unittest.TestCase):
                            "Whatever grows strong will wither away.")
         self.assertTrue(any(f.severity == C.WARN for f in found))
 
+    def test_a_formula_sharing_its_line_is_not_a_mismatch(self):
+        # WORKLIST T5-2. Ch 29 packs 為者敗之，執者失之 onto one line and ch 64
+        # gives 為者敗之 its own; whole-line overlap called that 60% and warned.
+        # All seven of the rule's warnings on 2026-09-24 were this artifact.
+        found = self._pair("Those who handle it ruin it. Those who grasp it lose it.",
+                           "Those who handle it ruin it.")
+        self.assertFalse(any(f.severity == C.WARN for f in found))
+
+    def test_inflection_is_not_a_mismatch(self):
+        # ch 3 "By not prizing rare goods" against ch 64 "does not prize rare goods".
+        found = self._pair("By not prizing rare goods, the people do not become thieves.",
+                           "and does not prize rare goods,")
+        self.assertFalse(any(f.severity == C.WARN for f in found))
+
+    def test_a_divergent_rendering_inside_a_long_line_still_warns(self):
+        found = self._pair("When things reach their peak strength, they decay, and so on.",
+                           "Whatever grows strong will wither away.")
+        self.assertTrue(any(f.severity == C.WARN for f in found))
+
     def test_grammar_is_not_a_formula(self):
         # 是以聖人 ("therefore the sage") opens 17 chapters. It is syntax, not a
         # formula, and reporting it would bury the four real findings.

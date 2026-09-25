@@ -127,6 +127,21 @@ def _split_segments(text):
 
 # Dropped when guessing which two English lines render the same Chinese formula:
 # these carry no signal, and they are exactly what two unrelated lines share.
+def _stem(w):
+    """Enough stemming that "serve" meets "serves" and "prize" meets "prizing".
+
+    Applied to both sides of every comparison, so its crudeness cancels out:
+    it only has to map two forms of one word to the same string, not to a word.
+    """
+    if len(w) > 3 and w.endswith("s") and not w.endswith("ss"):
+        w = w[:-1]
+    for suffix in ("ing", "ed"):
+        if len(w) > len(suffix) + 2 and w.endswith(suffix):
+            w = w[:-len(suffix)]
+            break
+    return w[:-1] if len(w) > 3 and w.endswith("e") else w
+
+
 _STOPWORDS = {
     "the", "a", "an", "and", "or", "but", "of", "to", "in", "is", "it", "its",
     "this", "that", "they", "their", "them", "you", "your", "not", "without",
@@ -399,12 +414,26 @@ def rule_repeated_formula(chapters, verbose=False, **_):
         # leading \[zhang\] but not dominating \[zai\]" — which are apparatus,
         # not gloss, and never appear in the verse.
         text = re.sub(r"\\?\[[^\]]*\\?\]", " ", text)
-        return {w for w in re.findall(r"[a-z']+", text.lower()) if w not in _STOPWORDS}
+        return {_stem(w) for w in re.findall(r"[a-z']+", text.lower())
+                if w not in _STOPWORDS}
 
     def similarity(a, b):
+        """Containment, not overlap: how much of the SHORTER line the longer holds.
+
+        A formula often shares its verse line with the clause after it — ch 29
+        packs 為者敗之，執者失之 onto one line where ch 64 gives 為者敗之 a line of
+        its own — and whole-line overlap scored that as a 60% mismatch between
+        two identical renderings. All seven of this rule's warnings on
+        2026-09-24 were that artifact (WORKLIST T5-2). Asking whether one line
+        is inside the other still needs no alignment, which three earlier
+        attempts showed cannot be had. A one-word line falls back to overlap,
+        since a single word is inside almost anything.
+        """
         wa, wb = words(a), words(b)
         if not (wa | wb):
             return 1.0
+        if min(len(wa), len(wb)) >= 2:
+            return len(wa & wb) / min(len(wa), len(wb))
         return len(wa & wb) / len(wa | wb)
 
     def best_pair(a, b):

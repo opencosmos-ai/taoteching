@@ -71,4 +71,4 @@ The way out is to decline the noun and let 虛 be what it is in four lines out o
 
 **沖 (*chōng*) may not be an emptiness word at all.** 說文 gives it as 涌搖也。从水、中 — *"surging and shaking. From 水 (shuǐ — water) and 中 (zhōng — middle),"* read like 動 (*dòng* — to move). Its empty sense at chapter 4's 道沖 depends on reading it as 盅 (*zhōng* — an empty vessel), a textual judgment `sources/variants.yaml` has not recorded either way. Water that surges and a vessel that is empty are not the same picture.
 
-**寥 (*liáo* — vast, unpeopled)** at chapter 25 is a third word in the same field, and it is not among the 說文's 711.
+**寥 (*liáo* — vast, unpeopled)** at chapter 25 is a third word in the same field, and 說文 has no entry for it under any graph the importer can verify.

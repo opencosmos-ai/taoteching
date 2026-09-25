@@ -218,6 +218,17 @@ def parse(src, path):
                     blocks[num] = "\n".join(cur)
                 num, cur = cn2int(m.group(1)), []
                 continue
+            # Ten headings are not on a line of their own: the transcription
+            # runs them onto the end of the previous chapter's last comment —
+            # …相濡之徳生也十九章{{SK notes|…}}. Matching only line-initial
+            # headings merged each of those chapters into the one before, and
+            # the ten were reported as "unproofread" for two years.
+            glued = _glued_heading(line, num)
+            if glued:
+                cur.append(glued[0])
+                blocks[num] = "\n".join(cur)
+                num, cur = glued[1], []
+                continue
             if num and line.startswith("　　"):
                 cur.append(line)
         if num:
@@ -269,6 +280,29 @@ def parse(src, path):
 
 
 TITLES = {}
+
+
+def _glued_heading(line, num):
+    """(text before the heading, chapter number) if `line` ends in chapter num+1's heading.
+
+    Only the NEXT chapter's number is accepted. The comments themselves say 下章
+    ("the next chapter") and 上章 mid-line, and a trailing run of numerals can
+    belong to the comment — so the number is read right-to-left, one to three
+    characters, and must be exactly num + 1 to count.
+    """
+    if num is None or not line.startswith("　　"):
+        return None
+    m = re.search(r"章(?:{{SK notes\|[^}]*}})?\s*$", line)
+    if not m:
+        return None
+    head = line[:m.start()]
+    for k in (1, 2, 3):
+        digits = head[-k:]
+        if len(digits) < k or not all(c in "一二三四五六七八九十" for c in digits):
+            break
+        if cn2int(digits) == num + 1:
+            return head[:-k], num + 1
+    return None
 
 
 def _parse_essays(src, path):
