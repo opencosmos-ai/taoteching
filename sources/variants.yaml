@@ -1318,17 +1318,20 @@
   base: "失道而後德"
   witnesses: { hanfeizi: "失道而後失德" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: hanfeizi
   note: >
     The oldest witness prints 失 twice per clause where our base prints it
-    once, five clauses running. Our base is a DESCENT — lose the Tao, and then
+    once, four clauses running. Our base is a DESCENT — lose the Tao, and then
     there is 德; lose 德, and then there is 仁 — each rung appearing as the one
     above it goes. 韓非's is a CASCADE: lose the Tao and then lose 德, lose 德
     and then lose 仁. Nothing appears; everything is successively forfeited.
     The chapter was rebuilt in Pass D around 失 as its spine (WORKLIST T1-4),
     and our English reads "So when the Tao is lost, then integrity." Which
     text we follow decides whether 仁 and 義 are what is left after a loss or
-    two more things lost. Undecided pending Shalom.
+    two more things lost. DECIDED 2026-09-24, Shalom's call: we follow 韓非 and
+    depart from the base. His 解老 argues the chain outright — 德者道之功, 仁者德之光,
+    義者仁之事, 禮者義之文 — each rung made from the one above, so it cannot
+    outlast it. English: "When the Tao is lost, then integrity is lost."
   logged: notes/manuscript.md
 
 - chapter: 64

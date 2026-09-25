@@ -195,8 +195,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 14,14,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,This is called the elusive.
 14,18,執,Zhí,執,grasp,yes,0.3,proportional,"Grasp the ancient Tao, and steer what is present now."
 14,18,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Grasp the ancient Tao, and steer what is present now."
-14,19,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Know the primordial source,"
-14,21,道,dào,道,the Tao (left untranslated),NOT FOUND,0.2,proportional-fill,The thread of the Tao.
+14,19,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"If you can know the ancient beginning,"
+14,21,道,dào,道,the Tao (left untranslated),NOT FOUND,0.2,proportional-fill,this is called the thread of the Tao.
 15,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,The ancients who were masterful in service
 15,1,士,shì,士,in service,yes,1.0,exact-count,The ancients who were masterful in service
 15,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,The ancients who were masterful in service
@@ -559,12 +559,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 38,7,為,wéi,為,do / handle / serve as,NOT FOUND,0.2,proportional-fill,"The highest duty acts, and has something it acts for."
 38,9,德,dé,德,integrity,NOT FOUND,0.3,proportional,so it bares its arms and drags them along.
 38,9,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,so it bares its arms and drags them along.
-38,10,仁,rén,仁,humaneness,NOT FOUND,0.3,proportional,"So when the Tao is lost, then integrity."
-38,10,德,dé,德,integrity,yes,0.3,proportional,"So when the Tao is lost, then integrity."
-38,11,仁,rén,仁,humaneness,yes,0.3,proportional,"When integrity is lost, then humaneness."
-38,13,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"When duty is lost, then ritual."
-38,13,忠,zhōng,信,loyalty,NOT FOUND,0.3,proportional,"When duty is lost, then ritual."
-38,14,亂,luàn,亂,disorder,NOT FOUND,0.2,proportional-fill,"When duty is lost, then ritual."
+38,10,仁,rén,仁,humaneness,NOT FOUND,0.3,proportional,"So when the Tao is lost, then integrity is lost."
+38,10,德,dé,德,integrity,yes,0.3,proportional,"So when the Tao is lost, then integrity is lost."
+38,11,仁,rén,仁,humaneness,yes,0.3,proportional,"When integrity is lost, then humaneness is lost."
+38,13,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"When duty is lost, then ritual is lost."
+38,13,忠,zhōng,信,loyalty,NOT FOUND,0.3,proportional,"When duty is lost, then ritual is lost."
+38,14,亂,luàn,亂,disorder,NOT FOUND,0.2,proportional-fill,"When duty is lost, then ritual is lost."
 38,15,道,dào,道,the Tao (left untranslated),NOT FOUND,0.3,proportional,"Ritual is the thinning of loyalty and trust, and the head of disorder."
 38,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"This is why the great person dwells in the thick, not the thin,"
 39,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,These received the one long ago:

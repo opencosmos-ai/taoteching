@@ -615,13 +615,13 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 ### Ch 38 · 失道而後德 / 失道而後失德 — a descent, or a cascade
 
-**Our base prints 失 once per clause; 韓非 prints it twice, five clauses running.** 故失道而後德，失德而後仁 against 失道而後失德，失德而後失仁.
+**Our base prints 失 once per clause; 韓非 prints it twice, four clauses running.** 故失道而後德，失德而後仁 against 失道而後失德，失德而後失仁.
 
 **The two texts make different claims.** Ours is a **descent**: lose the Tao, and then there is 德 (*dé* — integrity); lose 德, and then there is 仁 (*rén* — humaneness). Each rung *appears* as the one above it goes, which is why the chapter can be read as an account of how the lesser virtues arise. 韓非's is a **cascade**: lose the Tao and then lose 德, lose 德 and then lose 仁. Nothing appears. Everything is successively forfeited.
 
 **This chapter was rebuilt in Pass D around 失 as its spine** (`WORKLIST` T1-4), on the finding that 失 has five occurrences here — more than in any chapter in the book — and had been deleted from its hinge. The English reads *"So when the Tao is lost, then integrity."* **The oldest witness says the second half is a loss too.**
 
-**Undecided.** The decision changes five lines and reopens settled work, so it goes to Shalom rather than being taken here.
+~~**Undecided.**~~ **Decided 2026-09-24, Shalom's call: we follow 韓非 and depart from the base.** The ladder now reads *"When the Tao is lost, then integrity is lost,"* four clauses running. His own essay argues the chain just before he quotes it: 德者，道之功…仁者，德之光…義者，仁之事也…禮者，義之文也 (*"integrity is the achievement of the Tao; humaneness is the radiance of integrity; duty is the business of humaneness; ritual is the pattern of duty"*). Each rung is made from the one above, so it cannot outlast it. Full note in `chapters/038.md`.
 
 ### Ch 64 · 輔 / 恃 — the sage supports 自然, or leans on it
 
