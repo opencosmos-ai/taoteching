@@ -1,6 +1,6 @@
-# Open Tao Te Ching · 道德經
+# The Open Tao Te Ching · 道德經
 
-**Welcome to the Open Tao Te Ching, a new English translation from the classical Chinese, by Shalom Ormsby.**
+**Welcome to the Open Tao Te Ching, a new English translation made directly from the classical Chinese, by Shalom Ormsby.**
 
 **Everything here is public domain (CC0). It is a gift for you to use and build on as you wish. No permission needed, no attribution required.**
 
@@ -10,19 +10,17 @@
 
 ## What this is
 
-A from-the-source translation of the Tao Te Ching, built chapter by chapter from the original Chinese, decades of study and meditation, and AI collaboration — **never from other people's translations.** No copyrighted version was consulted at any stage. Where older public-domain translations were read at all, it was to understand the *range of meanings* a line has carried, never to borrow words.
+A dorect-from-source translation of the Tao Te Ching, crafted from the original Chinese, informed by decades of study and meditation, and supported by rigorous and constrained AI collaboration. This work respects copyright, and therefore never copies phrases of other translators, living or dead. Each chapter was worked out line-by-line with a singular intent: to make wisdom of Laozi accessible to modern readers through an honest, authentic, and fresh English translation that's free of the many persuasions (including Chinese dynastic, Christian missionary, and New Age) that have been overlaid upon his original words. 
 
 The work rests on three commitments:
 
-- **Fidelity and poetry, together.** The literal meaning is honored; the English is living verse, not a gloss.
-- **The feminine at the center.** The mother (母), the dark female (玄牝), the valley (谷), the yielding (柔) — Laozi's generative imagery kept warm and bodily, never abstracted into a sexless "Source."
-- **The naturalistic razor.** The overlays come off — theistic ("Heaven"), moralistic ("virtue"), and mechanistic alike — and the text's own images are restored: water, root, valley, uncarved wood, the newborn, the mother.
-
-Every consequential decision is documented. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
+1. **Fidelity and poetry, together.** The literal meaning is honored; the English is living verse, not a gloss.
+2. **Remove all biases** Drop male-centric renderings (e.g., referring to the sage as "he"). Restore the centrality of the feminine. Shed Judeo-Christian theological insertions (e.g., translating 天 as "Heaven"). Remove theistic and moralistic overlays to restore focus on the text's native images: water, root, valley, uncarved wood, the newborn, the mother.
+3. **Openness and transparency.** Every consequential decision is publicly documented, viewable, and open to comments. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
 
 ## How it works
 
-**This is a translation that behaves like a codebase.** Every settled decision about a Chinese word is written once — as an essay, with its evidence — and then enforced mechanically across all 81 chapters, so it cannot quietly come undone.
+**This is a translation that behaves like a codebase.** Every settled decision about a Chinese word is written once, as an essay, with its evidence, and then enforced mechanically across all 81 chapters, so it cannot quietly come undone.
 
 - **The glossary is both the ruling and the rule.** Each of the 35 entries argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
