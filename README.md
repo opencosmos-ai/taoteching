@@ -1,4 +1,4 @@
-# 道德經 · Tao Te Ching
+# Open Tao Te Ching · 道德經
 
 **Welcome to the Open Tao Te Ching, a new English translation from the classical Chinese, by Shalom Ormsby.**
 
