@@ -1,8 +1,8 @@
 # 道德經 · Tao Te Ching
 
-**A new English translation from the classical Chinese, by Shalom Ormsby.**
+**Welcome to the Open Tao Te Ching, a new English translation from the classical Chinese, by Shalom Ormsby.**
 
-**Everything here is public domain (CC0). It is a gift — take it, use it, build on it. No permission needed, no attribution required.**
+**Everything here is public domain (CC0). It is a gift for you to use and build on as you wish. No permission needed, no attribution required.**
 
 *First draft complete — all 81 chapters. The editing pass is the work now; see [`WORKLIST.md`](WORKLIST.md).*
 
