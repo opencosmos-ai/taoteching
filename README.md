@@ -14,9 +14,9 @@ A dorect-from-source translation of the Tao Te Ching, crafted from the original 
 
 The work rests on three commitments:
 
-1. **Fidelity and poetry, together.** The literal meaning is honored; the English is living verse, not a gloss.
-2. **Remove all biases** Drop male-centric renderings (e.g., referring to the sage as "he"). Restore the centrality of the feminine. Shed Judeo-Christian theological insertions (e.g., translating 天 as "Heaven"). Remove theistic and moralistic overlays to restore focus on the text's native images: water, root, valley, uncarved wood, the newborn, the mother.
-3. **Openness and transparency.** Every consequential decision is publicly documented, viewable, and open to comments. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
+1. **Openness and transparency.** Every consequential decision is publicly documented, viewable, and open to your comments. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
+2. **Remove biases** Drop male-centric renderings (e.g., referring to the sage as "he"). Restore the centrality of the feminine. Shed Judeo-Christian theological insertions (e.g., translating 天 as "Heaven"). Remove theistic and moralistic overlays to restore focus on the text's native images: water, root, valley, uncarved wood, the newborn, the mother.
+3. **Integrity and poetry, together.** The literal meaning is honored to its depth; the English is living and fluid verse. Wherever tension arises and tradeoffs are required between the two, openly flag it and provide context for investigation.
 
 ## How it works
 
