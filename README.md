@@ -1,8 +1,6 @@
 # The Open Tao Te Ching · 道德經
 
-**Welcome to the Open Tao Te Ching, a new English translation made directly from the classical Chinese, by Shalom Ormsby.**
-
-**Everything here is public domain (CC0). It is a gift for you to use and build on as you wish. No permission needed, no attribution required.**
+**A new English translation by Shalom Ormsby, refined in the open by its readers. Public domain (CC0): a gift to use and build on as you wish. No permission needed, no attribution required.**
 
 *First draft complete — all 81 chapters. The editing pass is the work now; see [`WORKLIST.md`](WORKLIST.md).*
 
@@ -10,13 +8,17 @@
 
 ## What this is
 
-A dorect-from-source translation of the Tao Te Ching, crafted from the original Chinese, informed by decades of study and meditation, and supported by rigorous and constrained AI collaboration. This work respects copyright, and therefore never copies phrases of other translators, living or dead. Each chapter was worked out line-by-line with a singular intent: to make wisdom of Laozi accessible to modern readers through an honest, authentic, and fresh English translation that's free of the many persuasions (including Chinese dynastic, Christian missionary, and New Age) that have been overlaid upon his original words. 
+A new English translation of the Tao Te Ching, made directly from the classical Chinese and given freely to the public domain. Because the Tao cannot be told or set in type, this translation stays open and fluid. It changes as our understanding deepens and as we remove centuries of cultural overlays.
+
+Each chapter was worked out line by line from the Chinese, the classical commentaries, and the character etymologies, never from earlier English translations, and no phrasing is borrowed from them. The aim is an honest, living English free of the overlays that dynastic, Christian missionary, and New Age readings have laid over the text.
+
+The work draws on decades of study and meditation, and on AI collaboration under tight constraints: the AI researched, cross-checked, and proposed alternatives; every final rendering is mine; and the method is public in [`process/method.md`](process/method.md).
 
 The work rests on three commitments:
 
-1. **Openness and transparency.** Every consequential decision is publicly documented, viewable, and open to your comments. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
-2. **Remove biases** Drop male-centric renderings (e.g., referring to the sage as "he"). Restore the centrality of the feminine. Shed Judeo-Christian theological insertions (e.g., translating 天 as "Heaven"). Remove theistic and moralistic overlays to restore focus on the text's native images: water, root, valley, uncarved wood, the newborn, the mother.
-3. **Integrity and poetry, together.** The literal meaning is honored to its depth; the English is living and fluid verse. Wherever tension arises and tradeoffs are required between the two, openly flag it and provide context for investigation.
+1. **Openness.** Every consequential decision is documented, viewable, and open to comment. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
+2. **Freedom from overlays.** The sage is not "he." 天 is "sky," not "Heaven." Theistic and moralistic overlays are set aside so the text's own images come forward: water, root, valley, uncarved wood, the newborn, the mother. The feminine is as central here as it is in Laozi's Chinese.
+3. **Integrity and poetry, together.** The literal meaning is honored to its depth, and the English is living verse. Where the two pull apart, the tension is flagged openly, with context for anyone who wants to look further.
 
 ## How it works
 
