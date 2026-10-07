@@ -30,7 +30,7 @@ The work rests on three commitments:
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
-None of this decides anything. It only makes sure that what was decided once, on evidence, is still true on page 340 — and that a reader can check any of it without taking a word on trust.
+None of this decides anything. It only makes sure that what was decided once, on evidence, applies throughout the text, and that a reader can check any of it without taking a word on trust.
 
 [`ARCHITECTURE.md`](ARCHITECTURE.md) maps the whole system: what holds authority, what is generated, and what each gate covers.
 
@@ -156,7 +156,7 @@ wanted anyway. Several settled readings in this book exist because someone said
 "that word feels wrong" and turned out to be right.
 
 Longer conversation about *why this text still matters* happens at
-[shalomormsby.substack.com](https://shalomormsby.substack.com/).
+[[shalomormsby.substack.com/s/open-tao-te-ching](https://shalomormsby.substack.com/s/open-tao-te-ching)](https://shalomormsby.substack.com/s/open-tao-te-ching).
 
 ## License
 
