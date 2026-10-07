@@ -156,7 +156,7 @@ wanted anyway. Several settled readings in this book exist because someone said
 "that word feels wrong" and turned out to be right.
 
 Longer conversation about *why this text still matters* happens at
-[shalomormsby.substack.com/s/open-tao-te-ching](https://shalomormsby.substack.com/s/open-tao-te-ching)].
+[shalomormsby.substack.com/s/open-tao-te-ching](https://shalomormsby.substack.com/s/open-tao-te-ching).
 
 ## License
 
