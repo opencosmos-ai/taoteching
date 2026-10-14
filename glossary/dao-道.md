@@ -1,7 +1,7 @@
 ---
 term: "道"
 pinyin: "dào"
-render: "the Tao (left untranslated) — *made into a way* as the verb in the book's first line (ch 1)"
+render: "the Tao (left untranslated) as the name — *way* where it is a common noun (*the way of nature*) and as the verb in the book's first line (*made into a way*)"
 forbidden: ["the Way", "the Path"]
 chapters: [1, 4, 8, 9, 14, 15, 16, 18, 21, 23, 24, 25, 30, 31, 32, 34, 35, 37, 38, 40, 41, 42, 46, 47, 48, 51, 53, 55, 59, 60, 62, 65, 67, 73, 77, 79, 81]
 status: locked
@@ -57,6 +57,8 @@ Each English candidate lights up one facet and darkens the rest:
 ### Why we leave it untranslated
 
 In the end we do the thing the text itself models: we decline to pin it. Chapter 25 *styles* it 道 and admits the name is forced; a transliteration — **"the Tao"** — is simply the honest continuation of that gesture, a name that visibly refuses to over-define. "Tao" has also become an English word in its own right, carrying less freight than "Way" or "God," and it keeps "Way" humming faintly underneath. (We keep the older spelling *Tao* rather than Pinyin *Dao* only for recognition — it is the form the English-reading world already knows — while pronouncing it, correctly, *Dào*.)
+
+**What stays untranslated is the name, not the word.** Where 道 is somebody's way — a common noun with an owner — it is rendered *way*: 天之道 and 天道 (*tiān zhī dào*, *tiān dào* — the way of heaven) are *the way of nature* at ch 9, 47, 73, 77 ×2, 79 and 81; 人之道 (*rén zhī dào*) is *the way of people* at ch 77; 聖人之道 (*shèng rén zhī dào*) is *the way of the sage* at ch 81. And the verb in ch 1's first line is *made into a way*. Everywhere the book means **the** 道, it is *the Tao*. The forbidden list bans *the Way* — the name translated — and not *way* the common noun.
 
 ### 道 and 德 — the two halves of the name
 
