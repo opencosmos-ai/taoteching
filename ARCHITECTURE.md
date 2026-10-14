@@ -140,7 +140,8 @@ This is the operational heart of the system. A question about one character beco
 | `process/principles/INDEX.md` · `process/principles.yaml` | `build_principles.py` | every principle's frontmatter | yes — **CI fails if stale, and if an `evidence:` anchor does not resolve** |
 | `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | yes |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
-| `data/explorer.html` | `build_explorer.py` | the sqlite | yes — self-contained, no network |
+| `data/explorer.html` | `build_explorer.py` | the sqlite | no — gitignored; a local, self-contained preview. The public atlas is built from `atlas-export.json` |
+| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim | yes — **CI fails if stale**. The contract the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas) reads; nothing else in this repo is read by it |
 | `data/constellation-*.json` | `build_graph.py` | the sqlite | yes — **CI fails if stale** |
 | `sources/commentaries/*/` | `import_commentary.py` | cached wikitext (gitignored) | yes — re-runnable to byte-identical output |
 | `sources/shuowen/entries.md` | `import_shuowen.py` | cached wikitext | yes |

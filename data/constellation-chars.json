@@ -17067,14 +17067,14 @@
   {
    "id": "part:丂",
    "tier": "synthesis",
-   "label": "丂  · sound only — carries no meaning",
+   "label": "丂 kǎo · a breath pushing out past a barrier",
    "tradition": "taoism",
    "domain": "wisdom",
    "category": "component",
    "han": "丂",
-   "pinyin": null,
-   "gloss": null,
-   "glossed": false,
+   "pinyin": "kǎo",
+   "gloss": "a breath pushing out past a barrier",
+   "glossed": true,
    "degree": 4,
    "x": 0.0,
    "y": 0.0
