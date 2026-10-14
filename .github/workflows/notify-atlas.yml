@@ -1,0 +1,33 @@
+name: notify-atlas
+
+# The Character Atlas (opencosmos-ai/chinese-atlas) is built from this repo's
+# data/atlas-export.json. When that file changes on main, tell the atlas to
+# rebuild, so a merged glossary edit is public within minutes.
+#
+# Needs a repository secret ATLAS_DISPATCH_TOKEN: a fine-grained token with
+# Contents: read and write on opencosmos-ai/chinese-atlas. Without it this
+# step is skipped, and the atlas's hourly rebuild picks the change up instead.
+
+on:
+  push:
+    branches: [main]
+    paths: [data/atlas-export.json]
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: tell the atlas to rebuild
+        env:
+          TOKEN: ${{ secrets.ATLAS_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::notice::ATLAS_DISPATCH_TOKEN not set; the atlas's hourly rebuild will pick this up."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/opencosmos-ai/chinese-atlas/dispatches \
+            -d '{"event_type":"text-updated","client_payload":{"text":"tao-te-ching","sha":"${{ github.sha }}"}}'
