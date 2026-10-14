@@ -1457,3 +1457,19 @@
     their own]"; ours "has no fixed heart." The base keeps the 心 entry's
     reading, and the silk's version is the stronger claim.
   logged: notes/manuscript.md
+
+- chapter: 32
+  line: "知止可以不殆"
+  base: "可以"
+  witnesses: { mawangdui-a: "所以", heshanggong: "所以", siku-wangbi: "可以 〔案河上公注本及各本俱作所〕" }
+  meaning_bearing: true
+  our_call: mawangdui-a
+  note: >
+    可以 makes stopping an opening ("you can come to no danger"); 所以 makes
+    it the means ("knowing when to stop is how you come to no danger"). Our
+    base is alone: the Siku editors report every edition reads 所, Wang Bi's
+    own comment ends 故知止所以不殆也, Heshang Gong prints 所以, and silk A
+    reads 所以不. We follow 所以, as at ch 21, and the English already says
+    it; it now matches ch 44's 知止不殆.
+  logged: notes/manuscript.md
+

@@ -41,6 +41,10 @@ This is the grammar the English must keep, and the first line depends on it.
 
 **可以 + verb: the subject acts.** 可以 is 可 with 以 (*yǐ* — by means of), *"has the means to."* 可以長久 (44, 59) — *"you **can** last long."* 可以有國 (59) — *"you **can** have the state."* 美言**可以**市尊 (62) — *"fine words **can** buy honor."*
 
+**With an intransitive verb, 可 is simply *can*.** 大道汎兮，其可左右 (34) — *"the great Tao overflows. It can go left or right."* 左右 (*zuǒ yòu*) is used as a verb with nothing to act on, so there is no one to receive the action and the subject just *can*.
+
+**One 可以 in our base is a copying error.** 知止可以不殆 (32) stands alone against every other witness, which read 所以 (*suǒ yǐ* — that by which): knowing when to stop *is how* you come to no danger. We follow 所以 (`notes/manuscript.md`, Ch 32), so the line carries no *can*.
+
 The line can be checked by swapping the forms: 道可以道 would mean *the Tao can make a way*. The book does not say that.
 
 | Construction | Voice | English | Example |
@@ -105,10 +109,6 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 
 ### Left open
 
-**Chapter 34 drops 可.** 大道汎兮，其可左右 is *"the great Tao overflows; it can go left or right"*: the Tao *can* go either way, nothing in the world prevents it. *"The great Tao overflows to the left and to the right"* states as fact what the Chinese gives as possibility.
-
 **Chapter 35's *never* is softer than the Chinese.** 用之不可既 is *"use it, and it cannot be used up."* *"It never runs out"* reports a record, where 不可 says the world doesn't allow it. The *never* is declared as a flexion because the line sounds right, but it is a small loss.
-
-**Chapter 32 drops 可以.** 知止可以不殆 is *"knowing when to stop, you can come to no danger"*: stopping opens the way to safety. *"Knowing when to stop, you come to no danger"* makes it a guarantee. Chapter 44 has the same thought without 可以 (知止不殆), so the two lines now read alike in English when the Chinese doesn't.
 
 **English *can* serves both characters.** The voice usually keeps them apart (*can be* against *can*), but where 可以 makes the subject act, 可以 and 能 land on the same English. 可以有國 (59), *"you can have the state,"* and 能守之 (32), *"able to hold to this,"* are different claims, an opening and a capacity. English barely shows it.

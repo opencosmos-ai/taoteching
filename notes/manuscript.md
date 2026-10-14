@@ -654,3 +654,12 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 **Our call: the base, throughout.** We translate the 常 we print. Nothing in the English changes, because the 常 entry already renders the manner-word *ever / always* and the name-word *the ever-present*, which covers both characters with one root. What the fact settles is **which word stands in line 1 of the book**: the manner-word, *ever*, and not the name of chapter 16.
 
 **Two lines where the silk differs in more than the graph**, both recorded in `sources/variants.yaml`. **Ch 49**: 聖人恒無心 against our 聖人無常心. The silk says the sage *is ever without a heart [of their own]*, ours says the sage *has no fixed heart*. That is one shallow 常 the silk does not have at all. **Ch 52**: silk A reads 是謂**襲**常, the base text's graph, against both commentaries' 習. That is excavated support for the call already made on that line.
+
+### Ch 32 · 知止可以不殆 / 所以不殆 — our base is alone, and we follow the witnesses
+
+**Found 2026-10-14, writing `glossary/ke-可.md`.** Our base prints 知止**可以**不殆. Every other witness we can check prints **所以**: the Siku editors' own note under the line, 〔案河上公注本及各本俱作所〕 (*"Heshang Gong's edition and all editions read 所"*); 王弼's comment on the same line, which closes 故知止**所以**不殆也; 河上公's lemma; and Mawangdui A, whose surviving characters read 所以不.
+
+**The fork is meaning-bearing.** 可以 (*kě yǐ* — can) makes knowing when to stop an **opening**: you *can* come to no danger. 所以 (*suǒ yǐ* — that by which) makes it the **means**: it *is how* you come to no danger.
+
+**Our call: 所以, the same shape and the same reasoning as ch 21's 然 / 狀.** The English, *"Knowing when to stop, you come to no danger,"* already renders it, and now reads as ch 44's 知止不殆 does. Before this was logged, the line looked like a dropped 可.
+
