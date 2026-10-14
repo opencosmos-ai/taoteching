@@ -28,7 +28,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 德,dé,integrity,integrity,德,exact,彳,phonetic-compound,,彳 (chì = a step taken; going),㥁 (? = not yet glossed),44,locked,0.1976,升也。从彳㥁聲。,
 所,suǒ,,,所,exact,斤,phonetic-compound,,斤 (jīn = an axe),戶 (hù = doors),26,,0.1875,伐木聲也。从斤戶聲。《詩》曰：“伐木所所。”,
 能,néng,can,,能,exact,能,phonetic-compound,,肉 (ròu = flesh),㠯 (? = not yet glossed),33,,0.1872,熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；而彊壯，稱能傑也。凡能之屬皆从能。,
-常,cháng,the ever-present / the abiding,the ever-present / the abiding,常,exact,巾,phonetic-compound,,巾 (jīn = a cloth),尚 (shàng = still),30,locked,0.1839,下帬也。从巾尚聲。,
+常,cháng,the ever-present / ever / always,the ever-present / ever / always,常,exact,巾,phonetic-compound,,巾 (jīn = a cloth),尚 (shàng = still),30,locked,0.1839,下帬也。从巾尚聲。,"A lower skirt. From 巾 (jīn — cloth), with 尚 (shàng) for sound."
 自,zì,,,自,exact,自,pictograph,,,,33,Tier 1,0.1837,鼻也。象鼻形。凡自之屬皆从自。,
 民,mín,people,,民,exact,民,compound,,古 (gǔ = ancient) + 文 (wén = culture/adornment) + 之 (zhī = it) + 象 (xiàng = ),,32,,0.1662,眾萌也。从古文之象。凡民之屬皆从民。,
 萬,wàn,countless,countless,萬,exact,禸,compound,,厹 (? = not yet glossed),,21,Tier 2,0.1638,蟲也。从厹，象形。,

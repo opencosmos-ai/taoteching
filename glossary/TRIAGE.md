@@ -25,6 +25,8 @@
 ## Tier 0 — Do not harvest
 
 **Superseded — the repo has better versions.** 道 · 德 · 生 · 母 · 常 · 玄 · 妙 · 我/吾
+
+~~**常** (Cháng)~~ — ✅ **REWRITTEN 2026-10-14** → `chang-常.md`, to the entry standard. Found: 說文 says **a lower skirt** (the *always* sense is a phonetic loan); the Mawangdui silks write **two words**, 恒 (*héng*, a crescent moon between two lines) as the manner and 常 only as the name of ch 16/52/55; 韓非 gives 常 a birth with sky and earth, so *eternal* overclaims. *Ever-present* kept for ch 1; *ever / always* split by grammar; `shuowen:` frontmatter field introduced, and the explorer now shows its English.
 *(Check the old 吾 entry, 41 lines, for any detail the pairing entry didn't absorb; likewise 吾 vs 身.)*
 
 **Merged.** 食母 (ch 20) — already covered inside the 母 entry.

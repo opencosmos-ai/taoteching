@@ -46,11 +46,14 @@
 
 - term: "常"
   pinyin: "cháng"
-  render: "the ever-present / the abiding"
-  forbidden: ["eternal", "everlasting", "the eternal"]
+  render: "the ever-present / ever / always"
+  forbidden: ["eternal", "everlasting", "eternity", "timeless"]
   chapters: [1, 3, 16, 27, 28, 32, 34, 37, 46, 48, 49, 51, 52, 55, 61, 64, 65, 74, 79]
   status: locked
   entry: glossary/chang-常.md
+  flexions:
+    - { english: "fixed", chapters: [49], why: "the shallow sense: 無常心 is a heart with no set habit, not a heart without the ever-present" }
+    - { english: "stays", chapters: [79], why: "常與 folds the always into the verb: the way of nature stays with the masterful" }
 
 - term: "生"
   pinyin: "shēng"

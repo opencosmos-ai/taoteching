@@ -646,3 +646,11 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 ### An incidental finding: our base is inconsistent on the Han name-taboo
 
 **Ch 54 reads 修之於邦; ch 36 reads 國.** 邦 (*bāng* — state) was tabooed under Liu Bang (劉邦, r. 202–195 BCE) and replaced with 國 (*guó*) in Han-era copying — which is what dates our base to Han hands. Ch 54 appears to have escaped a substitution ch 36 did not. Recorded as a fact about the recension; nothing in the English turns on it, since both render *state*. *(2026-09-24: the recovered Siku 王弼 (*Wáng Bì*) prints 修之於**國** at ch 54, so the text our base is named after made the taboo substitution here and our base did not.)*
+
+### Ch 1 · Ch 49 · 恒 / 常 — a second Han name-taboo, and this one merged two words
+
+**Found 2026-10-14, writing `glossary/chang-常.md`.** Mawangdui A writes **恒** (*héng* — ever) wherever the received 常 (*cháng*) is a manner or a modifier: 非恒道 and 非恒名 and 恒無欲 / 恒有欲 (1), 恒使民 (3), 恒善救人 (27), 恒德 ×3 (28), 道恒無名 (32), 恒足 (46), 恒無心 (49), 牝恒以靜勝牡 (61), 恒知稽式 (65), 若民恒… (74), 恒於其成事而敗之 (64, where Guodian C also writes 恆), 恒與善人 (79). It writes **常** only where the word is a name: 復命常也，知常明也，不知常…知常容 (16), 和曰常 (55), 是謂襲常 (52). The silks do not avoid 恒, so the split is the text's own, not a copyist's. The received text's single 常 is the usual result of the taboo on 劉恒 (*Liú Héng*, Emperor Wen, r. 180–157 BCE), the same mechanism as 邦 → 國 above.
+
+**Our call: the base, throughout.** We translate the 常 we print. Nothing in the English changes, because the 常 entry already renders the manner-word *ever / always* and the name-word *the ever-present*, which covers both characters with one root. What the fact settles is **which word stands in line 1 of the book**: the manner-word, *ever*, and not the name of chapter 16.
+
+**Two lines where the silk differs in more than the graph**, both recorded in `sources/variants.yaml`. **Ch 49**: 聖人恒無心 against our 聖人無常心. The silk says the sage *is ever without a heart [of their own]*, ours says the sage *has no fixed heart*. That is one shallow 常 the silk does not have at all. **Ch 52**: silk A reads 是謂**襲**常, the base text's graph, against both commentaries' 習. That is excavated support for the call already made on that line.
