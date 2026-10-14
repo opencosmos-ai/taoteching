@@ -14,7 +14,7 @@ python3 tools/build_index.py
 | **為** | *wéi* | do / handle / serve as | "execute", "function as" | 48 | **locked** | [`wei-為.md`](wei-為.md) |
 | **天** | *tiān* | sky (as a tier) · nature / the natural (as an agent) | "Heaven", "Providence", "the Almighty", "the Cosmos" | 46 | **locked** | [`tian-天.md`](tian-天.md) |
 | **無 & 有** | *wú / yǒu* | absence / presence | "Being", "Non-Being", "existence", "the Void", "nothingness" | 40 | **locked** | [`wu-you-無有.md`](wu-you-無有.md) |
-| **道** | *dào* | the Tao (left untranslated) as the name — *way* where it is a common noun (*the way of nature*) and as the verb in the book's first line (*made into a way*) | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
+| **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **生** | *shēng* | give birth to / bear / bring forth | "generate", "produce", "manufacture", "create" | 19 | **locked** | [`sheng-生.md`](sheng-生.md) |

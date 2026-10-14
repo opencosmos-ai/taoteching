@@ -1,69 +1,112 @@
 ---
 term: "道"
 pinyin: "dào"
-render: "the Tao (left untranslated) as the name — *way* where it is a common noun (*the way of nature*) and as the verb in the book's first line (*made into a way*)"
+render: "the Tao / way"
 forbidden: ["the Way", "the Path"]
+shuowen: "The road that is walked. From 辵 (chuò — walking along a road) and 𩠐 (shǒu — a head). A road that runs straight through is called 道."
 chapters: [1, 4, 8, 9, 14, 15, 16, 18, 21, 23, 24, 25, 30, 31, 32, 34, 35, 37, 38, 40, 41, 42, 46, 47, 48, 51, 53, 55, 59, 60, 62, 65, 67, 73, 77, 79, 81]
 status: locked
 pairing: false
 ---
 ## 道 (Dào) — The Tao
 
-*Pronounced "dow" — rhyming with "now" — on a falling tone, like a word set gently down.*
+*Say "dow," rhyming with "now," falling, like a word set down. Seventy-five appearances across thirty-seven chapters: the book's first word, and half of its name.*
 
-The first word. The root of everything that follows. And — this is where we have to begin — the one word the book opens by telling us **not to trust**. *道可道，非常道*: "The 道 that can be spoken is not the constant 道." Before Laozi has said anything else, he has warned us that the thing his book is named for cannot be caught in the net of any name — including the name he is about to spend five thousand characters using. Every translator inherits that difficulty on the first line. To *define* 道 is already to do the thing Chapter 1 cautions against. So this entry is not a definition. It is a finger pointing at the moon, held as loosely as we can manage.
+**Locked: 道 → "the Tao"** (the name, left untranslated) **/ "way"** (a common noun with an owner: *the way of nature*, *the way of people*; and the verb in the book's first line, *made into a way*). *(Never "the Way," never "the Path.")*
 
-### The character, read slowly
+道 is a road. Before it was anything else it was the ordinary word for a way through the country that people walk, and the word never lost that meaning: Laozi himself uses it for a road you could stand on (53). From the road grew the walking of it, the leading of others along it, the telling of it, and the right way to do a thing. Laozi takes this common word and points it at what everything goes by, then tells us in his first line that no way you could lay out is that.
 
-道 is built of two parts, and the picture they make is not abstract at all — it is a body moving through country:
+### The graph: a head on the road
 
-- **辶 (chuò)** — "to walk, to go." A compression of 辵, itself **彳 (a crossroad, a step) + 止 (a foot)**. Motion. A journey underway.
-- **首 (shǒu)** — "head." A pictograph: an **eye (目)** with hair above it. Not the brain — the ancient Chinese seated thought in the heart (心) — but the *face*, and above all the eye: the organ of *facing forward*, of orientation.
+**Our vendored 說文解字 (*Shuōwén Jiězì*, c. 100 CE): 所行道也。从辵从𩠐。一達謂之道** — *"the road that is walked. From 辵 (chuò) and 𩠐 (shǒu). A road that runs straight through is called 道."*
 
-Put them together and the oldest, most literal meaning is simply a **road** — a physical way through the land, the kind you walk. But notice *which* road the picture draws: a road taken with the *head leading*, the eye going first, choosing the line. Not a road as a thing lying on the ground, but a road as a *heading* — a direction faced and followed. English keeps the same fossil in the word "heading": *what is our heading?* 道 is less a place than a **bearing**.
+That last clause is a surveyor's definition. The 爾雅 (*Ěryǎ*), the oldest Chinese word-list, grades roads by how many ways they branch: 一達謂之道路, *"one that goes straight through is called a 道 road,"* while a road that forks has another name, and a crossroads another. So 道 is not any road. It is the road that does not branch.
 
-(There is a darker, contested layer worth knowing and not overstating: some philologists — Peter Boodberg among them — read the earliest graph as a head *carried* to a crossroads, a severed head used to ritually "clear" a new path into unknown country. The reading is disputed, and we lean on it lightly; but even as a ghost it leaves a true residue — 首 is *that which goes first, to break open the unknown*.)
+**辵 (*chuò*) — walking along a road.** Usually written 辶 at the left and bottom of a character. It is two pictures stacked:
 
-### The word that also means "to speak"
+- **彳 (*chì*)** — the left half of **行 (*xíng*)**, whose oldest graph is **a crossroads**, two streets meeting, seen from above. 說文 on 行: 人之步趨也。从彳从亍 — *"a person's stepping and hurrying."* 彳 alone is a step, a stretch of street.
+- **止 (*zhǐ*)** — **a foot**, drawn with its toes. In early graphs a foot means going.
 
-Here is the pun that makes Chapter 1 turn, and that nearly all English loses. 道 is not only a noun. As a verb it means **"to lead, to guide"** (it is the seed of 導, dǎo, "to conduct") — and it also means **"to say, to speak."** So 道可道 is a play: *the way that can be "wayed" — walked, guided, spoken — is not the constant way.* The single character for the ultimate reality is also the everyday character for *talking about it*. Laozi's opening move strikes the two senses against each other: the instant you speak the 道, you are holding the word, not the thing. The book is named for the very act — speaking, naming — that it warns will lose what it reaches for. No English word carries both "the Way" and "to say" at once; so when we translate, we quietly break a pun that is doing real philosophical work. Worth remembering that we've done it.
+So 辵 is a foot on a street. 說文 glosses it 乍行乍止, *"now going, now stopping"*: the stop-and-start of someone actually walking. *(辵's own 說文 entry comes from outside this repository's selection, which holds only the characters the Laozi uses.)*
 
-**What this translation does with the verb (Shalom's call, 2026-10-13).** Ch 1 renders the second 道 by what the name means: ***"The Tao that can be made into a way is not the ever-present Tao."*** The lock keeps *Tao* as a name, so it cannot be repeated as a verb; *way* is the next-closest repetition, and it puts the name and its meaning in the same sentence, so the first line of the book teaches that *Tao* means *way*. The pun is not wholly broken: the road half survives, and so does the turn of the word on itself. **The speech half is what we break**, and we break it knowingly. Full argument, and the renderings refused, in `chapters/001.md` → Notes.
+**𩠐 (*shǒu*) — a head, drawn with its hair.** This is the old form of **首 (*shǒu* — head)**. 說文 says of it: 古文𦣻也。巛象髮 — *"the ancient form of the head-graph; the 巛 on top is the hair."* Below the hair is a face, and in the oldest forms the eye is the clearest thing in it.
 
-### What 道 becomes in Laozi's hands
+**Two jobs at once.** Xu Shen counts the head as part of the meaning. Modern reconstruction hears it as the sound as well: Old Chinese 道 is roughly *\*l'uːʔ* and 首 roughly *\*hljuʔ*, close enough that 首 almost certainly helped to spell 道. Both can be true. Many characters chose a sound-part that also suited the sense.
 
-Watch how he actually uses it, and a shape appears that is neither god nor thing:
+**What the head is doing there.** Three readings, from safest to boldest:
 
-- *有物混成，先天地生… 字之曰道* (Ch 25) — "something formed in the undifferentiated, born before heaven and earth… I *style* it 'Tao'" — and he adds, 強為之名, "forcing a name on it." He tells us to our face that "Tao" is a stopgap.
-- *道法自然* (Ch 25) — the Tao takes its law from nothing outside itself; it *models itself on being what it is*. Nothing stands above it to command it.
-- *象帝之先* (Ch 4) — it seems to come *before God* (帝, the high ancestor-deity). Not a creator — the condition prior to creators.
-- *反者道之動；弱者道之用* (Ch 40) — its *movement* is return; its *use* is yielding. Note the words: 動 (motion), 用 (function). 道 is described by what it *does*, not what it *is* — a verb wearing the mask of a noun.
-- *道生一* (Ch 42), *道生之* (Ch 51) — it gives birth, it gives life: the generative source.
-- *道者萬物之奧* (Ch 62) — the hidden shelter of all things.
-- *天之道… 人之道* (Ch 77) — "the way of heaven" against "the way of humans": the impartial course of nature, which draws down the high and lifts the low, set beside the graspier course we tend to take.
+1. **The head goes first.** 首 means not only *head* but *first, foremost, the leading end*. A head on the road is the part of a walker that leads, the face set toward where you are going. The verb that grows from 道 says exactly this: **導 (*dǎo*)**, 道 with 寸 (*cùn* — a hand) added, is *to lead, to guide*. 說文: 導，導引也, *"to lead along."*
+2. **The head stands for the person**, a part for the whole, as English counts "heads." On this reading 道 is simply someone on a road.
+3. **A carried head.** Shirakawa Shizuka read the graph as a head carried to clear and purify a road into foreign country. It is a striking proposal and a disputed one. We record it and do not build on it.
 
-Now name what 道 is **not**. It is not a creator-god — the text sets it *before* the gods and calls heaven-and-earth impartial (天地不仁). It is not a moral legislator dealing out reward and punishment. And it is not a static Absolute, a Substance, a divine Thing — everything Laozi says of it is *motion, function, return, birth, yielding*. 道 is a **going**, a **way things go**, the deep grain along which reality moves: patterned, impersonal, inexhaustible, and prior to every name we could pin on it.
+**The bronzes draw the whole scene.** In the Zhou bronze inscriptions 道 is usually written as 行, the crossroads, with the head standing inside it, often with a foot beneath. Some forms add a hand, the shape that later became 導, *to lead*. The seal script squeezed the crossroads down to 辵, and that is the form we print.
 
-### The roads not taken
+**And the oldest copy of this book draws a person.** In the Guodian bamboo slips (c. 300 BCE), most of the copyists write 道 as **人 (*rén* — a person) standing inside 行 (a crossroads)**. Only one hand writes the head-and-walking form we know. The earliest surviving Laozi writes its central word as a person standing in the road.
 
-Each English candidate lights up one facet and darkens the rest:
+### What the word already meant
 
-- **"Way"** — the honest literal, and we keep it *audible inside* "Tao" (the walking radical 辶 is right there). But standing alone, "the Way" wobbles between the bland ("a way of doing things") and the churchy (a capital-W creed).
-- **"Path"** — true to the road-picture, but too small and too private; it shrinks a cosmic grain to a personal hike.
-- **"God," "the Absolute," "the Universe"** — each imports exactly what the text refuses: a person who creates and judges, or a metaphysical *substance*. 象帝之先 rules them out.
-- **"Nature"** — collides with 自然 (zìrán), and flattens a *going* into scenery.
-- **"The operating system," "the source code," "the physics engine"** — our own signature temptation, and it deserves an honest hearing, because it gets three real things right: 道 runs *impersonally* (no ego, no favorites), *without issuing commands* (it sets the conditions and lets things run themselves — 無為, 自然), and *underneath* the visible world as its silent precondition. All true. Its cost is equally real: it is a twenty-first-century metaphor with its own metaphysics baked in — mechanism, determinism, computation — and it will age faster than a text that has already lasted two and a half millennia. Worse, it can make 道 sound *engineered and cold*, a thing built and booted — when the character's own picture is not a machine but a **road under open sky**, something walked, grown, and watered, far closer in spirit to water, root, and valley than to silicon. So we keep the systems reading where it earns its place: as a *lens in the commentary*, a way to help a modern, technical reader feel the impersonality and the hands-off-ness — and we refuse to let it become the word.
+By Laozi's century 道 was a common word with four live senses, and a reader of the book hears all of them:
 
-### Why we leave it untranslated
+- **A road.** 大道甚夷，而人好徑 (53) — *"the great Tao is very level, yet people love to take shortcuts."* 徑 (*jìng*) is a footpath, a cut across the fields. Laozi is talking about roads.
+- **To lead.** The sense that became 導.
+- **To tell.** The 詩經 (*Shījīng* — the Book of Songs): 中冓之言，不可道也 — *"the words of the inner chamber cannot be told."* Chinese still uses 道 for *to say*.
+- **The right way to do things.** By Confucius's time the word was already moral, and already reached toward the cosmic: 朝聞道，夕死可矣 — *"hear the way in the morning, and you may die content in the evening"* (論語 4.8). His students said he rarely spoke of 天道, *the way of the sky* (論語 5.13).
 
-In the end we do the thing the text itself models: we decline to pin it. Chapter 25 *styles* it 道 and admits the name is forced; a transliteration — **"the Tao"** — is simply the honest continuation of that gesture, a name that visibly refuses to over-define. "Tao" has also become an English word in its own right, carrying less freight than "Way" or "God," and it keeps "Way" humming faintly underneath. (We keep the older spelling *Tao* rather than Pinyin *Dao* only for recognition — it is the form the English-reading world already knows — while pronouncing it, correctly, *Dào*.)
+So 道 was not a plain word that Laozi made philosophical. It was a plain word that everyone was already using for *the right way*: the way of the former kings, the way of the gentleman. Laozi's move is to take it **under** all of those. His 道 is not a way to behave. It is what every way, and every thing, goes by.
 
-**What stays untranslated is the name, not the word.** Where 道 is somebody's way — a common noun with an owner — it is rendered *way*: 天之道 and 天道 (*tiān zhī dào*, *tiān dào* — the way of heaven) are *the way of nature* at ch 9, 47, 73, 77 ×2, 79 and 81; 人之道 (*rén zhī dào*) is *the way of people* at ch 77; 聖人之道 (*shèng rén zhī dào*) is *the way of the sage* at ch 81. And the verb in ch 1's first line is *made into a way*. Everywhere the book means **the** 道, it is *the Tao*. The forbidden list bans *the Way* — the name translated — and not *way* the common noun.
+### What the book does with it
 
-### 道 and 德 — the two halves of the name
+Watch what he says of it, and the verbs give it away:
 
-The book is the 道**德**經, named for both at once, and the pair is a single thought. If **道 is the whole, undivided Way of all things**, then **德 is that Way received into one thing and kept intact there** (see the companion entry). Source, and its presence-in-things; the grain of all reality, and the same grain running true through a single life. Neither term is complete without the other — which is why Laozi, and his title, refuse to choose.
+- **It comes before.** 有物混成，先天地生 (25) — *"something mixed and complete, born before sky and earth."* 象帝之先 (4) — *"it seems older than any god,"* where 帝 (*dì*) is the high ancestor-deity.
+- **Its name is forced.** 吾不知其名，強字之曰道 (25) — *"I do not know its name. Forcing a label on it, I call it the Tao."* 字 (*zì*) is a courtesy name, the name a person is called by rather than the name they are given.
+- **It moves and is used.** 反者道之動；弱者道之用 (40) — *"returning is the Tao's movement; yielding is the Tao's use."* Movement and use, not substance.
+- **It gives birth.** 道生一 (42), 道生之 (51) — *"the Tao births the one,"* *"the Tao gives birth to the countless things."*
+- **It follows only what it is.** 道法自然 (25) — *"the Tao models itself on being what it is."* Nothing stands above it.
+- **It shelters.** 道者萬物之奧 (62) — *"the Tao is the sanctuary of the countless things."* 奧 (*ào*) is the innermost corner of a house.
 
-### The tension we cannot resolve, and don't pretend to
+**The oldest readers name it from motion.** 韓非 (*Hán Fēi*), on ch 1: 聖人觀其玄虛，用其周行，強字之曰道 — *"the sage watches its dark emptiness, makes use of its going-round, and forces the style 道 on it."* The name comes from 周行 (*zhōu xíng*), *going all the way round*, the phrase of chapter 25. **王弼 (*Wáng Bì*)** defines it in four characters: 道者，物之所由也 — *"the Tao is what things go by"* (51). 由 (*yóu*) is *by way of, through*. And on chapter 25: 道取於無物而不由也 — *"it is called 道 because there is nothing that does not go by it."* **河上公 (*Héshàng Gōng*)** gives the reason from the other end: 見萬物皆從道所生，故字之曰道 — *"seeing that the countless things all come from it, I style it 道."*
 
-Every word above is, by Chapter 1's own standard, beside the point: to *explain* 道 is to trade the road for a map of the road. We have drawn the map anyway, because a map can still say *this way* — and then we hold it loosely, ready to set it down the moment it begins to feel like the thing itself. 道 is less something to know than a way to go. Walk first; the definitions can follow at a distance.
+All three explain the name through the road. The Tao is not named for what it *is*. It is named for the fact that everything travels it.
+
+### What we set aside
+
+- ***the Way*** — the honest literal, and the reason it is forbidden is the capital. Capitalized and alone, *the Way* becomes a creed. It belongs to the early Christian name for itself (*the Way*, Acts 9:2), to every "way of life" sold since, and to a one-word answer to a question the book keeps open. Forbidden as the name; *way*, lowercase and with an owner, is kept.
+- ***the Path*** — true to the road, but too small and too private. A path is one person's track through the woods, and 說文 says 道 is the road that runs straight through. Forbidden capitalized; *path* stays available as an ordinary word.
+- ***God*, *the Absolute*, *the One*** — each imports what the text refuses: a person who creates and judges, or a metaphysical substance. 象帝之先 sets the Tao before the high deity, and 天地不仁 (5) says *"sky and earth are not concerned with humaneness."* And *the One* is 一's word: 道生一, *the Tao births the one* (42), so the two cannot be the same.
+- ***Nature*** — already spoken for. *Nature* is 天 (*tiān*)'s English where 天 takes a verb (*the way of nature*), and *of itself* is 自然's (25). The ladder 人法地，地法天，天法道，道法自然 needs four different words.
+- ***the operating system, the source code*** — a modern metaphor, and it does catch three true things: the Tao is impersonal, it works without issuing commands (無為, 自然), and it runs beneath what is visible. It fails the pointing test. Laozi points at water, valleys and uncarved wood, and the graph is a person on a road under open sky. A machine metaphor brings in mechanism and design, which the book never names, and it will date faster than the text it explains. It can serve in commentary as a lens. It is never the word.
+
+### Why the name stays untranslated
+
+Chapter 25 says the name is forced, so we leave it visibly as a name. **"The Tao"** keeps the gesture: a word that does not pretend to define. It is also already an English word, and it carries less freight than *the Way* or *God*. We spell it *Tao* rather than the pinyin *Dao* only because that is the form English readers know. Either way it is pronounced *dào*.
+
+**What stays untranslated is the name, not the word.** The first line teaches this: 道可道 → *"The Tao that can be made into a way."* *Tao* and *way* stand in the same sentence, so the reader learns what the name means before learning anything else.
+
+### The working register
+
+| Use | English | Chapters | Example |
+|---|---|---|---|
+| the name | **the Tao** | throughout | 道生一 → *"the Tao births the one"* |
+| the name, qualified | **the great Tao, the clear Tao…** | 18, 34, 41, 53 | 大道汎兮 → *"the great Tao overflows"* |
+| a common noun with an owner | **way** | 9, 47, 73, 77 ×3, 79, 81 ×2 | 天之道 → *"the way of nature"*; 人之道 → *"the way of people"* (77); 聖人之道 → *"the way of the sage"* (81) |
+| the verb in 道可道 | **made into a way** | 1 | *"The Tao that can be made into a way"* |
+| 不道, the negation | **not-Tao** | 30, 55 | 是謂不道，不道早已 → *"this is called not-Tao. Not-Tao comes to an early end"* |
+
+*Made into a way* is a construction, not 道's English. The supplied *made into* belongs to the line (`process/principles/supplied-verb-is-scaffolding.md`), so `render:` carries *way* alone.
+
+### 道 and 德
+
+The book is the 道**德**經, named for both. If 道 is what everything goes by, **德 (*dé* — integrity)** is that way received into one thing and kept whole there. 道生之，德畜之 (51) — *"the Tao gives birth to the countless things, integrity rears them."* Source and its presence in things, the grain of everything and the same grain running true through one life. See `de-德.md`.
+
+### What no rule can enforce
+
+**Lowercase *way* cannot be forbidden, and the boundary it marks can only be held by a reader.** The lock bans *the Way* and *the Path* with their capitals, which the checker reads as part of the violation. But whether a given 道 is the name or an owned way is a judgment about the line, and no check can make it. *Way* is also an ordinary English word that many lines use with no 道 in sight (13, 39). The ruling is: **the name is *the Tao*; a way that belongs to someone or something is *way*.**
+
+### Left open
+
+**Three owned ways still read *Tao*.** 長生久視之道 (59) is grammatically *the way of long life and lasting sight*, but reads *"the Tao of deep roots, firm base, long life, and enduring vision."* 我道大 (67), *"my Tao is great,"* has an owner in 我 (*wǒ* — I). 古之道 (14), *"the ancient Tao,"* has antiquity as its owner. Each can be argued: the speaker of 67 means the Tao they teach, and 14's ancient way is plainly the Tao. But the line in the register above does not yet decide them, and it should.
+
+**The speech sense surfaces once, and the English drops it.** 道之出口 (35) is *"the Tao, when it leaves the mouth"*, that is, when it is spoken. It is the one line after chapter 1 that sets the name beside the act of telling, and *"the Tao is bland in the mouth"* turns the mouth that speaks into a mouth that tastes.
+
+**And the first line still breaks a pun.** 道可道 holds the road and the telling in one verb. *Made into a way* keeps the road and loses the telling (`chapters/001.md` → Notes). No English word holds both, and every map of this word is, by the book's own first line, not the thing. We draw it anyway, because a map can still say *this way*, and we hold it loosely.
