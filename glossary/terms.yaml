@@ -44,6 +44,19 @@
   entry: glossary/da-大.md
   # covers 小 -> small
 
+- term: "可"
+  pinyin: "kě"
+  render: "can be (可 + verb) / can (可以 + verb) / cannot (不可)"
+  forbidden: []
+  chapters: [1, 3, 9, 13, 14, 15, 20, 25, 27, 29, 31, 32, 34, 35, 36, 44, 56, 59, 62, 79]
+  status: locked
+  entry: glossary/ke-可.md
+  flexions:
+    - { english: "desirable", chapters: [3], why: "可欲 is a fixed phrase, what can be desired, and English has the word" }
+    - { english: "must", chapters: [20], why: "不可不 is cannot-not, which English says as must" }
+    - { english: "never", chapters: [35], why: "不可既, cannot be used up, said as it never runs out" }
+  # covers 能 -> be able
+
 - term: "常"
   pinyin: "cháng"
   render: "the ever-present / ever / always"

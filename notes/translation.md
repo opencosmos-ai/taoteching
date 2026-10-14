@@ -2886,3 +2886,15 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **Departs from the convention, follows the scholars.** *Eternal* is the popular English (Feng and English 1972, Mitchell 1988); Legge (*enduring and unchanging*), Waley (*Unvarying*) and Lau (*constant*) never used it.
 
 **The adverb is now split by grammar, and the manuscript already obeyed the split**: *ever* before a 無X / 有X state (1, 3, 32, 34, 37), *always* before any other predicate (27, 48, 51, 61, 65, 74). Recorded in the entry's working register; no verse line changed. *Fixed* (49) and *stays* (79) are declared as flexions. Ch 64's *often* became *always* the same day (Shalom's call): both excavated copies write 恆 there, and the chapter's own next line, 慎終如始, is the way out of the *always*. See `chapters/064.md`.
+
+---
+
+## 可 (*kě*) → *can be / can / cannot* — and ch 36's *must never* becomes *cannot*
+
+*(Shalom's call, 2026-10-14. Full argument: `glossary/ke-可.md`.)*
+
+**不可 describes a consequence, not a prohibition.** The test line is 29, 天下神器，不可為也, and its next sentence gives the reason as a result: 為者敗之, *those who handle it ruin it*. 王弼 reads it as a prediction (故必敗也), and so does 河上公 (以有為治之則敗其質性). *Must not* would add a commandment the line does not make.
+
+**Ch 36 was the one line that broke the rule, and it broke a parallel.** 魚不可脫於淵 read *cannot* and 國之利器不可以示人 read *must never*. 王弼 joins them with 亦必失也, *"that too is surely lost."* Now both read *cannot*. Set aside, not refuted: 河上公 and 韓非 hear the second clause as advice to a ruler.
+
+**The voice line is the other half of the lock**: 可 + verb is passive (*the Tao that can be made into a way*), 可以 + verb active (*you can last long*). 能 (*néng* — a bear in the graph, ability in the word) is covered in the same entry as the agent's *can*.
