@@ -1,7 +1,7 @@
 ---
 term: "道"
 pinyin: "dào"
-render: "the Tao (left untranslated)"
+render: "the Tao (left untranslated) — *made into a way* as the verb in the book's first line (ch 1)"
 forbidden: ["the Way", "the Path"]
 chapters: [1, 4, 8, 9, 14, 15, 16, 18, 21, 23, 24, 25, 30, 31, 32, 34, 35, 37, 38, 40, 41, 42, 46, 47, 48, 51, 53, 55, 59, 60, 62, 65, 67, 73, 77, 79, 81]
 status: locked
@@ -27,6 +27,8 @@ Put them together and the oldest, most literal meaning is simply a **road** — 
 ### The word that also means "to speak"
 
 Here is the pun that makes Chapter 1 turn, and that nearly all English loses. 道 is not only a noun. As a verb it means **"to lead, to guide"** (it is the seed of 導, dǎo, "to conduct") — and it also means **"to say, to speak."** So 道可道 is a play: *the way that can be "wayed" — walked, guided, spoken — is not the constant way.* The single character for the ultimate reality is also the everyday character for *talking about it*. Laozi's opening move strikes the two senses against each other: the instant you speak the 道, you are holding the word, not the thing. The book is named for the very act — speaking, naming — that it warns will lose what it reaches for. No English word carries both "the Way" and "to say" at once; so when we translate, we quietly break a pun that is doing real philosophical work. Worth remembering that we've done it.
+
+**What this translation does with the verb (Shalom's call, 2026-10-13).** Ch 1 renders the second 道 by what the name means: ***"The Tao that can be made into a way is not the ever-present Tao."*** The lock keeps *Tao* as a name, so it cannot be repeated as a verb; *way* is the next-closest repetition, and it puts the name and its meaning in the same sentence, so the first line of the book teaches that *Tao* means *way*. The pun is not wholly broken: the road half survives, and so does the turn of the word on itself. **The speech half is what we break**, and we break it knowingly. Full argument, and the renderings refused, in `chapters/001.md` → Notes.
 
 ### What 道 becomes in Laozi's hands
 

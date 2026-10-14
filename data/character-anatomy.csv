@@ -12,7 +12,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 是,Shì,,,是,exact,是,compound,,日 (rì = day),,71,,0.4252,直也。从日、正。凡是之屬皆从是。,
 下,xià,,,下,exact,丄,unanalysed,胡雅切,,,82,Tier 0,0.4062,底也。指事。,
 故,Gù,Therefore,,故,exact,攴,phonetic-compound,,攴 (pū = a hand striking — action done to something),古 (gǔ = ancient),64,,0.3863,使爲之也。从攴古聲。,
-道,Dào,the Tao (left untranslated),the Tao (left untranslated),道,exact,辵,compound,,"辵 (chuò = walking, going along a road) + 𩠐 (? = not yet glossed)",,75,locked,0.3684,所行道也。从辵从𩠐。一達謂之道。,
+道,Dào,the Tao (left untranslated) — *made into a way* as the verb in the book's first line (ch 1),the Tao (left untranslated) — *made into a way* as the verb in the book's first line (ch 1),道,exact,辵,compound,,"辵 (chuò = walking, going along a road) + 𩠐 (? = not yet glossed)",,75,locked,0.3684,所行道也。从辵从𩠐。一達謂之道。,
 大,dà,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman","great — large where the scale is physical or political, greater in comparatives, master of a craftsman",大,exact,大,pictograph,,,,58,Tier 3,0.3032,天大，地大，人亦大。故大象人形。古文𠘲也。凡大之屬皆从大。,
 知,zhī,,,知,exact,矢,compound,,口 (kǒu = mouths) + 矢 (shǐ = an arrow),,57,,0.295,詞也。从口从矢。,
 物,wù,things / something,things / something,物,exact,牛,phonetic-compound,,牛 (niú = an ox),勿 (wù = do not),37,Tier 2,0.2531,萬物也。牛爲大物；天地之𢿙，起於牽牛，故从牛。勿聲。,
