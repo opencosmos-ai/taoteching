@@ -184,6 +184,8 @@ CREATE TABLE compound (
 -- 說文解字 (c. 100 CE) on the characters of this book. The definition stays in
 -- Chinese: ~700 classical definitions machine-rendered would be invented
 -- scholarship. The *components* are what carry across, and they are glossed.
+-- The English arrives one character at a time, from a glossary entry's
+-- `shuowen:` field, when that entry has done the research to translate it.
 CREATE TABLE shuowen (
     char          TEXT PRIMARY KEY,
     headword      TEXT,      -- the graph 說文 files it under: 明 is entered as 朙
@@ -192,7 +194,7 @@ CREATE TABLE shuowen (
     kind          TEXT,      -- pictograph | compound | phonetic-compound | …
     fanqie        TEXT,      -- 反切 — Middle Chinese, free by age
     definition_zh TEXT,
-    definition_en TEXT,      -- null by design; filled by hand as entries earn it
+    definition_en TEXT,      -- null until a glossary entry's `shuowen:` supplies it
     section_head  INTEGER NOT NULL DEFAULT 0
 );
 
@@ -768,6 +770,18 @@ def build(conn, report=False):
             cur.execute("UPDATE character SET radical=? WHERE char=?",
                         (e["radical"], e["char"]))
 
+    # 說文's English, one entry at a time. A glossary entry earns it by carrying
+    # `shuowen:` in its frontmatter — Xu Shen's line translated by hand, with the
+    # research beside it. Never machine-filled: the column stays null until then.
+    for path in sorted(GLOSSARY.glob("*.md")):
+        if path.name in ("INDEX.md", "TRIAGE.md"):
+            continue
+        fm = parse_frontmatter(path.read_text(encoding="utf-8")) or {}
+        term, english = fm.get("term", ""), fm.get("shuowen")
+        if english and len(term) == 1:
+            cur.execute("UPDATE shuowen SET definition_en=? WHERE char=?",
+                        (english, term))
+
     for c in sorted(counts):
         g, tier = gloss.get(c, (None, "none"))
         cur.execute("INSERT OR REPLACE INTO glyph VALUES (?,?,?,?)",
@@ -1065,12 +1079,14 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (87, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (89, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
                        "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
                        "84→87 ch 26 失本 / 失臣, ch 15 若客 / 若容, ch 78 是謂 / 是為 — the last two from "
-                       "the ten recovered 王弼 chapters, 2026-09-24 (T5-6)"),
+                       "the ten recovered 王弼 chapters, 2026-09-24 (T5-6) · "
+                       "87→89 ch 1 常 / 恒 and ch 49 無常心 / 恒無心, from Mawangdui A, "
+                       "2026-10-14 (glossary/chang-常.md)"),
     "verse_line": (855, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20"),

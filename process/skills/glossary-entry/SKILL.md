@@ -126,6 +126,7 @@ covers:
 | `status` | `locked` or `open` |
 | `pairing` | `true` if the meaning lives between two characters |
 | `covers` | secondary characters treated inside this entry |
+| `shuowen` | Xu Shen's 說文 line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer and `data/` exports; omit it rather than guess |
 
 **Flexions go in `flexions:`, never in a sentence inside `render:`.**
 

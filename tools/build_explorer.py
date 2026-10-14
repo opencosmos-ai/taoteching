@@ -37,7 +37,8 @@ def payload(conn):
         SELECT c.char, c.pinyin, c.gloss, c.gloss_source, c.our_render,
                c.lock_status, c.tier, c.centrality, c.total, c.chapters,
                c.chapter_count, c.is_function_word, c.glossary_entry,
-               s.headword, s.radical, s.kind, s.fanqie, s.definition_zh
+               s.headword, s.radical, s.kind, s.fanqie, s.definition_zh,
+               s.definition_en
           FROM character c LEFT JOIN shuowen s ON s.char = c.char
       ORDER BY c.total DESC"""):
         chars[r["char"]] = {
@@ -49,6 +50,7 @@ def payload(conn):
             "fw": r["is_function_word"], "entry": r["glossary_entry"],
             "hw": r["headword"], "rad": r["radical"], "kind": r["kind"],
             "fq": r["fanqie"], "def": r["definition_zh"],
+            "defen": r["definition_en"],
             "sem": [], "pho": [],
         }
     for r in q("SELECT char, component, role FROM component ORDER BY seq"):
@@ -101,7 +103,8 @@ def payload(conn):
             "lines": lines, "where": where, "chapters": chapters}
 
 
-TEMPLATE = r"""<title>The Laozi Character Atlas</title>
+TEMPLATE = r"""<meta charset="utf-8">
+<title>The Laozi Character Atlas</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -262,6 +265,8 @@ section.blk > .lab{display:block;margin-bottom:8px;
 
 .swz{font-family:var(--han);font-size:16px;line-height:1.7;color:var(--ink);
      background:var(--sunk);padding:11px 13px;border-left:2px solid var(--sem)}
+.swen{font-size:14px;color:var(--ink-2);margin:8px 0 0;line-height:1.5;
+      font-style:italic}
 .note{font-size:12.5px;color:var(--ink-3);margin-top:7px;line-height:1.45}
 
 /* The book is 81 chapters, so the map is 9×9 and always complete. Showing only
@@ -365,7 +370,8 @@ footer .zh{font-family:var(--han)}
   <p><b>What is ours, and what is not.</b> The Chinese is public domain by age.
   The English glosses, the translation, and the settled renderings are by Shalom
   Ormsby and are dedicated <b>CC0</b> — no rights reserved. <span class="zh">說文</span>'s
-  definitions are left untranslated rather than machine-rendered; component
+  definitions are never machine-rendered: an English line appears only where a
+  glossary entry has researched the character and translated it by hand. Component
   glosses cover the common parts and the rest are marked as gaps, not guessed.</p>
 </footer>
 </div>
@@ -492,14 +498,15 @@ function show(chr){
 
   if (c.def){
     h += `<section class="blk"><span class="lab">說文解字 · c. 100 CE</span>
-      <div class="swz">${esc(c.def)}</div>
-      <p class="note">Left in Chinese deliberately: machine-translating a
-      first-century dictionary would invent scholarship nobody did. The parts
-      above are the readable half.${
-        c.hw && c.hw !== c.c
-          ? ` Filed under the older graph ${esc(c.hw)}.` : ''}${
-        c.fq ? ` Middle Chinese spelling ${esc(c.fq)}.` : ''}</p>
-      </section>`;
+      <div class="swz">${esc(c.def)}</div>`;
+    // The English is hand-made, from the character's glossary entry; where no
+    // entry has translated it yet, the Chinese stands alone.
+    if (c.defen) h += `<p class="swen">${esc(c.defen)}</p>`;
+    const facts = (c.hw && c.hw !== c.c
+        ? `Filed under the older graph ${esc(c.hw)}. ` : '') +
+      (c.fq ? `Middle Chinese spelling ${esc(c.fq)}.` : '');
+    if (facts) h += `<p class="note">${facts.trim()}</p>`;
+    h += `</section>`;
   }
 
   const occ = WH[c.c] || [];              // [[ "49.1", 3 ], …] — one per line
