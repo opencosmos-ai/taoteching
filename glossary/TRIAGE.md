@@ -25,6 +25,12 @@
 ## Tier 0 — Do not harvest
 
 **Superseded — the repo has better versions.** 道 · 德 · 生 · 母 · 常 · 玄 · 妙 · 我/吾
+
+~~**可** (Kě)~~ — ✅ **DONE & LOCKED 2026-10-14** → `ke-可.md`, covers 能. Found: 說文 says 可 is **to consent** (the mouth saying *yes*); 能 is **a bear**. 可 + verb is passive (*can be*), 可以 active (*can*): the voice line ch 1 depends on. 不可 reads **cannot** (a consequence) in every line but one; 王弼 reads 29 and 36 as 必敗 / 必失, predictions. Ch 36's *must never* → *cannot* (Shalom's call), restoring the parallel. Ch 34 gains its *can*; ch 32's 可以 is our base alone against every witness (所以), so we follow 所以 and the English stands.
+
+~~**道** (Dào)~~ — ✅ **REWRITTEN 2026-10-14** → `dao-道.md`, to the entry standard. Found: 說文's 一達謂之道 — the road that runs straight through, without branching; the head (𩠐, old form of 首) is meaning and sound at once; most Guodian copyists write 道 as **a person standing in a crossroads** (人 inside 行); the severed-head reading is Shirakawa's, not Boodberg's. `render:` reduced to *the Tao / way*. Open: 59, 67 and 14 are owned ways still reading *Tao*; 35's 道之出口 drops the speech sense.
+
+~~**常** (Cháng)~~ — ✅ **REWRITTEN 2026-10-14** → `chang-常.md`, to the entry standard. Found: 說文 says **a lower skirt** (the *always* sense is a phonetic loan); the Mawangdui silks write **two words**, 恒 (*héng*, a crescent moon between two lines) as the manner and 常 only as the name of ch 16/52/55; 韓非 gives 常 a birth with sky and earth, so *eternal* overclaims. *Ever-present* kept for ch 1; *ever / always* split by grammar; `shuowen:` frontmatter field introduced, and the explorer now shows its English.
 *(Check the old 吾 entry, 41 lines, for any detail the pairing entry didn't absorb; likewise 吾 vs 身.)*
 
 **Merged.** 食母 (ch 20) — already covered inside the 母 entry.

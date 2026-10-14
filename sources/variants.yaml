@@ -119,7 +119,7 @@
 - chapter: 52
   line: "是謂襲常"
   base: "襲"
-  witnesses: { wangbi: "習", heshanggong: "習" }
+  witnesses: { wangbi: "習", heshanggong: "習", mawangdui-a: "襲" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -132,6 +132,8 @@
     the book's own bonded pair (知常曰明, ch 16 and 55); reading 習 here
     dissolves that pair into a coincidence. Our English at ch 52 had been
     following 習 without anyone recording the fork.
+    Mawangdui A prints 襲, so the oldest witness sides with the base text
+    against both commentaries.
   logged: notes/manuscript.md
 
 - chapter: 3
@@ -1429,3 +1431,45 @@
     T2-47), so a witness without the 者 is worth knowing when that frame is
     settled.
   logged: false
+
+- chapter: 1
+  line: "道可道，非常道"
+  base: "常"
+  witnesses: { mawangdui-a: "恒" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The silk writes 恒 (heng - ever) for every adverbial or attributive 常 in
+    the book and keeps 常 only for the name of ch 16, 52 and 55; the received
+    text merged the two under the taboo on Emperor Wen's name, 劉恒. Meaning-
+    bearing because it settles which word line 1 uses: the manner-word, not
+    the name. We print the base and render it ever-present either way.
+  logged: notes/manuscript.md
+
+- chapter: 49
+  line: "聖人無常心，以百姓心為心"
+  base: "無常心"
+  witnesses: { mawangdui-a: "恒無心" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The silk has no shallow 常 here. Its sage "is ever without a heart [of
+    their own]"; ours "has no fixed heart." The base keeps the 心 entry's
+    reading, and the silk's version is the stronger claim.
+  logged: notes/manuscript.md
+
+- chapter: 32
+  line: "知止可以不殆"
+  base: "可以"
+  witnesses: { mawangdui-a: "所以", heshanggong: "所以", siku-wangbi: "可以 〔案河上公注本及各本俱作所〕" }
+  meaning_bearing: true
+  our_call: mawangdui-a
+  note: >
+    可以 makes stopping an opening ("you can come to no danger"); 所以 makes
+    it the means ("knowing when to stop is how you come to no danger"). Our
+    base is alone: the Siku editors report every edition reads 所, Wang Bi's
+    own comment ends 故知止所以不殆也, Heshang Gong prints 所以, and silk A
+    reads 所以不. We follow 所以, as at ch 21, and the English already says
+    it; it now matches ch 44's 知止不殆.
+  logged: notes/manuscript.md
+

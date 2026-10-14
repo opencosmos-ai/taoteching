@@ -95,7 +95,7 @@ The nose-character does not appear only in this compound. It threads through som
 - **Chapter 57**, four times in four lines, each ending in 自: 民**自**化 · 民**自**正 · 民**自**富 · 民**自**樸 — the people transform, right, enrich, and simplify **themselves**.
 - **Chapters 32 and 37**: 萬物將**自**賓 · 萬物將**自**化 — the countless things submit, transform, *of themselves*.
 - **Chapter 73**: 不召而**自**來 — *not summoned, yet it comes of itself.*
-- **Chapter 51**: 莫之命而常**自然** — *no one commands it, and it is ever so of itself.*
+- **Chapter 51**: 莫之命而常**自然** — *no one commands it. It is always so, of itself.*
 
 The pattern is the argument: nobody is in charge, and things happen anyway. Better, in fact, than when someone is.
 

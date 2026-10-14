@@ -2868,3 +2868,33 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 ***Rule* is refused and cannot be enforced.** It puts a person on a throne, where 治 is what you do to the thing; and the book is explicit that the sage does not 宰 (*zǎi* — lord over, ch 10 and 51). But 宰 **stands with 治 in ch 10**, where 長而不宰 rightly reads *"growing them without ruling them"* — so a `forbidden:` entry would fire on 宰's own line. *Control*, *manage* and *administer* are on the list; *rule* lives in the entry only.
 
 **Opened by this: T2-57, 居** (*jū* — to dwell). It stands in this stanza and reads at least four ways — *settling* (8), *stay* (2 ×2), *at home* (31), *homes* (72) — and is **unrendered twice at ch 38**, where 不居其薄 and 不居其華 are folded into 處's verb. Ch 8's *settling* is right for a reason worth keeping: 處 (*chǔ*) holds *dwell* four lines above, and 說文 separates them — 居 蹲也 (*"to squat"*, on 尸 a seated body) against 處 止也。得几而止 (*"to stop, having got a stool"*).
+
+---
+
+## 常 (*cháng*) → *the ever-present / ever / always* — and why not *eternal*
+
+*(2026-10-14. Full argument: `glossary/chang-常.md`.)*
+
+**The question was whether line 1's 非常道 should read *eternal*, as the conventional English has it.** It should not, and the case does not rest on taste.
+
+**The line's word was 恒 (*héng* — ever), not the name 常.** Mawangdui A writes 恒 for every adverbial or attributive 常 in the book and 常 only for the name of ch 16, 52 and 55 (`notes/manuscript.md`, Ch 1 · Ch 49). 恒's oldest graph is a crescent moon between two lines, and 說文 quotes 如月之恆, *"like the moon's steady waxing"*: constancy as return, not as timelessness.
+
+**The oldest reader gives 常 a beginning.** 韓非: 唯夫與天地之剖判也具生，至天地之消散也不死不衰者謂常 — *"only what was born with the splitting of sky and earth, and when they disperse neither dies nor declines, is called 常."* That is duration as long as the world lasts. *Eternal* claims more than Han Fei does.
+
+**And *ever-present* keeps the chapter's four 常 as one word in English**: *ever-present, ever-present, ever desireless, ever desiring.* With *eternal* in line 1 the reader loses the link between the Tao's constancy and the observer's.
+
+**Departs from the convention, follows the scholars.** *Eternal* is the popular English (Feng and English 1972, Mitchell 1988); Legge (*enduring and unchanging*), Waley (*Unvarying*) and Lau (*constant*) never used it.
+
+**The adverb is now split by grammar, and the manuscript already obeyed the split**: *ever* before a 無X / 有X state (1, 3, 32, 34, 37), *always* before any other predicate (27, 48, 51, 61, 65, 74). Recorded in the entry's working register; no verse line changed. *Fixed* (49) and *stays* (79) are declared as flexions. Ch 64's *often* became *always* the same day (Shalom's call): both excavated copies write 恆 there, and the chapter's own next line, 慎終如始, is the way out of the *always*. See `chapters/064.md`.
+
+---
+
+## 可 (*kě*) → *can be / can / cannot* — and ch 36's *must never* becomes *cannot*
+
+*(Shalom's call, 2026-10-14. Full argument: `glossary/ke-可.md`.)*
+
+**不可 describes a consequence, not a prohibition.** The test line is 29, 天下神器，不可為也, and its next sentence gives the reason as a result: 為者敗之, *those who handle it ruin it*. 王弼 reads it as a prediction (故必敗也), and so does 河上公 (以有為治之則敗其質性). *Must not* would add a commandment the line does not make.
+
+**Ch 36 was the one line that broke the rule, and it broke a parallel.** 魚不可脫於淵 read *cannot* and 國之利器不可以示人 read *must never*. 王弼 joins them with 亦必失也, *"that too is surely lost."* Now both read *cannot*. Set aside, not refuted: 河上公 and 韓非 hear the second clause as advice to a ruler.
+
+**The voice line is the other half of the lock**: 可 + verb is passive (*the Tao that can be made into a way*), 可以 + verb active (*you can last long*). 能 (*néng* — a bear in the graph, ability in the word) is covered in the same entry as the agent's *can*.

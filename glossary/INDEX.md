@@ -7,16 +7,17 @@
 python3 tools/build_index.py
 ```
 
-**50 entries.** Sorted by how much of the book each term touches.
+**51 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
 | **為** | *wéi* | do / handle / serve as | "execute", "function as" | 48 | **locked** | [`wei-為.md`](wei-為.md) |
 | **天** | *tiān* | sky (as a tier) · nature / the natural (as an agent) | "Heaven", "Providence", "the Almighty", "the Cosmos" | 46 | **locked** | [`tian-天.md`](tian-天.md) |
 | **無 & 有** | *wú / yǒu* | absence / presence | "Being", "Non-Being", "existence", "the Void", "nothingness" | 40 | **locked** | [`wu-you-無有.md`](wu-you-無有.md) |
-| **道** | *dào* | the Tao (left untranslated) as the name — *way* where it is a common noun (*the way of nature*) and as the verb in the book's first line (*made into a way*) | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
+| **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
-| **常** | *cháng* | the ever-present / the abiding | "eternal", "everlasting", "the eternal" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
+| **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
+| **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **生** | *shēng* | give birth to / bear / bring forth | "generate", "produce", "manufacture", "create" | 19 | **locked** | [`sheng-生.md`](sheng-生.md) |
 | **善** | *shàn* | masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category) | "virtuous", "righteous", "saintly", "benevolent" | 18 | **locked** | [`shan-善.md`](shan-善.md) |
 | **德** | *dé* | integrity | "virtue", "moral excellence", "power" | 16 | **locked** | [`de-德.md`](de-德.md) |
@@ -80,6 +81,7 @@ python3 tools/build_index.py
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
+| **能** | be able | [`ke-可.md`](ke-可.md) — 可 |
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 
