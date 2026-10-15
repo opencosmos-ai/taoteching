@@ -149,7 +149,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 夂,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"冬,處"
 复,,,phonetic,"no gloss needed: present for sound, not meaning",2,"復,腹"
 夕,xī,evening — the moon half shown,semantic,glossed,2,"名,多"
-奇,jī,"strange / surprise / crooked, out of line",phonetic,glossed,2,"倚,寄"
+奇,qí,"strange / surprise / crooked, out of line",phonetic,glossed,2,"倚,寄"
 奚,,,phonetic,"no gloss needed: present for sound, not meaning",2,"谿,雞"
 尾,wěi,a tail,semantic,glossed,2,"屈,屬"
 屮,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"木,毒"
@@ -359,7 +359,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 孟,,,phonetic,"no gloss needed: present for sound, not meaning",1,猛
 守,shǒu,hold to,semantic,glossed,1,負
 宮,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,營
-害,hai,harm / hinder (66),phonetic,glossed,1,割
+害,hài,harm / hinder (66),phonetic,glossed,1,割
 寍,,,phonetic,"no gloss needed: present for sound, not meaning",1,寧
 尃,,,phonetic,"no gloss needed: present for sound, not meaning",1,搏
 尃,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,博

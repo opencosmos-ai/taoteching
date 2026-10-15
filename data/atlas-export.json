@@ -14266,7 +14266,7 @@
    "kind": "phonetic-compound",
    "lock": 0,
    "n": 5,
-   "p": "hai",
+   "p": "hài",
    "pho": [
     "丯"
    ],
@@ -15557,7 +15557,7 @@
    "kind": "compound",
    "lock": 0,
    "n": 4,
-   "p": "jī",
+   "p": "qí",
    "pho": [],
    "r": null,
    "rad": "可",
@@ -16440,7 +16440,7 @@
    "kind": "phonetic-compound",
    "lock": 0,
    "n": 4,
-   "p": "guo",
+   "p": "guò",
    "pho": [
     "咼"
    ],
@@ -17540,7 +17540,7 @@
    "kind": "phonetic-compound",
    "lock": 0,
    "n": 3,
-   "p": "wang",
+   "p": "wǎng",
    "pho": [
     "㞷"
    ],
@@ -25249,7 +25249,7 @@
    "kind": "compound",
    "lock": 0,
    "n": 1,
-   "p": "ping",
+   "p": "píng",
    "pho": [],
    "r": null,
    "rad": "亏",
@@ -27605,7 +27605,7 @@
    "kind": "phonetic-compound",
    "lock": 0,
    "n": 1,
-   "p": "ji",
+   "p": "jì",
    "pho": [
     "齊"
    ],
@@ -32034,7 +32034,7 @@
    "kind": null,
    "lock": 0,
    "n": 1,
-   "p": "er",
+   "p": "ěr",
    "pho": [],
    "r": null,
    "rad": null,
@@ -34296,7 +34296,7 @@
    "boast, flaunt (verse reads 竽, ringleader)"
   ],
   "奇": [
-   "jī",
+   "qí",
    "strange / surprise / crooked, out of line"
   ],
   "奈": [
@@ -34444,7 +34444,7 @@
    "but not dominating/ruling"
   ],
   "害": [
-   "hai",
+   "hài",
    "harm / hinder (66)"
   ],
   "家": [
@@ -34616,7 +34616,7 @@
    "the ever-present / ever / always"
   ],
   "平": [
-   "ping",
+   "píng",
    "even"
   ],
   "年": [
@@ -34708,7 +34708,7 @@
    "that (over there)"
   ],
   "往": [
-   "wang",
+   "wǎng",
    "come to / go (往來, 80)"
   ],
   "後": [
@@ -35508,7 +35508,7 @@
    "muddy"
   ],
   "濟": [
-   "ji",
+   "jì",
    "multiply, add to (affairs)"
   ],
   "火": [
@@ -36608,7 +36608,7 @@
    "meet"
   ],
   "過": [
-   "guo",
+   "guò",
    "no more than (不過) / pass / go too far (64)"
   ],
   "道": [
@@ -36872,7 +36872,7 @@
    "nourish"
   ],
   "餌": [
-   "er",
+   "ěr",
    "food / delicacies"
   ],
   "餘": [
@@ -39183,43 +39183,43 @@
   ],
   "35.1": [
    "執大象，天下往。",
-   "Zhi da xiang, tian xia wang",
+   "Zhí dà xiàng, tiān xià wǎng.",
    "Grasp the great image, and the world comes to you.",
    1
   ],
   "35.2": [
    "往而不害，安平太。",
-   "Wang er bu hai, an ping tai",
+   "Wǎng ér bù hài, ān píng tài.",
    "It comes unharmed, at rest, and utterly even.",
    1
   ],
   "35.3": [
    "樂與餌，過客止。",
-   "Le yu er, guo ke zhi",
+   "Yuè yǔ ěr, guò kè zhǐ.",
    "Music and food bring a passing guest to a halt.",
    1
   ],
   "35.4": [
    "道之出口，淡乎其無味。",
-   "Dao zhi chu kou, dan hu qi wu wei",
+   "Dào zhī chū kǒu, dàn hū qí wú wèi.",
    "The Tao is bland in the mouth. It has no flavor.",
    1
   ],
   "35.5": [
    "視之不足見，",
-   "Shi zhi bu zu jian",
+   "Shì zhī bù zú jiàn,",
    "Look at it. There is not enough to see.",
    1
   ],
   "35.6": [
    "聽之不足聞，",
-   "Ting zhi bu zu wen",
+   "Tīng zhī bù zú wén,",
    "Listen for it. There is not enough to hear.",
    1
   ],
   "35.7": [
    "用之不可既。",
-   "Yong zhi bu ke ji",
+   "Yòng zhī bù kě jì.",
    "Use it. It never runs out.",
    1
   ],
@@ -39639,7 +39639,7 @@
   ],
   "41.2": [
    "中士聞道，若存若亡；",
-   "Zhōng shì wén dào, ruò cún ruo wáng",
+   "Zhōng shì wén dào, ruò cún ruò wáng;",
    "Those lowest in service hear the Tao and laugh aloud at it. If it weren’t laughed at, the Tao wouldn’t be what it is.",
    0
   ],
@@ -40179,7 +40179,7 @@
   ],
   "52.5": [
    "開其兌，濟其事，終身不救。",
-   "Kāi qí duì, ji qí shì, zhōng shēn bù jiù.",
+   "Kāi qí duì, jì qí shì, zhōng shēn bù jiù.",
    "To recognize things in their smallest form is clear-seeing.",
    0
   ],
@@ -40419,7 +40419,7 @@
   ],
   "57.2": [
    "以奇用兵，",
-   "yǐ jī yòng bīng,",
+   "yǐ qí yòng bīng,",
    "wage war with surprise,",
    1
   ],
@@ -40449,7 +40449,7 @@
   ],
   "57.7": [
    "人多伎巧，奇物滋起；",
-   "Rén duō jì qiǎo, jī wù zī qǐ;",
+   "Rén duō jì qiǎo, qí wù zī qǐ;",
    "The more cunning people become, the more strange contrivances appear.",
    1
   ],
@@ -40509,7 +40509,7 @@
   ],
   "58.6": [
    "正復為奇，善復為妖。",
-   "Zhèng fù wéi jī, shàn fù wéi yāo.",
+   "Zhèng fù wéi qí, shàn fù wéi yāo.",
    "The straight turns crooked, the good turns monstrous.",
    1
   ],
