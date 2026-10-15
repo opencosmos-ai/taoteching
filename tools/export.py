@@ -307,8 +307,10 @@ rendering beside it. That is `CLAUDE.md` standing rule 0, and `tools/export.py
 | value | where it came from | trust |
 |---|---|---|
 | `locked` | a settled rendering in `glossary/terms.yaml` | high — this is the edition's own decision |
+| `open` | an entry written as a recommendation (`status: open`), not yet called | a recommendation — argued, not settled |
 | `covers` | a secondary character absorbed by a glossary entry | high |
 | `grammar` | a particle, negative or connective, glossed by hand in `sources/grammar-glosses.yaml` | high for what it is — a list of the word's jobs in this book, not a ruling |
+| `word` | a content character with no entry, glossed by hand in `sources/word-glosses.yaml` | a reader's aid — the senses in this book, in the edition's English, never a ruling |
 | `apparatus` | the `[pinyin]` notes in the Literal column of the source tables | **working approximation** |
 | `apparatus-split` | the apparatus glossed it, but no English won a majority, so none is published | — |
 | `none` | nothing in this repo glosses this character yet | — |
@@ -321,8 +323,10 @@ means the character was glossed 31 times and the chosen English won 17 of them.
 **A low ratio means the character is contextual, not that the gloss is wrong** —
 之 (*zhī*) is a particle and will never have one English.
 
-`none` is not hidden. Roughly 389 of the 798 distinct characters have no per-
-character English in this repository yet. That gap is the glossary's worklist.
+`none` is not hidden, and since 2026-10-14 it is one character: 朘 (*zuī*), left
+out of `sources/word-glosses.yaml` on purpose because ch 55's verse follows a
+variant. Every other character carries English from an entry, a hand list, or
+the apparatus.
 
 ## The files
 

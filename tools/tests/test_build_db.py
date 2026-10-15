@@ -138,6 +138,27 @@ class SectionSplitting(unittest.TestCase):
         self.assertEqual(sw.fanqie(got[0][3]), "他前切")
 
 
+class Frontmatter(unittest.TestCase):
+    """`covers: ["柔"]` parsed to an empty list without a word, so 柔's lock
+    (2026-08-26) was prose only until 2026-10-14. A shape the parser cannot
+    read must be an error, never an empty list."""
+
+    def test_inline_covers_is_an_error(self):
+        from lib.corpus import parse_frontmatter
+        with self.assertRaises(ValueError):
+            parse_frontmatter('---\nterm: "弱"\ncovers: ["柔"]\n---\n')
+
+    def test_covers_without_render_is_an_error(self):
+        from lib.corpus import parse_frontmatter
+        with self.assertRaises(ValueError):
+            parse_frontmatter('---\nterm: "弱"\ncovers:\n  - { char: "柔" }\n---\n')
+
+    def test_block_covers_parses(self):
+        from lib.corpus import parse_frontmatter
+        fm = parse_frontmatter('---\nterm: "弱"\ncovers:\n  - { char: "柔", render: "soft" }\n---\n')
+        self.assertEqual(fm["covers"], [("柔", "soft")])
+
+
 class Baseline(unittest.TestCase):
     """The corpus, end to end, against measured counts."""
 
@@ -159,6 +180,21 @@ class Baseline(unittest.TestCase):
                 f"  extend that entry's note with the date and the cause. If you\n"
                 f"  did not, something changed the corpus without meaning to —\n"
                 f"  that is the finding, not the failure.\n"))
+
+    def test_open_entries_are_not_published_as_locked(self):
+        """Every entry shipped as "locked" whatever its `status:`, so 極, 命 and
+        虛 reached the public atlas looking settled while they were still
+        recommendations (WORKLIST T5-16, 2026-10-14)."""
+        from lib.corpus import load_terms
+        for t in load_terms():
+            if len(t.characters) != 1 or len(t.characters[0]) != 1:
+                continue
+            want = "locked" if t.status == "locked" else "open"
+            got = self.conn.execute(
+                "SELECT lock_status FROM character WHERE char=?",
+                (t.characters[0],)).fetchone()
+            if got:
+                self.assertEqual(got[0], want, f"{t.term} is status: {t.status}")
 
     def test_every_baseline_entry_states_what_it_counts(self):
         """The note is the cost of bumping a number, so it cannot be empty.

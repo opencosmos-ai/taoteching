@@ -56,6 +56,16 @@ def parse_frontmatter(text):
     data, covers, flexions = {}, [], []
     block = None
     for line in m.group(1).split("\n"):
+        # Both blocks are read only in their block form. Anything else used to
+        # parse to an empty list without a word: `covers: ["柔"]` in ruo-弱.md
+        # dropped 柔's lock on the floor from 2026-08-26 until 2026-10-14, while
+        # the entry's prose said it was locked. A shape this parser cannot read
+        # is an error, never an empty list.
+        for name in ("covers", "flexions"):
+            if line.startswith(f"{name}:") and line[len(name) + 1:].strip() not in ("", "[]"):
+                raise ValueError(
+                    f"`{name}:` must be a block of `- {{ ... }}` mappings, not "
+                    f"inline: {line.strip()!r}")
         if line.startswith("covers:"):
             block = "covers"
             continue
@@ -66,8 +76,9 @@ def parse_frontmatter(text):
             if block == "covers":
                 c = re.search(r'char:\s*"([^"]*)"', line)
                 r = re.search(r'render:\s*"([^"]*)"', line)
-                if c:
-                    covers.append((c.group(1), r.group(1) if r else ""))
+                if not (c and r):
+                    raise ValueError(f"a `covers:` entry needs char and render: {line.strip()!r}")
+                covers.append((c.group(1), r.group(1)))
             else:
                 e = re.search(r'english:\s*"([^"]*)"', line)
                 ch = re.search(r'chapters:\s*\[([^\]]*)\]', line)

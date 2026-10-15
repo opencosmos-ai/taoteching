@@ -73,6 +73,7 @@ python3 tools/build_index.py
 |---|---|---|
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
+| **剛** | unbending | [`ruo-弱.md`](ruo-弱.md) — 弱 |
 | **力** | force | [`qiang-強.md`](qiang-強.md) — 強 |
 | **天** | nature (as ordering principle) | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
 | **天下** | the world | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
@@ -80,6 +81,7 @@ python3 tools/build_index.py
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
+| **柔** | soft | [`ruo-弱.md`](ruo-弱.md) — 弱 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |

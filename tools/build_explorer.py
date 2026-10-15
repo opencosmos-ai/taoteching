@@ -44,7 +44,7 @@ def payload(conn):
         chars[r["char"]] = {
             "c": r["char"], "p": r["pinyin"], "g": r["gloss"],
             "gs": r["gloss_source"], "r": r["our_render"],
-            "lock": 1 if r["lock_status"] else 0, "tier": r["tier"],
+            "lock": 1 if r["lock_status"] == "locked" else 0, "tier": r["tier"],
             "cent": r["centrality"], "n": r["total"],
             "chs": [int(x) for x in (r["chapters"] or "").split(",") if x],
             "fw": r["is_function_word"], "entry": r["glossary_entry"],

@@ -474,6 +474,12 @@ def load_component_glosses():
     return _load_gloss_list(ROOT / "sources" / "component-glosses.yaml")
 
 
+def load_word_glosses():
+    """(char, pinyin, gloss) from sources/word-glosses.yaml — short English for
+    the content characters no glossary entry or apparatus majority covers."""
+    return _load_gloss_list(ROOT / "sources" / "word-glosses.yaml")
+
+
 def load_grammar_glosses():
     """(char, pinyin, gloss) from sources/grammar-glosses.yaml — the particles,
     negatives and connectives that will never get a glossary entry."""
@@ -681,7 +687,7 @@ def build(conn, report=False):
 
     gloss = {}          # char -> (english, tier)
     render_of = {}      # char -> our_render
-    lock_of = {}        # char -> (term, entry, forbidden)
+    lock_of = {}        # char -> (term, entry, forbidden, status)
     flex_of = {}        # char -> [(english, {chapters})] — chapter-scoped flexions
     for t in terms:
         if len(t.characters) == 1 and len(t.characters[0]) > 1:
@@ -691,10 +697,15 @@ def build(conn, report=False):
                 (t.characters[0], t.pinyin, t.render, "; ".join(t.forbidden), t.entry),
             )
             continue
+        # An entry's `status:` is published as it stands. Every entry used to
+        # ship as "locked", so a recommendation (極, 命, 虛 while open) reached
+        # the atlas looking settled. An open entry is "open": its English is a
+        # recommendation, and it is not a lock until Shalom calls it.
+        status = "locked" if t.status == "locked" else "open"
         for c, part in split_render(t.characters, t.render).items():
-            gloss.setdefault(c, (part, "locked"))
+            gloss.setdefault(c, (part, status))
             render_of.setdefault(c, part)
-            lock_of.setdefault(c, (t.term, t.entry, "; ".join(t.forbidden)))
+            lock_of.setdefault(c, (t.term, t.entry, "; ".join(t.forbidden), status))
             if t.flexions:
                 flex_of.setdefault(c, [(f["english"], set(f["chapters"]))
                                        for f in t.flexions])
@@ -709,8 +720,8 @@ def build(conn, report=False):
             if len(c) == 1:
                 gloss.setdefault(c, (render, "covers"))
                 render_of.setdefault(c, render)
-                lock_of.setdefault(c, (fm.get("term", ""),
-                                       f"glossary/{path.name}", ""))
+                lock_of.setdefault(c, (fm.get("term", ""), f"glossary/{path.name}", "",
+                                       "locked" if fm.get("status") == "locked" else "open"))
 
     # `sources/grammar-glosses.yaml` — the grammar words, glossed by hand. An
     # entry outranks it; it outranks the apparatus, whose plurality published
@@ -718,6 +729,13 @@ def build(conn, report=False):
     for c, _pinyin, g in load_grammar_glosses():
         if g:
             gloss.setdefault(c, (g, "grammar"))
+
+    # `sources/word-glosses.yaml` — the content characters with no entry, read
+    # line by line and glossed by hand. Same rank as the grammar list: below an
+    # entry, above the apparatus, which had published nothing for these.
+    for c, _pinyin, g in load_word_glosses():
+        if g:
+            gloss.setdefault(c, (g, "word"))
 
     # The apparatus tier, harvested per line and aggregated per character. The
     # winning English is the most common one across that character's glossed
@@ -756,14 +774,14 @@ def build(conn, report=False):
     for c in sorted(counts):
         chs = sorted(chapters_of[c])
         g, tier = gloss.get(c, (None, "none"))
-        term, entry, forbidden = lock_of.get(c, (None, None, None))
+        term, entry, forbidden, status = lock_of.get(c, (None, None, None, None))
         cur.execute(
             "INSERT INTO character (char, pinyin, gloss, gloss_source, gloss_agreement,"
             " our_render, lock_status, glossary_entry, forbidden, total, chapter_count,"
             " chapters, first_chapter, last_chapter)"
             " VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (c, pin_of.get(c), g, tier, agreement.get(c), render_of.get(c),
-             "locked" if term else None, entry, forbidden or None,
+             status if term else None, entry, forbidden or None,
              counts[c], len(chs), ",".join(str(x) for x in chs), chs[0], chs[-1]),
         )
         if c in FUNCTION_WORDS:
@@ -874,7 +892,7 @@ def build(conn, report=False):
             for c, pin in chars:
                 if c not in lock_of:
                     continue
-                term, _, _ = lock_of[c]
+                term = lock_of[c][0]
                 expected = render_of.get(c) or ""
                 honored = None
                 cands = [w.strip().lower() for w in re.split(r"[/·]", expected)
