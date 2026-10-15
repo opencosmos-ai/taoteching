@@ -1979,7 +1979,7 @@ Three candidates were rejected, each for a different reason worth keeping.
 
 ### Ch 78 · 弱 pays out, and Ch 52 is retrofitted
 
-弱之勝強，柔之勝剛 is the line the 弱 lock was built on, and it forces four distinct words: 弱 **yielding** · 強 **strong** · 柔 **soft** · 剛 **hard**. 河上公 answers each half with an image rather than a definition — 水能滅火 (*"water can put out fire"*) and 舌柔齒剛，齒先舌亡 (*"the tongue is soft, the teeth are hard; the teeth go first"*).
+弱之勝強，柔之勝剛 is the line the 弱 lock was built on, and it forces four distinct words: 弱 **yielding** · 強 **strong** · 柔 **soft** · 剛 **hard** *(→ **unbending**, 2026-10-14: 堅 claims *hard* in the same chapter)*. 河上公 answers each half with an image rather than a definition — 水能滅火 (*"water can put out fire"*) and 舌柔齒剛，齒先舌亡 (*"the tongue is soft, the teeth are hard; the teeth go first"*).
 
 Applying it here made Ch 52's 守柔曰強 unpayable as it stood: it read *"To stay with the yielding is strength,"* giving 柔 the word that belongs to 弱. Swept to **"To stay with the soft is strength."** Flagged in `CLAUDE.md` when the lock was set; discharged now.
 
@@ -2145,7 +2145,7 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 ## 強 — the fourth word of the table, 2026-08-28
 
-**Locked: strong.** Entry at `glossary/qiang-強.md`. The 弱 lock had already declared this in its four-word table (柔 soft · 剛 hard · 弱 yielding · 強 strong) without an entry to enforce it, and the manuscript carried six Englishes for 強 across twelve chapters — two of them four lines apart in ch 33.
+**Locked: strong.** Entry at `glossary/qiang-強.md`. The 弱 lock had already declared this in its four-word table (柔 soft · 剛 hard, now *unbending* · 弱 yielding · 強 strong) without an entry to enforce it, and the manuscript carried six Englishes for 強 across twelve chapters — two of them four lines apart in ch 33.
 
 **What decided it: ch 52 and ch 55 use the same frame with opposite verdicts.** 守柔曰強 ("holding to the soft is called 強") and 心使氣曰強 ("the heart driving the energy is called 強"). One is praise, one is a warning, and the next line after the second is 物壯則老. Rendering the first *strength* and the second *forcing* answers a question the text leaves standing. 王弼 puts both on one page: 守強不強，守柔乃強也.
 

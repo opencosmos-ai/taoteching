@@ -274,6 +274,8 @@
   chapters: [3, 36, 40, 55, 76, 78]
   status: locked
   entry: glossary/ruo-弱.md
+  # covers 柔 -> soft
+  # covers 剛 -> unbending
 
 - term: "心"
   pinyin: "xīn"

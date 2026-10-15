@@ -138,6 +138,27 @@ class SectionSplitting(unittest.TestCase):
         self.assertEqual(sw.fanqie(got[0][3]), "他前切")
 
 
+class Frontmatter(unittest.TestCase):
+    """`covers: ["柔"]` parsed to an empty list without a word, so 柔's lock
+    (2026-08-26) was prose only until 2026-10-14. A shape the parser cannot
+    read must be an error, never an empty list."""
+
+    def test_inline_covers_is_an_error(self):
+        from lib.corpus import parse_frontmatter
+        with self.assertRaises(ValueError):
+            parse_frontmatter('---\nterm: "弱"\ncovers: ["柔"]\n---\n')
+
+    def test_covers_without_render_is_an_error(self):
+        from lib.corpus import parse_frontmatter
+        with self.assertRaises(ValueError):
+            parse_frontmatter('---\nterm: "弱"\ncovers:\n  - { char: "柔" }\n---\n')
+
+    def test_block_covers_parses(self):
+        from lib.corpus import parse_frontmatter
+        fm = parse_frontmatter('---\nterm: "弱"\ncovers:\n  - { char: "柔", render: "soft" }\n---\n')
+        self.assertEqual(fm["covers"], [("柔", "soft")])
+
+
 class Baseline(unittest.TestCase):
     """The corpus, end to end, against measured counts."""
 

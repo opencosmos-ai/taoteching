@@ -16,7 +16,7 @@ covers:
 
 **Locked: 強 → "strong" — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature.** *(Not "mighty," not "forceful," not "brute strength," not "perseverance." 力 (lì) → "force.")*
 
-Chapter 78 forces four words apart — 柔 (*róu* — soft) · 剛 (*gāng* — hard) · 弱 (*ruò* — yielding) · 強 — and 強 is the one that carries opposite verdicts inside a single frame.
+Chapter 78 forces four words apart — 柔 (*róu* — soft) · 剛 (*gāng* — unbending) · 弱 (*ruò* — yielding) · 強 — and 強 is the one that carries opposite verdicts inside a single frame.
 
 The book's sharpest joke depends on it, and any English that resolves the word makes the joke invisible.
 

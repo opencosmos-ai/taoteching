@@ -16,7 +16,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **139 item rows: 47 open · 86 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **139 item rows: 46 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@
 | T2-28 | ⬜ | **復歸 split four-to-three** — the seven-line compound reads *return again* at 16 and 28 ×3, plain *return* at 14 and 52 | 14 16 28 52 | E |
 | T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57) | 12 19 32 51 57 | E |
 | T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Male rank-words dissolved in two opposite directions. Kin to T4-1 | 15 26 31 38 41 68 | F |
-| T4-4 | ⬜ | 剛 owed its own mention | — | E |
+| T4-4 | ✅ | ~~剛 owed its own mention~~ — **剛 → *unbending*, 2026-10-14, Shalom's call**, a `covers:` of `ruo-弱.md`; 堅 keeps *hard*, which ch 78 had given to both. Also found: 柔's own covers had never parsed, so its 2026-08-26 lock was not live until now | 36 78 | E |
 | T2-33 | ⬜ | **利** wants an entry — 9 chapters, three jobs: *benefit* (bound to 害 at 56, 73, 81) · **sharp** (利器 36, 57; 利劍 53 — the 說文 sense, 銛也。从刀) · *advantage* (11, 19) | 8 11 19 36 53 56 57 73 81 | E |
 | T2-34 | ⬜ | **微** three ways — *the intangible* (14) · *subtle* (15, 64) · *hidden* (36). 說文 隱行也, "to go concealed". **Ch 14's half settled at T2-52 (2026-09-10) — its *the intangible* stands and the link is carried in notes. What is open is 36 vs 15/64** | 14 15 36 64 | E |
 | T2-35 | ⬜ | **得** wants an entry — 19 chapters, 30 lines, no entry; *obtain* · *get* · *gain* · *gets*, plus the 不得已 idiom at 29, 30, 31. Ch 39 uses **received** and does not settle it | book-wide | E |
@@ -370,7 +370,7 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 - ✅ **民 / 人 — one decision, whole book, deferred 2026-08-25; settled 2026-10-14 (*the people*, locked).** 民 (the governed; 說文 *"the many sprouts"* — the eye-pierced-by-a-blade reading is 郭沫若's theory, not a fact) reads *"the people"* in 30 of its 32 occurrences — bare *people* at 64, and *few people* under 寡 at 80. Argued in `glossary/min-民.md`. 人 drifts, and **ch 57 renders it both ways two lines apart.** A rule settled at one chapter propagates to twelve others and to the cross-chapter rhymes in `notes/reading.md` (72 → 74 → 75 turns on 民不畏X; ch 80's 使民重死 is load-bearing for ch 75's 民之輕死). Ch 74 reads *"the people"* as a **hold, not a precedent**. Owed: `glossary/min-民.md`, very likely a 人 entry or `covers:`, a sweep, and a `notes/reading.md` pass. **This sweep adds 身 to the same shape of problem — consider deciding the three together.**
 - **正 / 奇** — five Englishes across ch 37, 45, 57, 58, 78. Owed: `glossary/zheng-正.md`.
 - **Em-dashes in the verse** — 17 lines across ch 10, 14, 15, 28, 29, 43, 44, 51, 53, 55, 58. Ch 44's three are good. Ch 10 and ch 51 share the same en-dash on the same line (長而不宰) and move together.
-- **柔 → soft, 剛 → hard** — 剛 still owed its own mention; 柔 is `covers:`-ed by `ruo-弱.md`.
+- ✅ **柔 → soft, 剛 → unbending** (2026-10-14) — both now `covers:` of `ruo-弱.md`. 柔's covers had been written inline and parsed to nothing, so its lock was never live; the parser now refuses that shape. 剛 moved off *hard*, which is 堅's in the same chapter.
 - **Glossary harvest** from `TRIAGE.md`: 一 is owed only its entry, then 名, then 希. **This sweep adds 身, 氣, 靜, 君, 士, 智, 事, 志, 谷, 恃.**
 - **Guodian G2–G6** (`PLAN.md`). G1 closed 2026-08-28.
 
