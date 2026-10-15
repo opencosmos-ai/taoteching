@@ -145,9 +145,9 @@ If you want something more concrete:
   appear three or more times. Each is small, self-contained, and useful.
 - **32 chapters still carry em-dashes in the verse**, which the style forbids
   because a dash can hide a missing subject.
-- **One decision is deferred across the whole book** — 民 (*mín* — the governed)
-  against 人 (*rén* — a person). Chapter 57 currently renders 人 two ways, two
-  lines apart.
+- **Two decisions are deferred across the whole book** — 正 / 奇 (*zhèng / qí* —
+  straight / crooked), and the em-dashes in the verse. A third, 民 / 人 (*mín /
+  rén* — the people / a person), was settled in October 2026.
 
 [**CONTRIBUTING.md**](CONTRIBUTING.md) has the full map, including the part worth
 saying plainly here: **I make the final call on every line.** A pull request is a

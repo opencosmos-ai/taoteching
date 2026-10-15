@@ -1378,15 +1378,16 @@
   base: "人"
   witnesses: { hanfeizi: "民" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: base
   note: >
     The oldest witness reads 聖人亦不傷民 where our base reads 傷人 — and the
     first half of the couplet has 人 in both. So 韓非's text distinguishes the
     two clauses: the numinous does not harm PEOPLE, the sage does not harm THE
-    GOVERNED. Our base flattens them to one word. This is a textual instance of
-    the 民/人 question Shalom has deferred (WORKLIST T4), so it is recorded and
-    not settled — but it is evidence that the distinction was live in the
-    oldest witness rather than an artifact of later copying.
+    PEOPLE as governed. We keep the base (decided with the 民 lock,
+    2026-10-14): both transmitted commentators read 人 twice, and 王弼 builds
+    the next line, 兩不相傷, on the couplet's symmetry, which needs the same
+    object in both clauses. The fork stays evidence that the distinction was
+    live in the oldest witness. glossary/min-民.md.
   logged: notes/manuscript.md
 
 - chapter: 50

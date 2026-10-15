@@ -657,7 +657,7 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 **韓非's text distinguishes the two clauses where ours flattens them**: the numinous does not harm **people**; the sage does not harm **the governed**. Both recensions have 人 in the first clause, so the divergence is only in the second — which is what makes it interesting rather than noise.
 
-**Undecided, and deliberately so.** 民 (*mín* — the governed) against 人 (*rén* — a person) is one of the three calls Shalom has deferred (`WORKLIST` T4), and this chapter is not the place to settle it. **But it is evidence that the distinction was live in the oldest witness**, rather than a later copyist's variation — which is a fact the deferred call will want when it is taken up.
+~~**Undecided, and deliberately so.**~~ **Decided 2026-10-14 for our base, with the 民 lock** (`glossary/min-民.md`, Shalom's call). Both transmitted commentators read 人 in both clauses, and 王弼 (*Wáng Bì*) builds the next line on the couplet's symmetry: 神不傷人，聖人亦不傷人…故曰兩不相傷也 — *"the numinous does not harm people, the sage also does not harm people… therefore it says the two do not harm each other."* The couplet needs the same object twice. **The fork stays evidence that the distinction was live in the oldest witness**, and it is one of three places where the witnesses trade 民 and 人 (57, 60, 64).
 
 ### An incidental finding: our base is inconsistent on the Han name-taboo
 

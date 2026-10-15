@@ -38,7 +38,7 @@ A working approximation is fine and expected; the *deep* meaning is what the glo
    A 🔶 is provisional — one case so far, so weigh it rather than obey it.
 4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. **⚠ §1's central claim was superseded on 2026-08-20;** the file carries a banner. The *heaven* half stands, the *king* half was backwards, and the lesson worth keeping is that a popular "帛書版" (*bó shū bǎn* — "silk-manuscript edition") text online had been silently emended and we took it for the silks. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
 
-**Three calls are deferred by Shalom and must not be quietly settled inside a chapter review** — 民/人 (*mín / rén* — the governed / a person), 正/奇 (*zhèng / qí* — straight / crooked), and the em-dashes in the verse. Argue them with new evidence if you have it; otherwise leave them. `WORKLIST.md` T4.
+**Two calls are deferred by Shalom and must not be quietly settled inside a chapter review** — 正/奇 (*zhèng / qí* — straight / crooked), and the em-dashes in the verse. *(A third, 民/人 (*mín / rén* — the people / a person), was taken up and settled on 2026-10-14: `glossary/min-民.md`.)* Argue them with new evidence if you have it; otherwise leave them. `WORKLIST.md` T4.
 
 ---
 
