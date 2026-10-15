@@ -73,9 +73,11 @@ _TONE = str.maketrans(
 # (zhī — the possessive particle) reaches almost every chapter and keeps company
 # with almost every character, which says nothing about the book's thought.
 # Anything arguable is left OUT of this list and therefore stays visible: 為
-# (wéi — do / handle) and 無 (wú — absence) are locked terms, not grammar.
+# (wéi — do / handle) and 無 (wú — absence) are locked terms, not grammar. 耳
+# (ěr) was on it as the particle "only", but in this book it is always "ears"
+# (12, 49). The words themselves get English from sources/grammar-glosses.yaml.
 FUNCTION_WORDS = set(
-    "之而其以於也者矣乎焉則所夫且與故亦乃兮哉耳斯于曰"
+    "之而其以於也者矣乎焉則所夫且與故亦乃兮哉斯于曰"
     "不非未弗勿毋何孰安豈"
     "吾我汝爾彼此是"
 )
@@ -469,7 +471,17 @@ def load_shuowen():
 
 def load_component_glosses():
     """(char, pinyin, gloss) from sources/component-glosses.yaml."""
-    path = ROOT / "sources" / "component-glosses.yaml"
+    return _load_gloss_list(ROOT / "sources" / "component-glosses.yaml")
+
+
+def load_grammar_glosses():
+    """(char, pinyin, gloss) from sources/grammar-glosses.yaml — the particles,
+    negatives and connectives that will never get a glossary entry."""
+    return _load_gloss_list(ROOT / "sources" / "grammar-glosses.yaml")
+
+
+def _load_gloss_list(path):
+    """(char, pinyin, gloss) from a hand-kept `- char: / pinyin: / gloss:` list."""
     if not path.exists():
         return []
     out, cur = [], {}
@@ -699,6 +711,13 @@ def build(conn, report=False):
                 render_of.setdefault(c, render)
                 lock_of.setdefault(c, (fm.get("term", ""),
                                        f"glossary/{path.name}", ""))
+
+    # `sources/grammar-glosses.yaml` — the grammar words, glossed by hand. An
+    # entry outranks it; it outranks the apparatus, whose plurality published
+    # 之 (zhī) as "it" and 唯 (wéi) as "agreement/yes".
+    for c, _pinyin, g in load_grammar_glosses():
+        if g:
+            gloss.setdefault(c, (g, "grammar"))
 
     # The apparatus tier, harvested per line and aggregated per character. The
     # winning English is the most common one across that character's glossed

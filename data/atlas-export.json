@@ -7369,8 +7369,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "it",
-   "gs": "apparatus",
+   "g": "of ('s) / it, them / (links a modifier to its noun)",
+   "gs": "grammar",
    "hw": "之",
    "kind": "pictograph",
    "lock": 0,
@@ -7467,8 +7467,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "not",
+   "gs": "grammar",
    "hw": "不",
    "kind": "compound",
    "lock": 0,
@@ -7554,8 +7554,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "by means of / so as to / because / take as",
+   "gs": "grammar",
    "hw": "㠯",
    "kind": "compound",
    "lock": 0,
@@ -7632,8 +7632,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "its / their / (in a question) surely?",
+   "gs": "grammar",
    "hw": null,
    "kind": null,
    "lock": 0,
@@ -7705,8 +7705,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "and / and yet / but",
+   "gs": "grammar",
    "hw": "而",
    "kind": "pictograph",
    "lock": 0,
@@ -7989,8 +7989,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "those",
-   "gs": "apparatus",
+   "g": "the one who / that which / (marks a topic)",
+   "gs": "grammar",
    "hw": "者",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -8331,8 +8331,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "this / (是以) therefore / (是謂) this is called",
+   "gs": "grammar",
    "hw": "是",
    "kind": "compound",
    "lock": 0,
@@ -8399,8 +8399,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "Therefore",
-   "gs": "apparatus",
+   "g": "therefore / so",
+   "gs": "grammar",
    "hw": "故",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -8607,8 +8607,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "at / in / to / than",
+   "gs": "grammar",
    "hw": null,
    "kind": null,
    "lock": 0,
@@ -8646,8 +8646,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "like / as if / seems / if",
+   "gs": "grammar",
    "hw": "若",
    "kind": "compound",
    "lock": 0,
@@ -9078,8 +9078,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "then/thus",
-   "gs": "apparatus",
+   "g": "then / and so",
+   "gs": "grammar",
    "hw": "則",
    "kind": "compound",
    "lock": 0,
@@ -9224,8 +9224,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "Now then",
-   "gs": "apparatus",
+   "g": "now (opening a statement) / that, those",
+   "gs": "grammar",
    "hw": "夫",
    "kind": "compound",
    "lock": 0,
@@ -9308,8 +9308,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "oh",
-   "gs": "apparatus",
+   "g": "oh! (a sung pause)",
+   "gs": "grammar",
    "hw": "兮",
    "kind": "compound",
    "lock": 0,
@@ -9352,8 +9352,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "what / where / that which (before a verb)",
+   "gs": "grammar",
    "hw": "所",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -9507,8 +9507,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "that is about to",
-   "gs": "apparatus",
+   "g": "about to / will / (將欲) wanting to / a general (31)",
+   "gs": "grammar",
    "hw": "將",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -9669,8 +9669,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "called",
-   "gs": "apparatus",
+   "g": "is called / says",
+   "gs": "grammar",
    "hw": "曰",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -9930,8 +9930,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "no one",
-   "gs": "apparatus",
+   "g": "none / no one / nothing",
+   "gs": "grammar",
    "hw": "莫",
    "kind": "compound",
    "lock": 0,
@@ -10160,8 +10160,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "sometimes",
-   "gs": "apparatus",
+   "g": "some / sometimes / perhaps",
+   "gs": "grammar",
    "hw": "或",
    "kind": "compound",
    "lock": 0,
@@ -10355,8 +10355,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "Agreement/yes",
-   "gs": "apparatus",
+   "g": "only / (夫唯) only because / a 'yes' (20)",
+   "gs": "grammar",
    "hw": "唯",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -10398,8 +10398,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "this",
-   "gs": "apparatus",
+   "g": "this / here",
+   "gs": "grammar",
    "hw": "此",
    "kind": "compound",
    "lock": 0,
@@ -10587,8 +10587,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "and / with / to give / (closes a question, 77)",
+   "gs": "grammar",
    "hw": "與",
    "kind": "compound",
    "lock": 0,
@@ -10660,8 +10660,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "particle",
-   "gs": "apparatus",
+   "g": "(closes a statement: it is so)",
+   "gs": "grammar",
    "hw": "也",
    "kind": "pictograph",
    "lock": 0,
@@ -10693,8 +10693,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "What",
-   "gs": "apparatus",
+   "g": "what / why / how",
+   "gs": "grammar",
    "hw": "何",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -10762,8 +10762,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "must",
-   "gs": "apparatus",
+   "g": "must / surely",
+   "gs": "grammar",
    "hw": "必",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -10867,8 +10867,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "also",
-   "gs": "apparatus",
+   "g": "also / too",
+   "gs": "grammar",
    "hw": "亦",
    "kind": "compound",
    "lock": 0,
@@ -11002,8 +11002,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "leads to",
-   "gs": "apparatus",
+   "g": "then / and so becomes",
+   "gs": "grammar",
    "hw": "乃",
    "kind": "pictograph",
    "lock": 0,
@@ -11185,8 +11185,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "so / thus / (然後) only then",
+   "gs": "grammar",
    "hw": "然",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -11588,8 +11588,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "question particle",
-   "gs": "apparatus",
+   "g": "(closes a question) / (an exclamation)",
+   "gs": "grammar",
    "hw": "乎",
    "kind": "compound",
    "lock": 0,
@@ -11694,8 +11694,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "Like",
-   "gs": "apparatus",
+   "g": "like / as / (不如) better to",
+   "gs": "grammar",
    "hw": "如",
    "kind": "compound",
    "lock": 0,
@@ -11730,8 +11730,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "Who",
-   "gs": "apparatus",
+   "g": "who / which",
+   "gs": "grammar",
    "hw": "𦏧",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -11932,8 +11932,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "particle",
-   "gs": "apparatus",
+   "g": "(closes a statement: now it is so)",
+   "gs": "grammar",
    "hw": "矣",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -12072,8 +12072,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "they are not",
-   "gs": "apparatus",
+   "g": "is not / not / is it not?",
+   "gs": "grammar",
    "hw": "非",
    "kind": "compound",
    "lock": 0,
@@ -12237,8 +12237,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "here",
-   "gs": "apparatus",
+   "g": "there / to it / (closes a statement)",
+   "gs": "grammar",
    "hw": "焉",
    "kind": "pictograph",
    "lock": 0,
@@ -12888,7 +12888,7 @@
    "fq": null,
    "fw": 0,
    "g": "all",
-   "gs": "apparatus",
+   "gs": "grammar",
    "hw": "皆",
    "kind": "compound",
    "lock": 0,
@@ -13149,8 +13149,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "alas",
-   "gs": "apparatus",
+   "g": "(an exclamation) / how…!",
+   "gs": "grammar",
    "hw": "哉",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -13248,8 +13248,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "not yet",
+   "gs": "grammar",
    "hw": "未",
    "kind": "pictograph",
    "lock": 0,
@@ -13589,8 +13589,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "already / once / used up (35)",
+   "gs": "grammar",
    "hw": "旣",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -13751,8 +13751,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "like / still, even so / hesitant (15)",
+   "gs": "grammar",
    "hw": "猶",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -13879,8 +13879,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "although / even if",
+   "gs": "grammar",
    "hw": "雖",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -13910,8 +13910,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "long-lasting and",
-   "gs": "apparatus",
+   "g": "and / and also",
+   "gs": "grammar",
    "hw": "且",
    "kind": "compound",
    "lock": 0,
@@ -14222,8 +14222,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "take the calm/at rest",
-   "gs": "apparatus",
+   "g": "at rest / settled / how? (79)",
+   "gs": "grammar",
    "hw": "安",
    "kind": "compound",
    "lock": 0,
@@ -14439,8 +14439,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": null,
-   "gs": "none",
+   "g": "not / does not",
+   "gs": "grammar",
    "hw": "弗",
    "kind": "compound",
    "lock": 0,
@@ -15315,7 +15315,7 @@
    "fq": null,
    "fw": 1,
    "g": "do not",
-   "gs": "apparatus",
+   "gs": "grammar",
    "hw": "勿",
    "kind": "pictograph",
    "lock": 0,
@@ -17498,8 +17498,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "that",
-   "gs": "apparatus",
+   "g": "that (over there)",
+   "gs": "grammar",
    "hw": "彼",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -17647,8 +17647,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "",
-   "gs": "apparatus-split",
+   "g": "only",
+   "gs": "grammar",
    "hw": "惟",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -19473,8 +19473,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "says",
+   "gs": "grammar",
    "hw": null,
    "kind": null,
    "lock": 0,
@@ -19833,8 +19833,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "again / and further",
+   "gs": "grammar",
    "hw": "又",
    "kind": "pictograph",
    "lock": 0,
@@ -19914,8 +19914,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "Each",
-   "gs": "apparatus",
+   "g": "each",
+   "gs": "grammar",
    "hw": "各",
    "kind": "compound",
    "lock": 0,
@@ -20117,8 +20117,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "(奈何) how / why",
+   "gs": "grammar",
    "hw": "柰",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20955,8 +20955,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": null,
-   "gs": "none",
+   "g": "then / thereupon",
+   "gs": "grammar",
    "hw": "斯",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -21960,7 +21960,7 @@
    "entries": [],
    "entry": null,
    "fq": null,
-   "fw": 1,
+   "fw": 0,
    "g": "ears",
    "gs": "apparatus",
    "hw": "耳",
@@ -27110,8 +27110,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "how much more/let alone",
-   "gs": "apparatus",
+   "g": "how much more / let alone",
+   "gs": "grammar",
    "hw": "況",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -29948,8 +29948,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": null,
-   "gs": "none",
+   "g": "who / whose",
+   "gs": "grammar",
    "hw": "誰",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -30093,8 +30093,8 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "How could it be",
-   "gs": "apparatus",
+   "g": "how could…? (expecting no)",
+   "gs": "grammar",
    "hw": "豈",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -33471,11 +33471,11 @@
   ],
   "不": [
    "bù",
-   ""
+   "not"
   ],
   "且": [
    "qiě",
-   "long-lasting and"
+   "and / and also"
   ],
   "並": [
    "bìng",
@@ -33499,7 +33499,7 @@
   ],
   "乃": [
    "nǎi",
-   "leads to"
+   "then / and so becomes"
   ],
   "久": [
    "jiǔ",
@@ -33507,11 +33507,11 @@
   ],
   "之": [
    "zhī",
-   "it"
+   "of ('s) / it, them / (links a modifier to its noun)"
   ],
   "乎": [
    "hū",
-   "question particle"
+   "(closes a question) / (an exclamation)"
   ],
   "乘": [
    "shèng",
@@ -33523,7 +33523,7 @@
   ],
   "也": [
    "yě",
-   "particle"
+   "(closes a statement: it is so)"
   ],
   "亂": [
    "luàn",
@@ -33539,7 +33539,7 @@
   ],
   "云": [
    "yún",
-   null
+   "says"
   ],
   "五": [
    "Wǔ",
@@ -33555,7 +33555,7 @@
   ],
   "亦": [
    "yì",
-   "also"
+   "also / too"
   ],
   "享": [
    "xiǎng",
@@ -33603,7 +33603,7 @@
   ],
   "以": [
    "yǐ",
-   ""
+   "by means of / so as to / because / take as"
   ],
   "企": [
    "Qǐ",
@@ -33635,7 +33635,7 @@
   ],
   "何": [
    "Hé",
-   "What"
+   "what / why / how"
   ],
   "余": [
    "yú",
@@ -33779,7 +33779,7 @@
   ],
   "兮": [
    "xī",
-   "oh"
+   "oh! (a sung pause)"
   ],
   "共": [
    "gòng",
@@ -33791,7 +33791,7 @@
   ],
   "其": [
    "qí",
-   ""
+   "its / their / (in a question) surely?"
   ],
   "兼": [
    "jiān",
@@ -33843,7 +33843,7 @@
   ],
   "則": [
    "zé",
-   "then/thus"
+   "then / and so"
   ],
   "前": [
    "qián",
@@ -33955,7 +33955,7 @@
   ],
   "又": [
    "yòu",
-   null
+   "again / and further"
   ],
   "及": [
    "Jí",
@@ -33999,7 +33999,7 @@
   ],
   "各": [
    "Gè",
-   "Each"
+   "each"
   ],
   "合": [
    "hé",
@@ -34059,11 +34059,11 @@
   ],
   "哉": [
    "zāi",
-   "alas"
+   "(an exclamation) / how…!"
   ],
   "唯": [
    "wéi",
-   "Agreement/yes"
+   "only / (夫唯) only because / a 'yes' (20)"
   ],
   "善": [
    "shàn",
@@ -34215,7 +34215,7 @@
   ],
   "夫": [
    "Fū",
-   "Now then"
+   "now (opening a statement) / that, those"
   ],
   "央": [
    "yāng",
@@ -34239,7 +34239,7 @@
   ],
   "奈": [
    "Nài",
-   null
+   "(奈何) how / why"
   ],
   "奉": [
    "fèng",
@@ -34271,7 +34271,7 @@
   ],
   "如": [
    "rú",
-   "Like"
+   "like / as / (不如) better to"
   ],
   "妄": [
    "Wàng",
@@ -34339,7 +34339,7 @@
   ],
   "孰": [
    "Shú",
-   "Who"
+   "who / which"
   ],
   "學": [
    "xué",
@@ -34355,7 +34355,7 @@
   ],
   "安": [
    "ān",
-   "take the calm/at rest"
+   "at rest / settled / how? (79)"
   ],
   "宗": [
    "zōng",
@@ -34443,7 +34443,7 @@
   ],
   "將": [
    "jiāng",
-   "that is about to"
+   "about to / will / (將欲) wanting to / a general (31)"
   ],
   "專": [
    "Zhuān",
@@ -34607,7 +34607,7 @@
   ],
   "弗": [
    "fú",
-   null
+   "not / does not"
   ],
   "弱": [
    "ruò",
@@ -34643,7 +34643,7 @@
   ],
   "彼": [
    "bǐ",
-   "that"
+   "that (over there)"
   ],
   "往": [
    "wang",
@@ -34707,7 +34707,7 @@
   ],
   "必": [
    "bì",
-   "must"
+   "must / surely"
   ],
   "忌": [
    "jì",
@@ -34779,7 +34779,7 @@
   ],
   "惟": [
    "wéi",
-   ""
+   "only"
   ],
   "惡": [
    "è",
@@ -34843,7 +34843,7 @@
   ],
   "或": [
    "huò",
-   "sometimes"
+   "some / sometimes / perhaps"
   ],
   "戰": [
    "zhàn",
@@ -34855,7 +34855,7 @@
   ],
   "所": [
    "suǒ",
-   ""
+   "what / where / that which (before a verb)"
   ],
   "手": [
    "shǒu",
@@ -34967,7 +34967,7 @@
   ],
   "故": [
    "Gù",
-   "Therefore"
+   "therefore / so"
   ],
   "救": [
    "jiù",
@@ -35019,7 +35019,7 @@
   ],
   "斯": [
    "sī",
-   null
+   "then / thereupon"
   ],
   "新": [
    "xīn",
@@ -35031,7 +35031,7 @@
   ],
   "於": [
    "yú",
-   ""
+   "at / in / to / than"
   ],
   "施": [
    "shī",
@@ -35039,7 +35039,7 @@
   ],
   "既": [
    "jì",
-   null
+   "already / once / used up (35)"
   ],
   "日": [
    "rì",
@@ -35079,7 +35079,7 @@
   ],
   "是": [
    "Shì",
-   ""
+   "this / (是以) therefore / (是謂) this is called"
   ],
   "時": [
    "shí",
@@ -35103,7 +35103,7 @@
   ],
   "曰": [
    "yuē",
-   "called"
+   "is called / says"
   ],
   "曲": [
    "Qū",
@@ -35139,7 +35139,7 @@
   ],
   "未": [
    "wèi",
-   ""
+   "not yet"
   ],
   "末": [
    "mò",
@@ -35251,7 +35251,7 @@
   ],
   "此": [
    "Cǐ",
-   "this"
+   "this / here"
   ],
   "武": [
    "wǔ",
@@ -35339,7 +35339,7 @@
   ],
   "況": [
    "kuàng",
-   "how much more/let alone"
+   "how much more / let alone"
   ],
   "泊": [
    "bó",
@@ -35463,7 +35463,7 @@
   ],
   "焉": [
    "yān",
-   "here"
+   "there / to it / (closes a statement)"
   ],
   "無": [
    "Wú",
@@ -35471,7 +35471,7 @@
   ],
   "然": [
    "rán",
-   null
+   "so / thus / (然後) only then"
   ],
   "熙": [
    "xī",
@@ -35555,7 +35555,7 @@
   ],
   "猶": [
    "yóu",
-   ""
+   "like / still, even so / hesitant (15)"
   ],
   "獨": [
    "dú",
@@ -35731,7 +35731,7 @@
   ],
   "矣": [
    "yǐ",
-   "particle"
+   "(closes a statement: now it is so)"
   ],
   "知": [
    "zhī",
@@ -35987,11 +35987,11 @@
   ],
   "者": [
    "zhě",
-   "those"
+   "the one who / that which / (marks a topic)"
   ],
   "而": [
    "ér",
-   ""
+   "and / and yet / but"
   ],
   "耳": [
    "ěr",
@@ -36079,7 +36079,7 @@
   ],
   "與": [
    "yǔ",
-   ""
+   "and / with / to give / (closes a question, 77)"
   ],
   "興": [
    "xīng",
@@ -36111,7 +36111,7 @@
   ],
   "若": [
    "ruò",
-   ""
+   "like / as if / seems / if"
   ],
   "草": [
    "cǎo",
@@ -36131,7 +36131,7 @@
   ],
   "莫": [
    "mò",
-   "no one"
+   "none / no one / nothing"
   ],
   "華": [
    "huá",
@@ -36287,7 +36287,7 @@
   ],
   "誰": [
    "shuí",
-   null
+   "who / whose"
   ],
   "諱": [
    "huì",
@@ -36331,7 +36331,7 @@
   ],
   "豈": [
    "Qǐ",
-   "How could it be"
+   "how could…? (expecting no)"
   ],
   "豐": [
    "fēng",
@@ -36727,7 +36727,7 @@
   ],
   "雖": [
    "Suī",
-   ""
+   "although / even if"
   ],
   "雞": [
    "jī",
@@ -36763,7 +36763,7 @@
   ],
   "非": [
    "fēi",
-   "they are not"
+   "is not / not / is it not?"
   ],
   "音": [
    "yīn",

@@ -1,0 +1,199 @@
+# Grammar words — short English glosses
+#
+# WHY THIS FILE EXISTS. The particles, negatives, pronouns and connectives of
+# the Laozi will never get a glossary entry: they do no lexical work of their
+# own, and an essay on 之 (zhī) would be an essay on Chinese grammar, not on
+# this book. But they are the commonest graphs in it, and without English the
+# character atlas showed them as "not yet glossed", or worse, published a
+# plurality from the source tables' literal column as if it were a meaning. 之
+# shipped as "it", though most of its 252 uses link a modifier to a noun, and
+# 唯 (wéi) as "agreement/yes", though fifteen of its sixteen uses are "only".
+#
+# WHAT A GLOSS HERE IS. A short list of the jobs the word does IN THIS BOOK,
+# slash-separated, most frequent first, written by reading every line it stands
+# in. A sense the book uses once is given its chapter in parentheses. Glosses in
+# parentheses describe a job English has no word for (a sentence-final
+# particle). It is not a dictionary definition and not a lock: nothing here is
+# enforced, and a word that one day earns an entry leaves this file.
+#
+# PRECEDENCE. A glossary entry governs (its lock or its `covers:`), then this
+# file, then the apparatus harvested from the source tables. Read by
+# tools/build_db.py into the character table as gloss_source = 'grammar'.
+#
+# SCOPE. tools/build_db.py's FUNCTION_WORDS, plus the near-grammar words that
+# list leaves out (若 如 莫 將 唯 或 必 雖 猶 既 惟 云 又 奈 誰 皆 各 況 然) —
+# minus 吾 and 我, which have an entry. A grammar word whose reading changes
+# meaning across the book gets an entry instead, as 可 (kě) did.
+#
+# The English is ours, and CC0 like everything else in this repository.
+#
+# Fields: char · pinyin · gloss
+
+# --- particles and connectives
+- char: "之"
+  pinyin: "zhī"
+  gloss: "of ('s) / it, them / (links a modifier to its noun)"
+- char: "而"
+  pinyin: "ér"
+  gloss: "and / and yet / but"
+- char: "其"
+  pinyin: "qí"
+  gloss: "its / their / (in a question) surely?"
+- char: "以"
+  pinyin: "yǐ"
+  gloss: "by means of / so as to / because / take as"
+- char: "於"
+  pinyin: "yú"
+  gloss: "at / in / to / than"
+- char: "也"
+  pinyin: "yě"
+  gloss: "(closes a statement: it is so)"
+- char: "者"
+  pinyin: "zhě"
+  gloss: "the one who / that which / (marks a topic)"
+- char: "矣"
+  pinyin: "yǐ"
+  gloss: "(closes a statement: now it is so)"
+- char: "乎"
+  pinyin: "hū"
+  gloss: "(closes a question) / (an exclamation)"
+- char: "焉"
+  pinyin: "yān"
+  gloss: "there / to it / (closes a statement)"
+- char: "則"
+  pinyin: "zé"
+  gloss: "then / and so"
+- char: "所"
+  pinyin: "suǒ"
+  gloss: "what / where / that which (before a verb)"
+- char: "夫"
+  pinyin: "fú"
+  gloss: "now (opening a statement) / that, those"
+- char: "且"
+  pinyin: "qiě"
+  gloss: "and / and also"
+- char: "與"
+  pinyin: "yǔ"
+  gloss: "and / with / to give / (closes a question, 77)"
+- char: "故"
+  pinyin: "gù"
+  gloss: "therefore / so"
+- char: "亦"
+  pinyin: "yì"
+  gloss: "also / too"
+- char: "乃"
+  pinyin: "nǎi"
+  gloss: "then / and so becomes"
+- char: "兮"
+  pinyin: "xī"
+  gloss: "oh! (a sung pause)"
+- char: "哉"
+  pinyin: "zāi"
+  gloss: "(an exclamation) / how…!"
+- char: "斯"
+  pinyin: "sī"
+  gloss: "then / thereupon"
+- char: "曰"
+  pinyin: "yuē"
+  gloss: "is called / says"
+- char: "然"
+  pinyin: "rán"
+  gloss: "so / thus / (然後) only then"
+- char: "云"
+  pinyin: "yún"
+  gloss: "says"
+- char: "又"
+  pinyin: "yòu"
+  gloss: "again / and further"
+- char: "雖"
+  pinyin: "suī"
+  gloss: "although / even if"
+- char: "況"
+  pinyin: "kuàng"
+  gloss: "how much more / let alone"
+
+# --- negatives
+- char: "不"
+  pinyin: "bù"
+  gloss: "not"
+- char: "非"
+  pinyin: "fēi"
+  gloss: "is not / not / is it not?"
+- char: "未"
+  pinyin: "wèi"
+  gloss: "not yet"
+- char: "弗"
+  pinyin: "fú"
+  gloss: "not / does not"
+- char: "勿"
+  pinyin: "wù"
+  gloss: "do not"
+- char: "莫"
+  pinyin: "mò"
+  gloss: "none / no one / nothing"
+
+# --- questions
+- char: "何"
+  pinyin: "hé"
+  gloss: "what / why / how"
+- char: "孰"
+  pinyin: "shú"
+  gloss: "who / which"
+- char: "安"
+  pinyin: "ān"
+  gloss: "at rest / settled / how? (79)"
+- char: "豈"
+  pinyin: "qǐ"
+  gloss: "how could…? (expecting no)"
+- char: "奈"
+  pinyin: "nài"
+  gloss: "(奈何) how / why"
+- char: "誰"
+  pinyin: "shuí"
+  gloss: "who / whose"
+
+# --- pointing words
+- char: "彼"
+  pinyin: "bǐ"
+  gloss: "that (over there)"
+- char: "此"
+  pinyin: "cǐ"
+  gloss: "this / here"
+- char: "是"
+  pinyin: "shì"
+  gloss: "this / (是以) therefore / (是謂) this is called"
+- char: "皆"
+  pinyin: "jiē"
+  gloss: "all"
+- char: "各"
+  pinyin: "gè"
+  gloss: "each"
+
+# --- manner and likeness
+- char: "若"
+  pinyin: "ruò"
+  gloss: "like / as if / seems / if"
+- char: "如"
+  pinyin: "rú"
+  gloss: "like / as / (不如) better to"
+- char: "猶"
+  pinyin: "yóu"
+  gloss: "like / still, even so / hesitant (15)"
+- char: "將"
+  pinyin: "jiāng"
+  gloss: "about to / will / (將欲) wanting to / a general (31)"
+- char: "唯"
+  pinyin: "wéi"
+  gloss: "only / (夫唯) only because / a 'yes' (20)"
+- char: "惟"
+  pinyin: "wéi"
+  gloss: "only"
+- char: "或"
+  pinyin: "huò"
+  gloss: "some / sometimes / perhaps"
+- char: "必"
+  pinyin: "bì"
+  gloss: "must / surely"
+- char: "既"
+  pinyin: "jì"
+  gloss: "already / once / used up (35)"

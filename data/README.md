@@ -23,7 +23,9 @@ rendering beside it. That is `CLAUDE.md` standing rule 0, and `tools/export.py
 |---|---|---|
 | `locked` | a settled rendering in `glossary/terms.yaml` | high — this is the edition's own decision |
 | `covers` | a secondary character absorbed by a glossary entry | high |
+| `grammar` | a particle, negative or connective, glossed by hand in `sources/grammar-glosses.yaml` | high for what it is — a list of the word's jobs in this book, not a ruling |
 | `apparatus` | the `[pinyin]` notes in the Literal column of the source tables | **working approximation** |
+| `apparatus-split` | the apparatus glossed it, but no English won a majority, so none is published | — |
 | `none` | nothing in this repo glosses this character yet | — |
 
 `apparatus` glosses are harvested from the source tables' literal column, which
