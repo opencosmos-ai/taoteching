@@ -141,8 +141,9 @@ a complete contribution, and it is the one I cannot make myself.
 
 If you want something more concrete:
 
-- **389 of the book's 798 characters have no English gloss yet** — 87 of them
-  appear three or more times. Each is small, self-contained, and useful.
+- **462 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
+  a reader's aid rather than a ruling. Checking one against its lines, or
+  promoting it to a full glossary entry, is small, self-contained, and useful.
 - **32 chapters still carry em-dashes in the verse**, which the style forbids
   because a dash can hide a missing subject.
 - **Two decisions are deferred across the whole book** — 正 / 奇 (*zhèng / qí* —

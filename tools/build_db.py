@@ -474,6 +474,12 @@ def load_component_glosses():
     return _load_gloss_list(ROOT / "sources" / "component-glosses.yaml")
 
 
+def load_word_glosses():
+    """(char, pinyin, gloss) from sources/word-glosses.yaml — short English for
+    the content characters no glossary entry or apparatus majority covers."""
+    return _load_gloss_list(ROOT / "sources" / "word-glosses.yaml")
+
+
 def load_grammar_glosses():
     """(char, pinyin, gloss) from sources/grammar-glosses.yaml — the particles,
     negatives and connectives that will never get a glossary entry."""
@@ -718,6 +724,13 @@ def build(conn, report=False):
     for c, _pinyin, g in load_grammar_glosses():
         if g:
             gloss.setdefault(c, (g, "grammar"))
+
+    # `sources/word-glosses.yaml` — the content characters with no entry, read
+    # line by line and glossed by hand. Same rank as the grammar list: below an
+    # entry, above the apparatus, which had published nothing for these.
+    for c, _pinyin, g in load_word_glosses():
+        if g:
+            gloss.setdefault(c, (g, "word"))
 
     # The apparatus tier, harvested per line and aggregated per character. The
     # winning English is the most common one across that character's glossed
