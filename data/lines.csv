@@ -188,7 +188,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 16,17,4,天乃道，,"Tiān nǎi dào,","Heaven \[tian\] then leads to \[nai\] the Tao \[dao\],",The Tao leads to what endures.,proportional
 16,18,4,道乃久，,"Dào nǎi jiǔ,","The Tao \[dao\] then leads to \[nai\] endurance/longevity \[jiu\],","And to the end of your days, no danger will find you.",proportional
 16,19,4,没身不殆。,Mò shēn bù dài.,To the end of one's life/body \[mo shen\] there is no \[bu\] danger/exhaustion \[dai\].,"And to the end of your days, no danger will find you.",proportional-fill
-17,1,1,太上，下知有之；,"Tài shàng, xià zhī yǒu zhī;","Highest/supreme \[tai shang\], those below \[xia\] know \[zhi\] of its existence \[you zhi\];","About the greatest leaders, those below know only that they exist.",exact-count
+17,1,1,太上，下知有之；,"Tài shàng, xià zhī yǒu zhī;","Highest/supreme \[tai shang\], those below \[xia\] know \[zhi\] of its existence \[you zhi\];","About the greatest leaders, those under them know only that they exist.",exact-count
 17,2,1,其次，親而譽之；,"Qí cì, qīn ér yù zhī;","The next \[qi ci\], love/are close to \[qin\] and \[er\] praise \[yu\] them \[zhi\];",Good leaders are widely loved and praised.,exact-count
 17,3,1,其次，畏之；,"Qí cì, wèi zhī;","The next \[qi ci\], fear \[wei\] them \[zhi\];",Poor leaders are feared.,exact-count
 17,4,1,其次，侮之。,"Qí cì, wǔ zhī.","The next \[qi ci\], despise/insult \[wu\] them \[zhi\].",The worst leaders are despised by all.,exact-count
@@ -634,8 +634,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 58,10,3,直而不肆，,"zhí ér bù sì,","Straight but does not overreach/extend recklessly,","straight but does not overreach,",exact-count
 58,11,3,光而不耀。,guāng ér bù yào.,Luminous but does not blind/dazzle.,bright but does not dazzle.,exact-count
 59,1,1,治人事天，莫若嗇。,"Zhì rén shì tiān, mò ruò sè.","In governing people and serving heaven, there is nothing like frugality/conservation.","When governing people and serving nature, nothing compares to conserving.",exact-count
-59,2,1,夫唯嗇，是謂早服；,"Fú wéi sè, shì wèi zǎo fú;","Only through frugality, is it called submitting early;","Conserving is called early accord,",exact-count
-59,3,1,早服謂之重積德；,Zǎo fú wèi zhī zhòng jī dé;,Submitting early is called heavily accumulating Virtue/Power (Te);,"early accord is called a heavy accumulation of integrity,",exact-count
+59,2,1,夫唯嗇，是謂早服；,"Fú wéi sè, shì wèi zǎo fú;","Only through frugality, is it called submitting early;","Conserving is called accepting early,",exact-count
+59,3,1,早服謂之重積德；,Zǎo fú wèi zhī zhòng jī dé;,Submitting early is called heavily accumulating Virtue/Power (Te);,"accepting early is called a heavy accumulation of integrity,",exact-count
 59,4,1,重積德則無不克；,Zhòng jī dé zé wú bù kè;,"Heavily accumulating Virtue, there is nothing that cannot be overcome;","a heavy accumulation of integrity is when nothing cannot be overcome,",exact-count
 59,5,1,無不克則莫知其極；,Wú bù kè zé mò zhī qí jí;,"When nothing cannot be overcome, no one knows its limit;","when nothing cannot be overcome, no one knows its limit,",exact-count
 59,6,1,莫知其極，可以有國；,"Mò zhī qí jí, kě yǐ yǒu guó;","When no one knows its limit, one can possess/maintain the state;","when no one knows its limit, you can have the state.",exact-count

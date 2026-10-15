@@ -464,7 +464,7 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 *2026-10-14, Shalom's call. `WORKLIST.md` T2-61.*
 
-**Glossing every unglossed character against its own line found eight places where the verse was not rendering the Chinese.** All are now fixed. **30**: 佐 (*zuǒ*) restored as *supports*, following 王弼; the line is about the ruler's minister. **59**: 早服 → *early accord*, not *returning*. **17**: 下 restored. **22, 24**: 矜 → *boast*, freeing 大's *great*. **27**: *counting rods*, not *abacus*. **50**: 甲 restored. **54, 18**: 邦/國 → *state*. Each chapter's note has the argument.
+**Glossing every unglossed character against its own line found eight places where the verse was not rendering the Chinese.** All are now fixed. **30**: 佐 (*zuǒ*) restored as *supports*, following 王弼; the line is about the ruler's minister. **59**: 早服 → *accepting early*, not *returning* (*early accord* tried and dropped as jargon). **17**: 下 restored as *those under them*, the pair of ch 75's *those over them*. **22, 24**: 矜 → *boast*, freeing 大's *great*. **27**: *counting rods*, not *abacus*. **50**: 甲 restored. **54, 18**: 邦/國 → *state*. Each chapter's note has the argument.
 
 **One finding was withdrawn: 29's *sacred vessel*.** It is argued in `notes/reading.md` (a 神器 is a ritual bronze), and *sacred* is not on the overlay watchlist. It waits for the 神/靈 entry (T2-37).
 
