@@ -62,7 +62,7 @@ Note that 虛 (*emptying*) is not an insult here. It is Laozi's highest practice
 The book's densest use puts 心 three times in nine characters:
 
 > 聖人無常**心**，以百姓**心**為**心**。
-> *The sage has no fixed heart; they take the heart of the people as their heart.*
+> *The sage has no fixed heart; they take everyone's heart as their own.*
 
 Not "no heart" — **no fixed one.** The sage has no private set of preferences held steady against the world, so the people's disposition can become theirs. It is the political form of 無為: not doing nothing, but not bringing your own agenda to the encounter.
 

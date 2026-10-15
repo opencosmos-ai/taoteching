@@ -410,6 +410,14 @@
   status: locked
   entry: glossary/chi-持.md
 
+- term: "百姓"
+  pinyin: "bǎi xìng"
+  render: "everyone"
+  forbidden: ["the people", "the hundred families", "the hundred surnames", "the masses", "the common people"]
+  chapters: [5, 17, 49]
+  status: locked
+  entry: glossary/baixing-百姓.md
+
 - term: "知足"
   pinyin: "zhī zú"
   render: "knowing you have enough / contentment"

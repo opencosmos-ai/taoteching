@@ -72,11 +72,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 4,2,萬,wàn,萬物,countless,yes,1.0,exact-count,"Fathomless, it seems to be the ancestor of the countless things."
 4,6,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,I do not know whose child it is.
 4,7,帝,dì,帝,god — *any god* at its one occurrence,NOT FOUND,1.0,exact-count,It seems older than any god.
-5,1,仁,rén,仁,humaneness,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat the people as straw dogs.
-5,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat the people as straw dogs.
-5,1,為,wéi,為,do / handle / serve as,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat the people as straw dogs.
-5,1,物,wù,萬物,things / something,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat the people as straw dogs.
-5,1,萬,wàn,萬物,countless,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat the people as straw dogs.
+5,1,仁,rén,仁,humaneness,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
+5,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
+5,1,為,wéi,為,do / handle / serve as,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
+5,1,物,wù,萬物,things / something,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
+5,1,萬,wàn,萬物,countless,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
 5,2,仁,rén,仁,humaneness,NOT FOUND,0.3,proportional,Isn't the space between sky and earth like a bellows?
 5,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Isn't the space between sky and earth like a bellows?
 5,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Empty but never depleted, the more it moves, the more it yields."
@@ -266,7 +266,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 17,5,信,xìn,信,trust / trustworthy,yes,1.0,exact-count,"Where trust runs short, there is no trust."
 17,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Where trust runs short, there is no trust."
 17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When their work is done,"
-17,8,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"The people all say, “We did this by ourselves.”"
+17,8,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"Everyone says, “We did this by ourselves.”"
 18,1,仁,rén,仁,humaneness,yes,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
@@ -770,12 +770,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 48,5,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.3,proportional,"The moment you meddle, it stops coming."
 48,5,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The moment you meddle, it stops coming."
 48,5,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"The moment you meddle, it stops coming."
-49,1,常,cháng,常,the ever-present / ever / always,yes,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
-49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
-49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
-49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
-49,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
-49,1,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take the heart of the people as their own.
+49,1,常,cháng,常,the ever-present / ever / always,yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
 49,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,"The masterful, I count as masterful;"
 49,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"The masterful, I count as masterful;"
 49,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"The masterful, I count as masterful;"
@@ -792,10 +792,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,6,吾,wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,Integrity is trust.
 49,7,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"In the world, the sage breathes gently; for the sake of the world, they let their heart go muddy."
 49,7,德,Dé,德,integrity,NOT FOUND,0.3,proportional,"In the world, the sage breathes gently; for the sake of the world, they let their heart go muddy."
-49,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The people pour out their attention, all eyes and ears;"
-49,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The people pour out their attention, all eyes and ears;"
-49,8,心,xīn,心,heart,NOT FOUND,0.3,proportional,"The people pour out their attention, all eyes and ears;"
-49,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"The people pour out their attention, all eyes and ears;"
+49,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
+49,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
+49,8,心,xīn,心,heart,NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
+49,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
 50,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,2,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
@@ -1071,10 +1071,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,8,爭,zhēng,爭,contend / contention,yes,0.3,proportional,no one in the world can contend with them.
 66,8,爭,zhēng,爭,contend / contention,yes,0.3,proportional,no one in the world can contend with them.
 66,8,能,néng,可,be able,NOT FOUND,0.3,proportional,no one in the world can contend with them.
-67,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
-67,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
-67,1,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
-67,1,道,dào,道,the Tao / way,NOT FOUND,0.3,proportional,"Everyone says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
+67,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"The world says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
+67,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The world says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
+67,1,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,"The world says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
+67,1,道,dào,道,the Tao / way,NOT FOUND,0.3,proportional,"The world says my Tao is great, and looks like nothing. Only because it is great does it look like nothing."
 67,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"If it looked like anything, it would long since have been slight."
 67,4,保,bǎo,保,keep safe,NOT FOUND,0.3,proportional,The second is frugality.
 67,4,我,Wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,The second is frugality.

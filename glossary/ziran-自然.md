@@ -84,7 +84,7 @@ Chapter 64 puts both words in a single line, and it is the most compact statemen
 And Chapter 17 shows what this feels like from **inside** — the only place in the book where 自然 is spoken by ordinary people rather than the philosopher:
 
 > 百姓皆謂：「我自然」。
-> *The people all say: "We did this ourselves."*
+> *Everyone says: "We did this ourselves."*
 
 The best ruler is the one whose work is invisible, because those who lived through it experience their own flourishing as **self-caused**. That is 自然 as a lived political fact, not a metaphysical abstraction.
 

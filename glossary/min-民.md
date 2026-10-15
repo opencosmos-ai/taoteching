@@ -14,7 +14,7 @@ pairing: false
 
 *Say "meen," rising. Thirty-two appearances across thirteen chapters, nearly all of them in the book's political half.*
 
-**Locked: 民 → "the people,"** always with the article, **and "the people" belongs to 民 alone.** *(Not "the masses," "the multitude," "the populace," "subjects," "citizens," "commoners," "peasants," or "the governed." That 人 (*rén* — a person) and 百姓 (*bǎi xìng* — the hundred surnames) must not wear "the people" is a ruling no check can hold; see* What no rule can enforce *below.)*
+**Locked: 民 → "the people,"** always with the article, **and "the people" belongs to 民 alone.** *(Not "the masses," "the multitude," "the populace," "subjects," "citizens," "commoners," "peasants," or "the governed." That 人 (*rén* — a person) must not wear "the people" is a ruling no check can hold; see* What no rule can enforce *below. 百姓 (*bǎi xìng*), the other word for the population, is locked to "everyone": `baixing-百姓.md`.)*
 
 民 is the people **as seen from the seat of government**: the population a ruler governs, taxes, frightens, loves, or leaves alone. The word is never neutral about who is looking. In every line but one, someone stands across from 民: a sage, a ruler, a state, those over them. Laozi's whole political teaching is addressed to that someone, and 民 is the name for the ones on the other side of the address.
 
@@ -91,18 +91,16 @@ The copying tradition let 民 and 人 change places three times, and each change
 | **民** | sprouts, or a disputed eye | the people across from a ruler | *the people* |
 | **人** (*rén*) | a person standing, in profile | a human being, anyone | *people · a person · others* |
 | **眾** (*zhòng*) | figures under the sun or an eye | the many, the crowd | *the crowd · the many* (locked) |
-| **百姓** (*bǎi xìng*) | 百 a hundred, 姓 a clan name, from 女 (*nǚ* — woman) and 生 (*shēng* — birth) | the families, named from among themselves | *see* Left open |
+| **百姓** (*bǎi xìng*) | 百 a hundred, 姓 a clan name, from 女 (*nǚ* — woman) and 生 (*shēng* — birth) | the whole population, named from among themselves | *everyone* (locked, `baixing-百姓.md`) |
 
 ### What no rule can enforce
 
-**人 must not render as "the people," and the checker cannot say so.** A `forbidden:` entry works by chapter presence, and chapter 57 holds both characters: 民 five times, legitimately *the people*, and 人 twice. Any ban on *the people* would flag 民's own lines. The ruling is for the reader: **in a chapter with 民, *the people* is 民's, and 人 takes *people*, *a person*, or *others*.** The manuscript holds this today. Its one apparent breach, 57's *"the more sharp weapons the people have,"* renders the 民 every witness but our base prints. That fork is recorded in `sources/variants.yaml`.
+**人 must not render as "the people," and the checker cannot say so.** A `forbidden:` entry works by chapter presence, and chapter 57 holds both characters: 民 five times, legitimately *the people*, and 人 twice. Any ban on *the people* would flag 民's own lines. The ruling is for the reader: **in a chapter with 民, *the people* is 民's, and 人 takes *people*, *a person*, or *others*.** Chapter 57's *"the more sharp weapons the people have"* is not a breach: it renders the 民 that every witness but our base prints, a fork recorded in `sources/variants.yaml`.
 
-**百姓 is the other wearer, and it has no entry to forbid from.** It reads *the people* at 5, 17 and 49 (twice). None of those chapters holds 民, so no check will ever see the collision. Only the reverse search shows it: `concordance.py --english "the people"`.
+**百姓 is held by its own entry.** It is locked to *everyone*, and it forbids *the people*, which the checker can enforce because none of its chapters (5, 17, 49) holds 民.
 
 ### Left open
 
-**百姓 is a different word, and it shares 民's English.** 百姓 is *the hundred surnames*, a compound older than the book. It once named the clans who had surnames, and by the Warring States it meant the common families. It turns up in a different kind of line. 民 is acted upon. 百姓 speaks and has a heart: 百姓皆謂我自然 (*"the hundred surnames all say, we did this ourselves,"* 17), and 以百姓心為心 (*"the sage takes the heart of the hundred surnames as their own,"* 49). Chapter 5 sets them beside 萬物 (*wàn wù* — the countless things), as what the sage, like sky and earth, does not single out for kindness. **Our lean is *the hundred families*** across all four lines. The phrase is concrete, it keeps the number the Chinese keeps, and it lets the reader hear that the people who *say "we did this ourselves"* are not described from the throne. It is held for a separate decision because it rewrites four verse lines.
-
-**Chapter 60's fork is decided for our base.** 韓非 reads 聖人亦不傷**民**, and that fits the pattern above. But both transmitted commentators read 人 in both clauses, and 王弼 builds the next line on the symmetry: 神不傷人，聖人亦不傷人…故曰兩不相傷也, *"the numinous does not harm people, the sage also does not harm people… therefore it says the two do not harm each other."* The couplet needs the same object twice. 韓非 is explaining the line in his own terms, and an explanation can sharpen a distinction the text left flat.
+**Chapter 60 fits the pattern, and we keep our base against it.** 韓非 reads 聖人亦不傷**民**, which is exactly where the pattern above would put 民. But both transmitted commentators read 人 in both clauses, and 王弼 builds the next line on the symmetry: 神不傷人，聖人亦不傷人…故曰兩不相傷也, *"the numinous does not harm people, the sage also does not harm people… therefore it says the two do not harm each other."* The couplet needs the same object twice. 韓非 is explaining the line in his own terms, and an explanation can sharpen a distinction the text left flat.
 
 **"The people" has its own echoes.** *We the People*, *a people's republic*, *let my people go*. English hears popular sovereignty, revolution, or a covenant in the phrase, and 民 carries none of them. It is the plainest English the word has, and it fails the hymn test less badly than anything else. But it is warmer and prouder than 民 is, and the reader who hears *the people* as the sovereign hears the opposite of chapter 75, where the people are the ones a sovereign eats.
