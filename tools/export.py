@@ -307,6 +307,7 @@ rendering beside it. That is `CLAUDE.md` standing rule 0, and `tools/export.py
 | value | where it came from | trust |
 |---|---|---|
 | `locked` | a settled rendering in `glossary/terms.yaml` | high — this is the edition's own decision |
+| `open` | an entry written as a recommendation (`status: open`), not yet called | a recommendation — argued, not settled |
 | `covers` | a secondary character absorbed by a glossary entry | high |
 | `grammar` | a particle, negative or connective, glossed by hand in `sources/grammar-glosses.yaml` | high for what it is — a list of the word's jobs in this book, not a ruling |
 | `word` | a content character with no entry, glossed by hand in `sources/word-glosses.yaml` | a reader's aid — the senses in this book, in the edition's English, never a ruling |

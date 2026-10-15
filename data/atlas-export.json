@@ -13722,10 +13722,10 @@
    "fq": null,
    "fw": 0,
    "g": "the far end — where a thing runs out",
-   "gs": "locked",
+   "gs": "open",
    "hw": "極",
    "kind": "phonetic-compound",
-   "lock": 1,
+   "lock": 0,
    "n": 6,
    "p": "jí",
    "pho": [
@@ -13736,7 +13736,7 @@
    "sem": [
     "木"
    ],
-   "tier": "locked"
+   "tier": null
   },
   {
    "c": "猶",
@@ -14849,10 +14849,10 @@
    "fq": null,
    "fw": 0,
    "g": "empty (adjective) · to empty (verb)",
-   "gs": "locked",
+   "gs": "open",
    "hw": "虛",
    "kind": "phonetic-compound",
-   "lock": 1,
+   "lock": 0,
    "n": 5,
    "p": "xū",
    "pho": [
@@ -14863,7 +14863,7 @@
    "sem": [
     "丘"
    ],
-   "tier": "locked"
+   "tier": null
   },
   {
    "c": "親",
@@ -16936,10 +16936,10 @@
    "fq": null,
    "fw": 0,
    "g": "the allotted course — what is spoken over a thing and sent with it",
-   "gs": "locked",
+   "gs": "open",
    "hw": "命",
    "kind": "compound",
-   "lock": 1,
+   "lock": 0,
    "n": 3,
    "p": "mìng",
    "pho": [],
@@ -16949,7 +16949,7 @@
     "口",
     "令"
    ],
-   "tier": "locked"
+   "tier": null
   },
   {
    "c": "喪",

@@ -124,7 +124,7 @@ def char_graph(conn):
             "tradition": "taoism", "domain": "wisdom",
             "category": "character",
             "han": char, "pinyin": pin, "gloss": gloss, "ourRender": render,
-            "locked": bool(lock), "triageTier": tier, "centrality": cent,
+            "locked": lock == "locked", "triageTier": tier, "centrality": cent,
             "occurrences": total, "construction": kind, "shuowenSection": rad,
             "degree": 0, "x": 0.0, "y": 0.0,
         })

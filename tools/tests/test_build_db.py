@@ -160,6 +160,21 @@ class Baseline(unittest.TestCase):
                 f"  did not, something changed the corpus without meaning to —\n"
                 f"  that is the finding, not the failure.\n"))
 
+    def test_open_entries_are_not_published_as_locked(self):
+        """Every entry shipped as "locked" whatever its `status:`, so 極, 命 and
+        虛 reached the public atlas looking settled while they were still
+        recommendations (WORKLIST T5-16, 2026-10-14)."""
+        from lib.corpus import load_terms
+        for t in load_terms():
+            if len(t.characters) != 1 or len(t.characters[0]) != 1:
+                continue
+            want = "locked" if t.status == "locked" else "open"
+            got = self.conn.execute(
+                "SELECT lock_status FROM character WHERE char=?",
+                (t.characters[0],)).fetchone()
+            if got:
+                self.assertEqual(got[0], want, f"{t.term} is status: {t.status}")
+
     def test_every_baseline_entry_states_what_it_counts(self):
         """The note is the cost of bumping a number, so it cannot be empty.
 
