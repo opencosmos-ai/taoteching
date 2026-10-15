@@ -219,7 +219,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 式,shì,model/pattern,,式,exact,工,phonetic-compound,,"工 (gōng = a carpenter's square — work, craft)",弋 (yì = a stake; a tethered arrow),5,,0.0298,法也。从工弋聲。,
 奇,jī,"strange / surprise / crooked, out of line",,奇,exact,可,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 可 (kě = can be (可 + verb) / can (可以 + verb) / cannot (不可))",,4,,0.0295,異也。一曰不耦。从大从可。,
 尚,shàng,still,,尚,exact,八,phonetic-compound,,"八 (bā = eight; to divide, to part)",向 (? = not yet glossed),4,,0.0295,曾也。庶幾也。从八向聲。,
-服,Fú,"clothes, wear / submit (59)",,服,exact,舟,phonetic-compound,,舟 (zhōu = boat),𠬝 (? = not yet glossed),4,,0.0295,用也。一曰車右騑，所以舟旋。从舟𠬝聲。,
+服,Fú,"clothes, wear / accord (早服, 59)",,服,exact,舟,phonetic-compound,,舟 (zhōu = boat),𠬝 (? = not yet glossed),4,,0.0295,用也。一曰車右騑，所以舟旋。从舟𠬝聲。,
 四,sì,four,,四,exact,四,pictograph,,,,3,,0.0293,陰數也。象四分之形。凡四之屬皆从四。,
 邪,xié,is it not? (question particle),,邪,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",牙 (? = not yet glossed),3,,0.0293,琅邪郡。从邑牙聲。,
 右,yòu,right,,右,exact,口,compound,,口 (kǒu = mouths) + 又 (yòu = again / and further),,4,,0.0287,助也。从口从又。,

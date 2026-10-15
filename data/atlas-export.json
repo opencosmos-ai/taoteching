@@ -16162,7 +16162,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "clothes, wear / submit (59)",
+   "g": "clothes, wear / accord (早服, 59)",
    "gs": "word",
    "hw": "服",
    "kind": "phonetic-compound",
@@ -35181,7 +35181,7 @@
   ],
   "服": [
    "Fú",
-   "clothes, wear / submit (59)"
+   "clothes, wear / accord (早服, 59)"
   ],
   "朘": [
    "zuī",
@@ -37666,7 +37666,7 @@
   "17.1": [
    "太上，下知有之；",
    "Tài shàng, xià zhī yǒu zhī;",
-   "About the greatest leaders, little is known.",
+   "About the greatest leaders, those below know only that they exist.",
    1
   ],
   "17.2": [
@@ -37732,7 +37732,7 @@
   "18.4": [
    "國家昏亂，有忠臣。",
    "Guó jiā hūn luàn, yǒu zhōng chén.",
-   "When nations grow clouded and fall into disorder, loyal ministers appear.",
+   "When states grow clouded and fall into disorder, loyal ministers appear.",
    1
   ],
   "19.1": [
@@ -38086,13 +38086,13 @@
   "22.11": [
    "不自伐，故有功；",
    "Bù zì fá, gù yǒu gōng;",
-   "They do not make themselves great, and so they endure.",
+   "They do not boast, and so they endure.",
    0
   ],
   "22.12": [
    "不自矜，故長。",
    "Bù zì jīn, gù cháng.",
-   "They do not make themselves great, and so they endure.",
+   "They do not boast, and so they endure.",
    0
   ],
   "22.13": [
@@ -38320,7 +38320,7 @@
   "24.6": [
    "自矜者不長。",
    "Zì jīn zhě bù cháng.",
-   "Those who make themselves great do not endure.",
+   "Those who boast do not endure.",
    0
   ],
   "24.7": [
@@ -38584,7 +38584,7 @@
   "27.4": [
    "善閉無關楗而不可開，",
    "Shàn bì wú guān jiàn ér bù kě kāi,",
-   "Masterful calculating uses no abacus.",
+   "Masterful calculating uses no counting rods.",
    0
   ],
   "27.5": [
@@ -38830,7 +38830,7 @@
   "30.1": [
    "以道佐人主者，",
    "Yǐ dào zuǒ rén zhǔ zhě,",
-   "One who rules in alignment with the Tao does not use military force to dominate the world.",
+   "One who supports a ruler with the Tao does not use military force to dominate the world.",
    0
   ],
   "30.10": [
@@ -40090,7 +40090,7 @@
   "50.8": [
    "入軍不被甲兵；",
    "Rù jūn bù pèi jiǎ bīng;",
-   "and can enter into battle unharmed by weapons.",
+   "and can enter into battle untouched by armor or weapons.",
    1
   ],
   "50.9": [
@@ -40252,7 +40252,7 @@
   "54.4": [
    "修之於鄉，其德乃長；",
    "Xiū zhī yú xiāng, qí dé nǎi cháng;",
-   "Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your nation, and its integrity becomes bountiful.",
+   "Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your state, and its integrity becomes bountiful.",
    0
   ],
   "54.5": [
@@ -40276,7 +40276,7 @@
   "54.8": [
    "以鄉觀鄉，以邦觀邦，以天下觀天下。",
    "Yǐ xiāng guān xiāng, yǐ bāng guān bāng, yǐ tiān xià guān tiān xià.",
-   "Observe the nation through your nation. Observe the world through the world.",
+   "Observe the state through your state. Observe the world through the world.",
    0
   ],
   "54.9": [
@@ -40540,13 +40540,13 @@
   "59.2": [
    "夫唯嗇，是謂早服；",
    "Fú wéi sè, shì wèi zǎo fú;",
-   "Conserving is called returning early,",
+   "Conserving is called early accord,",
    1
   ],
   "59.3": [
    "早服謂之重積德；",
    "Zǎo fú wèi zhī zhòng jī dé;",
-   "returning early is called a heavy accumulation of integrity,",
+   "early accord is called a heavy accumulation of integrity,",
    1
   ],
   "59.4": [

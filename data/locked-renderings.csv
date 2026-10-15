@@ -261,7 +261,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,17,道,dào,道,the Tao / way,yes,0.3,proportional,The Tao leads to what endures.
 16,18,道,Dào,道,the Tao / way,NOT FOUND,0.3,proportional,"And to the end of your days, no danger will find you."
 16,19,身,shēn,身,body,yes,0.2,proportional-fill,"And to the end of your days, no danger will find you."
-17,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"About the greatest leaders, little is known."
+17,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"About the greatest leaders, those below know only that they exist."
 17,5,信,Xìn,信,trust / trustworthy,yes,1.0,exact-count,"Where trust runs short, there is no trust."
 17,5,信,xìn,信,trust / trustworthy,yes,1.0,exact-count,"Where trust runs short, there is no trust."
 17,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Where trust runs short, there is no trust."
@@ -276,9 +276,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,3,孝,xiào,慈,devotion,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
-18,4,亂,luàn,亂,disorder,yes,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
-18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
-18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When nations grow clouded and fall into disorder, loyal ministers appear."
+18,4,亂,luàn,亂,disorder,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
+18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
+18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,民,mín,民,the people,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
@@ -333,7 +333,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 22,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"They do not insist they are right, and so their rightness shows."
 22,8,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"They do not insist they are right, and so their rightness shows."
 22,9,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.2,proportional-fill,"They do not insist they are right, and so their rightness shows."
-22,11,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"They do not make themselves great, and so they endure."
+22,11,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"They do not boast, and so they endure."
 22,13,爭,zhēng,爭,contend / contention,yes,0.3,proportional,"Because they do not contend, no one in the world can contend with them."
 22,14,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"When the ancients said ""bend, and stay whole,"" were those empty words?"
 22,14,爭,zhēng,爭,contend / contention,NOT FOUND,0.3,proportional,"When the ancients said ""bend, and stay whole,"" were those empty words?"
@@ -406,9 +406,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful speaking is flawless.
 27,3,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.2,proportional-fill,Masterful speaking is flawless.
 27,3,用,yòng,無 & 有,use,NOT FOUND,0.2,proportional-fill,Masterful speaking is flawless.
-27,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,Masterful calculating uses no abacus.
-27,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful calculating uses no abacus.
-27,4,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful calculating uses no abacus.
+27,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,Masterful calculating uses no counting rods.
+27,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful calculating uses no counting rods.
+27,4,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful calculating uses no counting rods.
 27,5,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,"Masterful security uses no locks, yet cannot be breached."
 27,5,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"Masterful security uses no locks, yet cannot be breached."
 27,5,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Masterful security uses no locks, yet cannot be breached."
@@ -470,7 +470,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 29,5,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"So among things, some go ahead, some follow;"
 29,6,物,wù,萬物,things / something,yes,0.2,proportional-fill,"So among things, some go ahead, some follow;"
 29,8,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"some are strong, some are frail;"
-30,1,道,dào,道,the Tao / way,yes,0.3,proportional,One who rules in alignment with the Tao does not use military force to dominate the world.
+30,1,道,dào,道,the Tao / way,yes,0.3,proportional,One who supports a ruler with the Tao does not use military force to dominate the world.
 30,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Such undertakings tend to come back on you.
 30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,Such undertakings tend to come back on you.
 30,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.2,proportional-fill,Such undertakings tend to come back on you.
@@ -869,14 +869,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,2,德,dé,德,integrity,yes,0.3,proportional,"Descendants will never cease offering sacrifices honoring this. Cultivate this in your body, and its integrity becomes authentic."
 54,2,身,shēn,身,body,yes,0.3,proportional,"Descendants will never cease offering sacrifices honoring this. Cultivate this in your body, and its integrity becomes authentic."
 54,3,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in your family, and its integrity becomes abundant."
-54,4,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your nation, and its integrity becomes bountiful."
+54,4,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your state, and its integrity becomes bountiful."
 54,5,德,dé,德,integrity,yes,0.3,proportional,"Cultivate this in the world, and its integrity becomes universal."
 54,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Therefore, observe the body through your own body. Observe the family through your family."
 54,6,德,dé,德,integrity,NOT FOUND,0.3,proportional,"Therefore, observe the body through your own body. Observe the family through your family."
 54,7,身,shēn,身,body,NOT FOUND,0.3,proportional,Observe the community through your community.
 54,7,身,shēn,身,body,NOT FOUND,0.3,proportional,Observe the community through your community.
-54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the nation through your nation. Observe the world through the world.
-54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the nation through your nation. Observe the world through the world.
+54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the state through your state. Observe the world through the world.
+54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Observe the state through your state. Observe the world through the world.
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,How do I know the world is so? By this.
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,How do I know the world is so? By this.
 55,1,德,dé,德,integrity,yes,0.3,proportional,"A person with abundant integrity is like a newborn. Venomous creatures do not sting them,"
@@ -937,7 +937,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,1,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,1,治,Zhì,治,govern,yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
-59,3,德,dé,德,integrity,yes,1.0,exact-count,"returning early is called a heavy accumulation of integrity,"
+59,3,德,dé,德,integrity,yes,1.0,exact-count,"early accord is called a heavy accumulation of integrity,"
 59,4,德,dé,德,integrity,yes,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
 59,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
 59,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when nothing cannot be overcome, no one knows its limit,"

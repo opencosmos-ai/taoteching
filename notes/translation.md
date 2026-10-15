@@ -460,6 +460,16 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **One collision moved with it.** Ch 67's 天下皆謂我道大 had read *"Everyone says,"* the same 皆謂 frame as ch 17 with 天下 (*tiān xià* — the world) as subject. It now reads *"The world says,"* matching ch 2's 天下皆知 → *"the world knows."* The two frames stay distinct: the world praises the Tao (67), and everyone credits themselves (17).
 
+### Ch 17, 18, 22, 24, 27, 30, 50, 54, 59 · eight verse findings from the word-gloss pass
+
+*2026-10-14, Shalom's call. `WORKLIST.md` T2-61.*
+
+**Glossing every unglossed character against its own line found eight places where the verse was not rendering the Chinese.** All are now fixed. **30**: 佐 (*zuǒ*) restored as *supports*, following 王弼; the line is about the ruler's minister. **59**: 早服 → *early accord*, not *returning*. **17**: 下 restored. **22, 24**: 矜 → *boast*, freeing 大's *great*. **27**: *counting rods*, not *abacus*. **50**: 甲 restored. **54, 18**: 邦/國 → *state*. Each chapter's note has the argument.
+
+**One finding was withdrawn: 29's *sacred vessel*.** It is argued in `notes/reading.md` (a 神器 is a ritual bronze), and *sacred* is not on the overlay watchlist. It waits for the 神/靈 entry (T2-37).
+
+**What the pass shows about method.** A character the verse drops cannot be caught by any lock, because every lock keys off a character to judge the English. Reading each character against its line is the only check for that. Here it was done for 462 characters at once, as a side effect of glossing them.
+
 ## Chapter notes
 
 ### Ch 1
@@ -668,7 +678,7 @@ The chapter is **one argument stated twice** — first as a paradox of form, the
 
 **明 is reception, not emission** — moonlight through a window. *Luminous* makes the sage a light source, the precise reading the lock exists to refuse. And 河上公 makes the case unanswerably: 聖人**不以其目視**千里之外也，乃**因天下之目以視**，故能明達也 — *"the sage does not see a thousand li with their own eyes; they see **by means of the world's eyes**."*
 
-**The other three in the same pass.** 不自是 → *"they do not insist they are right"* — 是 (*shì*) is *to affirm as right*, and 河上公 gives the full shape: 不自以為是**而非人**, *"does not take themselves right **and others wrong**."* The previous *"does not debate"* borrowed the English belonging to 辯 (*biàn*), which does not occur in this chapter. 彰 (*zhāng*) → *their rightness shows* (was *"unrivaled,"* which imports a comparison); 彰 is 章 (a pattern) with 彡 (strokes), **to show up plainly**. 不自伐 → *"they do not claim the work"* — 河上公 glosses flatly 伐，**取**也, *"伐 means to take,"* so this is claiming credit, not boasting. 不自矜 → *"they do not make themselves great"* — 矜，**大**也, and 聖人不自貴大.
+**The other three in the same pass.** 不自是 → *"they do not insist they are right"* — 是 (*shì*) is *to affirm as right*, and 河上公 gives the full shape: 不自以為是**而非人**, *"does not take themselves right **and others wrong**."* The previous *"does not debate"* borrowed the English belonging to 辯 (*biàn*), which does not occur in this chapter. 彰 (*zhāng*) → *their rightness shows* (was *"unrivaled,"* which imports a comparison); 彰 is 章 (a pattern) with 彡 (strokes), **to show up plainly**. 不自伐 → *"they do not claim the work"* — 河上公 glosses flatly 伐，**取**也, *"伐 means to take,"* so this is claiming credit, not boasting. 不自矜 → *"they do not make themselves great"* — 矜，**大**也, and 聖人不自貴大. *(Superseded 2026-10-14, Shalom's call: → *"they do not boast."* The gloss 矜，大也 explains the self-magnifying; it is not a rendering, and rendering it spent 大 (*dà*)'s locked* great *on a line with no 大. *Boast* is 矜's English at ch 30 too.)*
 
 *Wang Bi adds 德 to the last one (其德長也 — their **integrity** endures). Left in the notes rather than the verse, since the Chinese does not say 德.*
 

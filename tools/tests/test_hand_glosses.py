@@ -25,8 +25,10 @@ ROOT = Path(__file__).resolve().parents[2]
 # `forbidden:` list, a capital is part of the violation: "the One" is the
 # Neoplatonic overlay, "the one who" is English, and lowercase "god" is the
 # edition's own word for 帝 (dì).
-OVERLAY = ["heaven", "God", "holy", "sacred", "divine", "soul", "sin",
-           "righteousness", "benevolence", "virtue", "blessing", "eternal",
+# "Sacred" is deliberately absent: ch 29's 神器 is a ritual bronze, and
+# "sacred vessel" is the edition's argued English (notes/reading.md).
+OVERLAY = ["heaven", "God", "holy", "demons", "soul", "sin", "righteousness",
+           "benevolence", "charity", "virtue", "blessing", "eternal",
            "the Way", "the One", "the masses"]
 
 
