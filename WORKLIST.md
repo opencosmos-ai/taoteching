@@ -12,11 +12,27 @@
 
 *Supersedes `RETROFIT.md` and `EDITING-PASS.md`, merged into this file on 2026-08-28 and both now deleted. This file is `RETROFIT.md` renamed, so `git log --follow WORKLIST.md` still reaches the project's start; the 2026-08-10 sweep record and the lessons it taught the checker moved to `PLAN.md`. Every item below was re-verified against the manuscript at the merge; the old file listed six repairs that had already been made.*
 
+## ▶ Start here — the next round (updated 2026-10-14)
+
+*The pointer for whoever picks this up cold. It orders the work and names the first move; the reasoning lives in the rows it points to. Rewrite this block when the round changes, never append to it.*
+
+**Last round shipped (PRs #23–#26, all merged):** 民 → *the people* and 百姓 → *everyone*, settling the deferred 民/人 call (T4-1) · short English for every grammar word and all 462 unglossed content words, so the atlas shows English for 797 of 798 characters (朘 left blank on purpose) · nine verse fixes found by reading each character against its line (T2-61) · 柔's lock made live and 剛 → *unbending* (T4-4) · open entries no longer published as locked (T5-16) · ch 35's toneless pinyin restored.
+
+**Next, in order:**
+
+1. **柔 (*róu* — soft) — promote to its own entry.** English already locked; research and writing only. `glossary/TRIAGE.md` → *The relevance queue*, #1.
+2. **Then down that queue, one entry at a time:** 混 (T2-40, quick) · 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 聖 · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
+3. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
+
+**Waiting on Shalom:** nothing. Still deferred: 正/奇 (T4-2) and the em-dashes (T4-3).
+
+**How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas updates itself within the hour of a merge.
+
 ---
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **139 item rows: 46 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **140 item rows: 47 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -132,6 +148,7 @@
 | T2-59 | ⬜ | **清 (*qīng* — clear, as settled water is) has no entry, and *clear* is shared with 明.** 清 is *clear* at 15, 39 ×2 and 45; 明 is *clear* as a modifier at 41 (*"the clear Tao"*). **Ch 45's *"clear stillness"* and ch 41's *"the clear Tao"* read as the same word for two characters**, and nothing enforces a difference. Found weighing *is clear* for ch 47 | 15 39 41 45 | E |
 | T2-60 | ✅ | ~~**百姓 wears 民's *the people***~~ — **locked 2026-10-14, Shalom's call: 百姓 → *everyone*** (`glossary/baixing-百姓.md`); *the hundred families* declined as drained of the people. Swept 5, 17, 49 ×2. **Rider:** ch 67's 天下皆謂 (same frame as 17's 百姓皆謂) → *"The world says,"* matching ch 2's 天下皆知 | 5 17 49 67 | E |
 | T2-61 | ✅ | ~~**Eight verse findings from the word-gloss pass**~~ — **settled 2026-10-14, Shalom's call: seven fixed, one withdrawn.** **30** 以道佐人主 → *"One who supports a ruler with the Tao"* (佐 restored, after 王弼) · **59** 早服 → *accepting early* · **17** → *"those under them know only that they exist"* · **22, 24** 矜 → *boast* · **27** → *counting rods* · **50** → *untouched by armor or weapons* · **54** 邦, rider **18** 國家 → *state(s)*. **29** *sacred vessel* withdrawn: argued in `notes/reading.md`; waits for T2-37. **Pinyin, also fixed:** ch 35's whole source table had no tone marks (43 syllables), plus one each at 41 (若) and 52 (濟), and 奇 read *jī* at 57–58 → *qí*. No toneless syllable remains in any source table | 17 18 22 24 27 30 50 54 59 | E |
+| T2-62 | ⬜ | **Smaller findings from the word-gloss pass**, each needing a look, none urgent. **伐** (*fá*) is *claim the work* at 22, 24 but *bragging* at 30 · **惚恍** shares one word (*the elusive*) at 14 where 21 splits it (*elusive / vague*) · **少 / 寡** both *diminish* in one line at 19 · **必固** reads *must first* ×4 at 36 (固 as 姑 *for now*; the literal has *firmly*) · **為天下正 / 為天下貞** take two shapes at 45 and 39 · **其次** (*the next*) turned into *Good / Poor / The worst leaders* at 17 · **夸** at 53 and **晚** at 41 follow variants (recorded; the glosses describe the base graph) · **ch 39 source table** lacks punctuation after 將恐裂 and 故貴以賤為本 · characters absorbed by paraphrase: 容 (21, 50), 發 (12), 立 (25), 甚 (53), 詰 (14), 至 (65, 80), 拱 (62), 含 (55) | 12 14 17 19 21 25 36 39 41 45 50 53 55 62 65 80 | E |
 | T4-1 | ✅ | ~~**民 / 人** — one decision, whole book~~ — **settled 2026-10-14, Shalom's call: 民 → *the people*, locked, and the phrase is 民's alone** (`glossary/min-民.md`). The witnesses draw the same line: where 民 and 人 trade places (57, 60, 64) the oldest reading has 民 beside a ruler. 57 follows the witnesses (the English already did); 60 keeps the base; 64 reads bare *people*, a declared flexion. No verse changed. **Rider:** 百姓 also wears *the people* → T2-60 | 13 chapters | F |
 | T4-2 | ⏸ | **正 / 奇** — five Englishes | 37 45 57 58 78 | F |
 | T4-3 | ⏸ | **Em-dashes in the verse** — 14 lines *(ch 28's two and ch 15's one went with their rewrites, not by decision)* | 10 14 29 43 44 51 53 55 58 | F |

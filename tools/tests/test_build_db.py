@@ -138,6 +138,27 @@ class SectionSplitting(unittest.TestCase):
         self.assertEqual(sw.fanqie(got[0][3]), "他前切")
 
 
+class Tiers(unittest.TestCase):
+    """A tier ends at the next section. The relevance queue added to TRIAGE.md
+    on 2026-10-14 sat under a non-tier heading and inherited "Tier 3", which
+    the atlas would have shown as a tag on 聖, 欲 and 得."""
+
+    def test_a_later_section_does_not_inherit_the_tier(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            Path(d, "TRIAGE.md").write_text(
+                "## Tier 3 — Worth writing\n\n| # | Term |\n|---|---|\n| 1 | **名** |\n\n"
+                "## The relevance queue\n\n| # | Term |\n|---|---|\n| 1 | **聖** |\n",
+                encoding="utf-8")
+            saved, build_db.GLOSSARY = build_db.GLOSSARY, Path(d)
+            try:
+                tiers = build_db.load_tiers()
+            finally:
+                build_db.GLOSSARY = saved
+        self.assertEqual(tiers.get("名"), "Tier 3")
+        self.assertNotIn("聖", tiers)
+
+
 class Frontmatter(unittest.TestCase):
     """`covers: ["柔"]` parsed to an empty list without a word, so 柔's lock
     (2026-08-26) was prose only until 2026-10-14. A shape the parser cannot

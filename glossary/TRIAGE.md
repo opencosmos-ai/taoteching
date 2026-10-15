@@ -105,6 +105,33 @@
 
 **And 大 is the inverse of the same lesson.** It has fifty-one, more than any other untriaged character, and was skipped for the opposite reason: it looked too ordinary to need an argument. It turned out to be the word the Tao is finally named with, and the argument was about exactly that ordinariness.
 
+## The relevance queue — ranked 2026-10-14
+
+*Ranked by relevance, not frequency: argument weight, rendering instability, overlay risk, completing a locked pair, cross-text value with the I Ching (`../iching`), with reach only breaking ties. Grammar words are excluded; they now carry short glosses in `sources/grammar-glosses.yaml`. Every content character carries at least a short gloss in `sources/word-glosses.yaml`, so this queue is about which ones earn a full entry. Each entry goes through `process/skills/glossary-entry`, one at a time, one PR per batch. **Lowest number first.***
+
+| # | Term | Status | Why it ranks | First move |
+|---|---|---|---|---|
+| ~~—~~ | ~~**民** (mín) — the people~~ | ✅ 2026-10-14 | Settled the deferred 民/人 call | `min-民.md` |
+| ~~—~~ | ~~**百姓** (bǎi xìng) — everyone~~ | ✅ 2026-10-14 | Found locking 民 | `baixing-百姓.md` |
+| 1 | **柔** (róu) — soft | 🔶 English locked and live (`covers:` of `ruo-弱.md`, made live 2026-10-14) | 11 lines, 7 chapters: too much reach for a `covers:` line, as 器 was for 樸. The I Ching's 剛/柔 (*firm / yielding*) bridge for the atlas | **Promote to its own entry**, moving 柔 and 剛 (*unbending*) out of `ruo-弱.md`'s `covers:`. 說文 木曲直也, wood that bends and straightens. Ch 10 致柔, 43 至柔, 52 守柔. No verse decision expected |
+| 2 | **混** (hùn) — mixed | English settled 2026-09-06, no entry | Unenforced; quickest win | Write the entry (`WORKLIST.md` T2-40). 說文 豐流也, on the water radical |
+| 3 | **反 / 復 / 歸** (fǎn / fù / guī) — return | Open (T2-44, row 17 above) | Three characters, one English across 21 lines; ch 40 反者道之動; 復 is I Ching hexagram 24 | One three-way entry. Expect verse proposals |
+| 4 | **名** (míng) — name | Open (row 10 above) | Ch 1 and 32 argue with it; *label* (25), *be called* (34), *reputation* (44) | Entry; pair with 無名/有名 |
+| 5 | **氣** (qì) — breath | Owed (row 15b above) | 精's entry argues by contrast with it; *breath / vital breath / vital energy* in three lines | Entry; overlay risk *energy* |
+| 6 | **神 / 靈** (shén / líng) — spirit / numinous | Owed (`WORKLIST.md` T2-37) | Both on the overlay watchlist; ch 29's *sacred vessel* waits on it; *numinous* fails the pointing test | One entry for the pair |
+| 7 | **聖** (shèng) — the sage | No entry | The watchlist's first overlay (*holy*); 31 lines; the house rendering has no entry behind it | Entry; 說文 has the ear in it |
+| 8 | **靜** (jìng) — still | No entry | Against 躁 (agitation), toward 動; overlay *meditation* | Entry |
+| 9 | **欲** (yù) — desire | No entry | Eight Englishes; the 將欲 grammar use must stay apart | Entry |
+| 10 | **智** (zhì) — cleverness | 🔶 (`WORKLIST.md` T2-2) | Praised at 33, condemned at 19 and 65: one word or two? | Entry, with 知 |
+| 11 | **始** (shǐ) — beginning | Open (row 11 above) | Pairs with locked 母 in ch 1 and 52 | Entry or pairing with 母 |
+| 12 | **希** (xī) — sparse | Open (row 14b above) | One sense, six Englishes; ch 23 and 70 are the same word | Entry; *rare* is spent on 貨 |
+| 13 | **貴 / 賤** (guì / jiàn) — prized / cheap | Owed (`WORKLIST.md` T2-36) | 22 lines; *precious* collides with 貨 | Entry for the pair |
+| 14 | **和** (hé) — harmony | No entry | Ch 42, 55; *dims* at 4/56 hides the character | Entry |
+| 15 | **谷** (gǔ) — valley | No entry | The feminine centre (6, 28, 66) | Entry |
+| 16 | **言** (yán) — speech | No entry | 不言之教; ch 81's 信言/美言 | Entry |
+| 17 | **得** (dé) — get | Owed (`WORKLIST.md` T2-35) | 19 chapters, no entry | Entry |
+| 18 | **先** (xiān) — first | Open (row 14 above) | One of ch 67's three treasures; five Englishes | Entry |
+
 ## Tier 4 — Stubs needing commission
 
 Each is 6–14 lines; these are seeds, not drafts.
