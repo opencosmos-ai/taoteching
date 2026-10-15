@@ -450,6 +450,16 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 ---
 
+### Ch 5, 17, 49, 67 · 百姓 → "everyone", and 天下皆謂 → "the world says"
+
+*2026-10-14, Shalom's call. `glossary/baixing-百姓.md`.*
+
+**百姓 (*bǎi xìng* — the hundred surnames) had worn 民 (*mín*)'s *the people*** in all four of its lines. That was invisible to every check, because no chapter holds both words. When 民 was locked, the collision surfaced in `--english "the people"`. **The phrase changed sides in history**: it meant the noble clans in the oldest texts, and everyone by Laozi's day. Both commentators read it as everyone.
+
+***The hundred families* was proposed and declined (Shalom):** it is accurate about the words, it sounds like an exact count, and it is drained of the people. ***Everyone*** is what the phrase meant when the book was written.
+
+**One collision moved with it.** Ch 67's 天下皆謂我道大 had read *"Everyone says,"* the same 皆謂 frame as ch 17 with 天下 (*tiān xià* — the world) as subject. It now reads *"The world says,"* matching ch 2's 天下皆知 → *"the world knows."* The two frames stay distinct: the world praises the Tao (67), and everyone credits themselves (17).
+
 ## Chapter notes
 
 ### Ch 1
@@ -943,7 +953,7 @@ Two characters, no verb, and **no causal word** — no 故, no 因. The English 
 
 渾 (*hún*) is to blend, to make turbid. The earlier *"merges their heart with the world"* had the sense and lost the water. **Muddy** chimes with Ch 15's 混兮其若濁, *"Mixed, like muddy water"* — where muddiness is the good state you sit still inside until it clears. Wang Bi: 意無所適莫也, *"the intention has no for and no against."*
 
-#### 百姓皆注其耳目，聖人皆孩之 → "The people pour out their attention, all eyes and ears; / the sage sees them pure as infants"
+#### 百姓皆注其耳目，聖人皆孩之 → "Everyone pours out their attention, all eyes and ears; / the sage sees them pure as infants"
 
 **注** (*zhù*) is water pouring — the same character the Mawangdui silks put at the head of Ch 62. Both commentators gloss it as 用 (*yòng* — to use). English supplies the gift here: ***all eyes and ears*** is a live idiom for rapt attention **and is literally 耳目**, so the idiom carries the sense while the organs survive.
 
@@ -1805,7 +1815,7 @@ A first draft of this chapter read *"whoever goes crooked"*, *"one whose work is
 
 **"When", not "if"** — 民不畏死 carries no conditional marker, while the next line does (若使), and that contrast is the chapter's spine: a fact, then a fantasy.
 
-**"The people", not bare "people" — and this one is a hold, not a decision.** A draft went bare. The evidence against: 民 (*mín*) renders *"the people"* in all 32 of its lines across the manuscript, and Ch 72 opens on the identical frame 民不畏威 — *"when the people no longer fear authority"* — two chapters before 74's 民不畏死, a rhyme the bare noun silences. The evidence for: 河上公 reads this very line at both registers, and *"the people"* bolts it to statecraft where *"people"* lets a reader hear it about themselves. **Shalom restored the article and parked the question for a decision across the whole book**, which is the right size for it — see `WORKLIST.md` → *民 and 人*. Ch 74 is not a precedent either way.
+**"The people", not bare "people" — a hold when written, and now decided: 民 is locked to *the people* (2026-10-14, `glossary/min-民.md`).** A draft went bare. The evidence against: 民 (*mín*) renders *"the people"* in all 32 of its lines across the manuscript, and Ch 72 opens on the identical frame 民不畏威 — *"when the people no longer fear authority"* — two chapters before 74's 民不畏死, a rhyme the bare noun silences. The evidence for: 河上公 reads this very line at both registers, and *"the people"* bolts it to statecraft where *"people"* lets a reader hear it about themselves. **Shalom restored the article and parked the question for a decision across the whole book**, which is the right size for it — see `WORKLIST.md` → *民 and 人*. Ch 74 is not a precedent either way.
 
 **"frighten", not "threaten".** 懼 (*jù*) is causative — *to cause fear* — and it pairs in one line with 畏 (*wèi*), the fear itself. *Fear / frighten* keeps the pair audible; *threaten* is a different verb doing a different job.
 

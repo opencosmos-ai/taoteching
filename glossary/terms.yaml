@@ -110,6 +110,16 @@
   status: locked
   entry: glossary/shi-事.md
 
+- term: "民"
+  pinyin: "mín"
+  render: "the people"
+  forbidden: ["the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed"]
+  chapters: [3, 10, 19, 32, 57, 58, 64, 65, 66, 72, 74, 75, 80]
+  status: locked
+  entry: glossary/min-民.md
+  flexions:
+    - { english: "people", chapters: [64], why: "the one 民 with no ruler in the line, and the oldest witness reads 人 there" }
+
 - term: "強"
   pinyin: "qiáng"
   render: "strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature"
@@ -399,6 +409,14 @@
   chapters: [9, 64, 67]
   status: locked
   entry: glossary/chi-持.md
+
+- term: "百姓"
+  pinyin: "bǎi xìng"
+  render: "everyone"
+  forbidden: ["the people", "the hundred families", "the hundred surnames", "the masses", "the common people"]
+  chapters: [5, 17, 49]
+  status: locked
+  entry: glossary/baixing-百姓.md
 
 - term: "知足"
   pinyin: "zhī zú"

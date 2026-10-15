@@ -36,7 +36,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 4,5,0,湛兮，似或存。,"Zhàn xī, sì huò cún.","Submerged and calm, it seems to exist.","Submerged, it seems to be here.",exact-count
 4,6,0,吾不知誰之子，,"Wú bù zhī shuí zhī zǐ,",I do not know whose child it is;,I do not know whose child it is.,exact-count
 4,7,0,象帝之先。,xiàng dì zhī xiān.,it \[xiang\] resembles/seems what precedes \[zhi xian\] Di \[di\] — a god.,It seems older than any god.,exact-count
-5,1,1,天地不仁，以萬物為芻狗；,"Tiān dì bù rén, yǐ wàn wù wéi chú gǒu;",Heaven and Earth are not humane; they regard the ten thousand things as straw dogs.,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. / The sage is not concerned with humaneness: they treat the people as straw dogs.,proportional
+5,1,1,天地不仁，以萬物為芻狗；,"Tiān dì bù rén, yǐ wàn wù wéi chú gǒu;",Heaven and Earth are not humane; they regard the ten thousand things as straw dogs.,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. / The sage is not concerned with humaneness: they treat everyone as straw dogs.,proportional
 5,2,1,聖人不仁，以百姓為芻狗。,"shèng rén bù rén, yǐ bǎi xìng wéi chú gǒu.",The Sage is not humane; they regard the people as straw dogs.,Isn't the space between sky and earth like a bellows?,proportional
 5,3,2,天地之間，其猶橐籥乎？,"Tiān dì zhī jiān, qí yóu tuó yuè hū?","Between Heaven and Earth, is it not like a bellows?","Empty but never depleted, the more it moves, the more it yields.",proportional
 5,4,2,虛而不屈，動而愈出。,"Xū ér bù qū, dòng ér yù chū.","Empty yet inexhaustible, the more it moves, the more it brings forth.",Speaking of this is a dead end.,proportional
@@ -195,7 +195,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 17,5,2,信不足焉，有不信焉。,"Xìn bù zú yān, yǒu bù xìn yān.","Trust/reliability \[xin\] is not \[bu\] sufficient \[zu\] here \[yan\], there is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].","Where trust runs short, there is no trust.",exact-count
 17,6,3,悠兮其貴言。,Yōu xī qí guì yán.,Distant/careful \[you\] oh \[xi\] their \[qi\] valuing/sparing \[gui\] of words \[yan\].,The greatest leaders speak sparingly.,exact-count
 17,7,3,功成事遂，,"Gōng chéng shì suì,","Work/merit \[gong\] completed \[cheng\], affairs/tasks \[shi\] accomplished \[sui\],","When their work is done,",exact-count
-17,8,3,百姓皆謂：「我自然」。,"Bǎi xìng jiē wèi: ""Wǒ zì rán"".","The hundred \[bai\] surnames/people \[xing\] all \[jie\] say \[wei\]: ""We \[wo\] are naturally so/spontaneous \[zi ran\]"".","The people all say, “We did this by ourselves.”",exact-count
+17,8,3,百姓皆謂：「我自然」。,"Bǎi xìng jiē wèi: ""Wǒ zì rán"".","The hundred \[bai\] surnames/people \[xing\] all \[jie\] say \[wei\]: ""We \[wo\] are naturally so/spontaneous \[zi ran\]"".","Everyone says, “We did this by ourselves.”",exact-count
 18,1,0,大道廢，有仁義；,"Dà dào fèi, yǒu rén yì;","The Great \[da\] Tao \[dao\] is abandoned/abolished \[fei\], there is \[you\] benevolence \[ren\] and righteousness \[yi\];","When the great Tao is discarded, humaneness and duty appear.",exact-count
 18,2,0,智慧出，有大偽；,"Zhì huì chū, yǒu dà wěi;","Wisdom/cleverness \[zhi\] and intelligence \[hui\] emerge \[chu\], there is \[you\] great \[da\] hypocrisy/falseness \[wei\];","When cleverness and erudition arise, great hypocrisy appears.",exact-count
 18,3,0,六親不和，有孝慈；,"Liù qīn bù hé, yǒu xiào cí;","The six \[liu\] relations/kin \[qin\] are not \[bu\] harmonious \[he\], there is \[you\] filial piety \[xiao\] and deep love/compassion \[ci\];","When kin are out of harmony, devotion and tenderness appear.",exact-count
@@ -540,14 +540,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",proportional
 48,4,2,取天下常以無事，,"Qǔ tiān xià cháng yǐ wú shì,","Taking (qu) the world is always (chang) by means of no-undertaking (wu shi),",The world always comes to you by not meddling with it.,proportional
 48,5,2,及其有事，不足以取天下。,"Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.","Once there is undertaking (you shi), that is not enough (bu zu) to take the world.","The moment you meddle, it stops coming.",proportional
-49,1,1,聖人無常心，以百姓心為心。,"Shèng rén wú cháng xīn, yǐ bǎi xìng xīn wéi xīn.","The Sage has no constant/fixed mind, takes the people's mind as their mind.",The sage has no fixed heart; / they take the heart of the people as their own.,proportional
+49,1,1,聖人無常心，以百姓心為心。,"Shèng rén wú cháng xīn, yǐ bǎi xìng xīn wéi xīn.","The Sage has no constant/fixed mind, takes the people's mind as their mind.",The sage has no fixed heart; / they take everyone's heart as their own.,proportional
 49,2,1,善者，吾善之；,"Shàn zhě, wú shàn zhī;","The masterful ones (shan zhe), I count as masterful (shan zhi — shan used as a verb, ""to reckon as shan"");","The masterful, I count as masterful;",proportional
 49,3,1,不善者，吾亦善之；,"Bù shàn zhě, wú yì shàn zhī;","The unmasterful, I also (yi) count as masterful;","the unmasterful, I count as masterful too.",proportional
 49,4,1,德善。,Dé shàn.,"Integrity (de) is mastery (shan). Two characters, no verb and no causal word.","Integrity is mastery. / The trustworthy, I trust;",proportional
 49,5,2,信者，吾信之；,"Xìn zhě, wú xìn zhī;","Those who are reliable/trustworthy, I trust/rely on;","the untrustworthy, I trust as well.",proportional
 49,6,2,不信者，吾亦信之；,"Bù xìn zhě, wú yì xìn zhī;","Those who are unreliable/untrustworthy, I also trust/rely on;",Integrity is trust.,proportional
 49,7,2,德信。,Dé xìn.,Integrity is trust (xin).,"In the world, the sage breathes gently; / for the sake of the world, they let their heart go muddy.",proportional
-49,8,3,聖人在天下，歙歙焉，為天下渾其心，,"Shèng rén zài tiān xià, xī xī yān, wéi tiān xià hún qí xīn,","The sage in the world breathes gently (xi xi — to draw in); for the sake of the world, muddies (hun) their heart (xin).","The people pour out their attention, all eyes and ears;",proportional
+49,8,3,聖人在天下，歙歙焉，為天下渾其心，,"Shèng rén zài tiān xià, xī xī yān, wéi tiān xià hún qí xīn,","The sage in the world breathes gently (xi xi — to draw in); for the sake of the world, muddies (hun) their heart (xin).","Everyone pours out their attention, all eyes and ears;",proportional
 49,9,3,百姓皆注其耳目，聖人皆孩之。,"Bǎi xìng jiē zhù qí ěr mù, shèng rén jiē hái zhī.","The people all pour (zhu) their ears and eyes; the sage sees them all as hai (an infant — the Shuowen glosses its older form as ""a small child's laugh"").",the sage sees them pure as infants.,proportional
 50,1,1,出生入死。,Chū shēng rù sǐ.,"Emerge into life, enter into death.","Emerge into life, enter into death.",exact-count
 50,2,1,生之徒，十有三；,"Shēng zhī tú, shí yǒu sān;",The followers of life are three in ten;,Three in ten people are followers of life.,exact-count
@@ -701,7 +701,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 66,6,3,處前而民不害。,Chǔ qián ér mín bù hài.,Dwells in front and the people do not feel harmed/obstructed.,So the world gladly pushes them forward and never tires of them.,proportional
 66,7,4,是以天下樂推而不厭。,Shì yǐ tiān xià lè tuī ér bù yàn.,Therefore the world gladly pushes them forward and does not tire of them.,"Because they do not contend,",proportional
 66,8,4,以其不爭，故天下莫能與之爭。,"Yǐ qí bù zhēng, gù tiān xià mò néng yǔ zhī zhēng.","Because they do not compete/contend, therefore no one in the world can compete with them.",no one in the world can contend with them.,proportional
-67,1,1,天下皆謂我道大，似不肖。,"Tiān xià jiē wèi wǒ dào dà, sì bù xiào.","The whole world says my Tao is great, but seems unlike/unworthy (of comparison).","Everyone says my Tao is great, and looks like nothing. / Only because it is great does it look like nothing.",proportional
+67,1,1,天下皆謂我道大，似不肖。,"Tiān xià jiē wèi wǒ dào dà, sì bù xiào.","The whole world says my Tao is great, but seems unlike/unworthy (of comparison).","The world says my Tao is great, and looks like nothing. / Only because it is great does it look like nothing.",proportional
 67,2,1,夫唯大，故似不肖。,"Fú wéi dà, gù sì bù xiào.","Because it is great, therefore it seems unlike.","If it looked like anything, it would long since have been slight.",proportional
 67,3,1,若肖，久矣其細也夫！,"Ruò xiào, jiǔ yǐ qí xì yě fú\!","If it were like (others), for a long time it would have been small/insignificant\!",I have three treasures. I hold them and keep them safe. / The first is tenderness.,proportional
 67,4,2,我有三寶，持而保之：,"Wǒ yǒu sān bǎo, chí ér bǎo zhī:","I have three treasures, holding and guarding them:",The second is frugality.,proportional
