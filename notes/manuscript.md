@@ -364,6 +364,22 @@ So the two halves of our Chapter 64 never appear joined, in either bundle, in th
 
 **We keep the received chapter.** Our base text is Wang Bi and the whole book is transmitted through it; unpicking a chapter our own recension presents as whole would be editing, not translating. But the note stands with the chapter. See `sources/guodian-inventory.yaml` for the full slip arrangement.
 
+### Ch 64 · 民之從事 / 人之敗也 — the one 民 with no ruler beside it
+
+*Found 2026-10-14, writing `glossary/min-民.md`. The chapter note already quoted the reading; the fork had never reached `sources/variants.yaml`.*
+
+Guodian bundle C reads **人**之敗也 (*rén* — a person) where our base and silk A read **民**之從事 (*mín* — the people). **It is the one 民 in the book with no ruler in the line**: everywhere else a sage, a state, or those over them stands across from it. **Our call: the base graph, rendered bare, *"people always ruin their affairs."*** The 民 entry declares *people* as a flexion scoped to this chapter, so the English and the fork are on the record together.
+
+### Ch 57 · 人多利器 / 民多利器 — our base alone against every witness
+
+*Found 2026-10-14, writing `glossary/min-民.md`.*
+
+Our base reads 人多利器 (*rén duō lì qì*), with 人 (*rén* — a person). Guodian bundle A reads **民**多利器 (*mín* — the people), and **so do the lemmas of both our vendored commentaries**, 王弼 (*Wáng Bì*) and 河上公 (*Héshàng Gōng*). Guodian then reads **人**多智 (*rén duō zhì* — "people have much cleverness") in the next clause, so the oldest text sets the two characters a line apart, with 民 where the state is at stake.
+
+**Our call: 民, following the witnesses, as at ch 32.** The English, *"the more sharp weapons the people have,"* already renders it. The source table keeps our base's 人 as the record of what our base prints.
+
+**The commentators then split on the second 人** (人多伎巧). 河上公: 人謂人君百里諸侯也 — *"人 here means the rulers, the lords of a hundred li."* 王弼 glosses it as the people's cleverness: 民多智慧則巧偽生 — *"when the people have much cleverness, artifice and falsehood arise."* The English, bare *people*, leaves both standing.
+
 ### Ch 65 · 稽式 or 楷式 — the same standard, two glosses
 
 Our Wang Bi base reads 稽式 (*jī shì*), Heshang Gong's text reads 楷式 (*kǎi shì*), and the Siku compilers note it in the margin themselves: 〔案河上公注本稽作楷下同〕 — *"in the Heshang Gong recension 稽 is written 楷, and likewise below."* Both compounds name a standard or model, so nothing in the English turns on it.

@@ -1473,3 +1473,31 @@
     it; it now matches ch 44's 知止不殆.
   logged: notes/manuscript.md
 
+
+- chapter: 57
+  line: "人多利器，國家滋昏"
+  base: "人"
+  witnesses: { guodian: "民", siku-wangbi: "民", heshanggong: "民" }
+  meaning_bearing: true
+  our_call: guodian
+  note: >
+    Our base reads 人 where Guodian bundle A and the lemmas of both vendored
+    commentaries read 民 (民多利器). Guodian then reads 人多智 in the next
+    clause, so the oldest text sets the two characters a line apart. The
+    English, "the more sharp weapons the people have," already renders 民.
+    We follow the witnesses, as at ch 32, and the base table stands as the
+    record of our base.
+  logged: notes/manuscript.md
+
+- chapter: 64
+  line: "民之從事，常於幾成而敗之"
+  base: "民之從事"
+  witnesses: { guodian: "人之敗也", mawangdui-a: "民之從事也" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Guodian bundle C reads 人 (a person) where our base and silk A read 民
+    (the people). It is the one 民 in the book with no ruler in the line. We
+    keep the base graph and render it bare, "people," which the 民 entry
+    declares as a flexion scoped to this chapter.
+  logged: notes/manuscript.md

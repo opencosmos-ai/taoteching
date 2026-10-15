@@ -30,7 +30,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 能,néng,be able,be able,能,exact,能,phonetic-compound,,肉 (ròu = flesh),㠯 (? = not yet glossed),33,locked,0.1872,熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；而彊壯，稱能傑也。凡能之屬皆从能。,
 常,cháng,the ever-present / ever / always,the ever-present / ever / always,常,exact,巾,phonetic-compound,,巾 (jīn = a cloth),尚 (shàng = still),30,locked,0.1839,下帬也。从巾尚聲。,"A lower skirt. From 巾 (jīn — cloth), with 尚 (shàng) for sound."
 自,zì,,,自,exact,自,pictograph,,,,33,Tier 1,0.1837,鼻也。象鼻形。凡自之屬皆从自。,
-民,mín,people,,民,exact,民,compound,,"古 (gǔ = ancient) + 文 (wén = culture/adornment) + 之 (zhī = of ('s) / it, them / (links a modifier to its noun)) + 象 (xiàng = )",,32,,0.1662,眾萌也。从古文之象。凡民之屬皆从民。,
+民,mín,the people,the people,民,exact,民,compound,,"古 (gǔ = ancient) + 文 (wén = culture/adornment) + 之 (zhī = of ('s) / it, them / (links a modifier to its noun)) + 象 (xiàng = )",,32,Tier 3,0.1662,眾萌也。从古文之象。凡民之屬皆从民。,The many sprouts. From the shape of its ancient form.
 萬,wàn,countless,countless,萬,exact,禸,compound,,厹 (? = not yet glossed),,21,Tier 2,0.1638,蟲也。从厹，象形。,
 欲,yù,,,欲,exact,欠,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",谷 (Gǔ = ),26,,0.1621,貪欲也。从欠谷聲。,
 行,xíng,,,行,exact,行,compound,,彳 (chì = a step taken; going) + 亍 (? = not yet glossed),,20,,0.157,人之步趨也。从彳从亍。凡行之屬皆从行。,
