@@ -148,9 +148,11 @@ The **where** is a chapter list a tool can check; the **why** is a sentence for 
 
 ```bash
 python3 tools/build_index.py
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py
 ```
 
-Regenerates `glossary/INDEX.md` and `glossary/terms.yaml`. **Never edit those by hand.**
+Regenerates `glossary/INDEX.md` and `glossary/terms.yaml`, then everything under `data/`: the atlas export carries every entry verbatim, and CI fails a PR whose `data/` is stale. **Never edit any of them by hand.**
 
 **If you changed `render:`, `flexions:` or `forbidden:`, grep the repo for the old English beside the term and reconcile every hit.** A lock's English is authored here and *restated in prose* across `notes/`, `WORKLIST.md` and the chapter notes, and **no check compares them** — so a change here silently leaves stale copies behind. This is measured: the 保 flexion of 2026-09-20 updated three places and left three saying the old thing, including a glossary entry asserting an English its own chapter had just stopped using.
 

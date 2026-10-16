@@ -43,6 +43,15 @@ An audit of the documentation found a dozen present-tense counts wrong, each tru
 - **Two figures were wrong in substance, not just stale.** `sources/PROVENANCE.md` said all 53 of Han Fei's quotations match our base text; 18 do, and the 35 that differ have carried their `*` since the importer learned to check. And `data/taoteching.sqlite` was described as committed in `ARCHITECTURE.md` and a principle; it is gitignored.
 - **The routes a contributor follows were corrected:** `glossary-entry` now takes a newly entered character off the hand gloss lists (a test fails otherwise) and says `retrofit:` is set by hand; `suggest-edit` makes the 說文 route an issue except for a verified older graph, which needs `import_shuowen.py --fetch`; the PR template, the pre-commit hook and `CONTRIBUTING.md` include the `data/` rebuild, and say a `lock-ok` waiver needs one; `AGENTS.md` sends outside readers to the export instead of the chapter files, and its status table, twenty chapters behind, became a pointer to `WORKLIST.md`.
 
+## 2026-10-15 — The export carries what a reader needs, and opencosmos.ai is told when it changes
+
+**opencosmos.ai's Library is replacing its Tao Te Ching with this one**, a page per chapter, and Cosmo's copy of the text is to be regenerated from here rather than kept by hand ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). Both read `data/atlas-export.json`, never the chapter files.
+
+- **Four keys added to the export, nothing changed:** `verse` (each chapter's English, stanza by stanza), `notes` (each chapter's `## Notes`, as Markdown), `literal` (each line's Literal cell) and `align` (which English lines render each Chinese line, with the confidence and method `build_db.py` records). `contract` stays 1; the atlas reads none of them and builds byte-identical pages.
+- **The alignment is now visible to a reader of the export, guess and all.** Only `exact-count` is a pairing. **32 chapters are exact today, not the 61 the ADR was written with**: in 49 chapters the English and Chinese line counts differ, and there `build_db.py` guesses proportionally at 0.3. The Library highlights a line's English only where it is exact.
+- **`tools/tests/test_export_atlas.py`**, the export's first tests: chapter 6's guessed pairing is never exact, and a chapter is exact exactly when its counts agree.
+- **`notify-opencosmos.yml`** redeploys opencosmos.ai (`VERCEL_DEPLOY_HOOK`) and asks knowledge to regenerate Cosmo's copy (`KNOWLEDGE_DISPATCH_TOKEN`) whenever the export changes on `main`. Each half skips with a notice until its secret is set.
+
 ## 2026-09-24 — The principles are made to run, and the build now checks that they do
 
 A principle had one job the directory never asked about: **where does it actually run?** Twenty-nine of thirty entries said nothing about it, and seven applied to kinds of work — `notes`, `tooling`, `process` — that no skill or `CLAUDE.md` ever loaded. They were argued well and reached by nobody.
