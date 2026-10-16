@@ -12,11 +12,27 @@
 
 *Supersedes `RETROFIT.md` and `EDITING-PASS.md`, merged into this file on 2026-08-28 and both now deleted. This file is `RETROFIT.md` renamed, so `git log --follow WORKLIST.md` still reaches the project's start; the 2026-08-10 sweep record and the lessons it taught the checker moved to `PLAN.md`. Every item below was re-verified against the manuscript at the merge; the old file listed six repairs that had already been made.*
 
+## ▶ Start here — the next round (updated 2026-10-14)
+
+*The pointer for whoever picks this up cold. It orders the work and names the first move; the reasoning lives in the rows it points to. Rewrite this block when the round changes, never append to it.*
+
+**Last round shipped (PRs #23–#26, #28–#29, all merged):** 魄 → *aliveness*, an entry (ch 10 reads *"Housing your aliveness"*) · two contributor skills, `contribute` and `suggest-edit` · 民 → *the people* and 百姓 → *everyone*, settling the deferred 民/人 call (T4-1) · short English for every grammar word and all 462 unglossed content words, so the atlas shows English for 797 of 798 characters (朘 left blank on purpose) · nine verse fixes found by reading each character against its line (T2-61) · 柔's lock made live and 剛 → *unbending* (T4-4) · open entries no longer published as locked (T5-16) · ch 35's toneless pinyin restored.
+
+**Next, in order:**
+
+1. ~~**柔 (*róu* — soft)**~~ — ✅ 2026-10-15, its own entry (`glossary/rou-柔.md`), 剛 covered with it. Its one finding, 脆 → *fragile* at 64 and 76 (Shalom's call), is closed.
+2. **Next: 混 (T2-40, quick)**, then down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time: 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 聖 · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
+3. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
+
+**Waiting on Shalom:** nothing. Still deferred: 正/奇 (T4-2) and the em-dashes (T4-3).
+
+**How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas updates itself within the hour of a merge.
+
 ---
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **139 item rows: 46 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **141 item rows: 48 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -132,6 +148,7 @@
 | T2-59 | ⬜ | **清 (*qīng* — clear, as settled water is) has no entry, and *clear* is shared with 明.** 清 is *clear* at 15, 39 ×2 and 45; 明 is *clear* as a modifier at 41 (*"the clear Tao"*). **Ch 45's *"clear stillness"* and ch 41's *"the clear Tao"* read as the same word for two characters**, and nothing enforces a difference. Found weighing *is clear* for ch 47 | 15 39 41 45 | E |
 | T2-60 | ✅ | ~~**百姓 wears 民's *the people***~~ — **locked 2026-10-14, Shalom's call: 百姓 → *everyone*** (`glossary/baixing-百姓.md`); *the hundred families* declined as drained of the people. Swept 5, 17, 49 ×2. **Rider:** ch 67's 天下皆謂 (same frame as 17's 百姓皆謂) → *"The world says,"* matching ch 2's 天下皆知 | 5 17 49 67 | E |
 | T2-61 | ✅ | ~~**Eight verse findings from the word-gloss pass**~~ — **settled 2026-10-14, Shalom's call: seven fixed, one withdrawn.** **30** 以道佐人主 → *"One who supports a ruler with the Tao"* (佐 restored, after 王弼) · **59** 早服 → *accepting early* · **17** → *"those under them know only that they exist"* · **22, 24** 矜 → *boast* · **27** → *counting rods* · **50** → *untouched by armor or weapons* · **54** 邦, rider **18** 國家 → *state(s)*. **29** *sacred vessel* withdrawn: argued in `notes/reading.md`; waits for T2-37. **Pinyin, also fixed:** ch 35's whole source table had no tone marks (43 syllables), plus one each at 41 (若) and 52 (濟), and 奇 read *jī* at 57–58 → *qí*. No toneless syllable remains in any source table | 17 18 22 24 27 30 50 54 59 | E |
+| T2-62 | ⬜ | **Smaller findings from the word-gloss pass**, each needing a look, none urgent. **伐** (*fá*) is *claim the work* at 22, 24 but *bragging* at 30 · **惚恍** shares one word (*the elusive*) at 14 where 21 splits it (*elusive / vague*) · **少 / 寡** both *diminish* in one line at 19 · **必固** reads *must first* ×4 at 36 (固 as 姑 *for now*; the literal has *firmly*) · **為天下正 / 為天下貞** take two shapes at 45 and 39 · **其次** (*the next*) turned into *Good / Poor / The worst leaders* at 17 · **夸** at 53 and **晚** at 41 follow variants (recorded; the glosses describe the base graph) · **ch 39 source table** lacks punctuation after 將恐裂 and 故貴以賤為本 · ~~**脆** two Englishes, *tender* 慈's~~ → *fragile* at 64 and 76, 2026-10-15 · **筋** (*jīn* — 說文 肉之力也, *the strength of the flesh*; sinew) reads *muscles* at 55 · characters absorbed by paraphrase: 容 (21, 50), 發 (12), 立 (25), 甚 (53), 詰 (14), 至 (65, 80), 拱 (62), 含 (55) | 12 14 17 19 21 25 36 39 41 45 50 53 55 62 64 65 76 80 | E |
 | T4-1 | ✅ | ~~**民 / 人** — one decision, whole book~~ — **settled 2026-10-14, Shalom's call: 民 → *the people*, locked, and the phrase is 民's alone** (`glossary/min-民.md`). The witnesses draw the same line: where 民 and 人 trade places (57, 60, 64) the oldest reading has 民 beside a ruler. 57 follows the witnesses (the English already did); 60 keeps the base; 64 reads bare *people*, a declared flexion. No verse changed. **Rider:** 百姓 also wears *the people* → T2-60 | 13 chapters | F |
 | T4-2 | ⏸ | **正 / 奇** — five Englishes | 37 45 57 58 78 | F |
 | T4-3 | ⏸ | **Em-dashes in the verse** — 14 lines *(ch 28's two and ch 15's one went with their rewrites, not by decision)* | 10 14 29 43 44 51 53 55 58 | F |
@@ -147,7 +164,7 @@
 | T2-28 | ⬜ | **復歸 split four-to-three** — the seven-line compound reads *return again* at 16 and 28 ×3, plain *return* at 14 and 52 | 14 16 28 52 | E |
 | T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57) | 12 19 32 51 57 | E |
 | T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Male rank-words dissolved in two opposite directions. Kin to T4-1 | 15 26 31 38 41 68 | F |
-| T4-4 | ✅ | ~~剛 owed its own mention~~ — **剛 → *unbending*, 2026-10-14, Shalom's call**, a `covers:` of `ruo-弱.md`; 堅 keeps *hard*, which ch 78 had given to both. Also found: 柔's own covers had never parsed, so its 2026-08-26 lock was not live until now | 36 78 | E |
+| T4-4 | ✅ | ~~剛 owed its own mention~~ — **剛 → *unbending*, 2026-10-14, Shalom's call**, a `covers:` of `ruo-弱.md` (of `rou-柔.md` since 2026-10-15); 堅 keeps *hard*, which ch 78 had given to both. Also found: 柔's own covers had never parsed, so its 2026-08-26 lock was not live until now | 36 78 | E |
 | T2-33 | ⬜ | **利** wants an entry — 9 chapters, three jobs: *benefit* (bound to 害 at 56, 73, 81) · **sharp** (利器 36, 57; 利劍 53 — the 說文 sense, 銛也。从刀) · *advantage* (11, 19) | 8 11 19 36 53 56 57 73 81 | E |
 | T2-34 | ⬜ | **微** three ways — *the intangible* (14) · *subtle* (15, 64) · *hidden* (36). 說文 隱行也, "to go concealed". **Ch 14's half settled at T2-52 (2026-09-10) — its *the intangible* stands and the link is carried in notes. What is open is 36 vs 15/64** | 14 15 36 64 | E |
 | T2-35 | ⬜ | **得** wants an entry — 19 chapters, 30 lines, no entry; *obtain* · *get* · *gain* · *gets*, plus the 不得已 idiom at 29, 30, 31. Ch 39 uses **received** and does not settle it | book-wide | E |
@@ -174,6 +191,7 @@
 | T5-8 | ✅ | ~~`WORKLIST.md` keeps lists that restate its own table, ungated~~ — `check_worklist.py`, in CI; **`chapter-tally` added 2026-09-05**, gating the Progress line's three copies of the chapter count | — | G |
 | T5-9 | ✅ | ~~`data/` is generated but nothing gates it~~ — atlas rebuilt-and-diffed in CI; `build_graph.py` made deterministic | — | G |
 | T5-16 | ✅ | ~~**The atlas publishes open entries as locked**~~ — **fixed 2026-10-14.** `build_db.py` now carries each entry's `status:` through: `lock_status` and the gloss tier read `open` for a recommendation, and `build_explorer.py` / `build_graph.py` set the lock flag only for `locked`. **No contract change was needed** — the atlas already reads a 0/1 `lock`, which was simply wrong for 極 · 命 · 虛. Guarded by `test_open_entries_are_not_published_as_locked` | — | G |
+| T5-17 | ⬜ | **`import_commentary.py` drops every 韓非子 quotation under five characters** (`if len(fq) < 5: continue`), and a passage whose quotations are all short is lost entirely. 49 short quotations across 解老 and 喻老. Lost outright: ch 52's 見小曰明 and 守柔曰強 (no `hanfeizi/052.md` exists), and **ch 47's 不見而明**, a witness for 明 on the fork reversed to 名 on 2026-09-24 (`notes/manuscript.md`). Also 去彼取此 and 朝甚除. A four-character quotation can be placed by exact match against the base text, where five-grams cannot. Found 2026-10-15 | 47 52 53 | G |
 
 **Why passes and not chapters — and why Pass D is the exception.** Passes 0, A, B and C each closed **one decision and every chapter it touched**, in one sitting with the commentaries open, rather than walking 1→81 and re-opening the same argument twenty times. **Pass D is not that kind of pass.** It is chapter work by definition, so the principle that ordered the others does not order it, and it now carries one row per chapter.
 
@@ -370,7 +388,7 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 - ✅ **民 / 人 — one decision, whole book, deferred 2026-08-25; settled 2026-10-14 (*the people*, locked).** 民 (the governed; 說文 *"the many sprouts"* — the eye-pierced-by-a-blade reading is 郭沫若's theory, not a fact) reads *"the people"* in 30 of its 32 occurrences — bare *people* at 64, and *few people* under 寡 at 80. Argued in `glossary/min-民.md`. 人 drifts, and **ch 57 renders it both ways two lines apart.** A rule settled at one chapter propagates to twelve others and to the cross-chapter rhymes in `notes/reading.md` (72 → 74 → 75 turns on 民不畏X; ch 80's 使民重死 is load-bearing for ch 75's 民之輕死). Ch 74 reads *"the people"* as a **hold, not a precedent**. Owed: `glossary/min-民.md`, very likely a 人 entry or `covers:`, a sweep, and a `notes/reading.md` pass. **This sweep adds 身 to the same shape of problem — consider deciding the three together.**
 - **正 / 奇** — five Englishes across ch 37, 45, 57, 58, 78. Owed: `glossary/zheng-正.md`.
 - **Em-dashes in the verse** — 17 lines across ch 10, 14, 15, 28, 29, 43, 44, 51, 53, 55, 58. Ch 44's three are good. Ch 10 and ch 51 share the same en-dash on the same line (長而不宰) and move together.
-- ✅ **柔 → soft, 剛 → unbending** (2026-10-14) — both now `covers:` of `ruo-弱.md`. 柔's covers had been written inline and parsed to nothing, so its lock was never live; the parser now refuses that shape. 剛 moved off *hard*, which is 堅's in the same chapter.
+- ✅ **柔 → soft, 剛 → unbending** (2026-10-14) — both made `covers:` of `ruo-弱.md`, and on 2026-10-15 promoted to 柔's own entry, `glossary/rou-柔.md`, with 剛 covered there. 柔's covers had been written inline and parsed to nothing, so its lock was never live; the parser now refuses that shape. 剛 moved off *hard*, which is 堅's in the same chapter.
 - **Glossary harvest** from `TRIAGE.md`: 一 is owed only its entry, then 名, then 希. **This sweep adds 身, 氣, 靜, 君, 士, 智, 事, 志, 谷, 恃.**
 - **Guodian G2–G6** (`PLAN.md`). G1 closed 2026-08-28.
 
@@ -531,3 +549,6 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-09-24 | **T1-25** — ch 38 follows 韓非's cascade, *"When the Tao is lost, then integrity is lost"* | `chapters/038.md` · `notes/manuscript.md` |
 | 2026-09-24 | **T1-24** — ch 47 restores the received 名: *"names without seeing."* Opens T2-59 | `chapters/047.md` · `notes/manuscript.md` |
 | 2026-09-24 | **T1-17** — ch 65's *clever* recorded as 明's one declared flexion | `glossary/ming-明.md` · `chapters/065.md` |
+| 2026-10-15 | 柔 → **soft**, its own entry; 剛 → *unbending* covered with it | `glossary/rou-柔.md` |
+| 2026-10-15 | 脆 → *fragile* at 64 and 76; *tender* is 慈's alone (T2-62, part) | `notes/translation.md` · `chapters/076.md` |
+| 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clarity"*, matching 守柔曰強 | `chapters/052.md` |

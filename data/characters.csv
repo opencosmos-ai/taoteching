@@ -90,7 +90,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 居,jū,dwell / stay in / home,word,,,,,11,7,"2,8,25,31,38,72,80",2,80,2.08,
 後,hòu,"back, rear / last, behind / after, then",word,,,,,11,8,"2,7,14,30,38,65,66,67",2,67,2.08,
 易,yì,easy / take the place of (78),word,,,,,11,5,"2,63,64,70,78",2,78,2.08,
-柔,róu,soft,covers,,soft,locked,,11,7,"10,36,43,52,55,76,78",10,78,2.08,glossary/ruo-弱.md
+柔,róu,soft,locked,,soft,locked,supple; pliant; pliable; flexible; gentle; tender,11,7,"10,36,43,52,55,76,78",10,78,2.08,glossary/rou-柔.md
 歸,guī,return,apparatus,2/3,,,,11,8,"14,16,20,22,28,34,52,60",14,60,2.08,
 久,jiǔ,endure / last long / long since (67),word,,,,,10,8,"7,16,23,33,44,58,59,67",7,67,1.89,
 乎,hū,(closes a question) / (an exclamation),grammar,,,,,10,5,"5,10,23,35,39",5,39,1.89,
@@ -356,7 +356,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 克,kè,overcome,word,,,,,2,1,59,59,59,0.38,
 兕,sì,rhino,word,,,,,2,1,50,50,50,0.38,
 制,zhì,System/Administrator,apparatus,1/1,,,,2,2,"28,32",28,32,0.38,
-剛,gāng,unbending,covers,,unbending,locked,,2,2,"36,78",36,78,0.38,glossary/ruo-弱.md
+剛,gāng,unbending,covers,,unbending,locked,,2,2,"36,78",36,78,0.38,glossary/rou-柔.md
 割,gē,cut/carve,apparatus,1/1,,,,2,2,"28,58",28,58,0.38,
 力,lì,force,covers,,force,locked,,2,2,"33,68",33,68,0.38,glossary/qiang-強.md
 匠,jiàng,carpenter,word,,,,,2,1,74,74,74,0.38,
@@ -437,7 +437,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 綿,Mián,"fine thread (綿綿, unceasing)",word,,,,,2,1,6,6,6,0.38,
 耳,ěr,ears,apparatus,1/1,,,,2,2,"12,49",12,49,0.38,
 聽,Tīng,Listening to,apparatus,1/1,,,,2,2,"14,35",14,35,0.38,
-脆,cuì,brittle / tender (76),word,,,,,2,2,"64,76",64,76,0.38,
+脆,cuì,fragile,word,,,,,2,2,"64,76",64,76,0.38,
 脫,tuō,slip away / leave (36),word,,,,,2,2,"36,54",36,54,0.38,
 腹,fù,belly,covers,,belly,locked,,2,2,"3,12",3,12,0.38,glossary/xin-心.md
 臂,bì,arm,word,,,,,2,2,"38,69",38,69,0.38,

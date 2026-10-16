@@ -522,6 +522,12 @@ def load_tiers():
         if m:
             current = f"Tier {m.group(1)}"
             continue
+        # Any other section ends the tier. Without this, every table under a
+        # later heading (Relocations, Pairings, the relevance queue) inherited
+        # the last tier above it and published it on the atlas as a tag.
+        if line.startswith("## "):
+            current = None
+            continue
         if current and line.startswith("|"):
             cells = [c.strip() for c in line.strip("|").split("|")]
             if len(cells) < 2 or cells[0] in ("#", "---"):

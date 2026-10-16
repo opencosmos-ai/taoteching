@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**54 entries.** Sorted by how much of the book each term touches.
+**55 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -38,6 +38,7 @@ python3 tools/build_index.py
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 7 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
 | **敢** | *gǎn* | push / venture — the forward press to take | "dare", "dares", "dared", "daring" | 7 | **locked** | [`gan-敢.md`](gan-敢.md) |
+| **柔** | *róu* | soft | "supple", "pliant", "pliable", "flexible", "gentle", "tender" | 7 | **locked** | [`rou-柔.md`](rou-柔.md) |
 | **爭** | *zhēng* | contend / contention | "compete", "competes", "competing", "competition" | 7 | **locked** | [`zheng-爭.md`](zheng-爭.md) |
 | **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 7 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
 | **弱** | *ruò* | yielding — and *weaken* only where it takes an object | "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
@@ -74,7 +75,7 @@ python3 tools/build_index.py
 |---|---|---|
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
-| **剛** | unbending | [`ruo-弱.md`](ruo-弱.md) — 弱 |
+| **剛** | unbending | [`rou-柔.md`](rou-柔.md) — 柔 |
 | **力** | force | [`qiang-強.md`](qiang-強.md) — 強 |
 | **天** | nature (as ordering principle) | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
 | **天下** | the world | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
@@ -82,7 +83,6 @@ python3 tools/build_index.py
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
-| **柔** | soft | [`ruo-弱.md`](ruo-弱.md) — 弱 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |

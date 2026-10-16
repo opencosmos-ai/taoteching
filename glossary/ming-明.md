@@ -42,7 +42,7 @@ If 明 meant "illumination," this line reads *"use its light, return to its ligh
 
 Follow it through the text and it is perceptual every time — and strikingly modest in what it perceives.
 
-**It sees small things.** 見小曰明 (52) — *to see the small is clear-seeing.* Not the infinite, not the divine. The small. Enlightenment does not help you notice what is minute and near; clear sight does.
+**It sees small things.** 見小曰明 (52) — *seeing the small is called clarity.* Not the infinite, not the divine. The small. Enlightenment does not help you notice what is minute and near; clear sight does.
 
 **It sees the self.** 知人者智，自知者明 (33) — *knowing others is cleverness; knowing yourself is clear-seeing.* The pairing is exact: 智 (*zhì*) is the outward-facing smartness that sizes up other people; 明 is turned around, and Laozi ranks it higher.
 
