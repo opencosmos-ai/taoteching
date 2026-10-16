@@ -468,3 +468,12 @@
   chapters: [16]
   status: locked
   entry: glossary/fuming-復命.md
+
+- term: "魄"
+  pinyin: "pò"
+  render: "aliveness"
+  forbidden: ["soul", "spirit", "life force", "life-force", "lifeforce", "vigor"]
+  chapters: [10]
+  status: locked
+  entry: glossary/po-魄.md
+  # covers 營 -> housing

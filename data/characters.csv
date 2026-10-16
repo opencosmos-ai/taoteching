@@ -192,7 +192,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 法,fǎ,models/follows the law of,apparatus,3/4,,,,5,2,"25,57",25,57,0.94,
 牝,pìn,female,apparatus,1/1,,,,5,3,"6,55,61",6,61,0.94,
 禮,lǐ,ritual / rites (31),word,,,,,5,2,"31,38",31,38,0.94,
-義,yì,righteousness,apparatus,2/2,,,,5,3,"18,19,38",18,38,0.94,
+義,yì,duty,word,,,,,5,3,"18,19,38",18,38,0.94,
 致,zhì,bring to / reach / follow through (39),word,,,,,5,4,"10,14,16,39",10,39,0.94,
 虛,xū,empty (adjective) · to empty (verb),open,,empty (adjective) · to empty (verb),open,emptiness; the void; vacuity; nothingness,5,5,"3,5,16,22,53",3,53,0.94,glossary/xu-虛.md
 親,qīn,"dear, draw near / kin (18) / favorites (79)",word,,,,,5,5,"17,18,44,56,79",17,79,0.94,
@@ -637,7 +637,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 烹,pēng,cook,word,,,,,1,1,60,60,60,0.19,
 熱,rè,heat,word,,,,,1,1,45,45,45,0.19,
 燕,Yàn,Peacefully,apparatus,1/1,,,,1,1,26,26,26,0.19,
-營,yíng,vital/encampment,apparatus,1/1,,,,1,1,10,10,10,0.19,
+營,yíng,housing,covers,,housing,locked,,1,1,10,10,10,0.19,glossary/po-魄.md
 爪,zhǎo,claw,word,,,,,1,1,50,50,50,0.19,
 父,fù,"father, root (教父, root of learning)",word,,,,,1,1,42,42,42,0.19,
 爽,shuǎng,dull/spoiled,apparatus,1/1,,,,1,1,12,12,12,0.19,
@@ -792,7 +792,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 餌,ěr,food / delicacies,word,,,,,1,1,35,35,35,0.19,
 駟,sì,team of four horses,word,,,,,1,1,62,62,62,0.19,
 驟,Zhòu,"sudden (驟雨, a downpour)",word,,,,,1,1,23,23,23,0.19,
-魄,pò,soul,apparatus,1/1,,,,1,1,10,10,10,0.19,
+魄,pò,aliveness,locked,,aliveness,locked,soul; spirit; life force; life-force; lifeforce; vigor,1,1,10,10,10,0.19,glossary/po-魄.md
 魚,Yú,fish,word,,,,,1,1,36,36,36,0.19,
 鮮,xiān,"fish (小鮮, small fish)",word,,,,,1,1,60,60,60,0.19,
 鳥,niǎo,bird,word,,,,,1,1,55,55,55,0.19,

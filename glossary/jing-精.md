@@ -37,7 +37,7 @@ The same chapter then draws the line that keeps 精 from meaning merely "energy"
 
 **"Primordial mass"** inverts the character, as above, and dates the text to the twentieth century.
 
-**"Soul"** is on the overlay watchlist for exactly this word. Chinese has a vocabulary for souls — 魂 (*hún*, the ethereal soul) and 魄 (*pò*, the corporeal one) — and Laozi uses **neither**. Rendering 精 as "soul" imports a separable immortal self into a book with no such thing, and makes Chapter 55's newborn a vessel for something rather than simply a creature brimming.
+**"Soul"** is on the overlay watchlist for exactly this word. Chinese has a vocabulary for souls — 魂 (*hún*, the ethereal soul) and 魄 (*pò*, the corporeal one) — and Laozi never uses 魂 and uses 魄 once, at chapter 10, for the body's own **aliveness** (`po-魄.md`). Rendering 精 as "soul" imports a separable immortal self into a book with no such thing, and makes Chapter 55's newborn a vessel for something rather than simply a creature brimming.
 
 **"Spirit"** carries the same freight and collides with 神 (*shén* — numinous potency), a different character that the text does use (6, 29, 39, 60).
 

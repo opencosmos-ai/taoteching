@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**53 entries.** Sorted by how much of the book each term touches.
+**54 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -64,6 +64,7 @@ python3 tools/build_index.py
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |
 | **復命** | *fù mìng* | returning to what is given | "returning to destiny", "restoring destiny", "returning to fate", "the mandate", "returning to what was given" | 1 | **locked** | [`fuming-復命.md`](fuming-復命.md) |
+| **魄** | *pò* | aliveness | "soul", "spirit", "life force", "life-force", "lifeforce", "vigor" | 1 | **locked** | [`po-魄.md`](po-魄.md) |
 
 ## Secondary characters
 
@@ -82,6 +83,7 @@ python3 tools/build_index.py
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
 | **柔** | soft | [`ruo-弱.md`](ruo-弱.md) — 弱 |
+| **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |

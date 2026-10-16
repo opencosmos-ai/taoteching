@@ -106,7 +106,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 ***"The dark mirror" survived a challenge, and my objection to it was wrong.*** I argued it rendered 鑑/監, which we do not print — the ch 52 襲/習 fault. **說文 defeats that: 覽，觀也。从見、監，監亦聲** — **監 is a constituent of the character we do print**, and 監 is a person over a water basin at their own reflection, the ancestor of 鑑. **The mirror is the graph's own base.** The replacement draft, *"the dark seeing,"* then failed on the verb: **滌除 needs a washable surface**, 河上公 names it (當洗其心使潔淨也, *"wash the heart clean"*), and **疵 is a spot, which sits on a surface** — 王弼: 能不以物**介**其明，**疵之**其神乎. **Recorded cost:** both commentators gloss 覽 with activity verbs, so the mirror reads the **graph**, not the lemma. *(Caught by Shalom.)*
 
-**載營魄 → "housing your soul," settled by a character that is not in this book.** **魂 (*hún* — the cloud-soul) occurs zero times in all 81 chapters**; 魄 and 營 occur once each, both in this line. So 河上公's 營魄，**魂魄**也…魂在肝，魄在肺 is a **Han two-soul system imported onto a text that never uses the other half of the pair** — which is why a draft *"the body's soul"* read as jargon. **王弼 needs nothing imported**: 載猶處也。營魄，人之**常居處**也 — *"營魄 is a person's constant dwelling place"* — and a person's constant dwelling place is the body. The graphs agree: 營 **市居也。从宮**, a walled residence; 魄 **陰神也。从鬼**, the yin spirit billeted in the flesh, not the one that leaves; 載 **乘也。从車**, to ride, with a cart in it. **營魄 is one thing, not two souls: the quarters your animating part is camped in.**
+**載營魄 → "housing your soul," settled by a character that is not in this book.** *(Superseded 2026-10-15: 魄 now reads **aliveness**, and two claims in this paragraph are corrected. See "魄 → aliveness" at the end of this file.)* **魂 (*hún* — the cloud-soul) occurs zero times in all 81 chapters**; 魄 and 營 occur once each, both in this line. So 河上公's 營魄，**魂魄**也…魂在肝，魄在肺 is a **Han two-soul system imported onto a text that never uses the other half of the pair** — which is why a draft *"the body's soul"* read as jargon. **王弼 needs nothing imported**: 載猶處也。營魄，人之**常居處**也 — *"營魄 is a person's constant dwelling place"* — and a person's constant dwelling place is the body. The graphs agree: 營 **市居也。从宮**, a walled residence; 魄 **陰神也。从鬼**, the yin spirit billeted in the flesh, not the one that leaves; 載 **乘也。从車**, to ride, with a cart in it. **營魄 is one thing, not two souls: the quarters your animating part is camped in.**
 
 **The general finding — do the watchlist's work with a verb, not a label.** CLAUDE.md flags 精/魄 → *soul*, and the corrective for 魄 is that it is the **corporeal** one. *"The body's soul"* stated that with a possessive and became jargon; ***housing*** performs it, and renders 營's own graph while doing so. ***These*** then carries 能無離乎 onto the two things just named, which is how both commentators read the parting — 王弼 抱一清神，**能常無離乎**; 河上公 抱一使**不離於身**. *(Shalom's line; **housing** replaces his **embodying**, because *embody* wore 為 at ch 28 until this pass removed it and still wears 執 at ch 35, `WORKLIST` T1-12.)* **Four Englishes were blocked, and it is worth recording which:** *spirit* is 神's (6, 39, 60); *flesh* is Pauline — the flesh against the spirit, Romans 8 — which is the hymn test; *quarters* is taken four lines below by this chapter's own 四達; and ***body* is 身's** (13, 54, 76) — 身 does not occur here, so nothing clashed inside the chapter, but the noun was **avoided rather than borrowed**. Cross-referenced on T2-1.
 
@@ -2918,3 +2918,29 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **Ch 36 was the one line that broke the rule, and it broke a parallel.** 魚不可脫於淵 read *cannot* and 國之利器不可以示人 read *must never*. 王弼 joins them with 亦必失也, *"that too is surely lost."* Now both read *cannot*. Set aside, not refuted: 河上公 and 韓非 hear the second clause as advice to a ruler.
 
 **The voice line is the other half of the lock**: 可 + verb is passive (*the Tao that can be made into a way*), 可以 + verb active (*you can last long*). 能 (*néng* — a bear in the graph, ability in the word) is covered in the same entry as the agent's *can*.
+
+## 魄 (*pò*) → *aliveness* — the soul that stays with the body
+
+*(Shalom's word, 2026-10-15. Full argument: `glossary/po-魄.md`. The essay: `DISCOVERIES.md` §7.)*
+
+**Ch 10 now reads *"Housing your aliveness and embracing the one, can you keep these from parting?"*** It was *"housing your soul."* The verb did the watchlist's work and made the soul bodily, but the noun was still the watchlist's word. **This departs from every English translation**, all of which print *soul* with or without a qualifier (*physical-*, *bodily*, *earthbound*, *animal*). The qualifiers show the translators knew the noun was wrong.
+
+**Why not *soul*.** English *soul* is what leaves the body. 魄 is what stays with it: 杜預 魄，**形**也 (*"魄 is the form"*); 孔穎達 **附形之靈**為魄 (*"the life clinging to the form"*); 禮記 **形魄歸于地** (*"the form and the 魄 return to the earth"*). 魂 (*hún*), the half that rises, never appears in the book. Its account of a person is 身, 氣 and 精, and each of them already refuses *soul*. So *soul* at ch 10 would be the book's only immaterial self, printed on the one word that means the reverse.
+
+**Why *aliveness*.** It is the body's own. It carries the senses (*alive to*: 鄭玄 耳目之聰明為魄, *"the sharpness of ear and eye"*). It comes in degrees (左傳 魂魄**強**). And it is the newborn, which is 孔穎達's picture of the 魄 and the next line's request. It also lets the couplet name the 禮記's two halves of a living person: aliveness, then the breath.
+
+**Refused on the way**, each for a reason:
+- *Life force* and *life-energy* are the popular English for 氣.
+- *Vitality*: *vital* is 精's and 氣's (21, 42, 55).
+- *Vigor* leans toward virility, which is 精's at ch 55. *(Shalom's objection, and the text bears it out.)*
+- *The animating part* (the atlas gloss of #29): *anima* is breath.
+- *The quick* is creedal, and ch 55 already *quickens*.
+- *Body* is 身's, and *flesh* is Pauline.
+
+**The tradeoff, accepted:** aliveness ends at death and the 魄 does not. 左傳's 子產 defines it while explaining a ghost. 魄 has 鬼 in its graph, and its oldest relative 霸 is the moon's pale light. **The English keeps the living half of the word and drops the half that goes into the ground.** Only *soul* keeps both, at the price this edition will not pay. The line is about a living person, so the ghost is offstage. The entry's *Left open* section keeps it on the record.
+
+**Two corrections to the 2026-09-01 note, recorded in `chapters/010.md`:**
+- The pair 魂魄 is pre-Han (左傳; 韓非子 on ch 60). Only 河上公's organ map is Han.
+- *Housing* follows 王逸 and 河上公, not 王弼. For 王弼 the 營魄 is the house the person dwells in.
+
+**Atlas:** 魄 now carries the entry's *aliveness*, and 營 is covered as *housing*. The hand gloss from #29 is withdrawn, because an entry outranks it.
