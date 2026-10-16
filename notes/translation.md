@@ -474,11 +474,13 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 ### Ch 1
 
-#### 道可道 → "The Tao that can be made into a way"
+#### 道可道 → "The Tao that can be made a way"
 
-*(Shalom's call, 2026-10-13. Was "The Tao that can be spoken.")*
+*(Shalom's call, 2026-10-13; *into* dropped 2026-10-16. Was "The Tao that can be spoken," then "made into a way.")*
 
-The second 道 (*dào*) is a verb — 可 (*kě* — can be) always takes one — and its senses run from the noun: to tread a way, to lead along it, to tell it. **Rendered by what the name means, so the first line of the book teaches that *Tao* is *way*.** *Tao · way · Tao* carries the word all three times the Chinese prints it, which *spoken* did not. Precedent: 道 is already *way* where it is not the name — *"the way of nature"* at ch 9, 47, 73, 77, 79, 81, *"the way of people"* at 77, *"the way of the sage"* at 81. Sides with 河上公 (*Héshàng Gōng*)'s 經術政教之道 (*"the way of classical learning and political instruction"*) and 韓非 (*Hán Fēi*)'s 無定理 (*"no fixed pattern"*); **costs the speech sense**, 王弼 (*Wáng Bì*)'s 指事 (*"pointing at affairs"*), on a line where the commentators diverge. Full argument, and the five renderings refused, in `chapters/001.md` → Notes.
+**The passive is held on purpose.** 可 + verb makes the Tao what is acted on, so being made a way is something done to it, by people, not something it does 自然 (*zì rán* — so of itself). *Become a way* was weighed on 2026-10-16 and refused for that reason: it is lighter, but it gives the change to the Tao and breaks the parallel with 名可名 (*míng kě míng* — the name that can be named).
+
+The second 道 (*dào*) is a verb — 可 (*kě* — can be) always takes one — and its senses run from the noun: to tread a way, to lead along it, to tell it. **Rendered by what the name means, so the first line of the book teaches that *Tao* is *way*.** *Tao · way · Tao* carries the word all three times the Chinese prints it, which *spoken* did not. Precedent: 道 is already *way* where it is not the name — *"the way of nature"* at ch 9, 47, 73, 77, 79, 81, *"the way of people"* at 77, *"the way of the sage"* at 81. Sides with 河上公 (*Héshàng Gōng*)'s 經術政教之道 (*"the way of classical learning and political instruction"*) and 韓非 (*Hán Fēi*)'s 無定理 (*"no fixed pattern"*); **costs the speech sense**, 王弼 (*Wáng Bì*)'s 指事 (*"pointing at affairs"*), on a line where the commentators diverge. Full argument, the renderings refused, and how other translations lose the paradox, in `chapters/001.md` → Notes.
 
 ### Ch 7
 
@@ -2917,7 +2919,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **Ch 36 was the one line that broke the rule, and it broke a parallel.** 魚不可脫於淵 read *cannot* and 國之利器不可以示人 read *must never*. 王弼 joins them with 亦必失也, *"that too is surely lost."* Now both read *cannot*. Set aside, not refuted: 河上公 and 韓非 hear the second clause as advice to a ruler.
 
-**The voice line is the other half of the lock**: 可 + verb is passive (*the Tao that can be made into a way*), 可以 + verb active (*you can last long*). 能 (*néng* — a bear in the graph, ability in the word) is covered in the same entry as the agent's *can*.
+**The voice line is the other half of the lock**: 可 + verb is passive (*the Tao that can be made a way*), 可以 + verb active (*you can last long*). 能 (*néng* — a bear in the graph, ability in the word) is covered in the same entry as the agent's *can*.
 
 ## 魄 (*pò*) → *aliveness* — the soul that stays with the body
 

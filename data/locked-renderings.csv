@@ -1,9 +1,9 @@
 chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,alignment_confidence,alignment_method,our_english_for_this_line
-1,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The Tao that can be made into a way is not the ever-present Tao.
-1,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,The Tao that can be made into a way is not the ever-present Tao.
-1,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made into a way is not the ever-present Tao.
-1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made into a way is not the ever-present Tao.
-1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made into a way is not the ever-present Tao.
+1,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
+1,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
+1,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
+1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
+1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
 1,2,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The name that can be named is not the ever-present name.
 1,2,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,The name that can be named is not the ever-present name.
 1,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The nameless is the beginning of sky and earth.
