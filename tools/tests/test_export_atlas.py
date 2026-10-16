@@ -101,6 +101,24 @@ class ReaderKeys(unittest.TestCase):
         self.assertEqual(export_atlas.reader(conn, {1: ch})["notes"]["1"],
                          "Prose.\n\nMore.")
 
+    def test_relative_links_become_absolute(self):
+        """Notes link to process/principles/ relative to chapters/; nothing that
+        reads the export has the repository beside it."""
+        md = ("See [imported-register](../process/principles/imported-register.md), "
+              "[a note](../notes/translation.md#ch-1), [web](https://example.org) "
+              "and [here](#top).")
+        self.assertEqual(export_atlas.absolute_links(md), (
+            "See [imported-register](https://github.com/opencosmos-ai/taoteching/blob/main/"
+            "process/principles/imported-register.md), [a note](https://github.com/"
+            "opencosmos-ai/taoteching/blob/main/notes/translation.md#ch-1), "
+            "[web](https://example.org) and [here](#top)."))
+
+    def test_no_note_links_back_into_the_repository(self):
+        import re
+        for n, md in self.r["notes"].items():
+            for target in re.findall(r"\]\(([^)]+)\)", md):
+                self.assertRegex(target, r"^(https?:|#)", f"ch {n}: {target}")
+
 
 if __name__ == "__main__":
     unittest.main()

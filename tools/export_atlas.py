@@ -15,7 +15,9 @@ chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
     verse    {chapter: [[line, …], …]}   the English, stanza by stanza, as authored
     notes    {chapter: markdown}         the chapter's `## Notes`, "" when it has none;
                                          `<!-- lock-ok -->` waivers are for the checker
-                                         and are left out
+                                         and are left out; relative links are made
+                                         absolute, since no reader of the export has
+                                         this repository beside it
     literal  {"ch.line": markdown}       the source table's Literal cell, as authored —
                                          pre-lock English, a starting point, not a reading
     align    {"ch.line": [[verse, confidence, method], …]}
@@ -36,6 +38,7 @@ file like the rest of `data/`, so a stale export cannot be merged.
 """
 
 import json
+import posixpath
 import re
 import sqlite3
 import sys
@@ -47,6 +50,7 @@ from build_explorer import DB_PATH, payload  # noqa: E402
 from lib.corpus import GLOSSARY, ROOT, load_chapters, parse_frontmatter  # noqa: E402
 
 OUT = ROOT / "data" / "atlas-export.json"
+BLOB = "https://github.com/opencosmos-ai/taoteching/blob/main/"
 
 # Bumped when the shape changes in a way a reader must know about.
 CONTRACT = 1
@@ -93,6 +97,25 @@ def entries():
     return out
 
 
+def absolute_links(markdown, base="chapters"):
+    """`](../process/x.md)` → `](https://github.com/…/blob/main/process/x.md)`.
+
+    Notes link to the repository's own files relative to `chapters/`. Read
+    anywhere else — the Library, Cosmo's corpus copy — those links point at
+    nothing. URLs, anchors and mail links are left as they are.
+    """
+    def fix(m):
+        target = m.group(1)
+        if re.match(r"[a-z]+:|#|/", target):
+            return m.group(0)
+        path, _, frag = target.partition("#")
+        full = posixpath.normpath(posixpath.join(base, path))
+        if full.startswith(".."):
+            return m.group(0)
+        return f"]({BLOB}{full}{'#' + frag if frag else ''})"
+    return re.sub(r"\]\(([^)\s]+)\)", fix, markdown)
+
+
 def reader(conn, chapters=None):
     """What a reader of the text needs beyond the atlas: verse, notes, literal
     glosses, and how sure each line's pairing with its English is.
@@ -123,8 +146,8 @@ def reader(conn, chapters=None):
         align.setdefault(f"{n}.{seq}", []).append([vseq, conf, method])
 
     chapters = chapters if chapters is not None else load_chapters()
-    notes = {str(n): re.sub(r"\n{3,}", "\n\n",
-                            re.sub(r"<!--.*?-->", "", ch.notes, flags=re.S)).strip()
+    notes = {str(n): absolute_links(re.sub(r"\n{3,}", "\n\n",
+                            re.sub(r"<!--.*?-->", "", ch.notes, flags=re.S))).strip()
              for n, ch in sorted(chapters.items())}
 
     return {"verse": verse, "notes": notes, "literal": literal, "align": align}
