@@ -22,7 +22,7 @@ Anything you've got. Some prompts, ignore them freely:
   · it sounds like church, or like a hymn
   · it sounds like a fortune cookie
   · the rhythm breaks
-  · a word feels too modern, too abstract, or too grand
+  · a word feels too modern, too old-fashioned, too abstract, or too grand
   · I can't tell who or what the sentence is about
   · I read it three times and still don't know what it says
 -->

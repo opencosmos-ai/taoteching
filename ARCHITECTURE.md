@@ -287,15 +287,17 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 
 ## Skills — the method, executed
 
-**`process/method.md` says how the work is done; a skill makes a piece of it run.** Three exist, each a folder with a `SKILL.md`:
+**`process/method.md` says how the work is done; a skill makes a piece of it run.** Five exist, each a folder with a `SKILL.md`:
 
 | Skill | Runs |
 |---|---|
 | `chapter-review` | one chapter from the Chinese — witnesses, commentaries, formulas, the record, the read-back, the log |
 | `glossary-entry` | one term — evidence, the entry standard, the lock, the regenerated index |
 | `principle-entry` | one principle — detection, deduplication, the trigger, the shape, the wiring, the threshold |
+| `suggest-edit` | one reader's suggestion — routed to its owning file, checked against the book, rebuilt, and opened as a PR or an issue |
+| `contribute` | a suggestion from anywhere, with no context — found in the book, routed, and handed to `suggest-edit` when it is a gloss |
 
-**Where they live, and how Claude finds them.** The skills are kept in `process/skills/` — in the method's own directory, under CC0 — and exposed through `.claude/skills/`, which holds one **relative** symlink per skill. Claude Code loads a repository's `.claude/skills/` when the repository is its working directory or an added directory, follows symlinked folders, and loads a skill once however many locations point at it. So a fresh clone gets all three with no setup, and there is still one copy of each. *The links were once absolute and per-machine; a repository move left all three dangling, and a dangling link fails silently. See `process/skills/README.md`.*
+**Where they live, and how Claude finds them.** The skills are kept in `process/skills/` — in the method's own directory, under CC0 — and exposed through `.claude/skills/`, which holds one **relative** symlink per skill. Claude Code loads a repository's `.claude/skills/` when the repository is its working directory or an added directory, follows symlinked folders, and loads a skill once however many locations point at it. So a fresh clone gets all five with no setup, and there is still one copy of each. *The links were once absolute and per-machine; a repository move left all three dangling, and a dangling link fails silently. See `process/skills/README.md`.*
 
 **Skills are how principles reach the work.** Each skill loads the principles for its kind of work with `build_principles.py --applies`, at the step where they fire, and `CLAUDE.md` loads the two kinds of work no skill covers — `tooling` and `process`. The table of which kind of work loads where is in `process/principles/README.md`, and `build_principles.py --check` refuses a principle that nothing loads.
 

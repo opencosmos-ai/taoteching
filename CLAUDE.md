@@ -209,7 +209,7 @@ glossary/             the radical-level term entries — the heart of the work
 notes/                manuscript · translation · reading
 process/method.md     the full working guide (this file is its compression)
 process/shaloms-call.md   rules Shalom has set aside, and why — read at session start
-process/skills/       the method, made executable (chapter-review · glossary-entry)
+process/skills/       the method, made executable (chapter-review · glossary-entry · principle-entry · suggest-edit · contribute)
 process/principles/   ★ the rules learned by making decisions — one file each, with a
                       trigger saying when each fires. INDEX.md is generated; the skills
                       load them by `applies:` tag. Read README.md before adding one
