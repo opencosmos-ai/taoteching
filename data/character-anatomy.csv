@@ -569,7 +569,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 橐,tuó,"bag (橐籥, bellows)",,橐,exact,㯻,phonetic-compound,,㯻 (? = not yet glossed),石 (shí = stone),1,,0.0098,囊也。从㯻省，石聲。,
 況,kuàng,how much more / let alone,,況,exact,水,phonetic-compound,,水 (shuǐ = water),兄 (? = not yet glossed),1,,0.0098,寒水也。从水兄聲。,
 泣,qì,weep,,泣,exact,水,phonetic-compound,,水 (shuǐ = water),立 (lì = stand / raise up (62)),1,,0.0098,無聲出涕曰泣。从水立聲。,
-營,yíng,vital/encampment,,營,exact,宮,phonetic-compound,,宮 (? = not yet glossed),熒 (? = not yet glossed),1,,0.0098,市居也。从宮，熒省聲。,
+營,yíng,housing,housing,營,exact,宮,phonetic-compound,,宮 (? = not yet glossed),熒 (? = not yet glossed),1,locked,0.0098,市居也。从宮，熒省聲。,
 狂,kuáng,wild,,狂,exact,犬,phonetic-compound,,犬 (quǎn = dog),㞷 (? = not yet glossed),1,,0.0098,狾犬也。从犬㞷聲。,
 狎,xiá,crowd / hem in,,狎,exact,犬,phonetic-compound,,犬 (quǎn = dog),甲 (jiǎ = armor),1,,0.0098,犬可習也。从犬甲聲。,
 瑕,xiá,flaws/blemishes,,瑕,exact,玉,phonetic-compound,乎加切,玉 (yù = jade),叚 (? = not yet glossed),1,,0.0098,玉小赤也。从玉，叚聲。,
@@ -594,7 +594,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 郊,jiāo,borderlands,,郊,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",交 (jiāo = converge / confluence (61)),1,,0.0098,距國百里爲郊。从邑交聲。,
 雨,yǔ,"rain (驟雨, a downpour)",,雨,exact,雨,compound,,"雲 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world)) + 也 (yě = (closes a statement: it is so))",,1,,0.0098,水从雲下也。一象天，冂象雲，水霝其閒也。凡雨之屬皆从雨。,
 驟,Zhòu,"sudden (驟雨, a downpour)",,驟,exact,馬,phonetic-compound,,馬 (mǎ = horse),聚 (? = not yet glossed),1,,0.0098,馬疾步也。从馬聚聲。,
-魄,pò,soul,,魄,exact,鬼,phonetic-compound,,鬼 (guǐ = ghost),白 (bái = white/light),1,,0.0098,陰神也。从鬼白聲。,
+魄,pò,aliveness,aliveness,魄,exact,鬼,phonetic-compound,,鬼 (guǐ = ghost),白 (bái = white/light),1,locked,0.0098,陰神也。从鬼白聲。,"The yin spirit. From 鬼 (guǐ — a ghost), with 白 (bái — white) for sound."
 次,cì,"next (其次, the next rank)",,次,exact,欠,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",二 (èr = two / second (67)),3,,0.0092,不前，不精也。从欠二聲。,
 恢,huī,vast (恢恢),,恢,exact,心,phonetic-compound,,心 (xīn = heart),灰 (? = not yet glossed),2,,0.0089,大也。从心灰聲。,
 昭,zhāo,bright,,昭,exact,日,phonetic-compound,,日 (rì = day),召 (zhào = summon),2,,0.0089,日明也。从日召聲。,
