@@ -90,6 +90,16 @@ class ReaderKeys(unittest.TestCase):
         self.assertEqual(self.r["notes"]["6"], "")
         self.assertFalse(self.r["notes"]["1"].startswith("## "))
 
+    def test_a_waiver_is_not_a_note(self):
+        """A `lock-ok` comment excuses one finding for check_locks; a reader
+        of the notes should never see it."""
+        from lib.corpus import Chapter
+        ch = Chapter(1, Path("001.md"), "drafted", [], [], [],
+                     "Prose.\n<!-- lock-ok: forbidden · a reason -->\n")
+        conn = sqlite3.connect(":memory:")
+        build_db.build(conn)
+        self.assertEqual(export_atlas.reader(conn, {1: ch})["notes"]["1"], "Prose.")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -13,7 +13,9 @@ every line it stands in, and every glossary entry in full.
 chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
 
     verse    {chapter: [[line, …], …]}   the English, stanza by stanza, as authored
-    notes    {chapter: markdown}         the chapter's `## Notes`, "" when it has none
+    notes    {chapter: markdown}         the chapter's `## Notes`, "" when it has none;
+                                         `<!-- lock-ok -->` waivers are for the checker
+                                         and are left out
     literal  {"ch.line": markdown}       the source table's Literal cell, as authored —
                                          pre-lock English, a starting point, not a reading
     align    {"ch.line": [[verse, confidence, method], …]}
@@ -34,6 +36,7 @@ file like the rest of `data/`, so a stale export cannot be merged.
 """
 
 import json
+import re
 import sqlite3
 import sys
 from pathlib import Path
@@ -120,7 +123,8 @@ def reader(conn, chapters=None):
         align.setdefault(f"{n}.{seq}", []).append([vseq, conf, method])
 
     chapters = chapters if chapters is not None else load_chapters()
-    notes = {str(n): ch.notes.strip() for n, ch in sorted(chapters.items())}
+    notes = {str(n): re.sub(r"<!--.*?-->", "", ch.notes, flags=re.S).strip()
+             for n, ch in sorted(chapters.items())}
 
     return {"verse": verse, "notes": notes, "literal": literal, "align": align}
 
