@@ -6,6 +6,54 @@
 
 ---
 
+## 7 · The soul that stays with the body
+
+*Found at Chapter 10, 2026-10-15. Full argument: `glossary/po-魄.md`.*
+
+### The finding
+
+**The one "soul" in the Tao Te Ching is the part of a person that does not leave.** Chapter 10 opens 載營魄抱一, and every major English translation renders 魄 (*pò*) as a soul: Waley *the physical-soul*, Lau *the bodily soul*, Lynn *the earthbound soul*, Legge *the animal soul*, and plain *soul* in Henricks, Mair and Ivanhoe. The sources say something close to the opposite of what English *soul* means. 魄 is the life that clings to the physical form (孔穎達: 附形之靈為魄). 杜預 says flatly 魄，形也, *"魄 is the form."* It is the first life a person has (左傳: 人生始化曰魄). 鄭玄 calls it the sharpness of ear and eye. It comes in degrees, and it goes into the ground with the body at death (禮記: 形魄歸于地). Its picture is a newborn's eyes and limbs and cry.
+
+**The translators' qualifiers are the evidence.** *Physical*, *bodily*, *earthbound*, *animal*: each is an attempt to take back what the noun imports, the separable, immaterial self that leaves the body and survives it. A word that needs a qualifier in every translation is the wrong word.
+
+**This edition reads it "aliveness":** *"Housing your aliveness and embracing the one, can you keep these from parting?"* *(Shalom's word.)*
+
+### Why "soul" was refused
+
+- **It inverts the character.** The Christian soul is what leaves the body. The 魄 is what stays with it.
+- **The book has no soul-language to support it.** 魂 (*hún*), the 魄's usual partner and the half that does rise, **never appears in the 81 chapters.** Laozi's account of a person is all body and breath: 身 (*shēn* — body), 氣 (*qì* — breath), 精 (*jīng* — vital essence). Each is physical, and each is already refused *soul* in this edition. Printing *soul* once, in chapter 10, would be the only place the book appears to speak of an immaterial self, and it would do so on the one word that means the reverse.
+- **"Housing" was not enough.** The 2026-09-01 line, *"Housing your soul,"* did the watchlist's work with its verb: *housing* made the soul bodily. But the noun was still the watchlist's word, and a reader carries the noun away.
+
+### Why "aliveness," and what it costs
+
+**It carries all of what the sources describe.** It is the body's own: nothing in it lives elsewhere. *Alive to* means sensitive to, which is 鄭玄's sharp ear and eye. It comes in degrees, as the 左傳's 魄 grows strong. And it is the infant: chapter 10 asks for the infant one line later, and 孔穎達's picture of the 魄 is a newborn.
+
+**It brings in nothing.** No theology, no breath, no energy, no sex. The near rivals each failed one of those:
+- *Life force* and *life-energy* are the popular English for 氣, the other half.
+- *Vitality* is 精's and 氣's root in this edition.
+- *Vigor* leans toward virility, which is 精's, at chapter 55.
+- *The animating part* sends it to breath, since *anima* means breath.
+
+**It also makes the chapter's opening couplet whole.** The 禮記 pairs breath with the 魄 as the two halves of a living person (氣也者神之盛也，魄也者鬼之盛也). Chapter 10 names them in that order: aliveness in line 1, the breath in line 2.
+
+**The cost is the ghost.** Aliveness ends at death; the 魄 does not. The 左傳 passage that defines it is 子產 explaining how a man eight years dead could walk as a ghost, because his 魄 had grown strong in life. 魄 has 鬼 (*guǐ* — a ghost) in its graph. Its oldest relative, 霸, names the moon's pale light. The English keeps the living half of the word and drops the half that goes into the earth. The only English that keeps both halves is *soul*, and *soul* brings the very thing that is not there. Laozi's line is about a living person keeping two things from parting, so the ghost is offstage. It is not gone.
+
+### Why it is the right call for the whole book, not only this line
+
+**The Tao Te Ching's person is one continuous living thing**, and the book's vocabulary for it is concrete throughout: a body that can be burdened (身), breath that can be gathered or forced (氣), an essence that can be kept or spent (精). Its model of a person at full strength is the infant (10, 20, 28, 55), alive in every limb and wanting nothing. *Aliveness* belongs to that vocabulary, and *soul* belongs to another book.
+
+### The essay
+
+**What the English tradition did to one word, and what that shows about the rest.** The missionary translators who built the English Tao Te Ching had *soul* ready-made, and they reached for it at the one point where the Chinese names the opposite. The qualifiers they added (*physical*, *bodily*, *animal*) show they half knew it. It pairs with §1 and §3 as an overlay that hides inside a correction.
+
+**A second thread, for the companion volume:** the moon. The word *pò* began as the moon's faint light on Western Zhou bronzes (既生霸, *"after the light is born"*). By Laozi's time it named the faint life in a body, and Han readers still punned it with 白, *white*. A body's aliveness as the pale disc that holds the light: a lead to look into, not a reading.
+
+### Where the evidence sits
+
+`glossary/po-魄.md` (the full argument, with every source quoted) · `chapters/010.md` (the decision, and two corrected claims) · `notes/translation.md` → *魄 → aliveness*.
+
+---
+
 ## 6 · The repetition *is* the argument — and our tools could not see it
 
 *Found at Chapter 11, 2026-09-05.*

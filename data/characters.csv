@@ -637,7 +637,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 烹,pēng,cook,word,,,,,1,1,60,60,60,0.19,
 熱,rè,heat,word,,,,,1,1,45,45,45,0.19,
 燕,Yàn,Peacefully,apparatus,1/1,,,,1,1,26,26,26,0.19,
-營,yíng,vital/encampment,apparatus,1/1,,,,1,1,10,10,10,0.19,
+營,yíng,housing,covers,,housing,locked,,1,1,10,10,10,0.19,glossary/po-魄.md
 爪,zhǎo,claw,word,,,,,1,1,50,50,50,0.19,
 父,fù,"father, root (教父, root of learning)",word,,,,,1,1,42,42,42,0.19,
 爽,shuǎng,dull/spoiled,apparatus,1/1,,,,1,1,12,12,12,0.19,
@@ -792,7 +792,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 餌,ěr,food / delicacies,word,,,,,1,1,35,35,35,0.19,
 駟,sì,team of four horses,word,,,,,1,1,62,62,62,0.19,
 驟,Zhòu,"sudden (驟雨, a downpour)",word,,,,,1,1,23,23,23,0.19,
-魄,pò,"the animating part housed in the body (營魄, 10)",word,,,,,1,1,10,10,10,0.19,
+魄,pò,aliveness,locked,,aliveness,locked,soul; spirit; life force; life-force; lifeforce; vigor,1,1,10,10,10,0.19,glossary/po-魄.md
 魚,Yú,fish,word,,,,,1,1,36,36,36,0.19,
 鮮,xiān,"fish (小鮮, small fish)",word,,,,,1,1,60,60,60,0.19,
 鳥,niǎo,bird,word,,,,,1,1,55,55,55,0.19,
