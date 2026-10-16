@@ -288,9 +288,14 @@ README = """# `data/` — the corpus as data
 **Generated. Do not edit by hand.** Rebuild with:
 
 ```bash
-python3 tools/build_db.py      # writes data/taoteching.sqlite (gitignored)
-python3 tools/export.py        # writes the .csv files in this directory
+python3 tools/build_db.py        # writes data/taoteching.sqlite (gitignored)
+python3 tools/export.py          # writes the .csv files in this directory
+python3 tools/build_graph.py     # writes constellation-*.json
+python3 tools/export_atlas.py    # writes atlas-export.json, read by the Character
+                                 # Atlas and by opencosmos.ai's Library and Cosmo
 ```
+
+In that order, after any change to `chapters/`, `glossary/` (run `build_index.py` first) or `sources/`. CI rebuilds all four and fails if anything here differs.
 
 The manuscript is `chapters/001–081.md`. Everything here is derived from it, the
 way `glossary/INDEX.md` and `glossary/terms.yaml` are derived from the glossary

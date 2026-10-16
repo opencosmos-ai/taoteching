@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-10-15
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-15 — The export carries what a reader needs, and opencosmos.ai is told when it changes
+
+**opencosmos.ai's Library is replacing its Tao Te Ching with this one**, a page per chapter, and Cosmo's copy of the text is to be regenerated from here rather than kept by hand ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). Both read `data/atlas-export.json`, never the chapter files.
+
+- **Four keys added to the export, nothing changed:** `verse` (each chapter's English, stanza by stanza), `notes` (each chapter's `## Notes`, as Markdown), `literal` (each line's Literal cell) and `align` (which English lines render each Chinese line, with the confidence and method `build_db.py` records). `contract` stays 1; the atlas reads none of them and builds byte-identical pages.
+- **The alignment is now visible to a reader of the export, guess and all.** Only `exact-count` is a pairing. **32 chapters are exact today, not the 61 the ADR was written with**: in 49 chapters the English and Chinese line counts differ, and there `build_db.py` guesses proportionally at 0.3. The Library highlights a line's English only where it is exact.
+- **`tools/tests/test_export_atlas.py`**, the export's first tests: chapter 6's guessed pairing is never exact, and a chapter is exact exactly when its counts agree.
+- **`notify-opencosmos.yml`** redeploys opencosmos.ai (`VERCEL_DEPLOY_HOOK`) and asks knowledge to regenerate Cosmo's copy (`KNOWLEDGE_DISPATCH_TOKEN`) whenever the export changes on `main`. Each half skips with a notice until its secret is set.
 
 ## 2026-09-24 — The principles are made to run, and the build now checks that they do
 

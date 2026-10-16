@@ -142,6 +142,8 @@ Then, every time:
 python3 tools/check_locks.py --chapter N        # must be clean, or waived with a reason
 python3 tools/fix-linebreaks.py                # verse hard breaks
 python3 tools/build_index.py                   # if a glossary entry changed
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py   # data/ is gated: verse, Chinese and notes all feed it
 ```
 
 Set the chapter's frontmatter: `status: drafted`, and `retrofit: []` only if it truly is.

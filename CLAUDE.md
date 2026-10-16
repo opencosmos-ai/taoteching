@@ -265,7 +265,8 @@ python3 tools/build_index.py                     # REQUIRED after any glossary e
 python3 tools/build_principles.py                # REQUIRED after any principles edit
 python3 tools/build_principles.py --applies drafting   # what fires on the work at hand
 python3 tools/fix-linebreaks.py                  # REQUIRED after editing any verse
-python3 tools/build_db.py && python3 tools/export.py    # rebuild the atlas
+python3 tools/build_db.py && python3 tools/export.py && python3 tools/build_graph.py \
+  && python3 tools/export_atlas.py               # REQUIRED after editing chapters or glossary: data/ is gated
 python3 tools/check_worklist.py                  # WORKLIST.md against its own table
 python3 -m unittest discover -s tools/tests      # the tools' own tests
 ```

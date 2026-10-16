@@ -1,0 +1,56 @@
+name: notify-opencosmos
+
+# opencosmos.ai reads this repo in two places, and both are built from
+# data/atlas-export.json (opencosmos ADR 0020):
+#
+#   the Library — a page per chapter, built into the site at deploy time.
+#     Signalled by a Vercel deploy hook, VERCEL_DEPLOY_HOOK: the same hook URL
+#     opencosmos-ai/knowledge already holds under that name.
+#
+#   Cosmo's copy — knowledge/sources/taoism-tao-te-ching.md, generated from
+#     the export. Signalled by a repository_dispatch to opencosmos-ai/knowledge,
+#     which regenerates the file and re-embeds it. Needs KNOWLEDGE_DISPATCH_TOKEN:
+#     a fine-grained token with Contents: read and write on knowledge alone.
+#
+# One change to the export sends both, so the page a reader sees and the text
+# Cosmo quotes move together. Without a secret its job is skipped with a
+# notice: the site then waits for its next deploy, and knowledge's daily
+# scheduled run picks the text up.
+
+on:
+  push:
+    branches: [main]
+    paths: [data/atlas-export.json]
+  workflow_dispatch:
+
+jobs:
+  redeploy-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: tell opencosmos.ai to rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::notice::VERCEL_DEPLOY_HOOK not set; the Library updates on opencosmos.ai's next deploy."
+            exit 0
+          fi
+          curl -fsS -X POST "$HOOK" > /dev/null
+          echo "deploy requested"
+
+  regenerate-corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - name: tell knowledge to regenerate Cosmo's copy
+        env:
+          TOKEN: ${{ secrets.KNOWLEDGE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::notice::KNOWLEDGE_DISPATCH_TOKEN not set; knowledge's daily run will pick this up."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/opencosmos-ai/knowledge/dispatches \
+            -d '{"event_type":"text-updated","client_payload":{"text":"tao-te-ching","sha":"${{ github.sha }}"}}'
