@@ -345,7 +345,7 @@ the apparatus.
 ## Two cautions that matter
 
 **`alignment_method` is not decoration.** Our English verse lines and the Chinese
-source lines are 1:1 in only 30 of 81 chapters (835 verse lines against 798
+source lines are 1:1 in only {exact} of {chapters} chapters ({verse} verse lines against {lines}
 source lines). Where the counts match, `alignment_method` is `exact-count` and
 the pairing is certain. Where they do not, it is `proportional` — a positional
 guess at confidence 0.3, recorded so it can be improved, and **not evidence of
@@ -371,6 +371,28 @@ exceptions. `witnesses.csv` marks them `FACTS ONLY` in the rights column.
 """
 
 
+def readme(conn):
+    """README, with its figures counted from the database.
+
+    The figures were typed into the string once and went stale twice — 30 of
+    81 chapters when 32 were exact, 835 verse lines when there were 855 — in a
+    file whose own first line says it is generated. A count in a generated
+    file is generated too.
+    """
+    q = lambda sql: conn.execute(sql).fetchone()[0]  # noqa: E731
+    figures = {
+        "exact": q("SELECT count(DISTINCT l.chapter) FROM alignment a"
+                   " JOIN line l ON l.id = a.line_id WHERE a.method = 'exact-count'"),
+        "chapters": q("SELECT count(*) FROM chapter"),
+        "verse": q("SELECT count(*) FROM verse_line"),
+        "lines": q("SELECT count(*) FROM line"),
+    }
+    text = README
+    for key, n in figures.items():
+        text = text.replace("{" + key + "}", str(n))
+    return text
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--check", action="store_true",
@@ -385,10 +407,11 @@ def main():
 
     conn = sqlite3.connect(db)
     stale, violations, untranslated = write(conn, check=args.check)
+    text = readme(conn)
     conn.close()
 
     if not args.check:
-        (OUT / "README.md").write_text(README, encoding="utf-8")
+        (OUT / "README.md").write_text(text, encoding="utf-8")
         print(f"    {'README.md':24}")
 
     rc = 0
