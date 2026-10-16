@@ -2952,3 +2952,9 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **No verse changed for 柔.** Every one of its eleven lines already read *soft*. The entry adds the evidence: 說文 木曲直也 (*wood that bends and straightens*), the 洪範's 木曰曲直, and the woodworker's 揉 (揉木為耒, *bent wood for the plough handle*). It also adds the I Ching contrast: the Wings hold 剛柔 as equals, and Laozi takes 柔's side. **Forbidden:** *supple, pliant, pliable, flexible* (the 說文's picture taken literally, which fails on water), *gentle* (a manner English praises; 河上公's 和柔 is his ethics, not the line), and *tender*.
 
 **脆 (*cuì* — 說文 耎易破也, *soft and easily broken*) → *fragile* at 64 and 76.** It had been *brittle* at 64 and *tender* at 76, and *tender* is 慈's. *Brittle* at 76 would have made the living grass sound like the dead. Ch 64 *"What is fragile is easy to shatter"*; ch 76 *"soft and fragile."* With 76 clear, *tender* goes on 柔's never-list, where the build can hold it, since 慈 shares no chapter with 柔.
+
+## 見小曰明 (ch 52) → *"Seeing the small is called clear-seeing"*
+
+*(Shalom's call, 2026-10-15. Argument in `chapters/052.md`.)*
+
+**Was *"To recognize things in their smallest form is clear-seeing,"* which rendered 河上公's gloss (萌芽未動, *"before the sprouts stir"*) and not the line.** *Things*, *smallest* and *form* are all supplied, and they close 小 (*xiǎo* — small) onto early stages. But 小 is also the Tao's name at ch 34 and the uncarved wood's at ch 32. *Recognize* dropped 見 (*jiàn* — to see). Now the couplet matches, *Seeing the small / Holding to the soft*, as 王弼 and 韓非子 both read it, and the line joins ▢▢曰明 at 16 and 55. **The doubled *seeing* is kept on purpose:** the line defines 明 as a kind of 見.

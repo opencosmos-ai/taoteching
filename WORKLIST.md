@@ -32,7 +32,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **140 item rows: 47 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **141 item rows: 48 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -191,6 +191,7 @@
 | T5-8 | ✅ | ~~`WORKLIST.md` keeps lists that restate its own table, ungated~~ — `check_worklist.py`, in CI; **`chapter-tally` added 2026-09-05**, gating the Progress line's three copies of the chapter count | — | G |
 | T5-9 | ✅ | ~~`data/` is generated but nothing gates it~~ — atlas rebuilt-and-diffed in CI; `build_graph.py` made deterministic | — | G |
 | T5-16 | ✅ | ~~**The atlas publishes open entries as locked**~~ — **fixed 2026-10-14.** `build_db.py` now carries each entry's `status:` through: `lock_status` and the gloss tier read `open` for a recommendation, and `build_explorer.py` / `build_graph.py` set the lock flag only for `locked`. **No contract change was needed** — the atlas already reads a 0/1 `lock`, which was simply wrong for 極 · 命 · 虛. Guarded by `test_open_entries_are_not_published_as_locked` | — | G |
+| T5-17 | ⬜ | **`import_commentary.py` drops every 韓非子 quotation under five characters** (`if len(fq) < 5: continue`), and a passage whose quotations are all short is lost entirely. 49 short quotations across 解老 and 喻老. Lost outright: ch 52's 見小曰明 and 守柔曰強 (no `hanfeizi/052.md` exists), and **ch 47's 不見而明**, a witness for 明 on the fork reversed to 名 on 2026-09-24 (`notes/manuscript.md`). Also 去彼取此 and 朝甚除. A four-character quotation can be placed by exact match against the base text, where five-grams cannot. Found 2026-10-15 | 47 52 53 | G |
 
 **Why passes and not chapters — and why Pass D is the exception.** Passes 0, A, B and C each closed **one decision and every chapter it touched**, in one sitting with the commentaries open, rather than walking 1→81 and re-opening the same argument twenty times. **Pass D is not that kind of pass.** It is chapter work by definition, so the principle that ordered the others does not order it, and it now carries one row per chapter.
 
@@ -550,3 +551,4 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-09-24 | **T1-17** — ch 65's *clever* recorded as 明's one declared flexion | `glossary/ming-明.md` · `chapters/065.md` |
 | 2026-10-15 | 柔 → **soft**, its own entry; 剛 → *unbending* covered with it | `glossary/rou-柔.md` |
 | 2026-10-15 | 脆 → *fragile* at 64 and 76; *tender* is 慈's alone (T2-62, part) | `notes/translation.md` · `chapters/076.md` |
+| 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clear-seeing"*, matching 守柔曰強 and the frame at 16 and 55 | `chapters/052.md` |
