@@ -141,7 +141,7 @@ This is the operational heart of the system. A question about one character beco
 | `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | yes |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
 | `data/explorer.html` | `build_explorer.py` | the sqlite | no — gitignored; a local, self-contained preview. The public atlas is built from `atlas-export.json` |
-| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim | yes — **CI fails if stale**. The contract the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas) reads; nothing else in this repo is read by it |
+| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim, plus each chapter's `## Notes` | yes — **CI fails if stale**. The contract two readers build from, and nothing else in this repo is read by either: the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas), and opencosmos.ai's Library and Cosmo, which also read its `verse`, `notes`, `literal` and `align` keys ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). A change on `main` signals all three: `notify-atlas.yml` and `notify-opencosmos.yml` |
 | `data/constellation-*.json` | `build_graph.py` | the sqlite | yes — **CI fails if stale** |
 | `sources/commentaries/*/` | `import_commentary.py` | cached wikitext (gitignored) | yes — re-runnable to byte-identical output |
 | `sources/shuowen/entries.md` | `import_shuowen.py` | cached wikitext | yes |

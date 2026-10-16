@@ -9,6 +9,24 @@ repository's internals. It reads this one file, which is the contract between
 them: every character with its 說文 analysis and this translation's rendering,
 every line it stands in, and every glossary entry in full.
 
+**It is also what the Library's reader reads** (opencosmos.ai, one page per
+chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
+
+    verse    {chapter: [[line, …], …]}   the English, stanza by stanza, as authored
+    notes    {chapter: markdown}         the chapter's `## Notes`, "" when it has none
+    literal  {"ch.line": markdown}       the source table's Literal cell, as authored —
+                                         pre-lock English, a starting point, not a reading
+    align    {"ch.line": [[verse, confidence, method], …]}
+                                         which English lines render this Chinese line:
+                                         `verse` is 1-based across the chapter's stanzas,
+                                         as in the `verse` key. `method` is exact-count
+                                         (1.0, the counts agree, so the pairing is certain),
+                                         proportional (0.3) or proportional-fill (0.2):
+                                         a guess, never to be shown as a pairing
+
+Additions only, so `contract` stays 1: the atlas refuses any other number, and
+reads none of these keys.
+
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. Edit an entry, rebuild, and the atlas changes. CI gates the
@@ -23,7 +41,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from build_explorer import DB_PATH, payload  # noqa: E402
-from lib.corpus import GLOSSARY, ROOT, parse_frontmatter  # noqa: E402
+from lib.corpus import GLOSSARY, ROOT, load_chapters, parse_frontmatter  # noqa: E402
 
 OUT = ROOT / "data" / "atlas-export.json"
 
@@ -72,12 +90,48 @@ def entries():
     return out
 
 
+def reader(conn, chapters=None):
+    """What a reader of the text needs beyond the atlas: verse, notes, literal
+    glosses, and how sure each line's pairing with its English is.
+
+    The verse and the alignment come from the database, so they are the same
+    lines check_locks and the concordance see. The notes are the one thing the
+    database does not hold, and come straight from the chapter files.
+    """
+    q = conn.execute
+    verse = {}
+    for n, stanza, english in q(
+            "SELECT chapter, stanza, english FROM verse_line ORDER BY chapter, seq"):
+        stanzas = verse.setdefault(str(n), [])
+        if len(stanzas) < stanza:
+            stanzas.append([])
+        stanzas[-1].append(english)
+
+    literal = {f"{n}.{seq}": lit or "" for n, seq, lit in q(
+        "SELECT chapter, seq, literal FROM line ORDER BY chapter, seq")}
+
+    align = {}
+    for n, seq, vseq, conf, method in q("""
+            SELECT l.chapter, l.seq, v.seq, a.confidence, a.method
+              FROM alignment a
+              JOIN line l ON l.id = a.line_id
+              JOIN verse_line v ON v.id = a.verse_line_id
+          ORDER BY l.chapter, l.seq, v.seq"""):
+        align.setdefault(f"{n}.{seq}", []).append([vseq, conf, method])
+
+    chapters = chapters if chapters is not None else load_chapters()
+    notes = {str(n): ch.notes.strip() for n, ch in sorted(chapters.items())}
+
+    return {"verse": verse, "notes": notes, "literal": literal, "align": align}
+
+
 def main():
     if not DB_PATH.exists():
         print("  no database — run: python3 tools/build_db.py")
         return 2
     conn = sqlite3.connect(DB_PATH)
     data = payload(conn)
+    read = reader(conn)
     conn.close()
 
     ents = entries()
@@ -90,7 +144,7 @@ def main():
     for c in data["chars"]:
         c["entries"] = sorted(member.get(c["c"], []))
 
-    out = {"contract": CONTRACT, "text": TEXT, **data, "entries": ents}
+    out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents}
     # Indented, so a glossary edit shows up as a readable diff here too.
     OUT.write_text(json.dumps(out, ensure_ascii=False, sort_keys=True,
                               indent=1) + "\n", encoding="utf-8")
