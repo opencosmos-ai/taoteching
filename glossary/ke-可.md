@@ -37,7 +37,7 @@ That sense never left. 朝聞道，夕死**可**矣 (論語 4.8) is *"hear the w
 
 This is the grammar the English must keep, and the first line depends on it.
 
-**可 + verb: the subject receives the action.** 道可道 is *"the Tao that **can be** made into a way."* 名可名 is *"the name that **can be** named."* The Tao is not doing the *dào*-ing. It is what would be *dào*-ed. The same construction gives 可欲 (3), *"what can be desired,"* which English has as one word: **the desirable.**
+**可 + verb: the subject receives the action.** 道可道 is *"the Tao that **can be** made a way."* 名可名 is *"the name that **can be** named."* The Tao is not doing the *dào*-ing. It is what would be *dào*-ed. The same construction gives 可欲 (3), *"what can be desired,"* which English has as one word: **the desirable.**
 
 **可以 + verb: the subject acts.** 可以 is 可 with 以 (*yǐ* — by means of), *"has the means to."* 可以長久 (44, 59) — *"you **can** last long."* 可以有國 (59) — *"you **can** have the state."* 美言**可以**市尊 (62) — *"fine words **can** buy honor."*
 
@@ -84,7 +84,7 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 ### What we set aside
 
 - ***must not / should not*** for a plain 不可 — puts a commandment where the book describes a consequence (above). Chapter 36 is the case where it came closest to fitting, and *cannot* holds there too (below).
-- ***may*** — the oldest sense, and fine in 論語, but in modern English *may* means *perhaps* as often as *is permitted*. *"The Tao that may be made into a way"* would read as a guess.
+- ***may*** — the oldest sense, and fine in 論語, but in modern English *may* means *perhaps* as often as *is permitted*. *"The Tao that may be made a way"* would read as a guess.
 - ***is possible to / is able to be*** — accurate and wooden. 可 is a small word and wants a small English word.
 - ***-able*** suffixes (*nameable*, *graspable*) — compact, but they turn a statement about the world into a property of the thing. *"It is ungraspable"* says what the Tao is like. *"It cannot be grasped"* says what happens when you try. The book means the second. *The desirable* (3) is the one exception, because 可欲 is a fixed noun and English has the noun.
 

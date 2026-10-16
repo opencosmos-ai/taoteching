@@ -12,7 +12,7 @@ pairing: false
 
 *Say "dow," rhyming with "now," falling, like a word set down. Seventy-five appearances across thirty-seven chapters: the book's first word, and half of its name.*
 
-**Locked: 道 → "the Tao"** (the name, left untranslated) **/ "way"** (a common noun with an owner: *the way of nature*, *the way of people*; and the verb in the book's first line, *made into a way*). *(Never "the Way," never "the Path.")*
+**Locked: 道 → "the Tao"** (the name, left untranslated) **/ "way"** (a common noun with an owner: *the way of nature*, *the way of people*; and the verb in the book's first line, *made a way*). *(Never "the Way," never "the Path.")*
 
 道 is a road. Before it was anything else it was the ordinary word for a way through the country that people walk, and the word never lost that meaning: Laozi himself uses it for a road you could stand on (53). From the road grew the walking of it, the leading of others along it, the telling of it, and the right way to do a thing. Laozi takes this common word and points it at what everything goes by, then tells us in his first line that no way you could lay out is that.
 
@@ -81,7 +81,7 @@ All three explain the name through the road. The Tao is not named for what it *i
 
 Chapter 25 says the name is forced, so we leave it visibly as a name. **"The Tao"** keeps the gesture: a word that does not pretend to define. It is also already an English word, and it carries less freight than *the Way* or *God*. We spell it *Tao* rather than the pinyin *Dao* only because that is the form English readers know. Either way it is pronounced *dào*.
 
-**What stays untranslated is the name, not the word.** The first line teaches this: 道可道 → *"The Tao that can be made into a way."* *Tao* and *way* stand in the same sentence, so the reader learns what the name means before learning anything else.
+**What stays untranslated is the name, not the word.** The first line teaches this: 道可道 → *"The Tao that can be made a way."* *Tao* and *way* stand in the same sentence, so the reader learns what the name means before learning anything else.
 
 ### The working register
 
@@ -90,10 +90,10 @@ Chapter 25 says the name is forced, so we leave it visibly as a name. **"The Tao
 | the name | **the Tao** | throughout | 道生一 → *"the Tao births the one"* |
 | the name, qualified | **the great Tao, the clear Tao…** | 18, 34, 41, 53 | 大道汎兮 → *"the great Tao overflows"* |
 | a common noun with an owner | **way** | 9, 47, 73, 77 ×3, 79, 81 ×2 | 天之道 → *"the way of nature"*; 人之道 → *"the way of people"* (77); 聖人之道 → *"the way of the sage"* (81) |
-| the verb in 道可道 | **made into a way** | 1 | *"The Tao that can be made into a way"* |
+| the verb in 道可道 | **made a way** | 1 | *"The Tao that can be made a way"* |
 | 不道, the negation | **not-Tao** | 30, 55 | 是謂不道，不道早已 → *"this is called not-Tao. Not-Tao comes to an early end"* |
 
-*Made into a way* is a construction, not 道's English. The supplied *made into* belongs to the line (`process/principles/supplied-verb-is-scaffolding.md`), so `render:` carries *way* alone.
+*Made a way* is a construction, not 道's English. The supplied *made* belongs to the line (`process/principles/supplied-verb-is-scaffolding.md`), so `render:` carries *way* alone.
 
 ### 道 and 德
 
@@ -109,4 +109,4 @@ The book is the 道**德**經, named for both. If 道 is what everything goes by
 
 **The speech sense surfaces once, and the English drops it.** 道之出口 (35) is *"the Tao, when it leaves the mouth"*, that is, when it is spoken. It is the one line after chapter 1 that sets the name beside the act of telling, and *"the Tao is bland in the mouth"* turns the mouth that speaks into a mouth that tastes.
 
-**And the first line still breaks a pun.** 道可道 holds the road and the telling in one verb. *Made into a way* keeps the road and loses the telling (`chapters/001.md` → Notes). No English word holds both, and every map of this word is, by the book's own first line, not the thing. We draw it anyway, because a map can still say *this way*, and we hold it loosely.
+**And the first line still breaks a pun.** 道可道 holds the road and the telling in one verb. *Made a way* keeps the road and loses the telling (`chapters/001.md` → Notes). No English word holds both, and every map of this word is, by the book's own first line, not the thing. We draw it anyway, because a map can still say *this way*, and we hold it loosely.

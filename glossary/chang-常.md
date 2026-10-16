@@ -53,7 +53,7 @@ The silks write 恒 freely; neither copy avoids it. The received text's single �
 
 > 夫物之一存一亡，乍死乍生，初盛而後衰者，不可謂常。唯夫與天地之剖判也具生，至天地之消散也不死不衰者謂常。而常者無攸易，無定理。無定理，非在於常所，是以不可道也。
 
-*"Things that now remain and now perish, that die all at once and all at once live, that flourish first and decline after, cannot be called 常. Only what was born together with the splitting open of sky and earth, and when sky and earth disperse neither dies nor declines, is called 常. And 常 has nothing it changes into, and no fixed pattern. Having no fixed pattern, it is not in any fixed place (常所), and that is why it cannot be made into a way."*
+*"Things that now remain and now perish, that die all at once and all at once live, that flourish first and decline after, cannot be called 常. Only what was born together with the splitting open of sky and earth, and when sky and earth disperse neither dies nor declines, is called 常. And 常 has nothing it changes into, and no fixed pattern. Having no fixed pattern, it is not in any fixed place (常所), and that is why it cannot be made a way."*
 
 Three things in this passage decide the rendering:
 
@@ -69,7 +69,7 @@ None of the three puts 常 outside time. All three describe it as something that
 
 ### Line 1: *ever-present*, not *eternal*
 
-**道可道，非常道** → *"The Tao that can be made into a way is not the ever-present Tao."*
+**道可道，非常道** → *"The Tao that can be made a way is not the ever-present Tao."*
 
 *Eternal* is often called the literal translation of 常. It isn't. It is the popular one, made familiar by translations such as Gia-fu Feng and Jane English (1972) and Stephen Mitchell (1988). The scholars' translations do not use it: James Legge (1891) has *"the enduring and unchanging Tao,"* Arthur Waley (1934) *"an Unvarying Way,"* D. C. Lau (1963) *"the constant way."* The dictionary sense is *constant, regular, lasting.*
 
