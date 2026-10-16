@@ -88,7 +88,7 @@ Five things, and the first is the one to remember:
 | | Owns | Shape |
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
-| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | 50 entries, 14 secondary characters |
+| **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | One file per term, plus the secondary characters each absorbs through `covers:` — [`glossary/INDEX.md`](glossary/INDEX.md) counts and lists them |
 | **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `grammar-glosses.yaml`, `word-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
@@ -138,7 +138,7 @@ This is the operational heart of the system. A question about one character beco
 |---|---|---|---|
 | `glossary/INDEX.md` · `glossary/terms.yaml` | `build_index.py` | every entry's frontmatter, plus chapter lists recomputed from `source/chinese.md` | yes — CI fails if stale |
 | `process/principles/INDEX.md` · `process/principles.yaml` | `build_principles.py` | every principle's frontmatter | yes — **CI fails if stale, and if an `evidence:` anchor does not resolve** |
-| `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | yes |
+| `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | no — gitignored; every tool that reads it rebuilds it in seconds, and the CSVs below are its reviewable form |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
 | `data/explorer.html` | `build_explorer.py` | the sqlite | no — gitignored; a local, self-contained preview. The public atlas is built from `atlas-export.json` |
 | `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim | yes — **CI fails if stale**. The contract the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas) reads; nothing else in this repo is read by it |
@@ -159,7 +159,7 @@ This is the operational heart of the system. A question about one character beco
 
 Merging them would produce something too noisy to gate on and too quiet to search with.
 
-**`check_locks.py` — the gate. Optimizes precision.** Exits non-zero, runs in CI and the pre-commit hook, and must never cry wolf. Twelve rules, each citing a written decision. A rule with no citation would be a tool author's opinion wearing a build's authority.
+**`check_locks.py` — the gate. Optimizes precision.** Exits non-zero, runs in CI and the pre-commit hook, and must never cry wolf. Every rule cites a written decision — the table is [below](#the-rules). A rule with no citation would be a tool author's opinion wearing a build's authority.
 
 **`concordance.py` — the report. Optimizes recall.** Judges nothing, never fails, exists to put evidence in front of a person before a decision is made.
 
@@ -189,21 +189,36 @@ Three, in widening scope.
 
 Install the hook with `git config core.hooksPath .githooks`. It is deliberately narrow: a half-drafted chapter must never have to argue with a tool.
 
-CI additionally runs the tools' own tests (95 of them) and verifies the verse's hard line breaks. It also runs three **staleness gates**, all the same shape — regenerate, then `git diff --exit-code`:
+CI additionally runs the tools' own tests and verifies the verse's hard line breaks. It runs the **staleness gates**, all the same shape — regenerate, then `git diff --exit-code`:
 
 | Gate | Proves |
 |---|---|
 | `glossary/INDEX.md` · `terms.yaml` | the generated locks match the entries they came from |
+| `process/principles/INDEX.md` · `principles.yaml` | the generated principles match their entries — after `build_principles.py --check` has verified every `evidence:` anchor resolves and every entry is shaped to run |
 | `data/` — the atlas | every committed CSV and JSON matches the manuscript and glossary it was built from |
-| `check_worklist.py` | `WORKLIST.md`'s pass rows, chapter lists and tally match its own table |
 
-**`check_worklist.py` is the odd one and earns its place.** Four hand-kept lists in this repository went stale in three days — `CLAUDE.md`'s lock table, the `glossary-entry` skill's instruction to update it, `WORKLIST.md`'s duplicate "order of work" table, and its item tally — and a person found every one by reading. Nothing in `tools/` read `WORKLIST.md` at all. Its six rules only enforce what the file already says about itself, and a `Ch` cell that *points at rows* rather than listing chapters is never checked: **declining to keep a second copy is the behaviour the tool exists to encourage.**
+And it holds hand-written prose to the facts it restates:
+
+| Check | Proves |
+|---|---|
+| `check_worklist.py` | `WORKLIST.md`'s pass rows, chapter lists and tally match its own table |
+| `check_counts.py` | every **marked** count in the docs matches the source it counts |
+
+**`check_worklist.py` earns its place.** Four hand-kept lists in this repository went stale in three days — `CLAUDE.md`'s lock table, the `glossary-entry` skill's instruction to update it, `WORKLIST.md`'s duplicate "order of work" table, and its item tally — and a person found every one by reading. Nothing in `tools/` read `WORKLIST.md` at all. Its rules only enforce what the file already says about itself, and a `Ch` cell that *points at rows* rather than listing chapters is never checked: **declining to keep a second copy is the behaviour the tool exists to encourage.**
+
+**`check_counts.py` is the same idea for the rest of the docs.** A count in prose is a hand-kept copy of something a tool knows, and an audit on 2026-10-15 found a dozen wrong — the glossary at "35 entries" when it had 55, "32 chapters" with dashes when 8 had them, `check_locks.py` described as having twelve, thirteen and twelve rules in three places. So a count is **trimmed** by default: the sentence loses the number and links to the generated index that prints it (`glossary/INDEX.md`, `process/principles/INDEX.md`), or to the command that lists the things counted. A count worth keeping stays hand-written and carries a mark, an HTML comment that renders as nothing, directly before the number:
+
+```markdown
+the analysis of <!-- count: shuowen -->763 of the book's <!-- count: characters -->798 characters
+```
+
+The tool finds every mark in every `.md` file, computes the value from the authority itself — the database built in memory as `build_db.py` builds it, the vendored commentaries, `check_locks.py`'s own `em-dash` rule — and fails with the true value beside the claimed one. `python3 tools/check_counts.py --list` prints every name a mark can use and its current value. **It is a separate tool rather than a `check_locks.py` rule** because it judges no rendering: it has no evidence gate to pass, no waiver to honour and no severity but *wrong*, and the same split keeps `check_worklist.py` out of the checker. **A count with no mark is not checked** — counts in code blocks, where the comment would show, and dated snapshots (`CHANGELOG.md`, `PLAN.md`, the worklist's ledger) are left alone on purpose.
 
 **No dependency install step, deliberately.** Every tool is stdlib Python only, so a fresh clone can run the whole gate with nothing else present.
 
 ---
 
-## The thirteen rules
+## The rules
 
 | Rule | Protects | Severity |
 |---|---|---|
@@ -277,7 +292,7 @@ The repository is **CC0, with no exceptions**, and a companion volume must be ab
 | **Mawangdui** (excavated 1973) · **Guodian** (1993) | **never vendor** | every transcription is modern, and reconstructing damaged graphs is living scholarship |
 | Modern critical apparatus, annotations, translations | **never vendor** | in copyright |
 
-**For the excavated witnesses, record the fact rather than the text.** *"Mawangdui A and B read 自今及古 (*zì jīn jí gǔ* — from now back to antiquity) where Wang Bi reads 自古及今 (*zì gǔ jí jīn* — from antiquity until now)"* is a fact about a text, and facts are not copyrightable. That is what `sources/variants.yaml` is: an apparatus of facts, never transcriptions. `sources/guodian-inventory.yaml` answers only *does the oldest witness carry this chapter at all* — it carries 31 of 81.
+**For the excavated witnesses, record the fact rather than the text.** *"Mawangdui A and B read 自今及古 (*zì jīn jí gǔ* — from now back to antiquity) where Wang Bi reads 自古及今 (*zì gǔ jí jīn* — from antiquity until now)"* is a fact about a text, and facts are not copyrightable. That is what `sources/variants.yaml` is: an apparatus of facts, never transcriptions. `sources/guodian-inventory.yaml` answers only *does the oldest witness carry this chapter at all* — it carries <!-- count: guodian-chapters -->31 of 81.
 
 Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to `sources/`.
 
@@ -363,6 +378,7 @@ python3 tools/check_locks.py --chapter 61       # one chapter
 python3 tools/check_locks.py --rule em-dash     # one rule
 python3 tools/check_locks.py --severity error   # what CI blocks on
 python3 -m unittest discover -s tools/tests
+python3 tools/check_counts.py                   # the counts the docs claim (--list for every name)
 
 # after editing any chapter's verse
 python3 tools/fix-linebreaks.py                 # restore hard breaks (--check to verify only)
