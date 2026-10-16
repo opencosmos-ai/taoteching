@@ -50,7 +50,9 @@ retrofit: [萬物, 常]    # terms whose settled rendering this chapter does not
 
 ### If you are extracting the translation
 
-Take the `## Translation` block from each `chapters/NNN.md` where `status: drafted`. Do not take the *Literal* column — it is an interpretive aid, often deliberately clumsy, and not intended as readable English.
+**From outside this repository, read [`data/atlas-export.json`](data/atlas-export.json), not the chapter files.** It is the one published contract — generated from the chapters by `tools/export_atlas.py`, held to them by CI, and the file this text's published readers build from — the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas) among them. The chapter files' layout is internal and can change without notice; the export's keys are listed, with what each holds, in `tools/export_atlas.py`'s docstring, and a change a reader must know about bumps its `contract` number.
+
+Inside the repository, the English is the `## Translation` block of each `chapters/NNN.md`. Whichever you read, do not take the *Literal* column as the translation — it is an interpretive aid, often deliberately clumsy, pre-lock English, and not intended as readable English.
 
 ## Terminology — this translation is deliberate
 
@@ -83,12 +85,7 @@ Both are generated from the entries by `tools/build_index.py`; do not edit them 
 
 ## Status
 
-| Chapters | State |
-|---|---|
-| 1–60, 65 | Drafted |
-| 61–64, 66–81 | Not yet translated |
-
-A full editing pass follows the completed first draft; see `WORKLIST.md` for known consistency debt.
+**The first draft is complete; the editing pass is under way.** Each chapter's `status:` frontmatter says whether it is drafted, and [`WORKLIST.md`](WORKLIST.md) says what the manuscript still owes, chapter by chapter. Read those rather than a table here: a hand-kept status table in this file said twenty chapters were untranslated for weeks after all 81 were drafted.
 
 ## Citation
 

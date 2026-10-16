@@ -30,7 +30,10 @@ if ! python3 tools/check_locks.py --staged; then
     echo "pre-commit: a settled decision is contradicted above."
     echo "            the glossary entry cited carries the reasoning."
     echo
-    echo "            waive one finding  → a lock-ok comment in the chapter's ## Notes"
+    echo "            waive one finding  → a lock-ok comment in the chapter's ## Notes,"
+    echo "                                 then rebuild data/ — the Notes feed the export:"
+    echo "                                 python3 tools/build_db.py && python3 tools/export.py"
+    echo "                                 && python3 tools/build_graph.py && python3 tools/export_atlas.py"
     echo "            set a rule aside   → process/shaloms-call.md"
     echo "            commit anyway once → git commit --no-verify"
     exit 1

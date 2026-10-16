@@ -54,9 +54,9 @@ a line would sit comfortably in a hymn, I want to know.
 
 ### 2. Fill a gloss gap — a little Chinese, or a good dictionary
 
-**218 of the book's 798 characters carry only a working approximation** —
-`gloss_source: apparatus`, harvested from the source tables, not decided. 88 of
-them appear three or more times. Every one is a small, self-contained, genuinely
+**<!-- count: gloss:apparatus -->216 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
+`gloss_source: apparatus`, harvested from the source tables, not decided.
+<!-- count: gloss-3plus:apparatus -->88 of them appear three or more times. Every one is a small, self-contained, genuinely
 useful contribution.
 
 See [`data/characters.csv`](data/characters.csv) — sort by `occurrences`, filter
@@ -77,14 +77,16 @@ cannot make: **is this line right?**
 Useful starting points, all of them open questions logged in
 [`WORKLIST.md`](WORKLIST.md):
 
-- **民 (*mín* — the governed) versus 人 (*rén* — a person).** One decision, whole
-  book, deliberately deferred. Chapter 57 currently renders 人 two different ways
-  two lines apart.
-- **Em-dashes in the verse.** 32 chapter files still contain them. Some are good;
+- **Dashes in the verse.** <!-- count: dash-chapters -->8 chapter files still contain them
+  (`python3 tools/check_locks.py --rule em-dash` lists every one). Some are good;
   some hide a missing subject, which is the specific reason the style forbids
   them. Each is a conversation, not a sweep.
-- **正 / 奇** — the *straight / crooked* thread across chapters 57–58, unsettled
+- **正 / 奇 (*zhèng / qí*)** — the *straight / crooked* thread across chapters 57–58, unsettled
   by chapter 78. The character currently carries five different Englishes.
+
+民 (*mín* — the people) versus 人 (*rén* — a person) was on this list until
+2026-10-14, when it was settled: [`glossary/min-民.md`](glossary/min-民.md) has
+the ruling and the evidence. New evidence can still reopen it.
 
 ### 4. The tooling
 
@@ -98,8 +100,8 @@ python3 tools/build_db.py --verify    # rebuild the corpus database
 python3 -m unittest discover -s tools/tests
 ```
 
-Two known gaps if you want something concrete: **87 characters have no 說文解字
-entry** matched to them, mostly because the dictionary files them under an older
+Two known gaps if you want something concrete: **<!-- count: shuowen-missing -->35 characters have no 說文解字
+(*Shuōwén Jiězì* — the Han dictionary of graphs) entry** matched to them, mostly because the dictionary files them under an older
 graph and the mapping is unverified (see `SHUOWEN_VARIANTS` in
 `tools/import_shuowen.py` — additions must be *verified against the vendored
 text*, never guessed). And a `glossary-self-check` rule is specified but unbuilt
@@ -206,15 +208,22 @@ Before opening a PR that touches the manuscript:
 python3 tools/fix-linebreaks.py --check
 python3 tools/check_locks.py
 python3 -m unittest discover -s tools/tests
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py
 ```
 
-CI runs these three, and also checks that every generated file is current: if
-you change a source, rebuild and commit what it regenerates (`data/` and the
-glossary index; `.github/workflows/checks.yml` has the exact commands). If
-`check_locks.py` flags something you believe is
-correct, do not delete the rule — either waive the single finding with a
-`<!-- lock-ok: rule · reason -->` comment in that chapter's `## Notes`, or say so
-in the PR and I will make the call.
+The last line rebuilds `data/`; commit whatever it changes. CI runs all of
+these, and also checks that every generated file is current — the glossary index
+too, if you touched an entry (`python3 tools/build_index.py`). The full list is
+[`.github/workflows/checks.yml`](.github/workflows/checks.yml).
+
+If `check_locks.py` flags something you believe is correct, do not delete the
+rule — either waive the single finding with a `<!-- lock-ok: rule · reason -->`
+comment in that chapter's `## Notes`, or say so in the PR and I will make the
+call. **A waiver is a Notes edit, so rebuild `data/` after it** and commit the
+result: a chapter's Notes are published in `data/atlas-export.json`, which CI
+holds to its source. The `lock-ok` comment itself is left out of the export; a
+reason you also write out in prose is not.
 
 **Issues are for anything.** Questions, doubts, a line that bothers you, a
 character you looked up and found interesting. You do not need a solution to open
