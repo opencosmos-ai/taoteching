@@ -1,0 +1,303 @@
+---
+name: suggest-edit
+description: Help a reader — often a first-time visitor to the Character Atlas who does not read Chinese — propose an addition or correction to a character in the Tao Te Ching translation, and turn it into a pull request or an issue. Use when someone says a character's English is missing, thin or wrong, a "Built from" part means something else, a gloss on chinese-atlas.opencosmos.ai looks off, or they want to "suggest an edit" to a character. Routes the suggestion to the file that owns it, checks it against the book, runs the gates, and opens the PR from the contributor's fork.
+---
+
+# Suggesting an edit to a character
+
+You are working **for a contributor**, usually someone who found a character on
+the [Character Atlas](https://chinese-atlas.opencosmos.ai/) and thought
+"that's not quite right" or "that says nothing." They may not read Chinese. That
+is fine: the project says so in its first line, and the most useful thing a new
+reader brings is fresh ears.
+
+**Your job is to carry their suggestion to the right place, intact, with the
+evidence attached.** Not to replace it with yours. If the evidence disagrees
+with them, tell them and let them decide; if they still want to propose it,
+propose it and say what the evidence showed.
+
+Read [`CONTRIBUTING.md`](../../../CONTRIBUTING.md) once before starting. Two
+things in it govern everything below:
+
+- **One person decides.** A pull request here is a proposal to an editor, not a
+  change to a commons. Say so to the contributor before they spend time on it.
+- **Every Chinese character gets an English rendering beside it, every time** —
+  in your messages, the PR title, the PR body, the commit message. `谷 (gǔ — a
+  valley)`, never a bare 谷.
+
+---
+
+## 0. Get the repository
+
+Everything below runs inside a clone. If the contributor is starting from the
+atlas with nothing on their machine, they need **git**, **Python 3**, a **GitHub
+account**, and ideally the **GitHub CLI** (`gh auth status` to check). Then fork
+and clone in one step — the clone's `origin` is their fork, `upstream` is the
+project:
+
+```bash
+gh repo fork opencosmos-ai/taoteching --clone && cd taoteching
+```
+
+Already in a clone of `opencosmos-ai/taoteching`? Add the fork instead:
+`gh repo fork --remote` (it renames the project's remote to `upstream`).
+
+Clone even if this will end as an issue (§2): the evidence in §3 is read from
+the clone.
+
+## 1. Name the character and the change
+
+Get two things from the contributor, in their words:
+
+1. **The character or characters.** If they give a link, the character is the
+   path: `chinese-atlas.opencosmos.ai/谷/` is 谷.
+2. **What they think is wrong or missing, and what they would put instead.**
+
+Then find what the card currently says. Its row in `data/characters.csv` is the
+source of truth:
+
+```bash
+python3 - 谷 <<'EOF'
+import csv, sys
+for r in csv.DictReader(open("data/characters.csv", encoding="utf-8")):
+    if r["character"] == sys.argv[1]:
+        for k in ("character", "pinyin", "gloss", "gloss_source", "lock_status",
+                  "glossary_entry", "occurrences", "chapters"):
+            print(f"{k:15} {r[k]}")
+EOF
+grep -l 'char: "谷"' sources/*-glosses.yaml   # which hand list holds it, if any
+```
+
+Show the contributor the current gloss and ask which part of the card they mean,
+if it is not obvious. A card has five kinds of content, and each lives somewhere
+different. (`occurrences` can exceed the number of lines: a line that uses the
+character twice counts twice.)
+
+**Then tell them the honest part, before they spend more time:** this is a
+proposal to one editor, who decides, and it may be declined for reasons of
+consistency they could not have known about. Nothing is urgent.
+
+## 2. Route it — the owner decides whether this is a PR or an issue
+
+| On the card | Where it lives | Contribution |
+|---|---|---|
+| **The English under the character**, when `gloss_source` is `word`, `apparatus` or `none` | `sources/word-glosses.yaml` | **Pull request** |
+| The same, when `gloss_source` is `grammar` (之 而 其 不 … the particles) | `sources/grammar-glosses.yaml` | **Pull request** |
+| The same, when `gloss_source` is `locked`, `covers` or `open` — the character has a **glossary entry** (`glossary_entry` names it) | `glossary/<slug>.md`, a published ruling | **Issue**, using the *rendering proposal* template |
+| **A "Built from" part's meaning** | `sources/component-glosses.yaml` | **Pull request**, for a settled meaning only (see §4) |
+| **Which parts a character is built from** (the 說文解字 analysis) | `SHUOWEN_VARIANTS` in `tools/import_shuowen.py`, against `sources/shuowen/entries.md` | **Pull request** only with the vendored line quoted; otherwise an issue |
+| **A line's English** under "In the text" | `chapters/NNN.md` | **Issue**: *a line that doesn't land*, or *rendering proposal* |
+| The atlas itself — layout, a broken link, a missing glyph | `opencosmos-ai/chinese-atlas` | **Issue** there |
+
+**Why entries and verse are issues, not PRs.** An entry is an argued ruling with
+a lock that `tools/check_locks.py` enforces across all 81 chapters; a verse line
+is the translator's. A stranger's edit to either cannot be reviewed as a diff —
+it needs the conversation first. An issue *is* the complete contribution there,
+and the contributor needs no fix to open one.
+
+**Every route goes through §3** — an issue needs the evidence as much as a PR
+does. Then a PR continues to §4–§6a; an issue skips to §6b. Both end at §7.
+
+## 3. Check the suggestion against the book
+
+**If `glossary_entry` names a file, read it first.** It is the ruling, and its
+argument is what the contributor deserves to hear before anything is drafted:
+why the edition chose its word, what it set aside, and what it admits is still
+open. Summarise that for them in plain English. For an entry, this is the most
+useful thing you will do.
+
+**A gloss here is the senses the character carries in this book**, read from
+every line it stands in — not a dictionary entry. Run:
+
+```bash
+python3 tools/concordance.py 谷                     # every line, chapter, and current English
+python3 tools/concordance.py --record 谷 | head -40  # what this repo has already argued about it
+```
+
+**Read the concordance correctly — it shows two Englishes, and only one is the
+book's.** Its first line gives the lock, if any, and the words the edition
+refuses (`→ integrity   never: virtue, …`). Under each Chinese line:
+
+- the **dim, indented line** is the *source tables'* rough literal English —
+  pre-lock, and often exactly what the edition rejects ("virtue/power"). It is
+  **not** the translation, and it is not evidence for the contributor's word;
+- the **`│` lines** are the edition's own verse — the *whole chapter's*, not
+  aligned to the Chinese line above it, so find the sentence that renders it.
+  That is what the card should agree with.
+
+For a major term, `--record` runs to many pages; the entry you just read is its
+centre, so skim the rest for anything the entry does not already say.
+
+Then hold the suggestion against what you see, and tell the contributor plainly:
+
+- **Does every use fit?** A gloss that fits most lines and contradicts one needs
+  both senses — 名 (míng — name) is `"name / to name, call / reputation (44)"`:
+  most frequent first, slash-separated, a sense used once given its chapter in
+  parentheses. A
+  *sense* is a different meaning, not a different grammar: "kill", "killed",
+  and "the one who does the killing" are one sense, because classical Chinese
+  does not mark voice or part of speech. A compound already glossed on its
+  partner character needs no note here.
+- **Does it match the verse?** Where the translation renders the character
+  faithfully, the gloss uses the verse's English, so the card and the book agree.
+  If the contributor's word is better than the verse's, that is a *rendering*
+  proposal, and the verse is an issue (§2).
+- **Is it an overlay word?** The edition refuses these in glosses as in verse,
+  and `tools/tests/test_hand_glosses.py` fails on them: *heaven, God, holy,
+  demons, soul, sin, righteousness, benevolence, charity, virtue, blessing,
+  eternal, the Way, the One, the masses.* If the contributor's word is one of
+  them, explain why the edition refuses it — from the entry if there is one,
+  otherwise CONTRIBUTING.md's "especially wanted" paragraph — and ask what they
+  mean by it. Sometimes the answer is a better proposal than the word.
+
+**If they still want it passed along, pass it along — honestly.** It becomes an
+issue (a refused word can never be a PR: the tests reject it). Keep their reason
+in their own words; do not add arguments they did not make. Say plainly in the
+issue that it would reverse a lock or use a word the edition refuses, and that
+they were shown the reasoning. A reader saying "every translation I have read
+says *virtue*" is a fair thing to report — it is how the word lands — but quote
+no modern translation's text: **sources are for meaning, never phrasing,
+pre-1931 public-domain only, and no modern translation belongs in this
+repository for any reason.**
+
+**Glossing what you cite.** Every character you single out gets its English
+beside it: 德 (dé — integrity). A quoted line gets its English beside it, not a
+gloss per character.
+
+## 4. Make the edit
+
+**Start from the project's current state, on a branch, with a clean tree** — a
+stale fork means stale `data/` and a PR that conflicts:
+
+```bash
+git status --short                       # must be empty; if not, ask what it is
+git fetch upstream
+git switch -c gloss/sha-kill upstream/main    # ASCII only: the pinyin without tones
+```
+
+Each list is YAML, three fields, and its header states its rules — **read the
+header of the file you are editing before you edit it.**
+
+```yaml
+- char: "殺"
+  pinyin: "shā"
+  gloss: "kill"
+```
+
+- **One character, one list.** A character is in `word-glosses.yaml` or
+  `grammar-glosses.yaml`, never both. If it is already listed, change its
+  `gloss:` in place.
+- **A character with `apparatus` or `none`** is not listed yet. Add it to
+  `word-glosses.yaml` — or to `grammar-glosses.yaml` if it is a particle,
+  negative, pronoun or connective (the list in `FUNCTION_WORDS` in
+  `tools/build_db.py`, plus the near-grammar words the grammar file's header
+  names).
+- **Where a new entry goes:** the lists are ordered by the character's first
+  chapter (`first_chapter` in `data/characters.csv`), then by code point. Insert
+  it in place; do not append at the end.
+- **House style — show it, and ask.** Verbs are bare: "kill", "weep", "know",
+  not "to kill"; "to …" only where a noun and a verb share the slot ("name / to
+  name"). If house style changes the contributor's wording, show them
+  the change and get their yes before you make it — it is still their proposal.
+- **A part's meaning** goes in `component-glosses.yaml`, and only when the
+  meaning is settled — the high-frequency classical radicals. The file says why:
+  *the tail is deliberately not guessed; a marked gap beats an invented filling.*
+  An uncertain part is an issue, not a PR.
+- **Lowercase**, except 道 (the Tao). **Never "he"** for the sage or any archetypal
+  figure; use *they*.
+
+## 5. Rebuild, and run the gates
+
+The atlas is generated from these files, and CI refuses a PR whose generated
+files are stale. Everything is Python 3, standard library only — nothing to
+install.
+
+```bash
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py
+python3 -m unittest discover -s tools/tests
+python3 tools/check_locks.py --severity error     # what CI gates on
+python3 tools/fix-linebreaks.py --check
+```
+
+The rebuild takes a few seconds. **Every test must pass, and the lock check must
+report 0 errors.** Info and warnings never fail — plain `check_locks.py` lists a
+hundred-odd info findings on a healthy book, which are not your problem. CI runs
+a few more checks (the glossary index, the principles, the worklist); a gloss
+edit cannot move them, and committing the rebuilt `data/` is what satisfies its
+staleness check. Then confirm the change landed where the atlas reads it:
+
+```bash
+git diff --stat
+```
+
+Expect your source file plus several generated files under `data/` — among them
+`characters.csv` and `atlas-export.json`, which is the file the atlas reads. If
+`data/` did not change, the edit did not take: the usual cause is a typo in a
+field name, or the character listed in both lists.
+
+## 6a. Open the pull request from the contributor's fork
+
+On the branch made in §4, and **only after the contributor has seen the diff and
+the PR text and said yes**:
+
+```bash
+git add sources/word-glosses.yaml data/
+git commit       # subject: the PR title; body: one line of why; then the AI's co-author trailer, if it adds one
+git push -u origin gloss/sha-kill
+gh pr create --repo opencosmos-ai/taoteching --base main
+```
+
+Without the CLI, walk them through GitHub's web editor on their fork instead —
+but then CI will rebuild `data/` and fail, so tell them to say in the PR that
+`data/` is not regenerated. It is easier to install `gh`.
+
+**Title:** `殺 (shā — to kill): gloss "kill"`
+
+**Body**, in this order, every character glossed:
+
+1. **Current:** what the card says, and its `gloss_source`.
+2. **Proposed:** the new gloss, and why — the contributor's reason in their own
+   words, quoted if they gave one.
+3. **The evidence:** the lines that support it, from the concordance, with
+   chapter numbers. Say so if any line fits less well.
+4. **Checked:** the rebuild and the test run, passing.
+5. One line saying this was prepared with an AI assistant, and naming it.
+
+## 6b. Or draft the issue
+
+No files change and no gates run on this route; the contributor posts it. Pick
+the template by what they are saying:
+
+- **`rendering-proposal.md`** — they propose different English for a ruled term
+  or a line. Title: `Ch N — 字 (pīnyīn — gloss): proposed "…"` for one line, or
+  `字 (pīnyīn — gloss): proposed "…" (whole book)` for a locked term everywhere.
+- **`a-line-that-doesnt-land.md`** — a line reads wrong to them and they have no
+  replacement. No Chinese needed; this is a complete contribution.
+- **`gloss-gap.md`** — a short gloss they cannot or would rather not edit
+  themselves.
+
+Fill every field the template has, in its order; where a field asks for
+scholarship they lack, say so plainly rather than inventing it ("the contributor
+does not read Chinese; their reason is …"). Then give them the link with the
+template and title filled:
+
+`https://github.com/opencosmos-ai/taoteching/issues/new?template=rendering-proposal.md&title=<url-encoded title>`
+
+and the body to paste. If they have the GitHub CLI and would rather you post it,
+show them the exact `gh issue create --repo opencosmos-ai/taoteching` command and
+run it only after they say yes.
+
+## 7. Tell the contributor what happens next
+
+Give them the PR or issue link, and say plainly: **it is a proposal, and one
+person decides.** It may be merged, revised, or declined for reasons of
+consistency they could not have known about — and if it changes the text, they
+will be named in the notes. Nothing here is urgent.
+
+---
+
+**Do not:** edit `glossary/` or `chapters/` in a PR from this skill; push to
+`opencosmos-ai/taoteching` directly; guess a 說文 mapping or a part's meaning;
+invent a gloss the contributor did not ask for; leave a Chinese character
+unglossed anywhere the maintainer will read it.

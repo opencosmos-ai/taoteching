@@ -54,19 +54,20 @@ a line would sit comfortably in a hymn, I want to know.
 
 ### 2. Fill a gloss gap — a little Chinese, or a good dictionary
 
-**389 of the book's 798 characters have no English gloss in this repository.**
-87 of them appear three or more times. Every one is a small, self-contained,
-genuinely useful contribution.
+**218 of the book's 798 characters carry only a working approximation** —
+`gloss_source: apparatus`, harvested from the source tables, not decided. 88 of
+them appear three or more times. Every one is a small, self-contained, genuinely
+useful contribution.
 
 See [`data/characters.csv`](data/characters.csv) — sort by `occurrences`, filter
-`gloss_source` to `none`. Or browse the
-[character atlas](https://claude.ai/code/artifact/a2210810-87d7-4144-bdd0-137149c339bd),
+`gloss_source` to `apparatus`. Or browse the
+[character atlas](https://chinese-atlas.opencosmos.ai/),
 which shows what each character is built from.
 
-A further 365 carry `gloss_source: apparatus` — working approximations harvested
-from the source tables, not decisions. Several are wrong. 義 (*yì*) is currently
-glossed **"and"**, which is simply an error; it means *duty / righteousness*.
-Finding those is valuable.
+Several are wrong. 義 (*yì* — duty) shipped as **"righteousness"** — the very
+overlay this edition refuses — until October 2026; it now reads *duty*, as the
+verse does. Finding those is valuable. (One character, 朘 (*zuī*), is left
+unglossed on purpose; `sources/word-glosses.yaml` says why.)
 
 ### 3. Check a rendering against the Chinese
 
@@ -104,6 +105,66 @@ graph and the mapping is unverified (see `SHUOWEN_VARIANTS` in
 text*, never guessed). And a `glossary-self-check` rule is specified but unbuilt
 in [`PLAN.md`](PLAN.md): the locks are enforced against the manuscript but never
 against the glossary entries that define them.
+
+### With an AI assistant
+
+An AI coding assistant (Claude Code, or any agent that can run commands) can
+carry a suggestion from your head to the right place here — finding the chapter,
+checking it against the book, and drafting the issue or pull request for you to
+approve. Paste one of these, filling in the bracketed line.
+
+**From anywhere** — a chapter you read on Substack, a line on opencosmos.ai:
+
+```text
+I'd like to suggest an edit to the Open Tao Te Ching, the OpenCosmos
+translation of the Tao Te Ching.
+
+My suggestion: [what struck you — a line that reads wrong, a word you'd change,
+a typo, anything — in your own words. Mention the chapter if you know it.]
+
+Please help me contribute it:
+1. Clone https://github.com/opencosmos-ai/taoteching. If it becomes a pull
+   request, fork it then.
+2. Read CONTRIBUTING.md and process/skills/contribute/SKILL.md, and follow
+   the skill step by step.
+3. Find where my suggestion belongs, check it against the book, and tell me
+   what you find before you change anything.
+4. Show me the exact change and the pull request or issue text, and ask me
+   before you push, open, or post anything.
+```
+
+**From a character on the
+[Character Atlas](https://chinese-atlas.opencosmos.ai/)** whose English is thin,
+missing, or wrong — the atlas's "Suggest an edit" button fills this in for you:
+
+```text
+I'd like to suggest an edit to a Chinese character on the OpenCosmos
+Character Atlas.
+
+Character: [the character, or its atlas link, e.g. https://chinese-atlas.opencosmos.ai/谷/]
+My suggestion: [what's wrong or missing, and what you'd put instead, in your own words]
+
+Please help me contribute it to the translation it comes from:
+1. Fork and clone https://github.com/opencosmos-ai/taoteching
+   (gh repo fork opencosmos-ai/taoteching --clone).
+2. Read CONTRIBUTING.md and process/skills/suggest-edit/SKILL.md, and follow
+   the skill step by step.
+3. Check my suggestion against every line the character stands in, and tell me
+   what you find before you change anything.
+4. Show me the exact change and the pull request or issue text, and ask me
+   before you push, open, or post anything.
+```
+
+Either way, the skill checks your suggestion against the book, then decides
+what it becomes. A short gloss, a part's meaning, or a typo becomes a **pull
+request**: the assistant makes the edit, rebuilds the generated data, runs the
+repository's checks, and opens it from your fork. A line that reads oddly, a
+different reading, or a glossary ruling needs a conversation first, so it
+becomes an **issue**: the assistant drafts it, and you post it. Everything in "the honest
+part" above still holds: it is a proposal, and one person decides.
+
+No assistant? [Open an issue](https://github.com/opencosmos-ai/taoteching/issues/new/choose)
+directly — the templates ask only for what helps.
 
 ---
 
@@ -147,7 +208,10 @@ python3 tools/check_locks.py
 python3 -m unittest discover -s tools/tests
 ```
 
-CI runs the same three. If `check_locks.py` flags something you believe is
+CI runs these three, and also checks that every generated file is current: if
+you change a source, rebuild and commit what it regenerates (`data/` and the
+glossary index; `.github/workflows/checks.yml` has the exact commands). If
+`check_locks.py` flags something you believe is
 correct, do not delete the rule — either waive the single finding with a
 `<!-- lock-ok: rule · reason -->` comment in that chapter's `## Notes`, or say so
 in the PR and I will make the call.

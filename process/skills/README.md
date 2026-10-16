@@ -12,10 +12,12 @@ AI collaborators, and available to anyone who clones the repo.
 | `chapter-review/` | Drafting or reviewing a chapter from the Chinese |
 | `glossary-entry/` | Adding or revising a term in `glossary/`, or locking a rendering |
 | `principle-entry/` | Recording a rule that will govern chapters nobody has read yet |
+| `suggest-edit/` | A reader — often new, often from the atlas — proposing a gloss or a part's meaning; routes it to a PR or an issue |
+| `contribute/` | Anyone with a suggestion and no context — a Substack reader, a site visitor — finds where it belongs and routes it; hands glosses to `suggest-edit` |
 
 ## How Claude finds them
 
-**Nothing to do: they are committed.** `.claude/skills/` holds one symlink per skill, each **relative** — `.claude/skills/principle-entry → ../../process/skills/principle-entry`. Claude Code loads project skills from `.claude/skills/`, follows symlinked folders, and loads a skill once even if several locations point at it. So anyone who clones the repository and opens it in Claude Code — as the working directory or as an added directory — gets all three, with no setup step.
+**Nothing to do: they are committed.** `.claude/skills/` holds one symlink per skill, each **relative** — `.claude/skills/principle-entry → ../../process/skills/principle-entry`. Claude Code loads project skills from `.claude/skills/`, follows symlinked folders, and loads a skill once even if several locations point at it. So anyone who clones the repository and opens it in Claude Code — as the working directory or as an added directory — gets all five, with no setup step.
 
 **The skills themselves stay here, in `process/skills/`**, under CC0 and in the method's own directory. `.claude/skills/` only points at them, so there is still one copy.
 

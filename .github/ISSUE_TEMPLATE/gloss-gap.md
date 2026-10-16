@@ -6,11 +6,12 @@ labels: glossary
 ---
 
 <!--
-389 of the book's 798 characters have no English gloss; 87 of those appear three
-or more times. A further 365 carry `gloss_source: apparatus` — working
-approximations, not decisions, and some are plainly wrong.
+218 of the book's 798 characters carry only `gloss_source: apparatus` — working
+approximations harvested from the source tables, not decisions, and some are
+plainly wrong. 88 of them appear three or more times.
 
-Find them in data/characters.csv (sort by `occurrences`, filter `gloss_source`).
+Find them in data/characters.csv (sort by `occurrences`, filter `gloss_source`
+to `apparatus`).
 -->
 
 **Character** <!-- with pinyin and your proposed English, e.g. 谷 (gǔ — a valley) -->
