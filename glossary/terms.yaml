@@ -251,6 +251,15 @@
   status: locked
   entry: glossary/gan-敢.md
 
+- term: "柔"
+  pinyin: "róu"
+  render: "soft"
+  forbidden: ["supple", "pliant", "pliable", "flexible", "gentle", "tender"]
+  chapters: [10, 36, 43, 52, 55, 76, 78]
+  status: locked
+  entry: glossary/rou-柔.md
+  # covers 剛 -> unbending
+
 - term: "爭"
   pinyin: "zhēng"
   render: "contend / contention"
@@ -274,8 +283,6 @@
   chapters: [3, 36, 40, 55, 76, 78]
   status: locked
   entry: glossary/ruo-弱.md
-  # covers 柔 -> soft
-  # covers 剛 -> unbending
 
 - term: "心"
   pinyin: "xīn"

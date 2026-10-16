@@ -5,9 +5,6 @@ render: "yielding — and *weaken* only where it takes an object"
 forbidden: ["frail", "feeble", "feebleness", "powerless"]
 chapters: [3, 36, 40, 55, 76, 78]
 status: locked
-covers:
-  - { char: "柔", render: "soft" }
-  - { char: "剛", render: "unbending" }
 pairing: true
 ---
 
@@ -79,7 +76,7 @@ Two clauses, two pairs, no overlap. That line is the constraint every rendering 
 
 So 柔 keeps **soft** and does not get *yielding*, which it had borrowed in ch 52 (守柔曰強) before this entry existed.
 
-**剛 is *unbending*, not *hard*, and a fifth character is why.** 堅 (*jiān*) also wants *hard* (至堅 43, 堅強 76 twice, 攻堅強 78), and ch 78 holds both a few lines apart: *"attacking **the hard** and the strong"* is 堅, *"the soft overcomes **the unbending**"* is 剛. 說文 defines each by the other's neighbour: 堅，剛也 (*"堅 is 剛"*), and 剛，彊斷也，从刀 (*"strong enough to cut, from 刀 (dāo — knife)"*). 堅 is solid hardness and keeps *hard*, in twice the lines. 剛 is the edge that will not give, and *unbending* is what 說文 sets against 柔: 木曲直也, *"wood that bends and straightens again."* The book's contest is bending against not bending. *(Shalom's call, 2026-10-14.)* *Firm* is the I Ching's word for 剛 but this book's for 固 (*gù*, 55, 59, 67); *rigid* is spent at 42.
+**剛 (*gāng*) is *unbending*, not *hard*,** because 堅 (*jiān*) holds *hard* a few lines away in the same chapter. The case is made in the 柔 entry, `rou-柔.md`, with the rest of 柔's.
 
 ### Why this matters for ch 76
 
@@ -94,8 +91,4 @@ Chapter 76 works by spending the **admiring** word on a corpse: 堅強 (*jiān q
 
 **frail · feeble · powerless.** All three name a lack. 弱 names a response.
 
-Also never let 柔 take *yielding* — see the four-word table above.
-
-### What no rule can enforce
-
-*Hard* is ruled out for 剛 but cannot go on a `forbidden:` list: the checker keys on chapter presence, and **ch 78 holds 剛 beside 堅**, whose English *hard* is. The reader holds this one: in ch 36 and 78, *hard* is 堅's and *unbending* is 剛's.
+Also never let 柔 take *yielding* — see the four-word table above. That ruling is held by the reader, not the build; `rou-柔.md` says why.

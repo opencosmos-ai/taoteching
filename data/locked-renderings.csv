@@ -136,7 +136,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,1,魄,pò,魄,aliveness,yes,0.3,proportional,"Housing your aliveness and embracing the one, can you keep these from parting?"
 10,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Gathering the breath to softness, can you be like an infant?"
 10,2,能,néng,可,be able,NOT FOUND,0.3,proportional,"Gathering the breath to softness, can you be like an infant?"
-10,3,柔,róu,弱,soft,yes,0.2,proportional-fill,"Gathering the breath to softness, can you be like an infant?"
+10,3,柔,róu,柔,soft,yes,0.2,proportional-fill,"Gathering the breath to softness, can you be like an infant?"
 10,4,能,néng,可,be able,NOT FOUND,0.3,proportional,"Washing and clearing the dark mirror, can you be without blemish?"
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,0.3,proportional,"Loving the people and governing the state, can you be unknowing?"
 10,6,無,wú,無 & 有,absence,NOT FOUND,0.2,proportional-fill,"Loving the people and governing the state, can you be unknowing?"
@@ -563,10 +563,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,2,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
 36,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
 36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the hidden clarity.
-36,6,剛,gāng,弱,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
+36,6,剛,gāng,柔,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
-36,6,柔,Róu,弱,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
+36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot leave deep water.
 36,8,利,lì,無 & 有,advantage,yes,1.0,exact-count,A state's tools of advantage cannot be shown.
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's tools of advantage cannot be shown.
@@ -721,7 +721,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I take this as the root of learning.
 43,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
 43,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
-43,1,柔,róu,弱,soft,yes,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
+43,1,柔,róu,柔,soft,yes,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
 43,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,The formless enters the seamless.
 43,2,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The formless enters the seamless.
 43,2,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The formless enters the seamless.
@@ -854,7 +854,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,6,小,xiǎo,大,small,NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
-52,6,柔,róu,弱,soft,yes,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
+52,6,柔,róu,柔,soft,yes,0.3,proportional,"Holding to the soft is called strong. Use the outer light, return to your inner clarity,"
 52,7,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,7,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and leave no calamity for the body.
 52,7,用,Yòng,無 & 有,use,NOT FOUND,0.3,proportional,and leave no calamity for the body.
@@ -888,7 +888,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,How do I know the world is so? By this.
 55,1,德,dé,德,integrity,yes,0.3,proportional,"A person with abundant integrity is like a newborn. Venomous creatures do not sting them,"
 55,3,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"Their bones are yielding and their muscles soft, yet their grip is firm."
-55,3,柔,róu,弱,soft,yes,0.3,proportional,"Their bones are yielding and their muscles soft, yet their grip is firm."
+55,3,柔,róu,柔,soft,yes,0.3,proportional,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,4,精,jīng,精,vital essence / essence,yes,0.3,proportional,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost. It cries all day and never goes hoarse — this is harmony at its utmost."
 55,6,常,cháng,常,the ever-present / ever / always,NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
 55,6,常,cháng,常,the ever-present / ever / always,NOT FOUND,0.3,proportional,To force life to increase is an ill omen.
@@ -1187,22 +1187,22 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Those who don't use living for doing are worthier than those who hold life precious.
 76,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
 76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
-76,1,柔,róu,弱,soft,yes,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
+76,1,柔,róu,柔,soft,yes,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
 76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life a person is soft and yielding. In death, hard and strong."
-76,2,柔,róu,弱,soft,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
-76,2,物,wù,萬物,things / something,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
-76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
-76,2,萬,Wàn,萬物,countless,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and tender. In death, withered and dry."
+76,2,柔,róu,柔,soft,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
+76,2,物,wù,萬物,things / something,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
+76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
+76,2,萬,Wàn,萬物,countless,yes,0.3,proportional,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,So the hard and strong are followers of death.
 76,4,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"The soft and yielding are followers of life. This is why a strong army does not win,"
-76,4,柔,Róu,弱,soft,yes,0.3,proportional,"The soft and yielding are followers of life. This is why a strong army does not win,"
+76,4,柔,Róu,柔,soft,yes,0.3,proportional,"The soft and yielding are followers of life. This is why a strong army does not win,"
 76,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,"The soft and yielding are followers of life. This is why a strong army does not win,"
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,and a strong tree snaps. The strong and the big dwell below.
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,and a strong tree snaps. The strong and the big dwell below.
 76,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,The soft and the yielding dwell above.
 76,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,The soft and the yielding dwell above.
 76,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,The soft and the yielding dwell above.
-76,6,柔,róu,弱,soft,yes,0.3,proportional,The soft and the yielding dwell above.
+76,6,柔,róu,柔,soft,yes,0.3,proportional,The soft and the yielding dwell above.
 77,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.3,proportional,"The way of nature: is it not like stringing a bow? The high is pressed down, the low is lifted."
 77,1,道,dào,道,the Tao / way,yes,0.3,proportional,"The way of nature: is it not like stringing a bow? The high is pressed down, the low is lifted."
 77,3,有,Yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,takes from where there is too much and mends where there is too little.
@@ -1220,15 +1220,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,7,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"The work is done, and they do not stay in it. They have no wish to appear exceptional."
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
-78,1,柔,róu,弱,soft,yes,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
+78,1,柔,róu,柔,soft,yes,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this,"
 78,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this,"
 78,2,能,néng,可,be able,NOT FOUND,0.3,proportional,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this,"
-78,3,剛,gāng,弱,unbending,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
+78,3,剛,gāng,柔,unbending,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,弱,Ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
-78,3,柔,róu,弱,soft,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
+78,3,柔,róu,柔,soft,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,能,néng,可,be able,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state

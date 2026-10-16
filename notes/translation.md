@@ -2944,3 +2944,11 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 - *Housing* follows 王逸 and 河上公, not 王弼. For 王弼 the 營魄 is the house the person dwells in.
 
 **Atlas:** 魄 now carries the entry's *aliveness*, and 營 is covered as *housing*. The hand gloss from #29 is withdrawn, because an entry outranks it.
+
+## 柔 (*róu*) → *soft*, its own entry — and 脆 → *fragile*
+
+*(Entry 2026-10-15: `glossary/rou-柔.md`. 柔 → soft was settled 2026-08-26 and 剛 → unbending 2026-10-14; this is the promotion out of 弱's `covers:`. 脆 is Shalom's call, the same day.)*
+
+**No verse changed for 柔.** Every one of its eleven lines already read *soft*. The entry adds the evidence: 說文 木曲直也 (*wood that bends and straightens*), the 洪範's 木曰曲直, and the woodworker's 揉 (揉木為耒, *bent wood for the plough handle*). It also adds the I Ching contrast: the Wings hold 剛柔 as equals, and Laozi takes 柔's side. **Forbidden:** *supple, pliant, pliable, flexible* (the 說文's picture taken literally, which fails on water), *gentle* (a manner English praises; 河上公's 和柔 is his ethics, not the line), and *tender*.
+
+**脆 (*cuì* — 說文 耎易破也, *soft and easily broken*) → *fragile* at 64 and 76.** It had been *brittle* at 64 and *tender* at 76, and *tender* is 慈's. *Brittle* at 76 would have made the living grass sound like the dead. Ch 64 *"What is fragile is easy to shatter"*; ch 76 *"soft and fragile."* With 76 clear, *tender* goes on 柔's never-list, where the build can hold it, since 慈 shares no chapter with 柔.

@@ -113,7 +113,7 @@
 |---|---|---|---|---|
 | ~~—~~ | ~~**民** (mín) — the people~~ | ✅ 2026-10-14 | Settled the deferred 民/人 call | `min-民.md` |
 | ~~—~~ | ~~**百姓** (bǎi xìng) — everyone~~ | ✅ 2026-10-14 | Found locking 民 | `baixing-百姓.md` |
-| 1 | **柔** (róu) — soft | 🔶 English locked and live (`covers:` of `ruo-弱.md`, made live 2026-10-14) | 11 lines, 7 chapters: too much reach for a `covers:` line, as 器 was for 樸. The I Ching's 剛/柔 (*firm / yielding*) bridge for the atlas | **Promote to its own entry**, moving 柔 and 剛 (*unbending*) out of `ruo-弱.md`'s `covers:`. 說文 木曲直也, wood that bends and straightens. Ch 10 致柔, 43 至柔, 52 守柔. No verse decision expected |
+| ~~1~~ | ~~**柔** (róu) — soft~~ | ✅ 2026-10-15 | Its own entry; 剛 (*unbending*) moved with it out of `ruo-弱.md`. 說文 木曲直也 is the carpenter's word (揉木為耒, *bent wood for the plough handle*); the I Ching's 剛柔 is symmetrical where Laozi takes a side. No verse changed for 柔. **Found:** 脆 was *brittle* at 64 and *tender*, 慈's word, at 76; now *fragile* in both (Shalom's call) | `rou-柔.md` |
 | 2 | **混** (hùn) — mixed | English settled 2026-09-06, no entry | Unenforced; quickest win | Write the entry (`WORKLIST.md` T2-40). 說文 豐流也, on the water radical |
 | 3 | **反 / 復 / 歸** (fǎn / fù / guī) — return | Open (T2-44, row 17 above) | Three characters, one English across 21 lines; ch 40 反者道之動; 復 is I Ching hexagram 24 | One three-way entry. Expect verse proposals |
 | 4 | **名** (míng) — name | Open (row 10 above) | Ch 1 and 32 argue with it; *label* (25), *be called* (34), *reputation* (44) | Entry; pair with 無名/有名 |
