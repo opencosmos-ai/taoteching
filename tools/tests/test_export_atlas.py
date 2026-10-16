@@ -95,10 +95,11 @@ class ReaderKeys(unittest.TestCase):
         of the notes should never see it."""
         from lib.corpus import Chapter
         ch = Chapter(1, Path("001.md"), "drafted", [], [], [],
-                     "Prose.\n<!-- lock-ok: forbidden · a reason -->\n")
+                     "Prose.\n\n<!-- lock-ok: forbidden · a reason -->\n\nMore.\n")
         conn = sqlite3.connect(":memory:")
         build_db.build(conn)
-        self.assertEqual(export_atlas.reader(conn, {1: ch})["notes"]["1"], "Prose.")
+        self.assertEqual(export_atlas.reader(conn, {1: ch})["notes"]["1"],
+                         "Prose.\n\nMore.")
 
 
 if __name__ == "__main__":

@@ -123,7 +123,8 @@ def reader(conn, chapters=None):
         align.setdefault(f"{n}.{seq}", []).append([vseq, conf, method])
 
     chapters = chapters if chapters is not None else load_chapters()
-    notes = {str(n): re.sub(r"<!--.*?-->", "", ch.notes, flags=re.S).strip()
+    notes = {str(n): re.sub(r"\n{3,}", "\n\n",
+                            re.sub(r"<!--.*?-->", "", ch.notes, flags=re.S)).strip()
              for n, ch in sorted(chapters.items())}
 
     return {"verse": verse, "notes": notes, "literal": literal, "align": align}

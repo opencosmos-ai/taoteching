@@ -367,9 +367,12 @@ python3 -m unittest discover -s tools/tests
 # after editing any chapter's verse
 python3 tools/fix-linebreaks.py                 # restore hard breaks (--check to verify only)
 
-# after editing chapters, glossary or sources — rebuild the derived corpus
-python3 tools/build_db.py && python3 tools/export.py
-python3 tools/build_explorer.py && python3 tools/build_graph.py
+# after editing chapters (verse, Chinese or notes), glossary or sources — rebuild
+# everything under data/, in this order; CI fails a PR whose data/ is stale.
+# A glossary edit runs build_index.py first: build_db.py reads terms.yaml.
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py
+python3 tools/build_explorer.py                 # optional: the local preview, gitignored
 
 # vendoring a source (network; output is byte-identical on re-run)
 python3 tools/import_commentary.py --source hanfeizi --write
