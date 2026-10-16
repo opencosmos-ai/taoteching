@@ -2953,8 +2953,8 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **脆 (*cuì* — 說文 耎易破也, *soft and easily broken*) → *fragile* at 64 and 76.** It had been *brittle* at 64 and *tender* at 76, and *tender* is 慈's. *Brittle* at 76 would have made the living grass sound like the dead. Ch 64 *"What is fragile is easy to shatter"*; ch 76 *"soft and fragile."* With 76 clear, *tender* goes on 柔's never-list, where the build can hold it, since 慈 shares no chapter with 柔.
 
-## 見小曰明 (ch 52) → *"Seeing the small is called clear-seeing"*
+## 見小曰明 (ch 52) → *"Seeing the small is called clarity"*
 
 *(Shalom's call, 2026-10-15. Argument in `chapters/052.md`.)*
 
-**Was *"To recognize things in their smallest form is clear-seeing,"* which rendered 河上公's gloss (萌芽未動, *"before the sprouts stir"*) and not the line.** *Things*, *smallest* and *form* are all supplied, and they close 小 (*xiǎo* — small) onto early stages. But 小 is also the Tao's name at ch 34 and the uncarved wood's at ch 32. *Recognize* dropped 見 (*jiàn* — to see). Now the couplet matches, *Seeing the small / Holding to the soft*, as 王弼 and 韓非子 both read it, and the line joins ▢▢曰明 at 16 and 55. **The doubled *seeing* is kept on purpose:** the line defines 明 as a kind of 見.
+**Was *"To recognize things in their smallest form is clear-seeing,"* which rendered 河上公's gloss (萌芽未動, *"before the sprouts stir"*) and not the line.** *Things*, *smallest* and *form* are all supplied, and they close 小 (*xiǎo* — small) onto early stages. But 小 is also the Tao's name at ch 34 and the uncarved wood's at ch 32. *Recognize* dropped 見 (*jiàn* — to see). Now the couplet matches, *Seeing the small / Holding to the soft*, as 王弼 and 韓非子 both read it. **明 → *clarity*, not *clear-seeing*:** *seeing* is already on 見, and the chapter's other 明 (復歸其明) is already *clarity*. Cost: ▢▢曰明 at 16 and 55 still reads *clear-seeing*; the frame is not verbatim, so it does not bind.

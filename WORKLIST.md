@@ -551,4 +551,4 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-09-24 | **T1-17** — ch 65's *clever* recorded as 明's one declared flexion | `glossary/ming-明.md` · `chapters/065.md` |
 | 2026-10-15 | 柔 → **soft**, its own entry; 剛 → *unbending* covered with it | `glossary/rou-柔.md` |
 | 2026-10-15 | 脆 → *fragile* at 64 and 76; *tender* is 慈's alone (T2-62, part) | `notes/translation.md` · `chapters/076.md` |
-| 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clear-seeing"*, matching 守柔曰強 and the frame at 16 and 55 | `chapters/052.md` |
+| 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clarity"*, matching 守柔曰強 | `chapters/052.md` |
