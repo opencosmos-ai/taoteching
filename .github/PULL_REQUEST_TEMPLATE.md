@@ -22,14 +22,18 @@ at, not because the license asks for it.
 python3 tools/fix-linebreaks.py --check
 python3 tools/check_locks.py
 python3 -m unittest discover -s tools/tests
+python3 tools/build_index.py                      # if a glossary entry changed
+python3 tools/build_db.py && python3 tools/export.py \
+  && python3 tools/build_graph.py && python3 tools/export_atlas.py
 ```
 
-- [ ] All three pass
+- [ ] The checks pass, and `data/` (and the glossary index, if an entry changed) is rebuilt and committed — CI fails a PR whose generated files are stale. Everything CI runs is in `.github/workflows/checks.yml`.
 
 <!--
 If check_locks.py flags something you believe is right, don't delete the rule.
-Either waive the single finding with a `<!-- lock-ok: rule · reason -->` comment
-in that chapter's `## Notes`, or say so here and I'll make the call.
+Either waive the single finding with a lock-ok comment in that chapter's
+## Notes (CONTRIBUTING.md shows the form), then rebuild data/, since the Notes
+are published in the export; or say so here and I'll make the call.
 -->
 
 **Anything you're unsure about**

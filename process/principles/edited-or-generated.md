@@ -44,10 +44,11 @@ Both failure modes happened here. A hand-kept table of the locks in `CLAUDE.md` 
 |---|---|
 | **The generated files' headers** | `glossary/INDEX.md`, `glossary/terms.yaml`, `process/principles/INDEX.md`, `data/README.md` each say what built them and not to edit by hand |
 | **CI**, three *generated … files are current* steps | rebuild the glossary, the principles and the atlas, and fail on any diff — a hand edit to a build product cannot survive a push |
+| **CI**, *the counts the docs claim* · `tools/check_counts.py` | a count kept in prose is a hand-kept copy of derived data, so it is either trimmed to a link to the generated index or marked, and every marked count is recomputed from its source and fails when it differs |
 | **`CLAUDE.md` → *The harness*** | `--applies tooling` lists it before anything in `tools/` or `data/` changes |
 | **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
 
-**Enforced by CI** for every generated file. A hand edit is also overwritten by the next build, silently — which is how `data/README.md` lost one on 2026-09-23.
+**Enforced by CI** for every generated file, and for every marked count in the docs. A hand edit is also overwritten by the next build, silently — which is how `data/README.md` lost one on 2026-09-23.
 
 ---
 

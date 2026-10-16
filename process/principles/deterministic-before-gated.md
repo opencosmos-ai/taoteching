@@ -53,7 +53,7 @@ supersedes: []
 
 ## Where it does not fire
 
-**A file that is not committed does not need a gate.** The sqlite database is committed for convenience; the CSVs are gated because **a binary blob cannot be diffed or reviewed and the CSVs can.**
+**A file that is not committed does not need a gate.** The sqlite database is gitignored and rebuilt by whoever needs it; the CSVs are committed and gated because **a binary blob cannot be diffed or reviewed and the CSVs can.**
 
 **And a generator with a legitimately variable output should not be gated at all** — it should be made deterministic, or its output should not be committed. There is no third option that ends well.
 

@@ -89,11 +89,7 @@ And a fourth blocker that would stand even if all three fell: the page's content
 
 **Imported by `tools/import_commentary.py`**, which is the point: the vendoring is **reproducible**, and it **verifies itself**. The source interleaves Laozi lemmas with Wang Bi's comment on each, so every lemma is matched against our own `source/chinese.md`:
 
-```
-wangbi: 81/81 chapters — complete
-lemma lines: 361 matched our base text exactly, 38 with variants (90% exact)
-commentary blocks: 425
-```
+**Coverage: 81 of 81 chapters, complete.** <!-- count: lemmas-exact:wangbi -->362 lemma lines match our base text exactly and <!-- count: lemmas-variant:wangbi -->37 differ, across <!-- count: comment-blocks:wangbi -->425 commentary blocks. Counted from the vendored files, where every lemma that differs carries its `*`.
 
 A lemma that matches is direct evidence the transcription was carried across intact at that point. Lemmas that differ are **reported, never normalized away** — Siku glyph forms go in the importer's `ORTHOGRAPHIC` map, and genuine forks go in `variants.yaml`.
 
@@ -109,7 +105,7 @@ A lemma that matches is direct evidence the transcription was carried across int
 
 **How the commentary is marked.** In the woodblock, Heshang Gong's notes are printed as **two columns of small type inline** with the main text. The transcription encodes each as `{{雙行註文|right|left}}` — "double-line annotation" — where the `|` is the column break, so the two halves join in reading order. Consecutive templates continue one note.
 
-**Coverage: 81 of 81 chapters, complete.** 752 lemma lines matched our base text exactly, 80 with variants (90%), and 1054 commentary blocks.
+**Coverage: 81 of 81 chapters, complete.** <!-- count: lemmas-exact:heshanggong -->754 lemma lines match our base text exactly and <!-- count: lemmas-variant:heshanggong -->80 differ, across <!-- count: comment-blocks:heshanggong -->1052 commentary blocks.
 
 **A bonus the edition carries: Heshang Gong titles every chapter himself** — 體道第一 (*"Embodying the Tao"*), 養身第二 (*"Nourishing the self"*), 安民第三 (*"Settling the people"*). These are preserved in each file's `chapter_title:` frontmatter. They are the oldest chapter names the text has, and they are interpretations in miniature.
 
@@ -119,7 +115,7 @@ A lemma that matches is direct evidence the transcription was carried across int
 
 **A different shape, and so a different importer.** Han Feizi does not gloss the text lemma by lemma; he **argues, and quotes**. The quotations sit in 「」, usually introduced by 故曰 (*"therefore it is said"*). So the chapter a passage belongs to is discovered by **matching each quotation against our own base text** — the same fidelity check the other two importers use, doing double duty here as the only way to index the essays at all.
 
-**Coverage: the 17 chapters he discusses** — 1, 14, 26, 27, 36, 38, 41, 46, 47, 50, 54, 58, 59, 60, 63, 64, 67 — with 53 quotations, **all 53 matching our base text exactly.** "Missing chapters" is the wrong frame for this source: he never set out to cover the book. The coverage is found by quotation, so a passage he paraphrases without quoting will not appear.
+**Coverage: the 17 chapters he discusses** — 1, 14, 26, 27, 36, 38, 41, 46, 47, 50, 54, 58, 59, 60, 63, 64, 67 — with <!-- count: lemmas:hanfeizi -->53 quotations. **<!-- count: lemmas-exact:hanfeizi -->18 match our base text exactly and <!-- count: lemmas-variant:hanfeizi -->35 do not** — each of those is marked `*`, and since he is the oldest witness there is, each is evidence about the text he read rather than noise. *(This said "all 53 matching" until 2026-10-15: the importer once wrote every quotation as an exact lemma without testing it, which `check_locks.py`'s `unmarked-lemma` rule now prevents.)* "Missing chapters" is the wrong frame for this source: he never set out to cover the book. The coverage is found by quotation, so a passage he paraphrases without quoting will not appear.
 
 **Punctuation: present, and retained.** This is the one vendored source that carries modern editorial punctuation, and the admission rules permit *marked* as well as absent or excluded. These are prose essays rather than lemma lists and are close to unreadable without it, so the punctuation stays and the frontmatter says so.
 

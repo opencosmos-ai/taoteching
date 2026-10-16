@@ -27,11 +27,21 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 **Entries are milestones, not commits.** `git log` holds every change; this holds the ones that changed the shape of the work. One heading per date that mattered, a sentence of context, then bullets that link out.
 
-**Counts are a snapshot on the entry's date, not a table anyone maintains.** `chapter-tally` and the generated indexes hold the live numbers — a hand-kept copy of a derivable list is what `edited-or-generated` forbids, and what the old locks table did before it was deleted.
+**Counts are a snapshot on the entry's date, not a table anyone maintains.** `chapter-tally`, the generated indexes and `check_counts.py` hold the live numbers — a hand-kept copy of a derivable list is what `edited-or-generated` forbids, and what the old locks table did before it was deleted.
 
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-15 — The counts in the docs are trimmed, and the ones kept are checked
+
+An audit of the documentation found a dozen present-tense counts wrong, each true once and copied by hand: the glossary at 35 entries when it had 55, 32 chapters with dashes in the verse when 8 had them, 87 characters outside 說文 (*Shuōwén* — the Han dictionary) when 35 were, `check_locks.py` at twelve, thirteen and twelve rules in three places. Shalom's call: **trim, then gate.**
+
+- **Incidental counts are gone**, replaced by a link to what prints them — `glossary/INDEX.md` for entries, `process/principles/INDEX.md` for principles, `check_locks.py --rule em-dash` for the dashes. Test counts and rule counts went this way, and so did every count inside a code block.
+- **The counts worth keeping are marked** — `<!-- count: shuowen -->763`, which renders as nothing — and **[`tools/check_counts.py`](tools/check_counts.py)** recomputes each from its source (the database built in memory, the vendored commentaries, `check_locks.py`'s own rule) and fails CI with the true value. 21 marks in `README.md`, `CONTRIBUTING.md`, `ARCHITECTURE.md`, `CLAUDE.md` and `sources/PROVENANCE.md`. [`ARCHITECTURE.md` → *The gates*](ARCHITECTURE.md#the-gates) has the design.
+- **Generated files count for themselves.** `data/README.md`'s alignment figures (30 of 81 chapters exact when 32 were) are now computed by `export.py`; `data/witnesses.csv`'s coverage notes by `build_db.py`, which had published Wang Bi's commentary as covering 71 of 81 chapters three weeks after all 81 were vendored; and `data/atlas-export.json`'s Guodian (*Guōdiàn*) `carries` by `export_atlas.py`, byte-identical.
+- **Two figures were wrong in substance, not just stale.** `sources/PROVENANCE.md` said all 53 of Han Fei's quotations match our base text; 18 do, and the 35 that differ have carried their `*` since the importer learned to check. And `data/taoteching.sqlite` was described as committed in `ARCHITECTURE.md` and a principle; it is gitignored.
+- **The routes a contributor follows were corrected:** `glossary-entry` now takes a newly entered character off the hand gloss lists (a test fails otherwise) and says `retrofit:` is set by hand; `suggest-edit` makes the 說文 route an issue except for a verified older graph, which needs `import_shuowen.py --fetch`; the PR template, the pre-commit hook and `CONTRIBUTING.md` include the `data/` rebuild, and say a `lock-ok` waiver needs one; `AGENTS.md` sends outside readers to the export instead of the chapter files, and its status table, twenty chapters behind, became a pointer to `WORKLIST.md`.
 
 ## 2026-10-15 — The export carries what a reader needs, and opencosmos.ai is told when it changes
 

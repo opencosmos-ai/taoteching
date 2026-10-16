@@ -24,9 +24,9 @@ The work rests on three commitments:
 
 **This is a translation that behaves like a codebase.** Every settled decision about a Chinese word is written once, as an essay, with its evidence, and then enforced mechanically across all 81 chapters, so it cannot quietly come undone.
 
-- **The glossary is both the ruling and the rule.** Each of the 35 entries argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
+- **The glossary is both the ruling and the rule.** Each entry ([`glossary/INDEX.md`](glossary/INDEX.md) lists them all) argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
-- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of 763 of the book's 798 characters, and an apparatus of 45 places where the excavated manuscripts disagree with the received text.
+- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of <!-- count: shuowen -->763 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->92 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
@@ -111,7 +111,7 @@ python3 tools/concordance.py --witnesses 21    # where the older manuscripts dis
 
 Every file names the printing it was transcribed from. Everything is public domain by age; the reasoning, and the rules for what may be added, are in [`sources/PROVENANCE.md`](sources/PROVENANCE.md). **The excavated manuscripts are deliberately *not* reproduced** — reconstructing the damaged graphs of the Mawangdui silks (1973) and Guodian slips (1993) is living scholarship, so the repository records the *fact* of each variant in [`sources/variants.yaml`](sources/variants.yaml) instead, which can be cited and checked.
 
-The imports are reproducible (`tools/import_commentary.py`) and **they verify themselves**: each source interleaves or quotes the Laozi, so every quotation is matched against this edition's own base text. Wang Bi matches at 93%, Heshang Gong at 90%, Han Feizi at 100%. Lines that differ are reported as candidate variants, never quietly normalized.
+The imports are reproducible (`tools/import_commentary.py`) and **they verify themselves**: each source interleaves or quotes the Laozi, so every quotation is matched against this edition's own base text, and how many match for each source is in [`sources/PROVENANCE.md`](sources/PROVENANCE.md). Lines that differ are reported as candidate variants and marked, never quietly normalized.
 
 **This is not decoration.** Having the sources to hand has already changed the translation. Wang Bi's own gloss settled what "this" refers to at the end of Chapter 21; the Siku compilers' collation note on the same line, 〔案狀各本俱作然〕, reopened a decision that had just been made; Heshang Gong's reading of Chapter 21 turned out to be a fourth witness against it; and Han Feizi supplied a reading of Chapter 63's hardest line that no modern discussion of it had suggested.
 
@@ -122,9 +122,9 @@ Terms are **locked**: once a rendering is settled it applies everywhere, and dep
 **The first draft is complete — all 81 chapters, as of 2026-08-26.**
 
 The editing pass is now the work. Early chapters predate several later decisions,
-a number of renderings are still open, and the glossary covers 35 of the terms
-that want entries. See [`WORKLIST.md`](WORKLIST.md) for what the manuscript still
-owes.
+a number of renderings are still open, and not every term that wants a glossary
+entry has one yet — [`glossary/INDEX.md`](glossary/INDEX.md) lists those that do.
+See [`WORKLIST.md`](WORKLIST.md) for what the manuscript still owes.
 
 A translation of this book is never finished. This one is readable now and will
 keep moving.
@@ -141,11 +141,12 @@ a complete contribution, and it is the one I cannot make myself.
 
 If you want something more concrete:
 
-- **462 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
+- **<!-- count: gloss:word -->462 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
-- **32 chapters still carry em-dashes in the verse**, which the style forbids
-  because a dash can hide a missing subject.
+- **<!-- count: dash-chapters -->8 chapters still carry dashes in the verse**, which the style
+  forbids because a dash can hide a missing subject
+  (`python3 tools/check_locks.py --rule em-dash` lists them).
 - **Two decisions are deferred across the whole book** — 正 / 奇 (*zhèng / qí* —
   straight / crooked), and the em-dashes in the verse. A third, 民 / 人 (*mín /
   rén* — the people / a person), was settled in October 2026.

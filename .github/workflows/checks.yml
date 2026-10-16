@@ -78,6 +78,20 @@ jobs:
       - name: the worklist against itself
         run: python3 tools/check_worklist.py
 
+      # A count in prose is a hand-kept copy of a fact a tool knows. An audit on
+      # 2026-10-15 found a dozen wrong — the glossary at 35 entries when it had
+      # 55, 32 chapters with dashes when 8 had them. Incidental counts were
+      # trimmed to links; the ones worth keeping carry <!-- count: name --> and
+      # are recomputed here from their sources.
+      - name: the counts the docs claim
+        run: |
+          python3 tools/check_counts.py || {
+            echo "::error::a count in the docs disagrees with its source — the true value is printed above."
+            echo "::error::write that value, or delete the count and link to the index that prints it."
+            echo "::error::every name and its current value: python3 tools/check_counts.py --list"
+            exit 1
+          }
+
       # Errors only, so a failure shows just what has to change. Warnings and
       # info get their own step below, where they cannot be mistaken for it.
       - name: the locks

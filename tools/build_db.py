@@ -507,6 +507,16 @@ def _load_gloss_list(path):
     return out
 
 
+def _vendored(source):
+    """(chapter files, lemma lines) vendored for one commentary, counted from
+    sources/commentaries/<source>/ the way check_locks.py reads its lemmas."""
+    files = sorted((ROOT / "sources" / "commentaries" / source).glob("[0-9]*.md"))
+    lemma = re.compile(r"^\*\*(.+?)\*\*(\s*`\*`)?\s*$")
+    return len(files), sum(1 for p in files
+                           for ln in p.read_text(encoding="utf-8").split("\n")
+                           if lemma.match(ln))
+
+
 def load_tiers():
     """{char: 'Tier N'} from glossary/TRIAGE.md.
 
@@ -918,22 +928,31 @@ def build(conn, report=False):
                 )
 
     # ---- witnesses ---------------------------------------------------------
+    # The coverage figures are counted, not typed: Wang Bi's read "71 of 81"
+    # for three weeks after the ten missing chapters were recovered, and
+    # data/witnesses.csv published it.
+    wb, _ = _vendored("wangbi")
+    hsg, _ = _vendored("heshanggong")
+    hf, hf_quotes = _vendored("hanfeizi")
+    gd = cur.execute("SELECT count(*) FROM chapter WHERE guodian_attested").fetchone()[0]
     for w in [
         ("wangbi", "王弼", "Wáng Bì", "Wang Bi received recension", "received",
          226, 249, "欽定四庫全書, 1782", "public domain by age", 0,
-         "base text of this edition; commentary covers 71 of 81 chapters"),
+         f"base text of this edition; commentary covers {wb} of 81 chapters"),
         ("heshanggong", "河上公", "Héshàng Gōng", "Heshang Gong", "received",
          -206, 220, "四部叢刊 0532, Song woodblock", "public domain by age", 0,
-         "commentary complete at 81 of 81, with his own chapter titles"),
+         f"commentary {'complete at' if hsg == 81 else 'covers'} {hsg} of 81, "
+         "with his own chapter titles"),
         ("hanfeizi", "韓非", "Hán Fēi", "Han Feizi, 解老 / 喻老", "quotation",
          -280, -233, "韓非子, ch. 20–21", "public domain by age", 0,
-         "the oldest commentary; 53 quotations across the 17 chapters he discusses"),
+         f"the oldest commentary; {hf_quotes} quotations across the {hf} chapters "
+         "he discusses"),
         ("fuyi", "傅奕", "Fù Yì", "Fu Yi ancient text", "received",
          555, 639, "not yet vendored", "public domain by age; edition unverified", 0,
          "PROVENANCE names it admissible and owed; Phase 4"),
         ("guodian", "郭店", "Guōdiàn", "Guodian bamboo slips", "excavated",
          -320, -300, "excavated 1993", "FACTS ONLY — no transcription admissible", 0,
-         "31 of 81 chapters attested; recorded as variant facts, never as text"),
+         f"{gd} of 81 chapters attested; recorded as variant facts, never as text"),
         ("mawangdui-a", "馬王堆甲", "Mǎwángduī jiǎ", "Mawangdui silk A", "excavated",
          -206, -195, "excavated 1973", "FACTS ONLY — no transcription admissible", 0,
          "德 before 道; recorded as variant facts, never as text"),

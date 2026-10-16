@@ -65,8 +65,10 @@ TEXT = {
     "units": 81,
     "cols": 9,
     # The oldest witness, for the map's second view. chapters[n][3] says
-    # whether it carries chapter n.
-    "witness": {"name": "Guodian", "date": "c. 300 BCE", "carries": 31},
+    # whether it carries chapter n, and main() counts `carries` from those same
+    # rows — it was a typed 31 once, true but kept by hand beside the data
+    # that says so.
+    "witness": {"name": "Guodian", "date": "c. 300 BCE"},
 }
 
 
@@ -171,6 +173,7 @@ def main():
             member.setdefault(c, []).append(e["slug"])
     for c in data["chars"]:
         c["entries"] = sorted(member.get(c["c"], []))
+    TEXT["witness"]["carries"] = sum(1 for ch in data["chapters"].values() if ch[3])
 
     out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents}
     # Indented, so a glossary edit shows up as a readable diff here too.

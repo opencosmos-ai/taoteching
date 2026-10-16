@@ -171,8 +171,9 @@ python3 tools/check_locks.py --severity info
 2. **Do not copy the lock anywhere.** `glossary/INDEX.md` and `terms.yaml` are generated from the frontmatter you just wrote, and they are the only lists. *(A hand-kept table in `CLAUDE.md` was deleted on 2026-08-28 after going stale twice in a week; see `CLAUDE.md` → The locks.)*
 3. **Log the reasoning** in `notes/translation.md` if the choice departs from convention.
 4. **Update `glossary/TRIAGE.md`** — strike the term through, record what was found.
-5. **Regenerate chapter frontmatter** so `retrofit:` reflects reality.
-6. **Report**: the finding, the evidence, the choice, and what was left open.
+5. **Take a newly entered character off the hand lists.** If this entry is new, every character it governs — its term, and each one in `covers:` — must leave `sources/word-glosses.yaml` or `sources/grammar-glosses.yaml` if it is listed there: an entry outranks the list, so a listed gloss would be dead, kept by hand and published nowhere. `tools/tests/test_hand_glosses.py` (`test_no_gloss_shadows_an_entry`, which reads the `terms.yaml` you just regenerated) fails until it is gone. Then rebuild `data/` again: the character's English now comes from the entry.
+6. **Update chapter frontmatter by hand** so `retrofit:` reflects reality. No tool writes it — `build_index.py` recomputes the entry's `chapters:`, never a chapter's `retrofit:` — so add the term to each chapter that does not yet carry the new rendering, and take it off each one you swept.
+7. **Report**: the finding, the evidence, the choice, and what was left open.
 
 ---
 
