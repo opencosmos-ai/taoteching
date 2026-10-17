@@ -131,8 +131,8 @@ corpus:
     Opens bundle A, and the best-known meaning-bearing divergence in the whole
     Guodian Laozi sits in this chapter — the received text's attack on 聖 (shèng
     — sagehood) and 仁義 (humaneness and duty) is not what the slips carry. The
-    fork is not recorded here; it belongs in variants.yaml, as a fact, when the
-    chapter is reviewed. FLAGGED: ch 19 is drafted and this has not been done.
+    fork is not recorded here; it is in variants.yaml, as a fact (recorded
+    2026-08-28), with the reasoning in notes/manuscript.md · Ch 19.
 
 - chapter: 20
   bundles: [B]

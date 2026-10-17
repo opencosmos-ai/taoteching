@@ -119,7 +119,7 @@
 | 4 | **名** (míng) — name | Open (row 10 above) | Ch 1 and 32 argue with it; *label* (25), *be called* (34), *reputation* (44) | Entry; pair with 無名/有名 |
 | 5 | **氣** (qì) — breath | Owed (row 15b above) | 精's entry argues by contrast with it; *breath / vital breath / vital energy* in three lines | Entry; overlay risk *energy* |
 | 6 | **神 / 靈** (shén / líng) — spirit / numinous | Owed (`WORKLIST.md` T2-37) | Both on the overlay watchlist; ch 29's *sacred vessel* waits on it; *numinous* fails the pointing test | One entry for the pair |
-| 7 | **聖** (shèng) — the sage | No entry | The watchlist's first overlay (*holy*); 31 lines; the house rendering has no entry behind it | Entry; 說文 has the ear in it |
+| ~~7~~ | ~~**聖** (shèng) — the sage~~ | ✅ **DONE & LOCKED** → `sheng-聖.md`, 2026-10-17 | 聖人 → *the sage*, 聖 alone (ch 19) → *sagehood*. The oracle-bone graph is a person with an ear beside a mouth, and 說文's 呈 for sound is a later reanalysis. Guodian's 五行 (same tomb as the oldest Laozi) defines 聖 as knowing by hearing against 智 knowing by seeing, which is the pair ch 19 cuts. Mawangdui A writes the sage 聲人. *Master* and *wise* are ruled out but cannot be forbidden (善, 師, 智 share chapters). Left open: the ear in a book that distrusts the senses, and whether the sage is a rank (T4-7). | — |
 | 8 | **靜** (jìng) — still | No entry | Against 躁 (agitation), toward 動; overlay *meditation* | Entry |
 | 9 | **欲** (yù) — desire | No entry | Eight Englishes; the 將欲 grammar use must stay apart | Entry |
 | 10 | **智** (zhì) — cleverness | 🔶 (`WORKLIST.md` T2-2) | Praised at 33, condemned at 19 and 65: one word or two? | Entry, with 知 |
