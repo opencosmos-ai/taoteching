@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**55 entries.** Sorted by how much of the book each term touches.
+**56 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -15,6 +15,7 @@ python3 tools/build_index.py
 | **天** | *tiān* | sky (as a tier) · nature / the natural (as an agent) | "Heaven", "Providence", "the Almighty", "the Cosmos" | 46 | **locked** | [`tian-天.md`](tian-天.md) |
 | **無 & 有** | *wú / yǒu* | absence / presence | "Being", "Non-Being", "existence", "the Void", "nothingness" | 40 | **locked** | [`wu-you-無有.md`](wu-you-無有.md) |
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
+| **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |

@@ -401,11 +401,13 @@
 - chapter: 26
   line: "君子終日行不離輜重"
   base: "君子"
-  witnesses: { siku-wangbi: "聖人", heshanggong: "聖人" }
+  witnesses: { siku-wangbi: "聖人", heshanggong: "聖人", mawangdui-a: "君子", mawangdui-b: "君子" }
   meaning_bearing: true
   our_call: base
   note: >
-    Our base reads 君子 (the gentleman — a Confucian term); BOTH the Siku Wang Bi
+    Both Mawangdui silks agree with our base and read 君子 (added 2026-10-17,
+    with glossary/sheng-聖.md), so the 聖人 reading is the transmitted
+    editions' and not the oldest text's. Our base reads 君子 (the gentleman — a Confucian term); BOTH the Siku Wang Bi
     and the Song Heshang Gong read 聖人 (the sage), and the Siku reads 王 where we
     read 主 later in the chapter (萬乘之主). Two independent editions against our
     reading. Directly relevant to the thread on reading past the throne, since it
@@ -757,7 +759,7 @@
 - chapter: 73
   line: "天之所惡，孰知其故？"
   base: "line absent"
-  witnesses: { wangbi: "是以聖人猶難之", heshanggong: "是以聖人猶難之" }
+  witnesses: { wangbi: "是以聖人猶難之", heshanggong: "是以聖人猶難之", mawangdui-b: "line absent" }
   meaning_bearing: true
   our_call: wangbi
   note: >
@@ -774,6 +776,9 @@
     recension both had the line in front of them. UNDECIDED: restoring it means
     adding a row to the Source table, which is a base-text change and Shalom's
     call. The verse is currently drafted without it.
+    Mawangdui silk B (added 2026-10-17) does not carry the line either, and
+    silk A is damaged here — the oldest legible witness sides with the modern
+    editors, and with our base as it stood before the restoration.
   logged: notes/manuscript.md
 
 - chapter: 68
@@ -1450,11 +1455,12 @@
 - chapter: 49
   line: "聖人無常心，以百姓心為心"
   base: "無常心"
-  witnesses: { mawangdui-a: "恒無心" }
+  witnesses: { mawangdui-b: "恒無心" }
   meaning_bearing: true
   our_call: base
   note: >
-    The silk has no shallow 常 here. Its sage "is ever without a heart [of
+    Silk B; silk A is damaged at this point. (Corrected 2026-10-17: this
+    record had the reading under silk A.) The silk has no shallow 常 here. Its sage "is ever without a heart [of
     their own]"; ours "has no fixed heart." The base keeps the 心 entry's
     reading, and the silk's version is the stronger claim.
   logged: notes/manuscript.md

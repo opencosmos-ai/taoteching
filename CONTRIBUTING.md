@@ -54,9 +54,9 @@ a line would sit comfortably in a hymn, I want to know.
 
 ### 2. Fill a gloss gap — a little Chinese, or a good dictionary
 
-**<!-- count: gloss:apparatus -->216 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
+**<!-- count: gloss:apparatus -->215 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
 `gloss_source: apparatus`, harvested from the source tables, not decided.
-<!-- count: gloss-3plus:apparatus -->88 of them appear three or more times. Every one is a small, self-contained, genuinely
+<!-- count: gloss-3plus:apparatus -->87 of them appear three or more times. Every one is a small, self-contained, genuinely
 useful contribution.
 
 See [`data/characters.csv`](data/characters.csv) — sort by `occurrences`, filter

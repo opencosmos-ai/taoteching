@@ -34,6 +34,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,6,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.3,proportional,Front and back follow each other.
 2,6,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Front and back follow each other.
 2,6,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Front and back follow each other.
+2,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,Front and back follow each other.
 2,8,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,and carries out the teaching without words.
 2,8,萬,Wàn,萬物,countless,NOT FOUND,0.3,proportional,and carries out the teaching without words.
 2,9,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"The countless things arise, and the sage does not begin them. They are born, and the sage does not possess them."
@@ -50,6 +51,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
 3,3,民,mín,民,the people,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
 3,4,治,zhì,治,govern,yes,1.0,exact-count,This is how the sage governs:
+3,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,This is how the sage governs:
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
@@ -79,6 +81,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,1,萬,wàn,萬物,countless,yes,0.3,proportional,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.
 5,2,仁,rén,仁,humaneness,NOT FOUND,0.3,proportional,Isn't the space between sky and earth like a bellows?
 5,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Isn't the space between sky and earth like a bellows?
+5,2,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,Isn't the space between sky and earth like a bellows?
 5,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Empty but never depleted, the more it moves, the more it yields."
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,0.3,proportional,Speaking of this is a dead end.
 5,5,守,shǒu,守,hold to,yes,0.3,proportional,"Instead, hold to the center."
@@ -92,6 +95,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 7,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"because they do not live for themselves,"
 7,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,and so they live long.
 7,4,能,néng,可,be able,NOT FOUND,1.0,exact-count,and so they live long.
+7,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"So the sage puts their body last, and their body comes first;"
 7,5,身,shēn,身,body,yes,1.0,exact-count,"So the sage puts their body last, and their body comes first;"
 7,5,身,shēn,身,body,yes,1.0,exact-count,"So the sage puts their body last, and their body comes first;"
 7,6,身,shēn,身,body,yes,1.0,exact-count,"puts their body outside, and their body survives."
@@ -183,6 +187,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 12,6,貨,huò,貨,goods,yes,0.3,proportional,Rare goods make actions corrupt.
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
+12,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 12,8,腹,fù,心,belly,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 13,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,Prize great trouble as your own body.
 13,2,身,shēn,身,body,yes,0.3,proportional,Prize great trouble as your own body.
@@ -284,6 +289,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,民,mín,民,the people,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
+19,1,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,孝,xiào,慈,devotion,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,慈,cí,慈,tenderness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
@@ -333,6 +339,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 22,1,全,quán,全,whole · stay whole · keep whole (transitive),yes,0.3,proportional,"Bend, and stay whole. Be wronged, and be made straight."
 22,1,曲,Qū,全,bend / bent,yes,0.3,proportional,"Bend, and stay whole. Be wronged, and be made straight."
 22,7,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,"They do not show themselves off, and so they see clearly."
+22,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"They do not show themselves off, and so they see clearly."
 22,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"They do not insist they are right, and so their rightness shows."
 22,8,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"They do not insist they are right, and so their rightness shows."
 22,9,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.2,proportional-fill,"They do not insist they are right, and so their rightness shows."
@@ -417,6 +424,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,5,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Masterful security uses no locks, yet cannot be breached."
 27,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.2,proportional-fill,"Masterful security uses no locks, yet cannot be breached."
 27,6,常,cháng,常,the ever-present / ever / always,NOT FOUND,0.2,proportional-fill,"Masterful security uses no locks, yet cannot be breached."
+27,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.2,proportional-fill,"Masterful security uses no locks, yet cannot be breached."
 27,7,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Masterful tying uses no ropes, yet cannot be untied."
 27,8,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
 27,8,常,Cháng,常,the ever-present / ever / always,yes,0.3,proportional,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
@@ -459,6 +467,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,14,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,The sage puts them to use and becomes chief of the officers.
 28,14,用,yòng,無 & 有,use,yes,1.0,exact-count,The sage puts them to use and becomes chief of the officers.
+28,14,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,The sage puts them to use and becomes chief of the officers.
 28,15,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,So the great carving severs nothing.
 29,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Those who would take the world and handle it,"
 29,1,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"Those who would take the world and handle it,"
@@ -473,6 +482,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 29,5,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"So among things, some go ahead, some follow;"
 29,6,物,wù,萬物,things / something,yes,0.2,proportional-fill,"So among things, some go ahead, some follow;"
 29,8,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"some are strong, some are frail;"
+29,10,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur."
 30,1,道,dào,道,the Tao / way,yes,0.3,proportional,One who supports a ruler with the Tao does not use military force to dominate the world.
 30,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Such undertakings tend to come back on you.
 30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,Such undertakings tend to come back on you.
@@ -759,6 +769,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.3,proportional,"Without leaving home, you know the whole world. Without looking out the window, you see the way of nature."
 47,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
 47,2,道,dào,道,the Tao / way,NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
+47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"names without seeing,"
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,and accomplishes without acting.
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
@@ -782,6 +793,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,1,心,xīn,心,heart,yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
 49,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
 49,1,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
+49,1,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,The sage has no fixed heart; they take everyone's heart as their own.
 49,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,"The masterful, I count as masterful;"
 49,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"The masterful, I count as masterful;"
 49,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"The masterful, I count as masterful;"
@@ -802,6 +814,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
 49,8,心,xīn,心,heart,NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
 49,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
+49,8,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"Everyone pours out their attention, all eyes and ears;"
+49,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,the sage sees them pure as infants.
 50,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,2,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
@@ -921,6 +935,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,6,器,qì,器,vessel / tool / implement,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the more clouded the state becomes."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more cunning people become, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
+57,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,Therefore the sage says:
 57,10,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"I do not do, and the people transform themselves."
 57,10,民,mín,民,the people,yes,1.0,exact-count,"I do not do, and the people transform themselves."
 57,10,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"I do not do, and the people transform themselves."
@@ -942,6 +957,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 58,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 58,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 58,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
+58,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"Therefore the sage is square but does not cut,"
 59,1,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,1,治,Zhì,治,govern,yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
@@ -963,6 +979,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 60,1,治,Zhì,治,govern,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
 60,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
+60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"not only does their potency do no harm, the sage, too, does no harm to people."
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"The large state is the downstream flow, the confluence of the world, the female of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,The female always overcomes the male by stillness.
@@ -1018,9 +1035,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,and so completes their greatness. Promise lightly and you will be little trusted.
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,and so completes their greatness. Promise lightly and you will be little trusted.
 63,6,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,and so completes their greatness. Promise lightly and you will be little trusted.
+63,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,and so completes their greatness. Promise lightly and you will be little trusted.
 63,6,能,néng,可,be able,NOT FOUND,0.3,proportional,and so completes their greatness. Promise lightly and you will be little trusted.
 63,7,信,xìn,信,trust / trustworthy,NOT FOUND,0.3,proportional,"Take much to be easy and much will be difficult. So the sage still finds it difficult,"
 63,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,and in the end has no difficulty.
+63,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,and in the end has no difficulty.
 64,1,持,chí,持,hold,yes,0.3,proportional,What is at rest is easy to hold. What shows no sign is easy to plan for.
 64,3,亂,luàn,亂,disorder,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
@@ -1035,11 +1054,13 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"does not grasp, and so loses nothing. People always ruin their affairs just short of completing them."
 64,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"does not grasp, and so loses nothing. People always ruin their affairs just short of completing them."
 64,8,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"does not grasp, and so loses nothing. People always ruin their affairs just short of completing them."
+64,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"does not grasp, and so loses nothing. People always ruin their affairs just short of completing them."
 64,9,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.3,proportional,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,9,常,cháng,常,the ever-present / ever / always,NOT FOUND,0.3,proportional,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,9,民,Mín,民,the people,NOT FOUND,0.3,proportional,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,10,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,0.3,proportional,"Therefore, the sage wants the not-wanting"
 64,10,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Therefore, the sage wants the not-wanting"
+64,11,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"and does not prize rare goods, learns to unlearn,"
 64,11,貨,huò,貨,goods,yes,0.3,proportional,"and does not prize rare goods, learns to unlearn,"
 64,12,眾,zhòng,眾,the crowd / the many,yes,0.3,proportional,"brings the crowd back from where they have gone too far, and supports the countless things in being so of themselves,"
 64,13,敢,gǎn,敢,push / venture — the forward press to take,yes,0.3,proportional,and never pushes them.
@@ -1073,6 +1094,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,4,民,mín,民,the people,yes,0.3,proportional,"To walk ahead of the people, you must put your body behind them."
 66,4,身,shēn,身,body,yes,0.3,proportional,"To walk ahead of the people, you must put your body behind them."
 66,5,民,mín,民,the people,yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not hindered."
+66,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not hindered."
 66,6,民,mín,民,the people,NOT FOUND,0.3,proportional,So the world gladly pushes them forward and never tires of them.
 66,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Because they do not contend,"
 66,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,no one in the world can contend with them.
@@ -1145,15 +1167,19 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 70,4,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"Only because there is no knowing it, they do not know me."
 70,5,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,Those who know me are few. Those who pattern themselves on me are precious.
 70,5,我,wǒ,我 & 吾,the self seen,NOT FOUND,0.3,proportional,Those who know me are few. Those who pattern themselves on me are precious.
+70,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"Therefore, the sage wears coarse cloth, but carries jade against their chest."
+71,4,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,The sage is not sick because they are sick of the sickness.
 72,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"When the people no longer fear authority, the great collapse comes."
 72,1,民,Mín,民,the people,yes,0.3,proportional,"When the people no longer fear authority, the great collapse comes."
 72,2,無,Wú,無 & 有,absence,NOT FOUND,0.3,proportional,Do not crowd people in their homes.
 72,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Do not crowd people in their homes.
 72,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Do not crowd people in their homes.
+72,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"Only when you do not oppress them will they not tire of you. And so the sage knows themselves and does not display themselves,"
 73,1,敢,gǎn,敢,push / venture — the forward press to take,yes,0.3,proportional,Bravery in pushing gets you killed. Bravery in not pushing keeps you alive.
 73,2,敢,gǎn,敢,push / venture — the forward press to take,NOT FOUND,0.3,proportional,"Of these two, one benefits and one harms."
 73,3,利,lì,無 & 有,advantage,NOT FOUND,0.3,proportional,"What nature turns against, who knows why?"
 73,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,So the sage still finds it difficult.
+73,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,The way of nature:
 73,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"it does not contend, yet is masterful at overcoming. It does not speak, yet is masterful at answering."
 73,6,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"it does not contend, yet is masterful at overcoming. It does not speak, yet is masterful at answering."
 73,6,爭,zhēng,爭,contend / contention,yes,0.3,proportional,"it does not contend, yet is masterful at overcoming. It does not speak, yet is masterful at answering."
@@ -1218,6 +1244,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,6,道,dào,道,the Tao / way,yes,0.3,proportional,Only those who are with the Tao. Therefore the sage acts yet relies on nothing.
 77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,0.3,proportional,"The work is done, and they do not stay in it. They have no wish to appear exceptional."
 77,7,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"The work is done, and they do not stay in it. They have no wish to appear exceptional."
+77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"The work is done, and they do not stay in it. They have no wish to appear exceptional."
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,1,柔,róu,柔,soft,yes,0.3,proportional,"In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
@@ -1232,12 +1259,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,3,能,néng,可,be able,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
+78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
 79,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,2,執,zhí,執,grasp,yes,0.3,proportional,So the sage grasps the left half of the tally and never asks for the other.
+79,2,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,So the sage grasps the left half of the tally and never asks for the other.
 79,3,德,dé,德,integrity,yes,0.3,proportional,Those with integrity keep the tally. Those without integrity keep score.
 79,3,德,dé,德,integrity,yes,0.3,proportional,Those with integrity keep the tally. Those without integrity keep score.
 79,3,有,Yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Those with integrity keep the tally. Those without integrity keep score.
@@ -1266,9 +1295,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 81,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Those who argue are not masterful. Those who know have not heard it all.
 81,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Having done for others, they have more. Having given to others, they have more still."
 81,4,為,wéi,為,do / handle / serve as,yes,0.3,proportional,"Having done for others, they have more. Having given to others, they have more still."
+81,4,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"Having done for others, they have more. Having given to others, they have more still."
 81,5,利,lì,無 & 有,advantage,NOT FOUND,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,為,wéi,為,do / handle / serve as,yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,爭,zhēng,爭,contend / contention,yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
+81,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,道,dào,道,the Tao / way,yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,道,dào,道,the Tao / way,yes,0.3,proportional,The way of nature benefits and does not harm. The way of the sage acts and does not contend.

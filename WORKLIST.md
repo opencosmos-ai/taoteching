@@ -21,7 +21,7 @@
 **Next, in order:**
 
 1. ~~**柔 (*róu* — soft)**~~ — ✅ 2026-10-15, its own entry (`glossary/rou-柔.md`), 剛 covered with it. Its one finding, 脆 → *fragile* at 64 and 76 (Shalom's call), is closed.
-2. **Next: 混 (T2-40, quick)**, then down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time: 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 聖 · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
+2. **Next: 混 (T2-40, quick)**, then down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time: 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
 3. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** nothing. Still deferred: 正/奇 (T4-2) and the em-dashes (T4-3).
