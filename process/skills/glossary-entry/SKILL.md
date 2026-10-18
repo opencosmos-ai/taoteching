@@ -121,7 +121,7 @@ covers:
 | `pinyin` | with tone marks; pairings use `"wǒ / wú"` |
 | `render` | the primary locked English. Slashes for senses that vary by grammar |
 | `flexions` | a secondary English **scoped to named chapters** — data, not prose. See below |
-| `forbidden` | rejected renderings — feeds the future lock checker |
+| `forbidden` | rejected renderings — read by `check_locks.py` |
 | `chapters` | recomputed automatically on build; put your best list in |
 | `status` | `locked` or `open` |
 | `pairing` | `true` if the meaning lives between two characters |

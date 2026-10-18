@@ -23,7 +23,7 @@ python3 tools/concordance.py --record 亂                      # what we have al
 
 **`--formulas N` is not optional, and it is the newest of these.** It prints every Chinese segment and frame this chapter repeats — **within itself as well as across the book** — with the chapter's English underneath, so a flattened parallelism is visible in one screen. **Where the Chinese repeats, the English must repeat too.** Chapter 11 says one identical sentence over a cart, a pot and a room, and our English varied all three; the fault is invisible line by line, and was invisible to every tool until 2026-09-05. `DISCOVERIES.md` §6.
 
-**Run `--witnesses` first, before reading the base text closely.** Ch 21 was drafted over a chronology both Mawangdui silks reverse; Ch 25 was drafted with a king the oldest witnesses do not have. Neither was carelessness — nobody had looked. If the command reports nothing, read that as *nobody has checked this chapter yet*, not as *there are no forks*: `sources/variants.yaml` is built by hand, chapter by chapter.
+**Run `--witnesses` first, before reading the base text closely.** Ch 21 was drafted over a chronology both Mawangdui silks reverse. It was not carelessness — nobody had looked. If the command reports nothing, read that as *nobody has checked this chapter yet*, not as *there are no forks*: `sources/variants.yaml` is built by hand, chapter by chapter.
 
 ```bash
 python3 tools/build_principles.py --applies drafting   # the rules this work fires

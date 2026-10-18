@@ -106,7 +106,7 @@ Add `--pairs` to compare two terms across chapters (the 我/吾, 玄/妙, 正/�
 
 ## 4. `tools/build.py` — one command to the book ⏸ **still deferred**
 
-*The one item where the original ordering holds. The text moves in 19 more chapters; every edition built now is built twice. Build it when the text stops moving.*
+*The one item where the original ordering holds. Every edition built while the text is moving is built twice; build it when the editing pass settles. (The draft finished on 2026-08-26; the Library and the Character Atlas are built from the export meanwhile.)*
 
 Assembles `chapters/*.md` into deliverables, ending the Google Drive round-trip:
 
@@ -220,10 +220,10 @@ It also states plainly that **the punctuation is editorial and forms no part of 
 
 ## What is left
 
-1. **Resolve the 8 open findings** in `WORKLIST.md` → *Open*. Each needs a rewrite, so each is Shalom's call. The build stays red until they are resolved or waived — which is the ratchet working, not a problem to route around.
+1. ~~**Resolve the 8 open findings** in `WORKLIST.md` → *Open*.~~ *Done: `check_locks.py --severity error` is green.*
 2. ~~**Re-provenance `source/chinese.md`** off ctext~~ ✅ **done 2026-08-11** (§8).
 3. ~~**Build `sources/`** (§8)~~ ✅ **done 2026-08-11** — all three commentaries in.
-4. **Draft chapters 70–81** with the hook live, through the `chapter-review` skill. This is the active frontier and the reason the harness was built now rather than at 81. *(1–69 are drafted; 69 drafted 2026-08-23.)*
+4. ~~**Draft chapters 70–81**~~ *Done: all 81 were drafted by 2026-08-26, through the `chapter-review` skill.*
 5. **`build.py`**, when the text has stopped moving.
 
 ---
@@ -232,9 +232,9 @@ It also states plainly that **the punctuation is editorial and forms no part of 
 
 *Opened 2026-08-17, from building `sources/guodian-inventory.yaml`. The inventory answered a question nobody had been able to ask before — **does the oldest witness even carry this chapter?** — and asking it across all 81 surfaced work owed on chapters already drafted. Each of these is a fact-recording job, not a transcription: see `PROVENANCE.md` → "The Guodian question, asked properly and answered no."*
 
-- [ ] **G1 · Ch 19 — the largest unrecorded divergence in the book.** The best-known meaning-bearing fork in the entire Guodian Laozi sits in this chapter: the received text's attack on 聖 (*shèng* — sagehood) and 仁義 (*rén yì* — humaneness and duty) is **not** what the slips carry. Ch 19 is drafted, carries `retrofit: []`, and our apparatus is silent. Record the fork in `variants.yaml` as a fact, decide, and log in `notes/manuscript.md`. **Highest value of anything on this list** — it may change a drafted chapter's argument, and it bears directly on the overlay watchlist, since 聖 and 仁義 are two of its flagged characters.
+- [x] **G1 · Ch 19 — the largest unrecorded divergence in the book.** *(Closed 2026-08-28: recorded in `variants.yaml`, logged in `notes/manuscript.md` · Ch 19.)* The best-known meaning-bearing fork in the entire Guodian Laozi sits in this chapter: the received text's attack on 聖 (*shèng* — sagehood) and 仁義 (*rén yì* — humaneness and duty) is **not** what the slips carry. Ch 19 is drafted, carries `retrofit: []`, and our apparatus is silent. Record the fork in `variants.yaml` as a fact, decide, and log in `notes/manuscript.md`. **Highest value of anything on this list** — it may change a drafted chapter's argument, and it bears directly on the overlay watchlist, since 聖 and 仁義 are two of its flagged characters.
 
-- [ ] **G2 · Ch 25 — `DISCOVERIES.md` §1 is missing its oldest witness.** The no-heaven-no-king finding rests on both Mawangdui silks reading 人 (*rén* — human) where our base reads 王 (*wáng* — king). Guodian carries Ch 25 too (bundle A, unit 2) and is roughly a century older than the silks. The finding is possibly a book; it should not rest on the second-oldest witness when the oldest is available. Check, then update `variants.yaml`, `notes/manuscript.md`, and `DISCOVERIES.md` §1.
+- [ ] **G2 · Ch 25 — `DISCOVERIES.md` §1 is missing its oldest witness.** *Checked 2026-08-20, and the premise was backwards:* Guodian, both silks and Beida all read 王 (*wáng* — king); 人 (*rén* — human) is 傅奕's and 范應元's. `variants.yaml` and `notes/manuscript.md` are corrected. **Still owed:** rewriting `DISCOVERIES.md` §1, which carries a *do not write from this* banner until then.
 
 - [ ] **G3 · Ch 17–18 are one passage at Guodian, with no chapter division.** The slips run them continuously. If that holds, the collapse of 大道 (*dà dào* — the great Tao) into 仁義 in Ch 18 reads as the *consequence* of Ch 17's ladder of rulers rather than a fresh assertion — an interpretive shift across two drafted chapters. Belongs in `notes/reading.md` as a Thread, not just an apparatus line.
 
@@ -242,7 +242,7 @@ It also states plainly that **the punctuation is editorial and forms no part of 
 
 - [ ] **G5 · A Guodian sweep of the remaining 26 attested chapters.** The inventory names 31; G1–G4 cover five. The rest have no Guodian line in `variants.yaml` at all. Work chapter by chapter, recording facts only. Low urgency per chapter, high value in aggregate.
 
-- [ ] **G6 · Chapters 67–81 have no Guodian witness — say so once, in the apparatus.** 66 is the highest-numbered chapter attested anywhere at Guodian. Twelve of the chapters still to draft rest on the Mawangdui silks and later witnesses alone. `--witnesses N` now prints this per chapter; the *pattern* deserves a note, because it is a fact about the book's formation and not only about our sources.
+- [ ] **G6 · Chapters 67–81 have no Guodian witness — say so once, in the apparatus.** 66 is the highest-numbered chapter attested anywhere at Guodian. Chapters 67–81 rest on the Mawangdui silks and later witnesses alone. `--witnesses N` now prints this per chapter; the *pattern* deserves a note, because it is a fact about the book's formation and not only about our sources.
 
 **Not on this list, deliberately: vendoring a Guodian text.** Asked and answered 2026-08-17 — there is no public-domain transcription and there cannot be one yet. The 釋文 is 1998 living scholarship. See `PROVENANCE.md`; a `shaloms-call` cannot reach it, because it is someone else's copyright and not our rule.
 

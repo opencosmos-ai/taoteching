@@ -74,7 +74,7 @@ And a fourth blocker that would stand even if all three fell: the page's content
 
 | Path | Contents | Coverage |
 |---|---|---|
-| `variants.yaml` | The variant apparatus, as **facts** | 24 forks across 12 chapters |
+| `variants.yaml` | The variant apparatus, as **facts** | <!-- count: variants -->92 forks |
 | `guodian-inventory.yaml` | What the **oldest witness** contains, as facts — never a text | 31 chapters, 3 bundles |
 | `commentaries/wangbi/` | 王弼 (d. 249 CE) on the Laozi, lemma by lemma | **all 81 chapters** *(71 until 2026-09-24)* |
 | `commentaries/heshanggong/` | 河上公章句 (Han), lemma by lemma, with his own chapter titles | **81 of 81 chapters** |
@@ -127,7 +127,7 @@ All three classical commentaries named in `process/method.md` §3 are now in the
 
 What could still be added, in rough order of value: the **Fu Yi** (傅奕) recension, which is a *received* text and therefore admissible in full where the excavated manuscripts are not; and a **Guodian / Mawangdui variant sweep** for the chapters not yet in `variants.yaml`, recorded as facts.
 
-**The Guodian sweep is now the highest-value item on that list**, and `guodian-inventory.yaml` says where to point it. Two chapters are flagged in the inventory as owing work: **Ch 19**, where the best-known divergence in the entire Guodian Laozi sits and our apparatus is silent, and **Ch 25**, where `DISCOVERIES.md` §1 rests on the Mawangdui silks without consulting the older witness that also carries the chapter.
+**The Guodian sweep is now the highest-value item on that list**, and `guodian-inventory.yaml` says where to point it. Two chapters were flagged as owing work, and both are now recorded: **Ch 19**, the best-known divergence in the entire Guodian Laozi (logged 2026-08-28), and **Ch 25**, where Guodian, consulted on 2026-08-20, reads 王 like every other excavated witness and overturned the claim `DISCOVERIES.md` §1 had rested on the silks.
 
 ---
 

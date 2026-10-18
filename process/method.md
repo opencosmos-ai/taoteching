@@ -110,7 +110,7 @@ The order above is about **deciding**, and putting Shalom's intuition last is ri
 
 But that ordering describes only half of what intuition does here. In practice it is frequently what **starts** the inquiry — and the list above, read carelessly, suggests it arrives at the end.
 
-**The case that earned this note (Ch 25, 2026-08-11).** Shalom rendered 王 (*wáng* — king) as *the aligned human* because a monarch **sat wrong in the line**. No variant had been flagged, no tool had fired, no research was underway. He said the word didn't feel right and asked whether there was any evidence Laozi had absolutely meant a male ruler. There was, and it was decisive: **both Mawangdui silks read 人** (*rén* — human), and the older silk has no king anywhere in the passage. Nobody would have gone looking without the feeling that went first. *(See `DISCOVERIES.md` §1.)*
+**The case that earned this note (Ch 25, 2026-08-11).** Shalom rendered 王 (*wáng* — king) as *the aligned human* because a monarch **sat wrong in the line**. No variant had been flagged, no tool had fired, no research was underway. He said the word didn't feel right and asked whether there was any evidence Laozi had absolutely meant a male ruler. There was, though not where it was first reported. Every excavated witness reads 王, but 傅奕 (*Fù Yì*, Tang) and 范應元 (*Fàn Yìngyuán*, Song) read **人** (*rén* — human), and the very next line, 人法地 (*humans follow earth*), wants a human among the four greats. Nobody would have gone looking without the feeling that went first. *(The first report said both Mawangdui silks read 人. That was wrong, and was corrected on 2026-08-20.)* *(See `DISCOVERIES.md` §1.)*
 
 **So treat the feeling as data.** A word that sits wrong is a signal that something in the line is carrying weight it has not earned — an imported frame, a supplied subject, an overlay, or a transmitted interpolation. The feeling cannot say which. It is very good at saying *there is one*.
 
@@ -156,9 +156,7 @@ The key terms are the load-bearing walls. Get 道, 德, 生, 母, 常 right and 
 
 **Termbase discipline:** once a term is **locked**, render it consistently across all 81 chapters. If a lock is set *after* chapters are drafted, record a **retrofit**.
 
-- *Current inventory:* keystones 道, 德, 生, 母, 常; pairing 我/吾; lock-note 知足.
-- *Still wanted:* 無為, 明, 心, 樸, 自然, 玄, 谷, 柔弱, 器 — and others as they prove load-bearing.
-- *Open retrofits:* 德 → "integrity" in ch 10 (the 玄德 refrain) and ch 38; 知足 → "enough/contentment" in ch 33; the **無為** rendering (lean: "non-action" where the paradox lives, "effortless action" only as a gloss) still to be locked.
+- **What is locked** is listed in [`glossary/INDEX.md`](../glossary/INDEX.md), generated from the entries; **what is still wanted**, in [`glossary/TRIAGE.md`](../glossary/TRIAGE.md) → *The relevance queue*; **open retrofits** live in each chapter's `retrofit:` frontmatter and in [`WORKLIST.md`](../WORKLIST.md). *(This section once kept its own inventory, from mid-August: five keystones, with 無為 "still to be locked" as "non-action". 無為 is locked as **non-doing**, and "non-action" is now forbidden.)*
 
 ---
 
@@ -187,11 +185,11 @@ The handoff is complete *because the notes exist*: Fable can see not only what w
 
 **Why it works:** the free translation drives discovery and builds reputation and audience; the companion — your original research, which no one can copy — is the defensible product. *Honest caveat:* once public-domain, others may also print or sell the bare translation. That's fine, even good; it's the design. The **companion**, not the translation, is the moat.
 
-**Licensing:** **CC0** is the truest "gift to all" (no strings). **CC BY** keeps your name attached (attribution required) — useful for reputation tied to OpenCosmos / CreativePowerup. Both are legitimate; choose by intention. For a spiritual gift, many choose CC0.
+**Licensing: CC0, chosen.** It is the truest "gift to all", with no strings and no exceptions anywhere in the repository. (CC BY, which keeps a name attached, was the alternative weighed here.)
 
 **Formats to consider:**
 
-- *Free:* a beautiful web edition (a dedicated domain, or under OpenCosmos); a free ebook (Gutenberg / Standard Ebooks style); at-cost print-on-demand.
+- *Free:* a beautiful web edition (now built: [the Library on OpenCosmos](https://opencosmos.ai/library/sources/taoism-tao-te-ching), with the [Character Atlas & Glossary](https://chinese-atlas.opencosmos.ai/) beside it); a free ebook (Gutenberg / Standard Ebooks style); at-cost print-on-demand.
 - *Paid companion:* a print book made **to be owned** — character calligraphy, etymologies, notes, essays: an object of beauty; an ebook; and an **audio** edition (the verse read aloud with reflections — a natural CreativePowerup product).
 - *Adjacent:* a **chapter-a-day** contemplative email or app (CreativePowerup); the glossary as a standalone — *"The Living Words: a field guide to the radicals of the Tao Te Ching"*; workshops on *translating as contemplative practice*; and the meta-story — *translating the Tao, with AI, as devotion* — as its own essay, talk, or short book.
 

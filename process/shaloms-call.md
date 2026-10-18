@@ -2,7 +2,7 @@
 
 *Shalom decides. This file is where a decision to **set aside one of this repo's own rules** is written down, so that it survives the session in which it was made.*
 
-**Read this at session start, alongside `CLAUDE.md` → *Current state*.** Every rule in this repository — the standing rules, the locks, the ordering in `PLAN.md`, the checks in `tools/check_locks.py` — is subject to a call recorded here. Where a call is in effect, **the call wins**, and the AI says so once and proceeds. It does not re-argue a decision already made.
+**Read this at session start, alongside `WORKLIST.md` → *Start here*.** Every rule in this repository — the standing rules, the locks, the ordering in `PLAN.md`, the checks in `tools/check_locks.py` — is subject to a call recorded here. Where a call is in effect, **the call wins**, and the AI says so once and proceeds. It does not re-argue a decision already made.
 
 The division of labor is the point:
 

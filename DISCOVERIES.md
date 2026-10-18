@@ -85,7 +85,7 @@ The consequence is worth stating plainly, because it inverts what the tools were
 
 The repair (`tools/concordance.py`, 2026-09-05) counts occurrences rather than chapters, and adds **frames** — same-length segments sharing a fixed skeleton, so 將欲▢之, ▢得一以▢, 有▢之用 and ▢兮其若▢ arrive as findings rather than as four unrelated lines. On its first full run it surfaced two already-open items (ch 36's 將欲X之，必固Y之 and ch 39's 得一 mirror) and about a dozen nobody had logged.
 
-**How much of the book this touches is not yet known**, and that is the honest state: the finder reports 152 within-chapter repeats, and how many of them our English has flattened is a reading job that has not been done. Chapter 11 was one. Chapter 36 is another, visible at a glance: four parallel 將欲X之，必固Y之 clauses rendered as *"Contraction requires firm expansion. / Weakening requires firm strengthening,"* with 將欲 (*jiāng yù* — "if you would") and 之 (*zhī* — it) dropped and 固 (*gù* — first, necessarily) turned into the adjective *"firm."*
+**How much of the book this touches is not yet known**, and that is the honest state: the finder reported 152 within-chapter repeats when this was written (181 by 2026-10-17), and how many of them our English has flattened is a reading job that has not been done. Chapter 11 was one. Chapter 36 is another, visible at a glance: four parallel 將欲X之，必固Y之 clauses rendered as *"Contraction requires firm expansion. / Weakening requires firm strengthening,"* with 將欲 (*jiāng yù* — "if you would") and 之 (*zhī* — it) dropped and 固 (*gù* — first, necessarily) turned into the adjective *"firm."* *(Since rewritten in Pass D, repetition kept: "If you would draw it in, you must first stretch it out. / If you would weaken it, you must first strengthen it.")*
 
 ### The rule this yields
 
@@ -196,7 +196,7 @@ Because the text says the opposite, and says it eight times out of eight. Read e
 - **Ch 39, Ch 42** — the ruler **calls themselves orphaned, meagre, unworthy**.
 - **Ch 32, Ch 37** — 侯王**若能**守之: *if* they can hold to it. Conditional, and the outcome belongs to the countless things, not to them.
 - **Ch 16** — 公乃王，王乃天: a **stage in a sequence**, between impartiality and nature. No person in the sentence.
-- **Ch 25** — in the oldest witnesses, **not there at all**.
+- **Ch 25** — one of four greats, beside the Tao, sky and earth, and the next line puts people under earth (人法地). Great among others, commanding nothing. *(This bullet once said the oldest witnesses lack the king. They all have it; see §1's banner.)*
 
 A word defined seven times over by what it goes *under* does not want an English word meaning the thing on top. The overlay does not merely add a connotation. **It inverts the political claim of the book.**
 
@@ -207,7 +207,7 @@ The mechanisms are different, so no single method catches them. This is the prac
 | Where the throne enters | The check |
 |---|---|
 | the **graph** | read the oldest form, not the received etymology. Dictionaries carry the *Shuowen*, and the *Shuowen* carries the Han. |
-| the **line** | run `concordance.py --witnesses N` before drafting. Ch 25 was drafted over a king the silks do not have. |
+| the **line** | run `concordance.py --witnesses N` before drafting. Ch 21 was drafted over a chronology both silks reverse. |
 | the **English** | ask whether the word adds rank or gender the Chinese does not carry. *King* is male; 王 is not. *Son of Heaven* is a realm; 天子 is a child. |
 | **your own draft** | ask what you added that no character licenses. *Wise*, *great*, *aligned*, *true* — the flattering adjectives are where a translator's politics leak. |
 
@@ -245,7 +245,7 @@ Take the phrase apart and nothing in it survives.
 
 §1 found the Ch 25 throne: our base text reads 王 (*wáng* — king) where **both Mawangdui silks read 人** (*rén* — human). There, the distortion was **Chinese**. Han scribes put a king into a cosmological ladder that had a human in it, and the missionaries then found a throne already waiting for them.
 
-*(⚠ 2026-08-20: the contrast drawn below with §1 is withdrawn — the Ch 25 silks do **not** read 人. The finding itself is unaffected, and arguably strengthened: with the Ch 25 accretion gone, **both** cases turn out to be distortions made in English, which is the pattern worth writing about. See §1's banner.)*
+*(⚠ 2026-08-20: the contrast with §1, drawn just above and in the table below, is withdrawn — the Ch 25 silks do **not** read 人. The finding itself is unaffected, and arguably strengthened: with the Ch 25 accretion gone, **both** cases turn out to be distortions made in English, which is the pattern worth writing about. See §1's banner.)*
 
 **Chapter 62 is the other case, and it had to be checked to be found.** The silks were consulted precisely because 天子 looked like a Ch 25-style accretion — the Zhou minted the title, along with 天命 (*tiān mìng* — the sky's mandate), to explain why the Shang's own high god 帝 had let them be conquered. A legitimation device made by the winners: exactly the profile.
 
@@ -305,7 +305,7 @@ So the question Laozi asks about the world, about the origin of everything, and 
 
 **And it means the epistemology matches the ontology exactly.** Things are so **of themselves** (自然); you know they are so **by this one, here** (以此). No mediation on either side. Nothing stands between a thing and its being so, and nothing stands between you and knowing it. That symmetry is the shape of the whole book, and it is carried by one small grammatical word used twice.
 
-**It also explains what the book refuses to do.** Chapter 1 says the Tao that can be spoken is not the Tao; Chapter 21 says that whatever the Tao is, it is only vague and elusive. A tradition asking *what is it?* would find this frustrating — and centuries of commentary have tried to answer anyway. But Laozi is not asking that question. He is asking **is it so**, and answering **look at this**. The refusal to define is not modesty or mysticism. It is a different question.
+**It also explains what the book refuses to do.** Chapter 1 says the Tao that can be made a way is not the ever-present Tao; Chapter 21 says that whatever the Tao is, it is only vague and elusive. A tradition asking *what is it?* would find this frustrating — and centuries of commentary have tried to answer anyway. But Laozi is not asking that question. He is asking **is it so**, and answering **look at this**. The refusal to define is not modesty or mysticism. It is a different question.
 
 **The near-miss makes the point visible.** Our base text reads **狀** (*zhuàng* — **shape, form**) at Chapter 21 instead of 然, and 狀 was very nearly kept. Hear the difference:
 

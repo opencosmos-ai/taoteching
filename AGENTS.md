@@ -29,7 +29,7 @@ chapters/001–081.md    one file per chapter
 glossary/              radical-level entries on key terms
 notes/                 manuscript forks · rendering decisions · reading notes
 process/               the working method; the overlay audit
-tools/                 scripts (see PLAN.md)
+tools/                 scripts (runbook: ARCHITECTURE.md)
 ```
 
 ### Chapter file format
