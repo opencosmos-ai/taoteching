@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-15
+**Last updated:** 2026-10-17
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -33,6 +33,41 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-17 — The Open Tao Te Ching is announced, and 聖 gets its entry
+
+**Shalom launched the translation publicly in [*Welcome to the Open Tao Te Ching*](https://shalomormsby.substack.com/p/welcome-to-the-open-tao-te-ching)**, subtitled *offered with love to the public domain*, in the [Open Tao Te Ching section](https://shalomormsby.substack.com/s/open-tao-te-ching) of The Daily Mystic on Substack. The post makes chapter 1's opening paradox its case study, invites readers to critique and improve the translation, and points them to [the Library](https://opencosmos.ai/library/sources/taoism-tao-te-ching), the [Character Atlas](https://chinese-atlas.opencosmos.ai/) and its [glossary](https://chinese-atlas.opencosmos.ai/glossary/), and this repository. Chapters are to follow there, each with translator's notes.
+
+- **聖 (*shèng* — the sage) → *the sage*, and *sagehood* where 聖 stands alone (ch 19), locked**: [`glossary/sheng-聖.md`](glossary/sheng-聖.md). It is the first term on the overlay watchlist, it has 31 lines, and it had no entry, so the atlas showed an apparatus gloss and its glossary returned nothing for *sage*.
+  - The oracle-bone graph is a person, an ear and a mouth. 說文's *呈 for sound* is a later misreading of the bronze form.
+  - The Guodian 五行, from the same tomb as the oldest Laozi, defines 聖 as knowing by hearing and 智 (*zhì* — knowing) as knowing by seeing. That is the pair chapter 19 cuts off.
+- **Three witness records corrected while researching it**, in [`sources/variants.yaml`](sources/variants.yaml):
+  - ch 49's 恒無心 is silk B, not silk A, which is damaged there;
+  - both silks read 君子 (*jūn zǐ* — the noble) at ch 26, as our base does;
+  - silk B lacks ch 73's 是以聖人猶難之.
+
+## 2026-10-16 — Chapter 1 settles, 魄 stops being a soul, and contributors get a way in
+
+- **Chapter 1 opens *"The Tao that can be made a way."*** It took two steps.
+  - On 2026-10-14, *made into a way* replaced *spoken*. The second 道 is a verb, since 可 (*kě* — can be) always takes one, and the line now carries the word all three times.
+  - On 2026-10-16, *into* was dropped and the passive kept. Being made a way is something people do to the Tao.
+  - The chapter's notes now show which of three things (the name, the verb, the passive) six other translations give up. [`chapters/001.md`](chapters/001.md).
+- **魄 (*pò*) → *aliveness*, locked**, and chapter 10 reads *"Housing your aliveness"*: [`glossary/po-魄.md`](glossary/po-魄.md). The work began as an atlas gloss to replace *soul*, and the verse's own noun turned out to have the same problem.
+- **Two skills for contributors who arrive with no context.**
+  - [`contribute`](process/skills/contribute/SKILL.md) takes a suggestion from anywhere.
+  - [`suggest-edit`](process/skills/suggest-edit/SKILL.md) takes a character from the atlas.
+  - [`CONTRIBUTING.md`](CONTRIBUTING.md) gains two paste-in prompts. They are the same words the atlas's *Suggest an edit* buttons use.
+
+## 2026-10-15 — The atlas speaks English for every character, and 民 is settled
+
+- **Every character but one now has English on the atlas.** Two hand-kept gloss lists rank below a glossary entry and above the source tables:
+  - [`sources/grammar-glosses.yaml`](sources/grammar-glosses.yaml), 52 grammar words;
+  - [`sources/word-glosses.yaml`](sources/word-glosses.yaml), 462 content words, each read against its lines.
+
+  `tools/tests/test_hand_glosses.py` refuses an overlay word, and a gloss for a character an entry already owns. 朘 (*zuī*) is blank on purpose.
+- **Open entries are no longer published as locked** (`WORKLIST.md` T5-16).
+- **民 (*mín*) → *the people*, 百姓 (*bǎi xìng*) → *everyone***: [`glossary/min-民.md`](glossary/min-民.md). This settles the deferred 民/人 call (T4-1).
+- **柔 (*róu*) → *soft*, its own entry, with 剛 (*gāng*) → *unbending***: [`glossary/rou-柔.md`](glossary/rou-柔.md). Nine verse fixes came from reading each character against its line (T2-61).
+
 ## 2026-10-15 — The counts in the docs are trimmed, and the ones kept are checked
 
 An audit of the documentation found a dozen present-tense counts wrong, each true once and copied by hand: the glossary at 35 entries when it had 55, 32 chapters with dashes in the verse when 8 had them, 87 characters outside 說文 (*Shuōwén* — the Han dictionary) when 35 were, `check_locks.py` at twelve, thirteen and twelve rules in three places. Shalom's call: **trim, then gate.**
@@ -51,6 +86,14 @@ An audit of the documentation found a dozen present-tense counts wrong, each tru
 - **The alignment is now visible to a reader of the export, guess and all.** Only `exact-count` is a pairing. **32 chapters are exact today, not the 61 the ADR was written with**: in 49 chapters the English and Chinese line counts differ, and there `build_db.py` guesses proportionally at 0.3. The Library highlights a line's English only where it is exact.
 - **`tools/tests/test_export_atlas.py`**, the export's first tests: chapter 6's guessed pairing is never exact, and a chapter is exact exactly when its counts agree.
 - **`notify-opencosmos.yml`** redeploys opencosmos.ai (`VERCEL_DEPLOY_HOOK`) and asks knowledge to regenerate Cosmo's copy (`KNOWLEDGE_DISPATCH_TOKEN`) whenever the export changes on `main`. Each half skips with a notice until its secret is set.
+
+## 2026-10-14 — The translation gets a public reader: the Character Atlas & Glossary
+
+- **[The Open Classical Chinese Character Atlas & Glossary](https://chinese-atlas.opencosmos.ai/) went live**, built by [opencosmos-ai/chinese-atlas](https://github.com/opencosmos-ai/chinese-atlas). It replaces the Laozi Character Atlas and serves every OpenCosmos Chinese translation from one site:
+  - **the atlas**: a page per character, with its parts, its 說文 analysis, every line it stands in, and how each translation renders it;
+  - **the glossary**: every entry in [`glossary/`](glossary/INDEX.md), rendered as written. Edit an entry here, merge, and the site follows.
+- **This repository's side is one file.** [`tools/export_atlas.py`](tools/export_atlas.py) writes `data/atlas-export.json` (contract 1), and CI gates it with the rest of `data/`. `notify-atlas.yml` has the site rebuild within a minute or two of a merge. See [`ARCHITECTURE.md`](ARCHITECTURE.md) → *How the work reaches readers*.
+- **常 (*cháng*) re-researched to the entry standard**: *the ever-present / ever / always*, and never *eternal*. [`glossary/chang-常.md`](glossary/chang-常.md).
 
 ## 2026-09-24 — The principles are made to run, and the build now checks that they do
 
