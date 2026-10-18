@@ -2,23 +2,48 @@
 
 **A new English translation by Shalom Ormsby, refined in the open by its readers. Public domain (CC0): a gift to use and build on as you wish. No permission needed, no attribution required.**
 
-*First draft complete — all 81 chapters. The editing pass is the work now; see [`WORKLIST.md`](WORKLIST.md).*
+*First draft complete — all 81 chapters. Announced on 17 October 2026 in [**Welcome to the Open Tao Te Ching**](https://shalomormsby.substack.com/p/welcome-to-the-open-tao-te-ching); the chapters are being shared one at a time, with notes. The editing pass is the work now; see [`WORKLIST.md`](WORKLIST.md).*
 
 ---
 
+## Why another translation?
+
+The Tao Te Ching has been translated more than 2,000 times, into 97 languages. I founded the Open Tao Te Ching because I believe three things:
+
+1. **Open surpasses closed.** The wisdom of the Tao Te Ching should be openly and freely available to everyone, without copyright limitations, to read, quote, and use however they wish. I wouldn't hold this belief if Laozi were still alive, out of respect for authorship. But this text is more than 2,500 years old, and a vibrant English translation of it is far too important not to live in the public domain.
+2. **Collaborative by nature.** The more hearts and minds that help clean away the cultural, political, religious, and philosophical overlays placed upon this text, the more useful and valuable it becomes. No one individual should be able to hoard this wealth. It is part of our shared human heritage.
+3. **We can do better.** Current, copyrighted translations carry unexamined biases and overlays: 天 (*tiān* — sky) translated as "heaven," or 聖 (*shèng* — the sage) called "he" by default.
+
+No one living person has all the answers. I certainly don't. But when we put our hearts and minds together, we can make something far greater than any of us could alone. So this project is more than a translation of a single text. It's a community, and I offer it not only the translation but every tool, platform, and resource I used to craft, refine, and house it.
+
 ## What this is
 
-A new English translation of the Tao Te Ching, made directly from the classical Chinese and given freely to the public domain. Because the Tao cannot be told or set in type, this translation stays open and fluid. It changes as our understanding deepens and as we remove centuries of cultural overlays.
+A new English translation of the Tao Te Ching, made directly from the classical Chinese and given freely to the public domain. Because the ever-present Tao cannot be made a way, or set in type, this translation stays open and fluid. It changes as our understanding deepens and as we remove centuries of cultural overlays.
 
 Each chapter was worked out line by line from the Chinese, the classical commentaries, and the character etymologies, never from earlier English translations, and no phrasing is borrowed from them. The aim is an honest, living English free of the overlays that dynastic, Christian missionary, and New Age readings have laid over the text.
 
-The work draws on decades of study and meditation, and on AI collaboration under tight constraints: the AI researched, cross-checked, and proposed alternatives; every final rendering is mine; and the method is public in [`process/method.md`](process/method.md).
+The work draws on decades of study and meditation, and on AI collaboration under tight constraints: the AI researched, cross-checked, and proposed alternatives; every final rendering is mine; and the method is public in [`process/method.md`](process/method.md). Its origin traces back to [Creative Powerup](https://creativepowerup.com/), a community I founded to support its members' creative empowerment through the heart-led use of technology. What I didn't anticipate was how much it would accelerate my own ability to design, build, and keep improving everything here.
 
 The work rests on three commitments:
 
 1. **Openness.** Every consequential decision is documented, viewable, and open to comment. Nothing is asserted without evidence, and genuine ambiguities are left open rather than resolved by fiat.
 2. **Freedom from overlays.** The sage is not "he." 天 is "sky," not "Heaven." Theistic and moralistic overlays are set aside so the text's own images come forward: water, root, valley, uncarved wood, the newborn, the mother. The feminine is as central here as it is in Laozi's Chinese.
 3. **Integrity and poetry, together.** The literal meaning is honored to its depth, and the English is living verse. Where the two pull apart, the tension is flagged openly, with context for anyone who wants to look further.
+
+## One line, to show what that means
+
+The first six characters of the book:
+
+> 道可道，非常道
+> *dào kě dào, fēi cháng dào*
+
+You don't need to read Chinese to see that 道 (*dào* — Tao) appears three times. Literally: *"The Tao that can be Tao'ed is not the ever-present Tao."* If the paradox of this line doesn't stop you in your tracks, the translation has failed to do its job. The familiar English, *"The Tao that can be told is not the eternal Tao,"* sounds poetic, but it reduces the opening of the book to a secret you can't tell anyone. It trades a profound paradox for poetic license, and that is a trade this project refuses to make.
+
+In Laozi's time 道 was an everyday word. It meant a road, and it was both a noun (a way you can walk) and a verb (walking the way). Its parts are 辶 (*chuò*), a foot moving along a road, and 首 (*shǒu*), a head, the part of you that faces where you're going. The line turns 道 back on itself, with 可 (*kě* — can be) as the hinge. So this translation uses *Tao* in both its familiar, untranslated form and its unfamiliar, translated one:
+
+> **The Tao that can be made a way is not the ever-present Tao.**
+
+The cost is that the opening line loses some of its music. I don't make that trade lightly, but I think a translation devoted to preserving paradox owes it. **If you can think of a more fitting solution, please say so.** The full reasoning is in [chapter 1's notes](chapters/001.md) and the [道 entry](glossary/dao-道.md).
 
 ## How it works
 
@@ -34,9 +59,17 @@ None of this decides anything. It only makes sure that what was decided once, on
 
 [`ARCHITECTURE.md`](ARCHITECTURE.md) maps the whole system: what holds authority, what is generated, and what each gate covers.
 
-## Read it
+## Where to read it, and where to talk about it
 
-Start at [`chapters/001.md`](chapters/001.md). Each chapter carries the English verse, the Chinese with pinyin and a literal gloss, and any notes particular to it.
+You don't need any of this but the first. Everything else is here for whoever wants to dig deeper.
+
+- **[The Open Tao Te Ching on Substack](https://shalomormsby.substack.com/s/open-tao-te-ching).** Each chapter with its notes: the challenges, the overlays removed, the tradeoffs made, and any surprises. To take part, just read and comment, or just read. It lives within *The Daily Mystic* as a Tao-focused section.
+- **[The Library on OpenCosmos](https://opencosmos.ai/library/sources/taoism-tao-te-ching)**, the translation's native home. Click any English line to jump to its Chinese, then click any character to open its atlas entry.
+- **[The Open Classical Chinese Character Atlas & Glossary](https://chinese-atlas.opencosmos.ai/).** The atlas maps where, and how often, each character is used, gives its English, and shows the parts it is built from. Essential characters link to their [glossary](https://chinese-atlas.opencosmos.ai/glossary/) entries: the character's etymology, the meaning of its parts, its history, and its significance in the text.
+- **This repository**, the open collaboration engine. The Library and the atlas are built from it and continually improved here. You don't need to know GitHub to take part; see [Take part](#take-part).
+- **[Cosmo](https://opencosmos.ai/dialog)**, the AI companion in OpenCosmos's left sidebar, which draws on a wide range of public-domain wisdom texts and is ready to support your exploration of the Tao Te Ching or any text in the Library.
+
+**In this repository**, start at [`chapters/001.md`](chapters/001.md). Each chapter carries the English verse, the Chinese with pinyin and a literal gloss, and any notes particular to it.
 
 ## Repository map
 
@@ -52,12 +85,15 @@ Start at [`chapters/001.md`](chapters/001.md). Each chapter carries the English 
 | `process/method.md` | The full working method |
 | `process/overlay-audit.md` | Reading Laozi without the missionary lens |
 | `process/skills/` | The method made executable, for AI collaborators |
-| [`sources/`](sources/PROVENANCE.md) | The classical commentaries — Wang Bi and Heshang Gong (all 81 ch. each) — the variant apparatus, and per-file provenance |
+| [`sources/`](sources/PROVENANCE.md) | The three classical commentaries (Wang Bi, Heshang Gong, Han Fei), 說文解字, the variant apparatus, the hand-kept gloss lists, and per-file provenance |
+| [`data/`](data/README.md) | The corpus as CSVs, and `atlas-export.json`, the one file the Library and the atlas are built from — all generated |
 | `tools/` | The harness — see below |
 | [`ARCHITECTURE.md`](ARCHITECTURE.md) | **How the system fits together** — authorities, what is generated, the gates, the rules, provenance |
 | `CLAUDE.md` · `AGENTS.md` | Operating context for AI collaborators and tools |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | **The findings worth writing about** — start here for what this research turned up: what later hands added, and what the book says once it comes off |
-| `WORKLIST.md` | Known consistency debt across chapters |
+| `WORKLIST.md` | What the manuscript still owes |
+| [`CHANGELOG.md`](CHANGELOG.md) | What landed, and when |
+| [`process/principles/`](process/principles/INDEX.md) | The transferable rules this work has learned by making decisions |
 | `PLAN.md` | The harness: what is built, what is deliberately not |
 
 ## The tools
@@ -135,9 +171,16 @@ keep moving.
 doesn't require it.**
 
 I have been inside this text long enough that I can no longer hear it cold. If a
-line reads awkwardly, or sounds like a sermon, or simply thuds — say so. Open an
-issue with the chapter and the line. No fix required, no reason required. That is
-a complete contribution, and it is the one I cannot make myself.
+line reads awkwardly, or sounds like a sermon, or simply thuds — say so. The
+easiest place is a comment on [Substack](https://shalomormsby.substack.com/s/open-tao-te-ching),
+where there is nothing new to learn; or open an issue here with the chapter and
+the line. No fix required, no reason required. That is a complete contribution,
+and it is the one I cannot make myself.
+
+Every character on the atlas has a **Suggest an edit** button, and
+[`CONTRIBUTING.md`](CONTRIBUTING.md) has two prompts to paste into an AI
+assistant. Either will find where your suggestion belongs and help you send it,
+asking you before anything is posted.
 
 If you want something more concrete:
 
@@ -157,8 +200,10 @@ proposal to an editor, not a change to a commons — and disagreement is genuine
 wanted anyway. Several settled readings in this book exist because someone said
 "that word feels wrong" and turned out to be right.
 
-Longer conversation about *why this text still matters* happens at
+Let's discuss, debate, and continually improve this translation, together. The
+longer conversation, about *why this text still matters*, happens at
 [shalomormsby.substack.com/s/open-tao-te-ching](https://shalomormsby.substack.com/s/open-tao-te-ching).
+Subscribing is free and always will be.
 
 ## License
 
