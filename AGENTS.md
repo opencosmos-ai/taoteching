@@ -91,4 +91,4 @@ Both are generated from the entries by `tools/build_index.py`; do not edit them 
 
 None required. If you wish to:
 
-> Ormsby, Shalom. *Tao Te Ching: an English translation.* Public domain (CC0 1.0). https://github.com/opencosmos-ai/taoteching
+> Ormsby, Shalom. *The Open Tao Te Ching.* Public domain (CC0 1.0). https://github.com/opencosmos-ai/taoteching
