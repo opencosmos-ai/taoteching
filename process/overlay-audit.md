@@ -30,10 +30,11 @@ That is why the standard English Laozi reads like scripture. It was, in a real i
 
 ### Tier 2 — The live watchlist
 
-These are not yet locked. Each is a place the overlay will try to enter; chapter locations are given so the sweep can be systematic.
+Each is a place the overlay will try to enter; chapter locations are given so the sweep can be systematic. **Several have since been locked**, and each of those says so and links its entry, which is the ruling; the rest are still open.
 
 **聖 / 聖人 — "the Holy Man," "the Saint," "the Perfect Man"** *(~33 occurrences; also 絕聖 at 19)*
-The character is a picture of **hearing**: an oversized ear (耳) beside a mouth (口), on a standing figure. The *Shuowen* glosses it 通也 — *penetrating*. A 聖人 is one whose perception goes all the way through: **the acute listener**, not the sanctified one. The capture is easy to demonstrate — in modern Chinese, Bible translation has made 聖 the word for *holy*: 聖經 (holy classic = Bible), 聖靈 (Holy Spirit), 聖徒 (saint). **Our reading: "the Sage" is sound; keep it, and never let "holy," "saintly," or "blessed" near it.** Note also that 聖 is not uniformly positive in this book — Chapter 19 says 絕聖棄智, *cut off sageliness*, which no translator of a "Holy Man" can easily explain.
+The character is a picture of **hearing**: an oversized ear (耳) beside a mouth (口), on a standing figure. The *Shuowen* glosses it 通也 — *penetrating*. A 聖人 is one whose perception goes all the way through: **the acute listener**, not the sanctified one. The capture is easy to demonstrate — in modern Chinese, Bible translation has made 聖 the word for *holy*: 聖經 (holy classic = Bible), 聖靈 (Holy Spirit), 聖徒 (saint). **Our reading: "the sage" is sound; keep it, and never let "holy," "saintly," or "blessed" near it.** Note also that 聖 is not uniformly positive in this book — Chapter 19 says 絕聖棄智, *cut off sagehood*, which no translator of a "Holy Man" can easily explain.
+→ **Locked:** *the sage*; *sagehood* where 聖 stands alone (ch 19). `glossary/sheng-聖.md`, 2026-10-17.
 
 **神 — "God," "the divine," "spirit"** *(6, 29, 39, 60)*
 The literal casualty of the Term Question. In Laozi it is **numinous potency** — a quality, not a being. Chapter 60's 其鬼不神 ("the ghosts lose their potency") already applies this correctly. Watch 谷神不死 (6, *the valley's undying power/spirit*), 天下神器 (29, the world as a *numinous vessel*), 神得一以靈 (39). **Never "God." Never "the divine."**
@@ -45,22 +46,26 @@ Christian demonology imported wholesale. 鬼 are **the dead, ghosts, ancestral s
 In Chinese Christianity 罪 became *the* word for sin (罪人 sinner, 認罪 confess, 贖罪 atone). In Laozi it is **legal**: crime, offense, culpability. Chapter 62's 有罪以免 is *"those with offenses are pardoned"* — a courtroom, not a confessional. Our Manuscript Note at 46 already reads 罪莫大於可欲 as **"no greater crime,"** which is right.
 
 **義 — "righteousness"** *(18, 19, 38 ×3)*
-Perhaps the most quietly biblical word in the English tradition — "righteousness" belongs to Paul, to justification, to the righteousness of God. 義 is **duty, rightness, what is fitting** — a Confucian social virtue Laozi is *criticizing* as a late, degraded substitute for the Tao (38's descent: 道 → 德 → 仁 → 義 → 禮). Suggested: *duty* or *propriety*. Likewise **仁** (5, 8, 18, 19, 38) → *humaneness / kindness*, not Legge's "benevolence" and never "charity" (1 Corinthians 13).
+Perhaps the most quietly biblical word in the English tradition — "righteousness" belongs to Paul, to justification, to the righteousness of God. 義 is **duty, rightness, what is fitting** — a Confucian social virtue Laozi is *criticizing* as a late, degraded substitute for the Tao (38's descent: 道 → 德 → 仁 → 義 → 禮). The verse reads *duty* in all five lines; the entry is still owed (`WORKLIST.md` R2). Likewise **仁** (5, 8, 18, 19, 38) → **locked as *humaneness*** (`glossary/ren-仁.md`), not Legge's "benevolence" and never "charity" (1 Corinthians 13); *kindness* is 慈's (*cí* — tenderness) ground, not 仁's.
 
 **精 / 魄 — "spirit," "soul"** *(精: 21 ×2, 55 · 魄: 10)*
 Both import the immortal, immaterial Christian soul, and with it a body/soul dualism Chinese thought does not share. 精 is **vital essence** — physical, seminal, energetic (already correct in 55). 魄 is the **corporeal, earthbound** member of the 魂魄 pair; rendering it as a single "soul" erases the fact that there were *two*, and that this one stays with the body. Chapter 10's 載營魄抱一 needs care. *(Resolved 2026-10-15: 魄 → **aliveness**, `glossary/po-魄.md`.)*
+→ **Locked:** 精 → *vital essence / essence* (`glossary/jing-精.md`); 魄 → *aliveness* (`glossary/po-魄.md`).
 
 **一 — "the One"** *(10, 22, 39, 42)*
 Capitalized, this is Neoplatonism and monotheism — the One of Plotinus, the God who is one. Laozi's 一 is more modest: **unity, the whole, the single thing** — and in 42 it is something the Tao *gives birth to*, therefore not ultimate. Lowercase, and resist the definite-article grandeur.
+→ **Locked:** *the one*, lowercase. `glossary/yi-一.md`.
 
 **福 — "blessing"** *(58 ×2, 65)*
 "Blessing" implies a **blesser** — a personal agent dispensing favor. 福 is **good fortune**, impersonal, and in 58 explicitly unstable (fortune is where disaster hides). "Fortune" ✓ (already our reading). *Honest nuance:* 福 does carry the 示 radical, associated with altars and offerings, so the word is not purely secular in origin — but it is luck, not grace.
 
 **善 — "good"** *(8, 27 ×5, 49, 79, 81)*
 The moral good/evil binary is a Christian inheritance; 善 frequently means **skilled, adept, good *at*** something. Chapter 27's run — 善行, 善言, 善數, 善閉, 善結 — is entirely about *skill*: the skilled traveler leaves no tracks. Read for competence first, morality only where the context demands it.
+→ **Locked:** *masterful / masterful at*; *good* only where the text names the category. `glossary/shan-善.md`.
 
 **自然 — "Nature"** *(17, 23, 25, 51, 64)*
 Capital-N "Nature" is Romanticism, not Laozi — and in one place the mistranslation is **catastrophic**. Chapter 25's 道法自然 rendered "the Tao follows Nature" makes *Nature superior to the Tao*, inverting the entire chapter. 自然 is **"of itself," "so of itself"**: the Tao takes as its model *being what it is*. There is nothing above it to follow. (Never "self-so" — a calque, and a noun where both commentators refuse to name a thing; see `glossary/ziran-自然.md`.)
+→ **Locked:** *of itself / so of itself*. `glossary/ziran-自然.md`.
 
 ### Tier 3 — Register, not vocabulary
 

@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Why this text still matters
-    url: https://shalomormsby.substack.com/
+    url: https://shalomormsby.substack.com/s/open-tao-te-ching
     about: Essays and conversation about the Tao Te Ching in the present tense. Not a bug tracker — come argue about the book.
   - name: How the translation works
     url: https://github.com/opencosmos-ai/taoteching/blob/main/CONTRIBUTING.md

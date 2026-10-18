@@ -1362,7 +1362,7 @@ The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The ren
 
 **Ch 42 keeps 公's word.** 王公 is 王 + 公, and 公 is locked to *lord / minister*, so the compound reads *rulers and lords*.
 
-**Left open, and proposed rather than applied: Ch 25's "the aligned human."** Both silks read 人 (*rén* — human) where the received text reads 王, and our verse follows them — correctly. But it renders bare 人 as *the aligned human*, and nothing in the Chinese licenses *aligned*. The qualifier does in miniature what the throne did in full: it decides which humans are among the four great things. `DISCOVERIES.md` §1 rests on the line reading simply **the human**. Recommended deletion; a different character from 王 and Shalom's own word, so it waits on him.
+**Left open, and proposed rather than applied: Ch 25's "the aligned human."** 傅奕 and 范應元 read 人 (*rén* — human) where the received text and every excavated witness read 王, and our verse follows them on internal grounds (人法地). But it renders bare 人 as *the aligned human*, and nothing in the Chinese licenses *aligned*. The qualifier does in miniature what the throne did in full: it decides which humans are among the four great things. `DISCOVERIES.md` §1 rests on the line reading simply **the human**. Recommended deletion; a different character from 王 and Shalom's own word, so it waits on him.
 
 ### Ch 66 · 百谷王 → "rule the hundred valleys"
 

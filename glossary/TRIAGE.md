@@ -83,7 +83,7 @@
 | 10 | **名** (Míng) | 9 | 51L, 10 marks | Ch 1 and 32. Pairs conceptually with 無名/有名. |
 | 11 | **始** (Shǐ) | 7 | 47L | Consider as a **pairing with 母** — beginning vs. mother, the two halves of Ch 1's second couplet. |
 | ~~12~~ | ~~**信** (Xìn) — "trust"~~ | 8 | 42L | ✅ **DONE & LOCKED** → `xin-信.md`. 人 beside 言 — a person by their word — and also a **split tally** (符契), so 信 is *correspondence that can be checked*, not an inner feeling. That is why "sincerity" and "faith" both fail. Kept being given 德's word: fixed in Ch 23 and Ch 38. Ch 49's 德信 puts both characters in one compound and settles it. 忠 (loyalty) absorbed here. Ch 81's 信言 left open until that chapter is drafted. |
-| ~~13~~ | ~~**王** (Wáng)~~ | 8 | 41L, 11 marks | ✅ **Done — see row 20.** *(This row was left open after the entry was written.)* **Raised in priority.** Both Mawangdui silks read 人 (human) where our base reads 王 (king) in Ch 25's four greats, and the older silk has no king in the passage. See `DISCOVERIES.md` §1 — this entry now has a real argument to make. |
+| ~~13~~ | ~~**王** (Wáng)~~ | 8 | 41L, 11 marks | ✅ **Done — see row 20.** *(This row was left open after the entry was written.)* **Raised in priority** on a premise later corrected: every excavated witness reads 王 (king) in Ch 25's four greats, and 人 (human) is the reading of 傅奕 and 范應元. See `DISCOVERIES.md` §1 — this entry now has a real argument to make. |
 | 14 | **先** (Xiān) | 6 | 42L, 13 marks | |
 | 14b | **希** (Xī) | 6 | — | **New, raised from Ch 70, 2026-08-24.** The graph is 爻 (crossed threads) over 巾 (cloth) — **loosely woven fabric you can see through.** *Sparse*, in six places and one sense, which this edition has been rendering three ways without noticing: ch 14 *the inaudible*, ch 23 *speak sparingly*, ch 41 大音希聲, ch 43 *few ever reach this*, ch 70 *those who know me are few*, ch 74 *rarely*. Rarity and inaudibility are the same property read across a crowd and across a sound — so Laozi's ideal of speech (23) and his account of his own reception (70) are **the same word**. Ch 70 also pairs it with 貴 (*guì* — precious): scarcity is where value comes from, and 河上公 makes the link explicit (希少也…故為貴也). |
 | ~~14c~~ | ~~**貨** (Huò) — "goods"~~ | 5 | *(never triaged)* | ✅ **DONE & LOCKED** → `huo-貨.md`, 2026-08-30. **Never triaged because it looked like a common noun.** It turned out to be carrying chapter 3's political argument, and to have been wearing two other characters' English: *the precious* (貴's, chapters 3 and 64) and *rare treasures* (寶's, chapter 12), plus 富's *wealth* at chapter 44. Each of those made the line **circular** — *"do not prize the precious."* The graph is 貝 (*bèi* — a cowrie shell) under 化 (*huà* — a body turning over): **a shell that changes hands**, against 寶's hoard under a roof and 貴's position on a price scale. 難得之貨 → **rare goods** as a unit; *rare* renders no character, because 難's *hard* is 堅's and its *difficult* will not go attributive. Swept ch 3, 12, 44, 64. **Ties to 14b:** ch 70's 希/貴 couplet has 河上公 deriving value from scarcity, which these chapters tell a ruler to break — and 希 must not take *rare*, now spent. |
@@ -136,7 +136,7 @@
 
 Each is 6–14 lines; these are seeds, not drafts.
 
-~~**事**~~ *(entry written 2026-08-12 — `shi-事.md`; a hand holding the badge of office, the second hand beside 為's elephant. 無事 left open)* · **容** (4) · **愚** (3) · **命** (2) · ~~**腹**~~ *(absorbed into `xin-心.md`)* · **敦** (1) · **芻狗** (1) · **上善** (1) · **大制** (1)
+~~**事**~~ *(entry written 2026-08-12 — `shi-事.md`; a hand holding the badge of office, the second hand beside 為's elephant. 無事 left open)* · **容** (4) · **愚** (3) · ~~**命**~~ *(entry written — `ming-命.md`, open: a recommendation, not yet a lock)* · ~~**腹**~~ *(absorbed into `xin-心.md`)* · **敦** (1) · **芻狗** (1) · **上善** (1) · **大制** (1)
 
 ---
 
@@ -145,7 +145,7 @@ Each is 6–14 lines; these are seeds, not drafts.
 | Entry | Destination | Why |
 |---|---|---|
 | **利 / 用** | `notes/translation.md` | Not what the characters mean — a choice made in English ("stripping the capitalist static"). A rendering decision. |
-| ~~**公**~~ / **仁** | `notes/translation.md` | 公 has its own entry as of 2026-08-12 — `gong-公.md`; the Shuowen cites Han Feizi for its etymology. 仁 still here. |
+| ~~**公**~~ / ~~**仁**~~ | `notes/translation.md` | 公 has its own entry as of 2026-08-12 — `gong-公.md`; the Shuowen cites Han Feizi for its etymology. 仁 has its own too, locked as *humaneness* — `ren-仁.md`. |
 | **經**, **老子** | Companion front matter | Zero occurrences in the text. |
 
 ---

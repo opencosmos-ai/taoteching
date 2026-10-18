@@ -230,7 +230,7 @@ character you looked up and found interesting. You do not need a solution to ope
 one.
 
 **Discussion also happens on Substack** —
-[shalomormsby.substack.com](https://shalomormsby.substack.com/) — where the
+[shalomormsby.substack.com/s/open-tao-te-ching](https://shalomormsby.substack.com/s/open-tao-te-ching) — where the
 writing about *why this text still matters* lives. If a conversation there turns
 into something the manuscript should answer for, I will bring it here and credit
 you by name.

@@ -53,7 +53,7 @@ the apparatus.
 | file | one row per | good for |
 |---|---|---|
 | `characters.csv` | distinct character | frequency, coverage, what is glossed |
-| `compounds.csv` | multi-character locked term | 萬物, 無為, 天地, 自然, 知足 |
+| `compounds.csv` | multi-character locked term | the locked compounds — 萬物, 無為, 天地 and the rest |
 | `lines.csv` | source line | Chinese, pinyin, literal gloss and our English side by side |
 | `translation.csv` | verse line | the whole book in English, stanzas intact |
 | `chapters.csv` | chapter | ratios, Guodian attestation, Heshang Gong's titles |
@@ -61,6 +61,10 @@ the apparatus.
 | `witnesses.csv` | witness | who they are, when, and on what rights basis |
 | `locked-renderings.csv` | locked character occurrence | whether the lock is honored at that line |
 | `commentary.csv` | commentary lemma | 王弼, 河上公, 韓非, with our English for the lemma |
+| `character-anatomy.csv` | distinct character | 說文's analysis: its construction, its semantic and phonetic parts, its definition |
+| `components.csv` | part a character is built from | what each part means, and which characters it builds |
+| `constellation-*.json` | node and edge | the graphs: chapters to characters, and characters to their parts (`build_graph.py`) |
+| `atlas-export.json` | the whole text, as one document | **the contract** the Character Atlas and opencosmos.ai's Library build from, and nothing outside this repository reads anything else (`export_atlas.py`) |
 
 ## Two cautions that matter
 
