@@ -21,18 +21,19 @@
 **Next, in order:**
 
 1. ~~**柔 (*róu* — soft)**~~ — ✅ 2026-10-15, its own entry (`glossary/rou-柔.md`), 剛 covered with it. Its one finding, 脆 → *fragile* at 64 and 76 (Shalom's call), is closed.
-2. **Next: 混 (T2-40, quick)**, then down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time: 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
-3. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
+2. ~~**聖 (*shèng* — the sage)**~~ — ✅ 2026-10-17, taken out of queue order because the atlas returned nothing for *sage* (`glossary/sheng-聖.md`, #33). Two follow-ups filed: T2-2 and T5-18.
+3. **Next: 混 (T2-40, quick)**, then down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time: 反/復/歸 (T2-44) · 名 · 氣 · 神/靈 (T2-37) · 靜 · 欲 · 智 (T2-2) · 始 · 希 · 貴/賤 (T2-36) · 和 · 谷 · 言 · 得 (T2-35) · 先.
+4. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** nothing. Still deferred: 正/奇 (T4-2) and the em-dashes (T4-3).
 
-**How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas updates itself within the hour of a merge.
+**How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas rebuilds within a minute or two of a merge (`notify-atlas.yml` dispatches; an hourly rebuild is the fallback).
 
 ---
 
 ## The list
 
-**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **141 item rows: 48 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
+**⬜ open · 🔶 part done · ✅ done · ⏸ deferred by Shalom.** Detail for every row is below, under the matching heading. **142 item rows: 49 open · 87 done · 4 part done · 2 deferred.** *(19 of them are the per-chapter Pass D rows, whose status is derived.)* *(Counted from the table itself — a hand-kept tally drifts. It read "43 open · 18 done" and matched nothing.)*
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -73,7 +74,7 @@
 | T2-19 | ✅ | ~~★ **The holding family — 守 執 保 有 collapsed into "hold."**~~ — **說文 gives four different hands, and 守 has none.** 執 → *grasp* (*seize* at 74, the arrest — 捕罪人也 is the dictionary headword) · 守 → *hold to* / *guard* · 保 → *keep safe* · 持 → *hold*. **Four entries written and locked.** *Guard* had been worn by **three characters** (守 9, 保 15, 衛 67) — unseeable by any rule, since 守 and 保 share both ch 9 and ch 67. Riders: 搏 (14), 握 (55), 左 (79), 有 (59), 襲 (52), ch 5. ~~Ch 9 open → T2-51~~ *(closed 2026-09-20; 保 gained a declared flexion there)* | 5 9 14 15 16 28 29 32 35 37 52 55 59 62 64 67 69 74 79 | E |
 | T2-51 | ✅ | ~~**Ch 9 renders neither 持 nor 保, and invents a vessel**~~ — the chapter rebuilt: **持 · 保 · 守 all three on the page**, 不如 restored as a construction, the 器-less vessel gone and the referent named grammatically, 銳 held to *point* (說文 芒也; the edge is 刃, one line in the book), 咎 → *fault* following ch 46's couplet, 遺 rendered, and 身退 restored. **保 takes bare *keep* here, a declared flexion** — ch 9 is its only negative instance and its only uncherished object, and the lock had been argued from this chapter's gloss table rather than its verse. One fork logged | 9 | E |
 | T2-1 | ✅ | ~~**身** — *body* / *self* / *themselves*, and two of them inside ch 54~~ — **身 → *body*, locked** (2026-09-19, Shalom's call); one character that had **six** Englishes and at ch 9 none. Entry written; 終身/没身 flexed to *to the end of your days* and declared. Swept at 7 (身 ×4, and **生** restored at 故能長生), 9, 26, 44, 52, 54, 66, plus the **ch 76 rider** where *body* rendered 人. *Self* refused: it is 我/吾's and, at ch 7, 私's. **Ch 10's rider resolves as no change** | 7 9 13 16 26 44 52 54 66 76 | E |
-| T2-2 | 🔶 | **智** four ways; **ch 3 settled as *the knowers*, fork logged**; *"cunning"* still wears 巧 at 19 and 57 | 3 18 19 33 65 | E |
+| T2-2 | 🔶 | **智** four ways; **ch 3 settled as *the knowers*, fork logged**; *"cunning"* still wears 巧 at 19 and 57. **聖's entry rules *wise*/*wisdom* out for 聖 and cannot enforce it until 智 is settled** (shared ch 3 19 27); Guodian's 五行 pairs them as knowing by seeing (智) and by hearing (聖) | 3 18 19 33 65 | E |
 | T2-3 | ✅ | ~~**士** three ways, two on the identical phrase 善為士者~~ — all three now **in service** (2026-09-07, Shalom's call). 說文 士，事也: one who handles **affairs**, not a student; 河上公 has the middle 士 治國以太平, *governing the state*. *Officer* was declined as bureaucratic and negatively valenced. **Entry written and locked: `glossary/shi-士.md`.** **Seam noted:** 士 named a male class and the English is deliberately neutral. Opens T2-47 | 15 41 68 | E |
 | T2-4 | 🔶 | **氣** — ch 10 → *breath* (河上公 呼吸精氣); *vital breath* (42) and *vital energy* (55) still split | 10 42 55 | E |
 | T2-21 | ⬜ | **厚** four ways — *thick* (38) · *heavy* (44) · *abundant* (55) · *rich* (75) | 38 44 50 55 75 | E |
@@ -163,7 +164,7 @@
 | T2-27 | ⬜ | **同謂之玄 → *Together*** — 同's fourth English, and *together* can read as *jointly they form one thing* rather than *both alike are so called* | 1 | E |
 | T2-28 | ⬜ | **復歸 split four-to-three** — the seven-line compound reads *return again* at 16 and 28 ×3, plain *return* at 14 and 52 | 14 16 28 52 | E |
 | T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57) | 12 19 32 51 57 | E |
-| T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Male rank-words dissolved in two opposite directions. Kin to T4-1 | 15 26 31 38 41 68 | F |
+| T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Male rank-words dissolved in two opposite directions. Kin to T4-1. **聖人 is not a rank and its entry leaves *is the sage a ruler?* open; both silks read 君子 at ch 26** (`glossary/sheng-聖.md`) | 15 26 31 38 41 68 | F |
 | T4-4 | ✅ | ~~剛 owed its own mention~~ — **剛 → *unbending*, 2026-10-14, Shalom's call**, a `covers:` of `ruo-弱.md` (of `rou-柔.md` since 2026-10-15); 堅 keeps *hard*, which ch 78 had given to both. Also found: 柔's own covers had never parsed, so its 2026-08-26 lock was not live until now | 36 78 | E |
 | T2-33 | ⬜ | **利** wants an entry — 9 chapters, three jobs: *benefit* (bound to 害 at 56, 73, 81) · **sharp** (利器 36, 57; 利劍 53 — the 說文 sense, 銛也。从刀) · *advantage* (11, 19) | 8 11 19 36 53 56 57 73 81 | E |
 | T2-34 | ⬜ | **微** three ways — *the intangible* (14) · *subtle* (15, 64) · *hidden* (36). 說文 隱行也, "to go concealed". **Ch 14's half settled at T2-52 (2026-09-10) — its *the intangible* stands and the link is carried in notes. What is open is 36 vs 15/64** | 14 15 36 64 | E |
@@ -192,6 +193,7 @@
 | T5-9 | ✅ | ~~`data/` is generated but nothing gates it~~ — atlas rebuilt-and-diffed in CI; `build_graph.py` made deterministic | — | G |
 | T5-16 | ✅ | ~~**The atlas publishes open entries as locked**~~ — **fixed 2026-10-14.** `build_db.py` now carries each entry's `status:` through: `lock_status` and the gloss tier read `open` for a recommendation, and `build_explorer.py` / `build_graph.py` set the lock flag only for `locked`. **No contract change was needed** — the atlas already reads a 0/1 `lock`, which was simply wrong for 極 · 命 · 虛. Guarded by `test_open_entries_are_not_published_as_locked` | — | G |
 | T5-17 | ⬜ | **`import_commentary.py` drops every 韓非子 quotation under five characters** (`if len(fq) < 5: continue`), and a passage whose quotations are all short is lost entirely. 49 short quotations across 解老 and 喻老. Lost outright: ch 52's 見小曰明 and 守柔曰強 (no `hanfeizi/052.md` exists), and **ch 47's 不見而明**, a witness for 明 on the fork reversed to 名 on 2026-09-24 (`notes/manuscript.md`). Also 去彼取此 and 朝甚除. A four-character quotation can be placed by exact match against the base text, where five-grams cannot. Found 2026-10-15 | 47 52 53 | G |
+| T5-18 | ⬜ | **The atlas's "Built from" shows 說文's analysis even where an entry argues against it.** 聖's card says 呈 is *sound only*; `glossary/sheng-聖.md` argues 呈 is a later misreading of the bronze form's 口 over 𡈼 (鄭張尚芳: 非呈聲). The parts come from `import_shuowen.py`, so an entry has no way to annotate them. Decide whether it should, or whether the card should say the analysis is 說文's | 19 | G |
 
 **Why passes and not chapters — and why Pass D is the exception.** Passes 0, A, B and C each closed **one decision and every chapter it touched**, in one sitting with the commentaries open, rather than walking 1→81 and re-opening the same argument twenty times. **Pass D is not that kind of pass.** It is chapter work by definition, so the principle that ordered the others does not order it, and it now carries one row per chapter.
 
@@ -552,3 +554,5 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-10-15 | 柔 → **soft**, its own entry; 剛 → *unbending* covered with it | `glossary/rou-柔.md` |
 | 2026-10-15 | 脆 → *fragile* at 64 and 76; *tender* is 慈's alone (T2-62, part) | `notes/translation.md` · `chapters/076.md` |
 | 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clarity"*, matching 守柔曰強 | `chapters/052.md` |
+| 2026-10-17 | 聖 → **the sage**, 聖 alone → *sagehood*, its own entry; the overlay watchlist's first term | `glossary/sheng-聖.md` |
+| 2026-10-17 | Witnesses corrected: ch 49's 恒無心 is silk B (A is damaged); both silks read 君子 at ch 26; silk B lacks ch 73's 是以聖人猶難之 | `sources/variants.yaml` · `notes/manuscript.md` |
