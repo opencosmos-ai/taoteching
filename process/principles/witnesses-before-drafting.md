@@ -30,7 +30,7 @@ supersedes: []
 
 ## Why this principle exists
 
-Two chapters were drafted before anyone read the witnesses, and neither was carelessness — nobody had looked. Ch 21 was drafted over a chronology both Mawangdui silks reverse, 道之為物 against 道之物. Ch 25 was drafted with a king among the four greats that the oldest witnesses do not have, 王亦大 against 人亦大. → [ch 25](../../notes/manuscript.md#ch-25-王亦大-人亦大-king-or-human-among-the-four-greats) · [ch 21](../../notes/manuscript.md#ch-21-道之為物-道之物-the-silks-drop-the-copula)
+Two chapters were drafted before anyone read the witnesses, and neither was carelessness — nobody had looked. Ch 21 was drafted over a chronology both Mawangdui silks reverse, 道之為物 against 道之物. Ch 25 was drafted, and then argued about, before anyone read Guodian: when the witnesses were finally read, every excavated one turned out to have the king, 王亦大, and 人亦大 to be a transmitted reading. → [ch 25](../../notes/manuscript.md#ch-25-王亦大-人亦大-king-or-human-among-the-four-greats) · [ch 21](../../notes/manuscript.md#ch-21-道之為物-道之物-the-silks-drop-the-copula)
 
 ---
 

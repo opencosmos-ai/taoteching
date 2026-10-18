@@ -270,6 +270,7 @@ python3 tools/build_db.py && python3 tools/export.py && python3 tools/build_grap
 python3 tools/check_worklist.py                  # WORKLIST.md against its own table
 python3 -m unittest discover -s tools/tests      # the tools' own tests
 python3 tools/check_counts.py                    # the counts the docs claim, against their sources
+python3 tools/check_retractions.py               # no copy of a withdrawn claim survives
 ```
 
 *The full runbook — every tool, every flag — is in [`ARCHITECTURE.md`](ARCHITECTURE.md). These are the ones that come up while working on the text.*
@@ -285,6 +286,8 @@ python3 tools/check_counts.py                    # the counts the docs claim, ag
 **When a check is wrong, there are two answers and they are different sizes.** A `lock-ok` comment in the chapter's `## Notes` waives **one finding** and must carry a reason; an unused waiver is itself an error, so the files self-clean. A `shaloms-call` sets aside **a whole rule** — see `process/shaloms-call.md`. Never delete a rule to silence it.
 
 **Check the witnesses before drafting, not after.** `concordance.py --witnesses N` opens with whether **Guodian** (~300 BCE, the oldest witness there is) carries the chapter at all — it carries only <!-- count: guodian-chapters -->31 of 81, and *not attested* means the chapter rests on the silks and later, which changes how much weight they bear. Then it reports the recorded forks. Ch 21 was drafted over a chronology both Mawangdui silks reverse — not carelessness; nobody had looked. **A blank result means nobody has checked that chapter yet**, not that there are no forks: `sources/variants.yaml` is built by hand. Record new forks there as **facts, never transcriptions** — `sources/PROVENANCE.md` explains why that is a licensing rule and not a preference.
+
+**A correction has two halves: fix the line, and register the claim.** When a fact this repository stated turns out to be wrong, correct it where you found it, then add the withdrawn claim to [`process/retractions.yaml`](process/retractions.yaml) — what was said, the phrases that say it, what is true, where it is argued. `check_retractions.py` then fails the build on every other copy, today and later. Fixing the one place you found is how the Ch 25 claim survived in eleven files for two months after it was corrected. A line that announces its own correction (*Corrected…*, *once said…*, *(was…*) is the correction, not a copy, and is never flagged.
 
 **A count in prose is a copy of a fact a tool already knows.** Do not write one where a link will do — `glossary/INDEX.md` prints the entry count, `process/principles/INDEX.md` the principles, `check_locks.py --rule em-dash` the dashes. A count worth keeping is marked, `<!-- count: shuowen -->763`, which renders as nothing, and `check_counts.py` recomputes it from its source and fails CI with the true value; `--list` prints every name. A count in a code block cannot carry the mark, so trim it. See `ARCHITECTURE.md` → *The gates*.
 

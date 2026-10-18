@@ -240,6 +240,7 @@ And it holds hand-written prose to the facts it restates:
 |---|---|
 | `check_worklist.py` | `WORKLIST.md`'s pass rows, chapter lists and tally match its own table |
 | `check_counts.py` | every **marked** count in the docs matches the source it counts |
+| `check_retractions.py` | no claim withdrawn in [`process/retractions.yaml`](process/retractions.yaml) is stated again anywhere |
 
 **`check_worklist.py` earns its place.** Four hand-kept lists in this repository went stale in three days — `CLAUDE.md`'s lock table, the `glossary-entry` skill's instruction to update it, `WORKLIST.md`'s duplicate "order of work" table, and its item tally — and a person found every one by reading. Nothing in `tools/` read `WORKLIST.md` at all. Its rules only enforce what the file already says about itself, and a `Ch` cell that *points at rows* rather than listing chapters is never checked: **declining to keep a second copy is the behaviour the tool exists to encourage.**
 
@@ -250,6 +251,8 @@ the analysis of <!-- count: shuowen -->763 of the book's <!-- count: characters 
 ```
 
 The tool finds every mark in every `.md` file, computes the value from the authority itself — the database built in memory as `build_db.py` builds it, the vendored commentaries, `check_locks.py`'s own `em-dash` rule — and fails with the true value beside the claimed one. `python3 tools/check_counts.py --list` prints every name a mark can use and its current value. **It is a separate tool rather than a `check_locks.py` rule** because it judges no rendering: it has no evidence gate to pass, no waiver to honour and no severity but *wrong*, and the same split keeps `check_worklist.py` out of the checker. **A count with no mark is not checked** — counts in code blocks, where the comment would show, and dated snapshots (`CHANGELOG.md`, `PLAN.md`, the worklist's ledger) are left alone on purpose.
+
+**`check_retractions.py` does for facts what `forbidden:` does for renderings.** A correction is made in one place, and the claim it corrects has usually been copied into several: the Ch 25 apparatus was corrected on 2026-08-20, and two months later the withdrawn claim still stood as fact in eleven files, among them `CLAUDE.md`, a skill and a principle. So a correction has two halves. Fix the line where you found it, and add the withdrawn claim to `process/retractions.yaml`, with the phrases that state it, what is true, and where that is argued. The tool then fails on every copy in every `.md`, `.yaml` and `.cff` file. It spares `CHANGELOG.md` (dated history), a line that announces its own correction (*Corrected*, *withdrawn*, *once said*, *formerly*, *(was*, `~~`, ⚠), a section whose opening carries a ⚠ banner, and the paths an entry lists in `allow:`. A phrase that fires on a legitimate sentence is too broad: lengthen it, rather than allowing the file.
 
 **No dependency install step, deliberately.** Every tool is stdlib Python only, so a fresh clone can run the whole gate with nothing else present.
 
@@ -422,6 +425,7 @@ python3 tools/check_locks.py --rule em-dash     # one rule
 python3 tools/check_locks.py --severity error   # what CI blocks on
 python3 -m unittest discover -s tools/tests
 python3 tools/check_counts.py                   # the counts the docs claim (--list for every name)
+python3 tools/check_retractions.py              # no copy of a withdrawn claim survives (--list for the register)
 
 # after editing any chapter's verse
 python3 tools/fix-linebreaks.py                 # restore hard breaks (--check to verify only)
