@@ -23,7 +23,8 @@ Five things, and the first is the one to remember:
   │     verse                      essay                     variants.yaml     │
   │     source table               frontmatter               guodian-inventory │
   │     notes, frontmatter        (render, flexions,         component-glosses │
-  │                                forbidden)                                  │
+  │                                forbidden)                grammar-glosses   │
+  │                                                          word-glosses      │
   └────────┬───────────────────────────┬──────────────────────────┬────────────┘
            │                           │                          │
            ├───────────────────────────┼──────────────────────────┤
@@ -36,6 +37,7 @@ Five things, and the first is the one to remember:
            │                           └──▶ glossary/terms.yaml   │  the locks, as data
            ├──▶ data/*.csv                        │               │
            ├──▶ data/explorer.html                │               │
+           ├──▶ data/atlas-export.json            │               │
            └──▶ data/constellation-*.json         │               │
                                                   ▼               ▼
   ┌── ENFORCEMENT ────────────────────────  check_locks.py  ◀──────┘
@@ -54,6 +56,9 @@ Five things, and the first is the one to remember:
 
   Everything below the AUTHORITY box is generated. Delete data/ and one command
   rebuilds it; delete chapters/ and the translation is gone.
+
+  data/atlas-export.json is the one file anything outside this repository
+  reads. See "How the work reaches readers" below.
 ```
 
 ---
@@ -152,6 +157,38 @@ This is the operational heart of the system. A question about one character beco
 **A diff gate is only as good as the generator's determinism.** `export.py` orders all eleven of its queries, which is why the CSVs never drifted. `build_graph.py` ordered one of eight, so its row order came from SQLite's query planner — stable for one machine and one planner version, which is exactly the stability that breaks when the gate runs on another. Every query there is now ordered and the co-occurrence map is emitted sorted: **the output is a function of the data alone.** Before adding a diff gate to any generator, make it deterministic first, or the gate produces noise instead of findings.
 
 **The importers verify themselves.** `import_commentary.py` checks every lemma it vendors against our own base text and marks the divergent ones with `*`. That check is what makes the vendored files evidence rather than decoration — and when it was missing for 韓非 (*Hán Fēi*), the files asserted an agreement nobody had tested.
+
+---
+
+## How the work reaches readers
+
+**One file is the whole interface.** Everything a reader sees outside this repository is built from `data/atlas-export.json`, and nothing outside reads any other file here. A merge to `main` that changes the export signals every reader of it:
+
+```
+  data/atlas-export.json        contract 1: additions only, and the atlas refuses
+         │                      any other number (tools/export_atlas.py)
+         │ merge to main
+         │
+         ├──▶ notify-atlas.yml ──▶ opencosmos-ai/chinese-atlas rebuilds
+         │                           └─▶ chinese-atlas.opencosmos.ai
+         │                                 the atlas: a page per character
+         │                                 the glossary: every entry, as written
+         │
+         └──▶ notify-opencosmos.yml ──┬─▶ opencosmos.ai redeploys
+                                      │     the Library: a chapter to a page
+                                      └─▶ opencosmos-ai/knowledge regenerates
+                                            Cosmo's copy of the text
+```
+
+- **[The Character Atlas & Glossary](https://chinese-atlas.opencosmos.ai/)** ([opencosmos-ai/chinese-atlas](https://github.com/opencosmos-ai/chinese-atlas)) serves every OpenCosmos Chinese translation from one site.
+  - **The atlas** is a page per character: its parts, its 說文 analysis, every line it stands in, and each translation's rendering, taken from the gloss tiers below.
+  - **The glossary** publishes every `glossary/*.md` entry rendered as written. An entry is edited here and never there; the site is rebuilt within a minute or two of the merge, and an hourly rebuild catches a missed dispatch.
+  - Its *Suggest an edit* buttons carry the same prompts as [`CONTRIBUTING.md`](CONTRIBUTING.md), which hand a reader's suggestion to the `suggest-edit` and `contribute` skills here.
+- **[The Library](https://opencosmos.ai/library/sources/taoism-tao-te-ching)** on opencosmos.ai reads the export's `verse`, `notes`, `literal` and `align` keys, a chapter to a page, and Cosmo's copy of the text is regenerated from the same file ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)).
+
+**Each signal needs a secret, and skips with a notice without one**: `ATLAS_DISPATCH_TOKEN` for the atlas, `VERCEL_DEPLOY_HOOK` and `KNOWLEDGE_DISPATCH_TOKEN` for opencosmos.ai. A skipped dispatch is not an error, because each reader also rebuilds on its own.
+
+**A rare character can outrun the atlas's font.** The atlas ships a subset of a rare-glyph typeface, cut to the characters it shows. An entry that names a character outside every common font, as 聖's names 𡈼 (*tǐng* — a figure standing on the ground), publishes anyway; the atlas build warns, and the glyph shows as a box until `python3 -m atlas.fonts` is run in the atlas repository. The translation is never blocked by a font.
 
 ---
 
@@ -266,15 +303,20 @@ Unsuppressable rules get disabled wholesale; free suppression rots. So both hatc
 
 ## Trust tiers in the character atlas
 
-`data/characters.csv` carries a gloss for every character in the book, and the `gloss_source` column says how much to trust it.
+`data/characters.csv` carries a gloss for every character in the book, and the `gloss_source` column says how much to trust it. **The first tier that has a gloss wins, in this order**, so an entry always outranks a hand list, and a hand list always outranks the apparatus.
 
 | tier | source | trust |
 |---|---|---|
 | `locked` | a settled rendering in `terms.yaml` | high — the edition's own decision |
+| `open` | an entry whose `status:` is `open` — a recommendation, not yet a lock | high, and published as unsettled |
 | `covers` | a secondary character absorbed by an entry | high |
+| `grammar` | [`sources/grammar-glosses.yaml`](sources/grammar-glosses.yaml), the grammar words, glossed by hand from every line they stand in | reviewed |
+| `word` | [`sources/word-glosses.yaml`](sources/word-glosses.yaml), the content words with no entry, glossed by hand against the verse | reviewed |
 | `apparatus` | the `[pinyin]` notes in the source tables' Literal column, where a **strict majority** of occurrences agreed | working approximation |
 | `apparatus-split` | the apparatus glossed it and no English won a majority — **the cell is deliberately blank** | none |
 | `none` | nothing in the repository glosses it yet | — |
+
+**The two hand lists are checked against the entries.** `tools/tests/test_hand_glosses.py` fails if a listed character is not in the book, is listed twice, already has an entry (which would leave the list's gloss dead), or uses an overlay word, so a new entry has to take its character off the list.
 
 **A plurality is not a definition.** A character glossed six different ways in six places has a context, not a meaning — so the build refuses to pick one, and records the agreement ratio instead. The apparatus glosses also speak **pre-lock English** ("virtue", "the ten thousand things"), which is exactly what this edition rejects; they are a starting point and never override a lock.
 
@@ -331,6 +373,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
 | [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
+| [`CHANGELOG.md`](CHANGELOG.md) | anyone catching up | what landed, and when — the backward-looking spine |
 | [`PLAN.md`](PLAN.md) | tool builders | what the harness is, what it taught, what is deliberately not built |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | readers and writers | the findings worth an essay |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | outside contributors | four ways in, easiest first |
