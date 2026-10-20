@@ -92,6 +92,7 @@ You don't need any of this but the first. Everything else is here for whoever wa
 | `CLAUDE.md` · `AGENTS.md` | Operating context for AI collaborators and tools |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | **The findings worth writing about** — start here for what this research turned up: what later hands added, and what the book says once it comes off |
 | `WORKLIST.md` | What the manuscript still owes |
+| `WORKLIST-CLOSED.md` | What it owed and no longer does, row by row |
 | [`CHANGELOG.md`](CHANGELOG.md) | What landed, and when |
 | [`process/principles/`](process/principles/INDEX.md) | The transferable rules this work has learned by making decisions |
 | `PLAN.md` | The harness: what is built, what is deliberately not |

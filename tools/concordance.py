@@ -222,6 +222,7 @@ _RECORD = [
     ("glossary", "the ruling and its argument"),
     ("notes", "the decision, thin"),
     ("WORKLIST.md", "what is still owed"),
+    ("WORKLIST-CLOSED.md", "what was owed, and how it closed"),
     ("DISCOVERIES.md", "findings worth an essay"),
     ("chapters", "the chapter notes — where findings are born and stay"),
 ]

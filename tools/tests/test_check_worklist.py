@@ -290,6 +290,36 @@ class ChapterRows(unittest.TestCase):
         self.assertEqual(rules(t), [])
 
 
+class SplitFiles(unittest.TestCase):
+    """The failure of 2026-10-20: a file that said closed rows leave it, and
+    96 of them had not."""
+
+    def split(self, live, closed):
+        return sorted(f.rule for f in cw.check_split(live, closed))
+
+    def test_a_closed_row_left_in_the_worklist_is_caught(self):
+        live = table(row("T2-19", "✅", "9 14 15", "E"),
+                     row("T2-21", "⬜", "38 44", "E"))
+        self.assertEqual(self.split(live, table()), ["closed-row"])
+
+    def test_an_id_in_both_files_is_caught(self):
+        # Not yet shipped: the one way the split itself can drift, a
+        # reopened row copied back instead of moved.
+        live = table(row("T2-14", "🔶", "12", "E"))
+        closed = table(row("T2-14", "✅", "3 12 64", "C"))
+        self.assertEqual(self.split(live, closed), ["archived-id"])
+
+    def test_an_open_row_in_the_closed_file_is_caught(self):
+        closed = table(row("T1-18", "⬜", "30", "E"))
+        self.assertEqual(self.split(table(), closed), ["open-archived"])
+
+    def test_the_split_done_right_passes(self):
+        live = table(row("T2-21", "⬜", "38 44", "E"),
+                     row("T4-2", "⏸", "37 45", "F"))
+        closed = table(row("T2-19", "✅", "9 14 15", "E"))
+        self.assertEqual(self.split(live, closed), [])
+
+
 class LiveFile(unittest.TestCase):
     def test_the_real_worklist_is_consistent(self):
         findings, rows = cw.check(cw.WORKLIST.read_text(encoding="utf-8"))
@@ -297,6 +327,15 @@ class LiveFile(unittest.TestCase):
             findings, [],
             "WORKLIST.md drifted: " + "; ".join(f.detail for f in findings))
         self.assertGreater(len(rows), 40, "the table failed to parse")
+
+    def test_the_real_files_are_split(self):
+        findings = cw.check_split(
+            cw.WORKLIST.read_text(encoding="utf-8"),
+            cw.CLOSED.read_text(encoding="utf-8"))
+        self.assertEqual(
+            findings, [],
+            "WORKLIST.md and WORKLIST-CLOSED.md disagree: "
+            + "; ".join(f.detail for f in findings))
 
 
 if __name__ == "__main__":

@@ -28,6 +28,15 @@ What it checks:
   pass-exists      every pass letter used by an item row has a pass row
   duplicate-id     no row id appears twice
 
+And `WORKLIST-CLOSED.md` against it, since the file says a row that closes
+leaves it:
+
+  closed-row       no row in WORKLIST.md is marked done
+  archived-id      no id stands in both files, so a reopened row moves back
+                   rather than being copied, and a new row cannot take an id
+                   that a chapter note already cites for something closed
+  open-archived    every row in WORKLIST-CLOSED.md is marked done
+
 It does not check the prose sections. They carry reasoning, which cannot be
 diffed against a table, and duplicating a *decision* is not the failure mode —
 duplicating a *list* is.
@@ -43,6 +52,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WORKLIST = ROOT / "WORKLIST.md"
+CLOSED = ROOT / "WORKLIST-CLOSED.md"
 
 DONE, PART, OPEN, DEFERRED = "✅", "🔶", "⬜", "⏸"
 STATUSES = {DONE, PART, OPEN, DEFERRED}
@@ -320,6 +330,44 @@ def check(text):
     return out, rows
 
 
+def check_split(text, closed_text):
+    """
+    The forward file against the closed one.
+
+    The worklist said for two months that a closed row leaves it, and 96
+    closed rows were still in it when it was split on 2026-10-20, four of them
+    restating findings their own detail sections had marked open. A policy
+    written in prose did not hold, so it is held here.
+    """
+    live, closed = parse(text), parse(closed_text)
+    out = []
+    for r in live:
+        if r.status == DONE:
+            out.append(Finding(
+                "closed-row",
+                f"{r.id} (line {r.line_no}) is marked done but is still in "
+                f"WORKLIST.md",
+                "move the row, word for word, to WORKLIST-CLOSED.md → "
+                "*Closed rows*, with any prose that described it"))
+    archived = {r.id: r for r in closed}
+    for r in live:
+        if r.id in archived:
+            out.append(Finding(
+                "archived-id",
+                f"{r.id} is in WORKLIST.md (line {r.line_no}) and in "
+                f"WORKLIST-CLOSED.md (line {archived[r.id].line_no})",
+                "a reopened row moves back and leaves the closed file; a new "
+                "row takes an unused id"))
+    for r in closed:
+        if r.status != DONE:
+            out.append(Finding(
+                "open-archived",
+                f"{r.id} (WORKLIST-CLOSED.md line {r.line_no}) is marked "
+                f"{r.status}, not done",
+                "an open row belongs in WORKLIST.md"))
+    return out
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -328,6 +376,8 @@ def main():
 
     text = WORKLIST.read_text(encoding="utf-8")
     findings, rows = check(text)
+    if CLOSED.exists():
+        findings += check_split(text, CLOSED.read_text(encoding="utf-8"))
 
     if args.json:
         print(json.dumps([asdict(f) for f in findings], ensure_ascii=False, indent=2))

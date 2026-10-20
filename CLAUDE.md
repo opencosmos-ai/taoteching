@@ -232,6 +232,7 @@ process/legacy-tao-source-code.md   ⚠ archived, contains SUPERSEDED renderings
 DISCOVERIES.md        ★ the findings worth writing about — read when taking stock
 WORKLIST.md           ★ the one forward-looking file — what the manuscript still owes
                       (was RETROFIT.md + EDITING-PASS.md, merged 2026-08-28)
+WORKLIST-CLOSED.md    every closed row, moved word for word — where a cited T2-19 resolves
 PLAN.md               the harness — phases A–F built 2026-08-11; build.py still deferred
 ARCHITECTURE.md       ★ how the system fits together — read before changing tooling
                       (authorities · what is generated · the gates · the rules)
@@ -267,7 +268,7 @@ python3 tools/build_principles.py --applies drafting   # what fires on the work 
 python3 tools/fix-linebreaks.py                  # REQUIRED after editing any verse
 python3 tools/build_db.py && python3 tools/export.py && python3 tools/build_graph.py \
   && python3 tools/export_atlas.py               # REQUIRED after editing chapters or glossary: data/ is gated
-python3 tools/check_worklist.py                  # WORKLIST.md against its own table
+python3 tools/check_worklist.py                  # WORKLIST.md against its own table and WORKLIST-CLOSED.md
 python3 -m unittest discover -s tools/tests      # the tools' own tests
 python3 tools/check_counts.py                    # the counts the docs claim, against their sources
 python3 tools/check_retractions.py               # no copy of a withdrawn claim survives

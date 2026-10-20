@@ -31,7 +31,7 @@ Use all three when harvesting. Use the third habitually, because it is the one t
 **Pass 1 — self-declared.** The rule announces itself.
 
 ```bash
-grep -rniE "standing principle|general rule|general finding|the finding that outlives|principle this yields|rules? (came out of it|worth keeping)" notes/ CLAUDE.md DISCOVERIES.md ARCHITECTURE.md PLAN.md WORKLIST.md glossary/
+grep -rniE "standing principle|general rule|general finding|the finding that outlives|principle this yields|rules? (came out of it|worth keeping)" notes/ CLAUDE.md DISCOVERIES.md ARCHITECTURE.md PLAN.md WORKLIST.md WORKLIST-CLOSED.md glossary/
 ```
 
 High precision, poor recall. It only finds principles someone already knew were principles.
