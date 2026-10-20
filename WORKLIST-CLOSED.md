@@ -4,7 +4,7 @@
 
 *Where the reasoning lives is unchanged: the ruling and its argument in [`glossary/`](glossary/INDEX.md), the decision in `notes/`, the milestones in [`CHANGELOG.md`](CHANGELOG.md). Each row below says which.*
 
-*Split out of `WORKLIST.md` on 2026-10-20. The text below was moved, not rewritten; only the headings* Status lines from the top of the worklist *and* Notes that sat under the table *are new.*
+*Split out of `WORKLIST.md` on 2026-10-20. Text was moved word for word; the few lines written that day say so, with the date.*
 
 ---
 
@@ -115,6 +115,32 @@
 | T5-9 | ✅ | ~~`data/` is generated but nothing gates it~~ — atlas rebuilt-and-diffed in CI; `build_graph.py` made deterministic | — | G |
 | T5-16 | ✅ | ~~**The atlas publishes open entries as locked**~~ — **fixed 2026-10-14.** `build_db.py` now carries each entry's `status:` through: `lock_status` and the gloss tier read `open` for a recommendation, and `build_explorer.py` / `build_graph.py` set the lock flag only for `locked`. **No contract change was needed** — the atlas already reads a 0/1 `lock`, which was simply wrong for 極 · 命 · 虛. Guarded by `test_open_entries_are_not_published_as_locked` | — | G |
 | T5-19 | ✅ | ~~**`concordance.py --english` handed a word to the first entry whose `render:` contained it, prose included**~~ — so 善's parenthetical claimed *only* and 聖's claimed *alone*. Now a parenthetical never claims a word, an exact render beats an earlier substring, and an entry that also holds the word exactly is named. **Found by T2-43** | — | G |
+| | | **Found done at the split, 2026-10-20** — rows still marked open whose work had already landed | | |
+| T1-18 | ✅ | ~~佐 → *"One who rules"* — follows 河上公 against the grammar, unlogged~~ — **found done 2026-10-20:** fixed under T2-61 on 2026-10-14 (Shalom's call); ch 30 reads *"One who supports a ruler with the Tao"*, after 王弼 | 30 | E |
+| T2-16 | ✅ | ~~**事** wants an entry; 無事's licensed split needs confirming~~ — **found done 2026-10-20:** `glossary/shi-事.md` has been locked since 2026-08-14 and licenses the split (*meddle* at 48 and 57, *serve* at 63), and the verses match. The row was carried over from `RETROFIT.md`, which had closed it on 2026-08-12 | 48 57 63 | E |
+| T2-30 | ✅ | ~~**夷** three ways — *the invisible* (14) · *smooth* (41) · *level* (53).~~ 說文 平也. *Found by the ch 35 reverse check: *level* was about to be taken for 平.* **Ch 14's half settled at T2-52 (2026-09-10) — its *the invisible* stands and the link is carried in notes. What is open is 41 vs 53** — **found done 2026-10-20:** 41 and 53 both read *level*, ch 41 since 2026-09-07 | 14 41 53 | E |
+
+---
+
+## Closed parts of rows still open
+
+*When a row stays open but part of it is finished, the finished part comes here, word for word, and the row in `WORKLIST.md` keeps only what is owed. The open row is the current one; this is what it no longer says. First filled at the split, 2026-10-20.*
+
+- **PE** — ~~**守 執 保 持**~~ (T2-19 ★, closed 2026-09-08) · ~~**身**~~ (T2-1 ★, closed 2026-09-20). The row also listed 事 and 恃 as owed, though both entries were already locked; the pass row now points at its rows instead of keeping a list.
+- **PF** — ~~民/人~~ (T4-1, 2026-10-14)
+- **T2-2** — **Ch 3 is closed (2026-08-31, with T1-3):** 無知 → *unknowing*, 智者 → **the knowers**, and *cunning* is off the chapter. The word was chosen because **the commentators diverge on who the 智者 are** — 王弼 prints 智者 and glosses 智者謂知為也 (*"those who know how to handle"*), 河上公 prints 知者 with the phonetic note 知音智 and glosses 思慮深不輕言, almost verbatim what he says of the *approving* 知者 at ch 56 — so any English specific enough to settle it picks a side. Fork now in `sources/variants.yaml` and `notes/manuscript.md`. · And from Tier 3: **Ch 33 — 力/強** — closed by Pass A, but the chapter's remaining couplets are worth a look when 智 is settled.
+- **T2-24** — ch 8's *depth* is gone — 心善淵 now reads *"In the heart, masterful at staying deep"* (seen 2026-09-24)
+- **T2-39** — ~~**名 → *description* at ch 25**~~ — *found done 2026-09-24:* ch 25 now reads *"Forcing a name on it, I call it great."* The row also said the line above, 字之曰道 (*zì zhī yuē dào* — "I style it Tao"), reads *"Forcing a label on it"* though **強 (*qiáng* — to force) is not in that line**. **That was wrong** (found 2026-10-20): our base prints 強字之曰道 (`source/chinese.md`, `chapters/025.md`); 強 is missing only from the 王弼 and 河上公 lemmas.
+- **T2-62** — ~~**脆** two Englishes, *tender* 慈's~~ → *fragile* at 64 and 76, 2026-10-15
+- **T4-3** — *(ch 28's two and ch 15's one went with their rewrites, not by decision)*; ch 29's went the same way, and the row's count read 17 lines in one place and 14 in another.
+- **T4-5** — entries written for 一 (`yi-一.md`), 身, 士 and 恃, four of the thirteen the row once named.
+- **T4-6** — G1 closed 2026-08-28.
+- **R2** — *“…and the atlas therefore publishes righteousness”* — no longer: the atlas has carried *duty* for 義 since 2026-10-15, from `sources/word-glosses.yaml`.
+- **R3** — The lemma forks logged were ch 8 正 (*zhèng* — straight), ch 15 久 (*jiǔ* — long), ch 54 國 (*guó* — state), ch 78 是為 (*shì wéi* — "this is"). One confirms a call made blind: his 蔽覆盖也 (*bì fù gài yě* — "蔽 means covered") is ch 15's 2026-09-06 reading of 蔽 exactly.
+- **T5-3** — ~~*clever*~~ *(settled by T1-17: now 明's ch 65 flexion, so it cannot also be forbidden)* · *(無為 gained *effortless* / *without effort* / *takes no action* with T1-3 and T1-4; these three stand)*
+- **T5-4** — Pass A found two two-way violations no rule can reach: 固 at ch 55 and 壯 at ch 30 and 55 had borrowed 強's English **inside chapters that contain 強**, so the evidence gate that makes the checker trustworthy is exactly what blinds it.
+- **T5-22** — The one true finding of the 2026-08-30 measurement was in `process/method.md`, which rendered 玄牝 (*xuán pìn*) as *"the mysterious female"* where 玄 is locked to **dark**; fixed the same day.
+- **T1-26, T1-27, T2-64, T5-22** were not rows before the split. Each was a *still owed* clause inside a closed paragraph above — T2-14 (ch 12's 妨), T1-17 (ch 65's *return*), T2-11 (殆 and 畏) and Tier 5 item 1 (`glossary-self-check`) — owed and tracked nowhere.
 
 ---
 
