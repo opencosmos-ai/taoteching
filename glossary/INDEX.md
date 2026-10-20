@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**57 entries.** Sorted by how much of the book each term touches.
+**59 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -60,6 +60,8 @@ python3 tools/build_index.py
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |
+| **混** | *hùn* | mixed (adjective) · to mix (verb) | "chaos", "chaotic", "undifferentiated", "blend", "merge" | 3 | **locked** | [`hun-混.md`](hun-混.md) |
+| **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **百姓** | *bǎi xìng* | everyone | "the people", "the hundred families", "the hundred surnames", "the masses", "the common people" | 3 | **locked** | [`baixing-百姓.md`](baixing-百姓.md) |
 | **知足** | *zhī zú* | knowing you have enough / contentment | "sufficiency", "fulfilled" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
@@ -86,6 +88,7 @@ python3 tools/build_index.py
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
+| **濁** | muddy | [`qing-清.md`](qing-清.md) — 清 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |

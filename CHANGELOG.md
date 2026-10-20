@@ -33,6 +33,13 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-19 — 混 and 清 get entries, and they turn out not to be opposites
+
+- **[`glossary/hun-混.md`](glossary/hun-混.md)**: 混 (*hùn*) → *mixed*, locked. 說文 豐流也, a river in flood, and every one of its three lines is praise.
+- **[`glossary/qing-清.md`](glossary/qing-清.md)**: 清 (*qīng*) → *clear*, locked, with its real opposite 濁 (*zhuó*) → *muddy* covered. 說文 澂水之皃, *the look of water that has settled*. *Clarity* stays 明's noun, and *purity* is forbidden.
+- **Ch 15 is where they meet**, as two ends of one passage: *"Mixed, like muddy water. Who can be muddy, and by stilling it slowly come clear?"*
+- **A retraction**: ch 25's old *"formed in the undifferentiated"* had survived in four glossary entries.
+
 ## 2026-10-19 — 唯 is *only*, and one frame reads one way in nine lines
 
 夫唯 (*fú wéi* — "now, only") opens twelve lines in eleven chapters, nine of them one causal frame, and the English had five shapes for it and dropped it twice. Shalom's call settles it.

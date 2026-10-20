@@ -198,7 +198,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 禮,lǐ,ritual / rites (31),,禮,exact,示,phonetic-compound,靈啓切,示 (shì = show) + 豊 (? = not yet glossed),豊 (? = not yet glossed),5,,0.0332,履也，所以事神致福也。从示，从豊，豊亦聲。,
 病,bìng,"sick, sickness / be sick of / harm (44)",,病,exact,疒,phonetic-compound,,疒 (nè = a person on a sickbed — illness),丙 (? = not yet glossed),9,,0.0331,疾加也。从疒丙聲。,
 教,jiào,teaching / to teach,,教,exact,教,compound,,攴 (pū = a hand striking — action done to something) + 孝 (xiào = devotion),,5,,0.033,上所施下所效也。从攴从孝。凡教之屬皆从教。,
-清,qīng,make it clear,,清,exact,水,phonetic-compound,,水 (shuǐ = water),"青 (qīng = blue-green, the colour of growing things)",4,,0.0328,朖也。澂水之皃。从水青聲。,
+清,qīng,clear,clear,清,exact,水,phonetic-compound,,水 (shuǐ = water),"青 (qīng = blue-green, the colour of growing things)",4,locked,0.0328,朖也。澂水之皃。从水青聲。,"Bright. The look of water that has settled. From 水 (shuǐ — water), with 青 (qīng) for sound."
 禍,Huò,disaster,,禍,exact,示,phonetic-compound,胡果切,示 (shì = show),咼 (? = not yet glossed),4,,0.0328,害也，神不福也。从示，咼聲。,
 軍,jūn,army/campaign,,軍,exact,車,compound,,車 (chē = cart) + 包 (? = not yet glossed),,4,,0.0328,圜圍也。四千人爲軍。从車，从包省。軍，兵車也。,
 海,hǎi,sea,,海,exact,水,phonetic-compound,,水 (shuǐ = water),每 (? = not yet glossed),3,,0.0325,天池也。以納百川者。从水每聲。,
@@ -235,7 +235,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = ruler / sovereign · to rule (verb)) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
 氣,qì,vital breath,,氣,exact,米,phonetic-compound,,米 (mǐ = grains of rice),气 (? = not yet glossed),3,Tier 3,0.0282,饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”,
 深,Shēn,So deep,,深,exact,水,phonetic-compound,,水 (shuǐ = water),罙 (? = not yet glossed),3,,0.0282,水。出桂陽南平，西入營道。从水罙聲。,
-混,hùn,mixed / mix together,,混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,
+混,hùn,mixed (adjective) · to mix (verb),mixed (adjective) · to mix (verb),混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,"An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 隨,suí,follow,,隨,exact,辵,phonetic-compound,,"也 (yě = (closes a statement: it is so)) + 辵 (chuò = walking, going along a road)",𡐦 (? = not yet glossed),3,,0.0282,从也。从辵，𡐦省聲。,
 公,gōng,impartiality / impartial (the quality) · lord / minister (the office),impartiality / impartial (the quality) · lord / minister (the office),公,exact,八,compound,,"八 (bā = eight; to divide, to part) + 厶 (sī = enclosing for oneself — the private)",,4,locked,0.0274,平分也。从八从厶。八猶背也。韓非曰：背厶爲公。,
 味,wèi,flavors/tastes,,味,exact,口,phonetic-compound,,口 (kǒu = mouths),未 (wèi = not yet),4,,0.0274,滋味也。从口未聲。,
@@ -342,7 +342,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 全,quán,whole · stay whole · keep whole (transitive),whole · stay whole · keep whole (transitive),仝,old-form,入,compound,,"入 (rù = enter) + 工 (gōng = a carpenter's square — work, craft)",,3,Tier 3,0.0189,完也。从入从工。,
 恍,huǎng,"vague (惚恍, the elusive)",,怳,old-form,心,phonetic-compound,,心 (xīn = heart),況 (kuàng = how much more / let alone),4,,0.0189,狂之皃。从心，況省聲。,
 惚,hū,elusive,,忽,old-form,心,phonetic-compound,,心 (xīn = heart),勿 (wù = do not),4,,0.0189,忘也。从心勿聲。,
-濁,zhuó,muddy,,濁,exact,水,phonetic-compound,,水 (shuǐ = water),蜀 (shǔ = a caterpillar),2,,0.0187,水。出齊郡厲嬀山，東北入鉅定。从水蜀聲。,
+濁,zhuó,muddy,muddy,濁,exact,水,phonetic-compound,,水 (shuǐ = water),蜀 (shǔ = a caterpillar),2,locked,0.0187,水。出齊郡厲嬀山，東北入鉅定。从水蜀聲。,
 辯,biàn,argue / argument (45),,辯,exact,辡,compound,,"言 (yán = words / speak, speech / saying) + 在 (zài = place in) + 辡 (? = not yet glossed) + 之 (zhī = of ('s) / it, them / (links a modifier to its noun)) + 閒 (? = not yet glossed)",,3,,0.0187,治也。从言在辡之閒。,
 乘,shèng,chariot (萬乘) / ride (80),,椉,old-form,桀,compound,,入 (rù = enter),,2,,0.0185,覆也。从入、桀。桀，黠也。軍法曰乘。,
 交,jiāo,converge / confluence (61),,交,exact,交,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,2,,0.0185,交脛也。从大，象交形。凡交之屬皆从交。,

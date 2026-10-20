@@ -19,7 +19,7 @@ Set the character beside its neighbor. 女 (nǚ) is *woman* — the old graph dr
 
 ### What 母 does in the Daodejing
 
-The Tao's oldest and warmest name is not "the Way." It is **the mother**. She is 萬物之母, the mother of the countless things (1); 天下母, the mother of the world (25) — "formed in the undifferentiated, born before heaven and earth," and able to bear it all. In Chapter 20 the sage marks themselves off from everyone precisely by *how they feed*: while the crowd gorges on the world's spectacle, 我獨異於人，而貴食母 — "I alone am different, and I prize **nursing from the mother**." The image is exact and unembarrassed — the sage as an infant at the breast, drawing sustenance straight from the source, while the world feasts on noise. And in Chapter 59 she is the **root**: 有國之母，可以長久 — hold the mother and you endure, "deep roots and a firm base, the way of long life."
+The Tao's oldest and warmest name is not "the Way." It is **the mother**. She is 萬物之母, the mother of the countless things (1); 天下母, the mother of the world (25) — "mixed and complete, born before sky and earth," and able to bear it all. In Chapter 20 the sage marks themselves off from everyone precisely by *how they feed*: while the crowd gorges on the world's spectacle, 我獨異於人，而貴食母 — "I alone am different, and I prize **nursing from the mother**." The image is exact and unembarrassed — the sage as an infant at the breast, drawing sustenance straight from the source, while the world feasts on noise. And in Chapter 59 she is the **root**: 有國之母，可以長久 — hold the mother and you endure, "deep roots and a firm base, the way of long life."
 
 ### The return — womb and refuge (52)
 

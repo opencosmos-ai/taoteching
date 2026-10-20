@@ -59,7 +59,7 @@ All four of Laozi's lines sit on the disorder side — a heart stirred by what i
 
 **"chaos"** was the rendering at chapter 18, and it is the one to refuse.
 
-It is a **cosmological** word in English — Hesiod's Χάος, the void before creation, *chaos and old night* — and it points at the wrong end of this book's cosmology. Where Laozi does describe an undifferentiated beginning he uses 混成 (*hùn chéng*, ch 25), rendered *"something formed in the undifferentiated."* 亂 is not that. It is **political and domestic**: a state coming apart, a household out of harmony, a heart stirred up.
+It is a **cosmological** word in English — Hesiod's Χάος, the void before creation, *chaos and old night* — and it points at the wrong end of this book's cosmology. Where Laozi does describe an undifferentiated beginning he uses 混成 (*hùn chéng*, ch 25), rendered *"something mixed and complete"* (`glossary/hun-混.md`). 亂 is not that. It is **political and domestic**: a state coming apart, a household out of harmony, a heart stirred up.
 
 And it is the wrong shape for the graph. **Chaos is a condition with nobody in it.** 亂 has two hands in it. You cannot catch chaos early; you can catch a tangle early, which is the whole of chapter 64.
 

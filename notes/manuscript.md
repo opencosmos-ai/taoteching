@@ -464,7 +464,7 @@ Our base reads 無**狎**其所居 (*wú xiá qí suǒ jū*). 河上公's lemma 
 
 無狎其所居，無厭其所生 — *"do not crowd **their** place of dwelling, do not weary **what gives them** life."* Classical Chinese lets 其 (*qí*) float; English cannot.
 
-**王弼 reads it as the people's.** His note is entirely political: 離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻 — *"leave that pure stillness, act on restless desire, abandon humble deference, rely on awe and power: then the countless things are disturbed and the people turn crooked."* The subject is a ruler and the objects are subjects.
+**王弼 reads it as the people's.** His note is entirely political: 離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻 — *"leave that clear cleanness, act on restless desire, abandon humble deference, rely on awe and power: then the countless things are disturbed and the people turn crooked."* The subject is a ruler and the objects are subjects.
 
 **河上公 reads it as your own.** 其所居 is where the **spirit** dwells — the heart. 其所生 is what **keeps you alive** — 人所以生者爲有精神，託空虛，喜清淨, *"what makes a person alive is having vital essence and spirit, lodged in emptiness, delighting in pure stillness."* The offence is not taxation but appetite: 飲食不節，忽道念色，邪僻滿腹，爲伐本厭神 — *"eating without restraint, neglecting the Tao and dwelling on lust, depravity filling the belly: this cuts down the root and crushes the spirit."* His chapter title is 〈愛己〉, **loving oneself**.
 

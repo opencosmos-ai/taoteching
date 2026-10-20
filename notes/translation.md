@@ -2966,3 +2966,15 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 *(Shalom's call, 2026-10-19. Entry: `glossary/wei-唯.md`. `WORKLIST.md` T2-43.)*
 
 **夫唯 (*fú wéi* — "now, only") opened 12 lines in 11 chapters, with five Englishes and two silences:** *Because* (2, 8, 22), *Precisely because* (15, twice), *Only because* (67, 70), *Only when* (71, 72), *Only* (41), and nothing at 59 and 75. Nine of the lines are one causal frame, 夫唯 X，是以 / 故 Y (*shì yǐ / gù* — therefore), and all nine now read *"Only because X, Y,"* with the clause after it inverted: *"Only because it is great does it look like nothing."* **The evidence is the commentators, not the graph.** 河上公 reaches for 獨 (*dú* — alone) four times on these lines, and 王弼 writes the frame himself at ch 70, 唯深，故知之者希, *"only because it is deep, those who know it are few."* *When* failed at ch 67, where greatness is not an occasion, and at ch 15, which is past. Ch 59 and ch 75 gain *Only*. Ch 21's 惟 (*wéi*), the same particle, goes from *simply* to *only*. Ch 66 keeps *Because*, since its 以其不爭 (*yǐ qí bù zhēng* — because they do not contend) has no 唯. **Cost:** two negatives across an inversion at 2 and 72. **Forbidden:** *precisely*. *Alone* is 獨's at ch 20 and cannot be forbidden.
+
+## 混 (*hùn*) → *mixed*, and 清 (*qīng*) → *clear*, two entries — and 濁 → *muddy*
+
+*(Entries 2026-10-19: `glossary/hun-混.md`, `glossary/qing-清.md`. `WORKLIST.md` T2-40, T2-59.)*
+
+**No verse changed.** 混 has read *mixed* or *mix* in all three of its lines since 2026-09-06, and 清 *clear* in all four. The entries lock what was settled and add the evidence. 說文 gives 混 as 豐流也, *an abundant flow*, and 清 as 澂水之皃, *the look of water that has settled*.
+
+**They are not opposites.** The book's opposite of 清 is 濁 (*zhuó* — muddy), covered in 清's entry, and ch 15 only likens 混 to it: 混兮其若濁，孰能濁以靜之徐清, *"Mixed, like muddy water. Who can be muddy, and by stilling it slowly come clear?"* 王弼 runs the turn beside two others: 晦以理物則得明，濁以静物則得清，安以動物則得生, *"dim to bright, muddy to clear, at rest to alive."* 河上公 calls the 混成 Tao of ch 25 清淨, *"clear and clean."* Each entry names the other at ch 15, as neighbours in one passage, not as a pair.
+
+**Forbidden.** For 混: *chaos*, *chaotic*, *undifferentiated*, *blend*, *merge*. For 清: *pure*, *purity*, *purify*, the later 清淨 overlay, and *clarity*, which is 明's noun and shares no chapter with 清. **Ch 41 keeps bare *clear* for 明** (*"The clear Tao seems murky"*). That is a ruling no check can hold, recorded in both entries: *bright* is already 皦's, 昭's and 光's.
+
+**Found on the way.** Ch 25's old English, *"something formed in the undifferentiated,"* still stood in four glossary entries six weeks after the verse changed, and is retracted. 河上公 prints 渾 (*hún*) for 混 at ch 15, now recorded. And 渾 at ch 49 reads *muddy*, 濁's word, though it is 混's (T2-63).

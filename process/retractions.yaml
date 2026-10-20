@@ -125,3 +125,14 @@
     sound-loan, also written 惟, 維 and bare 隹; the case for rendering it
     "only" rests on usage and the commentators, not on the graph.
   see: "glossary/wei-唯.md"
+
+- id: ch25-formed-in-the-undifferentiated
+  retracted: 2026-10-19
+  claim: >
+    Ch 25's 有物混成 reads "something formed in the undifferentiated."
+  match: ["formed in the undifferentiated"]
+  correction: >
+    Since 2026-09-06 the verse reads "Something mixed and complete." 混 is
+    locked to "mixed," and "undifferentiated" is on its forbidden list.
+  see: "glossary/hun-混.md"
+  allow: ["PLAN.md", "process/legacy-tao-source-code.md"]
