@@ -238,7 +238,7 @@ And it holds hand-written prose to the facts it restates:
 
 | Check | Proves |
 |---|---|
-| `check_worklist.py` | `WORKLIST.md`'s pass rows, chapter lists and tally match its own table |
+| `check_worklist.py` | `WORKLIST.md`'s pass rows, chapter lists and tally match its own table; no closed row stays in it, and no id stands in both it and `WORKLIST-CLOSED.md` |
 | `check_counts.py` | every **marked** count in the docs matches the source it counts |
 | `check_retractions.py` | no claim withdrawn in [`process/retractions.yaml`](process/retractions.yaml) is stated again anywhere |
 
@@ -376,6 +376,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
 | [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
+| [`WORKLIST-CLOSED.md`](WORKLIST-CLOSED.md) | anyone following a cited row id | what was owed, and where its closing lives |
 | [`CHANGELOG.md`](CHANGELOG.md) | anyone catching up | what landed, and when — the backward-looking spine |
 | [`PLAN.md`](PLAN.md) | tool builders | what the harness is, what it taught, what is deliberately not built |
 | [`DISCOVERIES.md`](DISCOVERIES.md) | readers and writers | the findings worth an essay |

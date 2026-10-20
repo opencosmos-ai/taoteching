@@ -93,7 +93,7 @@ An issue needs the evidence as much as a PR does. Run all three:
 python3 tools/concordance.py 死                 # every line the character stands in, book-wide
 python3 tools/concordance.py --record 谷神       # what this repo has argued about it
 grep -rn -i --exclude-dir=skills -e "deathless" -e "谷神" \
-  notes/ process/ glossary/ WORKLIST.md chapters/006.md
+  notes/ process/ glossary/ WORKLIST.md WORKLIST-CLOSED.md chapters/006.md
 ```
 
 - **Query the single character for the book-wide picture** (死 shows every use;
@@ -103,7 +103,7 @@ grep -rn -i --exclude-dir=skills -e "deathless" -e "谷神" \
   not the translation — and the **`│` lines** are the edition's verse, the
   *whole chapter's*, not aligned to the line above: find the sentence that
   renders it.
-- **`--record` searches the glossary, the notes, `WORKLIST.md` and the chapter
+- **`--record` searches the glossary, the notes, both worklist files and the chapter
   notes, but not `process/`**, and only for the Chinese. The `grep` covers the
   English word and the rest. A chapter's `## Notes` may be empty while the
   reasoning sits elsewhere (`process/overlay-audit.md`, `notes/reading.md`).

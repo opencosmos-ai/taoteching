@@ -44,7 +44,7 @@ python3 tools/concordance.py --record 亂
 
 | Where | What it does |
 |---|---|
-| **`tools/concordance.py --record`** | prints every place the repository has written about a character, grouped by layer: `glossary/`, `notes/`, `WORKLIST.md`, `DISCOVERIES.md`, and chapter notes. Chapter **source tables are excluded**, because they print the character on every line it occurs in. The term's **own entry collapses to a pointer**, because that is the one place nobody forgets to look |
+| **`tools/concordance.py --record`** | prints every place the repository has written about a character, grouped by layer: `glossary/`, `notes/`, `WORKLIST.md`, `WORKLIST-CLOSED.md`, `DISCOVERIES.md`, and chapter notes. Chapter **source tables are excluded**, because they print the character on every line it occurs in. The term's **own entry collapses to a pointer**, because that is the one place nobody forgets to look |
 | **`process/method.md` §3** | step zero, before the four corners. It is framed as a prior step and not a fifth corner, because the corners are evidence about the Chinese and the record is our own reasoning |
 | **`chapter-review` skill, step 0** | in the opening command block, beside `--witnesses`, `--commentary` and `--formulas` |
 | **`glossary-entry` skill, §1** | the first command in the evidence block |

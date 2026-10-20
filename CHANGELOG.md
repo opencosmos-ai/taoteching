@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-19
+**Last updated:** 2026-10-20
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-20 — The worklist holds only what is owed
+
+`WORKLIST.md` said a closed row leaves it. 96 had not, and its detail sections had become a second, drifting copy of its table. It went from 554 lines to 96.
+
+- **[`WORKLIST.md`](WORKLIST.md)**: 56 open rows, each carrying its own detail, grouped by tier. Nothing below the table.
+- **[`WORKLIST-CLOSED.md`](WORKLIST-CLOSED.md)**: every closed row and the prose that described it, moved word for word, so a row id cited in a chapter note or a tool's comment still resolves with one search.
+- **Re-checking every open row against the manuscript** found three already done (T1-18, T2-16, T2-30) and four owed items that lived only inside closed paragraphs, now rows: ch 12's 妨 (*fáng* — to hinder) reading *corrupt* (T1-26), ch 65's *return* rendering no character (T1-27), entries for 殆 (*dài* — danger) and 畏 (*wèi* — to fear) (T2-64), and `glossary-self-check` (T5-22).
+- **`check_worklist.py`** now holds the split: `closed-row`, `archived-id` and `open-archived`. `concordance.py --record` searches both files.
 
 ## 2026-10-19 — 混 and 清 get entries, and they turn out not to be opposites
 
