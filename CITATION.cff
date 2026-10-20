@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "道德經 · Tao Te Ching — a translation from the classical Chinese"
+title: "The Open Tao Te Ching · 道德經"
 message: >-
   Citation is welcome but never required. This work is dedicated CC0: you may
   reproduce, adapt, perform, sell, or build on it with no permission and no
@@ -13,7 +13,7 @@ authors:
 repository-code: "https://github.com/opencosmos-ai/taoteching"
 license: CC0-1.0
 abstract: >-
-  A from-the-source English translation of the Tao Te Ching, built chapter by
+  The Open Tao Te Ching: a from-the-source English translation of the Tao Te Ching, built chapter by
   chapter from the classical Chinese — never from other people's translations.
   The repository carries the translation, a radical-level glossary of settled
   renderings, a variant apparatus recording where the oldest manuscripts
@@ -25,6 +25,7 @@ abstract: >-
   evidence, and genuine ambiguities are left open rather than resolved by fiat.
 keywords:
   - Tao Te Ching
+  - Open Tao Te Ching
   - Daodejing
   - Laozi
   - classical Chinese
@@ -49,7 +50,7 @@ keywords:
 # sensible entry rather than a software citation.
 preferred-citation:
   type: book
-  title: "道德經 · Tao Te Ching — a translation from the classical Chinese"
+  title: "The Open Tao Te Ching · 道德經"
   authors:
     - family-names: Ormsby
       given-names: Shalom
