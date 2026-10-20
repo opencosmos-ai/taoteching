@@ -21,7 +21,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 謂,wèi,called,,謂,exact,言,phonetic-compound,,"言 (yán = words / speak, speech / saying)",胃 (? = not yet glossed),35,,0.2208,報也。从言胃聲。,
 聖,shèng,"the sage · sagehood (聖 alone, ch 19)","the sage · sagehood (聖 alone, ch 19)",聖,exact,耳,phonetic-compound,,耳 (ěr = ears),呈 (? = not yet glossed),31,locked,0.2173,通也。从耳呈聲。,"Getting through. From 耳 (ěr — the ear), with 呈 (chéng) for sound."
 可,kě,can be (可 + verb) / can (可以 + verb) / cannot (不可),can be (可 + verb) / can (可以 + verb) / cannot (不可),可,exact,可,phonetic-compound,,口 (kǒu = mouths) + 丂 (kǎo = a breath pushing out past a barrier),丂 (kǎo = a breath pushing out past a barrier),36,locked,0.2143,𦘫也。从口丂，丂亦聲。凡可之屬皆从可。,"To consent. From 口 (kǒu — mouth) and 丂 (kǎo), and 丂 also gives the sound."
-夫,Fū,"now (opening a statement) / that, those",,夫,exact,夫,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,30,,0.2079,丈夫也。从大，一以象簪也。周制以八寸爲尺，十尺爲丈。人長八尺，故曰丈夫。凡夫之屬皆从夫。,
+夫,Fú,"now (opening a statement) / that, those",,夫,exact,夫,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,30,,0.2079,丈夫也。从大，一以象簪也。周制以八寸爲尺，十尺爲丈。人長八尺，故曰丈夫。凡夫之屬皆从夫。,
 生,shēng,give birth to / bear / bring forth,give birth to / bear / bring forth,生,exact,生,pictograph,,,,38,locked,0.2064,進也。象艸木生出土上。凡生之屬皆从生。,
 則,zé,then / and so,,則,exact,刀,compound,,"刀 (dāo = a knife) + 貝 (bèi = a cowrie shell — money, worth)",,32,,0.201,等畫物也。从刀从貝。貝，古之物貨也。,
 得,dé,"get, gain / receive (39) / find",,得,exact,彳,phonetic-compound,,彳 (chì = a step taken; going),㝵 (? = not yet glossed),33,,0.1998,行有所得也。从彳㝵聲。,
@@ -50,7 +50,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 身,shēn,body,body,身,exact,身,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𠂆 (? = not yet glossed),23,locked,0.1194,躳也。象人之身。从人𠂆聲。凡身之屬皆从身。,
 足,zú,enough / foot (64),,足,exact,足,compound,,止 (zhǐ = stopping point),,19,,0.1178,人之足也。在下。从止、口。凡足之屬皆从足。,
 上,Shàng,highest / above / those over (75),,上,exact,丄,unanalysed,時掌切,,,19,,0.1139,高也。此古文上，指事也。凡丄之屬皆从丄。,
-唯,wéi,only / (夫唯) only because / a 'yes' (20),,唯,exact,口,phonetic-compound,,口 (kǒu = mouths),隹 (zhuī = a short-tailed bird),16,,0.1121,諾也。从口隹聲。,
+唯,wéi,only,only,唯,exact,口,phonetic-compound,,口 (kǒu = mouths),隹 (zhuī = a short-tailed bird),16,locked,0.1121,諾也。从口隹聲。,"A yes, the word of assent. From 口 (kǒu — mouth), with 隹 (zhuī — a short-tailed bird) for sound."
 曰,yuē,is called / says,,曰,exact,曰,phonetic-compound,,口 (kǒu = mouths),乙 (? = not yet glossed),22,,0.1118,詞也。从口乙聲。亦象口气出也。凡曰之屬皆从曰。,
 與,yǔ,"and / with / to give / (closes a question, 77)",,與,exact,舁,compound,,舁 (yú = four hands lifting together) + 与 (? = not yet glossed),,15,,0.1114,黨與也。从舁从与。,
 然,rán,so / thus / (然後) only then,,然,exact,火,phonetic-compound,,火 (huǒ = fire),肰 (? = not yet glossed),12,Tier 1,0.1075,燒也。从火肰聲。,
@@ -140,7 +140,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 正,zhèng,set right / upright / norm (58),,正,exact,正,compound,,止 (zhǐ = stopping point),,7,,0.0504,是也。从止，一以止。凡正之屬皆从正。,
 母,mǔ,mother,mother,母,exact,女,compound,,女 (nǚ = a woman),,7,locked,0.0493,牧也。从女，象褱子形。一曰象乳子也。,
 聞,wén,hearing,,聞,exact,耳,phonetic-compound,,耳 (ěr = ears),門 (mén = gate / door),7,,0.0493,知聞也。从耳門聲。,
-雖,Suī,although / even if,,雖,exact,虫,phonetic-compound,,"虫 (chóng = an insect, a crawling creature)",唯 (wéi = only / (夫唯) only because / a 'yes' (20)),6,,0.048,似蜥蜴而大。从虫唯聲。,
+雖,Suī,although / even if,,雖,exact,虫,phonetic-compound,,"虫 (chóng = an insect, a crawling creature)",唯 (wéi = only),6,,0.048,似蜥蜴而大。从虫唯聲。,
 同,tóng,merge/identify,,同,exact,𠔼,compound,,𠔼 (? = not yet glossed) + 口 (kǒu = mouths),,11,,0.0472,合會也。从𠔼从口。,
 動,dòng,move / movement,,動,exact,力,phonetic-compound,,力 (lì = force),重 (Zhòng = Heavy/mass),5,,0.0467,作也。从力重聲。,
 愛,Ài,loving/cherishing,,愛,exact,夊,phonetic-compound,,"夊 (suī = walking slowly, dragging the feet)",㤅 (? = not yet glossed),5,,0.0467,行皃。从夊㤅聲。,
@@ -434,7 +434,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 貞,zhēn,standard,,貞,exact,卜,compound,,卜 (? = not yet glossed),,1,,0.0141,卜問也。从卜，貝以爲贄。一曰鼎省聲。京房所說。,
 辭,cí,refuse,,辭,exact,辛,compound,,𤔔 (? = not yet glossed),,1,,0.0141,訟也。从𤔔，𤔔猶理辜也。𤔔，理也。,
 關,guān,"bolt (關楗, locks)",,關,exact,門,phonetic-compound,,門 (mén = gate / door),𢇅 (? = not yet glossed),1,,0.0141,以木橫持門戶也。从門𢇅聲。,
-惟,wéi,only,,惟,exact,心,phonetic-compound,,心 (xīn = heart),隹 (zhuī = a short-tailed bird),3,,0.0135,凡思也。从心隹聲。,
+惟,wéi,only,only,惟,exact,心,phonetic-compound,,心 (xīn = heart),隹 (zhuī = a short-tailed bird),3,locked,0.0135,凡思也。从心隹聲。,
 邦,bāng,"state, realm",,邦,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",丰 (? = not yet glossed),3,,0.0135,國也。从邑丰聲。,
 鄉,xiāng,"community, village",,𨞰,old-form,𨛜,phonetic-compound,,𨛜 (? = not yet glossed),皀 (? = not yet glossed),3,,0.0135,國離邑，民所封鄉也。嗇夫別治。封圻之内六鄉，六鄉治之。从𨛜皀聲。,
 匠,jiàng,carpenter,,匠,exact,匚,compound,,匚 (? = not yet glossed) + 斤 (jīn = an axe),,2,,0.0133,木工也。从匚从斤。斤，所以作器也。,

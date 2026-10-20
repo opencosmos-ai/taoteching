@@ -114,6 +114,18 @@
     on 2026-08-31 (T2-11) and ch 28 on 2026-09-01 (T1-7).
   see: "WORKLIST.md#the-finding"
 
+- id: wei-graph-means-solely
+  retracted: 2026-10-19
+  claim: >
+    唯's graph, 隹 (a short-tailed bird) beside 口 (mouth), means "solely, and
+    nothing else."
+  match: ["beside 口 (mouth) — **solely", "隹 (a short-tailed bird) beside 口 (mouth) — solely"]
+  correction: >
+    說文 gives 唯 as 諾也, "a yes," with 隹 for the sound only. "Only" is a
+    sound-loan, also written 惟, 維 and bare 隹; the case for rendering it
+    "only" rests on usage and the commentators, not on the graph.
+  see: "glossary/wei-唯.md"
+
 - id: ch25-formed-in-the-undifferentiated
   retracted: 2026-10-19
   claim: >

@@ -40,6 +40,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 - **Ch 15 is where they meet**, as two ends of one passage: *"Mixed, like muddy water. Who can be muddy, and by stilling it slowly come clear?"*
 - **A retraction**: ch 25's old *"formed in the undifferentiated"* had survived in four glossary entries.
 
+## 2026-10-19 — 唯 is *only*, and one frame reads one way in nine lines
+
+夫唯 (*fú wéi* — "now, only") opens twelve lines in eleven chapters, nine of them one causal frame, and the English had five shapes for it and dropped it twice. Shalom's call settles it.
+
+- **[`glossary/wei-唯.md`](glossary/wei-唯.md)**, locked: 唯 (*wéi*) → *only*, and the frame 夫唯…是以 / 故 (*therefore*) → *"Only because X, Y,"* with the clause after it inverted. 河上公 (*Héshàng Gōng*) reaches for 獨 (*dú* — alone) four times on these lines, and 王弼 (*Wáng Bì*) writes the frame himself. 惟 (*wéi*), the same particle, is covered.
+- **Ten chapters swept**: 2, 8, 15, 21, 22, 59, 70, 71, 72, 75. Ch 72's *when*, Shalom's own call of 2026-08-24, becomes *because*, and ch 66 keeps a plain *Because* since its line has no 唯.
+- **A retraction**: 說文 (*Shuōwén*) gives 唯 as 諾 (*nuò* — "yes"), so a note that read *solely* off the graph is withdrawn ([`process/retractions.yaml`](process/retractions.yaml)).
+- **`concordance.py --english` stops reading parentheticals** (WORKLIST T5-19). It had been handing *only* to 善 (*shàn* — masterful), which meant the reverse check for this very lock could never name 唯.
+
 ## 2026-10-17 — A withdrawn claim can no longer survive in another file
 
 A stale-doc sweep found the Ch 25 claim (both silks read 人, *human*, so the oldest witnesses lack the king) still stated as fact in eleven files, two months after `sources/variants.yaml` corrected it. Among them were `CLAUDE.md`, the `chapter-review` skill and a principle, the three things an AI session loads first. The correction had been made in one place, and nothing looked for the copies.

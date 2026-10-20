@@ -19,7 +19,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,9,2,生而弗有，,"shēng ér fú yǒu,",they are born and the Sage does not possess;,"The countless things arise, and the sage does not begin them. / They are born, and the sage does not possess them.",proportional
 2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"The sage acts, yet relies on nothing.",proportional
 2,11,2,功成而弗居。,gōng chéng ér fú jū.,work is accomplished and the Sage takes no credit.,"The work is done, and the sage does not stay in it.",proportional
-2,12,2,夫唯弗居，是以不去。,"Fū wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.","Because the sage does not stay, it does not leave.",proportional
+2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not leave.,proportional
 3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","By not exalting the exceptional, the people have no cause to contend.",exact-count
 3,2,1,不貴難得之貨，使民不為盜；,"bù guì nán dé zhī huò, shǐ mín bù wéi dào;","do not prize rare goods, so that people do not steal;","By not prizing rare goods, the people do not become thieves.",exact-count
 3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","By not displaying the desirable, the people's hearts are not thrown into disorder.",exact-count
@@ -66,8 +66,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 8,9,2,政善治，,"zhèng shàn zhì,","in governing \[zheng\], be good at order/management \[zhi\],","In government, masterful at order.",exact-count
 8,10,2,事善能，,"shì shàn néng,","in affairs/tasks \[shi\], be good at ability/competence \[neng\],","In affairs, masterful at what can be done.",exact-count
 8,11,2,動善時。,dòng shàn shí.,"in moving/action \[dong\], be good at timing \[shi\].","In moving, masterful at timing.",exact-count
-8,12,3,夫唯不爭，,"Fū wéi bù zhēng,","Now only/precisely \[fu wei\] because it does not contend \[zheng\],","Because it does not contend,",exact-count
-8,13,3,故無尤。,gù wú yóu.,therefore \[gu\] there is no \[wu\] blame/fault \[you\].,there is no blame.,exact-count
+8,12,3,夫唯不爭，,"Fú wéi bù zhēng,","Now only/precisely \[fu wei\] because it does not contend \[zheng\],",Only because it does not contend,exact-count
+8,13,3,故無尤。,gù wú yóu.,therefore \[gu\] there is no \[wu\] blame/fault \[you\].,is there no blame.,exact-count
 9,1,1,持而盈之，,"Chí ér yíng zhī,","Holding/grasping \[chi\] and \[er\] filling \[ying\] it \[zhi\],","Rather than keep filling what you hold, stop.",proportional
 9,2,1,不如其已；,bù rú qí yǐ;,is not as good as \[bu ru\] stopping \[yi\];,"Rather than keep filling what you hold, stop.",proportional-fill
 9,3,1,揣而銳之，,"chuǎi ér ruì zhī,","hammering/feeling \[chuai\] and sharpening \[rui\] it,","Hammer a point ever sharper, and it will not keep for long.",proportional
@@ -155,8 +155,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 15,1,1,古之善為士者，,"Gǔ zhī shàn wéi shì zhě,","The ancient \[gu\] ones who were masterful \[shan\] at being \[wei\] scholars/officers \[shi\],",The ancients who were masterful in service,exact-count
 15,2,1,微妙玄通，,"Wēi miào xuán tōng,","Were microscopic/subtle \[wei\], highly-optimized/marvelous \[miao\], dark/profound \[xuan\], and penetrating/connected \[tong\],","were faint, subtle, dark, and unobstructed,",exact-count
 15,3,1,深不可識。,Shēn bù kě shí.,So deep \[shen\] they could not \[bu ke\] be known/understood \[shi\].,so deep they could not be read.,exact-count
-15,4,2,夫唯不可識，,"Fū wéi bù kě shí,","Now precisely because \[fu wei\] they could not \[bu ke\] be known \[shi\],","Precisely because they could not be read,",exact-count
-15,5,2,故強為之容：,Gù qiǎng wèi zhī róng:,Therefore \[gu\] I force/compel \[qiang\] a description/appearance \[rong\] for \[wei\] them \[zhi\]:,I force a likeness:,exact-count
+15,4,2,夫唯不可識，,"Fú wéi bù kě shí,","Now precisely because \[fu wei\] they could not \[bu ke\] be known \[shi\],",Only because they could not be read,exact-count
+15,5,2,故強為之容：,Gù qiǎng wèi zhī róng:,Therefore \[gu\] I force/compel \[qiang\] a description/appearance \[rong\] for \[wei\] them \[zhi\]:,do I force a likeness:,exact-count
 15,6,2,豫兮若冬涉川；,Yù xī ruò dōng shè chuān;,Hesitant/careful \[yu\] oh \[xi\]\! Like \[ruo\] crossing \[she\] a river \[chuan\] in winter \[dong\];,"Careful, like wading across a river in winter.",exact-count
 15,7,2,猶兮若畏四鄰；,Yóu xī ruò wèi sì lín;,Cautious/watchful \[you\] oh \[xi\]\! Like \[ruo\] fearing \[wei\] neighbors on all four sides \[si lin\];,"Hesitant, like someone wary of the neighbors on all four sides.",exact-count
 15,8,2,儼兮其若客；,Yǎn xī qí ruò kè;,Reserved/dignified \[yan\] oh \[xi\]\! Like \[ruo\] a guest \[ke\];,"Dignified, like a guest.",exact-count
@@ -167,8 +167,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 15,13,3,孰能濁以靜之徐清？,Shú néng zhuó yǐ jìng zhī xú qīng?,Who \[shu\] can \[neng\] take the murky \[zhuo\] and by \[yi\] stilling \[jing\] it \[zhi\] slowly \[xu\] make it clear \[qing\]?,"Who can be muddy, and by stilling it slowly come clear?",exact-count
 15,14,3,孰能安以動之徐生？,Shú néng ān yǐ dòng zhī xú shēng?,Who \[shu\] can \[neng\] take the calm/at rest \[an\] and by \[yi\] moving/stirring \[dong\] it \[zhi\] slowly \[xu\] bring it to life/generate \[sheng\]?,"Who can be at rest, and by moving it slowly come to life?",exact-count
 15,15,4,保此道者不欲盈。,Bǎo cǐ dào zhě bù yù yíng.,Those who guard/preserve \[bao\] this \[ci\] Tao \[dao\] do not \[bu\] desire \[yu\] to be full/overflowing \[ying\].,Those who keep the Tao safe like this have no wish to be full.,exact-count
-15,16,4,夫唯不盈，,"Fū wéi bù yíng,","Now precisely because \[fu wei\] they are not \[bu\] full \[ying\],","Precisely because they are never full,",exact-count
-15,17,4,故能蔽而不新成。,Gù néng bì ér bù xīn chéng.,Therefore \[gu\] they can \[neng\] be worn out/concealed \[bi\] and \[er\] not \[bu\] newly \[xin\] compiled/completed \[cheng\].,"they can stay covered, and never newly made.",exact-count
+15,16,4,夫唯不盈，,"Fú wéi bù yíng,","Now precisely because \[fu wei\] they are not \[bu\] full \[ying\],",Only because they are never full,exact-count
+15,17,4,故能蔽而不新成。,Gù néng bì ér bù xīn chéng.,Therefore \[gu\] they can \[neng\] be worn out/concealed \[bi\] and \[er\] not \[bu\] newly \[xin\] compiled/completed \[cheng\].,"can they stay covered, and never newly made.",exact-count
 16,1,1,致虛極，,"Zhì xū jí,","Reach/attain \[zhi\] the extreme/limit \[ji\] of emptiness/void \[xu\],",Go totally empty.,proportional
 16,2,1,守靜篤。,Shǒu jìng dǔ.,Guard/hold \[shou\] stillness/tranquility \[jing\] firmly/sincerely \[du\].,Hold steadily to stillness.,proportional
 16,3,2,萬物並作，,"Wàn wù bìng zuò,","The ten thousand \[wan\] things/entities \[wu\] simultaneously \[bing\] arise/act \[zuo\],","The countless things arise together,",proportional
@@ -232,7 +232,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 20,23,4,而我獨頑似鄙。,ér wǒ dú wán sì bǐ.,Yet \[er\] I \[wo\] alone \[du\] am stubborn \[wan\] and seem \[si\] rustic/uncouth \[bi\].,I alone differ from others:,proportional
 20,24,4,我獨異於人，,"Wǒ dú yì yú rén,","I \[wo\] alone \[du\] am different \[yi\] from \[yu\] others \[ren\],",I prize feeding from the mother.,proportional
 20,25,4,而貴食母。,ér guì shí mǔ.,And \[er\] I value/prize \[gui\] feeding/eating \[shi\] from the mother \[mu\].,I prize feeding from the mother.,proportional-fill
-21,1,1,孔德之容，,"Kǒng dé zhī róng,","The appearance/capacity \[rong\] of great/hollow \[kong\] virtue/power \[de\],",The greatest integrity simply follows the Tao.,proportional
+21,1,1,孔德之容，,"Kǒng dé zhī róng,","The appearance/capacity \[rong\] of great/hollow \[kong\] virtue/power \[de\],",The greatest integrity follows only the Tao.,proportional
 21,2,1,惟道是從。,wéi dào shì cóng.,Only \[wei\] follows \[cong\] the Tao \[dao\].,"Whatever the Tao is, it is only vague, only elusive.",proportional
 21,3,1,道之為物，,"Dào zhī wéi wù,","The Tao's \[dao\] functioning as \[wei\] an entity/matter \[wu\],","Elusive and vague, and within it there is an image.",proportional
 21,4,1,惟恍惟惚。,wéi huǎng wéi hū.,Is only \[wei\] elusive/indistinct \[huang\] and evasive/blurry \[hu\].,"Elusive and vague, and within it there is an image.",proportional-fill
@@ -256,7 +256,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 22,10,3,不自是，故彰；,"Bù zì shì, gù zhāng;","Does not \[bu\] self \[zi\] assert right/justify \[shi\], therefore \[gu\] is prominent/manifest \[zhang\];","They do not claim the work, and so the work is theirs.",proportional
 22,11,3,不自伐，故有功；,"Bù zì fá, gù yǒu gōng;","Does not \[bu\] self \[zi\] boast/attack \[fa\], therefore \[gu\] has \[you\] merit/success \[gong\];","They do not boast, and so they endure.",proportional
 22,12,3,不自矜，故長。,"Bù zì jīn, gù cháng.","Does not \[bu\] self \[zi\] pride/pity \[jin\], therefore \[gu\] endures/lasts long \[chang\].","They do not boast, and so they endure.",proportional-fill
-22,13,4,夫唯不爭，,"Fū wéi bù zhēng,","Now only/precisely \[fu wei\] not \[bu\] contending/competing \[zheng\],","Because they do not contend, no one in the world can contend with them.",proportional
+22,13,4,夫唯不爭，,"Fú wéi bù zhēng,","Now only/precisely \[fu wei\] not \[bu\] contending/competing \[zheng\],",Only because they do not contend can no one in the world contend with them.,proportional
 22,14,4,故天下莫能與之爭。,Gù tiān xià mò néng yǔ zhī zhēng.,Therefore \[gu\] the world \[tian xia\] no one \[mo\] can \[neng\] with \[yu\] them \[zhi\] contend \[zheng\].,"When the ancients said ""bend, and stay whole,"" were those empty words?",proportional
 22,15,4,古之所謂「曲則全」者，,"Gǔ zhī suǒ wèi ""qū zé quán"" zhě,","The ancients' \[gu zhi\] so-called \[suo wei\] ""bent then whole"" \[qu ze quan\] those \[zhe\],","When the ancients said ""bend, and stay whole,"" were those empty words?",proportional-fill
 22,16,4,豈虛言哉！,Qǐ xū yán zāi\!,How could it be \[qi\] empty \[xu\] words \[yan\] alas \[zai\]\!,These words hold. Return to them. Stay whole.,proportional
@@ -634,7 +634,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 58,10,3,直而不肆，,"zhí ér bù sì,","Straight but does not overreach/extend recklessly,","straight but does not overreach,",exact-count
 58,11,3,光而不耀。,guāng ér bù yào.,Luminous but does not blind/dazzle.,bright but does not dazzle.,exact-count
 59,1,1,治人事天，莫若嗇。,"Zhì rén shì tiān, mò ruò sè.","In governing people and serving heaven, there is nothing like frugality/conservation.","When governing people and serving nature, nothing compares to conserving.",exact-count
-59,2,1,夫唯嗇，是謂早服；,"Fú wéi sè, shì wèi zǎo fú;","Only through frugality, is it called submitting early;","Conserving is called accepting early,",exact-count
+59,2,1,夫唯嗇，是謂早服；,"Fú wéi sè, shì wèi zǎo fú;","Only through frugality, is it called submitting early;","Only conserving is called accepting early,",exact-count
 59,3,1,早服謂之重積德；,Zǎo fú wèi zhī zhòng jī dé;,Submitting early is called heavily accumulating Virtue/Power (Te);,"accepting early is called a heavy accumulation of integrity,",exact-count
 59,4,1,重積德則無不克；,Zhòng jī dé zé wú bù kè;,"Heavily accumulating Virtue, there is nothing that cannot be overcome;","a heavy accumulation of integrity is when nothing cannot be overcome,",exact-count
 59,5,1,無不克則莫知其極；,Wú bù kè zé mò zhī qí jí;,"When nothing cannot be overcome, no one knows its limit;","when nothing cannot be overcome, no one knows its limit,",exact-count
@@ -732,17 +732,17 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 70,1,1,吾言甚易知，甚易行。,"Wú yán shèn yì zhī, shèn yì xíng.","My words are very easy to understand, very easy to execute.","My words are very easy to know, / very easy to follow.",proportional
 70,2,1,天下莫能知，莫能行。,"Tiān xià mò néng zhī, mò néng xíng.","No one in the world can understand them, no one can execute them.","In all the world, no one can know them. / No one can follow them.",proportional
 70,3,2,言有宗，事有君。,"Yán yǒu zōng, shì yǒu jūn.","Words have an ancestor/root, affairs have a sovereign/master.",Words have an ancestor. / Affairs have a ruler.,proportional
-70,4,2,夫唯無知，是以不我知。,"Fú wéi wú zhī, shì yǐ bù wǒ zhī.","Precisely because they lack understanding, therefore they do not understand me.","Only because there is no knowing it, / they do not know me.",proportional
+70,4,2,夫唯無知，是以不我知。,"Fú wéi wú zhī, shì yǐ bù wǒ zhī.","Precisely because they lack understanding, therefore they do not understand me.",Only because there is no knowing it / do they not know me.,proportional
 70,5,3,知我者希，則我者貴。,"Zhī wǒ zhě xī, zé wǒ zhě guì.","Those who understand me are rare, those who follow/model me are valued.",Those who know me are few. / Those who pattern themselves on me are precious.,proportional
 70,6,3,是以聖人被褐而懷玉。,Shì yǐ shèng rén pī hè ér huái yù.,Therefore the Sage wears coarse clothes but carries jade in their bosom.,"Therefore, the sage wears coarse cloth, but carries jade against their chest.",proportional
 71,1,0,知不知，上；,"Zhī bù zhī, shàng;","Knowing that one does not know, is superior/highest;",To know you do not know is highest.,exact-count
 71,2,0,不知知，病。,"Bù zhī zhī, bìng.","Not knowing yet thinking one knows, is a disease/flaw.",To not know yet claim to know is sickness.,exact-count
-71,3,0,夫唯病病，是以不病。,"Fú wéi bìng bìng, shì yǐ bù bìng.","Only by recognizing the disease as a disease, therefore one is not diseased.",Only when you are sick of the sickness are you not sick.,exact-count
+71,3,0,夫唯病病，是以不病。,"Fú wéi bìng bìng, shì yǐ bù bìng.","Only by recognizing the disease as a disease, therefore one is not diseased.",Only because you are sick of the sickness are you not sick.,exact-count
 71,4,0,聖人不病，以其病病，是以不病。,"Shèng rén bù bìng, yǐ qí bìng bìng, shì yǐ bù bìng.","The Sage is not diseased, because they recognize the disease as a disease, therefore they are not diseased.",The sage is not sick because they are sick of the sickness.,exact-count
 72,1,1,民不畏威，則大威至。,"Mín bù wèi wēi, zé dà wēi zhì.","When the people do not fear authority/might, then great authority/might arrives.","When the people no longer fear authority, / the great collapse comes.",proportional
 72,2,1,無狎其所居，無厭其所生。,"Wú xiá qí suǒ jū, wú yàn qí suǒ shēng.","Do not crowd/harass their place of residence, do not oppress/weary their livelihood.",Do not crowd people in their homes.,proportional
 72,3,1,夫唯不厭，是以不厭。,"Fú wéi bù yàn, shì yǐ bù yàn.","Precisely because one does not oppress them, therefore they do not find it oppressive.",Do not oppress their livelihoods.,proportional
-72,4,2,是以聖人自知，不自見；,"Shì yǐ shèng rén zì zhī, bù zì jiàn;","Therefore the Sage knows self, but does not display self;","Only when you do not oppress them will they not tire of you. / And so the sage knows themselves and does not display themselves,",proportional
+72,4,2,是以聖人自知，不自見；,"Shì yǐ shèng rén zì zhī, bù zì jiàn;","Therefore the Sage knows self, but does not display self;","Only because you do not oppress them do they not tire of you. / And so the sage knows themselves and does not display themselves,",proportional
 72,5,2,自愛，不自貴。,"Zì ài, bù zì guì.","Loves self, but does not esteem/exalt self.",loves themselves and does not hold themselves precious.,proportional
 72,6,2,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore discard that and choose this.,They let go of what is out there and take what is here.,proportional
 73,1,1,勇於敢則殺，,"Yǒng yú gǎn zé shā,","Brave in daring, then (one) gets killed;",Bravery in pushing gets you killed. / Bravery in not pushing keeps you alive.,proportional
@@ -763,7 +763,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 75,1,1,民之飢，以其上食稅之多，是以飢。,"Mín zhī jī, yǐ qí shàng shí shuì zhī duō, shì yǐ jī.","The hunger of the people, because their superiors consume taxes in such quantity, therefore they are hungry.",The people go hungry / because those over them eat up so much in taxes.,proportional
 75,2,2,民之難治，以其上之有為，是以難治。,"Mín zhī nán zhì, yǐ qí shàng zhī yǒu wéi, shì yǐ nán zhì.","The people are difficult to govern, because their superiors have ""doing"" (interference), therefore they are difficult to govern.",The people are hard to govern / because those over them will not stop doing.,proportional
 75,3,2,民之輕死，以其上求生之厚，是以輕死。,"Mín zhī qīng sǐ, yǐ qí shàng qiú shēng zhī hòu, shì yǐ qīng sǐ.","The people treat death lightly, because their superiors seek ""life"" (luxury) with such thickness/profuseness, therefore they treat death lightly.",The people make light of death / because those over them want their own lives so rich.,proportional
-75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Those who don't use living for doing / are worthier than those who hold life precious.,proportional
+75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Only those who don't use living for doing / are worthier than those who hold life precious.,proportional
 76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and weak; at death it is rigid and hard/strong.,"In life a person is soft and yielding. / In death, hard and strong.",proportional
 76,2,1,萬物草木之生也柔脆，其死也枯槁。,"Wàn wù cǎo mù zhī shēng yě róu cuì, qí sǐ yě kū gǎo.",The ten thousand things—grass and trees—are in life supple and fragile; at death they are withered and dried.,"In life the countless things, the grasses and trees, are soft and fragile. / In death, withered and dry.",proportional
 76,3,2,故堅強者死之徒，,"Gù jiān qiáng zhě sǐ zhī tú,","Therefore the rigid and hard/strong are the disciples/company of death,",So the hard and strong are followers of death.,proportional
