@@ -102,3 +102,14 @@
     the public atlas is chinese-atlas.opencosmos.ai, built from
     data/atlas-export.json.
   see: "ARCHITECTURE.md#how-the-work-reaches-readers"
+
+- id: early-half-needs-second-draft
+  retracted: 2026-10-19
+  claim: >
+    Chapters 1-41 need a second draft rather than another sweep, and ch 25
+    and 28 still drop 周行 and 常.
+  match: ["second draft of chapters 1–41", "Chapters 1–41 are the affected range"]
+  correction: >
+    Pass D closed its chapter-level rewrites on 2026-09-07; ch 25 was repaired
+    on 2026-08-31 (T2-11) and ch 28 on 2026-09-01 (T1-7).
+  see: "WORKLIST.md#the-finding"
