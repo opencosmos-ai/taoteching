@@ -321,7 +321,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 和,hé,harmonious,semantic,glossed,1,利
 員,,,phonetic,"no gloss needed: present for sound, not meaning",1,損
 哭,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,喪
-唯,wéi,only / (夫唯) only because / a 'yes' (20),phonetic,glossed,1,雖
+唯,wéi,only,phonetic,glossed,1,雖
 啚,,,phonetic,"no gloss needed: present for sound, not meaning",1,鄙
 啚,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,圖
 喬,,,phonetic,"no gloss needed: present for sound, not meaning",1,驕

@@ -191,3 +191,59 @@ class TheRecord(unittest.TestCase):
     def test_a_character_with_no_record_returns_nothing_and_does_not_fail(self):
         """A blank result is an answer, not an error — recall tools never fail."""
         self.assertEqual(self.record("鱷"), [])
+
+
+def term(char, render, forbidden=(), flexions=()):
+    return corpus.Term(term=char, pinyin="", render=render, forbidden=list(forbidden),
+                       chapters=[], status="locked", entry=f"glossary/{char}.md",
+                       flexions=list(flexions))
+
+
+class EnglishAttribution(unittest.TestCase):
+    """Which entry --english reports for an English word (WORKLIST T5-19).
+
+    It used to take the first entry whose whole render string contained the
+    word, prose included. 善's "good (only where the text names the category)"
+    therefore claimed "only", and 唯, which renders it, could never be named.
+    """
+
+    def test_a_reason_in_parentheses_never_claims_a_word(self):
+        terms = [term("善", "masterful · good (only where the text names the category)"),
+                 term("唯", "only")]
+        lock, rivals = co.lock_for_english("only", terms)
+        self.assertEqual(lock.term, "唯")
+        self.assertEqual(rivals, [])
+
+    def test_a_word_only_a_parenthesis_holds_is_tied_to_nothing(self):
+        lock, _ = co.lock_for_english("alone", [term("聖", "the sage · sagehood (聖 alone, ch 19)")])
+        self.assertIsNone(lock)
+
+    def test_an_exact_render_beats_an_earlier_substring(self):
+        terms = [term("守", "hold to / guard"), term("持", "hold")]
+        self.assertEqual(co.lock_for_english("hold", terms)[0].term, "持")
+
+    def test_a_substring_still_finds_its_entry(self):
+        lock, _ = co.lock_for_english("clear", [term("明", "clear-seeing / clarity")])
+        self.assertEqual(lock.term, "明")
+
+    def test_prose_outside_parentheses_does_not_outrank_an_earlier_entry(self):
+        """強's render states a grammatical condition as prose, which is allowed."""
+        terms = [term("萬物", "the countless things"),
+                 term("強", "strong · forcing where it strains against a thing's nature")]
+        lock, rivals = co.lock_for_english("thing", terms)
+        self.assertEqual(lock.term, "萬物")
+        self.assertEqual(rivals, [])
+
+    def test_a_padded_forbidden_word_still_matches(self):
+        """' king' is padded so the gate does not fire on 'making'."""
+        terms = [term("事", "affairs · making"), term("王", "the king", forbidden=[" king"])]
+        self.assertEqual(co.lock_for_english(" king", terms)[0].term, "王")
+
+    def test_a_declared_flexion_is_found(self):
+        t = term("唯", "only", flexions=[{"english": "yes", "chapters": [20], "why": ""}])
+        self.assertEqual(co.lock_for_english("yes", [t])[0].term, "唯")
+
+    def test_two_entries_holding_one_word_exactly_are_both_reported(self):
+        terms = [term("身", "body", forbidden=["soul"]), term("魄", "aliveness", forbidden=["soul"])]
+        lock, rivals = co.lock_for_english("soul", terms)
+        self.assertEqual((lock.term, [r.term for r in rivals]), ("身", ["魄"]))
