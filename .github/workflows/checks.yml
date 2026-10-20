@@ -92,6 +92,18 @@ jobs:
             exit 1
           }
 
+      # A correction is made in one place and the claim it corrects has usually
+      # been copied into several. The Ch 25 claim stood as fact in eleven files
+      # two months after it was corrected. Every withdrawn claim is registered
+      # in process/retractions.yaml, and no copy of one may survive.
+      - name: no withdrawn claim survives
+        run: |
+          python3 tools/check_retractions.py || {
+            echo "::error::a claim this repository has withdrawn is stated again above, with what is true."
+            echo "::error::correct that line; a line that announces its own correction (Corrected…, once said…) is not a copy."
+            exit 1
+          }
+
       # Errors only, so a failure shows just what has to change. Warnings and
       # info get their own step below, where they cannot be mistaken for it.
       - name: the locks

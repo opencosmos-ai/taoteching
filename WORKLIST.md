@@ -544,4 +544,5 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clarity"*, matching 守柔曰強 | `chapters/052.md` |
 | 2026-10-17 | 聖 → **the sage**, 聖 alone → *sagehood*, its own entry; the overlay watchlist's first term | `glossary/sheng-聖.md` |
 | 2026-10-17 | Witnesses corrected: ch 49's 恒無心 is silk B (A is damaged); both silks read 君子 at ch 26; silk B lacks ch 73's 是以聖人猶難之 | `sources/variants.yaml` · `notes/manuscript.md` |
+| 2026-10-17 | `check_retractions.py` — a withdrawn claim fails CI wherever it is copied; 6 seeded, 2 missed copies found | `process/retractions.yaml` · `tools/check_retractions.py` |
 | 2026-10-19 | **"The finding" retired** — *"This is two books"* was closed by Pass D (2026-09-07) and still read as owed; ch 25 and 28, listed as standing, were repaired 2026-08-31 and 2026-09-01 | this file · `CLAUDE.md` |

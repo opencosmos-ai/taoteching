@@ -33,6 +33,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-17 — A withdrawn claim can no longer survive in another file
+
+A stale-doc sweep found the Ch 25 claim (both silks read 人, *human*, so the oldest witnesses lack the king) still stated as fact in eleven files, two months after `sources/variants.yaml` corrected it. Among them were `CLAUDE.md`, the `chapter-review` skill and a principle, the three things an AI session loads first. The correction had been made in one place, and nothing looked for the copies.
+
+- **[`process/retractions.yaml`](process/retractions.yaml)** registers each withdrawn claim: what was said, the phrases that say it, what is true, and where that is argued. **[`tools/check_retractions.py`](tools/check_retractions.py)** fails CI on any copy, in any `.md`, `.yaml` or `.cff` file. It spares dated history, a line that announces its own correction, and a section under a ⚠ banner. It is the glossary's `forbidden:` list, applied to facts.
+- **Six retractions seeded**, each verified that day: the Ch 25 king; chapter 1's two superseded first lines; "the atlas updates within the hour"; CLAUDE.md's dissolved *Current state*; the "future" lock checker; and `data/` as "the character atlas".
+- **It found two copies the sweep had missed** on its first run: [`witnesses-before-drafting`](process/principles/witnesses-before-drafting.md), a principle every chapter review loads, and a 天子 note in `notes/translation.md`. Both are corrected.
+- **A correction now has two halves**, written into `CLAUDE.md`, `ARCHITECTURE.md` and the PR template: fix the line, and register the claim.
+
 ## 2026-10-17 — The Open Tao Te Ching is announced, and 聖 gets its entry
 
 **Shalom launched the translation publicly in [*Welcome to the Open Tao Te Ching*](https://shalomormsby.substack.com/p/welcome-to-the-open-tao-te-ching)**, subtitled *offered with love to the public domain*, in the [Open Tao Te Ching section](https://shalomormsby.substack.com/s/open-tao-te-ching) of The Daily Mystic on Substack. The post makes chapter 1's opening paradox its case study, invites readers to critique and improve the translation, and points them to [the Library](https://opencosmos.ai/library/sources/taoism-tao-te-ching), the [Character Atlas](https://chinese-atlas.opencosmos.ai/) and its [glossary](https://chinese-atlas.opencosmos.ai/glossary/), and this repository. Chapters are to follow there, each with translator's notes.

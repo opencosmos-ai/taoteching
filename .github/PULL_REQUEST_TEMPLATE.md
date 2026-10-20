@@ -27,6 +27,7 @@ python3 tools/build_db.py && python3 tools/export.py \
   && python3 tools/build_graph.py && python3 tools/export_atlas.py
 ```
 
+- [ ] If this corrects something the repository stated, the withdrawn claim is added to `process/retractions.yaml`, so no other copy survives
 - [ ] The checks pass, and `data/` (and the glossary index, if an entry changed) is rebuilt and committed — CI fails a PR whose generated files are stale. Everything CI runs is in `.github/workflows/checks.yml`.
 
 <!--

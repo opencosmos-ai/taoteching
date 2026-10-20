@@ -1,0 +1,115 @@
+# process/retractions.yaml — claims this repository has withdrawn, so no copy survives
+#
+# A correction is made in one place and the claim it corrects has usually been
+# copied into five. On 2026-08-20 the Ch 25 apparatus was corrected (every
+# excavated witness reads 王, king; 人, human, is a transmitted reading), and
+# two months later the withdrawn claim still stood as fact in eleven files,
+# among them CLAUDE.md, a skill and a principle, the three things an AI session
+# loads first. Nobody had a way to find the copies but reading.
+#
+# So a correction now has two halves: fix the place you found, and add the
+# withdrawn claim here. `tools/check_retractions.py` then fails the build on
+# every copy anywhere in the repository, today and later. Same idea as a
+# glossary entry's `forbidden:` list, applied to facts instead of renderings.
+#
+# WHAT IS NOT A COPY, and is never flagged:
+#   - CHANGELOG.md, which is dated history;
+#   - a line that announces its own correction: "Corrected", "withdrawn",
+#     "superseded", "retracted", "once said", "formerly", "(was", "~~" or ⚠;
+#   - a section (a heading down to the next heading of its level or higher)
+#     that carries a ⚠ banner, as DISCOVERIES.md §1 and §4 do;
+#   - the paths in an entry's `allow:`, for a file that is history by design.
+#
+# THE SHAPE (read by a strict hand parser, like everything here — keep to it):
+#
+#   - id: kebab-case, unique
+#     retracted: YYYY-MM-DD           # Pacific time, the date the correction was made
+#     claim: >                        # what was said, in a sentence
+#       ...
+#     match: ["phrase", "phrase"]     # case-insensitive substrings; specific enough
+#                                     # that a legitimate sentence cannot contain them
+#     correction: >                   # what is true, in a sentence
+#       ...
+#     see: "path or path#anchor"      # where the correction is argued
+#     allow: ["path/glob*.md"]        # optional
+#
+# A phrase that fires on a legitimate sentence is too broad: make it longer,
+# never add the legitimate file to `allow:` to quiet it.
+
+- id: ch25-oldest-witnesses-lack-the-king
+  retracted: 2026-08-20
+  claim: >
+    At Ch 25 both Mawangdui silks read 人 (human) where our base reads 王
+    (king), the older silk has no king in the passage, and so the oldest
+    witnesses lack the king.
+  match: ["silks read 人", "silk has no king", "no king anywhere in the passage", "king the oldest witnesses do not have", "four greats that the oldest witnesses do not have", "king the silks do not have", "oldest witnesses proved", "caught mid-drift"]
+  correction: >
+    Every excavated witness reads 王 at Ch 25: Guodian, both silks, Beida. 人
+    is a transmitted reading (傅奕, Tang; 范應元, Song), and the verse follows it
+    on internal grounds, the next line's 人法地 (humans follow earth).
+  see: "notes/manuscript.md#ch-25-王亦大-人亦大-king-or-human-among-the-four-greats"
+
+- id: ch1-line1-superseded-wording
+  retracted: 2026-10-16
+  claim: >
+    Chapter 1's first line reads "The Tao that can be spoken…" or "The Tao
+    that can be made into a way…".
+  match: ["Tao that can be spoken is not the ever-present Tao", "Tao that can be made into a way is not"]
+  correction: >
+    "The Tao that can be made a way is not the ever-present Tao." Spoken gave
+    way on 2026-10-14, and "into" was dropped on 2026-10-16.
+  see: "chapters/001.md"
+  allow: ["source/archive-google-doc-final-export-*.md"]
+
+- id: atlas-updates-within-the-hour
+  retracted: 2026-10-17
+  claim: >
+    The atlas updates itself within the hour of a merge.
+  match: ["atlas updates itself within the hour"]
+  correction: >
+    notify-atlas.yml dispatches on merge and the atlas is rebuilt within a
+    minute or two; the hourly rebuild is only the fallback.
+  see: "ARCHITECTURE.md#how-the-work-reaches-readers"
+
+- id: claude-md-current-state-section
+  retracted: 2026-08-30
+  claim: >
+    CLAUDE.md has a "Current state" section to read at session start.
+  match: ["with *Current state* below", "→ *Current state*"]
+  correction: >
+    It was dissolved on 2026-08-30 (6810bc9): status went to WORKLIST.md →
+    Start here, rules to where they apply.
+  see: "WORKLIST.md"
+
+- id: lock-checker-is-future
+  retracted: 2026-10-17
+  claim: >
+    glossary/terms.yaml and an entry's forbidden list feed a lock checker
+    still to come.
+  match: ["future lock checker", "for `tools/check_locks.py` later"]
+  correction: >
+    tools/check_locks.py reads terms.yaml today, and a new lock is live the
+    moment build_index.py regenerates it.
+  see: "ARCHITECTURE.md#how-a-decision-becomes-an-enforced-rule"
+
+- id: data-dir-is-the-public-atlas
+  retracted: 2026-10-17
+  claim: >
+    data/ is "the character atlas": sqlite, CSVs, explorer.html, graph JSON.
+  match: ["the character atlas — sqlite"]
+  correction: >
+    data/ is the corpus as data. explorer.html is a gitignored local preview;
+    the public atlas is chinese-atlas.opencosmos.ai, built from
+    data/atlas-export.json.
+  see: "ARCHITECTURE.md#how-the-work-reaches-readers"
+
+- id: early-half-needs-second-draft
+  retracted: 2026-10-19
+  claim: >
+    Chapters 1-41 need a second draft rather than another sweep, and ch 25
+    and 28 still drop 周行 and 常.
+  match: ["second draft of chapters 1–41", "Chapters 1–41 are the affected range"]
+  correction: >
+    Pass D closed its chapter-level rewrites on 2026-09-07; ch 25 was repaired
+    on 2026-08-31 (T2-11) and ch 28 on 2026-09-01 (T1-7).
+  see: "WORKLIST.md#the-finding"
