@@ -2960,3 +2960,15 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 *(Shalom's call, 2026-10-15. Argument in `chapters/052.md`.)*
 
 **Was *"To recognize things in their smallest form is clear-seeing,"* which rendered 河上公's gloss (萌芽未動, *"before the sprouts stir"*) and not the line.** *Things*, *smallest* and *form* are all supplied, and they close 小 (*xiǎo* — small) onto early stages. But 小 is also the Tao's name at ch 34 and the uncarved wood's at ch 32. *Recognize* dropped 見 (*jiàn* — to see). Now the couplet matches, *Seeing the small / Holding to the soft*, as 王弼 and 韓非子 both read it. **明 → *clarity*, not *clear-seeing*:** *seeing* is already on 見, and the chapter's other 明 (復歸其明) is already *clarity*. Cost: ▢▢曰明 at 16 and 55 still reads *clear-seeing*; the frame is not verbatim, so it does not bind.
+
+## 混 (*hùn*) → *mixed*, and 清 (*qīng*) → *clear*, two entries — and 濁 → *muddy*
+
+*(Entries 2026-10-19: `glossary/hun-混.md`, `glossary/qing-清.md`. `WORKLIST.md` T2-40, T2-59.)*
+
+**No verse changed.** 混 has read *mixed* or *mix* in all three of its lines since 2026-09-06, and 清 *clear* in all four. The entries lock what was settled and add the evidence. 說文 gives 混 as 豐流也, *an abundant flow*, and 清 as 澂水之皃, *the look of water that has settled*.
+
+**They are not opposites.** The book's opposite of 清 is 濁 (*zhuó* — muddy), covered in 清's entry, and ch 15 only likens 混 to it: 混兮其若濁，孰能濁以靜之徐清, *"Mixed, like muddy water. Who can be muddy, and by stilling it slowly come clear?"* 王弼 runs the turn beside two others: 晦以理物則得明，濁以静物則得清，安以動物則得生, *"dim to bright, muddy to clear, at rest to alive."* 河上公 calls the 混成 Tao of ch 25 清淨, *"clear and clean."* Each entry names the other at ch 15, as neighbours in one passage, not as a pair.
+
+**Forbidden.** For 混: *chaos*, *chaotic*, *undifferentiated*, *blend*, *merge*. For 清: *pure*, *purity*, *purify*, the later 清淨 overlay, and *clarity*, which is 明's noun and shares no chapter with 清. **Ch 41 keeps bare *clear* for 明** (*"The clear Tao seems murky"*). That is a ruling no check can hold, recorded in both entries: *bright* is already 皦's, 昭's and 光's.
+
+**Found on the way.** Ch 25's old English, *"something formed in the undifferentiated,"* still stood in four glossary entries six weeks after the verse changed, and is retracted. 河上公 prints 渾 (*hún*) for 混 at ch 15, now recorded. And 渾 at ch 49 reads *muddy*, 濁's word, though it is 混's (T2-63).

@@ -427,6 +427,23 @@
   status: locked
   entry: glossary/chi-持.md
 
+- term: "混"
+  pinyin: "hùn"
+  render: "mixed (adjective) · to mix (verb)"
+  forbidden: ["chaos", "chaotic", "undifferentiated", "blend", "merge"]
+  chapters: [14, 15, 25]
+  status: locked
+  entry: glossary/hun-混.md
+
+- term: "清"
+  pinyin: "qīng"
+  render: "clear"
+  forbidden: ["pure", "purity", "purify", "clarity"]
+  chapters: [15, 39, 45]
+  status: locked
+  entry: glossary/qing-清.md
+  # covers 濁 -> muddy
+
 - term: "百姓"
   pinyin: "bǎi xìng"
   render: "everyone"

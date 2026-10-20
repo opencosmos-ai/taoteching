@@ -68,7 +68,7 @@ Both overlays make 一 a **status** or an **entity**. It is neither. And the cos
 
 **The cosmological register — 一 as something attained or arrived at.**
 - **Ch 39**: 昔之得**一**者 — *"those of old who attained the one,"* then the litany: sky attained it and became clear, earth attained it and became settled.
-- **Ch 14**: 混而為**一** — *"they blend and become one,"* of the invisible, inaudible, and intangible.
+- **Ch 14**: 混而為**一** — *"they mix into one,"* of the invisible, inaudible, and intangible.
 - **Ch 42**: 道生**一** — *"the Tao gives birth to the one,"* the first step of a cosmogony.
 
 **"One thing" would be wrong in all three of the second group.** Ch 22's rendering is therefore a **licensed per-chapter exception, not a lock** — recorded here so the next sweep reads it as a decision. What licenses it is that ch 22 is the only chapter where 一 sits inside an explicit few/much sequence with a *therefore* pointing at it.

@@ -1271,6 +1271,15 @@
     Wang Bi chapters were recovered; the base is kept provisionally — WORKLIST R3.
   logged: notes/manuscript.md
 
+- chapter: 15
+  line: "混兮其若濁"
+  base: "混"
+  witnesses: { heshanggong: "渾" }
+  meaning_bearing: false
+  our_call: base
+  note: "One word, two spellings: 說文 defines 渾 by 混 (混流聲也), and 渾 is our base's own character at ch 49. The vendored 河上公 file carries this lemma as a comment line, so no rule sees it (WORKLIST T5-21)."
+  logged: glossary/hun-混.md
+
 - chapter: 78
   line: "受國之不祥，是謂天下王"
   base: "是謂"

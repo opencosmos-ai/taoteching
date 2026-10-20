@@ -218,6 +218,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 13,16,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,One who loves their body as a way to serve the world can be trusted with it.
 14,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,"It doesn’t have a bright top,"
 14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,Or a murky bottom.
+14,8,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,0.3,proportional,Or a murky bottom.
 14,8,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Or a murky bottom.
 14,11,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,And returns to no-thing.
 14,12,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,"This is the shape of no-shape, the image of no-thing."
@@ -240,6 +241,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,5,強,qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,I force a likeness:
 15,5,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I force a likeness:
 15,10,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"Solid, like uncarved wood."
+15,12,混,Hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,exact-count,"Mixed, like muddy water."
+15,12,濁,zhuó,清,muddy,yes,1.0,exact-count,"Mixed, like muddy water."
+15,13,清,qīng,清,clear,yes,1.0,exact-count,"Who can be muddy, and by stilling it slowly come clear?"
+15,13,濁,zhuó,清,muddy,yes,1.0,exact-count,"Who can be muddy, and by stilling it slowly come clear?"
 15,13,能,néng,可,be able,NOT FOUND,1.0,exact-count,"Who can be muddy, and by stilling it slowly come clear?"
 15,14,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Who can be at rest, and by moving it slowly come to life?"
 15,14,能,néng,可,be able,NOT FOUND,1.0,exact-count,"Who can be at rest, and by moving it slowly come to life?"
@@ -375,6 +380,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 24,10,有,yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
 24,10,道,dào,道,the Tao / way,yes,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
 25,1,有,Yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Something mixed and complete, born before sky and earth."
+25,1,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,0.3,proportional,"Something mixed and complete, born before sky and earth."
 25,1,物,wù,萬物,things / something,yes,0.3,proportional,"Something mixed and complete, born before sky and earth."
 25,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
 25,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
@@ -638,6 +644,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,These received the one long ago:
 39,2,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Sky received the one, and so became clear."
 39,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Sky received the one, and so became clear."
+39,2,清,qīng,清,clear,yes,1.0,exact-count,"Sky received the one, and so became clear."
 39,3,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Earth received the one, and so became settled."
 39,4,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Spirit received the one, and so became numinous."
 39,5,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The valley received the one, and so became full."
@@ -651,6 +658,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,7,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Rulers received the one, and so serve as the world's standard."
 39,7,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,exact-count,"Rulers received the one, and so serve as the world's standard."
 39,9,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Sky with no way to be clear is likely to split.
+39,9,清,qīng,清,clear,yes,1.0,exact-count,Sky with no way to be clear is likely to split.
 39,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Sky with no way to be clear is likely to split.
 39,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Earth with no way to be settled is likely to burst.
 39,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Spirit with no way to be numinous is likely to cease.
@@ -755,6 +763,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 45,4,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great skill seems clumsy.
 45,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great argument seems halting.
 45,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Clear stillness brings order to the world.
+45,7,清,Qīng,清,clear,yes,1.0,exact-count,Clear stillness brings order to the world.
 45,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Clear stillness brings order to the world.
 46,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"When the world embraces the Tao, swift horses are retired to work the fields."
 46,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When the world embraces the Tao, swift horses are retired to work the fields."

@@ -113,3 +113,14 @@
     Pass D closed its chapter-level rewrites on 2026-09-07; ch 25 was repaired
     on 2026-08-31 (T2-11) and ch 28 on 2026-09-01 (T1-7).
   see: "WORKLIST.md#the-finding"
+
+- id: ch25-formed-in-the-undifferentiated
+  retracted: 2026-10-19
+  claim: >
+    Ch 25's 有物混成 reads "something formed in the undifferentiated."
+  match: ["formed in the undifferentiated"]
+  correction: >
+    Since 2026-09-06 the verse reads "Something mixed and complete." 混 is
+    locked to "mixed," and "undifferentiated" is on its forbidden list.
+  see: "glossary/hun-混.md"
+  allow: ["PLAN.md", "process/legacy-tao-source-code.md"]

@@ -52,7 +52,7 @@ The creaturely root tempts it, but:
 
 **It imports Buddhism.** "Sentient beings" (眾生) is a core Buddhist term, and English "beings" points there by reflex. Buddhism reached China roughly five centuries after this text. Reading a Daoist term through a Buddhist lens is the same class of error as reading it through a Christian one — see `process/overlay-audit.md`.
 
-**It over-narrows.** "Beings" implies inner life. But 物 covers grasses and trees (76) and, decisively, **the Tao itself**: 有物混成 (25), *"there was a 物 formed in the undifferentiated"*; 道之為物 (21), *"the Tao as a 物."* The pre-cosmic Tao is not a "being," and calling it one turns it into an entity the whole book resists. English "thing," at its widest, holds grasses, oxen, rivers and the nameless alike.
+**It over-narrows.** "Beings" implies inner life. But 物 covers grasses and trees (76) and, decisively, **the Tao itself**: 有物混成 (25), *"something mixed and complete"*; 道之為物 (21), *"the Tao as a 物."* The pre-cosmic Tao is not a "being," and calling it one turns it into an entity the whole book resists. English "thing," at its widest, holds grasses, oxen, rivers and the nameless alike.
 
 **And it collides with a lock already set.** We reject "Being / Non-Being" for 有 / 無 (see `wu-you-無有.md`). Admitting "beings" for 物 would smuggle the banished word back in one shelf over.
 
@@ -66,7 +66,7 @@ The stronger objection is **rhythm**, since this term recurs twenty times: 萬�
 
 - **萬物** → **the countless things** (道生之 → "the Tao gives birth to the countless things")
 - **物** alone, of the manifest world → **things** (夫物芸芸 → "the things in their teeming growth"; 物壯則老 → "things at their peak of strength decay")
-- **物** alone, of the Tao or the formless → **something** (有物混成 → "something formed in the undifferentiated"; 無物 → "no-thing")
+- **物** alone, of the Tao or the formless → **something** (有物混成 → "something mixed and complete"; 無物 → "no-thing")
 - **奇物** (57) → **strange contrivances** — not "things" at all, but newfangled gadgetry
 
 **The safeguard that matters more than the noun.** The living warmth of 物 sits in its ox, and English "things" cannot carry an ox. So the creatureliness must be protected in the **verbs**, without exception:
@@ -83,7 +83,7 @@ Let those drift and no choice of noun will save the passage; hold them and the s
 
 ### The tension, left open
 
-One honesty. If 物 reaches from grasses to the Tao itself — 有物混成, *something formed in the undifferentiated* — then the word is doing something English cannot quite follow. It is not a category ("objects") but closer to *whatever can be pointed at*, including what has no form to point at.
+One honesty. If 物 reaches from grasses to the Tao itself — 有物混成, *something mixed and complete* — then the word is doing something English cannot quite follow. It is not a category ("objects") but closer to *whatever can be pointed at*, including what has no form to point at.
 
 Chapter 14 pushes this to its edge: 復歸於**無物** — *return again to no-thing* — and then, in the next breath, 無物之象, *the image of no-thing*. A no-thing that nonetheless has an image. Laozi is using the plainest available word for *stuff* and then hollowing it out from inside, until it can name the formless too.
 

@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-17
+**Last updated:** 2026-10-19
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,13 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-19 — 混 and 清 get entries, and they turn out not to be opposites
+
+- **[`glossary/hun-混.md`](glossary/hun-混.md)**: 混 (*hùn*) → *mixed*, locked. 說文 豐流也, a river in flood, and every one of its three lines is praise.
+- **[`glossary/qing-清.md`](glossary/qing-清.md)**: 清 (*qīng*) → *clear*, locked, with its real opposite 濁 (*zhuó*) → *muddy* covered. 說文 澂水之皃, *the look of water that has settled*. *Clarity* stays 明's noun, and *purity* is forbidden.
+- **Ch 15 is where they meet**, as two ends of one passage: *"Mixed, like muddy water. Who can be muddy, and by stilling it slowly come clear?"*
+- **A retraction**: ch 25's old *"formed in the undifferentiated"* had survived in four glossary entries.
 
 ## 2026-10-17 — A withdrawn claim can no longer survive in another file
 

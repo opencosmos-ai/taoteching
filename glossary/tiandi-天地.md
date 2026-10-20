@@ -38,7 +38,7 @@ The text itself forecloses the theistic reading, five times over.
 
 - **It is not kind.** 天地不仁，以萬物為芻狗 (5) — sky and earth are *not benevolent*; they treat the countless things as straw dogs, the ritual effigies burned once and swept away. A God who numbers your hairs is precisely what this is not.
 - **It was born, and it has a womb.** 玄牝之門，是謂**天地根** (6) — the gate of the dark female is called *the root of sky and earth.* Sky and earth come out of a birth-gate. The Christian heaven cannot be born; this one is.
-- **It is not first.** 有物混成，**先天地生** (25) — something formed in the undifferentiated, *born before sky and earth.* They are derivative — latecomers to a source that precedes them.
+- **It is not first.** 有物混成，**先天地生** (25) — something mixed and complete, *born before sky and earth.* They are derivative — latecomers to a source that precedes them.
 - **It is not sovereign.** 人法地，地法天，**天法道**，道法自然 (25) — humans follow earth, earth follows sky, *sky follows the Tao*, and the Tao models itself on being what it is. 天 takes its law from something above it. A heaven that must obey is not Heaven.
 - **It is not even durable.** 天地尚不能久 (23) — a whirlwind does not last a morning, a rainstorm not a day; and *even sky and earth* cannot make such things last. Finite, limited, subject to the same measure as everything else.
 

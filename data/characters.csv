@@ -238,7 +238,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 早,zǎo,early,word,,,,,4,3,"30,55,59",30,59,0.76,
 昏,hūn,clouded,word,,,,,4,3,"18,20,57",18,57,0.76,
 服,Fú,"clothes, wear / accept (早服, 59)",word,,,,,4,3,"53,59,80",53,80,0.76,
-清,qīng,make it clear,apparatus,1/1,,,,4,3,"15,39,45",15,45,0.76,
+清,qīng,clear,locked,,clear,locked,pure; purity; purify; clarity,4,3,"15,39,45",15,45,0.76,glossary/qing-清.md
 畜,xù,nourishing/rearing,apparatus,1/1,,,,4,3,"10,51,61",10,61,0.76,
 盜,dào,thieves,apparatus,1/1,,,,4,4,"3,19,53,57",3,57,0.76,
 祥,xiáng,"omen (不祥, ill omen)",word,,,,,4,3,"31,55,78",31,78,0.76,
@@ -305,7 +305,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 海,hǎi,sea,apparatus,1/1,,,,3,3,"20,32,66",20,66,0.57,
 深,Shēn,So deep,apparatus,1/1,,,,3,3,"15,59,65",15,65,0.57,
 淵,Yuān,good at depth/abyss,apparatus,1/1,,,,3,3,"4,8,36",4,36,0.57,
-混,hùn,mixed / mix together,word,,,,,3,3,"14,15,25",14,25,0.57,
+混,hùn,mixed (adjective) · to mix (verb),locked,,mixed (adjective) · to mix (verb),locked,chaos; chaotic; undifferentiated; blend; merge,3,3,"14,15,25",14,25,0.57,glossary/hun-混.md
 滋,zī,"more and more, the more",word,,,,,3,1,57,57,57,0.57,
 狀,zhuàng,shape/form,apparatus,2/3,,,,3,2,"14,21",14,21,0.57,
 玉,yù,jade,apparatus,1/1,,,,3,3,"9,39,70",9,70,0.57,
@@ -415,7 +415,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 没,Mò,"end (没身, to the end of your days)",word,,,,,2,2,"16,52",16,52,0.38,
 淡,dàn,"bland / detachment (恬淡, 31)",word,,,,,2,2,"31,35",31,35,0.38,
 淳,chún,"pure, honest (淳淳, pure and honest)",word,,,,,2,1,58,58,58,0.38,
-濁,zhuó,muddy,word,,,,,2,1,15,15,15,0.38,
+濁,zhuó,muddy,covers,,muddy,locked,,2,1,15,15,15,0.38,glossary/qing-清.md
 熙,xī,merry,word,,,,,2,1,20,20,20,0.38,
 牖,yǒu,windows,apparatus,1/1,,,,2,2,"11,47",11,47,0.38,
 牡,mǔ,male,word,,,,,2,2,"55,61",55,61,0.38,
