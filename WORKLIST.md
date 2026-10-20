@@ -217,19 +217,7 @@
 
 ## The finding
 
-**This is two books.**
-
-Chapters **56–81** were drafted *through* the locks, with `check_locks.py` live, the commentaries in `sources/`, and `chapter-review` running. Chapters **1–41** were drafted in the Google Doc era and have only ever been **swept** — term-swapped against locks settled after the fact.
-
-| | chapters | clean | swap | chapter-level rewrite |
-|---|---|---|---|---|
-| **1–41** | 41 | **3** (7%) | 16 | **22** (54%) |
-| 42–55 | 14 | 2 | 11 | 1 |
-| **56–81** | 26 | **20** (77%) | 6 | 0 |
-
-**And a sweep is structurally blind to what is wrong with the early half.** Every lock keys off a Chinese character in order to judge the English, so a chapter that simply **does not render** the character passes every check. Ch 4 drops 吾不知誰之子 (*wú bù zhī shuí zhī zǐ* — "I do not know whose child it is") and erases 帝 (*dì* — the high god of the Shang); ch 25 drops 周行 (*zhōu xíng* — "moves in a circle"); ch 28 drops 常 (*cháng*) from all three 常德 lines; ch 3 dropped 敢 (*gǎn*) and 治 (*zhì*). **All four carried `retrofit: []` and passed every check.** *(Ch 4 repaired 2026-08-31 with T1-2; ch 3 with T1-3. Ch 25 and 28 stand.)* This is the Ch 20 / Ch 65 failure one level down — not an empty translation block, but a *thin* one.
-
-**So the work is a second draft of chapters 1–41, not another sweep.**
+*Retired 2026-10-19.* This section read **"This is two books"**: chapters 1–41, drafted in the Google Doc era and only ever swept, set against 56–81, drafted through the locks. It concluded that the work was a second draft of 1–41. **That draft is done.** Pass D rebuilt all 19 chapters it covered by 2026-09-07, and the four thin chapters the section named are all repaired: ch 4 (T1-2) and ch 3 (T1-3) on 2026-08-31, ch 25's 周行 the same day (T2-11), and ch 28's three 常 on 2026-09-01 (T1-7). The section still said *"Ch 25 and 28 stand,"* and on 2026-10-19 an agent reading it cold reported the early half as unrevised. **What chapters 1–41 owe now is what any chapter owes: the open rows that name them.** The lesson the section carried, that a sweep cannot see a character that was never rendered, stands; it lives in `CLAUDE.md` under *Do not trust a chapter's frontmatter*. *(The same fate as "Chapter status, all 81," retired 2026-09-24.)*
 
 ---
 
@@ -556,3 +544,4 @@ Structure the Chinese has and the English does not. These are rewrites, and they
 | 2026-10-15 | Ch 52 見小曰明 → *"Seeing the small is called clarity"*, matching 守柔曰強 | `chapters/052.md` |
 | 2026-10-17 | 聖 → **the sage**, 聖 alone → *sagehood*, its own entry; the overlay watchlist's first term | `glossary/sheng-聖.md` |
 | 2026-10-17 | Witnesses corrected: ch 49's 恒無心 is silk B (A is damaged); both silks read 君子 at ch 26; silk B lacks ch 73's 是以聖人猶難之 | `sources/variants.yaml` · `notes/manuscript.md` |
+| 2026-10-19 | **"The finding" retired** — *"This is two books"* was closed by Pass D (2026-09-07) and still read as owed; ch 25 and 28, listed as standing, were repaired 2026-08-31 and 2026-09-01 | this file · `CLAUDE.md` |
