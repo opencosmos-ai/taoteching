@@ -7,7 +7,7 @@
 # character atlas showed them as "not yet glossed", or worse, published a
 # plurality from the source tables' literal column as if it were a meaning. 之
 # shipped as "it", though most of its 252 uses link a modifier to a noun, and
-# 唯 (wéi) as "agreement/yes", though fifteen of its sixteen uses are "only".
+# 唯 (wéi) as "agreement/yes", though most of its sixteen uses are "only".
 #
 # WHAT A GLOSS HERE IS. A short list of the jobs the word does IN THIS BOOK,
 # slash-separated, most frequent first, written by reading every line it stands
@@ -182,12 +182,6 @@
 - char: "將"
   pinyin: "jiāng"
   gloss: "about to / will / (將欲) wanting to / a general (31)"
-- char: "唯"
-  pinyin: "wéi"
-  gloss: "only / (夫唯) only because / a 'yes' (20)"
-- char: "惟"
-  pinyin: "wéi"
-  gloss: "only"
 - char: "或"
   pinyin: "huò"
   gloss: "some / sometimes / perhaps"

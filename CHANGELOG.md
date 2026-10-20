@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-17
+**Last updated:** 2026-10-19
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-19 — 唯 is *only*, and one frame reads one way in nine lines
+
+夫唯 (*fú wéi* — "now, only") opens twelve lines in eleven chapters, nine of them one causal frame, and the English had five shapes for it and dropped it twice. Shalom's call settles it.
+
+- **[`glossary/wei-唯.md`](glossary/wei-唯.md)**, locked: 唯 (*wéi*) → *only*, and the frame 夫唯…是以 / 故 (*therefore*) → *"Only because X, Y,"* with the clause after it inverted. 河上公 (*Héshàng Gōng*) reaches for 獨 (*dú* — alone) four times on these lines, and 王弼 (*Wáng Bì*) writes the frame himself. 惟 (*wéi*), the same particle, is covered.
+- **Ten chapters swept**: 2, 8, 15, 21, 22, 59, 70, 71, 72, 75. Ch 72's *when*, Shalom's own call of 2026-08-24, becomes *because*, and ch 66 keeps a plain *Because* since its line has no 唯.
+- **A retraction**: 說文 (*Shuōwén*) gives 唯 as 諾 (*nuò* — "yes"), so a note that read *solely* off the graph is withdrawn ([`process/retractions.yaml`](process/retractions.yaml)).
+- **`concordance.py --english` stops reading parentheticals** (WORKLIST T5-19). It had been handing *only* to 善 (*shàn* — masterful), which meant the reverse check for this very lock could never name 唯.
 
 ## 2026-10-17 — A withdrawn claim can no longer survive in another file
 

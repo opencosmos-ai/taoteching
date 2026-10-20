@@ -92,6 +92,56 @@ def show_term(term, chapters, terms, quiet=False):
 
 # ------------------------------------------------------- the reverse direction
 
+# A render is a primary English plus, sometimes, a reason in parentheses:
+# "good (only where the text names the category)". The reason is prose, and
+# its words are not renderings. Matching by substring against the whole string
+# handed "only" to 善 and "alone" to 聖, so the one entry that does render
+# "only" could never be reported (WORKLIST T5-19).
+_PAREN = re.compile(r"\([^)]*\)")
+_ALT_SPLIT = re.compile(r"\s*(?:/|·|,|;|\s—\s|\s–\s)\s*")
+
+
+def _claim(term, phrase):
+    """How strongly an entry claims an English phrase. 0 is not at all.
+
+    3  the whole of one of its render's alternatives ("only", "keep safe")
+    2  a declared flexion, or a forbidden word, spelled exactly
+    1  a substring of its render ("clear" in "clear-seeing")
+
+    Parenthesized text is stripped before any of these, so a reason never
+    claims a word. There is deliberately no whole-word tier between 1 and 2:
+    a render may carry a grammatical condition as prose outside parentheses
+    ("forcing where it strains against a thing's nature"), and a whole-word
+    match would hand "thing" to 強.
+    """
+    p = phrase.lower().strip()
+    if not p:
+        return 0
+    text = _PAREN.sub(" ", term.render).replace("*", "").lower()
+    alternatives = {a.strip() for a in _ALT_SPLIT.split(text) if a.strip()}
+    if p in alternatives:
+        return 3
+    if term.flexion_for(phrase.strip()) or any(p == f.lower().strip() for f in term.forbidden):
+        return 2
+    return 1 if p in text else 0
+
+
+def lock_for_english(phrase, terms):
+    """The entry that claims this English, and any that claim it as strongly.
+
+    The strongest claim wins and a tie goes to the first entry in terms.yaml.
+    Rivals are returned only for an exact claim, because two entries holding
+    one English exactly is a finding; two renders that merely contain a word
+    are not.
+    """
+    scored = [(s, t) for t in terms if (s := _claim(t, phrase))]
+    if not scored:
+        return None, []
+    best = max(s for s, _ in scored)
+    top = [t for s, t in scored if s == best]
+    return top[0], (top[1:] if best >= 2 else [])
+
+
 def show_english(phrase, chapters, terms, quiet=False):
     """Which chapters use this English, and is each use backed by its character?
 
@@ -100,13 +150,7 @@ def show_english(phrase, chapters, terms, quiet=False):
     clear-seeing renders 明 — and only this direction catches the second half:
     a rendering applied where the character licensing it is absent.
     """
-    lock = None
-    for t in terms:
-        if (phrase.lower() in t.render.lower()
-                or t.flexion_for(phrase)
-                or any(phrase.lower() == f.lower() for f in t.forbidden)):
-            lock = t
-            break
+    lock, rivals = lock_for_english(phrase, terms)
     flexion = lock.flexion_for(phrase) if lock else None
 
     print(f'\n{BOLD}"{phrase}"{OFF}', end="")
@@ -120,6 +164,14 @@ def show_english(phrase, chapters, terms, quiet=False):
         else:
             kind, scope = "the rendering of", ""
         print(f"  — {kind} {lock.term} ({lock.pinyin}){scope}\n{DIM}{lock.entry}{OFF}")
+        for r in rivals:
+            if any(phrase.lower().strip() == f.lower().strip() for f in r.forbidden):
+                how = "forbidden for"
+            elif r.flexion_for(phrase.strip()):
+                how = "a declared flexion of"
+            else:
+                how = "the rendering of"
+            print(f"{DIM}  also {how} {r.term} ({r.pinyin}): {r.entry}{OFF}")
         if flexion and flexion.get("why"):
             print(f'{DIM}  why: {flexion["why"]}{OFF}')
     else:

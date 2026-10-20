@@ -110,6 +110,17 @@
   # covers 物 -> things / something
   # covers 萬 -> countless
 
+- term: "唯"
+  pinyin: "wéi"
+  render: "only"
+  forbidden: ["precisely"]
+  chapters: [2, 8, 15, 20, 22, 41, 42, 53, 59, 67, 70, 71, 72, 75, 77]
+  status: locked
+  entry: glossary/wei-唯.md
+  flexions:
+    - { english: "yes", chapters: [20], why: "the assent itself, 說文's own sense, set beside 阿 (ē — a careless yeah)" }
+  # covers 惟 -> only
+
 - term: "事"
   pinyin: "shì"
   render: "affairs / undertakings (noun) · to serve, to attend to (verb)"

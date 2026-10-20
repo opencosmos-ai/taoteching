@@ -44,8 +44,8 @@ That is the term. Not rivalry as a condition, not ambition as a temperament: **t
 |---|---|---|
 | 3 | 不尚賢，使民不**爭** | do not exalt the worthy, so the people do not contend |
 | 8 | 水善利萬物而不**爭** | water is masterful at benefiting the countless things and does not contend |
-| 8 | 夫唯不**爭** | precisely because it does not contend |
-| 22 | 夫唯不**爭** | precisely because they do not contend |
+| 8 | 夫唯不**爭** | only because it does not contend |
+| 22 | 夫唯不**爭** | only because they do not contend |
 | 22 | 故天下莫能與之**爭** | so no one in the world can contend with them |
 | 66 | 以其不**爭** | because they do not contend |
 | 66 | 故天下莫能與之**爭** | so no one in the world can contend with them |
@@ -126,7 +126,9 @@ So the rendering trades the fingernails for the distinction, and the distinction
 
 > 夫唯不爭，故天下莫能與之爭 (22) · 以其不爭，故天下莫能與之爭 (66)
 >
-> *"precisely because they do not contend, no one in the world can contend with them."*
+> *"only because they do not contend can no one in the world contend with them"* (22) · *"because they do not contend, / no one in the world can contend with them"* (66)
+>
+> The two lines differ by one character, 唯 (*wéi* — only), and the English by one word.
 
 Read one way, that is a description of someone who has stopped wanting the object, and is therefore beyond the reach of anyone still pulling. Read another, it is an unbeatable technique — the strongest possible position in exactly the contest being renounced. Chapter 66 leans into the second reading and does not flinch: the sage goes low, and 天下樂推 — *the world gladly pushes them forward*. They end up on top. They simply did not pull.
 
