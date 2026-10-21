@@ -33,6 +33,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-20 — 尤 and 咎 get entries, and a lock can stay in its own book
+
+Ch 8's 尤 (*yóu*) was asked whether it should read *fault*. It stays *blame*: *fault* is 咎 (*jiù*)'s word on the next page, and the line's one commentator makes 尤 something other people do. Both characters now have entries, and writing them showed that the I Ching, which vendors this glossary's locks as its own, had ruled both differently that same day, on purpose.
+
+- **[`glossary/you-尤.md`](glossary/you-尤.md)** and **[`glossary/jiu-咎.md`](glossary/jiu-咎.md)**, locked: *blame* is what others hold against you, *fault* is what you leave yourself (自遺其咎, *zì yí qí jiù* — "you leave yourself your own 咎," ch 9). *Fault* declined for 尤 in [`chapters/008.md`](chapters/008.md) (Shalom's call).
+- **`binds:`**, a new frontmatter field, names the books a lock holds in. Both entries carry `binds: [taoteching]`; `build_index.py` writes it to `terms.yaml`, `tools/tests/test_build_index.py` holds it there, and the I Ching's importer and checker skip a lock whose `binds:` leaves it out ([`process/skills/glossary-entry`](process/skills/glossary-entry/SKILL.md) §4).
+- **Three glosses of 咎 as *blame*** in our own notes now read *fault*: ch 16, `notes/translation.md`, and the `no-verdict` principle.
+- **說文** (*Shuōwén* — the Han dictionary) files 尤 under 尢 (*yóu*), 異也, *"out of the ordinary"*; `import_shuowen.py` now maps it.
+
 ## 2026-10-20 — Ch 12: rare goods hinder people's conduct, and 行 gets an entry
 
 *"Rare goods make actions corrupt"* put a moral verdict on 妨 (*fáng* — to hinder) and 為's word on 行 (*xíng*). Shalom's calls settle the line, and the stanza moved with it.

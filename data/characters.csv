@@ -365,7 +365,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 受,shòu,take on,word,,,,,2,1,78,78,78,0.38,
 口,kǒu,mouths,apparatus,1/1,,,,2,2,"12,35",12,35,0.38,
 各,Gè,each,grammar,,,,,2,2,"16,61",16,61,0.38,
-咎,jiù,disaster/blame,apparatus,1/1,,,,2,2,"9,46",9,46,0.38,
+咎,jiù,fault,locked,,fault,locked,blame; calamity,2,2,"9,46",9,46,0.38,glossary/jiu-咎.md
 哀,āi,grief,apparatus,1/1,,,,2,2,"31,69",31,69,0.38,
 嗇,sè,"conserving, sparing",word,,,,,2,1,59,59,59,0.38,
 塞,Sè,block,word,,,,,2,2,"52,56",52,56,0.38,
@@ -543,7 +543,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 寥,liáo,empty/void,apparatus,1/1,,,,1,1,25,25,25,0.19,
 寸,cùn,inch,word,,,,,1,1,69,69,69,0.19,
 專,Zhuān,Concentrating,apparatus,1/1,,,,1,1,10,10,10,0.19,
-尤,yóu,blame/fault,apparatus,1/1,,,,1,1,8,8,8,0.19,
+尤,yóu,blame,locked,,blame,locked,fault; blameless,1,1,8,8,8,0.19,glossary/you-尤.md
 尺,chǐ,foot (the measure),word,,,,,1,1,69,69,69,0.19,
 層,céng,tier / story of a building,word,,,,,1,1,64,64,64,0.19,
 屬,shǔ,belong to,word,,,,,1,1,19,19,19,0.19,

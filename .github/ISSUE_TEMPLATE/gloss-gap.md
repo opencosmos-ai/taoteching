@@ -6,7 +6,7 @@ labels: glossary
 ---
 
 <!--
-<!-- count: gloss:apparatus -->214 of the book's <!-- count: characters -->798 characters carry only `gloss_source: apparatus` — working
+<!-- count: gloss:apparatus -->212 of the book's <!-- count: characters -->798 characters carry only `gloss_source: apparatus` — working
 approximations harvested from the source tables, not decisions, and some are
 plainly wrong. <!-- count: gloss-3plus:apparatus -->86 of them appear three or more times.
 

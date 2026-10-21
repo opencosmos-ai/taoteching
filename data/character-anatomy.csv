@@ -328,7 +328,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 恐,kǒng,likely to (將恐; lit. fear),,恐,exact,心,phonetic-compound,,心 (xīn = heart),𢀜 (? = not yet glossed),6,,0.0196,懼也。从心𢀜聲。,
 力,lì,force,force,力,exact,力,pictograph,,,,2,locked,0.0195,筋也。象人筋之形。治功曰力，能圉大災。凡力之屬皆从力。,
 口,kǒu,mouths,,口,exact,口,pictograph,,,,2,,0.0195,人所以言食也。象形。凡口之屬皆从口。,
-咎,jiù,disaster/blame,,咎,exact,人,compound,,"人 (rén = people / others / person (聖人, sage)) + 各 (Gè = each)",,2,,0.0195,災也。从人从各。各者，相違也。,
+咎,jiù,fault,fault,咎,exact,人,compound,,"人 (rén = people / others / person (聖人, sage)) + 各 (Gè = each)",,2,locked,0.0195,災也。从人从各。各者，相違也。,"Disaster. From 人 (rén — a person) and 各 (gè — each, apart); 各 means being at odds."
 奈,Nài,(奈何) how / why,,柰,orthographic,木,phonetic-compound,,木 (mù = tree),示 (shì = show),2,,0.0195,果也。从木示聲。,
 孩,hái,smiled/giggled,,咳,old-form,口,phonetic-compound,,口 (kǒu = mouths),亥 (? = not yet glossed),2,,0.0195,小兒笑也。从口亥聲。,
 新,xīn,new / renewed (22),,新,exact,斤,phonetic-compound,,斤 (jīn = an axe),新 (xīn = new / renewed (22)),2,,0.0195,取木也。从斤新聲。,
@@ -413,7 +413,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 襲,xí,inheriting/wearing,,襲,exact,衣,phonetic-compound,,衣 (Yī = clothe),龖 (? = not yet glossed),2,,0.0152,左衽袍。从衣，龖省聲。,
 曲,Qū,bend / bent,bend / bent,曲,exact,曲,pictograph,,,,2,locked,0.0143,象器曲受物之形。或說曲，蠶薄也。凡曲之屬皆从曲。,
 狗,gǒu,"dog (芻狗, straw dogs)",,狗,exact,犬,phonetic-compound,,犬 (quǎn = dog),句 (? = not yet glossed),2,,0.0143,孔子曰：“狗，叩也。叩气吠以守。”从犬句聲。,
-稽,jī,"standard (稽式, the pattern)",,稽,exact,稽,phonetic-compound,,𥝌 (? = not yet glossed) + 尤 (yóu = blame/fault),旨 (? = not yet glossed),2,,0.0143,畱止也。从𥝌从尤，旨聲。凡稽之屬皆从稽。,
+稽,jī,"standard (稽式, the pattern)",,稽,exact,稽,phonetic-compound,,𥝌 (? = not yet glossed) + 尤 (yóu = blame),旨 (? = not yet glossed),2,,0.0143,畱止也。从𥝌从尤，旨聲。凡稽之屬皆从稽。,
 笑,xiào,laugh at,,笑,exact,竹,unanalysed,,,,2,,0.0143,此字本闕。,
 芻,chú,"straw (芻狗, straw dogs)",,芻,exact,艸,pictograph,,,,2,,0.0143,刈艸也。象包束艸之形。,
 什,shí,"ten (什伯, of ten, of a hundred)",,什,exact,人,compound,,"人 (rén = people / others / person (聖人, sage))",,1,,0.0141,相什保也。从人、十。,
@@ -722,6 +722,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 吹,chuī,blow/breathe easy,,吹,exact,口,compound,,"口 (kǒu = mouths) + 欠 (qiàn = a person with the mouth open — breath, wanting)",,1,,0.0076,噓也。从口从欠。,
 妄,Wàng,Recklessly,,妄,exact,女,phonetic-compound,,女 (nǚ = a woman),亡 (wáng = perish),1,,0.0076,亂也。从女亡聲。,
 寒,hán,cold,,寒,exact,宀,compound,,"人 (rén = people / others / person (聖人, sage)) + 在 (zài = place in) + 宀 (mián = a roof; under a house) + 下 (xià = below / low, lowest (天下, the world))",,1,,0.0076,凍也。从人在宀下，以茻薦覆之，下有仌。,
+尤,yóu,blame,blame,尢,old-form,乙,phonetic-compound,,乙 (? = not yet glossed),又 (yòu = again / and further),1,locked,0.0076,異也。从乙又聲。,"Out of the ordinary. From 乙 (yǐ — a shoot coming up bent), with 又 (yòu) for sound."
 尺,chǐ,foot (the measure),,尺,exact,尺,compound,,尸 (shī = a body laid out; a seated figure) + 乙 (? = not yet glossed),,1,,0.0076,十寸也。人手卻十分動脈爲寸口。十寸爲尺。尺，所以指尺䂓榘事也。从尸从乙。乙，所識也。周制，寸、尺、咫、尋、常、仞諸度量，皆以人之體爲法。凡尺之屬皆从尺。,
 帶,dài,carry at the belt,,帶,exact,巾,compound,,巾 (jīn = a cloth),,1,,0.0076,紳也。男子鞶帶，婦人帶絲。象繫佩之形。佩必有巾，从巾。,
 平,píng,even,,平,exact,亏,compound,,"亏 (? = not yet glossed) + 八 (bā = eight; to divide, to part)",,1,,0.0076,語平舒也。从亏从八。八，分也。爰禮說。,

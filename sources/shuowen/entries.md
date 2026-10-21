@@ -262,6 +262,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 小 | 小 | exact | 小 | compound | 八 |  |  | 物之微也。从八，丨見而分之。凡小之屬皆从小。 |
 | 少 | 少 | exact | 小 | phonetic-compound | 小 | 丿 |  | 不多也。从小丿聲。 |
 | 尚 | 尚 | exact | 八 | phonetic-compound | 八 | 向 |  | 曾也。庶幾也。从八向聲。 |
+| 尤 | 尢 | old-form | 乙 | phonetic-compound | 乙 | 又 |  | 異也。从乙又聲。 |
 | 尺 | 尺 | exact | 尺 | compound | 尸乙 |  |  | 十寸也。人手卻十分動脈爲寸口。十寸爲尺。尺，所以指尺䂓榘事也。从尸从乙。乙，所識也。周制，寸、尺、咫、尋、常、仞諸度量，皆以人之體爲法。凡尺之屬皆从尺。 |
 | 居 | 居 | exact | -{尸}- | compound | 尸古者 |  |  | 蹲也。从尸古者，居从古。 |
 | 屈 | 屈 | exact | 尾 | phonetic-compound | 尾 | 出 |  | 無尾也。从尾出聲。 |
@@ -802,7 +803,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 
 ## Not matched to a 說文 entry
 
-*35 of the corpus's characters. Most are later graphs, or are filed under an older form this importer has not verified. **A mapping is added only when the old form is confirmed present in the vendored text and its definition is coherent for the modern character** — see `SHUOWEN_VARIANTS` in `tools/import_shuowen.py`. Guessing here would put a wrong etymology under a right character, which is worse than a gap. This list is the worklist.*
+*34 of the corpus's characters. Most are later graphs, or are filed under an older form this importer has not verified. **A mapping is added only when the old form is confirmed present in the vendored text and its definition is coherent for the modern character** — see `SHUOWEN_VARIANTS` in `tools/import_shuowen.py`. Guessing here would put a wrong etymology under a right character, which is worse than a gap. This list is the worklist.*
 
-云 免 其 嗄 太 妖 妙 寂 寥 尤 希 徒 徙 愈 折 敢 散 於 朘 朝 毫 求 沌 泊 流 涉 烹 珞 琭 窪 綵 莅 退 難 餌
+云 免 其 嗄 太 妖 妙 寂 寥 希 徒 徙 愈 折 敢 散 於 朘 朝 毫 求 沌 泊 流 涉 烹 珞 琭 窪 綵 莅 退 難 餌
 

@@ -55,7 +55,7 @@ supersedes: []
 
 ## Where it does not fire
 
-**Some characters genuinely carry a verdict and must keep it.** 咎 (*jiù* — blame), 罪 (*zuì* — crime) and 禍 (*huò* — disaster) are not neutral, and neutralising them is the same error running the other way. The test is the character, not a preference for flatness.
+**Some characters genuinely carry a verdict and must keep it.** 咎 (*jiù* — fault), 罪 (*zuì* — crime) and 禍 (*huò* — disaster) are not neutral, and neutralising them is the same error running the other way. The test is the character, not a preference for flatness.
 
 **And the book does sometimes condemn.** 盜夸 (*dào kuā* — "robber's swagger") at ch 53 is contemptuous in the Chinese. Render it so.
 

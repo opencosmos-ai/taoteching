@@ -490,6 +490,15 @@
   status: open
   entry: glossary/ming-命.md
 
+- term: "咎"
+  pinyin: "jiù"
+  render: "fault"
+  forbidden: ["blame", "calamity"]
+  chapters: [9, 46]
+  status: locked
+  entry: glossary/jiu-咎.md
+  binds: [taoteching]
+
 - term: "精"
   pinyin: "jīng"
   render: "vital essence / essence"
@@ -506,6 +515,15 @@
   status: locked
   entry: glossary/quan-全.md
   # covers 曲 -> bend / bent
+
+- term: "尤"
+  pinyin: "yóu"
+  render: "blame"
+  forbidden: ["fault", "blameless"]
+  chapters: [8]
+  status: locked
+  entry: glossary/you-尤.md
+  binds: [taoteching]
 
 - term: "帝"
   pinyin: "dì"

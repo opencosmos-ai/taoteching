@@ -331,7 +331,7 @@ ch 52   This is called holding the ever-present covered.
 
 **The commentators converge completely — five places, both of them, one word.** No divergence to preserve, which is rare here.
 
-- 河上公 (*Héshàng Gōng*), ch 16: 無殃無咎…乃與天地俱没，**不危殆**也 — *"no calamity, no blame… then one sinks away together with sky and earth, **not in peril**."*
+- 河上公 (*Héshàng Gōng*), ch 16: 無殃無咎…乃與天地俱没，**不危殆**也 — *"no calamity, no fault… then one sinks away together with sky and earth, **not in peril**."*
 - 河上公, ch 52, the whole gloss: **不危殆也**.
 - 河上公, ch 44: 知可止則財利不累身…則身**不危殆**也 — *"knowing when to stop, wealth and profit do not burden the body… then the body **is not in peril**."*
 - 王弼 (*Wáng Bì*), ch 25: 周行無所不至而**免殆**, with the Siku note 〔案免永樂大典作危〕 — peril under either reading, never exhaustion.
@@ -2237,6 +2237,8 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 **仁 → *humaneness*, the lock.** *"Pure kindness"* breached it and invented *pure*. `check_locks.py` was silent because *kindness* is not on 仁's `forbidden:` list — **the same blind spot that hid ch 38's *clutches at***, and an argument for T5-3.
 
 **尤 is a hapax, and *always blameless* lost both halves.** 常 (*cháng* — the ever-present) has zero occurrences here, so *always* rendered nothing; 尤 (*yóu* — blame) appears once in all 81 chapters and means fault-finding, not moral purity. Kept **agentless** — 無尤 is agentless, and 河上公 supplies the agents (天下无有怨尤水者也) rather than the text.
+
+***Fault* declined for 尤 (2026-10-20, Shalom's call).** It is 咎 (*jiù* — calamity / fault)'s English at 9 and 46, and ch 9 is the next page, so the English would pair two characters the Chinese never pairs. 河上公's 怨尤 (*yuàn yóu* — to resent, to blame) has water as its **object**, and 夫唯不爭 (*fú wéi bù zhēng* — only because it does not contend) pays out in other people's response at 22, 66 and 72; bare *fault* moves the claim inside water. Cost: *no blame* is the I Ching's English for 无咎 (*wú jiù* — no 咎), an outside echo accepted. Full argument in `chapters/008.md`.
 
 **居 and 處 are near-twins and the seam is named.** 說文: 處 is 止也。得几而止 (*"to stop; to find a stool and stop"*), 居 is 蹲也 (*"to squat"*). 處 keeps *dwells* — its English at 24, 31, 38, 76 — and 居 takes ***settling***, 說文's squat. **This is the ch 38 collation note paying out** (`notes/manuscript.md`): the alternation may not be original, so the English is free to use one verb or two without straining.
 
