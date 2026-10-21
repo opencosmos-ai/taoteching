@@ -33,6 +33,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-20 — Ch 12: rare goods hinder people's conduct, and 行 gets an entry
+
+*"Rare goods make actions corrupt"* put a moral verdict on 妨 (*fáng* — to hinder) and 為's word on 行 (*xíng*). Shalom's calls settle the line, and the stanza moved with it.
+
+- **[`chapters/012.md`](chapters/012.md)**: *"Rare goods hinder people's conduct."* 人 (*rén* — a person), dropped from all five 令人 lines, is restored as *people's* (Shalom caught it). 妨 follows 王弼 (*Wáng Bì*)'s *block*; 河上公 (*Héshàng Gōng*)'s *harm* is recorded as what the English leaves out.
+- **Ch 66** gives *hinder* back: *"the people are not harmed."* 害 (*hài*) now reads *harm* in all five of its chapters.
+- **[`glossary/xing-行.md`](glossary/xing-行.md)**, open: going, carrying out, and a person's *conduct*, sorted by grammar. *Action* and *execute* forbidden. What it leaves is `WORKLIST.md` T2-65.
+- **The silks, recorded**: both Mawangdui texts close ch 12 with 是以聖人之治也 (*"therefore the sage's governing"*), ch 3's frame, so the belly is the governed's ([`notes/manuscript.md`](notes/manuscript.md)).
+
 ## 2026-10-20 — The worklist holds only what is owed
 
 `WORKLIST.md` said a closed row leaves it. 96 had not, and its detail sections had become a second, drifting copy of its table. It went from 554 lines to 96.

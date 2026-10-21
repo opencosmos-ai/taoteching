@@ -546,7 +546,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 虎,hǔ,tiger,semantic,glossed,1,號
 虚,,,phonetic,"no gloss needed: present for sound, not meaning",1,歔
 蠅,,,phonetic,"no gloss needed: present for sound, not meaning",1,繩
-行,xíng,"travel, go / follow, practice / conduct",semantic,glossed,1,衛
+行,xíng,go / carry out / conduct,semantic,glossed,1,衛
 衣,Yī,clothe,phonetic,glossed,1,哀
 袁,,,phonetic,"no gloss needed: present for sound, not meaning",1,遠
 褱,,,phonetic,"no gloss needed: present for sound, not meaning",1,懷

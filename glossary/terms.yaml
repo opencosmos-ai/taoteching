@@ -92,6 +92,17 @@
   status: locked
   entry: glossary/shan-善.md
 
+- term: "行"
+  pinyin: "xíng"
+  render: "go / carry out / conduct"
+  forbidden: ["action", "execute"]
+  chapters: [2, 12, 24, 25, 26, 27, 29, 33, 41, 47, 50, 53, 62, 64, 69, 70, 78]
+  status: open
+  entry: glossary/xing-行.md
+  flexions:
+    - { english: "follow", chapters: [70, 78], why: "words are followed rather than practised; Shalom's call at ch 70, and ch 78 repeats its 莫能行" }
+    - { english: "ranks", chapters: [69], why: "the second 行 of 行無行 is háng, a battle line" }
+
 - term: "德"
   pinyin: "dé"
   render: "integrity"

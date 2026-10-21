@@ -33,7 +33,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 民,mín,the people,the people,民,exact,民,compound,,"古 (gǔ = ancient) + 文 (wén = culture/adornment) + 之 (zhī = of ('s) / it, them / (links a modifier to its noun)) + 象 (xiàng = image / seem, resemble (4))",,32,Tier 3,0.1662,眾萌也。从古文之象。凡民之屬皆从民。,The many sprouts. From the shape of its ancient form.
 萬,wàn,countless,countless,萬,exact,禸,compound,,厹 (? = not yet glossed),,21,Tier 2,0.1638,蟲也。从厹，象形。,
 欲,yù,"desire / want, wish / would (29, 36)",,欲,exact,欠,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",谷 (Gǔ = valley),26,,0.1621,貪欲也。从欠谷聲。,
-行,xíng,"travel, go / follow, practice / conduct",,行,exact,行,compound,,彳 (chì = a step taken; going) + 亍 (? = not yet glossed),,20,,0.157,人之步趨也。从彳从亍。凡行之屬皆从行。,
+行,xíng,go / carry out / conduct,go / carry out / conduct,行,exact,行,compound,,彳 (chì = a step taken; going) + 亍 (? = not yet glossed),,20,Tier 3,0.157,人之步趨也。从彳从亍。凡行之屬皆从行。,A person's walking and hurrying. From 彳 (a step) and 亍 (a step).
 言,yán,"words / speak, speech / saying",,言,exact,言,phonetic-compound,,口 (kǒu = mouths),䇂 (? = not yet glossed),21,,0.1538,直言曰言，論難曰語。从口䇂聲。凡言之屬皆从言。,
 貴,guì,"prize, value / honor, honored / status (9)",,貴,exact,貝,phonetic-compound,,"貝 (bèi = a cowrie shell — money, worth)",臾 (? = not yet glossed),22,,0.1525,物不賤也。从貝臾聲。臾，古文蕢。,
 吾,Wú,the self seeing,the self seeing,吾,exact,口,phonetic-compound,,口 (kǒu = mouths),五 (Wǔ = Five),22,locked,0.1482,我，自稱也。从口五聲。,
@@ -680,7 +680,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 荊,jīng,"thorns (荊棘, thorns and brambles)",,荊,exact,艸,phonetic-compound,,"艸 (cǎo = grass, growing plants)",刑 (? = not yet glossed),1,,0.0087,楚木也。从艸刑聲。,
 螫,shì,sting,,螫,exact,虫,phonetic-compound,,"虫 (chóng = an insect, a crawling creature)",赦 (? = not yet glossed),1,,0.0087,蟲行毒也。从虫赦聲。,
 蟲,chóng,"creature, crawling thing",,蟲,exact,蟲,compound,,"三 (Sān = three) + 虫 (chóng = an insect, a crawling creature)",,1,,0.0087,有足謂之蟲，無足謂之豸。从三虫。凡蟲之屬皆从蟲。,
-衛,wèi,shield,,衞,old-form,行,compound,,"韋 (? = not yet glossed) + 行 (xíng = travel, go / follow, practice / conduct)",,1,,0.0087,宿衞也。从韋、帀，从行。行，列衞也。,
+衛,wèi,shield,,衞,old-form,行,compound,,韋 (? = not yet glossed) + 行 (xíng = go / carry out / conduct),,1,,0.0087,宿衞也。从韋、帀，从行。行，列衞也。,
 要,yào,crucial/essential,,要,exact,𦥑,phonetic-compound,,𦥑 (? = not yet glossed),交 (jiāo = converge / confluence (61)),1,,0.0087,身中也。象人要自𦥑之形。从𦥑，交省聲。,
 覽,lǎn,mirror/vision,,覽,exact,見,phonetic-compound,,"見 (jiàn = see / show, display / appear (77))",監 (? = not yet glossed),1,,0.0087,觀也。从見、監，監亦聲。,
 訥,nè,halting (of speech),,訥,exact,言,compound,,"言 (yán = words / speak, speech / saying) + 内 (? = not yet glossed)",,1,,0.0087,言難也。从言从内。,
