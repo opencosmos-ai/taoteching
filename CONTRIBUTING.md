@@ -54,7 +54,7 @@ a line would sit comfortably in a hymn, I want to know.
 
 ### 2. Fill a gloss gap — a little Chinese, or a good dictionary
 
-**<!-- count: gloss:apparatus -->214 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
+**<!-- count: gloss:apparatus -->212 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
 `gloss_source: apparatus`, harvested from the source tables, not decided.
 <!-- count: gloss-3plus:apparatus -->86 of them appear three or more times. Every one is a small, self-contained, genuinely
 useful contribution.
@@ -100,7 +100,7 @@ python3 tools/build_db.py --verify    # rebuild the corpus database
 python3 -m unittest discover -s tools/tests
 ```
 
-Two known gaps if you want something concrete: **<!-- count: shuowen-missing -->35 characters have no 說文解字
+Two known gaps if you want something concrete: **<!-- count: shuowen-missing -->34 characters have no 說文解字
 (*Shuōwén Jiězì* — the Han dictionary of graphs) entry** matched to them, mostly because the dictionary files them under an older
 graph and the mapping is unverified (see `SHUOWEN_VARIANTS` in
 `tools/import_shuowen.py` — additions must be *verified against the vendored

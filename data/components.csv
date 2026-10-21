@@ -67,6 +67,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 㞷,,,phonetic,"no gloss needed: present for sound, not meaning",3,"往,枉,狂"
 丂,kǎo,a breath pushing out past a barrier,semantic,glossed,3,"兮,可,寧"
 之,zhī,"of ('s) / it, them / (links a modifier to its noun)",phonetic,glossed,3,"事,市,志"
+乙,,,semantic,not yet glossed — see sources/component-glosses.yaml,3,"亂,尤,尺"
 乚,,,semantic,not yet glossed — see sources/component-glosses.yaml,3,"亡,直,真"
 也,yě,(closes a statement: it is so),phonetic,glossed,3,"地,施,馳"
 亼,jí,to gather together,semantic,glossed,3,"今,令,合"
@@ -116,7 +117,6 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 丮,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"執,孰"
 乁,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"今,市"
 乙,,,phonetic,"no gloss needed: present for sound, not meaning",2,"失,曰"
-乙,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"亂,尺"
 亏,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"平,智"
 亡,wáng,perish,phonetic,glossed,2,"妄,盲"
 亡,wáng,perish,semantic,glossed,2,"望,無"
@@ -136,6 +136,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 半,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"泮,谷"
 卪,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"卻,色"
 厶,sī,enclosing for oneself — the private,semantic,glossed,2,"公,鬼"
+又,yòu,again / and further,phonetic,glossed,2,"尤,有"
 古,gǔ,ancient,semantic,glossed,2,"居,民"
 召,zhào,summon,phonetic,glossed,2,"昭,超"
 可,kě,can be (可 + verb) / can (可以 + verb) / cannot (不可),phonetic,glossed,2,"何,阿"
@@ -299,7 +300,6 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 厹,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,萬
 去,qù,let go of / leave / apart (20),semantic,glossed,1,法
 叀,,,phonetic,"no gloss needed: present for sound, not meaning",1,專
-又,yòu,again / and further,phonetic,glossed,1,有
 叕,,,phonetic,"no gloss needed: present for sound, not meaning",1,輟
 叚,,,phonetic,"no gloss needed: present for sound, not meaning",1,瑕
 句,,,phonetic,"no gloss needed: present for sound, not meaning",1,狗
@@ -365,7 +365,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 尃,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,博
 小,xiǎo,small,phonetic,glossed,1,肖
 小,xiǎo,small,semantic,glossed,1,少
-尤,yóu,blame/fault,semantic,glossed,1,稽
+尤,yóu,blame,semantic,glossed,1,稽
 尹,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,君
 屋,,,phonetic,"no gloss needed: present for sound, not meaning",1,握
 屯,,,phonetic,"no gloss needed: present for sound, not meaning",1,春

@@ -100,6 +100,8 @@ def main():
         # what is locked.
         status = e.get("status", "").strip() or "?"
         badge = {"locked": "**locked**", "open": "open — not yet a lock"}.get(status, status)
+        if e.get("binds"):
+            badge += " · binds " + ", ".join(e["binds"]) + " only"
         out.append(
             f'| **{e.get("term","")}** | *{e.get("pinyin","")}* | {_render_cell(e)} '
             f'| {never} | {span} | {badge} | [`{e["file"]}`]({e["file"]}) |'
@@ -144,6 +146,12 @@ def main():
         y.append(f'  chapters: [{", ".join(e.get("chapters", []))}]')
         y.append(f'  status: {e.get("status","open")}')
         y.append(f'  entry: glossary/{e["file"]}')
+        # Other books vendor this file as their own lock table (the I Ching, at
+        # ../iching/sources/locks/). `binds:` names the books a lock holds in;
+        # absent, it holds in every book that vendors it. 咎 and 尤 were the
+        # first to need it: the I Ching rules both differently, on purpose.
+        if e.get("binds"):
+            y.append(f'  binds: [{", ".join(e["binds"])}]')
         for f in OPTIONAL_FIELDS:
             if e.get(f):
                 y.append(f'  {f}: {e[f]}')

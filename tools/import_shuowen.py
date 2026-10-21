@@ -148,6 +148,7 @@ SHUOWEN_VARIANTS = {
     "兕": "𤉡",   # 如野牛而青
     "傫": "儽",   # 垂皃。一曰嬾解 — drooping; slack (ch 20's 傫傫)
     "鄉": "𨞰",   # 國離邑，民所封鄉也 — the definition uses 鄉 itself
+    "尤": "尢",   # 異也 — under 乙; the "lame" radical is filed apart, as 尣
     # The modern graph is the entry's 或體 / 篆文 / later form, filed under it:
     "抱": "捊",   # 引取也 — 抱 is 捊's variant with 包
     "網": "网",   # 庖犧所結繩以漁

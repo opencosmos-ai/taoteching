@@ -126,6 +126,7 @@ covers:
 | `status` | `locked` or `open` |
 | `pairing` | `true` if the meaning lives between two characters |
 | `covers` | secondary characters treated inside this entry |
+| `binds` | the books this lock holds in, e.g. `[taoteching]`. **Omit it** and the lock holds in every book that vendors `terms.yaml` — the I Ching does, as its own lock table. Set it only where another book has ruled the character differently on purpose, and say why in the entry's prose (`jiu-咎.md`, `you-尤.md`) |
 | `shuowen` | Xu Shen's 說文 line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer and `data/` exports; omit it rather than guess |
 
 **Flexions go in `flexions:`, never in a sentence inside `render:`.**

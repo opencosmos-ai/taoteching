@@ -129,12 +129,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 8,11,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,"In moving, masterful at timing."
 8,12,唯,wéi,唯,only,yes,1.0,exact-count,Only because it does not contend
 8,12,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,Only because it does not contend
+8,13,尤,yóu,尤,blame,yes,1.0,exact-count,is there no blame.
 8,13,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,is there no blame.
 9,1,持,Chí,持,hold,yes,0.3,proportional,"Rather than keep filling what you hold, stop."
 9,4,保,bǎo,保,keep safe,yes,0.2,proportional-fill,"Hammer a point ever sharper, and it will not keep for long."
 9,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.2,proportional-fill,"Hammer a point ever sharper, and it will not keep for long."
 9,6,守,shǒu,守,hold to,yes,0.2,proportional-fill,"Gold and jade fill the hall, and no one can guard them."
 9,6,能,néng,可,be able,NOT FOUND,0.2,proportional-fill,"Gold and jade fill the hall, and no one can guard them."
+9,8,咎,jiù,咎,fault,yes,0.2,proportional-fill,"Grow arrogant with wealth and status, and you leave yourself the fault."
 9,9,身,shēn,身,body,yes,0.3,proportional,"The work done, the body withdraws. This is the way of nature."
 9,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.2,proportional-fill,"The work done, the body withdraws. This is the way of nature."
 9,10,道,dào,道,the Tao / way,yes,0.2,proportional-fill,"The work done, the body withdraws. This is the way of nature."
@@ -794,6 +796,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 46,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,3,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"There is no greater disaster than discontent,"
+46,4,咎,Jiù,咎,fault,yes,1.0,exact-count,No greater fault than craving to acquire.
 46,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,No greater fault than craving to acquire.
 46,5,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,And so the contentment of knowing you have enough is ever-present contentment.
 47,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,0.3,proportional,"Without leaving home, you know the whole world. Without looking out the window, you see the way of nature."
