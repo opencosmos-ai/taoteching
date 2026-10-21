@@ -106,12 +106,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 11,9,3,有室之用。,yǒu shì zhī yòng.,there is the use/utility of the room \[shi\].,the room has its use.,exact-count
 11,10,4,故有之以為利，,"Gù yǒu zhī yǐ wéi lì,","Therefore \[gu\], presence/having \[you\] it \[zhi\] is used for/provides \[yi wei\] benefit/advantage \[li\],","So presence gives the advantage,",exact-count
 11,11,4,無之以為用。,wú zhī yǐ wéi yòng.,nothingness/absence \[wu\] of it is used for/provides utility/function \[yong\].,and absence gives the use.,exact-count
-12,1,1,五色令人目盲；,Wǔ sè lìng rén mù máng;,Five \[wu\] colors \[se\] cause/make \[ling\] people's \[ren\] eyes \[mu\] blind \[mang\];,The full spectrum of colors makes the eyes blind.,proportional
-12,2,1,五音令人耳聾；,Wǔ yīn lìng rén ěr lóng;,Five \[wu\] tones/notes \[yin\] cause \[ling\] people's \[ren\] ears \[er\] deaf \[long\];,The full spectrum of tones makes the ears deaf.,proportional
-12,3,1,五味令人口爽；,Wǔ wèi lìng rén kǒu shuǎng;,Five \[wu\] flavors/tastes \[wei\] cause \[ling\] people's \[ren\] mouths \[kou\] dull/spoiled \[shuang\];,The full spectrum of flavors makes the palate dull.,proportional
-12,4,2,馳騁畋獵，,"Chí chěng tián liè,","Galloping/racing \[chi cheng\] and hunting \[tian lie\],",Galloping in pursuit of prey makes the heart wild.,proportional
-12,5,2,令人心發狂；,lìng rén xīn fā kuáng;,cause \[ling\] people's \[ren\] minds/hearts \[xin\] to go wild/mad \[fa kuang\];,Galloping in pursuit of prey makes the heart wild.,proportional-fill
-12,6,2,難得之貨，,"Nán dé zhī huò,","Hard \[nan\] to obtain \[de\] goods/wealth \[huo\],",Rare goods make actions corrupt.,proportional
+12,1,1,五色令人目盲；,Wǔ sè lìng rén mù máng;,Five \[wu\] colors \[se\] cause/make \[ling\] people's \[ren\] eyes \[mu\] blind \[mang\];,The full spectrum of colors makes people's eyes blind.,proportional
+12,2,1,五音令人耳聾；,Wǔ yīn lìng rén ěr lóng;,Five \[wu\] tones/notes \[yin\] cause \[ling\] people's \[ren\] ears \[er\] deaf \[long\];,The full spectrum of tones makes people's ears deaf.,proportional
+12,3,1,五味令人口爽；,Wǔ wèi lìng rén kǒu shuǎng;,Five \[wu\] flavors/tastes \[wei\] cause \[ling\] people's \[ren\] mouths \[kou\] dull/spoiled \[shuang\];,The full spectrum of flavors makes people's palates dull.,proportional
+12,4,2,馳騁畋獵，,"Chí chěng tián liè,","Galloping/racing \[chi cheng\] and hunting \[tian lie\],",Galloping in pursuit of prey makes people's hearts wild.,proportional
+12,5,2,令人心發狂；,lìng rén xīn fā kuáng;,cause \[ling\] people's \[ren\] minds/hearts \[xin\] to go wild/mad \[fa kuang\];,Galloping in pursuit of prey makes people's hearts wild.,proportional-fill
+12,6,2,難得之貨，,"Nán dé zhī huò,","Hard \[nan\] to obtain \[de\] goods/wealth \[huo\],",Rare goods hinder people's conduct.,proportional
 12,7,2,令人行妨。,lìng rén xíng fáng.,cause \[ling\] people's \[ren\] actions/conduct \[xing\] to be hindered/harmed \[fang\].,"Therefore the sage acts for the belly, not for the eye.",proportional
 12,8,3,是以聖人為腹不為目，,"Shì yǐ shèng rén wèi fù bù wèi mù,","Therefore \[shi yi\] the Sage \[sheng ren\] acts for/provides for \[wei\] the belly/stomach \[fu\] not \[bu\] for \[wei\] the eyes \[mu\],",They let go of what is out there and take what is here.,proportional
 12,9,3,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore \[gu\] discards/rejects \[qu\] that \[bi\] and takes/chooses \[qu\] this \[ci\].,They let go of what is out there and take what is here.,proportional-fill
@@ -697,7 +697,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 66,2,1,以其善下之，故能為百谷王。,"Yǐ qí shàn xià zhī, gù néng wéi bǎi gǔ wáng.","Is because they are masterful at positioning themselves lower than them, thus they can function as the kings of the hundred valleys.",That is how they come to rule the hundred valleys.,proportional
 66,3,2,是以欲上民，必以言下之；,"Shì yǐ yù shàng mín, bì yǐ yán xià zhī;","Therefore, wishing to be above the people, one must by words position oneself below them;","So to rise above the people, you must speak from below them.",proportional
 66,4,2,欲先民，必以身後之。,"Yù xiān mín, bì yǐ shēn hòu zhī.","Wishing to be ahead of the people, one must put one's person/body behind them.","To walk ahead of the people, you must put your body behind them.",proportional
-66,5,3,是以聖人處上而民不重，,"Shì yǐ shèng rén chǔ shàng ér mín bù zhòng,",Therefore the Sage dwells above and the people do not feel heavy/burdened;,"The sage stands above, and the people are not weighed down, / stands in front, and the people are not hindered.",proportional
+66,5,3,是以聖人處上而民不重，,"Shì yǐ shèng rén chǔ shàng ér mín bù zhòng,",Therefore the Sage dwells above and the people do not feel heavy/burdened;,"The sage stands above, and the people are not weighed down, / stands in front, and the people are not harmed.",proportional
 66,6,3,處前而民不害。,Chǔ qián ér mín bù hài.,Dwells in front and the people do not feel harmed/obstructed.,So the world gladly pushes them forward and never tires of them.,proportional
 66,7,4,是以天下樂推而不厭。,Shì yǐ tiān xià lè tuī ér bù yàn.,Therefore the world gladly pushes them forward and does not tire of them.,"Because they do not contend,",proportional
 66,8,4,以其不爭，故天下莫能與之爭。,"Yǐ qí bù zhēng, gù tiān xià mò néng yǔ zhī zhēng.","Because they do not compete/contend, therefore no one in the world can compete with them.",no one in the world can contend with them.,proportional

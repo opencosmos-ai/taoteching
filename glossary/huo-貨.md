@@ -60,10 +60,10 @@ The book uses three characters built on the cowrie, and our English had been shu
 
 ### Where it appears
 
-**Three of the five are one stock phrase**, 難得之貨, always under a verb of prizing or in a list of what corrupts:
+**Three of the five are one stock phrase**, 難得之貨, always under a verb of prizing or in a list of what disables a person:
 
 > 不貴**難得之貨**，使民不為盜 (3) — *not prizing rare goods, the people do not become thieves.*
-> **難得之貨**，令人行妨 (12) — *rare goods make conduct go wrong.*
+> **難得之貨**，令人行妨 (12) — *rare goods hinder people's conduct.*
 > 是以聖人欲不欲，不貴**難得之貨** (64) — *so the sage wants the not-wanting, and does not prize rare goods.*
 
 **The other two are ordinary and concrete.** Chapter 44 sets it against the body: 身與貨孰多 — *"the self or goods, which is worth more?"* Chapter 53 puts it at the end of a list of a ruler's excesses: 財貨有餘 — *"wealth and goods in surplus"*, where 財 (*cái* — property) and 貨 form a bound compound and each keeps its own English.

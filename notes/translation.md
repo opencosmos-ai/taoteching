@@ -1256,6 +1256,8 @@ Two closing decisions, both about resisting a smoother English.
 
 ### Ch 66 · 處前而民不害 → "the people are not hindered" — and the reading we did not take
 
+***Superseded 2026-10-20 (Shalom's call): now "the people are not harmed."*** *Hinder* went to 妨 (*fáng* — to hinder) at ch 12, the character whose ordinary sense it is; this note had borrowed it through the compound 妨害 (*fáng hài*). 害 now reads *harm* in all five of its chapters (35, 56, 66, 73, 81). The argument below for the people's **experience** over their intent stands unchanged; what the line gives up is the hint of obstruction beside *weighed down*. `chapters/012.md` → *令人行妨*.
+
 害 (*hài*) is *harm*, and the line is genuinely double.
 
 **河上公 reads it as the people's intent:** 民親之若父母，無有欲害之心也 — *"the people are close to them as to father and mother, and have no heart wishing to harm them."* On that reading, 不害 describes what the people do **not want to do to the leader**.

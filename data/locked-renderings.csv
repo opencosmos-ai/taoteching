@@ -35,6 +35,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,6,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Front and back follow each other.
 2,6,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Front and back follow each other.
 2,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,Front and back follow each other.
+2,7,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Therefore the sage dwells in the work of non-doing
 2,8,物,wù,萬物,things / something,NOT FOUND,0.3,proportional,and carries out the teaching without words.
 2,8,萬,Wàn,萬物,countless,NOT FOUND,0.3,proportional,and carries out the teaching without words.
 2,9,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"The countless things arise, and the sage does not begin them. They are born, and the sage does not possess them."
@@ -185,8 +186,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 11,11,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and absence gives the use.
 11,11,無,wú,無 & 有,absence,yes,1.0,exact-count,and absence gives the use.
 11,11,用,yòng,無 & 有,use,yes,1.0,exact-count,and absence gives the use.
-12,5,心,xīn,心,heart,yes,0.2,proportional-fill,Galloping in pursuit of prey makes the heart wild.
-12,6,貨,huò,貨,goods,yes,0.3,proportional,Rare goods make actions corrupt.
+12,5,心,xīn,心,heart,yes,0.2,proportional-fill,Galloping in pursuit of prey makes people's hearts wild.
+12,6,貨,huò,貨,goods,yes,0.3,proportional,Rare goods hinder people's conduct.
+12,7,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,"Therefore the sage acts for the belly, not for the eye."
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
 12,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,They let go of what is out there and take what is here.
@@ -382,9 +384,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 23,17,信,Xìn,信,trust / trustworthy,yes,0.3,proportional,"Where trust runs short, there is no trust."
 23,18,信,xìn,信,trust / trustworthy,yes,0.2,proportional-fill,"Where trust runs short, there is no trust."
 23,18,有,Yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,"Where trust runs short, there is no trust."
+24,2,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Those who take long strides get nowhere.
 24,3,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,0.3,proportional,Those who show themselves off do not see clearly.
 24,5,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Those who claim the work have none.
 24,7,道,dào,道,the Tao / way,yes,0.3,proportional,"Measured by the Tao, these are called leftover food and wasted motion."
+24,8,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Living things recoil from them.
 24,9,物,Wù,萬物,things / something,NOT FOUND,0.3,proportional,Those who are with the Tao do not dwell among them.
 24,10,有,yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
 24,10,道,dào,道,the Tao / way,yes,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
@@ -393,6 +397,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,1,物,wù,萬物,things / something,yes,0.3,proportional,"Something mixed and complete, born before sky and earth."
 25,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
 25,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
+25,5,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,I do not know its name.
 25,6,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
 25,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
 25,6,母,mǔ,母,mother,NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
@@ -421,12 +426,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,19,道,Dào,道,the Tao / way,yes,0.2,proportional-fill,The Tao models itself on being what it is.
 26,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The heavy is the root of the light.
 26,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Stillness is the ruler of the agitated.
+26,3,行,xíng,行,go / carry out / conduct,yes,0.3,proportional,"Therefore, the noble travels all day without leaving the baggage wagons."
 26,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Even where the sights are glorious, they dwell at ease and stay apart."
 26,6,萬,wàn,萬物,countless,NOT FOUND,0.3,proportional,make their own body light in the world?
 26,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Lightness loses the root.
 26,7,身,shēn,身,body,NOT FOUND,0.3,proportional,Lightness loses the root.
 27,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful traveling leaves no tracks.
 27,1,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful traveling leaves no tracks.
+27,1,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Masterful traveling leaves no tracks.
 27,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,Masterful speaking is flawless.
 27,2,無,wú,無 & 有,absence,NOT FOUND,0.3,proportional,Masterful speaking is flawless.
 27,3,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.2,proportional-fill,Masterful speaking is flawless.
@@ -496,6 +503,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 29,5,執,zhí,執,grasp,NOT FOUND,0.3,proportional,"So among things, some go ahead, some follow;"
 29,5,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"So among things, some go ahead, some follow;"
 29,6,物,wù,萬物,things / something,yes,0.2,proportional-fill,"So among things, some go ahead, some follow;"
+29,6,行,xíng,行,go / carry out / conduct,yes,0.2,proportional-fill,"So among things, some go ahead, some follow;"
 29,8,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"some are strong, some are frail;"
 29,10,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur."
 30,1,道,dào,道,the Tao / way,yes,0.3,proportional,One who supports a ruler with the Tao does not use military force to dominate the world.
@@ -553,6 +561,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
 33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
 33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
+33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
 34,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
@@ -698,6 +707,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 40,4,無,wú,無 & 有,absence,yes,1.0,exact-count,Presence is born from absence.
 40,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Presence is born from absence.
 41,1,士,shì,士,in service,yes,0.3,proportional,"Those highest in service hear the Tao and practice it with diligence. Those middling in service hear the Tao and keep some, forget some."
+41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,"Those highest in service hear the Tao and practice it with diligence. Those middling in service hear the Tao and keep some, forget some."
 41,1,道,dào,道,the Tao / way,yes,0.3,proportional,"Those highest in service hear the Tao and practice it with diligence. Those middling in service hear the Tao and keep some, forget some."
 41,2,士,shì,士,in service,yes,0.3,proportional,"Those lowest in service hear the Tao and laugh aloud at it. If it weren’t laughed at, the Tao wouldn’t be what it is."
 41,2,道,dào,道,the Tao / way,yes,0.3,proportional,"Those lowest in service hear the Tao and laugh aloud at it. If it weren’t laughed at, the Tao wouldn’t be what it is."
@@ -790,6 +800,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
 47,2,道,dào,道,the Tao / way,NOT FOUND,0.3,proportional,"The further out you venture, the less you know."
 47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,"names without seeing,"
+47,4,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,"names without seeing,"
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,and accomplishes without acting.
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
@@ -846,6 +857,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they cling too tightly to life.
 50,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
 50,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
+50,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"can travel the land without meeting rhinos or tigers,"
 50,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The rhino’s horn has nowhere to thrust,"
 50,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,10,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
@@ -898,6 +910,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 53,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
+53,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,2,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"The great Tao is very level, yet people love to take shortcuts."
 53,2,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,"The great Tao is very level, yet people love to take shortcuts."
@@ -1027,6 +1040,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 62,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,0.3,proportional,and what keeps safe those who are not.
 62,3,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,Fine words can buy honor.
 62,3,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,Fine words can buy honor.
+62,3,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Fine words can buy honor.
 62,4,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,0.3,proportional,"Fine conduct can raise a person above others. So when a person is unmasterful, why abandon them?"
 62,4,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Fine conduct can raise a person above others. So when a person is unmasterful, why abandon them?"
 62,5,公,gōng,公,impartiality / impartial (the quality) · lord / minister (the office),NOT FOUND,0.3,proportional,"When they raise up a child of the sky and install the three ministers,"
@@ -1068,6 +1082,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,3,治,zhì,治,govern,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,3,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,Handle it before it exists. Order it before it falls into disorder.
 64,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,The tree the width of both arms is born from a hair's tip.
+64,6,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,Those who handle it ruin it. Those who grasp it lose it.
 64,7,執,zhí,執,grasp,NOT FOUND,0.3,proportional,"Therefore, the sage does not do, and so ruins nothing,"
 64,7,為,Wéi,為,do / handle / serve as,yes,0.3,proportional,"Therefore, the sage does not do, and so ruins nothing,"
 64,8,執,zhí,執,grasp,yes,0.3,proportional,"does not grasp, and so loses nothing. People always ruin their affairs just short of completing them."
@@ -1115,8 +1130,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,3,民,mín,民,the people,yes,0.3,proportional,"So to rise above the people, you must speak from below them."
 66,4,民,mín,民,the people,yes,0.3,proportional,"To walk ahead of the people, you must put your body behind them."
 66,4,身,shēn,身,body,yes,0.3,proportional,"To walk ahead of the people, you must put your body behind them."
-66,5,民,mín,民,the people,yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not hindered."
-66,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not hindered."
+66,5,民,mín,民,the people,yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not harmed."
+66,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,0.3,proportional,"The sage stands above, and the people are not weighed down, stands in front, and the people are not harmed."
 66,6,民,mín,民,the people,NOT FOUND,0.3,proportional,So the world gladly pushes them forward and never tires of them.
 66,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Because they do not contend,"
 66,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,no one in the world can contend with them.
@@ -1173,6 +1188,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 69,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,I do not push to move first. I move second.
 69,3,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,exact-count,I do not push an inch into another's ground. I give up a foot of my own.
 69,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"This is called marching where there are no ranks,"
+69,4,行,xíng,行,go / carry out / conduct,yes,1.0,exact-count,"This is called marching where there are no ranks,"
+69,4,行,xíng,行,go / carry out / conduct,yes,1.0,exact-count,"This is called marching where there are no ranks,"
 69,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"baring an arm where there is no arm,"
 69,6,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"hauling where there is no enemy,"
 69,7,執,Zhí,執,grasp,yes,1.0,exact-count,grasping where there is no weapon.
@@ -1180,9 +1197,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 69,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,There is no disaster greater than making light of the enemy.
 69,9,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,Making light of the enemy nearly costs me my treasures.
 70,1,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.3,proportional,"My words are very easy to know, very easy to follow."
+70,1,行,xíng,行,go / carry out / conduct,yes,0.3,proportional,"My words are very easy to know, very easy to follow."
 70,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"In all the world, no one can know them. No one can follow them."
 70,2,能,néng,可,be able,NOT FOUND,0.3,proportional,"In all the world, no one can know them. No one can follow them."
 70,2,能,néng,可,be able,NOT FOUND,0.3,proportional,"In all the world, no one can know them. No one can follow them."
+70,2,行,xíng,行,go / carry out / conduct,yes,0.3,proportional,"In all the world, no one can know them. No one can follow them."
 70,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,0.3,proportional,Words have an ancestor. Affairs have a ruler.
 70,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Words have an ancestor. Affairs have a ruler.
 70,3,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,Words have an ancestor. Affairs have a ruler.
@@ -1285,6 +1304,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,柔,róu,柔,soft,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
 78,3,能,néng,可,be able,NOT FOUND,0.3,proportional,yet no one can follow it. So the sage says:
+78,3,行,xíng,行,go / carry out / conduct,yes,0.3,proportional,yet no one can follow it. So the sage says:
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,0.3,proportional,whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state

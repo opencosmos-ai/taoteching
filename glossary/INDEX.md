@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**59 entries.** Sorted by how much of the book each term touches.
+**60 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -21,6 +21,7 @@ python3 tools/build_index.py
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **生** | *shēng* | give birth to / bear / bring forth | "generate", "produce", "manufacture", "create" | 19 | **locked** | [`sheng-生.md`](sheng-生.md) |
 | **善** | *shàn* | masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category) | "virtuous", "righteous", "saintly", "benevolent" | 18 | **locked** | [`shan-善.md`](shan-善.md) |
+| **行** | *xíng* | go / carry out / conduct · *follow* (ch 70, 78) · *ranks* (ch 69) | "action", "execute" | 17 | open — not yet a lock | [`xing-行.md`](xing-行.md) |
 | **德** | *dé* | integrity | "virtue", "moral excellence", "power" | 16 | **locked** | [`de-德.md`](de-德.md) |
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **唯** | *wéi* | only · *yes* (ch 20) | "precisely" | 15 | **locked** | [`wei-唯.md`](wei-唯.md) |

@@ -80,6 +80,18 @@ We print 長短相**形**，高下相**盈** — *"long and short give each othe
 
 **We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58.
 
+### Ch 12 · 是以聖人之治也 — in the silks, the belly is the governed's
+
+**The fork.** Our base closes 是以聖人為腹不為目 — *"therefore the sage acts for the belly, not for the eye."* **Both Mawangdui silks** read 是以聖人**之治也** — *"therefore the sage's governing:"* — with silk A writing 聖 (*shèng* — the sage) as 聲 (*shēng* — sound), a loan. Silk B continues 為腹而不為目, *"for the belly and not for the eye."* Guodian does not carry the chapter.
+
+**What turns on it is whose belly.** 是以聖人之治 is ch 3's frame, word for word: 是以聖人之治，虛其心，實其腹 — *"this is how the sage governs: emptying their hearts and filling their bellies."* Ch 3 also holds 難得之貨 (*nán dé zhī huò* — rare goods) and 心 (*xīn* — the heart). In the silks, then, ch 12 is a chapter about governing, and the belly the sage acts for is the people's. Without 之治也, both commentators read it as the sage's own. 王弼 (*Wáng Bì*): 為腹者，以物養己 — *"one who acts for the belly uses things to nourish themselves."* 河上公 (*Héshàng Gōng*): 守五性，去六情 — *"keeps to the five natures and lets go of the six passions,"* a regimen for the self.
+
+**Our call: the base, and the English does not have to choose.** *"The sage acts for the belly"* names no owner for the belly, so it holds the silks' reading and the commentators' both. Recorded because a reader who knows ch 3 will hear the echo, and because the received text lost it.
+
+**The other forks change no line** (`sources/variants.yaml`): 使 (*shǐ* — to cause) for 令 (*lìng* — to make) throughout; 之 (*zhī* — 's) added before the faculty in three of the five lines, 使人之行 among them, which makes 行 (*xíng* — conduct) a noun a person owns; 妨 (*fáng* — to hinder) written by its sound, 方 in silk A and 仿 in silk B; and the five lines in a different order. `chapters/012.md` → *令人行妨* rests on the second and third.
+
+**Source quality, stated honestly.** Read from two independent online transcriptions of both silks, which agree on every reading above, and from Chinese Wikisource's collated 老子 (匯校版), which confirms 之治也 separately. The two transcriptions disagree on two graphs in silk A (the flavors line, and a 而 (*ér* — and) before 不為目), which is why neither is cited for those. Not checked against 高明 (*Gāo Míng*)'s 帛書老子校注 or the plates. The Beida Han slips were not found for this chapter.
+
 ### Ch 20 · 昏昏 / 若昏 — a doubled state, or a simile
 
 We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone am clouded."* **The Siku compilers note on 王弼**: 〔案昏昏**河上公注本作若昏**〕, and our vendored 河上公 (*Héshàng Gōng*) prints 我獨**若昏**, *"I alone am **as if** 昏."*

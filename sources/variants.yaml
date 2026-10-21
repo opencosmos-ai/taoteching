@@ -1517,3 +1517,48 @@
     keep the base graph and render it bare, "people," which the 民 entry
     declares as a flexion scoped to this chapter.
   logged: notes/manuscript.md
+
+- chapter: 12
+  line: "是以聖人為腹不為目"
+  base: "是以聖人"
+  witnesses: { mawangdui-a: "是以聖人之治也", mawangdui-b: "是以聖人之治也" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Both silks close the chapter 是以聖人之治也 (the sage's governing), silk A
+    writing 聖 (the sage) as 聲 (sound). That is ch 3's frame, 是以聖人之治,
+    where the sage fills the people's bellies, so in the silks the belly (腹)
+    is the governed's. Our base lacks 之治也, and both commentators read the
+    belly as the sage's own. We keep the base; "the sage acts for the belly"
+    names no owner, so the English holds both. Read from secondary
+    transcriptions, not the plates.
+  logged: notes/manuscript.md
+
+- chapter: 12
+  line: "難得之貨，令人行妨"
+  base: "令人行妨"
+  witnesses: { mawangdui-a: "使人之行方", mawangdui-b: "使人之行仿" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Three things, none of which changes the line. Both silks read 使 (to
+    cause) for 令 (to make) in all five lines, so this 令 is plain causative.
+    They add 之 ('s) before the faculty in three of the five (使人之行,
+    使人之口, 使人之耳), which makes 行 (conduct) a noun a person owns. And they
+    write 妨 (to hinder) by its sound, with two different graphs: 方 in silk A,
+    仿 in silk B. Every transcription consulted reads both as 妨, so the silks
+    confirm the word without deciding between Wang Bi's "block" and Heshang
+    Gong's "harm."
+  logged: notes/manuscript.md
+
+- chapter: 12
+  line: "五色令人目盲"
+  base: "五色 五音 五味 馳騁 難得"
+  witnesses: { mawangdui-a: "五色 馳騁 難得 五味 五音", mawangdui-b: "五色 馳騁 難得 五味 五音" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    The silks order the five lines colors (五色), hunting (馳騁), rare goods
+    (難得), flavors (五味), tones (五音). Our base groups the three "five" lines
+    first. No line changes, and we keep the base order.
+  logged: notes/manuscript.md
