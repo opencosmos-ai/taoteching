@@ -72,6 +72,13 @@ class ReaderKeys(unittest.TestCase):
             if ch == "1":
                 self.assertEqual(rows, [[int(seq), 1.0, "exact-count"]])
 
+    def test_an_authored_chapter_pairs_as_written(self):
+        """Ch 25's first English line renders two Chinese lines, which is why
+        its counts differ and why the pairing has to be written by hand."""
+        self.assertEqual(self.r["align"]["25.1"], [[1, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["25.2"], [[1, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["25.19"], [[16, 1.0, "authored"]])
+
     def test_chapter_six_is_a_guess_and_says_so(self):
         self.assertFalse(self.exact(6))
         for v, conf, method in self.r["align"]["6.3"]:

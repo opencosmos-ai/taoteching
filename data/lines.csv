@@ -289,25 +289,25 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 24,8,3,曰餘食贅行，,"Yuē yú shí zhuì xíng,","Is called \[yue\] leftover/surplus \[yu\] food \[shi\] and superfluous/tumor \[zhui\] actions/conduct \[xing\],",Living things recoil from them.,proportional
 24,9,3,物或惡之，,"Wù huò wù zhī,","Physical entities/matter \[wu\] perhaps/naturally \[huo\] despise/hate \[wu\] them \[zhi\],",Those who are with the Tao do not dwell among them.,proportional
 24,10,3,故有道者不處。,Gù yǒu dào zhě bù chǔ.,Therefore \[gu\] those possessing the Tao \[you dao zhe\] do not \[bu\] dwell/stay \[chu\] with them.,Those who are with the Tao do not dwell among them.,proportional-fill
-25,1,1,有物混成，,"Yǒu wù hùn chéng,","There is \[you\] a physical entity/matter \[wu\] chaotically/undifferentiated \[hun\] compiled/formed \[cheng\],","Something mixed and complete, born before sky and earth.",proportional
-25,2,1,先天地生。,Xiān tiān dì shēng.,Before \[xian\] heaven \[tian\] and earth \[di\] born/generated \[sheng\].,Silent. Empty. Solitary. Unchanging.,proportional
-25,3,1,寂兮寥兮，,"Jì xī liáo xī,","Silent/still \[ji\] oh \[xi\] empty/void \[liao\] oh \[xi\],","It moves in a circle, never in danger,",proportional
-25,4,1,獨立而不改，,"Dú lì ér bù gǎi,","Alone/independently \[du\] standing \[li\] and \[er\] not \[bu\] changing/altering \[gai\],",and can be taken as the mother of the world.,proportional
-25,5,1,周行而不殆，,"Zhōu xíng ér bù dài,","Circulating/everywhere \[zhou\] moving/going \[xing\] and \[er\] not \[bu\] endangered/exhausted \[dai\],",I do not know its name.,proportional
-25,6,1,可以為天下母。,Kě yǐ wéi tiān xià mǔ.,Can \[ke\] thereby \[yi\] function as/be \[wei\] the world's \[tian xia\] mother \[mu\].,"Forcing a label on it, I call it the Tao.",proportional
-25,7,2,吾不知其名，,"Wú bù zhī qí míng,","I \[wu\] do not \[bu\] know \[zhi\] its \[qi\] name/ledger \[ming\],","Forcing a label on it, I call it the Tao.",proportional-fill
-25,8,2,強字之曰道，,"Qiǎng zì zhī yuē dào,","Forcing \[qiang\] a style/character \[zi\] for it \[zhi\] I call it \[yue\] the Tao \[dao\],","Forcing a name on it, I call it great.",proportional
-25,9,2,強為之名曰大。,Qiǎng wèi zhī míng yuē dà.,Forcing \[qiang\] to make/function as \[wei\] its \[zhi\] name \[ming\] I call it \[yue\] Great/Vast \[da\].,"Great means departing,",proportional
-25,10,3,大曰逝，,"Dà yuē shì,","Great/Vast \[da\] means/is called \[yue\] passing/expanding \[shi\],","departing means going far,",proportional
-25,11,3,逝曰遠，,"Shì yuē yuǎn,","Passing/expanding \[shi\] means \[yue\] going far \[yuan\],",going far means returning.,proportional
-25,12,3,遠曰反。,Yuǎn yuē fǎn.,Going far \[yuan\] means \[yue\] returning/reverting \[fan\].,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great.",proportional
-25,13,4,故道大，天大，地大，王亦大。,"Gù dào dà, tiān dà, dì dà, wáng yì dà.","Therefore \[gu\] the Tao \[dao\] is great/vast \[da\], heaven \[tian\] is great \[da\], earth \[di\] is great \[da\], the King/Avatar \[wang\] is also \[yi\] great \[da\].","Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great.",proportional-fill
-25,14,4,域中有四大，,"Yù zhōng yǒu sì dà,","Within the realm/domain \[yu zhong\] there are \[you\] four \[si\] great things \[da\],","Within all bounds there are four great things, and one of them is human.",proportional
-25,15,4,而王居其一焉。,Ér wáng jū qí yī yān.,And \[er\] the King/Avatar \[wang\] occupies/dwells \[ju\] as one \[yi\] of them \[qi\] here \[yan\].,"Humans model themselves on the earth,",proportional
-25,16,5,人法地，,"Rén fǎ dì,","Humans \[ren\] model/follow the law of \[fa\] earth \[di\],","Earth models itself on the sky,",proportional
-25,17,5,地法天，,"Dì fǎ tiān,","Earth \[di\] models/follows the law of \[fa\] heaven \[tian\],","The sky models itself on the Tao,",proportional
-25,18,5,天法道，,"Tiān fǎ dào,","Heaven \[tian\] models/follows the law of \[fa\] the Tao \[dao\],",The Tao models itself on being what it is.,proportional
-25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,proportional-fill
+25,1,1,有物混成，,"Yǒu wù hùn chéng,","There is \[you\] a physical entity/matter \[wu\] chaotically/undifferentiated \[hun\] compiled/formed \[cheng\],","Something mixed and complete, born before sky and earth.",authored
+25,2,1,先天地生。,Xiān tiān dì shēng.,Before \[xian\] heaven \[tian\] and earth \[di\] born/generated \[sheng\].,"Something mixed and complete, born before sky and earth.",authored
+25,3,1,寂兮寥兮，,"Jì xī liáo xī,","Silent/still \[ji\] oh \[xi\] empty/void \[liao\] oh \[xi\],",Silent. Empty. Solitary. Unchanging.,authored
+25,4,1,獨立而不改，,"Dú lì ér bù gǎi,","Alone/independently \[du\] standing \[li\] and \[er\] not \[bu\] changing/altering \[gai\],",Silent. Empty. Solitary. Unchanging.,authored
+25,5,1,周行而不殆，,"Zhōu xíng ér bù dài,","Circulating/everywhere \[zhou\] moving/going \[xing\] and \[er\] not \[bu\] endangered/exhausted \[dai\],","It moves in a circle, never in danger,",authored
+25,6,1,可以為天下母。,Kě yǐ wéi tiān xià mǔ.,Can \[ke\] thereby \[yi\] function as/be \[wei\] the world's \[tian xia\] mother \[mu\].,and can be taken as the mother of the world.,authored
+25,7,2,吾不知其名，,"Wú bù zhī qí míng,","I \[wu\] do not \[bu\] know \[zhi\] its \[qi\] name/ledger \[ming\],",I do not know its name.,authored
+25,8,2,強字之曰道，,"Qiǎng zì zhī yuē dào,","Forcing \[qiang\] a style/character \[zi\] for it \[zhi\] I call it \[yue\] the Tao \[dao\],","Forcing a label on it, I call it the Tao.",authored
+25,9,2,強為之名曰大。,Qiǎng wèi zhī míng yuē dà.,Forcing \[qiang\] to make/function as \[wei\] its \[zhi\] name \[ming\] I call it \[yue\] Great/Vast \[da\].,"Forcing a name on it, I call it great.",authored
+25,10,3,大曰逝，,"Dà yuē shì,","Great/Vast \[da\] means/is called \[yue\] passing/expanding \[shi\],","Great means departing,",authored
+25,11,3,逝曰遠，,"Shì yuē yuǎn,","Passing/expanding \[shi\] means \[yue\] going far \[yuan\],","departing means going far,",authored
+25,12,3,遠曰反。,Yuǎn yuē fǎn.,Going far \[yuan\] means \[yue\] returning/reverting \[fan\].,going far means returning.,authored
+25,13,4,故道大，天大，地大，王亦大。,"Gù dào dà, tiān dà, dì dà, wáng yì dà.","Therefore \[gu\] the Tao \[dao\] is great/vast \[da\], heaven \[tian\] is great \[da\], earth \[di\] is great \[da\], the King/Avatar \[wang\] is also \[yi\] great \[da\].","Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great.",authored
+25,14,4,域中有四大，,"Yù zhōng yǒu sì dà,","Within the realm/domain \[yu zhong\] there are \[you\] four \[si\] great things \[da\],","Within all bounds there are four great things, and one of them is human.",authored
+25,15,4,而王居其一焉。,Ér wáng jū qí yī yān.,And \[er\] the King/Avatar \[wang\] occupies/dwells \[ju\] as one \[yi\] of them \[qi\] here \[yan\].,"Within all bounds there are four great things, and one of them is human.",authored
+25,16,5,人法地，,"Rén fǎ dì,","Humans \[ren\] model/follow the law of \[fa\] earth \[di\],","Humans model themselves on the earth,",authored
+25,17,5,地法天，,"Dì fǎ tiān,","Earth \[di\] models/follows the law of \[fa\] heaven \[tian\],","Earth models itself on the sky,",authored
+25,18,5,天法道，,"Tiān fǎ dào,","Heaven \[tian\] models/follows the law of \[fa\] the Tao \[dao\],","The sky models itself on the Tao,",authored
+25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,authored
 26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,proportional
 26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness/silence \[jing\] functions as/is \[wei\] the master/ruler \[jun\] of the restless/agitated \[zao\].,Stillness is the ruler of the agitated.,proportional
 26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the baggage wagons.",proportional

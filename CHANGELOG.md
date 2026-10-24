@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-20
+**Last updated:** 2026-10-24
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-24 — Lines can be paired by hand, starting with ch 25
+
+The Library pairs a Chinese line with its English only where the pairing is certain, and until now that meant only where the line counts agree: 32 chapters. The other 49 differ for good reasons, since one English line can carry two Chinese ones. A chapter can now say which source rows each English line renders, and the build holds that to the text.
+
+- **`## Alignment`**, a new chapter section: one line per English line, naming its source rows (`1: 1–2`). [`AGENTS.md`](AGENTS.md) describes it; `tools/lib/corpus.py` reads it, and `build_db.py` fails unless every English line and every source row is named. The method is `authored`, at confidence 1.0, in the database, the CSVs and the export.
+- **[`chapters/025.md`](chapters/025.md)** is the first. Its locked-renderings rows now sit on the English that renders them, not on a positional guess.
+- **What's left:** the other 48, `WORKLIST.md` T5-23.
 
 ## 2026-10-20 — 尤 and 咎 get entries, and a lock can stay in its own book
 

@@ -394,38 +394,38 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 24,9,物,Wù,萬物,things / something,NOT FOUND,0.3,proportional,Those who are with the Tao do not dwell among them.
 24,10,有,yǒu,無 & 有,presence,NOT FOUND,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
 24,10,道,dào,道,the Tao / way,yes,0.2,proportional-fill,Those who are with the Tao do not dwell among them.
-25,1,有,Yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Something mixed and complete, born before sky and earth."
-25,1,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,0.3,proportional,"Something mixed and complete, born before sky and earth."
-25,1,物,wù,萬物,things / something,yes,0.3,proportional,"Something mixed and complete, born before sky and earth."
-25,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
-25,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,0.3,proportional,Silent. Empty. Solitary. Unchanging.
-25,5,行,xíng,行,go / carry out / conduct,NOT FOUND,0.3,proportional,I do not know its name.
-25,6,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
-25,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
-25,6,母,mǔ,母,mother,NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
-25,6,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Forcing a label on it, I call it the Tao."
-25,7,吾,Wú,我 & 吾,the self seeing,NOT FOUND,0.2,proportional-fill,"Forcing a label on it, I call it the Tao."
-25,8,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"Forcing a name on it, I call it great."
-25,8,道,dào,道,the Tao / way,NOT FOUND,0.3,proportional,"Forcing a name on it, I call it great."
-25,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"Great means departing,"
-25,9,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,0.3,proportional,"Great means departing,"
-25,9,為,wèi,為,do / handle / serve as,NOT FOUND,0.3,proportional,"Great means departing,"
-25,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"departing means going far,"
-25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,13,道,dào,道,the Tao / way,yes,0.2,proportional-fill,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
-25,14,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,0.3,proportional,"Within all bounds there are four great things, and one of them is human."
-25,14,有,yǒu,無 & 有,presence,NOT FOUND,0.3,proportional,"Within all bounds there are four great things, and one of them is human."
-25,15,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,0.3,proportional,"Humans model themselves on the earth,"
-25,15,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,0.3,proportional,"Humans model themselves on the earth,"
-25,17,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,"The sky models itself on the Tao,"
-25,18,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,0.3,proportional,The Tao models itself on being what it is.
-25,18,道,dào,道,the Tao / way,yes,0.3,proportional,The Tao models itself on being what it is.
-25,19,道,Dào,道,the Tao / way,yes,0.2,proportional-fill,The Tao models itself on being what it is.
+25,1,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
+25,1,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
+25,1,物,wù,萬物,things / something,yes,1.0,authored,"Something mixed and complete, born before sky and earth."
+25,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
+25,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
+25,5,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"It moves in a circle, never in danger,"
+25,6,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,and can be taken as the mother of the world.
+25,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,and can be taken as the mother of the world.
+25,6,母,mǔ,母,mother,yes,1.0,authored,and can be taken as the mother of the world.
+25,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,and can be taken as the mother of the world.
+25,7,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,I do not know its name.
+25,8,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Forcing a label on it, I call it the Tao."
+25,8,道,dào,道,the Tao / way,yes,1.0,authored,"Forcing a label on it, I call it the Tao."
+25,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
+25,9,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
+25,9,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
+25,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Great means departing,"
+25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,13,道,dào,道,the Tao / way,yes,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
+25,14,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Within all bounds there are four great things, and one of them is human."
+25,14,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Within all bounds there are four great things, and one of them is human."
+25,15,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Within all bounds there are four great things, and one of them is human."
+25,15,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,1.0,authored,"Within all bounds there are four great things, and one of them is human."
+25,17,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Earth models itself on the sky,"
+25,18,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The sky models itself on the Tao,"
+25,18,道,dào,道,the Tao / way,yes,1.0,authored,"The sky models itself on the Tao,"
+25,19,道,Dào,道,the Tao / way,yes,1.0,authored,The Tao models itself on being what it is.
 26,1,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,The heavy is the root of the light.
 26,2,為,wéi,為,do / handle / serve as,NOT FOUND,0.3,proportional,Stillness is the ruler of the agitated.
 26,3,行,xíng,行,go / carry out / conduct,yes,0.3,proportional,"Therefore, the noble travels all day without leaving the baggage wagons."

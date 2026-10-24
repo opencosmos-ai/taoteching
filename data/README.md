@@ -71,7 +71,9 @@ the apparatus.
 **`alignment_method` is not decoration.** Our English verse lines and the Chinese
 source lines are 1:1 in only 32 of 81 chapters (855 verse lines against 798
 source lines). Where the counts match, `alignment_method` is `exact-count` and
-the pairing is certain. Where they do not, it is `proportional` — a positional
+the pairing is certain. In 1 more, the chapter file carries its own
+`## Alignment`, written by hand and checked whole by the build, and the method
+is `authored`, equally certain. Everywhere else it is `proportional` — a positional
 guess at confidence 0.3, recorded so it can be improved, and **not evidence of
 anything**. `rendering_present = NOT FOUND` on a `proportional` row usually means
 the alignment is wrong, not the translation.

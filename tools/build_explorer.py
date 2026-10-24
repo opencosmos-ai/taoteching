@@ -76,7 +76,7 @@ def payload(conn):
           FROM line l ORDER BY l.chapter, l.seq"""):
         lines[f"{r['chapter']}.{r['seq']}"] = [
             r["chinese"], r["pinyin"], r["eng"] or "",
-            1 if r["m"] == "exact-count" else 0]
+            1 if r["m"] in ("authored", "exact-count") else 0]
 
     # One entry per LINE, not per token, with the count on it. Keyed per token,
     # a character occurring three times in one line — 聖人無常心，以百姓心為心

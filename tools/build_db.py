@@ -36,8 +36,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from lib.corpus import (  # noqa: E402
-    CHAPTERS, GLOSSARY, ROOT, load_chapters, load_guodian, load_terms,
-    load_variants, parse_frontmatter,
+    CHAPTERS, GLOSSARY, ROOT, alignment_errors, load_chapters, load_guodian,
+    load_terms, load_variants, parse_frontmatter,
 )
 
 DB_PATH = ROOT / "data" / "taoteching.sqlite"
@@ -657,11 +657,16 @@ def build(conn, report=False):
             verse_by_chapter[n].append((verse_id, english))
 
     # ---- line alignment ----------------------------------------------------
-    # Where the counts agree the mapping is 1:1 and certain. Where they do not,
-    # a proportional guess is recorded at low confidence and flagged, never
-    # presented as settled: check_locks' repeated-formula rule already learned
-    # this lesson the hard way (three attempts at inference, all failed).
-    align_stats = {"exact": 0, "proportional": 0}
+    # A chapter's own `## Alignment`, where it has one, is the pairing: written
+    # by hand, checked whole, and certain. Otherwise, where the counts agree the
+    # mapping is 1:1 and certain. Where they do not, a proportional guess is
+    # recorded at low confidence and flagged, never presented as settled:
+    # check_locks' repeated-formula rule already learned this lesson the hard
+    # way (three attempts at inference, all failed). WORKLIST T5-23.
+    errors = [e for n in sorted(chapters) for e in alignment_errors(chapters[n])]
+    if errors:
+        raise SystemExit("authored alignment is broken:\n  " + "\n  ".join(errors))
+    align_stats = {"authored": 0, "exact": 0, "proportional": 0}
     for n in sorted(chapters):
         srcs = list(chapters[n].source_rows)
         verses = verse_by_chapter.get(n, [])
@@ -669,7 +674,13 @@ def build(conn, report=False):
             continue
         base = cur.execute("SELECT id, seq FROM line WHERE chapter=? ORDER BY seq",
                            (n,)).fetchall()
-        if len(verses) == len(srcs):
+        if chapters[n].alignment:
+            align_stats["authored"] += 1
+            for p in chapters[n].alignment:
+                for r in p.rows:
+                    cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
+                                (verses[p.verse - 1][0], base[r - 1][0], 1.0, "authored"))
+        elif len(verses) == len(srcs):
             align_stats["exact"] += 1
             for (vid, _), (lid, _) in zip(verses, base):
                 cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
@@ -1109,6 +1120,7 @@ def print_report(cur, stats, align_stats):
         print(f"      ! ch {n} line {seq}: {text}")
 
     print("\n  line alignment")
+    print(f"    authored          {align_stats['authored']} chapters")
     print(f"    exact-count       {align_stats['exact']} chapters")
     print(f"    proportional      {align_stats['proportional']} chapters  "
           f"(low confidence, flagged)")

@@ -46,6 +46,7 @@ retrofit: [萬物, 常]    # terms whose settled rendering this chapter does not
 
 - `## Translation` — the English verse. **This is the translation.** Stanza breaks are meaningful.
 - `## Source` — the Chinese, in `| 原文 | Pinyin | Literal |` tables, optionally grouped into `### Block N` sections that mark verse groupings. The *Literal* column is a working gloss, **not** the translation.
+- `## Alignment` — only where the English and Chinese line counts differ: one line per English line, in order, naming the source rows it renders (`1: 1–2`). Drafted from the *Literal* column. The build fails unless every English line and every source row is named, so adding or cutting a line means updating it. `WORKLIST.md` T5-23.
 - `## Notes` — chapter-specific annotations.
 
 ### If you are extracting the translation

@@ -23,8 +23,10 @@ chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
     align    {"ch.line": [[verse, confidence, method], …]}
                                          which English lines render this Chinese line:
                                          `verse` is 1-based across the chapter's stanzas,
-                                         as in the `verse` key. `method` is exact-count
-                                         (1.0, the counts agree, so the pairing is certain),
+                                         as in the `verse` key. `method` is authored
+                                         (1.0, the chapter's own `## Alignment`, written
+                                         by hand and checked whole), exact-count (1.0,
+                                         the counts agree, so the pairing is certain),
                                          proportional (0.3) or proportional-fill (0.2):
                                          a guess, never to be shown as a pairing
 

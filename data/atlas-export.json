@@ -1642,134 +1642,134 @@
   "25.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "25.10": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "25.11": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "25.12": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "25.13": [
    [
     11,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "25.14": [
    [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "25.15": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "25.16": [
    [
-    14,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "25.17": [
    [
-    15,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "25.18": [
    [
-    16,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
    ]
   ],
   "25.19": [
    [
     16,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "25.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "25.3": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "25.4": [
    [
-    4,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "25.5": [
    [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "25.6": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "25.7": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "25.8": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "25.9": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "26.1": [
@@ -44809,115 +44809,115 @@
    "有物混成，",
    "Yǒu wù hùn chéng,",
    "Something mixed and complete, born before sky and earth.",
-   0
+   1
   ],
   "25.10": [
    "大曰逝，",
    "Dà yuē shì,",
-   "departing means going far,",
-   0
+   "Great means departing,",
+   1
   ],
   "25.11": [
    "逝曰遠，",
    "Shì yuē yuǎn,",
-   "going far means returning.",
-   0
+   "departing means going far,",
+   1
   ],
   "25.12": [
    "遠曰反。",
    "Yuǎn yuē fǎn.",
-   "Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great.",
-   0
+   "going far means returning.",
+   1
   ],
   "25.13": [
    "故道大，天大，地大，王亦大。",
    "Gù dào dà, tiān dà, dì dà, wáng yì dà.",
    "Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great.",
-   0
+   1
   ],
   "25.14": [
    "域中有四大，",
    "Yù zhōng yǒu sì dà,",
    "Within all bounds there are four great things, and one of them is human.",
-   0
+   1
   ],
   "25.15": [
    "而王居其一焉。",
    "Ér wáng jū qí yī yān.",
-   "Humans model themselves on the earth,",
-   0
+   "Within all bounds there are four great things, and one of them is human.",
+   1
   ],
   "25.16": [
    "人法地，",
    "Rén fǎ dì,",
-   "Earth models itself on the sky,",
-   0
+   "Humans model themselves on the earth,",
+   1
   ],
   "25.17": [
    "地法天，",
    "Dì fǎ tiān,",
-   "The sky models itself on the Tao,",
-   0
+   "Earth models itself on the sky,",
+   1
   ],
   "25.18": [
    "天法道，",
    "Tiān fǎ dào,",
-   "The Tao models itself on being what it is.",
-   0
+   "The sky models itself on the Tao,",
+   1
   ],
   "25.19": [
    "道法自然。",
    "Dào fǎ zì rán.",
    "The Tao models itself on being what it is.",
-   0
+   1
   ],
   "25.2": [
    "先天地生。",
    "Xiān tiān dì shēng.",
-   "Silent. Empty. Solitary. Unchanging.",
-   0
+   "Something mixed and complete, born before sky and earth.",
+   1
   ],
   "25.3": [
    "寂兮寥兮，",
    "Jì xī liáo xī,",
-   "It moves in a circle, never in danger,",
-   0
+   "Silent. Empty. Solitary. Unchanging.",
+   1
   ],
   "25.4": [
    "獨立而不改，",
    "Dú lì ér bù gǎi,",
-   "and can be taken as the mother of the world.",
-   0
+   "Silent. Empty. Solitary. Unchanging.",
+   1
   ],
   "25.5": [
    "周行而不殆，",
    "Zhōu xíng ér bù dài,",
-   "I do not know its name.",
-   0
+   "It moves in a circle, never in danger,",
+   1
   ],
   "25.6": [
    "可以為天下母。",
    "Kě yǐ wéi tiān xià mǔ.",
-   "Forcing a label on it, I call it the Tao.",
-   0
+   "and can be taken as the mother of the world.",
+   1
   ],
   "25.7": [
    "吾不知其名，",
    "Wú bù zhī qí míng,",
-   "Forcing a label on it, I call it the Tao.",
-   0
+   "I do not know its name.",
+   1
   ],
   "25.8": [
    "強字之曰道，",
    "Qiǎng zì zhī yuē dào,",
-   "Forcing a name on it, I call it great.",
-   0
+   "Forcing a label on it, I call it the Tao.",
+   1
   ],
   "25.9": [
    "強為之名曰大。",
    "Qiǎng wèi zhī míng yuē dà.",
-   "Great means departing,",
-   0
+   "Forcing a name on it, I call it great.",
+   1
   ],
   "26.1": [
    "重為輕根，",
