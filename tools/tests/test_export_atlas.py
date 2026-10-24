@@ -3,10 +3,10 @@
 The export is a contract with two readers: the Character Atlas, which refuses
 any contract but 1, and the Library on opencosmos.ai, which builds a page per
 chapter from `verse`, `notes`, `literal` and `align`. The case worth guarding
-is the one the Library's ADR 0020 was written around: a proportional guess
-must never look like a pairing. In chapter 6, 玄牝之門 (*xuán pìn zhī mén* —
-"the gate of the dark female") is guessed onto "This is the dark female.",
-when its English is the next line.
+is the one the Library's ADR 0020 was written around: a guess must never look
+like a pairing. In chapter 6, 玄牝之門 (*xuán pìn zhī mén* — "the gate of the
+dark female") was guessed onto "This is the dark female.", when its English is
+the next line. Since 2026-10-24 there is no guess: every pairing is certain.
 """
 
 import sqlite3
@@ -72,11 +72,25 @@ class ReaderKeys(unittest.TestCase):
             if ch == "1":
                 self.assertEqual(rows, [[int(seq), 1.0, "exact-count"]])
 
-    def test_chapter_six_is_a_guess_and_says_so(self):
-        self.assertFalse(self.exact(6))
-        for v, conf, method in self.r["align"]["6.3"]:
-            self.assertNotEqual(method, "exact-count")
-            self.assertLess(conf, 1.0)
+    def test_an_authored_chapter_pairs_as_written(self):
+        """Ch 25's first English line renders two Chinese lines, which is why
+        its counts differ and why the pairing has to be written by hand."""
+        self.assertEqual(self.r["align"]["25.1"], [[1, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["25.2"], [[1, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["25.19"], [[16, 1.0, "authored"]])
+
+    def test_chapter_six_pairs_its_gate_correctly(self):
+        """The guess paired the gate of the dark female with "This is the dark
+        female." Its English is the next line, and the alignment says so."""
+        self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["6.4"], [[3, 1.0, "authored"]])
+
+    def test_every_pairing_is_certain(self):
+        """No chapter falls back to a guess (WORKLIST T5-23)."""
+        for key, rows in self.r["align"].items():
+            for _, conf, method in rows:
+                self.assertIn(method, ("exact-count", "authored"), key)
+                self.assertEqual(conf, 1.0, key)
 
     def test_stanzas_are_kept(self):
         """Chapter 1 is written in more than one stanza; the blank lines between

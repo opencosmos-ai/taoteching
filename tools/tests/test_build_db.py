@@ -180,6 +180,63 @@ class Frontmatter(unittest.TestCase):
         self.assertEqual(fm["covers"], [("柔", "soft")])
 
 
+class AuthoredAlignment(unittest.TestCase):
+    """A chapter's `## Alignment` is shown to readers as fact, so it is
+    checked whole: a hole, or a line added on one side and not the other,
+    fails the build rather than publishing a pairing that is no longer true.
+    WORKLIST T5-23."""
+
+    def chapter(self, alignment, verse=3, rows=4):
+        from lib.corpus import Chapter, SourceRow, _parse_alignment
+        return Chapter(
+            0, Path("000.md"), "drafted", [],
+            [(i, f"line {i}") for i in range(1, verse + 1)],
+            [SourceRow("字", "zì", "", 1, i) for i in range(1, rows + 1)],
+            "", alignment=_parse_alignment(alignment, 1))
+
+    def errors(self, *args, **kw):
+        from lib.corpus import alignment_errors
+        return alignment_errors(self.chapter(*args, **kw))
+
+    def test_ranges_and_lists_are_read(self):
+        ch = self.chapter("1: 1–2\n2: 3\n3: 2, 4\n")
+        self.assertEqual([p.rows for p in ch.alignment], [[1, 2], [3], [2, 4]])
+        self.assertEqual(self.errors("1: 1-2\n2: 3\n3: 2, 4\n"), [])
+
+    def test_even_counts_need_no_alignment(self):
+        self.assertEqual(self.errors("", verse=4), [])
+
+    def test_uneven_counts_need_an_alignment(self):
+        """There is no guess to fall back on: a chapter whose counts come apart
+        fails until someone writes down how its lines pair."""
+        errs = self.errors("")
+        self.assertTrue(any("needs an `## Alignment`" in e for e in errs), errs)
+
+    def test_a_source_row_nobody_renders_fails(self):
+        errs = self.errors("1: 1\n2: 2\n3: 3\n")
+        self.assertTrue(any("source row 4" in e for e in errs), errs)
+
+    def test_a_line_added_to_the_english_fails(self):
+        errs = self.errors("1: 1\n2: 2\n3: 3–4\n", verse=4)
+        self.assertTrue(any("has 3 lines" in e for e in errs), errs)
+
+    def test_a_row_that_does_not_exist_fails(self):
+        errs = self.errors("1: 1\n2: 2–3\n3: 4–5\n")
+        self.assertTrue(any("row 5 does not exist" in e for e in errs), errs)
+
+    def test_out_of_order_fails(self):
+        errs = self.errors("1: 1\n3: 2\n2: 3–4\n")
+        self.assertTrue(any("in order" in e for e in errs), errs)
+
+    def test_an_unreadable_line_is_named_not_dropped(self):
+        errs = self.errors("1: 1\n2: two\n3: 3–4\n")
+        self.assertTrue(any("cannot read" in e for e in errs), errs)
+
+    def test_an_empty_row_list_fails(self):
+        errs = self.errors("1: 1–2\n2:\n3: 3–4\n")
+        self.assertTrue(errs)
+
+
 class Baseline(unittest.TestCase):
     """The corpus, end to end, against measured counts."""
 

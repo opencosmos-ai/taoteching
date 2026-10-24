@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-20
+**Last updated:** 2026-10-24
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-24 — Every chapter's English is paired with its Chinese, line by line
+
+The Library pairs a Chinese line with its English only where the pairing is certain, and until now that meant only where the line counts agree: 32 chapters. The other 49 differ for good reasons, since one English line can carry two Chinese ones and one Chinese line can need two English ones, and for them the build made a proportional guess that no reader was shown. Each of those chapters now says which source rows each English line renders, and the build holds that to the text.
+
+- **`## Alignment`**, a new chapter section, in all 49: one line per English line, naming its source rows (`1: 1–2`). Drafted from the Literal column. [`AGENTS.md`](AGENTS.md) describes it; `tools/lib/corpus.py` reads and checks it. The method is `authored`, at confidence 1.0, in the database, the CSVs and the export.
+- **The guess is gone.** `build_db.py` no longer writes `proportional` or `proportional-fill` rows. A chapter whose counts differ and has no alignment, or whose alignment misses an English line or a source row, fails the build. Ch 6, the case ADR 0020 was written around, now pairs its gate with *"This dark gateway birthed the sky and the earth."*
+- **The lock report sits on the right English.** `data/locked-renderings.csv` and `data/commentary.csv` read each row's English through the alignment, so in those 49 chapters they now quote the line that renders it rather than a neighbor.
+- **opencosmos** links `authored` pairings as it links `exact-count`, on its branch `ttc-authored-alignment`. `WORKLIST-CLOSED.md` T5-23.
 
 ## 2026-10-20 — 尤 and 咎 get entries, and a lock can stay in its own book
 

@@ -10,6 +10,8 @@ What it holds:
 
     Chapter          one chapters/NNN.md file, parsed
     SourceRow        one row of a chapter's Source table
+    Pairing          one line of a chapter's Alignment: English line → source rows
+    alignment_errors()  why a chapter's authored alignment cannot be trusted
     load_chapters()  all 81, keyed by number
     load_terms()     glossary/terms.yaml, the locks as data
     load_calls()     process/shaloms-call.md, the overrides in effect
@@ -118,6 +120,15 @@ class SourceRow:
 
 
 @dataclass
+class Pairing:
+    """One line of a chapter's `## Alignment`: an English line and the source
+    rows it renders. `rows` is None when the line could not be read."""
+    verse: int
+    rows: list
+    line_no: int
+
+
+@dataclass
 class Waiver:
     """A `lock-ok` comment in a chapter's Notes, excusing one finding."""
     rule: str
@@ -136,6 +147,7 @@ class Chapter:
     source_rows: list               # SourceRow
     notes: str
     waivers: list = field(default_factory=list)
+    alignment: list = field(default_factory=list)  # Pairing — empty unless authored
 
     @property
     def drafted(self):
@@ -197,6 +209,80 @@ def _parse_source(body, offset):
     return rows
 
 
+_PAIRING = re.compile(r"^(\d+):\s*(.+)$")
+_ROWS = re.compile(r"^(\d+)(?:\s*[–-]\s*(\d+))?$")
+
+
+def _parse_alignment(body, offset):
+    """Parse a chapter's `## Alignment`: one line per English line, in order,
+    naming the source rows it renders — `1: 1–2`, `5: 7`, `12: 14, 16`.
+
+    Lenient on purpose. A line that cannot be read becomes a Pairing with no
+    rows, so alignment_errors() names it instead of the parser dropping it.
+    """
+    out = []
+    for i, line in enumerate(body.split("\n")):
+        s = line.strip()
+        if not s or s.startswith("<!--"):
+            continue
+        m = _PAIRING.match(s)
+        if not m:
+            out.append(Pairing(0, None, offset + i))
+            continue
+        rows = []
+        for part in m.group(2).split(","):
+            r = _ROWS.match(part.strip())
+            if not r:
+                rows = None
+                break
+            lo, hi = int(r.group(1)), int(r.group(2) or r.group(1))
+            rows.extend(range(lo, hi + 1))
+        out.append(Pairing(int(m.group(1)), rows, offset + i))
+    return out
+
+
+def alignment_errors(ch):
+    """Why a chapter's English and Chinese cannot be paired line by line, as messages.
+
+    Where the counts agree, the pairing is 1:1 and needs nothing written. Where
+    they differ, the chapter must carry an `## Alignment`. An alignment is shown
+    to readers as a fact, so it must be whole: every English line names the rows
+    it renders, in order, and every source row is named by at least one English
+    line. Adding or cutting a line on either side breaks that, which is how a
+    stale alignment is caught.
+    """
+    verse, rows = len(ch.verse), len(ch.source_rows)
+    if not ch.alignment:
+        if verse and rows and verse != rows:
+            return [f"{ch.path.name}: {verse} English lines against {rows} source rows, "
+                    f"so it needs an `## Alignment` naming the rows each English line "
+                    f"renders (AGENTS.md)"]
+        return []
+    errs = []
+    for p in ch.alignment:
+        where = f"{ch.path.name}:{p.line_no}"
+        if p.rows is None:
+            errs.append(f"{where}: cannot read this line; write it as `verse: rows`, e.g. `1: 1–2`")
+        elif not p.rows:
+            errs.append(f"{where}: English line {p.verse} names no source rows")
+        else:
+            for r in p.rows:
+                if not 1 <= r <= rows:
+                    errs.append(f"{where}: source row {r} does not exist (the chapter has {rows})")
+    got = [p.verse for p in ch.alignment if p.rows is not None]
+    if got != list(range(1, len(got) + 1)):
+        errs.append(f"{ch.path.name}: English lines must be numbered 1, 2, 3… in order")
+    if len(ch.alignment) != verse:
+        errs.append(f"{ch.path.name}: the alignment has {len(ch.alignment)} lines "
+                    f"and the translation has {verse}")
+    named = {r for p in ch.alignment for r in (p.rows or [])}
+    missing = [r for r in range(1, rows + 1) if r not in named]
+    if missing:
+        errs.append(f"{ch.path.name}: no English line renders source row"
+                    f"{'s' if len(missing) > 1 else ''} {', '.join(map(str, missing))}")
+    return errs
+
+
 def _parse_waivers(body, offset):
     waivers = []
     for i, line in enumerate(body.split("\n")):
@@ -242,6 +328,7 @@ def load_chapter(path):
         source_rows=source_rows,
         notes=notes_body,
         waivers=_parse_waivers(notes_body, offset_of("Notes")),
+        alignment=_parse_alignment(sections.get("Alignment", ""), offset_of("Alignment")),
     )
 
 

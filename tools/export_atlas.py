@@ -24,9 +24,14 @@ chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
                                          which English lines render this Chinese line:
                                          `verse` is 1-based across the chapter's stanzas,
                                          as in the `verse` key. `method` is exact-count
-                                         (1.0, the counts agree, so the pairing is certain),
-                                         proportional (0.3) or proportional-fill (0.2):
-                                         a guess, never to be shown as a pairing
+                                         (the counts agree, so the pairing is 1:1) or
+                                         authored (the chapter's own `## Alignment`,
+                                         written by hand and checked whole). Both are
+                                         certain, at confidence 1.0. Before 2026-10-24,
+                                         chapters with uneven counts carried a
+                                         proportional guess (0.3, or 0.2 for
+                                         proportional-fill), never to be shown as a
+                                         pairing; the build no longer makes one
 
 Additions only, so `contract` stays 1: the atlas refuses any other number, and
 reads none of these keys.
