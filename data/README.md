@@ -68,15 +68,14 @@ the apparatus.
 
 ## Two cautions that matter
 
-**`alignment_method` is not decoration.** Our English verse lines and the Chinese
-source lines are 1:1 in only 32 of 81 chapters (855 verse lines against 798
-source lines). Where the counts match, `alignment_method` is `exact-count` and
-the pairing is certain. In 1 more, the chapter file carries its own
-`## Alignment`, written by hand and checked whole by the build, and the method
-is `authored`, equally certain. Everywhere else it is `proportional` — a positional
-guess at confidence 0.3, recorded so it can be improved, and **not evidence of
-anything**. `rendering_present = NOT FOUND` on a `proportional` row usually means
-the alignment is wrong, not the translation.
+**`alignment_method` says how a pairing is known.** Our English verse lines and
+the Chinese source lines are 1:1 in 32 of 81 chapters (855 verse lines
+against 798 source lines). Where the counts match, `alignment_method` is
+`exact-count`. In the other 49, the chapter file carries its own `## Alignment`,
+written by hand from the literal glosses and checked whole by the build, and the
+method is `authored`. Both are certain. One English line can render two Chinese
+lines, and one Chinese line can be split across two English lines, so a row's
+`verse_line` is the English that renders it, not necessarily all of it.
 
 **`expected_rendering` is the lock's primary English, and `rendering_present`
 also consults its flexions.** A flexion is a secondary English scoped to named

@@ -66,120 +66,120 @@
   "10.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "10.10": [
    [
-    7,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "10.11": [
    [
-    8,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "10.12": [
    [
-    8,
-    0.2,
-    "proportional-fill"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "10.13": [
    [
-    9,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "10.14": [
    [
-    10,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "10.15": [
    [
-    10,
-    0.2,
-    "proportional-fill"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "10.16": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "10.17": [
    [
     11,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "10.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "10.3": [
    [
     2,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "10.4": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "10.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "10.6": [
    [
-    4,
-    0.2,
-    "proportional-fill"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "10.7": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "10.8": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "10.9": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "11.1": [
@@ -262,323 +262,323 @@
   "12.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "12.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "12.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "12.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "12.5": [
    [
     4,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "12.6": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "12.7": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "12.8": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "12.9": [
    [
     7,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "13.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "13.10": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "13.11": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "13.12": [
    [
-    9,
-    0.2,
-    "proportional-fill"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "13.13": [
    [
-    10,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "13.14": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "13.15": [
    [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "13.16": [
    [
     12,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "13.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "13.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "13.4": [
    [
-    3,
-    0.2,
-    "proportional-fill"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "13.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "13.6": [
    [
-    5,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "13.7": [
    [
-    6,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "13.8": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "13.9": [
    [
-    7,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "14.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "14.10": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "14.11": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "14.12": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "14.13": [
    [
     10,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "14.14": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "14.15": [
    [
-    12,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "14.16": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "14.17": [
    [
     13,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "14.18": [
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "14.19": [
    [
-    15,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "14.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "14.20": [
    [
-    16,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
    ]
   ],
   "14.21": [
    [
     16,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "14.3": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "14.4": [
    [
-    4,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "14.5": [
    [
-    4,
-    0.2,
-    "proportional-fill"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "14.6": [
    [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "14.7": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "14.8": [
    [
-    7,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "14.9": [
    [
-    7,
-    0.2,
-    "proportional-fill"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "15.1": [
@@ -703,134 +703,134 @@
   "16.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.10": [
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.11": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.12": [
    [
-    12,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "16.13": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "16.14": [
    [
-    14,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "16.15": [
    [
-    15,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "16.16": [
    [
-    16,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
    ]
   ],
   "16.17": [
    [
-    17,
-    0.3,
-    "proportional"
+    16,
+    1.0,
+    "authored"
    ]
   ],
   "16.18": [
    [
-    18,
-    0.3,
-    "proportional"
+    17,
+    1.0,
+    "authored"
    ]
   ],
   "16.19": [
    [
     18,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "16.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.5": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.6": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.7": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.8": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "16.9": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "17.1": [
@@ -969,674 +969,684 @@
   "2.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "2.10": [
    [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "2.11": [
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "2.12": [
    [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "2.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "2.3": [
    [
+    3,
+    1.0,
+    "authored"
+   ],
+   [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "2.4": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "2.5": [
    [
-    6,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ],
    [
-    7,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "2.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "2.7": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "2.8": [
    [
-    10,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "2.9": [
    [
-    11,
-    0.3,
-    "proportional"
-   ],
-   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "20.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "20.10": [
    [
-    10,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "20.11": [
    [
-    11,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "20.12": [
    [
-    12,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "20.13": [
    [
-    13,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "20.14": [
    [
-    14,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
    ]
   ],
   "20.15": [
    [
-    15,
-    0.3,
-    "proportional"
+    16,
+    1.0,
+    "authored"
    ]
   ],
   "20.16": [
    [
-    16,
-    0.3,
-    "proportional"
+    17,
+    1.0,
+    "authored"
    ]
   ],
   "20.17": [
    [
     17,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "20.18": [
    [
     18,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "20.19": [
    [
-    19,
-    0.3,
-    "proportional"
+    18,
+    1.0,
+    "authored"
    ]
   ],
   "20.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "20.20": [
    [
-    20,
-    0.3,
-    "proportional"
+    19,
+    1.0,
+    "authored"
    ]
   ],
   "20.21": [
    [
-    21,
-    0.3,
-    "proportional"
+    20,
+    1.0,
+    "authored"
    ]
   ],
   "20.22": [
    [
-    22,
-    0.3,
-    "proportional"
+    21,
+    1.0,
+    "authored"
    ]
   ],
   "20.23": [
    [
-    23,
-    0.3,
-    "proportional"
+    22,
+    1.0,
+    "authored"
    ]
   ],
   "20.24": [
    [
-    24,
-    0.3,
-    "proportional"
+    23,
+    1.0,
+    "authored"
    ]
   ],
   "20.25": [
    [
     24,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "20.3": [
    [
-    3,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
+   ],
+   [
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "20.4": [
    [
-    4,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "20.5": [
    [
-    5,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "20.6": [
    [
-    6,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "20.7": [
    [
-    7,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "20.8": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "20.9": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "21.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "21.10": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "21.11": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "21.12": [
    [
     9,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "21.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "21.3": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "21.4": [
    [
-    3,
-    0.2,
-    "proportional-fill"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "21.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "21.6": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "21.7": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "21.8": [
    [
     6,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "21.9": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "22.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "22.10": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "22.11": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "22.12": [
    [
     8,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "22.13": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "22.14": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "22.15": [
    [
     10,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "22.16": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "22.17": [
    [
     11,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "22.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "22.3": [
    [
     2,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "22.4": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "22.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "22.6": [
    [
-    4,
-    0.2,
-    "proportional-fill"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "22.7": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "22.8": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "22.9": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "23.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.10": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "23.11": [
    [
-    8,
-    0.2,
-    "proportional-fill"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "23.12": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "23.13": [
    [
-    10,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "23.14": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.15": [
    [
-    11,
-    0.2,
-    "proportional-fill"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "23.16": [
    [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.17": [
    [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.18": [
    [
     13,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "23.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "23.4": [
    [
-    3,
-    0.2,
-    "proportional-fill"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "23.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "23.6": [
    [
-    5,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "23.7": [
    [
-    6,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "23.8": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "23.9": [
    [
-    7,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "24.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.10": [
    [
     9,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "24.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.5": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.6": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.7": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "24.8": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "24.9": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "25.1": [
@@ -1775,190 +1785,195 @@
   "26.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "26.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "26.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "26.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "26.5": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "26.6": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "26.7": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "26.8": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "26.9": [
    [
     8,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "27.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "27.10": [
    [
-    7,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "27.11": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "27.12": [
    [
-    8,
-    0.2,
-    "proportional-fill"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "27.13": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "27.14": [
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "27.15": [
    [
-    10,
-    0.2,
-    "proportional-fill"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "27.16": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "27.17": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "27.18": [
    [
     12,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "27.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "27.3": [
    [
-    2,
-    0.2,
-    "proportional-fill"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "27.4": [
    [
-    3,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "27.5": [
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "27.6": [
    [
-    4,
-    0.2,
-    "proportional-fill"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "27.7": [
    [
-    5,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "27.8": [
    [
-    6,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "27.9": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "28.1": [
@@ -2069,78 +2084,78 @@
   "29.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.10": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.11": [
    [
     9,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "29.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.4": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "29.5": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "29.6": [
    [
     5,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "29.7": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.8": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "29.9": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "3.1": [
@@ -2209,302 +2224,307 @@
   "30.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "30.10": [
    [
     6,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "30.11": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "30.12": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "30.13": [
    [
     8,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "30.14": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "30.15": [
    [
     9,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "30.2": [
    [
-    2,
-    0.3,
-    "proportional"
+    1,
+    1.0,
+    "authored"
    ]
   ],
   "30.3": [
    [
     2,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "30.4": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "30.5": [
    [
-    3,
-    0.2,
-    "proportional-fill"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "30.6": [
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "30.7": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "30.8": [
    [
-    5,
-    0.2,
-    "proportional-fill"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "30.9": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.10": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "31.11": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "31.12": [
    [
     10,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "31.13": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "31.14": [
    [
-    12,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "31.15": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "31.16": [
    [
-    14,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "31.17": [
    [
-    15,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "31.18": [
    [
     15,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "31.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.5": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.6": [
    [
-    5,
-    0.2,
-    "proportional-fill"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "31.7": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.8": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "31.9": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "32.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.10": [
    [
     9,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "32.2": [
    [
+    1,
+    1.0,
+    "authored"
+   ],
+   [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.5": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.6": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.7": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.8": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "32.9": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "33.1": [
@@ -2762,141 +2782,141 @@
   "38.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.10": [
    [
-    9,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "38.11": [
    [
-    10,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "38.12": [
    [
-    11,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "38.13": [
    [
-    12,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "38.14": [
    [
-    12,
-    0.2,
-    "proportional-fill"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "38.15": [
    [
-    13,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "38.16": [
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.17": [
    [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.18": [
    [
-    16,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
    ]
   ],
   "38.19": [
    [
-    17,
-    0.3,
-    "proportional"
+    16,
+    1.0,
+    "authored"
    ]
   ],
   "38.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.20": [
    [
     17,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "38.3": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.4": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.5": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.6": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "38.7": [
    [
-    6,
-    0.2,
-    "proportional-fill"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "38.8": [
    [
-    7,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "38.9": [
    [
-    8,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "39.1": [
@@ -3126,120 +3146,120 @@
   "41.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "41.10": [
    [
     16,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    17,
+    1.0,
+    "authored"
    ]
   ],
   "41.11": [
    [
-    17,
-    0.3,
-    "proportional"
-   ],
-   [
     18,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "41.12": [
    [
     19,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "41.2": [
    [
-    3,
-    0.3,
-    "proportional"
-   ],
-   [
-    4,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "41.3": [
    [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "41.4": [
    [
-    6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "41.5": [
    [
-    8,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "41.6": [
    [
-    9,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ],
    [
-    10,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
+   ],
+   [
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "41.7": [
    [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "41.8": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
+    12,
+    1.0,
+    "authored"
+   ],
+   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "41.9": [
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "42.1": [
@@ -3476,199 +3496,199 @@
   "47.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "47.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "47.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "47.4": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "47.5": [
    [
+    5,
+    1.0,
+    "authored"
+   ],
+   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "48.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "48.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "48.3": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "48.4": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "48.5": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "49.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "49.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "49.3": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "49.4": [
    [
     5,
-    0.3,
-    "proportional"
-   ],
-   [
-    6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "49.5": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "49.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "49.7": [
    [
-    9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "49.8": [
    [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
+   ],
+   [
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "49.9": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "5.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "5.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "5.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "5.4": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "5.5": [
    [
+    5,
+    1.0,
+    "authored"
+   ],
+   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "50.1": [
@@ -3758,145 +3778,150 @@
   "51.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "51.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "51.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "51.4": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "51.5": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ],
    [
-    7,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "51.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "51.7": [
    [
-    9,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "51.8": [
    [
+    8,
+    1.0,
+    "authored"
+   ],
+   [
+    9,
+    1.0,
+    "authored"
+   ],
+   [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "51.9": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "52.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "52.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "52.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ],
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "52.4": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "52.5": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "52.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ],
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "52.7": [
    [
+    9,
+    1.0,
+    "authored"
+   ],
+   [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "52.8": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "53.1": [
@@ -3937,238 +3962,238 @@
   "54.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "54.2": [
    [
-    3,
-    0.3,
-    "proportional"
-   ],
-   [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "54.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "54.4": [
    [
     6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "54.5": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "54.6": [
    [
-    9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "54.7": [
    [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
+   ],
+   [
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "54.8": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "54.9": [
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "55.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "55.2": [
    [
+    2,
+    1.0,
+    "authored"
+   ],
+   [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "55.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "55.4": [
    [
     6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "55.5": [
    [
-    8,
-    0.3,
-    "proportional"
-   ],
-   [
-    9,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "55.6": [
    [
-    10,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
+   ],
+   [
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "55.7": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "55.8": [
    [
+    12,
+    1.0,
+    "authored"
+   ],
+   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.3": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.4": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.5": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.6": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.7": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.8": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "56.9": [
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "57.1": [
@@ -4398,43 +4423,43 @@
   "6.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "6.2": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "6.3": [
    [
-    2,
-    0.2,
-    "proportional-fill"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "6.4": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "6.5": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "6.6": [
    [
     4,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "60.1": [
@@ -4475,633 +4500,633 @@
   "61.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "61.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "61.3": [
    [
+    3,
+    1.0,
+    "authored"
+   ],
+   [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "61.4": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "61.5": [
    [
     6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "61.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "61.7": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "61.8": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "61.9": [
    [
+    10,
+    1.0,
+    "authored"
+   ],
+   [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.10": [
    [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.2": [
    [
+    2,
+    1.0,
+    "authored"
+   ],
+   [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.3": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "62.4": [
    [
-    5,
-    0.3,
-    "proportional"
-   ],
-   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.5": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.6": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.7": [
    [
     9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "62.8": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "62.9": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "63.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "63.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ],
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "63.3": [
    [
-    5,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ],
    [
-    6,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "63.4": [
    [
-    7,
-    0.3,
-    "proportional"
-   ],
-   [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "63.5": [
    [
     9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "63.6": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "63.7": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ],
    [
-    14,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "63.8": [
    [
+    14,
+    1.0,
+    "authored"
+   ],
+   [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.10": [
    [
-    17,
-    0.3,
-    "proportional"
+    15,
+    1.0,
+    "authored"
+   ],
+   [
+    16,
+    1.0,
+    "authored"
    ]
   ],
   "64.11": [
    [
-    18,
-    0.3,
-    "proportional"
+    17,
+    1.0,
+    "authored"
    ],
    [
-    19,
-    0.3,
-    "proportional"
+    18,
+    1.0,
+    "authored"
    ]
   ],
   "64.12": [
    [
-    20,
-    0.3,
-    "proportional"
+    19,
+    1.0,
+    "authored"
    ],
    [
-    21,
-    0.3,
-    "proportional"
+    20,
+    1.0,
+    "authored"
    ]
   ],
   "64.13": [
    [
+    21,
+    1.0,
+    "authored"
+   ],
+   [
     22,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.4": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.5": [
    [
     8,
-    0.3,
-    "proportional"
-   ],
-   [
-    9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "64.6": [
    [
-    10,
-    0.3,
-    "proportional"
-   ],
-   [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "64.7": [
    [
-    12,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
+   ],
+   [
+    11,
+    1.0,
+    "authored"
    ]
   ],
   "64.8": [
    [
-    13,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
    ],
    [
-    14,
-    0.3,
-    "proportional"
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "64.9": [
    [
-    15,
-    0.3,
-    "proportional"
-   ],
-   [
-    16,
-    0.3,
-    "proportional"
+    14,
+    1.0,
+    "authored"
    ]
   ],
   "65.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "65.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ],
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "65.3": [
    [
-    5,
-    0.3,
-    "proportional"
-   ],
-   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "65.4": [
    [
     7,
-    0.3,
-    "proportional"
-   ],
-   [
-    8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "65.5": [
    [
-    9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "65.6": [
    [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "65.7": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
+    12,
+    1.0,
+    "authored"
+   ],
+   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.2": [
    [
+    2,
+    1.0,
+    "authored"
+   ],
+   [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.3": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.4": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.5": [
    [
     6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "66.6": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "66.7": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "66.8": [
    [
+    9,
+    1.0,
+    "authored"
+   ],
+   [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "67.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "67.10": [
    [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "67.11": [
    [
     16,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "67.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "67.3": [
    [
-    4,
-    0.3,
-    "proportional"
-   ],
-   [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "67.4": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "67.5": [
    [
-    7,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ],
    [
-    8,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
+   ],
+   [
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "67.6": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "67.7": [
    [
-    10,
-    0.3,
-    "proportional"
-   ],
-   [
-    11,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "67.8": [
    [
-    12,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "67.9": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
+    12,
+    1.0,
+    "authored"
+   ],
+   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "68.1": [
@@ -5282,68 +5307,68 @@
   "70.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "70.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "70.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "70.4": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "70.5": [
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "70.6": [
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "71.1": [
@@ -5377,520 +5402,520 @@
   "72.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "72.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "72.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "72.4": [
    [
-    5,
-    0.3,
-    "proportional"
-   ],
-   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "72.5": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "72.6": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "73.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "73.10": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
     12,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "73.2": [
    [
-    3,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ]
   ],
   "73.3": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "73.4": [
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "73.5": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "73.6": [
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ],
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "73.7": [
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "73.8": [
    [
-    10,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
    ]
   ],
   "73.9": [
    [
-    11,
-    0.3,
-    "proportional"
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "74.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "74.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "74.3": [
    [
-    5,
-    0.3,
-    "proportional"
-   ],
-   [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "74.4": [
    [
     7,
-    0.3,
-    "proportional"
-   ],
-   [
-    8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "74.5": [
    [
+    8,
+    1.0,
+    "authored"
+   ],
+   [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "75.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "75.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "75.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "75.4": [
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "76.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "76.2": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "76.3": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "76.4": [
    [
     6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "76.5": [
    [
-    8,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ],
    [
-    9,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ]
   ],
   "76.6": [
    [
+    9,
+    1.0,
+    "authored"
+   ],
+   [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "77.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
-   ],
-   [
-    3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "77.2": [
    [
-    4,
-    0.3,
-    "proportional"
-   ],
-   [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "77.3": [
    [
-    6,
-    0.3,
-    "proportional"
-   ],
-   [
-    7,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "77.4": [
    [
-    8,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ],
    [
-    9,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ],
    [
-    10,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "77.5": [
    [
-    11,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    9,
+    1.0,
+    "authored"
+   ],
+   [
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "77.6": [
    [
-    13,
-    0.3,
-    "proportional"
+    11,
+    1.0,
+    "authored"
    ],
    [
-    14,
-    0.3,
-    "proportional"
+    12,
+    1.0,
+    "authored"
+   ],
+   [
+    13,
+    1.0,
+    "authored"
    ]
   ],
   "77.7": [
    [
+    14,
+    1.0,
+    "authored"
+   ],
+   [
     15,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     16,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "78.1": [
    [
     1,
-    0.3,
-    "proportional"
-   ],
-   [
-    2,
-    0.3,
-    "proportional"
-   ],
-   [
-    3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "78.2": [
    [
-    4,
-    0.3,
-    "proportional"
+    2,
+    1.0,
+    "authored"
    ],
    [
-    5,
-    0.3,
-    "proportional"
-   ],
-   [
-    6,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "78.3": [
    [
-    7,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ],
    [
-    8,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
+   ],
+   [
+    6,
+    1.0,
+    "authored"
+   ],
+   [
+    7,
+    1.0,
+    "authored"
    ]
   ],
   "78.4": [
    [
+    8,
+    1.0,
+    "authored"
+   ],
+   [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
+   ],
+   [
+    12,
+    1.0,
+    "authored"
    ]
   ],
   "78.5": [
    [
-    12,
-    0.3,
-    "proportional"
-   ],
-   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "79.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "79.2": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "79.3": [
    [
     6,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     7,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "79.4": [
    [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "8.1": [
@@ -5987,218 +6012,218 @@
   "80.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
-   ],
-   [
-    3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "80.2": [
    [
-    4,
-    0.3,
-    "proportional"
-   ],
-   [
-    5,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ]
   ],
   "80.3": [
    [
-    6,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ],
    [
-    7,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ]
   ],
   "80.4": [
    [
-    8,
-    0.3,
-    "proportional"
-   ],
-   [
-    9,
-    0.3,
-    "proportional"
-   ],
-   [
-    10,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "80.5": [
    [
-    11,
-    0.3,
-    "proportional"
+    7,
+    1.0,
+    "authored"
    ],
    [
-    12,
-    0.3,
-    "proportional"
+    8,
+    1.0,
+    "authored"
+   ],
+   [
+    9,
+    1.0,
+    "authored"
+   ],
+   [
+    10,
+    1.0,
+    "authored"
    ]
   ],
   "80.6": [
    [
+    11,
+    1.0,
+    "authored"
+   ],
+   [
+    12,
+    1.0,
+    "authored"
+   ],
+   [
     13,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     14,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "81.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     2,
-    0.3,
-    "proportional"
-   ],
-   [
-    3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "81.2": [
    [
-    4,
-    0.3,
-    "proportional"
+    3,
+    1.0,
+    "authored"
    ],
    [
-    5,
-    0.3,
-    "proportional"
+    4,
+    1.0,
+    "authored"
    ]
   ],
   "81.3": [
    [
-    6,
-    0.3,
-    "proportional"
+    5,
+    1.0,
+    "authored"
    ],
    [
-    7,
-    0.3,
-    "proportional"
+    6,
+    1.0,
+    "authored"
    ]
   ],
   "81.4": [
    [
+    7,
+    1.0,
+    "authored"
+   ],
+   [
     8,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     9,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "81.5": [
    [
     10,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ],
    [
     11,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "9.1": [
    [
     1,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "9.10": [
    [
     5,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "9.2": [
    [
     1,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "9.3": [
    [
     2,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "9.4": [
    [
     2,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "9.5": [
    [
     3,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "9.6": [
    [
     3,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "9.7": [
    [
     4,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ],
   "9.8": [
    [
     4,
-    0.2,
-    "proportional-fill"
+    1.0,
+    "authored"
    ]
   ],
   "9.9": [
    [
     5,
-    0.3,
-    "proportional"
+    1.0,
+    "authored"
    ]
   ]
  },
@@ -43471,103 +43496,103 @@
    "載營魄抱一，",
    "Zài yíng pò bào yī,",
    "Housing your aliveness and embracing the one, can you keep these from parting?",
-   0
+   1
   ],
   "10.10": [
    "能為雌乎？",
    "néng wéi cí hū?",
-   "Giving birth to things and rearing them,",
-   0
+   "When the gate of the sky opens and closes, can you be the hen?",
+   1
   ],
   "10.11": [
    "明白四達，",
    "Míng bái sì dá,",
-   "giving birth without possessing,",
-   0
+   "Clarity reaching the four quarters, can you be non-doing?",
+   1
   ],
   "10.12": [
    "能無為乎？",
    "néng wú wéi hū?",
-   "giving birth without possessing,",
-   0
+   "Clarity reaching the four quarters, can you be non-doing?",
+   1
   ],
   "10.13": [
    "生之畜之，",
    "Shēng zhī xù zhī,",
-   "acting yet relying on nothing,",
-   0
+   "Giving birth to things and rearing them,",
+   1
   ],
   "10.14": [
    "生而不有，",
    "shēng ér bù yǒu,",
-   "growing them without ruling them –",
-   0
+   "giving birth without possessing,",
+   1
   ],
   "10.15": [
    "為而不恃，",
    "wéi ér bù shì,",
-   "growing them without ruling them –",
-   0
+   "acting yet relying on nothing,",
+   1
   ],
   "10.16": [
    "長而不宰，",
    "zhǎng ér bù zǎi,",
-   "this is called profound integrity.",
-   0
+   "growing them without ruling them –",
+   1
   ],
   "10.17": [
    "是謂玄德。",
    "shì wèi xuán dé.",
    "this is called profound integrity.",
-   0
+   1
   ],
   "10.2": [
    "能無離乎？",
    "néng wú lí hū?",
-   "Gathering the breath to softness, can you be like an infant?",
-   0
+   "Housing your aliveness and embracing the one, can you keep these from parting?",
+   1
   ],
   "10.3": [
    "專氣致柔，",
    "Zhuān qì zhì róu,",
    "Gathering the breath to softness, can you be like an infant?",
-   0
+   1
   ],
   "10.4": [
    "能如嬰兒乎？",
    "néng rú yīng ér hū?",
-   "Washing and clearing the dark mirror, can you be without blemish?",
-   0
+   "Gathering the breath to softness, can you be like an infant?",
+   1
   ],
   "10.5": [
    "滌除玄覽，",
    "Dí chú xuán lǎn,",
-   "Loving the people and governing the state, can you be unknowing?",
-   0
+   "Washing and clearing the dark mirror, can you be without blemish?",
+   1
   ],
   "10.6": [
    "能無疵乎？",
    "néng wú cī hū?",
-   "Loving the people and governing the state, can you be unknowing?",
-   0
+   "Washing and clearing the dark mirror, can you be without blemish?",
+   1
   ],
   "10.7": [
    "愛民治國，",
    "Ài mín zhì guó,",
-   "When the gate of the sky opens and closes, can you be the hen?",
-   0
+   "Loving the people and governing the state, can you be unknowing?",
+   1
   ],
   "10.8": [
    "能無知乎？",
    "néng wú zhī hū?",
-   "Clarity reaching the four quarters, can you be non-doing?",
-   0
+   "Loving the people and governing the state, can you be unknowing?",
+   1
   ],
   "10.9": [
    "天門開闔，",
    "Tiān mén kāi hé,",
-   "Clarity reaching the four quarters, can you be non-doing?",
-   0
+   "When the gate of the sky opens and closes, can you be the hen?",
+   1
   ],
   "11.1": [
    "三十輻共一轂，",
@@ -43639,277 +43664,277 @@
    "五色令人目盲；",
    "Wǔ sè lìng rén mù máng;",
    "The full spectrum of colors makes people's eyes blind.",
-   0
+   1
   ],
   "12.2": [
    "五音令人耳聾；",
    "Wǔ yīn lìng rén ěr lóng;",
    "The full spectrum of tones makes people's ears deaf.",
-   0
+   1
   ],
   "12.3": [
    "五味令人口爽；",
    "Wǔ wèi lìng rén kǒu shuǎng;",
    "The full spectrum of flavors makes people's palates dull.",
-   0
+   1
   ],
   "12.4": [
    "馳騁畋獵，",
    "Chí chěng tián liè,",
    "Galloping in pursuit of prey makes people's hearts wild.",
-   0
+   1
   ],
   "12.5": [
    "令人心發狂；",
    "lìng rén xīn fā kuáng;",
    "Galloping in pursuit of prey makes people's hearts wild.",
-   0
+   1
   ],
   "12.6": [
    "難得之貨，",
    "Nán dé zhī huò,",
    "Rare goods hinder people's conduct.",
-   0
+   1
   ],
   "12.7": [
    "令人行妨。",
    "lìng rén xíng fáng.",
-   "Therefore the sage acts for the belly, not for the eye.",
-   0
+   "Rare goods hinder people's conduct.",
+   1
   ],
   "12.8": [
    "是以聖人為腹不為目，",
    "Shì yǐ shèng rén wèi fù bù wèi mù,",
-   "They let go of what is out there and take what is here.",
-   0
+   "Therefore the sage acts for the belly, not for the eye.",
+   1
   ],
   "12.9": [
    "故去彼取此。",
    "Gù qù bǐ qǔ cǐ.",
    "They let go of what is out there and take what is here.",
-   0
+   1
   ],
   "13.1": [
    "寵辱若驚，",
    "Chǒng rǔ ruò jīng,",
    "Favor and disgrace are both a shock.",
-   0
+   1
   ],
   "13.10": [
    "為吾有身，",
    "Wèi wú yǒu shēn,",
-   "What does it mean to prize great trouble as your own body?",
-   0
+   "The reason I have great trouble is that I have a body.",
+   1
   ],
   "13.11": [
    "及吾無身，",
    "Jí wú wú shēn,",
-   "The reason I have great trouble is that I have a body.",
-   0
+   "If I had no body, what trouble would I have?",
+   1
   ],
   "13.12": [
    "吾有何患？",
    "Wú yǒu hé huàn?",
-   "The reason I have great trouble is that I have a body.",
-   0
+   "If I had no body, what trouble would I have?",
+   1
   ],
   "13.13": [
    "故貴以身為天下，",
    "Gù guì yǐ shēn wéi tiān xià,",
-   "If I had no body, what trouble would I have?",
-   0
+   "So one who prizes their body as a way to serve the world can be trusted with the world.",
+   1
   ],
   "13.14": [
    "若可寄天下；",
    "Ruò kě jì tiān xià;",
    "So one who prizes their body as a way to serve the world can be trusted with the world.",
-   0
+   1
   ],
   "13.15": [
    "愛以身為天下，",
    "Ài yǐ shēn wéi tiān xià,",
    "One who loves their body as a way to serve the world can be trusted with it.",
-   0
+   1
   ],
   "13.16": [
    "若可託天下。",
    "Ruò kě tuō tiān xià.",
    "One who loves their body as a way to serve the world can be trusted with it.",
-   0
+   1
   ],
   "13.2": [
    "貴大患若身。",
    "Guì dà huàn ruò shēn.",
    "Prize great trouble as your own body.",
-   0
+   1
   ],
   "13.3": [
    "何謂寵辱若驚？",
    "Hé wèi chǒng rǔ ruò jīng?",
    "What does it mean that favor and disgrace are both a shock?",
-   0
+   1
   ],
   "13.4": [
    "寵為下，",
    "Chǒng wéi xià,",
-   "What does it mean that favor and disgrace are both a shock?",
-   0
+   "To be favored is to be below.",
+   1
   ],
   "13.5": [
    "得之若驚，",
    "Dé zhī ruò jīng,",
-   "To be favored is to be below.",
-   0
+   "Getting it is a shock.",
+   1
   ],
   "13.6": [
    "失之若驚，",
    "Shī zhī ruò jīng,",
-   "Getting it is a shock.",
-   0
+   "Losing it is a shock.",
+   1
   ],
   "13.7": [
    "是謂寵辱若驚。",
    "Shì wèi chǒng rǔ ruò jīng.",
-   "Losing it is a shock.",
-   0
+   "This is what is meant: favor and disgrace are both a shock.",
+   1
   ],
   "13.8": [
    "何謂貴大患若身？",
    "Hé wèi guì dà huàn ruò shēn?",
-   "Losing it is a shock.",
-   0
+   "What does it mean to prize great trouble as your own body?",
+   1
   ],
   "13.9": [
    "吾所以有大患者，",
    "Wú suǒ yǐ yǒu dà huàn zhě,",
-   "This is what is meant: favor and disgrace are both a shock.",
-   0
+   "The reason I have great trouble is that I have a body.",
+   1
   ],
   "14.1": [
    "視之不見，",
    "Shì zhī bù jiàn,",
    "Look, but you cannot see it – its name is the invisible.",
-   0
+   1
   ],
   "14.10": [
    "其下不昧。",
    "Qí xià bù mèi.",
-   "Continuously flowing, it cannot be named",
-   0
+   "Or a murky bottom.",
+   1
   ],
   "14.11": [
    "繩繩兮不可名，",
    "Shéng shéng xī bù kě míng,",
-   "And returns to no-thing.",
-   0
+   "Continuously flowing, it cannot be named",
+   1
   ],
   "14.12": [
    "復歸於無物。",
    "Fù guī yú wú wù.",
-   "This is the shape of no-shape, the image of no-thing.",
-   0
+   "And returns to no-thing.",
+   1
   ],
   "14.13": [
    "是謂無狀之狀，",
    "Shì wèi wú zhuàng zhī zhuàng,",
    "This is the shape of no-shape, the image of no-thing.",
-   0
+   1
   ],
   "14.14": [
    "無物之象，",
    "Wú wù zhī xiàng,",
-   "This is called the elusive.",
-   0
+   "This is the shape of no-shape, the image of no-thing.",
+   1
   ],
   "14.15": [
    "是謂惚恍。",
    "Shì wèi hū huǎng.",
-   "Meet it, and you cannot see its face,",
-   0
+   "This is called the elusive.",
+   1
   ],
   "14.16": [
    "迎之不見其首，",
    "Yíng zhī bù jiàn qí shǒu,",
-   "Follow it, and you cannot see its back.",
-   0
+   "Meet it, and you cannot see its face,",
+   1
   ],
   "14.17": [
    "隨之不見其後。",
    "Suí zhī bù jiàn qí hòu.",
    "Follow it, and you cannot see its back.",
-   0
+   1
   ],
   "14.18": [
    "執古之道，",
    "Zhí gǔ zhī dào,",
    "Grasp the ancient Tao, and steer what is present now.",
-   0
+   1
   ],
   "14.19": [
    "以御今之有。",
    "Yǐ yù jīn zhī yǒu.",
-   "If you can know the ancient beginning,",
-   0
+   "Grasp the ancient Tao, and steer what is present now.",
+   1
   ],
   "14.2": [
    "名曰夷；",
    "míng yuē yí;",
-   "Listen, but you cannot hear it – its name is the inaudible.",
-   0
+   "Look, but you cannot see it – its name is the invisible.",
+   1
   ],
   "14.20": [
    "能知古始，",
    "Néng zhī gǔ shǐ,",
-   "this is called the thread of the Tao.",
-   0
+   "If you can know the ancient beginning,",
+   1
   ],
   "14.21": [
    "是謂道紀。",
    "Shì wèi dào jì.",
    "this is called the thread of the Tao.",
-   0
+   1
   ],
   "14.3": [
    "聽之不聞，",
    "Tīng zhī bù wén,",
-   "Reach, but you cannot touch it – its name is the intangible.",
-   0
+   "Listen, but you cannot hear it – its name is the inaudible.",
+   1
   ],
   "14.4": [
    "名曰希；",
    "míng yuē xī;",
-   "These three defy comprehension.",
-   0
+   "Listen, but you cannot hear it – its name is the inaudible.",
+   1
   ],
   "14.5": [
    "搏之不得，",
    "Bó zhī bù dé,",
-   "These three defy comprehension.",
-   0
+   "Reach, but you cannot touch it – its name is the intangible.",
+   1
   ],
   "14.6": [
    "名曰微。",
    "míng yuē wēi.",
-   "Therefore, they mix into one.",
-   0
+   "Reach, but you cannot touch it – its name is the intangible.",
+   1
   ],
   "14.7": [
    "此三者不可致詰，",
    "Cǐ sān zhě bù kě zhì jié,",
-   "It doesn’t have a bright top,",
-   0
+   "These three defy comprehension.",
+   1
   ],
   "14.8": [
    "故混而為一。",
    "Gù hùn ér wéi yī.",
-   "Or a murky bottom.",
-   0
+   "Therefore, they mix into one.",
+   1
   ],
   "14.9": [
    "其上不皦，",
    "Qí shàng bù jiǎo,",
-   "Or a murky bottom.",
-   0
+   "It doesn’t have a bright top,",
+   1
   ],
   "15.1": [
    "古之善為士者，",
@@ -44017,115 +44042,115 @@
    "致虛極，",
    "Zhì xū jí,",
    "Go totally empty.",
-   0
+   1
   ],
   "16.10": [
    "知常曰明。",
    "Zhī cháng yuē míng.",
    "Knowing the ever-present is called clear-seeing.",
-   0
+   1
   ],
   "16.11": [
    "不知常，",
    "Bù zhī cháng,",
    "Not knowing the ever-present brings reckless action and disaster.",
-   0
+   1
   ],
   "16.12": [
    "妄作凶。",
    "Wàng zuò xiōng.",
-   "Knowing the ever-present, you contain everything.",
-   0
+   "Not knowing the ever-present brings reckless action and disaster.",
+   1
   ],
   "16.13": [
    "知常容，",
    "Zhī cháng róng,",
-   "Containing everything leads to impartiality.",
-   0
+   "Knowing the ever-present, you contain everything.",
+   1
   ],
   "16.14": [
    "容乃公，",
    "Róng nǎi gōng,",
-   "Impartiality leads to supreme authority.",
-   0
+   "Containing everything leads to impartiality.",
+   1
   ],
   "16.15": [
    "公乃王，",
    "Gōng nǎi wáng,",
-   "Supreme authority leads to the sky.",
-   0
+   "Impartiality leads to supreme authority.",
+   1
   ],
   "16.16": [
    "王乃天，",
    "Wáng nǎi tiān,",
-   "The sky leads to the Tao.",
-   0
+   "Supreme authority leads to the sky.",
+   1
   ],
   "16.17": [
    "天乃道，",
    "Tiān nǎi dào,",
-   "The Tao leads to what endures.",
-   0
+   "The sky leads to the Tao.",
+   1
   ],
   "16.18": [
    "道乃久，",
    "Dào nǎi jiǔ,",
-   "And to the end of your days, no danger will find you.",
-   0
+   "The Tao leads to what endures.",
+   1
   ],
   "16.19": [
    "没身不殆。",
    "Mò shēn bù dài.",
    "And to the end of your days, no danger will find you.",
-   0
+   1
   ],
   "16.2": [
    "守靜篤。",
    "Shǒu jìng dǔ.",
    "Hold steadily to stillness.",
-   0
+   1
   ],
   "16.3": [
    "萬物並作，",
    "Wàn wù bìng zuò,",
    "The countless things arise together,",
-   0
+   1
   ],
   "16.4": [
    "吾以觀復。",
    "Wú yǐ guān fù.",
    "Relying upon this, I observe their return.",
-   0
+   1
   ],
   "16.5": [
    "夫物芸芸，",
    "Fū wù yún yún,",
    "Things come to their fullest,",
-   0
+   1
   ],
   "16.6": [
    "各復歸其根。",
    "Gè fù guī qí gēn.",
    "Each returns again to its root.",
-   0
+   1
   ],
   "16.7": [
    "歸根曰靜，",
    "Guī gēn yuē jìng,",
    "Returning to the root is called stillness.",
-   0
+   1
   ],
   "16.8": [
    "是謂復命。",
    "Shì wèi fù mìng.",
    "This is called returning to what is given.",
-   0
+   1
   ],
   "16.9": [
    "復命曰常，",
    "Fù mìng yuē cháng,",
    "Returning to what is given is called the ever-present.",
-   0
+   1
   ],
   "17.1": [
    "太上，下知有之；",
@@ -44244,566 +44269,566 @@
   "2.1": [
    "天下皆知美之為美，斯惡已。",
    "Tiān xià jiē zhī měi zhī wéi měi, sī è yǐ.",
-   "When the world knows beauty as beauty, ugliness arises. When the world knows good as good, the bad arises.",
-   0
+   "When the world knows beauty as beauty, ugliness arises.",
+   1
   ],
   "2.10": [
    "為而弗恃，",
    "wéi ér fú shì,",
    "The sage acts, yet relies on nothing.",
-   0
+   1
   ],
   "2.11": [
    "功成而弗居。",
    "gōng chéng ér fú jū.",
    "The work is done, and the sage does not stay in it.",
-   0
+   1
   ],
   "2.12": [
    "夫唯弗居，是以不去。",
    "Fú wéi fú jū, shì yǐ bù qù.",
    "Only because the sage does not stay does it not leave.",
-   0
+   1
   ],
   "2.2": [
    "皆知善之為善，斯不善已。",
    "Jiē zhī shàn zhī wéi shàn, sī bù shàn yǐ.",
-   "Therefore presence and absence give birth to each other,",
-   0
+   "When the world knows good as good, the bad arises.",
+   1
   ],
   "2.3": [
    "故有無相生，難易相成，",
    "Gù yǒu wú xiāng shēng, nán yì xiāng chéng,",
-   "Difficult and easy complete each other,",
-   0
+   "Therefore presence and absence give birth to each other, Difficult and easy complete each other,",
+   1
   ],
   "2.4": [
    "長短相形，高下相盈，",
    "cháng duǎn xiāng xíng, gāo xià xiāng yíng,",
-   "Long and short measure each other,",
-   0
+   "Long and short measure each other, High and low depend on each other,",
+   1
   ],
   "2.5": [
    "音聲相和，前後相隨。",
    "yīn shēng xiāng hé, qián hòu xiāng suí.",
-   "High and low depend on each other, Sound and tone harmonize each other,",
-   0
+   "Sound and tone harmonize each other, Front and back follow each other.",
+   1
   ],
   "2.6": [
    "是以聖人處無為之事，",
    "Shì yǐ shèng rén chǔ wú wéi zhī shì,",
-   "Front and back follow each other.",
-   0
+   "Therefore the sage dwells in the work of non-doing",
+   1
   ],
   "2.7": [
    "行不言之教。",
    "xíng bù yán zhī jiào.",
-   "Therefore the sage dwells in the work of non-doing",
-   0
+   "and carries out the teaching without words.",
+   1
   ],
   "2.8": [
    "萬物作而弗始，",
    "Wàn wù zuò ér fú shǐ,",
-   "and carries out the teaching without words.",
-   0
+   "The countless things arise, and the sage does not begin them.",
+   1
   ],
   "2.9": [
    "生而弗有，",
    "shēng ér fú yǒu,",
-   "The countless things arise, and the sage does not begin them. They are born, and the sage does not possess them.",
-   0
+   "They are born, and the sage does not possess them.",
+   1
   ],
   "20.1": [
    "絕學無憂。",
    "Jué xué wú yōu.",
    "Cut off learning and there is no worry.",
-   0
+   1
   ],
   "20.10": [
    "如嬰兒之未孩；",
    "rú yīng ér zhī wèi hái;",
-   "I alone am moored, and show no sign,",
-   0
+   "like an infant who has not yet learned to smile,",
+   1
   ],
   "20.11": [
    "傫傫兮，若無所歸。",
    "Lěi lěi xī, ruò wú suǒ guī.",
-   "like an infant who has not yet learned to smile,",
-   0
+   "listless, as if with nowhere to return.",
+   1
   ],
   "20.12": [
    "眾人皆有餘，",
    "Zhòng rén jiē yǒu yú,",
-   "listless, as if with nowhere to return.",
-   0
+   "The crowd all have more than enough.",
+   1
   ],
   "20.13": [
    "而我獨若遺。",
    "ér wǒ dú ruò yí.",
-   "The crowd all have more than enough.",
-   0
+   "I alone seem to have missed out.",
+   1
   ],
   "20.14": [
    "我愚人之心也哉！",
    "Wǒ yú rén zhī xīn yě zāi\\!",
-   "I alone seem to have missed out.",
-   0
+   "I have the heart of a fool!",
+   1
   ],
   "20.15": [
    "沌沌兮！",
    "Dùn dùn xī\\!",
-   "I have the heart of a fool!",
-   0
+   "How muddled!",
+   1
   ],
   "20.16": [
    "俗人昭昭，",
    "Sú rén zhāo zhāo,",
-   "How muddled!",
-   0
+   "The worldly are bright. I alone am clouded.",
+   1
   ],
   "20.17": [
    "我獨昏昏。",
    "wǒ dú hūn hūn.",
    "The worldly are bright. I alone am clouded.",
-   0
+   1
   ],
   "20.18": [
    "俗人察察，",
    "Sú rén chá chá,",
    "The worldly are sharp. I alone am dull.",
-   0
+   1
   ],
   "20.19": [
    "我獨悶悶。",
    "wǒ dú mèn mèn.",
-   "Calm, like the sea.",
-   0
+   "The worldly are sharp. I alone am dull.",
+   1
   ],
   "20.2": [
    "唯之與阿，相去幾何？",
    "Wéi zhī yǔ ē, xiāng qù jǐ hé?",
-   "Between a respectful yes and a careless yeah,",
-   0
+   "Between a respectful yes and a careless yeah, how much distance?",
+   1
   ],
   "20.20": [
    "澹兮，其若海；",
    "Dàn xī, qí ruò hǎi;",
-   "Blown along, as if never stopping.",
-   0
+   "Calm, like the sea.",
+   1
   ],
   "20.21": [
    "飂兮，若無止。",
    "Liào xī, ruò wú zhǐ.",
-   "The crowd all have something to use themselves for.",
-   0
+   "Blown along, as if never stopping.",
+   1
   ],
   "20.22": [
    "眾人皆有以，",
    "Zhòng rén jiē yǒu yǐ,",
-   "I alone am stubborn, and look coarse.",
-   0
+   "The crowd all have something to use themselves for.",
+   1
   ],
   "20.23": [
    "而我獨頑似鄙。",
    "ér wǒ dú wán sì bǐ.",
-   "I alone differ from others:",
-   0
+   "I alone am stubborn, and look coarse.",
+   1
   ],
   "20.24": [
    "我獨異於人，",
    "Wǒ dú yì yú rén,",
-   "I prize feeding from the mother.",
-   0
+   "I alone differ from others:",
+   1
   ],
   "20.25": [
    "而貴食母。",
    "ér guì shí mǔ.",
    "I prize feeding from the mother.",
-   0
+   1
   ],
   "20.3": [
    "善之與惡，相去若何？",
    "Shàn zhī yǔ è, xiāng qù ruò hé?",
-   "how much distance?",
-   0
+   "Between good and bad, how far apart?",
+   1
   ],
   "20.4": [
    "人之所畏，不可不畏。",
    "Rén zhī suǒ wèi, bù kě bù wèi.",
-   "Between good and bad,",
-   0
+   "What people fear must be feared.",
+   1
   ],
   "20.5": [
    "荒兮，其未央哉！",
    "Huāng xī, qí wèi yāng zāi\\!",
-   "how far apart?",
-   0
+   "How wild it is, and without end!",
+   1
   ],
   "20.6": [
    "眾人熙熙，",
    "Zhòng rén xī xī,",
-   "What people fear must be feared.",
-   0
+   "The crowd is merry, as if at a great feast,",
+   1
   ],
   "20.7": [
    "如享太牢，",
    "rú xiǎng tài láo,",
-   "How wild it is, and without end!",
-   0
+   "The crowd is merry, as if at a great feast,",
+   1
   ],
   "20.8": [
    "如春登臺。",
    "rú chūn dēng tái.",
-   "The crowd is merry, as if at a great feast,",
-   0
+   "as if climbing a terrace in spring.",
+   1
   ],
   "20.9": [
    "我獨泊兮，其未兆；",
    "Wǒ dú bó xī, qí wèi zhào;",
-   "as if climbing a terrace in spring.",
-   0
+   "I alone am moored, and show no sign,",
+   1
   ],
   "21.1": [
    "孔德之容，",
    "Kǒng dé zhī róng,",
    "The greatest integrity follows only the Tao.",
-   0
+   1
   ],
   "21.10": [
    "以閱眾甫。",
    "Yǐ yuè zhòng fǔ.",
    "In this name, I observe the origin of the many.",
-   0
+   1
   ],
   "21.11": [
    "吾何以知眾甫之狀哉？",
    "Wú hé yǐ zhī zhòng fǔ zhī zhuàng zāi?",
    "How do I know the origin of the many is so? By this.",
-   0
+   1
   ],
   "21.12": [
    "以此。",
    "Yǐ cǐ.",
    "How do I know the origin of the many is so? By this.",
-   0
+   1
   ],
   "21.2": [
    "惟道是從。",
    "wéi dào shì cóng.",
-   "Whatever the Tao is, it is only vague, only elusive.",
-   0
+   "The greatest integrity follows only the Tao.",
+   1
   ],
   "21.3": [
    "道之為物，",
    "Dào zhī wéi wù,",
-   "Elusive and vague, and within it there is an image.",
-   0
+   "Whatever the Tao is, it is only vague, only elusive.",
+   1
   ],
   "21.4": [
    "惟恍惟惚。",
    "wéi huǎng wéi hū.",
-   "Elusive and vague, and within it there is an image.",
-   0
+   "Whatever the Tao is, it is only vague, only elusive.",
+   1
   ],
   "21.5": [
    "惚兮恍兮，其中有象；",
    "Hū xī huǎng xī, qí zhōng yǒu xiàng;",
-   "Vague and elusive, and within it there is a thing.",
-   0
+   "Elusive and vague, and within it there is an image.",
+   1
   ],
   "21.6": [
    "恍兮惚兮，其中有物。",
    "Huǎng xī hū xī, qí zhōng yǒu wù.",
-   "Deep and dim, and within it there is vital essence.",
-   0
+   "Vague and elusive, and within it there is a thing.",
+   1
   ],
   "21.7": [
    "窈兮冥兮，其中有精；",
    "Yǎo xī míng xī, qí zhōng yǒu jīng;",
-   "Its essence utterly real, and within it there is trust.",
-   0
+   "Deep and dim, and within it there is vital essence.",
+   1
   ],
   "21.8": [
    "其精甚真，其中有信。",
    "Qí jīng shèn zhēn, qí zhōng yǒu xìn.",
    "Its essence utterly real, and within it there is trust.",
-   0
+   1
   ],
   "21.9": [
    "自古及今，其名不去，",
    "Zì gǔ jí jīn, qí míng bù qù,",
    "From ancient times until today, the Tao's name has never been erased.",
-   0
+   1
   ],
   "22.1": [
    "曲則全，",
    "Qū zé quán,",
    "Bend, and stay whole. Be wronged, and be made straight.",
-   0
+   1
   ],
   "22.10": [
    "不自是，故彰；",
    "Bù zì shì, gù zhāng;",
-   "They do not claim the work, and so the work is theirs.",
-   0
+   "They do not insist they are right, and so their rightness shows.",
+   1
   ],
   "22.11": [
    "不自伐，故有功；",
    "Bù zì fá, gù yǒu gōng;",
-   "They do not boast, and so they endure.",
-   0
+   "They do not claim the work, and so the work is theirs.",
+   1
   ],
   "22.12": [
    "不自矜，故長。",
    "Bù zì jīn, gù cháng.",
    "They do not boast, and so they endure.",
-   0
+   1
   ],
   "22.13": [
    "夫唯不爭，",
    "Fú wéi bù zhēng,",
    "Only because they do not contend can no one in the world contend with them.",
-   0
+   1
   ],
   "22.14": [
    "故天下莫能與之爭。",
    "Gù tiān xià mò néng yǔ zhī zhēng.",
-   "When the ancients said \"bend, and stay whole,\" were those empty words?",
-   0
+   "Only because they do not contend can no one in the world contend with them.",
+   1
   ],
   "22.15": [
    "古之所謂「曲則全」者，",
    "Gǔ zhī suǒ wèi \"qū zé quán\" zhě,",
    "When the ancients said \"bend, and stay whole,\" were those empty words?",
-   0
+   1
   ],
   "22.16": [
    "豈虛言哉！",
    "Qǐ xū yán zāi\\!",
-   "These words hold. Return to them. Stay whole.",
-   0
+   "When the ancients said \"bend, and stay whole,\" were those empty words?",
+   1
   ],
   "22.17": [
    "誠全而歸之。",
    "Chéng quán ér guī zhī.",
    "These words hold. Return to them. Stay whole.",
-   0
+   1
   ],
   "22.2": [
    "枉則直，",
    "Wǎng zé zhí,",
-   "Be hollowed out, and be filled. Be worn out, and be renewed.",
-   0
+   "Bend, and stay whole. Be wronged, and be made straight.",
+   1
   ],
   "22.3": [
    "窪則盈，",
    "Wā zé yíng,",
    "Be hollowed out, and be filled. Be worn out, and be renewed.",
-   0
+   1
   ],
   "22.4": [
    "敝則新，",
    "Bì zé xīn,",
-   "Hold little and gain. Hold much and be confused.",
-   0
+   "Be hollowed out, and be filled. Be worn out, and be renewed.",
+   1
   ],
   "22.5": [
    "少則得，",
    "Shǎo zé dé,",
-   "Therefore the sage embraces one thing and serves as the world's pattern.",
-   0
+   "Hold little and gain. Hold much and be confused.",
+   1
   ],
   "22.6": [
    "多則惑。",
    "Duō zé huò.",
-   "Therefore the sage embraces one thing and serves as the world's pattern.",
-   0
+   "Hold little and gain. Hold much and be confused.",
+   1
   ],
   "22.7": [
    "是以聖人抱一",
    "Shì yǐ shèng rén bào yī",
-   "They do not show themselves off, and so they see clearly.",
-   0
+   "Therefore the sage embraces one thing and serves as the world's pattern.",
+   1
   ],
   "22.8": [
    "為天下式。",
    "wéi tiān xià shì.",
-   "They do not insist they are right, and so their rightness shows.",
-   0
+   "Therefore the sage embraces one thing and serves as the world's pattern.",
+   1
   ],
   "22.9": [
    "不自見，故明；",
    "Bù zì jiàn, gù míng;",
-   "They do not insist they are right, and so their rightness shows.",
-   0
+   "They do not show themselves off, and so they see clearly.",
+   1
   ],
   "23.1": [
    "希言自然。",
    "Xī yán zì rán.",
    "Brevity in speech happens of itself.",
-   0
+   1
   ],
   "23.10": [
    "失者，同於失。",
    "Shī zhě, tóng yú shī.",
-   "One of integrity is the same as integrity.",
-   0
+   "One of loss is the same as loss.",
+   1
   ],
   "23.11": [
    "同於道者，",
    "Tóng yú dào zhě,",
-   "One of integrity is the same as integrity.",
-   0
+   "Those the same as the Tao, the Tao too gladly gets them.",
+   1
   ],
   "23.12": [
    "道亦樂得之；",
    "Dào yì lè dé zhī;",
-   "One of loss is the same as loss.",
-   0
+   "Those the same as the Tao, the Tao too gladly gets them.",
+   1
   ],
   "23.13": [
    "同於德者，",
    "Tóng yú dé zhě,",
-   "Those the same as the Tao, the Tao too gladly gets them.",
-   0
+   "Those the same as integrity, integrity too gladly gets them.",
+   1
   ],
   "23.14": [
    "德亦樂得之；",
    "Dé yì lè dé zhī;",
    "Those the same as integrity, integrity too gladly gets them.",
-   0
+   1
   ],
   "23.15": [
    "同於失者，",
    "Tóng yú shī zhě,",
-   "Those the same as integrity, integrity too gladly gets them.",
-   0
+   "Those the same as loss, loss too gladly gets them.",
+   1
   ],
   "23.16": [
    "失亦樂得之。",
    "Shī yì lè dé zhī.",
    "Those the same as loss, loss too gladly gets them.",
-   0
+   1
   ],
   "23.17": [
    "信不足焉，",
    "Xìn bù zú yān,",
    "Where trust runs short, there is no trust.",
-   0
+   1
   ],
   "23.18": [
    "有不信焉。",
    "Yǒu bù xìn yān.",
    "Where trust runs short, there is no trust.",
-   0
+   1
   ],
   "23.2": [
    "故飄風不終朝，",
    "Gù piāo fēng bù zhōng zhāo,",
    "A squall does not last out the morning.",
-   0
+   1
   ],
   "23.3": [
    "驟雨不終日。",
    "Zhòu yǔ bù zhōng rì.",
    "A downpour does not last out the day.",
-   0
+   1
   ],
   "23.4": [
    "孰為此者？天地。",
    "Shú wèi cǐ zhě? Tiān dì.",
-   "A downpour does not last out the day.",
-   0
+   "Who does this? Sky and earth.",
+   1
   ],
   "23.5": [
    "天地尚不能久，",
    "Tiān dì shàng bù néng jiǔ,",
-   "Who does this? Sky and earth.",
-   0
+   "Even sky and earth cannot make it last long.",
+   1
   ],
   "23.6": [
    "而況於人乎？",
    "Ér kuàng yú rén hū?",
-   "Even sky and earth cannot make it last long.",
-   0
+   "How much less a person?",
+   1
   ],
   "23.7": [
    "故從事於道者，",
    "Gù cóng shì yú dào zhě,",
-   "How much less a person?",
-   0
+   "So one whose affairs follow the Tao is the same as the Tao.",
+   1
   ],
   "23.8": [
    "同於道；",
    "Tóng yú dào;",
-   "How much less a person?",
-   0
+   "So one whose affairs follow the Tao is the same as the Tao.",
+   1
   ],
   "23.9": [
    "德者，同於德；",
    "Dé zhě, tóng yú dé;",
-   "So one whose affairs follow the Tao is the same as the Tao.",
-   0
+   "One of integrity is the same as integrity.",
+   1
   ],
   "24.1": [
    "企者不立；",
    "Qǐ zhě bù lì;",
    "Those who stand on tiptoe do not stand.",
-   0
+   1
   ],
   "24.10": [
    "故有道者不處。",
    "Gù yǒu dào zhě bù chǔ.",
    "Those who are with the Tao do not dwell among them.",
-   0
+   1
   ],
   "24.2": [
    "跨者不行；",
    "Kuà zhě bù xíng;",
    "Those who take long strides get nowhere.",
-   0
+   1
   ],
   "24.3": [
    "自見者不明；",
    "Zì jiàn zhě bù míng;",
    "Those who show themselves off do not see clearly.",
-   0
+   1
   ],
   "24.4": [
    "自是者不彰；",
    "Zì shì zhě bù zhāng;",
    "Those who insist they are right convince no one.",
-   0
+   1
   ],
   "24.5": [
    "自伐者無功；",
    "Zì fá zhě wú gōng;",
    "Those who claim the work have none.",
-   0
+   1
   ],
   "24.6": [
    "自矜者不長。",
    "Zì jīn zhě bù cháng.",
    "Those who boast do not endure.",
-   0
+   1
   ],
   "24.7": [
    "其在道也，",
    "Qí zài dào yě,",
    "Measured by the Tao, these are called leftover food and wasted motion.",
-   0
+   1
   ],
   "24.8": [
    "曰餘食贅行，",
    "Yuē yú shí zhuì xíng,",
-   "Living things recoil from them.",
-   0
+   "Measured by the Tao, these are called leftover food and wasted motion.",
+   1
   ],
   "24.9": [
    "物或惡之，",
    "Wù huò wù zhī,",
-   "Those who are with the Tao do not dwell among them.",
-   0
+   "Living things recoil from them.",
+   1
   ],
   "25.1": [
    "有物混成，",
@@ -44923,163 +44948,163 @@
    "重為輕根，",
    "Zhòng wéi qīng gēn,",
    "The heavy is the root of the light.",
-   0
+   1
   ],
   "26.2": [
    "靜為躁君。",
    "Jìng wéi zào jūn.",
    "Stillness is the ruler of the agitated.",
-   0
+   1
   ],
   "26.3": [
    "是以君子終日行不離輜重。",
    "Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.",
    "Therefore, the noble travels all day without leaving the baggage wagons.",
-   0
+   1
   ],
   "26.4": [
    "雖有榮觀，",
    "Suī yǒu róng guān,",
    "Even where the sights are glorious, they dwell at ease and stay apart.",
-   0
+   1
   ],
   "26.5": [
    "燕處超然。",
    "Yàn chǔ chāo rán.",
-   "How can the lord of ten thousand chariots",
-   0
+   "Even where the sights are glorious, they dwell at ease and stay apart.",
+   1
   ],
   "26.6": [
    "奈何萬乘之主，",
    "Nài hé wàn shèng zhī zhǔ,",
-   "make their own body light in the world?",
-   0
+   "How can the lord of ten thousand chariots",
+   1
   ],
   "26.7": [
    "而以身輕天下？",
    "Ér yǐ shēn qīng tiān xià?",
-   "Lightness loses the root.",
-   0
+   "make their own body light in the world?",
+   1
   ],
   "26.8": [
    "輕則失本，",
    "Qīng zé shī běn,",
-   "Agitation loses the ruler.",
-   0
+   "Lightness loses the root.",
+   1
   ],
   "26.9": [
    "躁則失君。",
    "Zào zé shī jūn.",
    "Agitation loses the ruler.",
-   0
+   1
   ],
   "27.1": [
    "善行無轍跡，",
    "Shàn xíng wú zhé jì,",
    "Masterful traveling leaves no tracks.",
-   0
+   1
   ],
   "27.10": [
    "是謂襲明。",
    "Shì wèi xí míng.",
-   "Always masterful at rescuing things, and so nothing is abandoned.",
-   0
+   "This is called clarity worn covered.",
+   1
   ],
   "27.11": [
    "故善人者，",
    "Gù shàn rén zhě,",
-   "This is called clarity worn covered.",
-   0
+   "Therefore, the masterful one naturally teaches the novice.",
+   1
   ],
   "27.12": [
    "不善人之師；",
    "bù shàn rén zhī shī;",
-   "This is called clarity worn covered.",
-   0
+   "Therefore, the masterful one naturally teaches the novice.",
+   1
   ],
   "27.13": [
    "不善人者，",
    "Bù shàn rén zhě,",
-   "Therefore, the masterful one naturally teaches the novice.",
-   0
+   "And the novice is the raw material of the master.",
+   1
   ],
   "27.14": [
    "善人之資。",
    "shàn rén zhī zī.",
    "And the novice is the raw material of the master.",
-   0
+   1
   ],
   "27.15": [
    "不貴其師，",
    "Bù guì qí shī,",
-   "And the novice is the raw material of the master.",
-   0
+   "Not valuing the master and not loving their raw material is a sign of great confusion.",
+   1
   ],
   "27.16": [
    "不愛其資，",
    "bù ài qí zī,",
    "Not valuing the master and not loving their raw material is a sign of great confusion.",
-   0
+   1
   ],
   "27.17": [
    "雖智大迷，",
    "suī zhì dà mí,",
-   "Even those who appear intelligent are lost. This is the essential secret.",
-   0
+   "Not valuing the master and not loving their raw material is a sign of great confusion. Even those who appear intelligent are lost. This is the essential secret.",
+   1
   ],
   "27.18": [
    "是謂要妙。",
    "shì wèi yào miào.",
    "Even those who appear intelligent are lost. This is the essential secret.",
-   0
+   1
   ],
   "27.2": [
    "善言無瑕謫，",
    "Shàn yán wú xiá zhé,",
    "Masterful speaking is flawless.",
-   0
+   1
   ],
   "27.3": [
    "善計不用籌策，",
    "Shàn jì bù yòng chóu cè,",
-   "Masterful speaking is flawless.",
-   0
+   "Masterful calculating uses no counting rods.",
+   1
   ],
   "27.4": [
    "善閉無關楗而不可開，",
    "Shàn bì wú guān jiàn ér bù kě kāi,",
-   "Masterful calculating uses no counting rods.",
-   0
+   "Masterful security uses no locks, yet cannot be breached.",
+   1
   ],
   "27.5": [
    "善結無繩約而不可解。",
    "Shàn jié wú shéng yuē ér bù kě jiě.",
-   "Masterful security uses no locks, yet cannot be breached.",
-   0
+   "Masterful tying uses no ropes, yet cannot be untied.",
+   1
   ],
   "27.6": [
    "是以聖人常善救人，",
    "Shì yǐ shèng rén cháng shàn jiù rén,",
-   "Masterful security uses no locks, yet cannot be breached.",
-   0
+   "Therefore the sage is always masterful at rescuing people, and so no one is abandoned.",
+   1
   ],
   "27.7": [
    "故無棄人；",
    "gù wú qì rén;",
-   "Masterful tying uses no ropes, yet cannot be untied.",
-   0
+   "Therefore the sage is always masterful at rescuing people, and so no one is abandoned.",
+   1
   ],
   "27.8": [
    "常善救物，",
    "Cháng shàn jiù wù,",
-   "Therefore the sage is always masterful at rescuing people, and so no one is abandoned.",
-   0
+   "Always masterful at rescuing things, and so nothing is abandoned.",
+   1
   ],
   "27.9": [
    "故無棄物。",
    "gù wú qì wù.",
-   "Therefore the sage is always masterful at rescuing people, and so no one is abandoned.",
-   0
+   "Always masterful at rescuing things, and so nothing is abandoned.",
+   1
   ],
   "28.1": [
    "知其雄，守其雌，",
@@ -45175,67 +45200,67 @@
    "將欲取天下而為之，",
    "Jiāng yù qǔ tiān xià ér wéi zhī,",
    "Those who would take the world and handle it,",
-   0
+   1
   ],
   "29.10": [
    "是以聖人去甚，",
    "Shì yǐ shèng rén qù shèn,",
    "Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur.",
-   0
+   1
   ],
   "29.11": [
    "去奢，去泰。",
    "qù shē, qù tài.",
    "Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur.",
-   0
+   1
   ],
   "29.2": [
    "吾見其不得已。",
    "wú jiàn qí bù dé yǐ.",
    "I see they will not succeed.",
-   0
+   1
   ],
   "29.3": [
    "天下神器，",
    "Tiān xià shén qì,",
    "The world is a sacred vessel. It cannot be handled. It cannot be grasped.",
-   0
+   1
   ],
   "29.4": [
    "不可為也，不可執也。",
    "bù kě wéi yě, bù kě zhí yě.",
-   "Those who handle it ruin it. Those who grasp it lose it.",
-   0
+   "The world is a sacred vessel. It cannot be handled. It cannot be grasped.",
+   1
   ],
   "29.5": [
    "為者敗之，執者失之。",
    "Wéi zhě bài zhī, zhí zhě shī zhī.",
-   "So among things, some go ahead, some follow;",
-   0
+   "Those who handle it ruin it. Those who grasp it lose it.",
+   1
   ],
   "29.6": [
    "故物或行或隨；",
    "Gù wù huò xíng huò suí;",
    "So among things, some go ahead, some follow;",
-   0
+   1
   ],
   "29.7": [
    "或歔或吹；",
    "huò xū huò chuī;",
    "some sigh, some blow;",
-   0
+   1
   ],
   "29.8": [
    "或強或羸；",
    "huò qiáng huò léi;",
    "some are strong, some are frail;",
-   0
+   1
   ],
   "29.9": [
    "或挫或隳。",
    "huò cuò huò huī.",
    "some are carried, some are toppled.",
-   0
+   1
   ],
   "3.1": [
    "不尚賢，使民不爭；",
@@ -45295,259 +45320,259 @@
    "以道佐人主者，",
    "Yǐ dào zuǒ rén zhǔ zhě,",
    "One who supports a ruler with the Tao does not use military force to dominate the world.",
-   0
+   1
   ],
   "30.10": [
    "果而勿驕。",
    "guǒ ér wù jiāo.",
    "They succeed without boasting, succeed without bragging, succeed without arrogance.",
-   0
+   1
   ],
   "30.11": [
    "果而不得已，",
    "Guǒ ér bù dé yǐ,",
    "They succeed because their actions are unavoidable. They succeed without using excessive force.",
-   0
+   1
   ],
   "30.12": [
    "果而勿強。",
    "guǒ ér wù qiáng.",
-   "When things reach their prime, they decay.",
-   0
+   "They succeed because their actions are unavoidable. They succeed without using excessive force.",
+   1
   ],
   "30.13": [
    "物壯則老，",
    "Wù zhuàng zé lǎo,",
    "When things reach their prime, they decay.",
-   0
+   1
   ],
   "30.14": [
    "是謂不道，",
    "shì wèi bù dào,",
    "This is called not-Tao. Not-Tao comes to an early end.",
-   0
+   1
   ],
   "30.15": [
    "不道早已。",
    "bù dào zǎo yǐ.",
    "This is called not-Tao. Not-Tao comes to an early end.",
-   0
+   1
   ],
   "30.2": [
    "不以兵強天下。",
    "bù yǐ bīng qiáng tiān xià.",
-   "Such undertakings tend to come back on you.",
-   0
+   "One who supports a ruler with the Tao does not use military force to dominate the world.",
+   1
   ],
   "30.3": [
    "其事好還。",
    "Qí shì hào huán.",
    "Such undertakings tend to come back on you.",
-   0
+   1
   ],
   "30.4": [
    "師之所處，荊棘生焉。",
    "Shī zhī suǒ chǔ, jīng jí shēng yān.",
    "Where armies camp, thorns and brambles grow.",
-   0
+   1
   ],
   "30.5": [
    "大軍之後，必有凶年。",
    "Dà jūn zhī hòu, bì yǒu xiōng nián.",
-   "Where armies camp, thorns and brambles grow.",
-   0
+   "After a big military campaign, a year of disaster follows.",
+   1
   ],
   "30.6": [
    "善有果而已，",
    "Shàn yǒu guǒ ér yǐ,",
-   "After a big military campaign, a year of disaster follows.",
-   0
+   "The masterful one halts after succeeding and never pushes on to seize dominance.",
+   1
   ],
   "30.7": [
    "不敢以取強。",
    "bù gǎn yǐ qǔ qiáng.",
    "The masterful one halts after succeeding and never pushes on to seize dominance.",
-   0
+   1
   ],
   "30.8": [
    "果而勿矜，",
    "Guǒ ér wù jīn,",
-   "The masterful one halts after succeeding and never pushes on to seize dominance.",
-   0
+   "They succeed without boasting, succeed without bragging, succeed without arrogance.",
+   1
   ],
   "30.9": [
    "果而勿伐，",
    "guǒ ér wù fá,",
    "They succeed without boasting, succeed without bragging, succeed without arrogance.",
-   0
+   1
   ],
   "31.1": [
    "夫佳兵者，不祥之器，",
    "Fú jiā bīng zhě, bù xiáng zhī qì,",
    "Fine weapons are tools of ill omen.",
-   0
+   1
   ],
   "31.10": [
    "勝而不美，",
    "Shèng ér bù měi,",
-   "To glorify it is to delight in killing people.",
-   0
+   "Win, but do not glorify it.",
+   1
   ],
   "31.11": [
    "而美之者，是樂殺人。",
    "ér měi zhī zhě, shì lè shā rén.",
-   "And those who delight in killing people cannot get their will in the world.",
-   0
+   "To glorify it is to delight in killing people.",
+   1
   ],
   "31.12": [
    "夫樂殺人者，",
    "Fú lè shā rén zhě,",
    "And those who delight in killing people cannot get their will in the world.",
-   0
+   1
   ],
   "31.13": [
    "則不可得志於天下矣。",
    "zé bù kě dé zhì yú tiān xià yǐ.",
-   "Auspicious occasions honor the left; inauspicious occasions honor the right.",
-   0
+   "And those who delight in killing people cannot get their will in the world.",
+   1
   ],
   "31.14": [
    "吉事尚左，凶事尚右。",
    "Jí shì shàng zuǒ, xiōng shì shàng yòu.",
-   "The deputy general takes the left, the higher general the right,",
-   0
+   "Auspicious occasions honor the left; inauspicious occasions honor the right.",
+   1
   ],
   "31.15": [
    "偏將軍居左，上將軍居右，",
    "Piān jiāng jūn jū zuǒ, shàng jiāng jūn jū yòu,",
-   "which is to say they are placed by the rites of mourning.",
-   0
+   "The deputy general takes the left, the higher general the right,",
+   1
   ],
   "31.16": [
    "言以喪禮處之。",
    "yán yǐ sàng lǐ chǔ zhī.",
-   "For the crowd of people killed, weep with sorrow and grief.",
-   0
+   "which is to say they are placed by the rites of mourning.",
+   1
   ],
   "31.17": [
    "殺人之眾，以悲哀泣之，",
    "Shā rén zhī zhòng, yǐ bēi āi qì zhī,",
-   "A victory in battle is placed by the rites of mourning.",
-   0
+   "For the crowd of people killed, weep with sorrow and grief.",
+   1
   ],
   "31.18": [
    "戰勝以喪禮處之。",
    "zhàn shèng yǐ sàng lǐ chǔ zhī.",
    "A victory in battle is placed by the rites of mourning.",
-   0
+   1
   ],
   "31.2": [
    "物或惡之，",
    "wù huò wù zhī,",
    "Living things recoil from them.",
-   0
+   1
   ],
   "31.3": [
    "故有道者不處。",
    "gù yǒu dào zhě bù chǔ.",
    "Those who are with the Tao do not dwell among them.",
-   0
+   1
   ],
   "31.4": [
    "君子居則貴左，",
    "Jūn zǐ jū zé guì zuǒ,",
    "The noble at home prizes the left;",
-   0
+   1
   ],
   "31.5": [
    "用兵則貴右。",
    "yòng bīng zé guì yòu.",
    "using weapons prizes the right.",
-   0
+   1
   ],
   "31.6": [
    "兵者不祥之器，",
    "Bīng zhě bù xiáng zhī qì,",
-   "using weapons prizes the right.",
-   0
+   "Weapons are tools of ill omen, not the noble's tools.",
+   1
   ],
   "31.7": [
    "非君子之器，",
    "fēi jūn zǐ zhī qì,",
    "Weapons are tools of ill omen, not the noble's tools.",
-   0
+   1
   ],
   "31.8": [
    "不得已而用之，",
    "bù dé yǐ ér yòng zhī,",
    "Used only when unavoidable, calm detachment is best.",
-   0
+   1
   ],
   "31.9": [
    "恬淡為上。",
    "tián dàn wéi shàng.",
-   "Win, but do not glorify it.",
-   0
+   "Used only when unavoidable, calm detachment is best.",
+   1
   ],
   "32.1": [
    "道常無名。",
    "Dào cháng wú míng.",
    "The Tao is ever nameless, uncarved.",
-   0
+   1
   ],
   "32.10": [
    "猶川谷之於江海。",
    "Yóu chuān gǔ zhī yú jiāng hǎi.",
    "The Tao in the world is like streams and valleys to the river and the sea.",
-   0
+   1
   ],
   "32.2": [
    "樸雖小，天下莫能臣也。",
    "Pǔ suī xiǎo, tiān xià mò néng chén yě.",
-   "Though small, nothing in the world can make it a subject.",
-   0
+   "The Tao is ever nameless, uncarved. Though small, nothing in the world can make it a subject.",
+   1
   ],
   "32.3": [
    "侯王若能守之，萬物將自賓。",
    "Hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì bīn.",
    "If rulers are able to hold to this, the countless things will submit of themselves.",
-   0
+   1
   ],
   "32.4": [
    "天地相合，以降甘露，",
    "Tiān dì xiāng hé, yǐ jiàng gān lù,",
    "Sky and earth join together to send down sweet dew.",
-   0
+   1
   ],
   "32.5": [
    "民莫之令而自均。",
    "Mín mò zhī lìng ér zì jūn.",
    "No one commands the people, and they even out of themselves.",
-   0
+   1
   ],
   "32.6": [
    "始制有名，",
    "Shǐ zhì yǒu míng,",
    "When the carving begins, there are names.",
-   0
+   1
   ],
   "32.7": [
    "名亦既有，夫亦將知止，",
    "Míng yì jì yǒu, fú yì jiāng zhī zhǐ,",
    "Since names already exist, one must know when to stop.",
-   0
+   1
   ],
   "32.8": [
    "知止可以不殆。",
    "Zhī zhǐ kě yǐ bù dài.",
    "Knowing when to stop, you come to no danger.",
-   0
+   1
   ],
   "32.9": [
    "譬道之在天下，",
    "Pì dào zhī zài tiān xià,",
    "The Tao in the world is like streams and valleys to the river and the sea.",
-   0
+   1
   ],
   "33.1": [
    "知人者智，",
@@ -45769,121 +45794,121 @@
    "上德不德，是以有德；",
    "Shàng dé bù dé, shì yǐ yǒu dé;",
    "The highest integrity does not do integrity, and so it has integrity.",
-   0
+   1
   ],
   "38.10": [
    "失德而後仁，",
    "Shī dé ér hòu rén,",
-   "So when the Tao is lost, then integrity is lost.",
-   0
+   "When integrity is lost, then humaneness is lost.",
+   1
   ],
   "38.11": [
    "失仁而後義，",
    "Shī rén ér hòu yì,",
-   "When integrity is lost, then humaneness is lost.",
-   0
+   "When humaneness is lost, then duty is lost.",
+   1
   ],
   "38.12": [
    "失義而後禮。",
    "Shī yì ér hòu lǐ.",
-   "When humaneness is lost, then duty is lost.",
-   0
+   "When duty is lost, then ritual is lost.",
+   1
   ],
   "38.13": [
    "夫禮者，忠信之薄，",
    "Fū lǐ zhě, zhōng xìn zhī bó,",
-   "When duty is lost, then ritual is lost.",
-   0
+   "Ritual is the thinning of loyalty and trust, and the head of disorder.",
+   1
   ],
   "38.14": [
    "而亂之首。",
    "ér luàn zhī shǒu.",
-   "When duty is lost, then ritual is lost.",
-   0
+   "Ritual is the thinning of loyalty and trust, and the head of disorder.",
+   1
   ],
   "38.15": [
    "前識者，道之華，",
    "Qián shí zhě, dào zhī huá,",
-   "Ritual is the thinning of loyalty and trust, and the head of disorder.",
-   0
+   "Knowing in advance is the blossom of the Tao, and the beginning of foolishness.",
+   1
   ],
   "38.16": [
    "而愚之始。",
    "ér yú zhī shǐ.",
    "Knowing in advance is the blossom of the Tao, and the beginning of foolishness.",
-   0
+   1
   ],
   "38.17": [
    "是以大丈夫處其厚，",
    "Shì yǐ dà zhàng fū chǔ qí hòu,",
    "This is why the great person dwells in the thick, not the thin,",
-   0
+   1
   ],
   "38.18": [
    "不居其薄；",
    "bù jū qí bó;",
-   "dwells in the substance, not the blossom.",
-   0
+   "This is why the great person dwells in the thick, not the thin,",
+   1
   ],
   "38.19": [
    "處其實，不居其華。",
    "chǔ qí shí, bù jū qí huá.",
-   "They let go of what is out there and take what is here.",
-   0
+   "dwells in the substance, not the blossom.",
+   1
   ],
   "38.2": [
    "下德不失德，是以無德。",
    "Xià dé bù shī dé, shì yǐ wú dé.",
    "The lowest integrity does not lose integrity, and so it has none.",
-   0
+   1
   ],
   "38.20": [
    "故去彼取此。",
    "Gù qù bǐ qǔ cǐ.",
    "They let go of what is out there and take what is here.",
-   0
+   1
   ],
   "38.3": [
    "上德無為而無以為；",
    "Shàng dé wú wéi ér wú yǐ wéi;",
    "The highest integrity is non-doing, and has nothing it acts for.",
-   0
+   1
   ],
   "38.4": [
    "下德為之而有以為。",
    "Xià dé wéi zhī ér yǒu yǐ wéi.",
    "The lowest integrity acts, and has something it acts for.",
-   0
+   1
   ],
   "38.5": [
    "上仁為之而無以為；",
    "Shàng rén wéi zhī ér wú yǐ wéi;",
    "The highest humaneness acts, and has nothing it acts for.",
-   0
+   1
   ],
   "38.6": [
    "上義為之而有以為。",
    "Shàng yì wéi zhī ér yǒu yǐ wéi.",
    "The highest duty acts, and has something it acts for.",
-   0
+   1
   ],
   "38.7": [
    "上禮為之而莫之應，",
    "Shàng lǐ wéi zhī ér mò zhī yìng,",
-   "The highest duty acts, and has something it acts for.",
-   0
+   "The highest ritual acts, and no one answers,",
+   1
   ],
   "38.8": [
    "則攘臂而扔之。",
    "zé rǎng bì ér rēng zhī.",
-   "The highest ritual acts, and no one answers,",
-   0
+   "so it bares its arms and drags them along.",
+   1
   ],
   "38.9": [
    "故失道而後德，",
    "Gù shī dào ér hòu dé,",
-   "so it bares its arms and drags them along.",
-   0
+   "So when the Tao is lost, then integrity is lost.",
+   1
   ],
   "39.1": [
    "昔之得一者：",
@@ -46080,74 +46105,74 @@
   "41.1": [
    "上士聞道，勤而行之；",
    "Shàng shì wén dào, qín ér xíng zhī",
-   "Those highest in service hear the Tao and practice it with diligence. Those middling in service hear the Tao and keep some, forget some.",
-   0
+   "Those highest in service hear the Tao and practice it with diligence.",
+   1
   ],
   "41.10": [
    "大音希聲，大象無形。",
    "Dà yīn xī shēng, dà xiàng wú xíng.",
-   "The great sound is barely heard.",
-   0
+   "The great sound is barely heard. The great image has no form.",
+   1
   ],
   "41.11": [
    "道隱無名。",
    "Dào yǐn wú míng.",
-   "The great image has no form. The Tao is hidden and nameless.",
-   0
+   "The Tao is hidden and nameless.",
+   1
   ],
   "41.12": [
    "夫唯道，善貸且成。",
    "Fú wéi dào, shàn dài qiě chéng.",
    "Only the Tao is masterful at lending, and at completing.",
-   0
+   1
   ],
   "41.2": [
    "中士聞道，若存若亡；",
    "Zhōng shì wén dào, ruò cún ruò wáng;",
-   "Those lowest in service hear the Tao and laugh aloud at it. If it weren’t laughed at, the Tao wouldn’t be what it is.",
-   0
+   "Those middling in service hear the Tao and keep some, forget some.",
+   1
   ],
   "41.3": [
    "下士聞道，大笑之。",
    "Xià shì wén dào, dà xiào zhī",
-   "Therefore, as the established sayings have it:",
-   0
+   "Those lowest in service hear the Tao and laugh aloud at it.",
+   1
   ],
   "41.4": [
    "不笑不足以為道。",
    "Bù xiào bù zú yǐ wéi dào",
-   "The clear Tao seems murky. The advancing Tao seems to retreat.",
-   0
+   "If it weren’t laughed at, the Tao wouldn’t be what it is.",
+   1
   ],
   "41.5": [
    "故建言有之：",
    "Gù jiàn yán yǒu zhī:",
-   "The level Tao seems rough.",
-   0
+   "Therefore, as the established sayings have it:",
+   1
   ],
   "41.6": [
    "明道若昧，進道若退，夷道若纇。",
    "Míng dào ruò mèi, jìn dào ruò tuì, yí dào ruò lèi.",
-   "The highest integrity seems a valley. The whitest white seems soiled.",
-   0
+   "The clear Tao seems murky. The advancing Tao seems to retreat. The level Tao seems rough.",
+   1
   ],
   "41.7": [
    "上德若谷，大白若辱，",
    "Shàng dé ruò gǔ, dà bái ruò rǔ,",
-   "Boundless integrity seems not enough. Sturdy integrity seems slack.",
-   0
+   "The highest integrity seems a valley. The whitest white seems soiled.",
+   1
   ],
   "41.8": [
    "廣德若不足，建德若偷，質真若渝。",
    "Guǎng dé ruò bù zú, jiàn dé ruò tōu, zhì zhēn ruò yú.",
-   "Substantial truth seems to waver.",
-   0
+   "Boundless integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.",
+   1
   ],
   "41.9": [
    "大方無隅，大器晚成，",
    "Dà fāng wú yú, dà qì wǎn chéng,",
    "The great square has no corners. The great vessel is never completed.",
-   0
+   1
   ],
   "42.1": [
    "道生一，一生二，二生三，三生萬物。",
@@ -46350,146 +46375,146 @@
   "47.1": [
    "不出戶，知天下；",
    "Bù chū hù, zhī tiān xià;",
-   "Without leaving home, you know the whole world. Without looking out the window, you see the way of nature.",
-   0
+   "Without leaving home, you know the whole world.",
+   1
   ],
   "47.2": [
    "不闚牖，見天道。",
    "Bù kuī yǒu, jiàn tiān dào.",
-   "The further out you venture, the less you know.",
-   0
+   "Without looking out the window, you see the way of nature.",
+   1
   ],
   "47.3": [
    "其出彌遠，其知彌少。",
    "Qí chū mí yuǎn, qí zhī mí shǎo.",
-   "Therefore, the sage knows without venturing,",
-   0
+   "The further out you venture, the less you know.",
+   1
   ],
   "47.4": [
    "是以聖人不行而知，",
    "Shì yǐ shèng rén bù xíng ér zhī,",
-   "names without seeing,",
-   0
+   "Therefore, the sage knows without venturing,",
+   1
   ],
   "47.5": [
    "不見而名，不為而成。",
    "Bù jiàn ér míng, bù wéi ér chéng.",
-   "and accomplishes without acting.",
-   0
+   "names without seeing, and accomplishes without acting.",
+   1
   ],
   "48.1": [
    "為學日益，為道日損。",
    "Wéi xué rì yì, wéi dào rì sǔn.",
    "In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily.",
-   0
+   1
   ],
   "48.2": [
    "損之又損，以至於無為。",
    "Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.",
    "Decreasing and decreasing, until you reach non-doing.",
-   0
+   1
   ],
   "48.3": [
    "無為而無不為。",
    "Wú wéi ér wú bù wéi.",
    "Non-doing, yet nothing is left undone.",
-   0
+   1
   ],
   "48.4": [
    "取天下常以無事，",
    "Qǔ tiān xià cháng yǐ wú shì,",
    "The world always comes to you by not meddling with it.",
-   0
+   1
   ],
   "48.5": [
    "及其有事，不足以取天下。",
    "Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.",
    "The moment you meddle, it stops coming.",
-   0
+   1
   ],
   "49.1": [
    "聖人無常心，以百姓心為心。",
    "Shèng rén wú cháng xīn, yǐ bǎi xìng xīn wéi xīn.",
    "The sage has no fixed heart; they take everyone's heart as their own.",
-   0
+   1
   ],
   "49.2": [
    "善者，吾善之；",
    "Shàn zhě, wú shàn zhī;",
    "The masterful, I count as masterful;",
-   0
+   1
   ],
   "49.3": [
    "不善者，吾亦善之；",
    "Bù shàn zhě, wú yì shàn zhī;",
    "the unmasterful, I count as masterful too.",
-   0
+   1
   ],
   "49.4": [
    "德善。",
    "Dé shàn.",
-   "Integrity is mastery. The trustworthy, I trust;",
-   0
+   "Integrity is mastery.",
+   1
   ],
   "49.5": [
    "信者，吾信之；",
    "Xìn zhě, wú xìn zhī;",
-   "the untrustworthy, I trust as well.",
-   0
+   "The trustworthy, I trust;",
+   1
   ],
   "49.6": [
    "不信者，吾亦信之；",
    "Bù xìn zhě, wú yì xìn zhī;",
-   "Integrity is trust.",
-   0
+   "the untrustworthy, I trust as well.",
+   1
   ],
   "49.7": [
    "德信。",
    "Dé xìn.",
-   "In the world, the sage breathes gently; for the sake of the world, they let their heart go muddy.",
-   0
+   "Integrity is trust.",
+   1
   ],
   "49.8": [
    "聖人在天下，歙歙焉，為天下渾其心，",
    "Shèng rén zài tiān xià, xī xī yān, wéi tiān xià hún qí xīn,",
-   "Everyone pours out their attention, all eyes and ears;",
-   0
+   "In the world, the sage breathes gently; for the sake of the world, they let their heart go muddy.",
+   1
   ],
   "49.9": [
    "百姓皆注其耳目，聖人皆孩之。",
    "Bǎi xìng jiē zhù qí ěr mù, shèng rén jiē hái zhī.",
-   "the sage sees them pure as infants.",
-   0
+   "Everyone pours out their attention, all eyes and ears; the sage sees them pure as infants.",
+   1
   ],
   "5.1": [
    "天地不仁，以萬物為芻狗；",
    "Tiān dì bù rén, yǐ wàn wù wéi chú gǒu;",
-   "Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs. The sage is not concerned with humaneness: they treat everyone as straw dogs.",
-   0
+   "Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs.",
+   1
   ],
   "5.2": [
    "聖人不仁，以百姓為芻狗。",
    "shèng rén bù rén, yǐ bǎi xìng wéi chú gǒu.",
-   "Isn't the space between sky and earth like a bellows?",
-   0
+   "The sage is not concerned with humaneness: they treat everyone as straw dogs.",
+   1
   ],
   "5.3": [
    "天地之間，其猶橐籥乎？",
    "Tiān dì zhī jiān, qí yóu tuó yuè hū?",
-   "Empty but never depleted, the more it moves, the more it yields.",
-   0
+   "Isn't the space between sky and earth like a bellows?",
+   1
   ],
   "5.4": [
    "虛而不屈，動而愈出。",
    "Xū ér bù qū, dòng ér yù chū.",
-   "Speaking of this is a dead end.",
-   0
+   "Empty but never depleted, the more it moves, the more it yields.",
+   1
   ],
   "5.5": [
    "多言數窮，不如守中。",
    "Duō yán shù qióng, bù rú shǒu zhōng.",
-   "Instead, hold to the center.",
-   0
+   "Speaking of this is a dead end. Instead, hold to the center.",
+   1
   ],
   "50.1": [
    "出生入死。",
@@ -46566,104 +46591,104 @@
   "51.1": [
    "道生之，德畜之，",
    "Dào shēng zhī, dé xù zhī,",
-   "The Tao gives birth to the countless things, integrity rears them, matter forms them, circumstance completes them.",
-   0
+   "The Tao gives birth to the countless things, integrity rears them,",
+   1
   ],
   "51.2": [
    "物形之，勢成之。",
    "Wù xíng zhī, shì chéng zhī.",
-   "Therefore the countless things, without exception, revere the Tao and value integrity.",
-   0
+   "matter forms them, circumstance completes them.",
+   1
   ],
   "51.3": [
    "是以萬物莫不尊道而貴德。",
    "Shì yǐ wàn wù mò bù zūn dào ér guì dé.",
-   "This reverence for the Tao, this valuing of integrity — no one commands it.",
-   0
+   "Therefore the countless things, without exception, revere the Tao and value integrity.",
+   1
   ],
   "51.4": [
    "道之尊，德之貴，",
    "Dào zhī zūn, dé zhī guì,",
-   "It is always so, of itself.",
-   0
+   "This reverence for the Tao, this valuing of integrity — no one commands it.",
+   1
   ],
   "51.5": [
    "夫莫之命而常自然。",
    "Fú mò zhī mìng ér cháng zì rán.",
-   "Thus, the Tao births the countless things and integrity rears them, grows and raises them, settles and matures them, nourishes and protects them.",
-   0
+   "This reverence for the Tao, this valuing of integrity — no one commands it. It is always so, of itself.",
+   1
   ],
   "51.6": [
    "故道生之，德畜之；",
    "Gù dào shēng zhī, dé xù zhī;",
-   "Giving birth without possessing,",
-   0
+   "Thus, the Tao births the countless things and integrity rears them,",
+   1
   ],
   "51.7": [
    "長之育之；亭之毒之；養之覆之。",
    "Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.",
-   "acting yet relying on nothing,",
-   0
+   "grows and raises them, settles and matures them, nourishes and protects them.",
+   1
   ],
   "51.8": [
    "生而不有，為而不恃，長而不宰。",
    "Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.",
-   "growing them without ruling them –",
-   0
+   "Giving birth without possessing, acting yet relying on nothing, growing them without ruling them –",
+   1
   ],
   "51.9": [
    "是謂玄德。",
    "Shì wèi xuán dé.",
    "this is called profound integrity.",
-   0
+   1
   ],
   "52.1": [
    "天下有始，以為天下母。",
    "Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.",
-   "The world has an origin, which serves as the mother of the world. Find our mother, and you know her children.",
-   0
+   "The world has an origin, which serves as the mother of the world.",
+   1
   ],
   "52.2": [
    "既得其母，以知其子；",
    "Jì dé qí mǔ, yǐ zhī qí zǐ;",
-   "Know her children, return and hold fast to our mother,",
-   0
+   "Find our mother, and you know her children.",
+   1
   ],
   "52.3": [
    "既知其子，復守其母，没身不殆。",
    "Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.",
-   "and to the end of your days, no danger will find you. Block the openings, close the doors, and to the end of your days you will not toil.",
-   0
+   "Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you.",
+   1
   ],
   "52.4": [
    "塞其兌，閉其門，終身不勤。",
    "Sè qí duì, bì qí mén, zhōng shēn bù qín.",
-   "Open the openings, multiply your affairs, and to the end of your days you are beyond saving.",
-   0
+   "Block the openings, close the doors, and to the end of your days you will not toil.",
+   1
   ],
   "52.5": [
    "開其兌，濟其事，終身不救。",
    "Kāi qí duì, jì qí shì, zhōng shēn bù jiù.",
-   "Seeing the small is called clarity.",
-   0
+   "Open the openings, multiply your affairs, and to the end of your days you are beyond saving.",
+   1
   ],
   "52.6": [
    "見小曰明，守柔曰強。",
    "Jiàn xiǎo yuē míng, shǒu róu yuē qiáng.",
-   "Holding to the soft is called strong. Use the outer light, return to your inner clarity,",
-   0
+   "Seeing the small is called clarity. Holding to the soft is called strong.",
+   1
   ],
   "52.7": [
    "用其光，復歸其明，無遺身殃；",
    "Yòng qí guāng, fù guī qí míng, wú yí shēn yāng;",
-   "and leave no calamity for the body.",
-   0
+   "Use the outer light, return to your inner clarity, and leave no calamity for the body.",
+   1
   ],
   "52.8": [
    "是謂襲常。",
    "Shì wèi xí cháng.",
    "This is called the ever-present worn covered.",
-   0
+   1
   ],
   "53.1": [
    "使我介然有知，行於大道，唯施是畏。",
@@ -46698,158 +46723,158 @@
   "54.1": [
    "善建者不拔，善抱者不脫，子孫以祭祀不輟。",
    "Shàn jiàn zhě bù bá, shàn bào zhě bù tuō, zǐ sūn yǐ jì sì bù chuò.",
-   "What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away.",
-   0
+   "What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. Descendants will never cease offering sacrifices honoring this.",
+   1
   ],
   "54.2": [
    "修之於身，其德乃真；",
    "Xiū zhī yú shēn, qí dé nǎi zhēn;",
-   "Descendants will never cease offering sacrifices honoring this. Cultivate this in your body, and its integrity becomes authentic.",
-   0
+   "Cultivate this in your body, and its integrity becomes authentic.",
+   1
   ],
   "54.3": [
    "修之於家，其德乃餘；",
    "Xiū zhī yú jiā, qí dé nǎi yú;",
    "Cultivate this in your family, and its integrity becomes abundant.",
-   0
+   1
   ],
   "54.4": [
    "修之於鄉，其德乃長；",
    "Xiū zhī yú xiāng, qí dé nǎi cháng;",
-   "Cultivate this in your community, and its integrity becomes long-lasting. Cultivate this in your state, and its integrity becomes bountiful.",
-   0
+   "Cultivate this in your community, and its integrity becomes long-lasting.",
+   1
   ],
   "54.5": [
    "修之於邦，其德乃豐；",
    "Xiū zhī yú bāng, qí dé nǎi fēng;",
-   "Cultivate this in the world, and its integrity becomes universal.",
-   0
+   "Cultivate this in your state, and its integrity becomes bountiful.",
+   1
   ],
   "54.6": [
    "修之於天下，其德乃普。",
    "Xiū zhī yú tiān xià, qí dé nǎi pǔ.",
-   "Therefore, observe the body through your own body. Observe the family through your family.",
-   0
+   "Cultivate this in the world, and its integrity becomes universal.",
+   1
   ],
   "54.7": [
    "故以身觀身，以家觀家，",
    "Gù yǐ shēn guān shēn, yǐ jiā guān jiā,",
-   "Observe the community through your community.",
-   0
+   "Therefore, observe the body through your own body. Observe the family through your family.",
+   1
   ],
   "54.8": [
    "以鄉觀鄉，以邦觀邦，以天下觀天下。",
    "Yǐ xiāng guān xiāng, yǐ bāng guān bāng, yǐ tiān xià guān tiān xià.",
-   "Observe the state through your state. Observe the world through the world.",
-   0
+   "Observe the community through your community. Observe the state through your state. Observe the world through the world.",
+   1
   ],
   "54.9": [
    "吾何以知天下然哉？以此。",
    "Wú hé yǐ zhī tiān xià rán zāi? Yǐ cǐ.",
    "How do I know the world is so? By this.",
-   0
+   1
   ],
   "55.1": [
    "含德之厚，比於赤子。",
    "Hán dé zhī hòu, bǐ yú chì zǐ.",
-   "A person with abundant integrity is like a newborn. Venomous creatures do not sting them,",
-   0
+   "A person with abundant integrity is like a newborn.",
+   1
   ],
   "55.2": [
    "毒蟲不螫，猛獸不據，攫鳥不搏。",
    "Dú chóng bù shì, měng shòu bù jù, jué niǎo bù bó.",
-   "fierce beasts do not seize them, birds of prey do not attack them.",
-   0
+   "Venomous creatures do not sting them, fierce beasts do not seize them, birds of prey do not attack them.",
+   1
   ],
   "55.3": [
    "骨弱筋柔而握固。",
    "Gǔ ruò jīn róu ér wò gù.",
    "Their bones are yielding and their muscles soft, yet their grip is firm.",
-   0
+   1
   ],
   "55.4": [
    "未知牝牡之合而朘作，精之至也。",
    "Wèi zhī pìn mǔ zhī hé ér zuī zuò, jīng zhī zhì yě.",
-   "They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost. It cries all day and never goes hoarse — this is harmony at its utmost.",
-   0
+   "They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.",
+   1
   ],
   "55.5": [
    "終日號而不嗄，和之至也。",
    "Zhōng rì háo ér bù shà, hé zhī zhì yě.",
-   "Knowing harmony is called the ever-present. Knowing the ever-present is called clear-seeing.",
-   0
+   "It cries all day and never goes hoarse — this is harmony at its utmost.",
+   1
   ],
   "55.6": [
    "知和曰常，知常曰明。",
    "Zhī hé yuē cháng, zhī cháng yuē míng.",
-   "To force life to increase is an ill omen.",
-   0
+   "Knowing harmony is called the ever-present. Knowing the ever-present is called clear-seeing.",
+   1
   ],
   "55.7": [
    "益生曰祥。心使氣曰強。",
    "Yì shēng yuē xiáng. Xīn shǐ qì yuē qiáng.",
-   "When the heart drives the vital energy, that is called strong. When things reach their prime, they decay.",
-   0
+   "To force life to increase is an ill omen. When the heart drives the vital energy, that is called strong.",
+   1
   ],
   "55.8": [
    "物壯則老，謂之不道，不道早已。",
    "Wù zhuàng zé lǎo, wèi zhī bù dào, bù dào zǎo yǐ.",
-   "This is called not-Tao. Not-Tao comes to an early end.",
-   0
+   "When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end.",
+   1
   ],
   "56.1": [
    "知者不言，言者不知。",
    "Zhī zhě bù yán, yán zhě bù zhī.",
    "Those who know do not speak. Those who speak do not know.",
-   0
+   1
   ],
   "56.2": [
    "塞其兌，閉其門，",
    "Sè qí duì, bì qí mén,",
    "Block the openings, close the doors.",
-   0
+   1
   ],
   "56.3": [
    "挫其銳，解其紛，",
    "Cuò qí ruì, jiě qí fēn,",
    "Blunt the sharpness, untangle the knots.",
-   0
+   1
   ],
   "56.4": [
    "和其光，同其塵，",
    "Hé qí guāng, tóng qí chén,",
    "Dim your own light, be the same as the dust.",
-   0
+   1
   ],
   "56.5": [
    "是謂玄同。",
    "Shì wèi xuán tóng.",
    "This is called profound sameness.",
-   0
+   1
   ],
   "56.6": [
    "故不可得而親，不可得而疏；",
    "Gù bù kě dé ér qīn, bù kě dé ér shū;",
    "You cannot draw them near nor hold them off,",
-   0
+   1
   ],
   "56.7": [
    "不可得而利，不可得而害；",
    "Bù kě dé ér lì, bù kě dé ér hài;",
    "neither benefit nor harm them,",
-   0
+   1
   ],
   "56.8": [
    "不可得而貴，不可得而賤。",
    "Bù kě dé ér guì, bù kě dé ér jiàn.",
    "neither honor nor debase them.",
-   0
+   1
   ],
   "56.9": [
    "故為天下貴。",
    "Gù wéi tiān xià guì.",
    "And so, they become the most honored in the world.",
-   0
+   1
   ],
   "57.1": [
    "以正治國，",
@@ -47047,37 +47072,37 @@
    "谷神不死，",
    "Gǔ shén bù sǐ,",
    "The spirit of the valley is deathless.",
-   0
+   1
   ],
   "6.2": [
    "是謂玄牝。",
    "shì wèi xuán pìn.",
    "This is the dark female.",
-   0
+   1
   ],
   "6.3": [
    "玄牝之門，",
    "Xuán pìn zhī mén,",
-   "This is the dark female.",
-   0
+   "This dark gateway birthed the sky and the earth.",
+   1
   ],
   "6.4": [
    "是謂天地根。",
    "shì wèi tiān dì gēn.",
    "This dark gateway birthed the sky and the earth.",
-   0
+   1
   ],
   "6.5": [
    "綿綿若存，",
    "Mián mián ruò cún,",
    "Unceasing yet barely perceptible, it can never be exhausted.",
-   0
+   1
   ],
   "6.6": [
    "用之不勤。",
    "yòng zhī bù qín.",
    "Unceasing yet barely perceptible, it can never be exhausted.",
-   0
+   1
   ],
   "60.1": [
    "治大國，若烹小鮮。",
@@ -47112,398 +47137,398 @@
   "61.1": [
    "大國者下流，",
    "Dà guó zhě xià liú,",
-   "The large state is the downstream flow, the confluence of the world, the female of the world.",
-   0
+   "The large state is the downstream flow,",
+   1
   ],
   "61.2": [
    "天下之交，天下之牝。",
    "tiān xià zhī jiāo, tiān xià zhī pìn.",
-   "The female always overcomes the male by stillness.",
-   0
+   "the confluence of the world, the female of the world.",
+   1
   ],
   "61.3": [
    "牝常以靜勝牡，以靜為下。",
    "Pìn cháng yǐ jìng shèng mǔ, yǐ jìng wéi xià.",
-   "By stillness she is underneath.",
-   0
+   "The female always overcomes the male by stillness. By stillness she is underneath.",
+   1
   ],
   "61.4": [
    "故大國以下小國，則取小國；",
    "Gù dà guó yǐ xià xiǎo guó, zé qǔ xiǎo guó;",
    "So the large state, by going below the small state, takes the small state.",
-   0
+   1
   ],
   "61.5": [
    "小國以下大國，則取大國。",
    "Xiǎo guó yǐ xià dà guó, zé qǔ dà guó.",
-   "The small state, by going below the large state, takes the large state. The large state takes by going low, the small state by staying low.",
-   0
+   "The small state, by going below the large state, takes the large state.",
+   1
   ],
   "61.6": [
    "故或下以取，或下而取。",
    "Gù huò xià yǐ qǔ, huò xià ér qǔ.",
-   "The large state wants nothing more than to gather and rear people.",
-   0
+   "The large state takes by going low, the small state by staying low.",
+   1
   ],
   "61.7": [
    "大國不過欲兼畜人，",
    "Dà guó bù guò yù jiān xù rén,",
-   "The small state wants nothing more than to enter and serve people.",
-   0
+   "The large state wants nothing more than to gather and rear people.",
+   1
   ],
   "61.8": [
    "小國不過欲入事人。",
    "Xiǎo guó bù guò yù rù shì rén.",
-   "Both get what they want.",
-   0
+   "The small state wants nothing more than to enter and serve people.",
+   1
   ],
   "61.9": [
    "夫兩者各得所欲，大者宜為下。",
    "Fú liǎng zhě gè dé suǒ yù, dà zhě yí wéi xià.",
-   "The large one ought to be underneath.",
-   0
+   "Both get what they want. The large one ought to be underneath.",
+   1
   ],
   "62.1": [
    "道者萬物之奧。",
    "Dào zhě wàn wù zhī ào.",
-   "The Tao is the sanctuary of the countless things, the treasure of those who are masterful,",
-   0
+   "The Tao is the sanctuary of the countless things,",
+   1
   ],
   "62.10": [
    "故為天下貴。",
    "Gù wéi tiān xià guì.",
    "And so it is the most honored in the world.",
-   0
+   1
   ],
   "62.2": [
    "善人之寶，不善人之所保。",
    "Shàn rén zhī bǎo, bù shàn rén zhī suǒ bǎo.",
-   "and what keeps safe those who are not.",
-   0
+   "the treasure of those who are masterful, and what keeps safe those who are not.",
+   1
   ],
   "62.3": [
    "美言可以市尊，美行可以加人。",
    "Měi yán kě yǐ shì zūn, měi xíng kě yǐ jiā rén.",
-   "Fine words can buy honor.",
-   0
+   "Fine words can buy honor. Fine conduct can raise a person above others.",
+   1
   ],
   "62.4": [
    "人之不善，何棄之有？",
    "Rén zhī bù shàn, hé qì zhī yǒu?",
-   "Fine conduct can raise a person above others. So when a person is unmasterful, why abandon them?",
-   0
+   "So when a person is unmasterful, why abandon them?",
+   1
   ],
   "62.5": [
    "故立天子，置三公，",
    "Gù lì tiān zǐ, zhì sān gōng,",
    "When they raise up a child of the sky and install the three ministers,",
-   0
+   1
   ],
   "62.6": [
    "雖有拱璧以先駟馬，",
    "Suī yǒu gǒng bì yǐ xiān sì mǎ,",
    "though jade discs go before teams of four horses,",
-   0
+   1
   ],
   "62.7": [
    "不如坐進此道。",
    "Bù rú zuò jìn cǐ dào.",
-   "better to sit where you are and offer this Tao. What made the ancients honor this Tao?",
-   0
+   "better to sit where you are and offer this Tao.",
+   1
   ],
   "62.8": [
    "古之所以貴此道者何？",
    "Gǔ zhī suǒ yǐ guì cǐ dào zhě hé?",
-   "Did they not say: seek, and you find;",
-   0
+   "What made the ancients honor this Tao?",
+   1
   ],
   "62.9": [
    "不曰：求以得，有罪以免邪？",
    "Bù yuē: qiú yǐ dé, yǒu zuì yǐ miǎn xié?",
-   "commit a crime, and you are spared?",
-   0
+   "Did they not say: seek, and you find; commit a crime, and you are spared?",
+   1
   ],
   "63.1": [
    "為無為，事無事，味無味。",
    "Wéi wú wéi, shì wú shì, wèi wú wèi.",
-   "Do the not-doing, serve the not-serving,",
-   0
+   "Do the not-doing, serve the not-serving, taste the flavorless.",
+   1
   ],
   "63.2": [
    "大小多少，報怨以德。",
    "Dà xiǎo duō shǎo, bào yuàn yǐ dé.",
-   "taste the flavorless. Great or small, many or few,",
-   0
+   "Great or small, many or few, repay resentment with integrity.",
+   1
   ],
   "63.3": [
    "圖難於其易，為大於其細。",
    "Tú nán yú qí yì, wéi dà yú qí xì.",
-   "repay resentment with integrity. Map out the difficult while it is easy.",
-   0
+   "Map out the difficult while it is easy. Do the great while it is slight.",
+   1
   ],
   "63.4": [
    "天下難事，必作於易；",
    "Tiān xià nán shì, bì zuò yú yì;",
-   "Do the great while it is slight. The world's difficult affairs always begin easy.",
-   0
+   "The world's difficult affairs always begin easy.",
+   1
   ],
   "63.5": [
    "天下大事，必作於細。",
    "Tiān xià dà shì, bì zuò yú xì.",
-   "The world's great affairs always begin slight. So the sage never does the great,",
-   0
+   "The world's great affairs always begin slight.",
+   1
   ],
   "63.6": [
    "是以聖人終不為大，故能成其大。",
    "Shì yǐ shèng rén zhōng bù wéi dà, gù néng chéng qí dà.",
-   "and so completes their greatness. Promise lightly and you will be little trusted.",
-   0
+   "So the sage never does the great, and so completes their greatness.",
+   1
   ],
   "63.7": [
    "夫輕諾必寡信，多易必多難。",
    "Fú qīng nuò bì guǎ xìn, duō yì bì duō nán.",
-   "Take much to be easy and much will be difficult. So the sage still finds it difficult,",
-   0
+   "Promise lightly and you will be little trusted. Take much to be easy and much will be difficult.",
+   1
   ],
   "63.8": [
    "是以聖人猶難之，故終無難矣。",
    "Shì yǐ shèng rén yóu nán zhī, gù zhōng wú nán yǐ.",
-   "and in the end has no difficulty.",
-   0
+   "So the sage still finds it difficult, and in the end has no difficulty.",
+   1
   ],
   "64.1": [
    "其安易持，其未兆易謀。",
    "Qí ān yì chí, qí wèi zhào yì móu.",
    "What is at rest is easy to hold. What shows no sign is easy to plan for.",
-   0
+   1
   ],
   "64.10": [
    "慎終如始，則無敗事。",
    "Shèn zhōng rú shǐ, zé wú bài shì.",
-   "Therefore, the sage wants the not-wanting",
-   0
+   "Be as careful at the end as at the beginning, and nothing will be ruined.",
+   1
   ],
   "64.11": [
    "是以聖人欲不欲，不貴難得之貨；",
    "Shì yǐ shèng rén yù bù yù, bù guì nán dé zhī huò;",
-   "and does not prize rare goods, learns to unlearn,",
-   0
+   "Therefore, the sage wants the not-wanting and does not prize rare goods,",
+   1
   ],
   "64.12": [
    "學不學，復眾人之所過。",
    "Xué bù xué, fù zhòng rén zhī suǒ guò.",
-   "brings the crowd back from where they have gone too far, and supports the countless things in being so of themselves,",
-   0
+   "learns to unlearn, brings the crowd back from where they have gone too far,",
+   1
   ],
   "64.13": [
    "以輔萬物之自然，而不敢為。",
    "Yǐ fǔ wàn wù zhī zì rán, ér bù gǎn wéi.",
-   "and never pushes them.",
-   0
+   "and supports the countless things in being so of themselves, and never pushes them.",
+   1
   ],
   "64.2": [
    "其脆易泮，其微易散。",
    "Qí cuì yì pàn, qí wēi yì sàn.",
    "What is fragile is easy to shatter. What is faint is easy to scatter.",
-   0
+   1
   ],
   "64.3": [
    "為之於未有，治之於未亂。",
    "Wéi zhī yú wèi yǒu, zhì zhī yú wèi luàn.",
    "Handle it before it exists. Order it before it falls into disorder.",
-   0
+   1
   ],
   "64.4": [
    "合抱之木，生於毫末；",
    "Hé bào zhī mù, shēng yú háo mò;",
    "The tree the width of both arms is born from a hair's tip.",
-   0
+   1
   ],
   "64.5": [
    "九層之臺，起於累土；",
    "Jiǔ céng zhī tái, qǐ yú lěi tǔ;",
-   "The nine-tiered terrace rises from a heap of dirt. The thousand-mile journey begins beneath your feet.",
-   0
+   "The nine-tiered terrace rises from a heap of dirt.",
+   1
   ],
   "64.6": [
    "千里之行，始於足下。",
    "Qiān lǐ zhī xíng, shǐ yú zú xià.",
-   "Those who handle it ruin it. Those who grasp it lose it.",
-   0
+   "The thousand-mile journey begins beneath your feet.",
+   1
   ],
   "64.7": [
    "為者敗之，執者失之。",
    "Wéi zhě bài zhī, zhí zhě shī zhī.",
-   "Therefore, the sage does not do, and so ruins nothing,",
-   0
+   "Those who handle it ruin it. Those who grasp it lose it.",
+   1
   ],
   "64.8": [
    "是以聖人無為故無敗，無執故無失。",
    "Shì yǐ shèng rén wú wéi gù wú bài, wú zhí gù wú shī.",
-   "does not grasp, and so loses nothing. People always ruin their affairs just short of completing them.",
-   0
+   "Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing.",
+   1
   ],
   "64.9": [
    "民之從事，常於幾成而敗之。",
    "Mín zhī cóng shì, cháng yú jī chéng ér bài zhī.",
-   "Be as careful at the end as at the beginning, and nothing will be ruined.",
-   0
+   "People always ruin their affairs just short of completing them.",
+   1
   ],
   "65.1": [
    "古之善為道者，非以明民，將以愚之。",
    "Gǔ zhī shàn wéi dào zhě, fēi yǐ míng mín, jiāng yǐ yú zhī.",
-   "The ancients who were masterful at the Tao did not use it to make the people clever.",
-   0
+   "The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.",
+   1
   ],
   "65.2": [
    "民之難治，以其智多。",
    "Mín zhī nán zhì, yǐ qí zhì duō.",
-   "They used it to return them to being guileless. The people are hard to govern",
-   0
+   "The people are hard to govern because they have too much guile.",
+   1
   ],
   "65.3": [
    "故以智治國，國之賊；",
    "Gù yǐ zhì zhì guó, guó zhī zéi;",
-   "because they have too much guile. So to govern a state with guile robs the state.",
-   0
+   "So to govern a state with guile robs the state.",
+   1
   ],
   "65.4": [
    "不以智治國，國之福。",
    "Bù yǐ zhì zhì guó, guó zhī fú.",
-   "Not to govern it with guile is the state's good fortune. Knowing these two is itself the pattern.",
-   0
+   "Not to govern it with guile is the state's good fortune.",
+   1
   ],
   "65.5": [
    "知此兩者亦稽式。",
    "Zhī cǐ liǎng zhě yì jī shì.",
-   "Always to know the pattern is called profound integrity.",
-   0
+   "Knowing these two is itself the pattern.",
+   1
   ],
   "65.6": [
    "常知稽式，是謂玄德。",
    "Cháng zhī jī shì, shì wèi xuán dé.",
-   "Profound integrity is deep, and far, and turns back together with things,",
-   0
+   "Always to know the pattern is called profound integrity.",
+   1
   ],
   "65.7": [
    "玄德深矣，遠矣，與物反矣，然後乃至大順。",
    "Xuán dé shēn yǐ, yuǎn yǐ, yǔ wù fǎn yǐ, rán hòu nǎi zhì dà shùn.",
-   "and only then runs with the great current.",
-   0
+   "Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current.",
+   1
   ],
   "66.1": [
    "江海所以能為百谷王者，",
    "Jiāng hǎi suǒ yǐ néng wéi bǎi gǔ wáng zhě,",
-   "Rivers and seas can rule the hundred valleys because they are masterful at staying below them.",
-   0
+   "Rivers and seas can rule the hundred valleys",
+   1
   ],
   "66.2": [
    "以其善下之，故能為百谷王。",
    "Yǐ qí shàn xià zhī, gù néng wéi bǎi gǔ wáng.",
-   "That is how they come to rule the hundred valleys.",
-   0
+   "because they are masterful at staying below them. That is how they come to rule the hundred valleys.",
+   1
   ],
   "66.3": [
    "是以欲上民，必以言下之；",
    "Shì yǐ yù shàng mín, bì yǐ yán xià zhī;",
    "So to rise above the people, you must speak from below them.",
-   0
+   1
   ],
   "66.4": [
    "欲先民，必以身後之。",
    "Yù xiān mín, bì yǐ shēn hòu zhī.",
    "To walk ahead of the people, you must put your body behind them.",
-   0
+   1
   ],
   "66.5": [
    "是以聖人處上而民不重，",
    "Shì yǐ shèng rén chǔ shàng ér mín bù zhòng,",
-   "The sage stands above, and the people are not weighed down, stands in front, and the people are not harmed.",
-   0
+   "The sage stands above, and the people are not weighed down,",
+   1
   ],
   "66.6": [
    "處前而民不害。",
    "Chǔ qián ér mín bù hài.",
-   "So the world gladly pushes them forward and never tires of them.",
-   0
+   "stands in front, and the people are not harmed.",
+   1
   ],
   "66.7": [
    "是以天下樂推而不厭。",
    "Shì yǐ tiān xià lè tuī ér bù yàn.",
-   "Because they do not contend,",
-   0
+   "So the world gladly pushes them forward and never tires of them.",
+   1
   ],
   "66.8": [
    "以其不爭，故天下莫能與之爭。",
    "Yǐ qí bù zhēng, gù tiān xià mò néng yǔ zhī zhēng.",
-   "no one in the world can contend with them.",
-   0
+   "Because they do not contend, no one in the world can contend with them.",
+   1
   ],
   "67.1": [
    "天下皆謂我道大，似不肖。",
    "Tiān xià jiē wèi wǒ dào dà, sì bù xiào.",
-   "The world says my Tao is great, and looks like nothing. Only because it is great does it look like nothing.",
-   0
+   "The world says my Tao is great, and looks like nothing.",
+   1
   ],
   "67.10": [
    "夫慈，以戰則勝，以守則固。",
    "Fú cí, yǐ zhàn zé shèng, yǐ shǒu zé gù.",
    "Tenderness. Fight with it and you win, guard with it and you stand firm.",
-   0
+   1
   ],
   "67.11": [
    "天將救之，以慈衛之。",
    "Tiān jiāng jiù zhī, yǐ cí wèi zhī.",
    "When nature would rescue someone, it shields them with tenderness.",
-   0
+   1
   ],
   "67.2": [
    "夫唯大，故似不肖。",
    "Fú wéi dà, gù sì bù xiào.",
-   "If it looked like anything, it would long since have been slight.",
-   0
+   "Only because it is great does it look like nothing.",
+   1
   ],
   "67.3": [
    "若肖，久矣其細也夫！",
    "Ruò xiào, jiǔ yǐ qí xì yě fú\\!",
-   "I have three treasures. I hold them and keep them safe. The first is tenderness.",
-   0
+   "If it looked like anything, it would long since have been slight.",
+   1
   ],
   "67.4": [
    "我有三寶，持而保之：",
    "Wǒ yǒu sān bǎo, chí ér bǎo zhī:",
-   "The second is frugality.",
-   0
+   "I have three treasures. I hold them and keep them safe.",
+   1
   ],
   "67.5": [
    "一曰慈，二曰儉，三曰不敢為天下先。",
    "Yī yuē cí, èr yuē jiǎn, sān yuē bù gǎn wéi tiān xià xiān.",
-   "The third is never pushing to be first in the world. Tenderness, and so you can be brave.",
-   0
+   "The first is tenderness. The second is frugality. The third is never pushing to be first in the world.",
+   1
   ],
   "67.6": [
    "慈故能勇；",
    "Cí gù néng yǒng;",
-   "Frugality, and so you can reach far.",
-   0
+   "Tenderness, and so you can be brave.",
+   1
   ],
   "67.7": [
    "儉故能廣；",
    "Jiǎn gù néng guǎng;",
-   "Never pushing to be first in the world, and so you can become chief of the vessels. Now: to abandon tenderness and grab at courage,",
-   0
+   "Frugality, and so you can reach far.",
+   1
   ],
   "67.8": [
    "不敢為天下先，故能成器長。",
    "Bù gǎn wéi tiān xià xiān, gù néng chéng qì zhǎng.",
-   "to abandon frugality and grab at reach,",
-   0
+   "Never pushing to be first in the world, and so you can become chief of the vessels.",
+   1
   ],
   "67.9": [
    "今捨慈且勇，捨儉且廣，捨後且先，死矣！",
    "Jīn shě cí qiě yǒng, shě jiǎn qiě guǎng, shě hòu qiě xiān, sǐ yǐ\\!",
-   "to abandon the rear and grab at the front. That is death.",
-   0
+   "Now: to abandon tenderness and grab at courage, to abandon frugality and grab at reach, to abandon the rear and grab at the front. That is death.",
+   1
   ],
   "68.1": [
    "善為士者，不武；",
@@ -47659,37 +47684,37 @@
    "吾言甚易知，甚易行。",
    "Wú yán shèn yì zhī, shèn yì xíng.",
    "My words are very easy to know, very easy to follow.",
-   0
+   1
   ],
   "70.2": [
    "天下莫能知，莫能行。",
    "Tiān xià mò néng zhī, mò néng xíng.",
    "In all the world, no one can know them. No one can follow them.",
-   0
+   1
   ],
   "70.3": [
    "言有宗，事有君。",
    "Yán yǒu zōng, shì yǒu jūn.",
    "Words have an ancestor. Affairs have a ruler.",
-   0
+   1
   ],
   "70.4": [
    "夫唯無知，是以不我知。",
    "Fú wéi wú zhī, shì yǐ bù wǒ zhī.",
    "Only because there is no knowing it do they not know me.",
-   0
+   1
   ],
   "70.5": [
    "知我者希，則我者貴。",
    "Zhī wǒ zhě xī, zé wǒ zhě guì.",
    "Those who know me are few. Those who pattern themselves on me are precious.",
-   0
+   1
   ],
   "70.6": [
    "是以聖人被褐而懷玉。",
    "Shì yǐ shèng rén pī hè ér huái yù.",
    "Therefore, the sage wears coarse cloth, but carries jade against their chest.",
-   0
+   1
   ],
   "71.1": [
    "知不知，上；",
@@ -47719,283 +47744,283 @@
    "民不畏威，則大威至。",
    "Mín bù wèi wēi, zé dà wēi zhì.",
    "When the people no longer fear authority, the great collapse comes.",
-   0
+   1
   ],
   "72.2": [
    "無狎其所居，無厭其所生。",
    "Wú xiá qí suǒ jū, wú yàn qí suǒ shēng.",
-   "Do not crowd people in their homes.",
-   0
+   "Do not crowd people in their homes. Do not oppress their livelihoods.",
+   1
   ],
   "72.3": [
    "夫唯不厭，是以不厭。",
    "Fú wéi bù yàn, shì yǐ bù yàn.",
-   "Do not oppress their livelihoods.",
-   0
+   "Only because you do not oppress them do they not tire of you.",
+   1
   ],
   "72.4": [
    "是以聖人自知，不自見；",
    "Shì yǐ shèng rén zì zhī, bù zì jiàn;",
-   "Only because you do not oppress them do they not tire of you. And so the sage knows themselves and does not display themselves,",
-   0
+   "And so the sage knows themselves and does not display themselves,",
+   1
   ],
   "72.5": [
    "自愛，不自貴。",
    "Zì ài, bù zì guì.",
    "loves themselves and does not hold themselves precious.",
-   0
+   1
   ],
   "72.6": [
    "故去彼取此。",
    "Gù qù bǐ qǔ cǐ.",
    "They let go of what is out there and take what is here.",
-   0
+   1
   ],
   "73.1": [
    "勇於敢則殺，",
    "Yǒng yú gǎn zé shā,",
-   "Bravery in pushing gets you killed. Bravery in not pushing keeps you alive.",
-   0
+   "Bravery in pushing gets you killed.",
+   1
   ],
   "73.10": [
    "天網恢恢，疏而不失。",
    "Tiān wǎng huī huī, shū ér bù shī.",
-   "Its mesh is wide, and nothing slips through.",
-   0
+   "Nature's net is vast. Its mesh is wide, and nothing slips through.",
+   1
   ],
   "73.2": [
    "勇於不敢則活。",
    "Yǒng yú bù gǎn zé huó.",
-   "Of these two, one benefits and one harms.",
-   0
+   "Bravery in not pushing keeps you alive.",
+   1
   ],
   "73.3": [
    "此兩者，或利或害。",
    "Cǐ liǎng zhě, huò lì huò hài.",
-   "What nature turns against, who knows why?",
-   0
+   "Of these two, one benefits and one harms.",
+   1
   ],
   "73.4": [
    "天之所惡，孰知其故？",
    "Tiān zhī suǒ wù, shú zhī qí gù?",
-   "So the sage still finds it difficult.",
-   0
+   "What nature turns against, who knows why?",
+   1
   ],
   "73.5": [
    "是以聖人猶難之。",
    "Shì yǐ shèng rén yóu nán zhī.",
-   "The way of nature:",
-   0
+   "So the sage still finds it difficult.",
+   1
   ],
   "73.6": [
    "天之道，不爭而善勝，",
    "Tiān zhī dào, bù zhēng ér shàn shèng,",
-   "it does not contend, yet is masterful at overcoming. It does not speak, yet is masterful at answering.",
-   0
+   "The way of nature: it does not contend, yet is masterful at overcoming.",
+   1
   ],
   "73.7": [
    "不言而善應，",
    "Bù yán ér shàn yìng,",
-   "It does not summon, yet things come of themselves.",
-   0
+   "It does not speak, yet is masterful at answering.",
+   1
   ],
   "73.8": [
    "不召而自來，",
    "Bù zhào ér zì lái,",
-   "It is unhurried, yet masterful at planning.",
-   0
+   "It does not summon, yet things come of themselves.",
+   1
   ],
   "73.9": [
    "繟然而善謀。",
    "Chǎn rán ér shàn móu.",
-   "Nature's net is vast.",
-   0
+   "It is unhurried, yet masterful at planning.",
+   1
   ],
   "74.1": [
    "民不畏死，奈何以死懼之？",
    "Mín bù wèi sǐ, nài hé yǐ sǐ jù zhī?",
    "When the people do not fear death, why try to frighten them with death?",
-   0
+   1
   ],
   "74.2": [
    "若使民常畏死，而為奇者，吾得執而殺之，孰敢？",
    "Ruò shǐ mín cháng wèi sǐ, ér wéi qí zhě, wú dé zhí ér shā zhī, shú gǎn?",
-   "Suppose the people always feared death, and I could seize whoever steps out of line and kill them.",
-   0
+   "Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?",
+   1
   ],
   "74.3": [
    "常有司殺者殺。",
    "Cháng yǒu sī shā zhě shā.",
-   "Who would still push? There is always one who does the killing.",
-   0
+   "There is always one who does the killing.",
+   1
   ],
   "74.4": [
    "夫代司殺者殺，是謂代大匠斫。",
    "Fú dài sī shā zhě shā, shì wèi dài dà jiàng zhuó.",
-   "To take their place is to take the place of the master carpenter. Of those who carve in place of the master carpenter,",
-   0
+   "To take their place is to take the place of the master carpenter.",
+   1
   ],
   "74.5": [
    "夫代大匠斫，希有不傷其手矣。",
    "Fú dài dà jiàng zhuó, xī yǒu bù shāng qí shǒu yǐ.",
-   "few fail to cut their own hand.",
-   0
+   "Of those who carve in place of the master carpenter, few fail to cut their own hand.",
+   1
   ],
   "75.1": [
    "民之飢，以其上食稅之多，是以飢。",
    "Mín zhī jī, yǐ qí shàng shí shuì zhī duō, shì yǐ jī.",
    "The people go hungry because those over them eat up so much in taxes.",
-   0
+   1
   ],
   "75.2": [
    "民之難治，以其上之有為，是以難治。",
    "Mín zhī nán zhì, yǐ qí shàng zhī yǒu wéi, shì yǐ nán zhì.",
    "The people are hard to govern because those over them will not stop doing.",
-   0
+   1
   ],
   "75.3": [
    "民之輕死，以其上求生之厚，是以輕死。",
    "Mín zhī qīng sǐ, yǐ qí shàng qiú shēng zhī hòu, shì yǐ qīng sǐ.",
    "The people make light of death because those over them want their own lives so rich.",
-   0
+   1
   ],
   "75.4": [
    "夫唯無以生為者，是賢於貴生。",
    "Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.",
    "Only those who don't use living for doing are worthier than those who hold life precious.",
-   0
+   1
   ],
   "76.1": [
    "人之生也柔弱，其死也堅強。",
    "Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",
    "In life a person is soft and yielding. In death, hard and strong.",
-   0
+   1
   ],
   "76.2": [
    "萬物草木之生也柔脆，其死也枯槁。",
    "Wàn wù cǎo mù zhī shēng yě róu cuì, qí sǐ yě kū gǎo.",
    "In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry.",
-   0
+   1
   ],
   "76.3": [
    "故堅強者死之徒，",
    "Gù jiān qiáng zhě sǐ zhī tú,",
    "So the hard and strong are followers of death.",
-   0
+   1
   ],
   "76.4": [
    "柔弱者生之徒。",
    "Róu ruò zhě shēng zhī tú.",
-   "The soft and yielding are followers of life. This is why a strong army does not win,",
-   0
+   "The soft and yielding are followers of life.",
+   1
   ],
   "76.5": [
    "是以兵強則不勝，木強則折。",
    "Shì yǐ bīng qiáng zé bù shèng, mù qiáng zé zhé.",
-   "and a strong tree snaps. The strong and the big dwell below.",
-   0
+   "This is why a strong army does not win, and a strong tree snaps.",
+   1
   ],
   "76.6": [
    "強大處下，柔弱處上。",
    "Qiáng dà chǔ xià, róu ruò chǔ shàng.",
-   "The soft and the yielding dwell above.",
-   0
+   "The strong and the big dwell below. The soft and the yielding dwell above.",
+   1
   ],
   "77.1": [
    "天之道，其猶張弓與？",
    "Tiān zhī dào, qí yóu zhāng gōng yǔ?",
-   "The way of nature: is it not like stringing a bow? The high is pressed down, the low is lifted.",
-   0
+   "The way of nature: is it not like stringing a bow?",
+   1
   ],
   "77.2": [
    "高者抑之，下者舉之；",
    "Gāo zhě yì zhī, xià zhě jǔ zhī;",
-   "What is too much is drawn off. What is too little is filled in. The way of nature",
-   0
+   "The high is pressed down, the low is lifted.",
+   1
   ],
   "77.3": [
    "有餘者損之，不足者補之。",
    "Yǒu yú zhě sǔn zhī, bù zú zhě bǔ zhī.",
-   "takes from where there is too much and mends where there is too little.",
-   0
+   "What is too much is drawn off. What is too little is filled in.",
+   1
   ],
   "77.4": [
    "天之道，損有餘而補不足。",
    "Tiān zhī dào, sǔn yǒu yú ér bǔ bù zú.",
-   "The way of people is not like this. It takes from those who have too little and offers it up to those who have too much.",
-   0
+   "The way of nature takes from where there is too much and mends where there is too little.",
+   1
   ],
   "77.5": [
    "人之道，則不然，損不足以奉有餘。",
    "Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",
-   "Who has more than enough, and offers it up to the world?",
-   0
+   "The way of people is not like this. It takes from those who have too little and offers it up to those who have too much.",
+   1
   ],
   "77.6": [
    "孰能有餘以奉天下？唯有道者。",
    "Shú néng yǒu yú yǐ fèng tiān xià? Wéi yǒu dào zhě.",
-   "Only those who are with the Tao. Therefore the sage acts yet relies on nothing.",
-   0
+   "Who has more than enough, and offers it up to the world? Only those who are with the Tao.",
+   1
   ],
   "77.7": [
    "是以聖人為而不恃，功成而不處，其不欲見賢。",
    "Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.",
-   "The work is done, and they do not stay in it. They have no wish to appear exceptional.",
-   0
+   "Therefore the sage acts yet relies on nothing. The work is done, and they do not stay in it. They have no wish to appear exceptional.",
+   1
   ],
   "78.1": [
    "天下莫柔弱於水，",
    "Tiān xià mò róu ruò yú shuǐ,",
-   "In all the world nothing is softer and more yielding than water, yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place.",
-   0
+   "In all the world nothing is softer and more yielding than water,",
+   1
   ],
   "78.2": [
    "而攻堅強者莫之能勝，以其無以易之。",
    "Ér gōng jiān qiáng zhě mò zhī néng shèng, yǐ qí wú yǐ yì zhī.",
-   "The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this,",
-   0
+   "yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place.",
+   1
   ],
   "78.3": [
    "弱之勝強，柔之勝剛，天下莫不知，莫能行。",
    "Ruò zhī shèng qiáng, róu zhī shèng gāng, tiān xià mò bù zhī, mò néng xíng.",
-   "yet no one can follow it. So the sage says:",
-   0
+   "The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it.",
+   1
   ],
   "78.4": [
    "是以聖人云：受國之垢，是謂社稷主；受國之不祥，是謂天下王。",
    "Shì yǐ shèng rén yún: shòu guó zhī gòu, shì wèi shè jì zhǔ; shòu guó zhī bù xiáng, shì wèi tiān xià wáng.",
-   "whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state",
-   0
+   "So the sage says: whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.",
+   1
   ],
   "78.5": [
    "正言若反。",
    "Zhèng yán ruò fǎn.",
-   "is the ruler of the world. Words on the mark seem like their opposite.",
-   0
+   "Words on the mark seem like their opposite.",
+   1
   ],
   "79.1": [
    "和大怨，必有餘怨；安可以為善？",
    "Hé dà yuàn, bì yǒu yú yuàn; ān kě yǐ wéi shàn?",
    "Settle a great grudge and some grudge always remains. How could that count as masterful?",
-   0
+   1
   ],
   "79.2": [
    "是以聖人執左契，而不責於人。",
    "Shì yǐ shèng rén zhí zuǒ qì, ér bù zé yú rén.",
    "So the sage grasps the left half of the tally and never asks for the other.",
-   0
+   1
   ],
   "79.3": [
    "有德司契，無德司徹。",
    "Yǒu dé sī qì, wú dé sī chè.",
    "Those with integrity keep the tally. Those without integrity keep score.",
-   0
+   1
   ],
   "79.4": [
    "天道無親，常與善人。",
    "Tiān dào wú qīn, cháng yǔ shàn rén.",
    "The way of nature plays no favorites. It stays with those who are masterful.",
-   0
+   1
   ],
   "8.1": [
    "上善若水。",
@@ -48078,128 +48103,128 @@
   "80.1": [
    "小國寡民。使有什伯之器而不用；",
    "Xiǎo guó guǎ mín. Shǐ yǒu shí bǎi zhī qì ér bù yòng;",
-   "A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them. Let the people find death heavy, and not move far away.",
-   0
+   "A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them.",
+   1
   ],
   "80.2": [
    "使民重死而不遠徙。",
    "Shǐ mín zhòng sǐ ér bù yuǎn xǐ.",
-   "Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out.",
-   0
+   "Let the people find death heavy, and not move far away.",
+   1
   ],
   "80.3": [
    "雖有舟輿，無所乘之；雖有甲兵，無所陳之。",
    "Suī yǒu zhōu yú, wú suǒ chéng zhī; suī yǒu jiǎ bīng, wú suǒ chén zhī.",
-   "Let the people go back to keeping their records in knotted cord. They find their food sweet,",
-   0
+   "Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out.",
+   1
   ],
   "80.4": [
    "使民復結繩而用之。",
    "Shǐ mín fù jié shéng ér yòng zhī.",
-   "their clothes fine, their houses restful, their ways a pleasure.",
-   0
+   "Let the people go back to keeping their records in knotted cord.",
+   1
   ],
   "80.5": [
    "甘其食，美其服，安其居，樂其俗。",
    "Gān qí shí, měi qí fú, ān qí jū, lè qí sú.",
-   "Neighboring states lie within sight of each other. They hear each other's chickens and dogs.",
-   0
+   "They find their food sweet, their clothes fine, their houses restful, their ways a pleasure.",
+   1
   ],
   "80.6": [
    "隣國相望，雞犬之聲相聞，民至老死，不相往來。",
    "Lín guó xiāng wàng, jī quǎn zhī shēng xiāng wén, mín zhì lǎo sǐ, bù xiāng wǎng lái.",
-   "The people grow old and die and never once go next door.",
-   0
+   "Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.",
+   1
   ],
   "81.1": [
    "信言不美，美言不信。",
    "Xìn yán bù měi, měi yán bù xìn.",
-   "Trustworthy words are not pretty. Pretty words are not trustworthy. Those who are masterful do not argue.",
-   0
+   "Trustworthy words are not pretty. Pretty words are not trustworthy.",
+   1
   ],
   "81.2": [
    "善者不辯，辯者不善。",
    "Shàn zhě bù biàn, biàn zhě bù shàn.",
-   "Those who argue are not masterful. Those who know have not heard it all.",
-   0
+   "Those who are masterful do not argue. Those who argue are not masterful.",
+   1
   ],
   "81.3": [
    "知者不博，博者不知。",
    "Zhī zhě bù bó, bó zhě bù zhī.",
-   "Those who have heard it all do not know. The sage does not hoard.",
-   0
+   "Those who know have not heard it all. Those who have heard it all do not know.",
+   1
   ],
   "81.4": [
    "聖人不積。既以為人己愈有，既以與人己愈多。",
    "Shèng rén bù jī. Jì yǐ wéi rén jǐ yù yǒu, jì yǐ yǔ rén jǐ yù duō.",
-   "Having done for others, they have more. Having given to others, they have more still.",
-   0
+   "The sage does not hoard. Having done for others, they have more. Having given to others, they have more still.",
+   1
   ],
   "81.5": [
    "天之道，利而不害；聖人之道，為而不爭。",
    "Tiān zhī dào, lì ér bù hài; shèng rén zhī dào, wéi ér bù zhēng.",
    "The way of nature benefits and does not harm. The way of the sage acts and does not contend.",
-   0
+   1
   ],
   "9.1": [
    "持而盈之，",
    "Chí ér yíng zhī,",
    "Rather than keep filling what you hold, stop.",
-   0
+   1
   ],
   "9.10": [
    "天之道。",
    "tiān zhī dào.",
    "The work done, the body withdraws. This is the way of nature.",
-   0
+   1
   ],
   "9.2": [
    "不如其已；",
    "bù rú qí yǐ;",
    "Rather than keep filling what you hold, stop.",
-   0
+   1
   ],
   "9.3": [
    "揣而銳之，",
    "chuǎi ér ruì zhī,",
    "Hammer a point ever sharper, and it will not keep for long.",
-   0
+   1
   ],
   "9.4": [
    "不可長保。",
    "bù kě cháng bǎo.",
    "Hammer a point ever sharper, and it will not keep for long.",
-   0
+   1
   ],
   "9.5": [
    "金玉滿堂，",
    "Jīn yù mǎn táng,",
    "Gold and jade fill the hall, and no one can guard them.",
-   0
+   1
   ],
   "9.6": [
    "莫之能守；",
    "mò zhī néng shǒu;",
    "Gold and jade fill the hall, and no one can guard them.",
-   0
+   1
   ],
   "9.7": [
    "富貴而驕，",
    "fù guì ér jiāo,",
    "Grow arrogant with wealth and status, and you leave yourself the fault.",
-   0
+   1
   ],
   "9.8": [
    "自遺其咎。",
    "zì yí qí jiù.",
    "Grow arrogant with wealth and status, and you leave yourself the fault.",
-   0
+   1
   ],
   "9.9": [
    "功遂身退，",
    "Gōng suì shēn tuì,",
    "The work done, the body withdraws. This is the way of nature.",
-   0
+   1
   ]
  },
  "literal": {

@@ -657,16 +657,18 @@ def build(conn, report=False):
             verse_by_chapter[n].append((verse_id, english))
 
     # ---- line alignment ----------------------------------------------------
-    # A chapter's own `## Alignment`, where it has one, is the pairing: written
-    # by hand, checked whole, and certain. Otherwise, where the counts agree the
-    # mapping is 1:1 and certain. Where they do not, a proportional guess is
-    # recorded at low confidence and flagged, never presented as settled:
-    # check_locks' repeated-formula rule already learned this lesson the hard
-    # way (three attempts at inference, all failed). WORKLIST T5-23.
+    # Where the counts agree the mapping is 1:1 and certain. Where they do not,
+    # the chapter's own `## Alignment` names the pairing, written by hand and
+    # checked whole. There is no third case. Until 2026-10-24 a chapter with
+    # uneven counts got a proportional guess, recorded at low confidence and
+    # never shown to a reader as a pairing; the guess was wrong often enough
+    # (ch 6 paired its gate with the wrong English) that the Library linked
+    # only 32 chapters. Every chapter is paired now, and a chapter whose counts
+    # come apart fails the build until its alignment is written. WORKLIST T5-23.
     errors = [e for n in sorted(chapters) for e in alignment_errors(chapters[n])]
     if errors:
-        raise SystemExit("authored alignment is broken:\n  " + "\n  ".join(errors))
-    align_stats = {"authored": 0, "exact": 0, "proportional": 0}
+        raise SystemExit("line alignment is broken:\n  " + "\n  ".join(errors))
+    align_stats = {"authored": 0, "exact": 0}
     for n in sorted(chapters):
         srcs = list(chapters[n].source_rows)
         verses = verse_by_chapter.get(n, [])
@@ -680,30 +682,11 @@ def build(conn, report=False):
                 for r in p.rows:
                     cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
                                 (verses[p.verse - 1][0], base[r - 1][0], 1.0, "authored"))
-        elif len(verses) == len(srcs):
+        else:
             align_stats["exact"] += 1
             for (vid, _), (lid, _) in zip(verses, base):
                 cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
                             (vid, lid, 1.0, "exact-count"))
-        else:
-            align_stats["proportional"] += 1
-            covered = set()
-            for i, (vid, _) in enumerate(verses):
-                j = min(int(i * len(base) / len(verses)), len(base) - 1)
-                cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
-                            (vid, base[j][0], 0.3, "proportional"))
-                covered.add(j)
-            # Map in the other direction too. Mapping only verses onto lines
-            # leaves the surplus lines with nothing attached whenever a chapter
-            # has fewer verse lines than source lines — which silently cost 60
-            # commentary lemmas their English, since a lemma inherits the English
-            # of the lines it covers. The pass is total in both directions now.
-            for j in range(len(base)):
-                if j in covered:
-                    continue
-                i = min(int(j * len(verses) / len(base)), len(verses) - 1)
-                cur.execute("INSERT INTO alignment VALUES (?,?,?,?)",
-                            (verses[i][0], base[j][0], 0.2, "proportional-fill"))
 
     # ---- characters --------------------------------------------------------
     counts, chapters_of = {}, {}
@@ -1122,8 +1105,6 @@ def print_report(cur, stats, align_stats):
     print("\n  line alignment")
     print(f"    authored          {align_stats['authored']} chapters")
     print(f"    exact-count       {align_stats['exact']} chapters")
-    print(f"    proportional      {align_stats['proportional']} chapters  "
-          f"(low confidence, flagged)")
 
     print("\n  gloss coverage — standing rule 0, measured")
     rows = cur.execute(

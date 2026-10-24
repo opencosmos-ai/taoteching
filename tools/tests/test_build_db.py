@@ -203,8 +203,14 @@ class AuthoredAlignment(unittest.TestCase):
         self.assertEqual([p.rows for p in ch.alignment], [[1, 2], [3], [2, 4]])
         self.assertEqual(self.errors("1: 1-2\n2: 3\n3: 2, 4\n"), [])
 
-    def test_no_alignment_is_no_error(self):
-        self.assertEqual(self.errors(""), [])
+    def test_even_counts_need_no_alignment(self):
+        self.assertEqual(self.errors("", verse=4), [])
+
+    def test_uneven_counts_need_an_alignment(self):
+        """There is no guess to fall back on: a chapter whose counts come apart
+        fails until someone writes down how its lines pair."""
+        errs = self.errors("")
+        self.assertTrue(any("needs an `## Alignment`" in e for e in errs), errs)
 
     def test_a_source_row_nobody_renders_fails(self):
         errs = self.errors("1: 1\n2: 2\n3: 3\n")

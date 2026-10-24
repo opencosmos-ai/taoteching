@@ -33,13 +33,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-10-24 — Lines can be paired by hand, starting with ch 25
+## 2026-10-24 — Every chapter's English is paired with its Chinese, line by line
 
-The Library pairs a Chinese line with its English only where the pairing is certain, and until now that meant only where the line counts agree: 32 chapters. The other 49 differ for good reasons, since one English line can carry two Chinese ones. A chapter can now say which source rows each English line renders, and the build holds that to the text.
+The Library pairs a Chinese line with its English only where the pairing is certain, and until now that meant only where the line counts agree: 32 chapters. The other 49 differ for good reasons, since one English line can carry two Chinese ones and one Chinese line can need two English ones, and for them the build made a proportional guess that no reader was shown. Each of those chapters now says which source rows each English line renders, and the build holds that to the text.
 
-- **`## Alignment`**, a new chapter section: one line per English line, naming its source rows (`1: 1–2`). [`AGENTS.md`](AGENTS.md) describes it; `tools/lib/corpus.py` reads it, and `build_db.py` fails unless every English line and every source row is named. The method is `authored`, at confidence 1.0, in the database, the CSVs and the export.
-- **[`chapters/025.md`](chapters/025.md)** is the first. Its locked-renderings rows now sit on the English that renders them, not on a positional guess.
-- **What's left:** the other 48, `WORKLIST.md` T5-23.
+- **`## Alignment`**, a new chapter section, in all 49: one line per English line, naming its source rows (`1: 1–2`). Drafted from the Literal column. [`AGENTS.md`](AGENTS.md) describes it; `tools/lib/corpus.py` reads and checks it. The method is `authored`, at confidence 1.0, in the database, the CSVs and the export.
+- **The guess is gone.** `build_db.py` no longer writes `proportional` or `proportional-fill` rows. A chapter whose counts differ and has no alignment, or whose alignment misses an English line or a source row, fails the build. Ch 6, the case ADR 0020 was written around, now pairs its gate with *"This dark gateway birthed the sky and the earth."*
+- **The lock report sits on the right English.** `data/locked-renderings.csv` and `data/commentary.csv` read each row's English through the alignment, so in those 49 chapters they now quote the line that renders it rather than a neighbor.
+- **opencosmos** links `authored` pairings as it links `exact-count`, on its branch `ttc-authored-alignment`. `WORKLIST-CLOSED.md` T5-23.
 
 ## 2026-10-20 — 尤 and 咎 get entries, and a lock can stay in its own book
 

@@ -242,17 +242,23 @@ def _parse_alignment(body, offset):
 
 
 def alignment_errors(ch):
-    """What is wrong with a chapter's authored alignment, as messages.
+    """Why a chapter's English and Chinese cannot be paired line by line, as messages.
 
-    An alignment is shown to readers as a fact, so it must be whole: every
-    English line names the rows it renders, in order, and every source row is
-    named by at least one English line. Adding or cutting a line on either side
-    breaks that, which is how a stale alignment is caught.
+    Where the counts agree, the pairing is 1:1 and needs nothing written. Where
+    they differ, the chapter must carry an `## Alignment`. An alignment is shown
+    to readers as a fact, so it must be whole: every English line names the rows
+    it renders, in order, and every source row is named by at least one English
+    line. Adding or cutting a line on either side breaks that, which is how a
+    stale alignment is caught.
     """
+    verse, rows = len(ch.verse), len(ch.source_rows)
     if not ch.alignment:
+        if verse and rows and verse != rows:
+            return [f"{ch.path.name}: {verse} English lines against {rows} source rows, "
+                    f"so it needs an `## Alignment` naming the rows each English line "
+                    f"renders (AGENTS.md)"]
         return []
     errs = []
-    verse, rows = len(ch.verse), len(ch.source_rows)
     for p in ch.alignment:
         where = f"{ch.path.name}:{p.line_no}"
         if p.rows is None:
