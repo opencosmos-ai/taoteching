@@ -13,9 +13,13 @@ name: notify-opencosmos
 #     a fine-grained token with Contents: read and write on knowledge alone.
 #
 # One change to the export sends both, so the page a reader sees and the text
-# Cosmo quotes move together. Without a secret its job is skipped with a
-# notice: the site then waits for its next deploy, and knowledge's daily
-# scheduled run picks the text up.
+# Cosmo quotes move together.
+#
+# A missing VERCEL_DEPLOY_HOOK fails the run. It used to skip with a notice and
+# pass, and the Library went on serving a week-old text while every run showed
+# green (2026-10-25: ch 41's "labor" merged and never reached the site). A
+# missing KNOWLEDGE_DISPATCH_TOKEN still skips with a notice, because
+# knowledge's daily scheduled run picks the text up anyway.
 
 on:
   push:
@@ -32,8 +36,8 @@ jobs:
           HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
           if [ -z "$HOOK" ]; then
-            echo "::notice::VERCEL_DEPLOY_HOOK not set; the Library updates on opencosmos.ai's next deploy."
-            exit 0
+            echo "::error::VERCEL_DEPLOY_HOOK is not set, so opencosmos.ai was not told to rebuild and the Library still serves the old text. Copy the hook URL from Vercel (opencosmos → Settings → Git → Deploy Hooks), then: gh secret set VERCEL_DEPLOY_HOOK -R opencosmos-ai/taoteching"
+            exit 1
           fi
           curl -fsS -X POST "$HOOK" > /dev/null
           echo "deploy requested"
