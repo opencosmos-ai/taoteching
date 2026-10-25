@@ -84,6 +84,7 @@ You don't need any of this but the first. Everything else is here for whoever wa
 | `notes/reading.md` | Interpretive notes for readers; cross-cutting threads |
 | `process/method.md` | The full working method |
 | `process/overlay-audit.md` | Reading Laozi without the missionary lens |
+| [`process/form-audit.md`](process/form-audit.md) | The music of the Chinese — its chains, parallels, rhymes and formulas — and where the English keeps or departs from each |
 | `process/skills/` | The method made executable, for AI collaborators |
 | [`sources/`](sources/PROVENANCE.md) | The three classical commentaries (Wang Bi, Heshang Gong, Han Fei), 說文解字, the variant apparatus, the hand-kept gloss lists, and per-file provenance |
 | [`data/`](data/README.md) | The corpus as CSVs, and `atlas-export.json`, the one file the Library and the atlas are built from — all generated |
@@ -188,12 +189,12 @@ If you want something more concrete:
 - **<!-- count: gloss:word -->542 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
-- **<!-- count: dash-chapters -->8 chapters still carry dashes in the verse**, which the style
-  forbids because a dash can hide a missing subject
+- **<!-- count: dash-chapters -->9 chapters carry a dash in the verse**, each allowed only
+  where its subject is named on both sides, since a dash can hide a missing subject
   (`python3 tools/check_locks.py --rule em-dash` lists them).
-- **Two decisions are deferred across the whole book** — 正 / 奇 (*zhèng / qí* —
-  straight / crooked), and the em-dashes in the verse. A third, 民 / 人 (*mín /
-  rén* — the people / a person), was settled in October 2026.
+- **One decision is deferred across the whole book** — 正 / 奇 (*zhèng / qí* —
+  straight / crooked). Two others, 民 / 人 (*mín / rén* — the people / a person)
+  and the dashes in the verse, were settled in October 2026.
 
 [**CONTRIBUTING.md**](CONTRIBUTING.md) has the full map, including the part worth
 saying plainly here: **I make the final call on every line.** A pull request is a

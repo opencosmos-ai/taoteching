@@ -91,7 +91,7 @@ The rule most often broken. An entry is not a work log.
 **Also:**
 
 - **Lowercase everything but the Tao** — *the sage*, *the mother*, *the uncarved*, *stillness*. English capitals confer status the Chinese does not.
-- **No em-dashes in quoted verse.** They strand subjects. Prose in the entry may use them.
+- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 5). Prose in the entry may use them.
 - **Gloss every Chinese character in English, every time** — 為 (*wéi* — "to do"). Shalom does not read Chinese.
 - **Never "he" for the sage.** Singular *they/their*, or recast.
 

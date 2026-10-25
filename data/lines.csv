@@ -43,7 +43,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 5,5,2,多言數窮，不如守中。,"Duō yán shù qióng, bù rú shǒu zhōng.","Much speech exhausts itself, better to hold to the center.","Speaking of this is a dead end. / Instead, hold to the center.",authored
 6,1,0,谷神不死，,"Gǔ shén bù sǐ,","The valley \[gu\] spirit \[shen\] does not \[bu\] die \[si\],",The spirit of the valley is deathless.,exact-count
 6,2,0,是謂玄牝。,shì wèi xuán pìn.,this \[shi\] is called \[wei\] the dark/mysterious \[xuan\] female \[pin\].,This is called the dark female.,exact-count
-6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,","The gate of the dark female,",exact-count
+6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,",The dark female's gate —,exact-count
 6,4,0,是謂天地根。,shì wèi tiān dì gēn.,this is called the root/base \[gen\] of heaven \[tian\] and earth \[di\].,this is called the root of sky and earth.,exact-count
 6,5,0,綿綿若存，,"Mián mián ruò cún,","Continuous/unbroken \[mian mian\], it seems/appears \[ruo\] to exist \[cun\],","Unceasing yet barely perceptible,",exact-count
 6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].","use it, and there is no strain.",exact-count
@@ -93,7 +93,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 10,13,4,生之畜之，,"Shēng zhī xù zhī,","Generating/birthing \[sheng\] them, nourishing/rearing \[xu\] them,","Giving birth to things and rearing them,",authored
 10,14,4,生而不有，,"shēng ér bù yǒu,","generating but \[er\] not possessing \[you\],","giving birth without possessing,",authored
 10,15,4,為而不恃，,"wéi ér bù shì,","acting/doing \[wei\] but not relying \[shi\],","acting yet relying on nothing,",authored
-10,16,4,長而不宰，,"zhǎng ér bù zǎi,","growing/leading \[zhang\] but not dominating/ruling \[zai\],",growing them without ruling them –,authored
+10,16,4,長而不宰，,"zhǎng ér bù zǎi,","growing/leading \[zhang\] but not dominating/ruling \[zai\],",growing them without ruling them —,authored
 10,17,4,是謂玄德。,shì wèi xuán dé.,this is called \[shi wei\] dark/mysterious \[xuan\] virtue/power \[de\].,this is called profound integrity.,authored
 11,1,1,三十輻共一轂，,"Sān shí fú gòng yī gǔ,","Thirty \[san shi\] spokes \[fu\] share/unite \[gong\] in one \[yi\] hub \[gu\],",Thirty spokes share one hub.,exact-count
 11,2,1,當其無，,"dāng qí wú,","just at \[dang\] its \[qi\] nothingness/void \[wu\],","In what is not there,",exact-count
@@ -131,12 +131,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 13,14,4,若可寄天下；,Ruò kě jì tiān xià;,Seems \[ruo\] they can \[ke\] be entrusted \[ji\] with the world \[tian xia\];,So one who prizes their body as a way to serve the world can be trusted with the world.,authored
 13,15,4,愛以身為天下，,"Ài yǐ shēn wéi tiān xià,","One who loves \[ai\] using \[yi\] their body \[shen\] to serve/act for \[wei\] the world \[tian xia\],",One who loves their body as a way to serve the world can be trusted with it.,authored
 13,16,4,若可託天下。,Ruò kě tuō tiān xià.,Seems \[ruo\] they can \[ke\] be relied upon/entrusted \[tuo\] with the world \[tian xia\].,One who loves their body as a way to serve the world can be trusted with it.,authored
-14,1,1,視之不見，,"Shì zhī bù jiàn,","Looking at \[shi\] it \[zhi\] but not \[bu\] seeing \[jian\],","Look, but you cannot see it – its name is the invisible.",authored
-14,2,1,名曰夷；,míng yuē yí;,its name \[ming\] is called \[yue\] invisible/colorless \[yi\];,"Look, but you cannot see it – its name is the invisible.",authored
-14,3,1,聽之不聞，,"Tīng zhī bù wén,","Listening to \[ting\] it \[zhi\] but not \[bu\] hearing \[wen\],","Listen, but you cannot hear it – its name is the inaudible.",authored
-14,4,1,名曰希；,míng yuē xī;,its name \[ming\] is called \[yue\] inaudible/soundless \[xi\];,"Listen, but you cannot hear it – its name is the inaudible.",authored
-14,5,1,搏之不得，,"Bó zhī bù dé,","Grasping/reaching for \[bo\] it \[zhi\] but not \[bu\] getting/obtaining \[de\],","Reach, but you cannot touch it – its name is the intangible.",authored
-14,6,1,名曰微。,míng yuē wēi.,its name \[ming\] is called \[yue\] intangible/formless \[wei\].,"Reach, but you cannot touch it – its name is the intangible.",authored
+14,1,1,視之不見，,"Shì zhī bù jiàn,","Looking at \[shi\] it \[zhi\] but not \[bu\] seeing \[jian\],","Look, but you cannot see it — its name is the invisible.",authored
+14,2,1,名曰夷；,míng yuē yí;,its name \[ming\] is called \[yue\] invisible/colorless \[yi\];,"Look, but you cannot see it — its name is the invisible.",authored
+14,3,1,聽之不聞，,"Tīng zhī bù wén,","Listening to \[ting\] it \[zhi\] but not \[bu\] hearing \[wen\],","Listen, but you cannot hear it — its name is the inaudible.",authored
+14,4,1,名曰希；,míng yuē xī;,its name \[ming\] is called \[yue\] inaudible/soundless \[xi\];,"Listen, but you cannot hear it — its name is the inaudible.",authored
+14,5,1,搏之不得，,"Bó zhī bù dé,","Grasping/reaching for \[bo\] it \[zhi\] but not \[bu\] getting/obtaining \[de\],","Reach, but you cannot touch it — its name is the intangible.",authored
+14,6,1,名曰微。,míng yuē wēi.,its name \[ming\] is called \[yue\] intangible/formless \[wei\].,"Reach, but you cannot touch it — its name is the intangible.",authored
 14,7,2,此三者不可致詰，,"Cǐ sān zhě bù kě zhì jié,","These \[ci\] three \[san\] things \[zhe\] cannot \[bu ke\] be fully probed/investigated \[zhi jie\],",These three defy comprehension.,authored
 14,8,2,故混而為一。,Gù hùn ér wéi yī.,Therefore \[gu\] they blend/merge \[hun\] and \[er\] become \[wei\] one \[yi\].,"Therefore, they mix into one.",authored
 14,9,3,其上不皦，,"Qí shàng bù jiǎo,","Its \[qi\] upper part/top \[shang\] is not \[bu\] bright/dazzling \[jiao\],","It doesn’t have a bright top,",authored
@@ -568,7 +568,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 51,5,1,夫莫之命而常自然。,Fú mò zhī mìng ér cháng zì rán.,"Is not commanded/ordered by anyone, but is eternally spontaneous/autonomous (zi ran).","This reverence for the Tao, this valuing of integrity — no one commands it. / It is always so, of itself.",authored
 51,6,2,故道生之，德畜之；,"Gù dào shēng zhī, dé xù zhī;","Therefore the Tao generates them, the Te nourishes them;","Thus, the Tao births the countless things and integrity rears them,",authored
 51,7,2,長之育之；亭之毒之；養之覆之。,Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.,"Grows them, rears them; shapes them, matures them; sustains them, covers/protects them.","grows and raises them, settles and matures them, nourishes and protects them.",authored
-51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting yet relying on nothing, / growing them without ruling them –",authored
+51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting yet relying on nothing, / growing them without ruling them —",authored
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,authored
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has an origin, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
