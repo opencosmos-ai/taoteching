@@ -47,8 +47,8 @@ A 谿 (*xī* — "ravine") is a valley closed at the bottom. Both are land that 
 > 為天下谷 (*wéi tiān xià gǔ* — "serve as the world's valley")
 > *Serve as the world's valley.* — ch 28, twice
 
-> 猶川谷之於江海 (*yóu chuān gǔ zhī yú jiāng hǎi* — "like streams and valleys to the river and the sea")
-> *The Tao in the world is like streams and valleys to the river and the sea.* — ch 32
+> 猶小谷之與江海 (*yóu xiǎo gǔ zhī yǔ jiāng hǎi* — "like small valleys to the river and the sea")
+> *The Tao in the world is like small valleys to the river and the sea.* — ch 32, in Guodian's and silk B's reading; our base text has 川谷 (*chuān gǔ* — streams and valleys)
 
 > 谷得一以盈 (*gǔ dé yī yǐ yíng* — "the valley received the one and became full")
 > 谷無以盈，將恐竭 (*gǔ wú yǐ yíng, jiāng kǒng jié* — "the valley with no way to be full is likely to run dry")
@@ -60,7 +60,7 @@ A 谿 (*xī* — "ravine") is a valley closed at the bottom. Both are land that 
 > 江海所以能為百谷王者，以其善下之 (*jiāng hǎi suǒ yǐ néng wéi bǎi gǔ wàng zhě, yǐ qí shàn xià zhī* — "rivers and seas can rule the hundred valleys because they are masterful at being below them")
 > *Rivers and seas can rule the hundred valleys / because they are masterful at staying below them.* — ch 66, and again in its next line
 
-**In chapters 32 and 66 the valley is not the lowest place.** Valleys run down to the river and the sea, and it is the river and the sea that stay below. Heshang Gong (Han dynasty) on chapter 66: 江海以卑，故衆流歸之, *"rivers and seas are low, so the many streams return to them."* The oldest witness says it more plainly still. Guodian (~300 BCE) reads 以其能為百谷下 (*yǐ qí néng wéi bǎi gǔ xià* — "because they can be below the hundred valleys"). Wang Bi (d. 249) on chapter 32: 川谷之求江與海，非江海召之，不召不求而自歸者, *"streams and valleys seek the river and the sea, but the river and the sea do not summon them; unsummoned and unsought, they return of themselves."* Heshang Gong on the same line uses the Shuowen's own verb: 如川谷與江海相流通也, *"as streams and valleys and the river and the sea flow through to one another."*
+**In chapters 32 and 66 the valley is not the lowest place.** Small valleys run down to the river and the sea, and it is the river and the sea that stay below. Heshang Gong (Han dynasty) on chapter 66: 江海以卑，故衆流歸之, *"rivers and seas are low, so the many streams return to them."* The oldest witness says it more plainly still. Guodian (~300 BCE) reads 以其能為百谷下 (*yǐ qí néng wéi bǎi gǔ xià* — "because they can be below the hundred valleys"). Wang Bi (d. 249) on chapter 32: 川谷之求江與海，非江海召之，不召不求而自歸者, *"streams and valleys seek the river and the sea, but the river and the sea do not summon them; unsummoned and unsought, they return of themselves."* Heshang Gong on the same line uses the Shuowen's own verb: 如川谷與江海相流通也, *"as streams and valleys and the river and the sea flow through to one another."*
 
 So the valley's lowness is a slope's lowness. It is low because it is on the way down. That is why the valley gives water and the sea takes it in.
 
@@ -129,7 +129,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 | Where the valley stands | English | Chapters |
 |---|---|---|
 | a noun, alone | *the valley* | 6 (谷神 *gǔ shén* → *the spirit of the valley*), 39 ×2 |
-| counted or paired | *valleys* | 32 (川谷 *chuān gǔ* → *streams and valleys*), 66 ×2 (百谷 *bǎi gǔ* → *the hundred valleys*) |
+| counted or qualified | *valleys* | 32 (小谷 *xiǎo gǔ* → *small valleys*), 66 ×2 (百谷 *bǎi gǔ* → *the hundred valleys*) |
 | after 為天下 (*wéi tiān xià* — "serve as the world's") | *serve as the world's valley*, the locked English of 為 (*wéi* — to do, to serve as) | 28 ×2 |
 | after 若 (*ruò* — like, seems) | *like a valley* in a simile, *seems a valley* in a saying | 15, 41 |
 
@@ -145,8 +145,6 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 **What 辱 (*rǔ* — soiling, disgrace) points at.** Chapter 28 now follows the silks and reads *soiled*. Whether the text means the earth, the low place in others' eyes, or both at once is `DISCOVERIES.md` §8, and the character is owed its own entry.
 
-**Chapter 15's adjective.** Silk B reads 莊 (*zhuāng* — grave, dignified) where our base reads 曠 (*kuàng* — wide, bright), and both silks place the valley simile after the muddy water, not before it. Whether the silk's word is a loan for ours or a different word decides whether the valley there is *open* or *grave*.
-
-**Chapter 32's streams.** Guodian reads 小谷 (*xiǎo gǔ* — "small valleys") where our base reads 川谷 (*chuān gǔ* — "streams and valleys"), and silk B agrees with Guodian. With *small*, the line is small valleys running down to the river and the sea, and the streams are gone.
+**Chapter 15's valley, which the oldest witness does not have.** Guodian carries the chapter with no valley simile at all. The verse keeps *"Open, like a valley"* on the authority of both silks and every received edition (Shalom's call, 2026-10-25). What the simile adds to a series that once ran without it is a question the evidence cannot settle.
 
 **Full, or passing through.** Chapter 39's valley receives the one and becomes full. Chapter 15's valley-people have no wish to be full. The Shuowen's valley is a passage. 盈 (*yíng* — full) is what the line says, and the English keeps it. Whether the valley's fullness is a store or a flow, the water in the valley at the wet time of year and gone at the dry, is the question the image leaves for the reader.

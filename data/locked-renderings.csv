@@ -562,9 +562,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"When the carving begins, there are names."
 32,7,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Since names already exist, one must know when to stop."
 32,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Knowing when to stop, you come to no danger."
-32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
-32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
-32,10,谷,gǔ,谷,valley,yes,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
+32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
+32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
+32,10,谷,gǔ,谷,valley,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,One who knows themselves sees clearly.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
