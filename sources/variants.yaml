@@ -1736,7 +1736,7 @@
   base: "不爭"
   witnesses: { mawangdui-a: "有靜", mawangdui-b: "有爭" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: base
   note: >
     Silk A reads 水善，利萬物而有靜 (shui shan, li wan wu er you jing - "water is
     masterful: it benefits the countless things and has stillness"); silk B
@@ -1745,7 +1745,9 @@
     (bu zheng - "does not contend"). The chapter's own close, 夫唯不爭，故無尤
     ("only because it does not contend is it blameless"), stands in both
     silks (silk A writes it 不靜), so the silks have water still in the
-    first line and not contending in the last.
+    first line and not contending in the last. Kept, 2026-10-25, Shalom's
+    call: silk A's scribe writes 靜 for 爭 in the close, so its 有靜 cannot
+    secure "stillness", and "has contending" contradicts the close.
   logged: notes/manuscript.md
 
 - chapter: 8
@@ -1764,7 +1766,7 @@
   base: "柔"
   witnesses: { mawangdui-b: "水" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: base
   note: >
     Silk B reads 水之朕剛也，弱之朕強也 (shui zhi sheng gang ye, ruo zhi sheng
     qiang ye - "water's overcoming the unbending, the yielding's overcoming
@@ -1772,7 +1774,8 @@
     water clause first. Our base reads 弱之勝強，柔之勝剛 ("the yielding
     overcomes the strong, the soft overcomes the unbending"). In silk B the
     line names water a second time. Silk A is damaged here and its editors
-    restore it from silk B.
+    restore it from silk B. Kept, 2026-10-25, Shalom's call: one witness
+    against every received edition.
   logged: notes/manuscript.md
 
 - chapter: 78

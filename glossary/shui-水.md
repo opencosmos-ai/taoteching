@@ -5,7 +5,7 @@ render: "water"
 forbidden: ["element", "liquid", "fluid"]
 shuowen: "Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
 chapters: [8, 78]
-status: open
+status: locked
 pairing: false
 binds: [taoteching]
 ---
@@ -14,7 +14,7 @@ binds: [taoteching]
 
 *Say "shway," dipping and lifting. Three lines in two chapters, and a fourth in one of the silks. The book's one image for the way it wants a person to be.*
 
-**Recommended: 水 (*shuǐ*) → "water," in every line.** *(Not "the water element," which is the Han dynasty's five phases. Not "liquid" or "fluid," which name a state of matter where the line has a thing you can drink. Not "the Water," since a capital makes it a doctrine.)* *Two forks in its two chapters are still open; see the close.*
+**Locked: 水 (*shuǐ*) → "water," in every line.** *(Not "the water element," which is the Han dynasty's five phases. Not "liquid" or "fluid," which name a state of matter where the line has a thing you can drink. Not "the Water," since a capital makes it a doctrine.)* *(Shalom's calls, 2026-10-25: chapter 8 keeps "does not contend," chapter 78 keeps "the soft" and follows the silks' "shame.")*
 
 ### The graph: streams side by side, and a level
 
@@ -65,9 +65,9 @@ This is the yielding that the 柔 (*róu* — soft) and 弱 (*ruò* — yielding
 
 ### What the silks change
 
-**Chapter 8: water is still, where our text says it does not contend.** Mawangdui A reads 水善，利萬物而有靜 (*shuǐ shàn, lì wàn wù ér yǒu jìng* — "water is masterful: it benefits the countless things and has stillness"). Silk B writes 有爭 (*yǒu zhēng*), which its editors read as 有靜 too, since 爭 (*zhēng* — to contend) is the sound element of 靜 (*jìng* — still). Both silks keep the chapter's close, 夫唯不爭 (*fū wéi bù zhēng* — "only because it does not contend"). So in the silks water begins the chapter still, and ends it not contending.
+**Chapter 8: water is still, where our text says it does not contend.** Mawangdui A reads 水善，利萬物而有靜 (*shuǐ shàn, lì wàn wù ér yǒu jìng* — "water is masterful: it benefits the countless things and has stillness"). Silk B writes 有爭 (*yǒu zhēng*), which its editors read as 有靜 too, since 爭 (*zhēng* — to contend) is the sound element of 靜 (*jìng* — still). Both silks keep the chapter's close, 夫唯不爭 (*fū wéi bù zhēng* — "only because it does not contend"). So in the silks water begins the chapter still, and ends it not contending. **The verse keeps *"does not contend"*** (Shalom's call, 2026-10-25): silk A's own scribe writes 靜 for 爭 in the close, so its 有靜 cannot secure *stillness*.
 
-**Chapter 78: water is named twice.** Silk B reads 水之勝剛也，弱之勝強也 (*shuǐ zhī shèng gāng yě, ruò zhī shèng qiáng yě* — "water overcomes the unbending; the yielding overcomes the strong"). Our base reads 弱之勝強，柔之勝剛 (*ruò zhī shèng qiáng, róu zhī shèng gāng* — "the yielding overcomes the strong; the soft overcomes the unbending"). In silk B the soft thing that overcomes the unbending is water itself.
+**Chapter 78: water is named twice.** Silk B reads 水之勝剛也，弱之勝強也 (*shuǐ zhī shèng gāng yě, ruò zhī shèng qiáng yě* — "water overcomes the unbending; the yielding overcomes the strong"). Our base reads 弱之勝強，柔之勝剛 (*ruò zhī shèng qiáng, róu zhī shèng gāng* — "the yielding overcomes the strong; the soft overcomes the unbending"). In silk B the soft thing that overcomes the unbending is water itself. **The verse keeps *"the soft"*** (Shalom's call, 2026-10-25): silk B is the only witness, and every received edition reads 柔.
 
 **Chapter 8's opening and its dwelling are the same in substance.** Silk A writes 上善治水 (*shàng shàn zhì shuǐ*), and its editors read 治 (*zhì*) as 似 (*sì* — like); silk B writes 如 (*rú* — like). Both silks write 居 (*jū* — to dwell) for our 處 (*chǔ* — to stay in), which our English already says: *dwells*. Guodian carries neither chapter.
 
@@ -98,8 +98,6 @@ Neither can be held by a rule: 水 stands in neither chapter, so the checker nev
 
 ### Left open
 
-**Chapter 8's first line: does water not contend, or is it still?** Both silks read 有靜 (*yǒu jìng* — "has stillness"); our base reads 不爭 (*bù zhēng* — "does not contend"). Shalom's call.
-
-**Chapter 78's soft: the soft, or water?** Silk B names water a second time where our base has 柔 (*róu* — soft). Shalom's call.
+**The stillness the verse gave up.** Chapter 8 keeps *"does not contend,"* and the silks' 有靜 (*yǒu jìng* — "has stillness") may only be a spelling of 爭 (*zhēng* — to contend). If it is not, water's defining line once held the stillness that chapter 15's muddy water clears by.
 
 **Why water, and not the Tao.** Wang Bi's answer is that water has a form and the Tao does not. The book never says what else keeps water at *nearly*.

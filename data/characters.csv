@@ -300,7 +300,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 次,cì,"next (其次, the next rank)",word,,,,,3,1,17,17,17,0.57,
 歙,xì,"draw in / breathe gently (歙歙, 49)",word,,,,,3,2,"36,49",36,49,0.57,
 氣,qì,breath / vital breath,word,,,,,3,3,"10,42,55",10,55,0.57,
-水,shuǐ,water,open,,water,open,element; liquid; fluid,3,2,"8,78",8,78,0.57,glossary/shui-水.md
+水,shuǐ,water,locked,,water,locked,element; liquid; fluid,3,2,"8,78",8,78,0.57,glossary/shui-水.md
 沖,chōng,empty / blending,word,,,,,3,3,"4,42,45",4,45,0.57,
 海,hǎi,sea,word,,,,,3,3,"20,32,66",20,66,0.57,
 深,Shēn,deep,word,,,,,3,3,"15,59,65",15,65,0.57,

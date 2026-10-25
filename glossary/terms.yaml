@@ -524,7 +524,7 @@
   render: "water"
   forbidden: ["element", "liquid", "fluid"]
   chapters: [8, 78]
-  status: open
+  status: locked
   entry: glossary/shui-水.md
   binds: [taoteching]
 

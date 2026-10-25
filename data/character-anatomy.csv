@@ -229,7 +229,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 畜,xù,rear,,畜,exact,田,unanalysed,,,,4,,0.0285,田畜也。《淮南子》曰：“玄田爲畜。”,
 祥,xiáng,"omen (不祥, ill omen)",,祥,exact,示,phonetic-compound,似羊切,示 (shì = show),羊 (yáng = a sheep),4,,0.0285,福也。从示，羊聲。一云善。,
 尊,zūn,revere / honor (62),,𢍜,old-form,酋,compound,,酋 (? = not yet glossed),,3,,0.0284,酒器也。从酋，廾以奉之。《周禮》六尊：犧尊、象尊、著尊、壺尊、太尊、山尊，以待祭祀賓客之禮。,
-水,shuǐ,water,water,水,exact,水,pictograph,,,,3,,0.0284,凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。,"Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
+水,shuǐ,water,water,水,exact,水,pictograph,,,,3,locked,0.0284,凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。,"Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
 今,jīn,now / today (21),,今,exact,亼,compound,,亼 (jí = to gather together) + 乁 (? = not yet glossed),,3,,0.0282,是時也。从亼从乁。乁，古文及。,
 光,guāng,light / bright (58),,光,exact,火,compound,,"火 (huǒ = fire) + 在 (zài = in / be in) + 人 (rén = people / others / person (聖人, sage)) + 上 (Shàng = highest / above / those over (75))",,4,,0.0282,明也。从火在人上，光明意也。,
 寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = ruler / sovereign · to rule (verb)) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
