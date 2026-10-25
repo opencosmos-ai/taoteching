@@ -1965,6 +1965,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 河上公 does something here he almost never does: he tags the pronunciation. 夫攻堅強者無以易於水，**易入聲** — *"for attacking the hard and strong there is nothing to substitute for water. 易 is entering tone."* He evidently expected the mistake. So the line reads *"because nothing can take its place,"* not *"because nothing makes it easy."*
 
+### Ch 32 · 猶川谷之於江海 → "like small valleys to the river and the sea"
+
+*(2026-10-25, Shalom's call.)* We follow Guodian and silk B, which read 小谷 (*xiǎo gǔ* — small valleys) for our base's 川谷 (*chuān gǔ* — streams and valleys). *Small* answers the chapter's 樸雖小 (*pǔ suī xiǎo* — "though small"). Both commentaries print 川谷. `chapters/032.md`, `notes/manuscript.md`.
+
+### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
+
+*(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
 ### Ch 6 · 谷神 → "the spirit of the valley," and the valley stays a noun
 
 *(2026-10-25, Shalom's call.)* Wang Bi's grammar, 谷 (*gǔ*) as the valley, over Heshang Gong's 谷，養也 (*gǔ, yǎng yě* — "gǔ means to nourish"), which reads the chapter as breath through the nose and mouth. Taken without Wang Bi's emptiness, 谷中央無谷 (*gǔ zhōng yāng wú gǔ* — "the middle of the valley, where there is no valley"): the valley is land. *Nourish* is forbidden for 谷. The argument and its cost: `glossary/gu-谷.md`.

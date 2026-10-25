@@ -1591,7 +1591,7 @@
   base: "曠"
   witnesses: { mawangdui-b: "莊" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: base
   note: >
     The transcriptions disagree on silk B's adjective. One prints 莊 (zhuang -
     grave, dignified); the other prints 𣼥, a rarer graph, and reads it as our
@@ -1602,7 +1602,9 @@
     simile at all: its series runs from the guest to the melting ice, the
     uncarved wood and the muddy water, and the muddy water leads straight into
     孰能濁以靜者 (shu neng zhuo yi jing zhe - "who can be muddy and, by
-    stilling it..."), as in our base.
+    stilling it..."), as in our base. Kept 2026-10-25, Shalom's call: the line
+    and its place stand, since nothing secure supports "grave" and Guodian's
+    adjacency is ours.
   logged: notes/manuscript.md
 
 - chapter: 15
@@ -1656,7 +1658,7 @@
   base: "川谷"
   witnesses: { guodian: "小谷", mawangdui-b: "小浴" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: guodian
   note: >
     Guodian reads 小谷 (xiao gu - small valleys) and silk B 小浴 (xiao yu, the
     silks' spelling of the same) where our base reads 川谷 (chuan gu - streams
@@ -1664,7 +1666,8 @@
     and valleys. With "small" the line is small valleys running down to the
     river and the sea, and the streams are gone. The excavated witnesses also
     write 與 (yu - with) for 於 (yu - to), which changes nothing. Both
-    transcriptions agree on Guodian's 小谷 and silk B's 小浴.
+    transcriptions agree on Guodian's 小谷 and silk B's 小浴. Followed
+    2026-10-25, Shalom's call: "like small valleys to the river and the sea."
   logged: notes/manuscript.md
 
 - chapter: 39

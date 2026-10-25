@@ -192,7 +192,9 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **Guodian has no valley simile at all.** The oldest witness carries ch 15 (bundle A), and its series runs 豫 · 猶 · 儼 · 渙 · 屯 · 沌 (*yù · yóu · yǎn · huàn · tún · dùn* — hesitant, wary, dignified, loosening, solid, muddy): the guest, the melting ice, the uncarved wood, the muddy water, and nothing between them. Its muddy water leads straight into 孰能濁以靜者 (*shú néng zhuó yǐ jìng zhě* — "who can be muddy and, by stilling it..."), the adjacency our base keeps and the silks break.
 
-**It may be meaning-bearing.** If *grave* is the silk's word, the valley sits beside 儼 (*yǎn* — dignified) two lines up, which our English already renders *dignified*. If 𣼥 is a spelling of *wide*, nothing changes. Heshang Gong reads 曠者寬大, *"'wide' means broad and large,"* so his text had *wide*. **Undecided.** Both transcriptions were checked on 2026-10-25; the printed editions were not. `sources/variants.yaml`.
+**It may be meaning-bearing.** If *grave* is the silk's word, the valley sits beside 儼 (*yǎn* — dignified) two lines up, which our English already renders *dignified*. If 𣼥 is a spelling of *wide*, nothing changes. Heshang Gong reads 曠者寬大, *"'wide' means broad and large,"* so his text had *wide*.
+
+**Our call: the base, line and place.** *(2026-10-25, Shalom's call.)* *"Open, like a valley"* stays before the muddy water. Nothing secure supports *grave*, and the oldest witness keeps the muddy water next to *"Who can be muddy..."*, as we do. The cost: we keep a simile the oldest witness does not have, on the authority of both silks and every received edition. Both transcriptions were checked on 2026-10-25; the printed editions were not. `sources/variants.yaml`.
 
 ### Ch 23 · three facts on one chapter — a dropped 道者, a 得/失 swap, and a Ming witness without 樂
 
@@ -715,5 +717,5 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 **It is meaning-bearing.** With 川 (*chuān* — a stream, a river) the simile has two kinds of water running down to the river and the sea. With 小 (*xiǎo* — small) it has one: small valleys and the great waters. *Small* then answers the chapter's own 樸雖小 (*pǔ suī xiǎo* — "though small"), the Tao's smallness in its second line. Either way the valleys run down, and the river and the sea are below.
 
-**Undecided.** Two independent transcriptions agree on Guodian's 小谷 and silk B's 小浴 (checked 2026-10-25); the printed editions were not consulted. `sources/variants.yaml`.
+**Our call: we follow Guodian and silk B.** *(2026-10-25, Shalom's call.)* The verse reads *"The Tao in the world is like small valleys to the river and the sea."* Two independent transcriptions agree on Guodian's 小谷 and silk B's 小浴 (checked 2026-10-25); the printed editions were not consulted. `sources/variants.yaml`, `chapters/032.md`.
 
