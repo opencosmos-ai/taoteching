@@ -358,16 +358,23 @@ _DASH = re.compile(r"[—–]")
 
 
 def rule_em_dash(chapters, **_):
-    """Inventory only. CLAUDE.md is explicit that removing these is a
-    chapter-by-chapter conversation, not a sweep — so this never fails a build."""
+    """Inventory, plus the mark. A dash is allowed where its subject is named
+    on both sides (CLAUDE.md standing rule 5, 2026-10-25), and only a reader
+    can tell, so every dash is listed at info and none fails a build. The mark
+    is checkable: the verse's dash is the em-dash, so an en-dash warns."""
     out = []
     for ch in chapters:
         for ln, line in ch.verse:
-            if _DASH.search(line):
+            if "–" in line:
+                out.append(Finding(
+                    "em-dash", WARN, ch.number, ln,
+                    "en-dash in the verse — the verse's dash is the spaced em-dash ( — )",
+                    line.strip(), "notes/translation.md · typography", {"em-dash"},
+                ))
+            elif _DASH.search(line):
                 out.append(Finding(
                     "em-dash", INFO, ch.number, ln,
-                    "dash in the verse — check whether it strands a subject "
-                    "(some are good; ch 44's are)",
+                    "dash in the verse — check that its subject is named on both sides",
                     line.strip(), "notes/translation.md · typography", {"em-dash"},
                 ))
     return out

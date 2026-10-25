@@ -36,7 +36,7 @@
 
 **What a break changes downstream.** Blank lines are not counted as lines, so a chapter still pairs line by line with its Chinese. `tools/build_db.py` numbers the stanzas, and `data/atlas-export.json` carries them to the Library and the atlas, so a stanza break is visible to every reader.
 
-**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 5): a dash must not leave a subject unnamed. Whether the verse's existing dashes stay is a call Shalom has deferred (`WORKLIST.md` T4-3).
+**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 5): the spaced em-dash ( — ), and only where its subject is named on both sides. It often marks the Chinese topic–comment shape, a topic held up and then named again.
 
 ---
 
@@ -54,12 +54,13 @@
 
 | Ch | The Chinese | Our English | Verdict |
 |---|---|---|---|
-| 6 | 是謂玄牝。玄牝之門 (*shì wèi xuán pìn. xuán pìn zhī mén* — "this is called the dark female. The dark female's gate") | *"This is called the dark female. / The dark female's gate –"* | **Kept**, since 2026-10-25. *The gate of the dark female* had kept the words and moved the link to the end of the line. See *Chapter 6* below |
+| 6 | 是謂玄牝。玄牝之門 (*shì wèi xuán pìn. xuán pìn zhī mén* — "this is called the dark female. The dark female's gate") | *"This is called the dark female. / The dark female's gate —"* | **Kept**, since 2026-10-25. *The gate of the dark female* had kept the words and moved the link to the end of the line. See *Chapter 6* below |
 | 16 | 歸根曰靜…復命曰常，知常曰明 (*guī gēn yuē jìng… fù mìng yuē cháng, zhī cháng yuē míng* — "returning to the root is called stillness… returning to what is given is called the ever-present, knowing the ever-present is called clear-seeing"), then 容乃公，公乃王 (*róng nǎi gōng, gōng nǎi wáng* — "containing leads to impartiality, impartiality leads to authority") | *"Returning to the root is called stillness. … Containing everything leads to impartiality. / Impartiality leads to supreme authority."* | **Kept**, every link in position, and the two linking verbs held apart: 曰 (*yuē*) *is called*, 乃 (*nǎi*) *leads to*. Departed in tempo only: three-character beats become longer English lines |
 | 25 | 大曰逝，逝曰遠，遠曰反 (*dà yuē shì, shì yuē yuǎn, yuǎn yuē fǎn* — "great means departing, departing means far, far means returning") | *"Great means departing, / departing means going far, / going far means returning."* | **Kept** |
 | 25 | 人法地，地法天，天法道，道法自然 (*rén fǎ dì, dì fǎ tiān, tiān fǎ dào, dào fǎ zì rán* — "humans model on earth, earth on sky, sky on the Tao, the Tao on being what it is") | *"Humans model themselves on the earth, / Earth models itself on the sky…"* | **Kept** |
 | 37 | 萬物將自化。化而欲作 (*wàn wù jiāng zì huà. huà ér yù zuò* — "the countless things will transform of themselves. Transforming, they want to act") | *"the countless things will transform of themselves. / When the countless things urge action"* | **Lost.** 化 (*huà* — transform) drops out of the second line, and the subject is repeated in its place. The next links in the chapter hold |
 | 42 | 道生一，一生二，二生三，三生萬物 (*dào shēng yī, yī shēng èr, èr shēng sān, sān shēng wàn wù* — "the Tao births one, one births two, two births three, three births the countless things") | *"The Tao births the one, the one births the two…"* | **Kept** |
+| 58 | 其無正。正復為奇 (*qí wú zhèng. zhèng fù wéi qí* — "it has no straight. The straight turns crooked") | *"It has no fixed norm — / The straight turns crooked"* | **Lost.** 正 (*zhèng* — straight) reads *norm*, then *straight*. Left to the 正/奇 (*zhèng / qí* — straight / crooked) call, `WORKLIST.md` T4-2 |
 | 59 | 夫唯嗇，是謂早服；早服謂之重積德 (*fū wéi sè, shì wèi zǎo fú; zǎo fú wèi zhī zhòng jī dé* — "only conserving is called accepting early; accepting early is called a heavy store of integrity"), and four links more | *"Only conserving is called accepting early, / accepting early is called a heavy accumulation of integrity…"* | **Kept**, every link in position |
 
 **Also kept:** ch 1 (玄之又玄 *xuán zhī yòu xuán* — "dark, and dark again"), 21, 23, 28 (×3), 30 and 55, 48, 52, and 15.
@@ -123,33 +124,46 @@
 | 14 | 無狀之狀 (*wú zhuàng zhī zhuàng* — "the shape of no shape") | **Kept**: *"the shape of no-shape"* |
 | 38 | 上德不德 (*shàng dé bù dé* — "high integrity does not integrity") | **Kept** |
 | 71 | 病病 (*bìng bìng* — "to sicken of sickness") | **Kept**: *"sick of the sickness"* |
+| 50 | 生生之厚 (*shēng shēng zhī hòu* — "the thickness of their living life") | **Departed** in form: *"they cling too tightly to life"* keeps the sense and not the doubled verb. Needs its reason recorded |
 | 1 | 道可道 (*dào kě dào* — "the Tao that can be tao-ed") | **Departed**, a recorded choice: the verb 道 (*dào* — to lay out, to tell) becomes *made a way*, so the line reads *Tao · way · Tao* (`chapters/001.md`, notes) |
 | 63 | 為無為，事無事，味無味 (*wéi wú wéi, shì wú shì, wèi wú wèi* — "do not-doing, serve not-serving, taste not-tasting") | **Lost** in the third: *"taste the flavorless"* breaks the pattern of the first two |
 | 64 | 欲不欲 / 學不學 (*yù bù yù / xué bù xué* — "want not-wanting / learn not-learning") | **Lost** in the second: *"learns to unlearn"* beside *"wants the not-wanting"* |
 
 #### 6 · The doubled character — 疊字 (*dié zì* — "stacked characters"), reduplication
 
-**What it is.** One character said twice, for sound and intensity: 綿綿 (*mián mián* — unbroken, unbroken).
+**What it is.** One character said twice, for sound and intensity: 綿綿 (*mián mián* — unbroken, unbroken). It is often descriptive, a texture or a mood more than a meaning.
 
-**How we carry it.** Mostly we do not, and **that has never been decided.** A doubled English word often reads as a stammer, so this may well become a recorded *departure* book-wide. Until Shalom rules, each one is *lost*.
+**How we carry it.** *(Shalom's call, 2026-10-25.)* **No book-wide rule. Every doubled character is listed and tracked here, and whether to carry the doubling is decided line by line.** A doubled English word often reads as a stammer, so most will not be carried; the point is to know where each one stands and what the English did with it. Each is **noted** until its chapter is read, when it gets a verdict: *kept*, or *departed* with its reason.
 
-| Ch | The doubling | Our English |
-|---|---|---|
-| 6 | 綿綿 (*mián mián* — unbroken) | *"Unceasing"* |
-| 14 | 繩繩 (*shéng shéng* — cord upon cord, endless) | *"Continuously flowing"* |
-| 16 | 芸芸 (*yún yún* — teeming) | *"Things come to their fullest"* |
-| 20 | six: 熙熙 (*xī xī* — merry), 傫傫 (*léi léi* — listless), 沌沌 (*dùn dùn* — muddled), 昭昭 / 昏昏 (*zhāo zhāo / hūn hūn* — bright / dim), 察察 / 悶悶 (*chá chá / mèn mèn* — sharp / dull) | single words; the contrasts survive, the doubling does not |
-| 58 | 悶悶 (*mèn mèn* — dull), 淳淳 (*chún chún* — simple), 察察 (*chá chá* — sharp), 缺缺 (*quē quē* — lacking) | **Departed** in a way that may be the answer: two words for one doubled character, *"dull and undiscerning," "pure and honest," "sharp and prying"*. The fourth breaks it: *"turn cunning"* |
+**The full list,** drawn from every chapter's source table on 2026-10-25:
 
-**Also:** ch 39 (琭琭 / 珞珞, *lù lù / luò luò* — gleaming like jade / rough like stone), 49 (歙歙, *xī xī* — drawing in), 73 (恢恢, *huī huī* — vast).
+| Ch · line | The doubling | Our English | Carried? |
+|---|---|---|---|
+| 6 · 5 | 綿綿 (*mián mián* — unbroken, like a silk thread) | *"Unceasing yet barely perceptible,"* | no |
+| 14 · 11 | 繩繩 (*shéng shéng* — cord upon cord, endless) | *"Continuously flowing, it cannot be named"* | no |
+| 16 · 5 | 芸芸 (*yún yún* — teeming, flourishing) | *"Things come to their fullest,"* | no |
+| 20 · 6 | 熙熙 (*xī xī* — merry, bustling) | *"The crowd is merry, as if at a great feast,"* | no |
+| 20 · 11 | 傫傫 (*léi léi* — weary, drooping) | *"listless, as if with nowhere to return."* | no |
+| 20 · 15 | 沌沌 (*dùn dùn* — muddled, unformed) | *"How muddled!"* | no; the exclamation carries the intensity |
+| 20 · 16–17 | 昭昭 / 昏昏 (*zhāo zhāo / hūn hūn* — bright / dim) | *"The worldly are bright. I alone am clouded."* | no |
+| 20 · 18–19 | 察察 / 悶悶 (*chá chá / mèn mèn* — sharp / dull) | *"The worldly are sharp. I alone am dull."* | no |
+| 39 · 20–21 | 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming like jade / rough like stone) | *"Do not want to be gleaming like jade, / or common like stone."* | no |
+| 49 · 8 | 歙歙 (*xī xī* — drawing in, as a breath) | *"the sage breathes gently"* | no |
+| 58 · 1 | 悶悶 / 淳淳 (*mèn mèn / chún chún* — dull / simple) | *"dull and undiscerning … pure and honest"* | partly: two words for one doubled character |
+| 58 · 2 | 察察 / 缺缺 (*chá chá / quē quē* — sharp / lacking) | *"sharp and prying … turn cunning"* | partly: the fourth breaks the pattern |
+| 73 · 10 | 恢恢 (*huī huī* — vast, wide) | *"Nature's net is vast."* | no |
+
+**Two things the list shows.** **察察 and 悶悶 (*chá chá* and *mèn mèn* — sharp and dull) stand in both 20 and 58, and read two ways:** single words in 20 (*sharp*, *dull*) and pairs in 58 (*sharp and prying*, *dull and undiscerning*). Where the Chinese repeats across chapters, the English should repeat too, or record why not. And **ch 58's pairs may be the answer** wherever a doubling is worth carrying: two English words for one doubled character keep the weight without the stammer.
+
+**Not doubling, though the characters repeat:** 生生 (*shēng shēng* — "living life", ch 50), 知知 (*zhī zhī* — "knowing knowing", ch 71) and 病病 (*bìng bìng* — "sick of sickness", ch 71). Each is a verb taking its own word as object, and they belong to §5.
 
 #### 7 · Rhyme — 押韻 (*yā yùn*)
 
-**What it is.** Much of the Tao Te Ching rhymes in Old Chinese, the pronunciation of its own era, though the rhymes are often lost in modern Mandarin.
+**What it is.** Much of the Tao Te Ching rhymes in Old Chinese, the pronunciation of its own era, though many of the rhymes are lost in modern Mandarin.
 
-**How we carry it.** We do not, anywhere, and **that has never been decided either.** English rhyme forced onto this text would cost more than it carries, so this is likely to become a recorded *departure* book-wide. But it should be decided, and where a chapter's rhyme binds lines together, that binding is evidence for its stanza shape.
+**This translation makes no attempt to render the Chinese rhyme.** *(Shalom's call, 2026-10-25.)* Rhyme is a **departure by policy**, everywhere. No chapter's rhyme is a loss, and none needs a verdict. English rhyme forced onto this text would cost the words more than it gives the ear.
 
-**Only one claim is made here so far.** Chapter 6's 門 (*mén* — gate), 根 (*gēn* — root), 存 (*cún* — exist) and 勤 (*qín* — strain) fall in one traditional rhyme group, 文 (*wén*), which binds its last four lines. **Every other rhyme claim waits on a source.** The one to use first is Jiang Yougao's 老子韻讀 (*Lǎozǐ yùn dú* — "rhyme readings of the Laozi," Qing dynasty, public domain). The modern cross-check is William Baxter, "Situating the Language of the *Lao-tzu*" (1998), consulted for facts about sound, never for phrasing.
+**The rhyme is still evidence.** Where rhyme binds lines in the Chinese, that is a fact about the source's structure, and it may inform where a stanza breaks. Chapter 6's 門 根 存 勤 (*mén gēn cún qín* — gate, root, exist, strain) fall in one traditional rhyme group, 文 (*wén*), which binds its last four lines. Any rhyme claim needs a source: Jiang Yougao's 老子韻讀 (*Lǎozǐ yùn dú* — "rhyme readings of the Laozi," Qing dynasty, public domain) first, and William Baxter, "Situating the Language of the *Lao-tzu*" (1998), as the modern cross-check, consulted for facts about sound, never for phrasing.
 
 #### 8 · The formulas
 
@@ -183,13 +197,13 @@
 
 **Its devices.** Three couplets, each one sentence: 谷神不死，是謂玄牝。(*gǔ shén bù sǐ, shì wèi xuán pìn* — "the valley spirit does not die, this is called the dark female") · 玄牝之門，是謂天地根。(*xuán pìn zhī mén, shì wèi tiān dì gēn* — "the dark female's gate, this is called the root of sky and earth") · 綿綿若存，用之不勤。(*mián mián ruò cún, yòng zhī bù qín* — "unbroken, it seems to exist; use it, and there is no strain"). Across them run a **chain** (玄牝 *xuán pìn* — "the dark female" ends the first couplet and opens the second), the **formula** 是謂 (*shì wèi* — "this is called") twice, a **doubled character** (綿綿 *mián mián*), and a **rhyme** binding the last four lines: 門 根 存 勤 (*mén gēn cún qín* — gate, root, exist, strain).
 
-**What the English did.** *"This is called the dark female. / The gate of the dark female,"* kept the repeated words and lost the chain: the English *of* moved *the dark female* to the end of the line, so the link where one line hands its last words to the next was gone. The formula is kept both times. The doubling is lost (*"Unceasing"*), and so is the rhyme.
+**What the English did.** *"This is called the dark female. / The gate of the dark female,"* kept the repeated words and lost the chain: the English *of* moved *the dark female* to the end of the line, so the link where one line hands its last words to the next was gone. The formula is kept both times. The doubling is not carried (*"Unceasing"*), and the rhyme is not rendered, by policy.
 
 **The chain restored.** *Shalom's call, 2026-10-25:*
 
 > The spirit of the valley is deathless.  
 > This is called the dark female.  
-> The dark female's gate –  
+> The dark female's gate —  
 > this is called the root of sky and earth.
 >
 > Unceasing yet barely perceptible,  
@@ -197,10 +211,10 @@
 
 - **The chain, kept.** *The dark female's gate* opens on the words the line before it ended on, in the Chinese order: 玄 (*xuán* — dark) 牝 (*pìn* — female) 之 (*zhī* — 's) 門 (*mén* — gate). It also names her twice and ties the gate to her, which is what the 2026-10-24 ruling on this line asked for.
 - **The stanza break, 4 / 2.** The first four lines name the thing twice with 是謂 and hold the chain inside one stanza. The last two turn to how it is used. The break cuts only the rhyme that ties 根 (*gēn* — root) to 存 (*cún*) and 勤 (*qín*), which the English does not carry anyway. *(Three couplets, 2 / 2 / 2, were considered and set aside: they put a blank line in the middle of the chain.)*
-- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them – / this is called profound integrity."* The book's dashes as a whole remain Shalom's deferred call, `WORKLIST.md` T4-3.
+- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them — / this is called profound integrity."* This line is the case on which the dash rule was rewritten the same day (`CLAUDE.md` standing rule 5).
 - **The cost.** Chapter 1's 眾妙之門 (*zhòng miào zhī mén*) reads *"the gate of all subtleties,"* so 之門 (*zhī mén* — "'s gate") takes two shapes in the book. Chapter 6 has a chain to keep, and chapter 1 does not.
 
-**Verdict:** chain *kept*. Doubling and rhyme *lost*, awaiting the book-wide decisions in §6 and §7.
+**Verdict:** chain *kept*. Rhyme *departed*, by policy (§7). The doubling 綿綿 (*mián mián* — unbroken) is noted in §6 and awaits its verdict.
 
 ---
 
@@ -225,7 +239,7 @@
 | 3 | couplet, therefore the sage | ⬜ | |
 | 4 | sung pause, shares lineation with 56 | ⬜ | |
 | 5 | question | ⬜ | |
-| 6 | chain, this is called, doubling, rhyme, dash | 🔶 | doubling, rhyme |
+| 6 | chain, this is called, doubling, rhyme, dash | 🔶 | doubling |
 | 7 | paradox | ⬜ | |
 | 8 | series, only because | ⬜ | |
 | 9 | | ⬜ | |
@@ -302,4 +316,4 @@
 | 80 | | ⬜ | |
 | 81 | reversal ×3 | ⬜ | |
 
-**Two book-wide decisions come before most rows can close:** whether doubled characters (§6) and rhyme (§7) are departures by policy. Each is one call for Shalom, and each closes dozens of *lost* verdicts at once.
+**Rhyme needs no verdict:** it is not rendered, by policy (§7). **Doublings do:** each is decided line by line as its chapter is read, against the full list in §6.

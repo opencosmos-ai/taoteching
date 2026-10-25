@@ -77,10 +77,10 @@ cannot make: **is this line right?**
 Useful starting points, all of them open questions logged in
 [`WORKLIST.md`](WORKLIST.md):
 
-- **Dashes in the verse.** <!-- count: dash-chapters -->9 chapter files still contain them
-  (`python3 tools/check_locks.py --rule em-dash` lists every one). Some are good;
-  some hide a missing subject, which is the specific reason the style forbids
-  them. Each is a conversation, not a sweep.
+- **Dashes in the verse.** <!-- count: dash-chapters -->9 chapter files contain one
+  (`python3 tools/check_locks.py --rule em-dash` lists every one). A dash is allowed
+  only where its subject is named on both sides; one that hides a missing subject
+  is a finding worth raising. Each is a conversation, not a sweep.
 - **正 / 奇 (*zhèng / qí*)** — the *straight / crooked* thread across chapters 57–58, unsettled
   by chapter 78. The character currently carries five different Englishes.
 

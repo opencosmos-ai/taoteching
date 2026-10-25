@@ -17,7 +17,7 @@
 1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 反/復/歸 (*fǎn / fù / guī* — the return family, T2-44) · 名 (*míng* — name) · 氣 (*qì* — breath, T2-4) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 和 (*hé* — harmony) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
-**Waiting on Shalom:** nothing. Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2) and the em-dashes (T4-3).
+**Waiting on Shalom:** nothing. Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2). The em-dashes (T4-3) were settled 2026-10-25.
 
 **How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas rebuilds within a minute or two of a merge (`notify-atlas.yml` dispatches; an hourly rebuild is the fallback).
 
@@ -25,13 +25,13 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **65 item rows: 57 open · 0 done · 6 part done · 2 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **64 item rows: 57 open · 0 done · 6 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
 | | | **Passes** | | |
 | PE | 🔶 | **Entries and sweeps** — the E rows below | book-wide | E |
-| PF | 🔶 | **Calls for Shalom** — the two he deferred, and the book-wide decisions that wait on him | T1-21 · T4-2 · T4-3 · T4-7 | F |
+| PF | 🔶 | **Calls for Shalom** — the two he deferred, and the book-wide decisions that wait on him | T1-21 · T4-2 · T4-7 | F |
 | PG | ⬜ | **The harness** — the G rows below, and `build.py` | — | G |
 | | | **Tier 1 · Wrong, not merely inconsistent** — the meaning changed; most need one line rewritten, so each goes to Shalom first | | |
 | T1-21 | ⬜ | **Ch 68 — 配天 (*pèi tiān* — matched with heaven): the verse and its note disagree.** The verse reads *"partnered with the sky"*; `notes/translation.md` → *Ch 68 · 配天* argues *"matched with nature"*. 天 (*tiān*) stands alone with no 地 (*dì* — earth) near, which the lock sends to *nature / the natural*. The single contested line for the 天 split | 68 | F |
@@ -81,10 +81,9 @@
 | | | **Research** | | |
 | R2 | ⬜ | **義 (*yì* — duty) wants a glossary entry** — reads *duty* in all 5 lines, unlocked, and the source-table literals still say *righteousness* at 18, 19 and 38 | 18 19 38 | E |
 | R3 | ⬜ | ★ **Read the ten recovered 王弼 (*Wáng Bì*) chapters against decisions made without him** — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78. Every one was drafted, and several reworked, with one commentary where there were two. Their lemma forks are logged; **the comments are unread.** First lead: **ch 15 prints 若容 (*ruò róng* — like a bearing) for our 若客 (*ruò kè* — like a guest)**, base kept provisionally. Ch 62 was already drafted with him (under 061) | 8 14 15 19 30 54 62 70 71 78 | E |
-| R4 | ⬜ | ★ **The form audit: read all 81 chapters for the source's music.** `process/form-audit.md` names the devices: 頂真 (*dǐng zhēn* — a chain, anadiplosis), 排比 (*pái bǐ* — a parallel series), 對偶 (*duì ǒu* — a matched couplet), 回文 (*huí wén* — a reversal, chiasmus), 疊字 (*dié zì* — doubled characters), 押韻 (*yā yùn* — rhyme), and the fixed formulas. For each chapter, record which devices its Chinese uses and whether the English keeps each one; where it does not, the departure is either a choice with its reason logged in the audit, or a loss to bring to Shalom. **Ch 6 is read** (2026-10-25, Shalom's call): its chain, 玄牝。玄牝之門 (*xuán pìn. xuán pìn zhī mén* — "the dark female. The dark female's gate"), restored as *"The dark female's gate –"*, in two stanzas, 4 / 2. Its doubling and rhyme wait on the book-wide calls. Rhyme wants a published Old Chinese reconstruction before any claim beyond the audit's own | 6 + book-wide | E |
+| R4 | ⬜ | ★ **The form audit: read all 81 chapters for the source's music.** `process/form-audit.md` names the devices: 頂真 (*dǐng zhēn* — a chain, anadiplosis), 排比 (*pái bǐ* — a parallel series), 對偶 (*duì ǒu* — a matched couplet), 回文 (*huí wén* — a reversal, chiasmus), 疊字 (*dié zì* — doubled characters), 押韻 (*yā yùn* — rhyme), and the fixed formulas. For each chapter, record which devices its Chinese uses and whether the English keeps each one; where it does not, the departure is either a choice with its reason logged in the audit, or a loss to bring to Shalom. **Ch 6 is read** (2026-10-25, Shalom's call): its chain, 玄牝。玄牝之門 (*xuán pìn. xuán pìn zhī mén* — "the dark female. The dark female's gate"), restored as *"The dark female's gate —"*, in two stanzas, 4 / 2. **Rhyme is not rendered**, Shalom's call (2026-10-25), so it is a departure by policy and needs no verdict. **Every doubled character is tracked** in the audit, and decided line by line as its chapter is read | 6 + book-wide | E |
 | | | **Tier 4 · Open calls** | | |
-| T4-2 | ⏸ | **正 / 奇** (*zhèng / qí* — straight / crooked) — five Englishes. Owed: `glossary/zheng-正.md` | 37 45 57 58 78 | F |
-| T4-3 | ⏸ | **Em-dashes in the verse** — `check_locks.py --rule em-dash` lists every one. Ch 44's three are good. Ch 10 and 51 share one en-dash on the same line (長而不宰, *zhǎng ér bù zǎi* — "grows them and does not rule them") and move together. Ch 6 joined them on 2026-10-25 (Shalom's call): *"The dark female's gate – / this is called the root of sky and earth,"* the same mark before the same 是謂 (*shì wèi* — "this is called") | 6 10 14 43 44 51 53 55 58 | F |
+| T4-2 | ⏸ | **正 / 奇** (*zhèng / qí* — straight / crooked) — five Englishes. Owed: `glossary/zheng-正.md`. **Ch 58 carries two riders:** 其無正。正復為奇 (*qí wú zhèng. zhèng fù wéi qí* — "it has no straight. The straight turns crooked") is a chain that *"no fixed norm — / The straight turns crooked"* breaks (`process/form-audit.md` §1), and the line's dash, left from T4-3, goes with whatever the call does to the words | 37 45 57 58 78 | F |
 | T4-5 | 🔶 | **Entries owed that have no row of their own:** 名 (*míng* — name) · 希 (*xī* — sparse) · 靜 (*jìng* — stillness) · 君 (*jūn* — ruler). The order is `glossary/TRIAGE.md` → *The relevance queue* | — | E |
 | T4-6 | ⬜ | Guodian **G2–G6** — the checklist is in `PLAN.md` | 5 16 17 18 25 + 26 more | E |
 | T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Three male rank-words, each now universalised: 大丈夫 (*dà zhàng fū* — a grown man) → *the great person* (38), 君子 (*jūn zǐ* — a ruler's son) → *the noble* (26, 31), 士 (*shì* — a man of service rank) → *in service* (15, 41, 68). **Owed: one decision on *rank* across all three**, because a rank word universalised loses the rank, which is often what the line is about; and the seam named wherever it is universalised. Standing rule 2's carve-out is for the *incidental* male-default, and these are not incidental: 說文 makes 丈夫 a measurement and a capping ceremony (人長八尺，故曰丈夫, *"a person stands eight 尺 tall, therefore 丈夫"*), not an inner state. **聖人 is not a rank, and its entry leaves *is the sage a ruler?* open; both silks read 君子 at ch 26** (`glossary/sheng-聖.md`) | 15 26 31 38 41 68 | F |
