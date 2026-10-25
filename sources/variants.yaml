@@ -1611,7 +1611,7 @@
 - chapter: 28
   line: "知其榮，守其辱，為天下谷"
   base: "榮"
-  witnesses: { mawangdui-a: "白" }
+  witnesses: { mawangdui-a: "白", mawangdui-b: "白" }
   meaning_bearing: true
   our_call: undecided
   note: >
@@ -1622,8 +1622,12 @@
     character before it lost. Our base pairs ru (辱 - soiling, disgrace) with
     榮 (rong - glory), a judgment of standing; the silk pairs it with 白
     (bai - white), a mark on a surface, as ch 41's 大白若辱 (da bai ruo ru -
-    "the whitest white seems soiled") does. Silk B not
-    checked for this line.
+    "the whitest white seems soiled") does. Silk B agrees with silk A on both
+    the pair and the order. The Zhuangzi (its chapter 天下, tian xia - "the
+    world") quotes Lao Dan with the same two stanzas in the same order and
+    with 白: 知其雄，守其雌，為天下谿。知其白，守其辱，為天下谷, then has him say
+    受天下之垢 (shou tian xia zhi gou - "take on the world's grime"). Not a
+    schema witness id, so it is recorded here.
   logged: notes/manuscript.md
 
 - chapter: 28
