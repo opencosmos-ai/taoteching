@@ -15,12 +15,18 @@ pairing: false
 
 **Recommended: 勤 → "toil."** *(Not "exhausted," which reads a different character into the line. Not "diligence," which praises where the character only describes.)*
 
-### The graph: strength spent
+### The graph: a digging stick, and a word older than its picture
 
 > 勤，**勞**也。从力堇聲。
 > *"Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."* — 說文解字 (*Shuōwén Jiězì*, the Han dictionary)
 
-The meaning sits in 力 (*lì* — strength), the arm that does the work. 堇 (*jǐn*) gives only the sound. The dictionary defines 勤 with 勞 (*láo*), the plain word for labor and the tiredness it leaves, so 勤 is strength being spent. Whether that spending is good or bad, the graph does not say.
+**The word is older than the graph.** Late Western Zhou bronzes write the word with 堇 alone, borrowed for its sound. 力 was added in the Warring States period, to mark which word 堇 was standing for, and the Mawangdui silks still write bare 堇 (漢語多功能字庫, *Multi-function Chinese Character Database*, Chinese University of Hong Kong). So the graph was built to name a word people already used, and the meaning-part is the one that was added.
+
+**力 (*lì* — strength) is a farm tool, not a muscle.** 說文 explains it as 筋也，象人筋之形, *"sinew; it pictures a person's sinews,"* and the dictionary was guessing. The oracle-bone graph is a digging stick: the pointed wooden pole of the earliest farming, grown into a tool for turning soil, with a short crossbar for the foot to press down (裘錫圭 *Qiú Xīguī*, cited in the same database). The strength in 力 is the strength of breaking ground. 說文 keeps a trace of it in its next sentence: 治功曰力, *"the work of setting things in order is called 力."* The book's other 力 words carry it too: 功 (*gōng* — work done), which 說文 defines as 以勞定國也, *"settling the state through labor."*
+
+**堇 (*jǐn*) is only the sound, and its own picture is a drought.** In the oracle bones 堇 shows a person with mouth turned upward, set over fire. It is the same graph as 熯 (*hàn* — to scorch, drought): a victim burned to bring rain. 徐中舒 (*Xú Zhōngshū*) reads the figure as a captive with arms bound; 姚孝遂 (*Yáo Xiàosuì*) reads the graph as 艱 (*jiān* — hardship, calamity). In the bronzes the fire was miscopied as 土 (*tǔ* — earth), and from that miscopy came the seal graph 說文 knew and its gloss, 黏土也, *"sticky clay."* None of that is in 勤's meaning. 堇 was chosen for its sound, as 萬 (*wàn*)'s scorpion was. But the words that sound with it keep company with hardship. 僅 (*jǐn* — barely). 饉 (*jǐn* — famine): 說文 蔬不孰為饉, *"vegetables not ripening."* 殣 (*jǐn*): 說文 道中死人, *"a person dead on the road."* That is a family resemblance in sound, not evidence, and the entry rests nothing on it.
+
+**What the word meant in use: strength spent to the end.** The bronze 叔尸鐘 (*Shū Shī zhōng* — Shu Shi's bell) pairs it with 勞 (*láo* — labor): 堇勞其政事, *"toiled and labored at his affairs of government."* The 中山王鼎 (*Zhōngshān wáng dǐng* — the Zhongshan king's tripod) has 身勤社稷, *"in his own body toiled for the altars of the state."* 杜預 (*Dù Yù*, d. 285), on the 左傳 (*Zuǒ Zhuàn*), defines it outright: 盡心盡力無所愛惜為勤, *"to spend all your heart and all your strength, sparing nothing: that is 勤."* 盡 (*jìn* — to use up) is in his definition. 勤 is not running out. It is spending yourself until you do.
 
 ### Three lines, and two of them are a negation
 
