@@ -189,7 +189,7 @@ If you want something more concrete:
 - **<!-- count: gloss:word -->542 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
-- **<!-- count: dash-chapters -->8 chapters still carry dashes in the verse**, which the style
+- **<!-- count: dash-chapters -->9 chapters still carry dashes in the verse**, which the style
   forbids because a dash can hide a missing subject
   (`python3 tools/check_locks.py --rule em-dash` lists them).
 - **Two decisions are deferred across the whole book** — 正 / 奇 (*zhèng / qí* —

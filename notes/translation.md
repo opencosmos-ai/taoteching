@@ -2999,6 +2999,8 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **Was *"This dark gateway birthed the sky and the earth."*** It named the female once where the Chinese names her twice, so the gate was no longer hers, and it turned 根 (*gēn* — root, 說文 木株也, *"the stump"*) into a birth that happened once. 根 is *root* at chs 16 and 26, and both commentators read it as standing origin: 河上公 根，元也, and 王弼 與極同體. 是謂 (*shì wèi* — "this is called") is restored twice, matching chs 10, 14, 16, 51, 56 and 68, and 天地 drops its articles, per the lock. Cost: *birthed* was the chapter's warmest verb.
 
+**Reshaped 2026-10-25 (Shalom's call): *"The dark female's gate – / this is called the root of sky and earth."*** *The gate of* had moved *the dark female* to the end of the line and broken the Chinese chain, 玄牝。玄牝之門 (*xuán pìn. xuán pìn zhī mén* — "the dark female. The dark female's gate"). Argument in `chapters/006.md`; the device in `process/form-audit.md`.
+
 ## 勤 (*qín*) → *strain* — spending strength, not running out
 
 *(Shalom's call, 2026-10-24. Argument in `glossary/qin-勤.md`.)*

@@ -39,6 +39,7 @@ Ch 6's line breaks raised a question no file answered: the Chinese chains *"the 
 
 - **[`process/form-audit.md`](process/form-audit.md)**: why fidelity includes form, and why every departure from one must be a choice. It names ten devices, including 頂真 (*dǐng zhēn* — the chain, anadiplosis), 排比 (*pái bǐ* — the series), 回文 (*huí wén* — the reversal) and 押韻 (*yā yùn* — rhyme), with examples from a seed scan. It also sets out our logic for stanza breaks, writes ch 6 as the first entry, and opens an 81-chapter ledger.
 - **The seed scan's losses**, each awaiting a verdict: ch 37's chain, ch 64's 為 (*wéi* — do) antithesis, the 彰 (*zhāng* — to shine forth) mirror between 22 and 24, ch 78's two dropped 是謂 (*shì wèi* — "this is called"), and two book-wide calls, on doubled characters and on rhyme. `WORKLIST.md` R4.
+- **Ch 6, its chain restored:** *"This is called the dark female. / The dark female's gate – / this is called the root of sky and earth,"* in two stanzas, 4 / 2 (Shalom's call). *(was: "The gate of the dark female,")* The dash is the same mark chs 10 and 51 use before 是謂 (*shì wèi* — "this is called"), and joins `WORKLIST.md` T4-3.
 - Linked from the README, `ARCHITECTURE.md`, `CLAUDE.md`, `AGENTS.md`, `chapter-review` step 6, `lineation-is-ours`, and `DISCOVERIES.md` §6, whose finding it extends.
 
 ## 2026-10-25 — 谷 (gǔ — valley) is locked, and the silks' valley is recorded

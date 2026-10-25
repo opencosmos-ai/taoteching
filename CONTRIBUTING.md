@@ -77,7 +77,7 @@ cannot make: **is this line right?**
 Useful starting points, all of them open questions logged in
 [`WORKLIST.md`](WORKLIST.md):
 
-- **Dashes in the verse.** <!-- count: dash-chapters -->8 chapter files still contain them
+- **Dashes in the verse.** <!-- count: dash-chapters -->9 chapter files still contain them
   (`python3 tools/check_locks.py --rule em-dash` lists every one). Some are good;
   some hide a missing subject, which is the specific reason the style forbids
   them. Each is a conversation, not a sweep.

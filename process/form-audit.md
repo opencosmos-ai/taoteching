@@ -54,7 +54,7 @@
 
 | Ch | The Chinese | Our English | Verdict |
 |---|---|---|---|
-| 6 | 是謂玄牝。玄牝之門 (*shì wèi xuán pìn. xuán pìn zhī mén* — "this is called the dark female. The dark female's gate") | *"This is called the dark female. / The gate of the dark female,"* | **Lost.** The words repeat, but the link moves to the end of the line. See *Chapter 6* below |
+| 6 | 是謂玄牝。玄牝之門 (*shì wèi xuán pìn. xuán pìn zhī mén* — "this is called the dark female. The dark female's gate") | *"This is called the dark female. / The dark female's gate –"* | **Kept**, since 2026-10-25. *The gate of the dark female* had kept the words and moved the link to the end of the line. See *Chapter 6* below |
 | 16 | 歸根曰靜…復命曰常，知常曰明 (*guī gēn yuē jìng… fù mìng yuē cháng, zhī cháng yuē míng* — "returning to the root is called stillness… returning to what is given is called the ever-present, knowing the ever-present is called clear-seeing"), then 容乃公，公乃王 (*róng nǎi gōng, gōng nǎi wáng* — "containing leads to impartiality, impartiality leads to authority") | *"Returning to the root is called stillness. … Containing everything leads to impartiality. / Impartiality leads to supreme authority."* | **Kept**, every link in position, and the two linking verbs held apart: 曰 (*yuē*) *is called*, 乃 (*nǎi*) *leads to*. Departed in tempo only: three-character beats become longer English lines |
 | 25 | 大曰逝，逝曰遠，遠曰反 (*dà yuē shì, shì yuē yuǎn, yuǎn yuē fǎn* — "great means departing, departing means far, far means returning") | *"Great means departing, / departing means going far, / going far means returning."* | **Kept** |
 | 25 | 人法地，地法天，天法道，道法自然 (*rén fǎ dì, dì fǎ tiān, tiān fǎ dào, dào fǎ zì rán* — "humans model on earth, earth on sky, sky on the Tao, the Tao on being what it is") | *"Humans model themselves on the earth, / Earth models itself on the sky…"* | **Kept** |
@@ -185,7 +185,7 @@
 
 **What the English did.** *"This is called the dark female. / The gate of the dark female,"* kept the repeated words and lost the chain: the English *of* moved *the dark female* to the end of the line, so the link where one line hands its last words to the next was gone. The formula is kept both times. The doubling is lost (*"Unceasing"*), and so is the rhyme.
 
-**The proposal.** *Shalom's draft, 2026-10-25, not yet applied:*
+**The chain restored.** *Shalom's call, 2026-10-25:*
 
 > The spirit of the valley is deathless.  
 > This is called the dark female.  
@@ -200,7 +200,7 @@
 - **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them – / this is called profound integrity."* The book's dashes as a whole remain Shalom's deferred call, `WORKLIST.md` T4-3.
 - **The cost.** Chapter 1's 眾妙之門 (*zhòng miào zhī mén*) reads *"the gate of all subtleties,"* so 之門 (*zhī mén* — "'s gate") takes two shapes in the book. Chapter 6 has a chain to keep, and chapter 1 does not.
 
-**Verdict:** chain *lost*, to be *kept* when the draft is applied. Doubling and rhyme *lost*, awaiting the book-wide decisions in §6 and §7.
+**Verdict:** chain *kept*. Doubling and rhyme *lost*, awaiting the book-wide decisions in §6 and §7.
 
 ---
 
@@ -225,7 +225,7 @@
 | 3 | couplet, therefore the sage | ⬜ | |
 | 4 | sung pause, shares lineation with 56 | ⬜ | |
 | 5 | question | ⬜ | |
-| 6 | chain, this is called, doubling, rhyme | 🔶 | chain (draft), doubling, rhyme |
+| 6 | chain, this is called, doubling, rhyme, dash | 🔶 | doubling, rhyme |
 | 7 | paradox | ⬜ | |
 | 8 | series, only because | ⬜ | |
 | 9 | | ⬜ | |
