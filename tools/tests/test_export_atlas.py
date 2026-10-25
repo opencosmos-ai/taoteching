@@ -81,9 +81,10 @@ class ReaderKeys(unittest.TestCase):
 
     def test_chapter_six_pairs_its_gate_correctly(self):
         """The guess paired the gate of the dark female with "This is the dark
-        female." Its English is the next line, and the alignment says so."""
+        female." Its English is the next line, and the alignment says so.
+        Since 2026-10-24 the gate and the root each have a line of their own."""
         self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "authored"]])
-        self.assertEqual(self.r["align"]["6.4"], [[3, 1.0, "authored"]])
+        self.assertEqual(self.r["align"]["6.4"], [[4, 1.0, "authored"]])
 
     def test_every_pairing_is_certain(self):
         """No chapter falls back to a guess (WORKLIST T5-23)."""
@@ -101,7 +102,7 @@ class ReaderKeys(unittest.TestCase):
 
     def test_empty_notes_are_empty_not_missing(self):
         self.assertTrue(self.r["notes"]["1"])
-        self.assertEqual(self.r["notes"]["6"], "")
+        self.assertEqual(self.r["notes"]["7"], "")
         self.assertFalse(self.r["notes"]["1"].startswith("## "))
 
     def test_a_waiver_is_not_a_note(self):

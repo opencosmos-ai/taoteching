@@ -4443,21 +4443,21 @@
   ],
   "6.4": [
    [
-    3,
+    4,
     1.0,
     "authored"
    ]
   ],
   "6.5": [
    [
-    4,
+    5,
     1.0,
     "authored"
    ]
   ],
   "6.6": [
    [
-    4,
+    5,
     1.0,
     "authored"
    ]
@@ -47077,19 +47077,19 @@
   "6.2": [
    "是謂玄牝。",
    "shì wèi xuán pìn.",
-   "This is the dark female.",
+   "This is called the dark female.",
    1
   ],
   "6.3": [
    "玄牝之門，",
    "Xuán pìn zhī mén,",
-   "This dark gateway birthed the sky and the earth.",
+   "The gate of the dark female,",
    1
   ],
   "6.4": [
    "是謂天地根。",
    "shì wèi tiān dì gēn.",
-   "This dark gateway birthed the sky and the earth.",
+   "this is called the root of sky and earth.",
    1
   ],
   "6.5": [
@@ -49083,7 +49083,7 @@
   "57": "**國家滋昏 → *the more clouded the state becomes*.** *(2026-09-20, `WORKLIST.md` T2-54.)* Was *\"the darker the state becomes.\"* 昏 (*hūn*, 說文 日冥也 — the sun below the line) took 玄's English in a chapter with no 玄; it now matches ch 20 and ch 18.\n\n**以此 → \"By this:\" — the colon stays, the formula is now uniform.** *(2026-08-30, Pass C, `WORKLIST.md` T2-12.)* 吾何以知…**然**哉？以此 (*wú hé yǐ zhī… rán zāi? yǐ cǐ* — \"how do I know… it is so? by this\") closes ch 21, ch 54 and ch 57, and it had three Englishes; all three now read **\"By this.\"** The colon is **punctuation, not a word** — lineation and pointing are ours by standing principle — and it does real work here, because **this is the only one of the three that points forward.** Ch 21 and ch 54 are chapter-final and 此 points back; here it opens the four 天下多… lines (*\"the more taboos… the more sharp weapons…\"*) that follow. Same two words, same formula, and the colon lets the reader hear where the evidence is.\n\n**其 → \"it,\" not \"this.\"** The line read *\"How do I know **this** is so? By **this**:\"*, putting 其 (*qí* — it, its) and 此 (*cǐ* — this) in the same English word one clause apart. The Source table's own gloss already had it right. Now **\"How do I know it is so?\"**, and *this* belongs to 此 alone.\n\n**河上公 (*Héshàng Gōng*) glosses this 以此 with the identical five characters he uses at ch 21** — 此，今也 (*cǐ, jīn yě* — \"'this' means now\"), continuing 以今日所見知 (*\"by what is seen today, he knows it\"*). That repetition is the tradition's own evidence that this is **one fixed formula**, which is the claim `DISCOVERIES.md` §2 turns on. It is not, however, a candidate rendering — see ch 21's Notes.",
   "58": "",
   "59": "**夫唯嗇 → \"Only conserving is called accepting early.\"** *(2026-10-19, Shalom's call, `glossary/wei-唯.md`. Was: \"Conserving is called accepting early.\")* 唯 (*wéi* — only) had no English. Both commentators keep it exclusive. 河上公 puts 獨 (*dú* — alone) in its place: 夫獨愛民財、愛精氣，則能先得天道也, *\"only by cherishing the people's wealth and the vital essence can one obtain the Tao of nature first.\"* 王弼 opens 唯重積德, *\"only by heavily accumulating integrity.\"* The chain below keeps its *is called*, which is 是謂 (*shì wèi*)'s and 謂之 (*wèi zhī*)'s.\n\n**早服 → \"accepting early,\" twice.** *(2026-10-14, Shalom's call. Was: \"returning early\"; \"early accord\" was tried the same day and dropped as jargon.)* 服 (*fú*) has no sense of return, and no witness recorded here reads 復 (*fù* — return). All three commentators read it as accord or taking in. 王弼: 早服常也 (*\"early 服 is constancy\"*). 河上公: 服得也 (*\"服 is to obtain\"*). 韓非 (*Hán Fēi*): 夫能令故德不去，新和氣日至者，蚤服者也 (*\"one who keeps their old integrity from leaving while new harmonious breath arrives each day is one who 蚤服\"*). *Submit* was the literal column's word and reads as defeat. *Accepting* is how you 服 a command or a medicine: you take it in and go along. Set aside: *harmony* (和's word in five lines, and 韓非's 和氣 would turn his explanation into the rendering), *alignment* (self-help register), *receptivity* (names a quality where 服 is an act), *yielding* (弱's locked word).\n\n**有國之母 → \"Have the mother of the state,\" and 有 stops reading two ways in adjacent lines.** *(2026-09-08, Pass E, `WORKLIST.md` T2-19 — the holding family.)* The lines had read 可以**有**國 → *\"one can **maintain** the state\"* and 有國之母 → *\"**Holding** the mother of the state\"* — the same character, two Englishes, one line apart, and neither of them 有's. 有 (*yǒu*) is locked in `glossary/wu-you-無有.md`, and *hold* belongs to 持 (`glossary/chi-持.md`). Both now read **have**, so the repetition the Chinese builds the couplet on is audible. **有's transitive uses stay open** beyond the settled 有道者 → *those who are with the Tao* (24, 31, 77).",
-  "6": "",
+  "6": "**玄牝之門，是謂天地根 → \"The gate of the dark female, / this is called the root of sky and earth.\"** *(Shalom's call, 2026-10-24.)* *(was: \"This dark gateway birthed the sky and the earth.\")* **The gate is hers, and the Chinese names her twice to say so.** 玄牝 (*xuán pìn* — \"the dark female\"), then 玄牝之門 (*xuán pìn zhī mén* — \"the gate of the dark female\"). *This dark gateway* named her once and cut the gate loose from her, the quiet version of the cooling `glossary/mu-母.md` refuses. Both commentators keep the gate hers. 王弼 (*Wáng Bì*): 門，玄牝之所由也 — *\"the gate is where the dark female comes from.\"* 河上公 (*Héshàng Gōng*) reads it as the gate of nose and mouth, 通天地之元氣所從往來 — *\"through which the original breath of sky and earth comes and goes.\"* 門 (*mén* — gate) is *gate*, as in ch 1's 眾妙之門 (*\"the gate of all subtleties\"*).\n\n**根 (*gēn* — root) is a root, not a birth.** 說文 (*Shuōwén*): 木株也, *\"the stump,\"* what stays in the ground. It reads *root* at ch 16 (×2) and ch 26, and *birthed* was its only other English. *Birthed* made the gate something that happened once. 根 says it holds now. Neither commentator reads an event: 河上公 glosses 根，元也 (*gēn, yuán yě* — \"root means origin\"), and 王弼 says the gate is 與極同體 (*yǔ jí tóng tǐ* — \"one body with the ultimate\"), so it is called the root. **The cost, named:** *birthed* was the warmest verb in the chapter. The birth is still there in the gate of a female, a womb, but no longer in the past tense.\n\n**是謂 (*shì wèi* — \"this is called\") ×2, now rendered both times.** Line 2 had read *\"This is the dark female,\"* and the fourth line had dissolved the formula altogether. The book reads it *this is called* at chs 10, 14, 16, 51, 56 and 68, and ch 14's *\"If you can know the ancient beginning, / this is called the thread of the Tao\"* is this line's shape. **天地 (*tiān dì* — sky and earth)** loses the articles it carried here alone, per its lock. The stanza is now five lines, and `## Alignment` pairs them.",
   "60": "",
   "61": "",
   "62": "**不善人之所保 → \"and what keeps safe those who are not.\"** *(2026-09-08, Pass E, `WORKLIST.md` T2-19 — the holding family.)* *(was: \"the safekeeping of those who are not.\")* Both commentators make the Tao **the agent** here, not a receptacle. 王弼 (*Wáng Bì*) gives the outcome in four characters — **保以全也**, *\"保, because it keeps them whole\"* — where 全 (*quán*) is locked to *whole* in `glossary/quan-全.md`. 河上公 (*Héshàng Gōng*) is warmer: 道者，不善人之**保倚**也，遭患逢急，猶自知悔卑下 — *\"the Tao is what the unmasterful lean on for safety; meeting trouble and sudden danger, they still know to repent and humble themselves.\"* **The reciprocity now sounds across chapters:** at ch 15 a person keeps the Tao safe, here the Tao keeps a person safe, and it is one word. **寶 / 保 keep their split** — 王弼 寶以為用也 / 保以全也 — and English still cannot chime them.",
@@ -50167,8 +50167,9 @@
   "6": [
    [
     "The spirit of the valley is deathless.",
-    "This is the dark female.",
-    "This dark gateway birthed the sky and the earth.",
+    "This is called the dark female.",
+    "The gate of the dark female,",
+    "this is called the root of sky and earth.",
     "Unceasing yet barely perceptible, it can never be exhausted."
    ]
   ],

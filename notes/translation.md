@@ -2982,3 +2982,9 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **Forbidden.** For 混: *chaos*, *chaotic*, *undifferentiated*, *blend*, *merge*. For 清: *pure*, *purity*, *purify*, the later 清淨 overlay, and *clarity*, which is 明's noun and shares no chapter with 清. **Ch 41 keeps bare *clear* for 明** (*"The clear Tao seems murky"*). That is a ruling no check can hold, recorded in both entries: *bright* is already 皦's, 昭's and 光's.
 
 **Found on the way.** Ch 25's old English, *"something formed in the undifferentiated,"* still stood in four glossary entries six weeks after the verse changed, and is retracted. 河上公 prints 渾 (*hún*) for 混 at ch 15, now recorded. And 渾 at ch 49 reads *muddy*, 濁's word, though it is 混's (T2-63).
+
+## 玄牝之門，是謂天地根 (ch 6) → *"The gate of the dark female, / this is called the root of sky and earth"*
+
+*(Shalom's call, 2026-10-24. Argument in `chapters/006.md`.)*
+
+**Was *"This dark gateway birthed the sky and the earth."*** It named the female once where the Chinese names her twice, so the gate was no longer hers, and it turned 根 (*gēn* — root, 說文 木株也, *"the stump"*) into a birth that happened once. 根 is *root* at chs 16 and 26, and both commentators read it as standing origin: 河上公 根，元也, and 王弼 與極同體. 是謂 (*shì wèi* — "this is called") is restored twice, matching chs 10, 14, 16, 51, 56 and 68, and 天地 drops its articles, per the lock. Cost: *birthed* was the chapter's warmest verb.
