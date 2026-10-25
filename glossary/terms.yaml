@@ -424,6 +424,14 @@
   entry: glossary/gong-公.md
   # covers 私 -> the private / the private self
 
+- term: "勤"
+  pinyin: "qín"
+  render: "toil"
+  forbidden: []
+  chapters: [6, 41, 52]
+  status: open
+  entry: glossary/qin-勤.md
+
 - term: "士"
   pinyin: "shì"
   render: "in service"
