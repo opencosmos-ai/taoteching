@@ -270,7 +270,7 @@ The tool finds every mark in every `.md` file, computes the value from the autho
 | `flexion-chapter` | a declared flexion must name chapters its character actually stands in, must name some, and must not also be forbidden | **error** |
 | `source-drift` | a chapter's Chinese must match `source/chinese.md` | **error** |
 | `repeated-formula` | verbatim Chinese in two chapters should read alike in English | **warn** — a reading for a person, not a verdict |
-| `em-dash` | dashes in the verse strand subjects | `info` |
+| `em-dash` | every dash in the verse, to check its subject is named on both sides; an en-dash is the wrong mark | `info` · `warn` |
 | `unlogged-variant` | a meaning-bearing manuscript fork must have a logged decision | **error** (unlogged) · **warn** (logged to a file with no such entry) |
 | `unmarked-lemma` | a vendored lemma differing from our base text must carry its `*` | **error** (unmarked) · **warn** (marked but agreeing) |
 | `stale-shaloms-call` | an override that outlived its expiry | **error** |
@@ -374,6 +374,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`CLAUDE.md`](CLAUDE.md) · [`AGENTS.md`](AGENTS.md) | AI collaborators, loaded every session | the rules, the locks, the workflow, the current state |
 | [`process/method.md`](process/method.md) | translator and collaborators | how a chapter is actually translated |
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
+| [`process/form-audit.md`](process/form-audit.md) | same, and readers | the source's formal devices, and where the English keeps or departs from each |
 | [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
 | [`WORKLIST-CLOSED.md`](WORKLIST-CLOSED.md) | anyone following a cited row id | what was owed, and where its closing lives |

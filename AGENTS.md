@@ -28,7 +28,7 @@ source/chinese.md      base Chinese text, all 81 chapters
 chapters/001–081.md    one file per chapter
 glossary/              radical-level entries on key terms
 notes/                 manuscript forks · rendering decisions · reading notes
-process/               the working method; the overlay audit
+process/               the working method; the overlay audit; the form audit
 tools/                 scripts (runbook: ARCHITECTURE.md)
 ```
 

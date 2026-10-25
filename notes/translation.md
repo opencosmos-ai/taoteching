@@ -54,13 +54,15 @@ Log only **deliberate departures** from the literal, never routine word-choices.
 
 The marks are ours; the music is the source's. The ancient text carries no punctuation and no line breaks, so lineation is ours to use freely — but the source moves in regular character-beats and parallel series, and the layout must track that pulse rather than cut across it. **Also load-bearing for the CC0 dedication:** because the lineation is demonstrably our own, no editorial claim travels with it.
 
-### Typography — lowercase, and no em-dashes in the verse
+### Typography — lowercase, and the dash only with its subject named
 
 **The rule itself is `CLAUDE.md` standing rule 5**, and `check_locks.py` enforces it — `_DEVOTIONAL` carries `"Mother": "母"`, so a capital in the verse has always been a hard error. It is restated for outside contributors in [`CONTRIBUTING.md`](../CONTRIBUTING.md). This section held a third full copy.
 
 **The 母 decision moved to [`glossary/mu-母.md`](../glossary/mu-母.md), 2026-09-10**, under *"On the capital, which she does not take."* 母 (*mǔ* — mother) is the strongest candidate in the book for a second capital and she stays lowercase, on five grounds — ch 25 withholding the name the capital would confer, the grammar never naming her, both commentators calling it a comparison, the Jungian Great Mother as the modern overlay, and the capital promoting her out of the body into a pantheon, **which is how she was lost the first time**.
 
-**Why the em-dash is barred, kept here because it is the case rather than the rule.** Ch 2's *"the sage does not begin them — giving birth without possessing…"* left a reader unable to tell whether the sage or the countless things were doing the giving. A dash lets a clause trail into a participle whose actor is unnamed; classical Chinese omits subjects freely and English cannot, so **the dash disguises the omission instead of resolving it.** The general rule is [`name-the-referent`](../process/principles/name-the-referent.md). *(The machine-prose tell is the lesser of the two arguments.)*
+**The dash rule, rewritten 2026-10-25 (Shalom's call; `WORKLIST-CLOSED.md` T4-3).** The blanket ban is gone, replaced by the rule its own reason supports: **a dash in the verse only where its subject is named on both sides.** Every dash then in the verse held a topic up and named it again on the far side (*this*, *which*, *its*, a question), which is the Chinese topic–comment shape and strands nothing. Ch 44's *"Reputation or your body — which is dearer?"* is the clearest. Ch 58's is left to the 正/奇 (*zhèng / qí* — straight / crooked) call, T4-2, because its fault is in the words. **The mark is the spaced em-dash ( — )**, Shalom's call for its longer pause; chs 6, 10, 14 and 51 were converted from the en-dash. `check_locks.py --rule em-dash` lists every dash at `info` and warns on an en-dash.
+
+**Why a stranded dash is barred, kept here because it is the case rather than the rule.** Ch 2's *"the sage does not begin them — giving birth without possessing…"* left a reader unable to tell whether the sage or the countless things were doing the giving. A dash lets a clause trail into a participle whose actor is unnamed; classical Chinese omits subjects freely and English cannot, so **the dash disguises the omission instead of resolving it.** The general rule is [`name-the-referent`](../process/principles/name-the-referent.md). *(The machine-prose tell is the lesser of the two arguments.)*
 
 **Sweep, 2026-08-11:** 45 instances lowercased across eight files. `chapters/` was already clean — the drift was entirely in the prose *about* the verse.
 
@@ -2998,6 +3000,8 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 *(Shalom's call, 2026-10-24. Argument in `chapters/006.md`.)*
 
 **Was *"This dark gateway birthed the sky and the earth."*** It named the female once where the Chinese names her twice, so the gate was no longer hers, and it turned 根 (*gēn* — root, 說文 木株也, *"the stump"*) into a birth that happened once. 根 is *root* at chs 16 and 26, and both commentators read it as standing origin: 河上公 根，元也, and 王弼 與極同體. 是謂 (*shì wèi* — "this is called") is restored twice, matching chs 10, 14, 16, 51, 56 and 68, and 天地 drops its articles, per the lock. Cost: *birthed* was the chapter's warmest verb.
+
+**Reshaped 2026-10-25 (Shalom's call): *"The dark female's gate — / this is called the root of sky and earth."*** *The gate of* had moved *the dark female* to the end of the line and broken the Chinese chain, 玄牝。玄牝之門 (*xuán pìn. xuán pìn zhī mén* — "the dark female. The dark female's gate"). Argument in `chapters/006.md`; the device in `process/form-audit.md`.
 
 ## 勤 (*qín*) → *strain* — spending strength, not running out
 

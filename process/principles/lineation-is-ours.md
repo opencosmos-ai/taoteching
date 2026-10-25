@@ -47,6 +47,7 @@ supersedes: []
 | **`tools/fix-linebreaks.py`** | restores the two trailing spaces a verse line needs; `chapter-review` step 7 |
 | **CI**, *verse line breaks* | runs `fix-linebreaks.py --check` and fails on a collapsed stanza |
 | **`.editorconfig`** | keeps editors from trimming the trailing whitespace the line breaks are made of |
+| **[`process/form-audit.md`](../form-audit.md)** | the record: the source's devices, our stanza logic, and every chapter where the English keeps or departs from a form, with the reason |
 | **`chapter-review` step 6** | *let the layout track the original's rhythm* |
 | **`chapter-review` step 0** | `build_principles.py --applies drafting` lists it before a chapter is drafted |
 | **`chapter-review` step 7** | `--applies notes` lists it at the logging step, before a note is written |
@@ -59,7 +60,7 @@ supersedes: []
 
 **This is not licence to lineate by feel.** The freedom is in the marks *given* the music; a layout that ignores the beat is not exercising the freedom, it is declining the discipline.
 
-**It does not govern the em-dash.** That is standing rule 5 in `CLAUDE.md`, and its reason is grammatical rather than musical — a dash **strands subjects**, which classical Chinese may omit and English may not.
+**It does not govern the dash.** That is standing rule 5 in `CLAUDE.md`, and its reason is grammatical rather than musical — a dash may stand only where its subject is named on both sides, because classical Chinese may omit a subject and English may not.
 
 **It does not govern capitalisation**, which is standing rule 5's other half and is enforced by `check_locks.py`.
 
@@ -73,3 +74,4 @@ supersedes: []
 2. **Extend every joining instinct across the whole series**, or take it back.
 3. **Run `python3 tools/fix-linebreaks.py` after editing any verse.** A line break here is a CommonMark hard break — two trailing spaces — and markdown silently collapses a stanza without them. Never trim trailing whitespace in `.md`.
 4. **When a chapter shares phrases with another, follow the lineation already settled** rather than deciding again.
+5. **Record a departure from the source's form in [`process/form-audit.md`](../form-audit.md)**, with the trade it made. A departure nobody chose is a loss, and goes to Shalom.

@@ -140,6 +140,8 @@ The repair (`tools/concordance.py`, 2026-09-05) counts occurrences rather than c
 
 > **Where the Chinese repeats itself, repeat yourself. A varied English is not a better translation of a repeated Chinese; it is a translation of a text that was never written.**
 
+**And the same failure has a finer grain** *(2026-10-25, Chapter 6)*. A repeat can survive word for word and still be lost, if English grammar moves it. Ch 6's chain, 是謂玄牝。玄牝之門 (*shì wèi xuán pìn. xuán pìn zhī mén* — "this is called the dark female. The dark female's gate"), hands its last words to the next line; *"The gate of the dark female"* kept every word and moved them to the end, so the link was gone. Repetition is one device among several the book argues with, and **[`process/form-audit.md`](process/form-audit.md)** now records them all: the chains, series, couplets, reversals, doublings, rhymes and formulas, and where the English keeps or departs from each. It is this finding's evidence base.
+
 ---
 
 ## 5 · Home was in the word, and we left it out

@@ -156,7 +156,7 @@ Then **one sentence on enforcement, honestly**: *enforced by X*, *partly enforce
 ### And the writing itself
 
 - **Gloss every Chinese character, every time** — 為 (*wéi* — "to do / to handle"), never bare 為.
-- **Lowercase everything but the Tao**, and no em-dashes in quoted verse.
+- **Lowercase everything but the Tao**, and quote the verse exactly, its dashes included.
 - **Argue generally.** A rule that has only ever been stated as a coda to one decision has not been argued as a principle; the general argument usually has to be written, not moved.
 - **A rule with no boundary is a slogan.** If you cannot fill *Where it does not fire*, it is not yet a principle.
 

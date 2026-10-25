@@ -89,7 +89,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Speaking of this is a dead end. Instead, hold to the center."
 6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley is deathless.
 6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
-6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"The gate of the dark female,"
+6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,The dark female's gate —
 6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
 6,6,勤,qín,勤,strain,yes,1.0,exact-count,"use it, and there is no strain."
 6,6,用,yòng,無 & 有,use,yes,1.0,exact-count,"use it, and there is no strain."
@@ -893,10 +893,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 51,6,德,dé,德,integrity,yes,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
 51,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
 51,6,道,dào,道,the Tao / way,yes,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
-51,8,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them –"
-51,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them –"
-51,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them –"
-51,8,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them –"
+51,8,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them —"
+51,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them —"
+51,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them —"
+51,8,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Giving birth without possessing, acting yet relying on nothing, growing them without ruling them —"
 51,9,德,dé,德,integrity,yes,1.0,authored,this is called profound integrity.
 51,9,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,this is called profound integrity.
 52,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The world has an origin, which serves as the mother of the world."
