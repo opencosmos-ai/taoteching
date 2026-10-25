@@ -1963,6 +1963,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 河上公 does something here he almost never does: he tags the pronunciation. 夫攻堅強者無以易於水，**易入聲** — *"for attacking the hard and strong there is nothing to substitute for water. 易 is entering tone."* He evidently expected the mistake. So the line reads *"because nothing can take its place,"* not *"because nothing makes it easy."*
 
+### Ch 6 · 谷神 → "the spirit of the valley," and the valley stays a noun
+
+*(2026-10-25, Shalom's call.)* Wang Bi's grammar, 谷 (*gǔ*) as the valley, over Heshang Gong's 谷，養也 (*gǔ, yǎng yě* — "gǔ means to nourish"), which reads the chapter as breath through the nose and mouth. Taken without Wang Bi's emptiness, 谷中央無谷 (*gǔ zhōng yāng wú gǔ* — "the middle of the valley, where there is no valley"): the valley is land. *Nourish* is forbidden for 谷. The argument and its cost: `glossary/gu-谷.md`.
+
+### Ch 78 · 受國之垢 → "the grime of the state," not "the filth"
+
+*(2026-10-25, Shalom's call.)* 垢 (*gòu*) is 濁也，从土 in the Shuowen, *"murky; from 土 (tǔ — earth)."* *Filth* passed a verdict of disgust the character does not; *grime* is dirt worked in. It is the book's own figure for disgrace accepted, the same figure as ch 28's *soiled*. `chapters/078.md`, `DISCOVERIES.md` §8.
+
 ### Ch 78 · 社稷主 rendered for the substance, not the furniture
 
 Our own source table glosses 社稷主 as *"Lord of the Altars"* — a straight hymn-test failure that manufactures a priest-king out of two agricultural offices. 社 (*shè*) is 示 (altar) + 土 (soil), the god of the ground; 稷 (*jì*) is millet, the god of grain. Together they are a Warring States metonym for **the state**, the way *the Crown* means the government.

@@ -100,7 +100,7 @@ So the picture behind 柔 is a carpenter's: a length of green or heated wood tak
 
 ### Left open
 
-**English *soft* has idioms that point the wrong way.** *Gone soft*, *soft-headed*, *soft on crime*: as a judgement of a person, English *soft* means lacking, which is exactly why 弱 lost *weak*. *Soft* survives here because its first sense is material, to the touch, and the book's images keep it there: water, tongue, sinew, grass. But ch 78 turns from water to whoever takes on the filth of the state, and a reader who hears *soft* as a judgement of character will hear the deficiency there. No English word for 柔 avoids this. *Supple* and *gentle* avoid it only by losing the image.
+**English *soft* has idioms that point the wrong way.** *Gone soft*, *soft-headed*, *soft on crime*: as a judgement of a person, English *soft* means lacking, which is exactly why 弱 lost *weak*. *Soft* survives here because its first sense is material, to the touch, and the book's images keep it there: water, tongue, sinew, grass. But ch 78 turns from water to whoever takes on the grime of the state, and a reader who hears *soft* as a judgement of character will hear the deficiency there. No English word for 柔 avoids this. *Supple* and *gentle* avoid it only by losing the image.
 
 **The return.** 說文's wood bends **and straightens**. Its 柔 is not only something that gives way under pressure but something that comes back afterwards, and English *soft* does not say that. Bending and coming back is the motion of 反 (*fǎn*) and 復 (*fù*), *return*, which ch 40 calls the movement of the Tao. Whether the book hears that in 柔 is a reason to look and not a reading (`process/principles/distribution-locates.md`).
 

@@ -514,9 +514,9 @@ Two clauses, the same four terms, the arrows reversed. This is the most explicit
 
 Which is why the last movement is not a policy either. 孰能有餘以奉天下？ *Who has more than enough, and offers it up to the world?* The question expects one answer, and the answer is a person, not a law. 王弼 reads the sage's refusal of display as itself the levelling instrument — 不欲示其賢以均天下, *"does not display their worth, so as to level the world"* — which links this chapter's ending back to Ch 3's 不尚賢, *"by not exalting the exceptional."* Standing out is how the arrow gets pointed the wrong way.
 
-### Ch 78 · the low place is where the filth arrives
+### Ch 78 · the low place is where the grime arrives
 
-河上公 reaches for Chapter 66 without being asked. Glossing 受國之垢 — *take on the state's filth* — he writes 君能愛國垢濁者，**若江海不逆小流**，則能長保其社稷 — *"a ruler who can love the state's dirt and murk, like the rivers and seas that do not refuse the small streams, can long preserve its altars."* That is Ch 66's opening image (江海所以能為百谷王者，以其善下之) arriving unprompted, and it turns the two chapters into one argument.
+河上公 reaches for Chapter 66 without being asked. Glossing 受國之垢 — *take on the state's grime* — he writes 君能愛國垢濁者，**若江海不逆小流**，則能長保其社稷 — *"a ruler who can love the state's dirt and murk, like the rivers and seas that do not refuse the small streams, can long preserve its altars."* That is Ch 66's opening image (江海所以能為百谷王者，以其善下之) arriving unprompted, and it turns the two chapters into one argument.
 
 Ch 66 makes the case for the low place and leaves it attractive: lie beneath the valleys and they flow to you. Ch 78 says what actually flows downhill. 垢 (*gòu*) is 土 (soil) + 后 — grime, silt, disgrace. The sea does not get to accept the streams and decline what they carry. So the political payoff is not that humility is winning strategy; it is that **the position everyone wants comes attached to everything nobody wants**, and the willingness to take the second is the whole qualification for the first.
 

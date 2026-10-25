@@ -2,10 +2,10 @@
 term: "谷"
 pinyin: "gǔ"
 render: "valley"
-forbidden: ["reservoir", "basin", "hollow", "the void", "emptiness"]
+forbidden: ["reservoir", "basin", "hollow", "the void", "emptiness", "nourish"]
 shuowen: "Where a spring comes out and runs through to a river is a valley. From 水 (shuǐ — water) half seen, coming out of 口 (kǒu — an opening)."
 chapters: [6, 15, 28, 32, 39, 41, 66]
-status: open
+status: locked
 pairing: false
 binds: [taoteching]
 covers:
@@ -16,7 +16,7 @@ covers:
 
 *Say "goo," dipping and lifting. Ten lines in seven chapters. One of the text's plainest images, and the one it trusts with the dark female.*
 
-**Recommended: 谷 (*gǔ*) → "valley," in every line.** *(Not "reservoir" or "basin," which hold the water a valley lets go. Not "hollow," "the void" or "emptiness," which name the gap instead of the land. Not "ravine," which belongs to 谿 (xī — a watercourse with no outlet); see* What no rule can enforce.*)* *The ruling between the two commentators on chapter 6 is still open; see the close.*
+**Locked: 谷 (*gǔ*) → "valley," in every line, and a noun in chapter 6, as Wang Bi reads it.** *(Not "reservoir" or "basin," which hold the water a valley lets go. Not "hollow," "the void" or "emptiness," which name the gap instead of the land. Not "ravine," which belongs to 谿 (xī — a watercourse with no outlet); see* What no rule can enforce.*)* *(Not Heshang Gong's "to nourish" in chapter 6; see* Chapter 6: two commentators, two grammars. *Shalom's call, 2026-10-25.)*
 
 ### The graph: water half seen, coming out of an opening
 
@@ -88,7 +88,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 **Heshang Gong reads it as a verb, and the valley leaves the line.** 谷，養也。人能養神則不死也, *"Gǔ means to nourish. If a person can nourish the spirit, they do not die."* 神 (*shén* — spirit) for him is the spirits of the five organs. The dark female is the nose and the mouth, and the gate is where breath comes and goes.
 
-**Recommended: Wang Bi's grammar, and not his emptiness.** *The spirit of the valley is deathless* keeps 谷 (*gǔ* — valley) a noun. Five reasons:
+**Ruled: Wang Bi's grammar, and not his emptiness.** *(Shalom's call, 2026-10-25.)* *The spirit of the valley is deathless* keeps 谷 (*gǔ* — valley) a noun. Five reasons:
 
 - **The other nine lines.** Everywhere else in the book the character is a valley, and no one reads it otherwise.
 - **The silks spell chapter 6 as they spell the land.** Both Mawangdui silks write 浴 (*yù* — to bathe) in chapter 6, the same graph they write in chapters 28, 32, 39 and 66. Those lines have rivers and seas in them, so the bathing graph there can only spell the valley (below). The scribes heard one word in all of them.
@@ -122,7 +122,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 **"the Valley."** A capital turns a place into a doctrine, and only the Tao keeps one.
 
-**"to nourish," in chapter 6.** This is Heshang Gong's reading, argued above. It is not on the `forbidden:` list, because chapter 6 is not yet ruled.
+**"to nourish," in chapter 6.** This is Heshang Gong's reading, argued above and set aside. *Nourish* is on the `forbidden:` list: no line where 谷 (*gǔ* — valley) stands prints it for another character.
 
 ### Working register
 
@@ -141,7 +141,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 ### Left open
 
-**Chapter 6's grammar.** The recommendation is to read the valley as a noun, as Wang Bi does, without his emptiness. It costs Heshang Gong's breathing body. The ruling belongs in the lock line, openly, when it is made.
+**What chapter 6's ruling costs.** The valley is a noun there, as Wang Bi reads it, without his emptiness. That costs Heshang Gong's breathing body, and the one reading in which the chapter's last line describes something a person does. A reader who wants the breath has it in Heshang Gong.
 
 **What 辱 (*rǔ* — soiling, disgrace) points at.** Chapter 28 now follows the silks and reads *soiled*. Whether the text means the earth, the low place in others' eyes, or both at once is `DISCOVERIES.md` §8, and the character is owed its own entry.
 

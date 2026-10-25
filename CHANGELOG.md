@@ -33,13 +33,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-10-25 — 谷 (gǔ — valley) gets an entry, and the silks' valley is recorded
+## 2026-10-25 — 谷 (gǔ — valley) is locked, and the silks' valley is recorded
 
 The valley is one of the six images the book's own README names, and the hinge of its feminine chapters. Its entry reads all ten lines, and reading them meant checking the excavated witnesses, which the apparatus had not recorded for any of its seven chapters.
 
-- **[`glossary/gu-谷.md`](glossary/gu-谷.md)**, open: *valley* in every line, and *ravine* for 谿 (*xī* — a watercourse with no outlet), which it covers. The Shuowen defines the valley by its outlet, so it is a passage for water, not a store, and chapters 32 and 66 put the river and the sea below it. *Reservoir*, *basin*, *hollow*, *the void* and *emptiness* forbidden. Recommended for ch 6: Wang Bi's grammar, the valley as a noun, without his emptiness; the ruling is Shalom's. The lock carries `binds: [taoteching]`: the I Ching's 谷 (*gǔ*) includes a well's hollow (its hexagram 48).
+- **[`glossary/gu-谷.md`](glossary/gu-谷.md)**, locked: *valley* in every line, and *ravine* for 谿 (*xī* — a watercourse with no outlet), which it covers. The Shuowen defines the valley by its outlet, so it is a passage for water, not a store, and chapters 32 and 66 put the river and the sea below it. *Reservoir*, *basin*, *hollow*, *the void* and *emptiness* forbidden. Ch 6 is ruled for Wang Bi's grammar, the valley as a noun, without his emptiness, and *nourish* is forbidden (Shalom's call). The lock carries `binds: [taoteching]`: the I Ching's 谷 (*gǔ*) includes a well's hollow (its hexagram 48).
 - **Nine rows in `sources/variants.yaml`** (96 → 105). The Mawangdui silks write the valley 浴 (*yù* — to bathe) almost everywhere, and Guodian writes it plainly. Three forks are meaning-bearing and logged `undecided` in `notes/manuscript.md`: ch 15's 莊 (*zhuāng* — grave), ch 28's 白 (*bái* — white) for 榮 (*róng* — glory), and ch 32's 小谷 (*xiǎo gǔ* — small valleys). `WORKLIST.md` T2-71.
 - **Ch 28: *"Know the white, hold to the soiled."*** *(was: "Know the glory, hold to the disgrace.")* Following both silks and the *Zhuangzi*, our stanza order kept. *Soiled* holds the earth and the stained name; *disgrace* held only the name (Shalom's call). 辱 (*rǔ*) now reads *soiled* beside white (28, 41) and *disgrace* in ch 13 and 44. Shalom's question about it is [`DISCOVERIES.md`](DISCOVERIES.md) §8, and its entry is `WORKLIST.md` T2-72.
+- **Ch 78: *"whoever takes on the grime of the state."*** *(was: "the filth.")* 垢 (*gòu*) is built on 土 (*tǔ* — earth), and *filth* carried a disgust the character does not (Shalom's call). The atlas card for 辱 (*rǔ*) now shows the split, *soiled (beside white) · disgrace (social)*, and 垢's reads *grime*.
 - **Rule 0 names no one in characters.** Commentators and sources are written romanized: Wang Bi, Heshang Gong, the Shuowen. Everything else is still glossed in parentheses. [`CLAUDE.md`](CLAUDE.md), Shalom's call.
 
 ## 2026-10-24 — Every chapter's English is paired with its Chinese, line by line

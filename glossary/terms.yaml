@@ -309,9 +309,9 @@
 - term: "谷"
   pinyin: "gǔ"
   render: "valley"
-  forbidden: ["reservoir", "basin", "hollow", "the void", "emptiness"]
+  forbidden: ["reservoir", "basin", "hollow", "the void", "emptiness", "nourish"]
   chapters: [6, 15, 28, 32, 39, 41, 66]
-  status: open
+  status: locked
   entry: glossary/gu-谷.md
   binds: [taoteching]
   # covers 谿 -> ravine

@@ -56,7 +56,7 @@ Read the eight chapters together and something becomes hard to miss. **Not one o
 | 66 | 江海所以能為百谷**王**者，以其善下之 | rules the hundred valleys **because it stays below them** |
 | 78 | 受國之不祥，是謂天下**王** | **takes on the state's misfortune** and is therefore called it |
 
-Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社稷主；受國之不祥，是謂天下王 — *"the one who takes on the state's filth is called lord of the altars; the one who takes on the state's misfortune is called sovereign of the world."* The title is earned by absorbing what nobody else will touch.
+Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社稷主；受國之不祥，是謂天下王 — *"the one who takes on the state's grime is called lord of the altars; the one who takes on the state's misfortune is called sovereign of the world."* The title is earned by absorbing what nobody else will touch.
 
 **A word defined seven times over by what it goes under does not want an English word that means the thing on top.**
 
