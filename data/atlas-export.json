@@ -13605,7 +13605,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "of ('s) / it, them / (links a modifier to its noun)",
+   "g": "of ('s) · it, them · (links a modifier to its noun)",
    "gs": "grammar",
    "hw": "之",
    "kind": "pictograph",
@@ -13790,7 +13790,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "by means of / so as to / because / take as",
+   "g": "by means of · so as to · because · take as",
    "gs": "grammar",
    "hw": "㠯",
    "kind": "compound",
@@ -13868,7 +13868,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "its / their / (in a question) surely?",
+   "g": "its · their · (in a question) surely?",
    "gs": "grammar",
    "hw": null,
    "kind": null,
@@ -13941,7 +13941,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "and / and yet / but",
+   "g": "and · and yet · but",
    "gs": "grammar",
    "hw": "而",
    "kind": "pictograph",
@@ -14016,7 +14016,7 @@
    "entry": "glossary/wei-為.md",
    "fq": null,
    "fw": 0,
-   "g": "do / handle / serve as",
+   "g": "do · handle · serve as",
    "gs": "locked",
    "hw": "爲",
    "kind": "pictograph",
@@ -14024,7 +14024,7 @@
    "n": 113,
    "p": "wéi",
    "pho": [],
-   "r": "do / handle / serve as",
+   "r": "do · handle · serve as",
    "rad": "爪",
    "sem": [],
    "tier": "Tier 1"
@@ -14160,7 +14160,7 @@
    "entry": "glossary/tian-天.md",
    "fq": "他前切",
    "fw": 0,
-   "g": "sky (as a tier) · nature / the natural (as an agent)",
+   "g": "sky (as a tier) · nature · the natural (as an agent)",
    "gs": "locked",
    "hw": "天",
    "kind": "compound",
@@ -14168,7 +14168,7 @@
    "n": 92,
    "p": "tiān",
    "pho": [],
-   "r": "sky (as a tier) · nature / the natural (as an agent)",
+   "r": "sky (as a tier) · nature · the natural (as an agent)",
    "rad": "一",
    "sem": [
     "一",
@@ -14225,7 +14225,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "the one who / that which / (marks a topic)",
+   "g": "the one who · that which · (marks a topic)",
    "gs": "grammar",
    "hw": "者",
    "kind": "phonetic-compound",
@@ -14294,7 +14294,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "people / others / person (聖人, sage)",
+   "g": "people · others · person (聖人, sage)",
    "gs": "word",
    "hw": "人",
    "kind": "pictograph",
@@ -14432,7 +14432,7 @@
    "entry": null,
    "fq": "胡雅切",
    "fw": 0,
-   "g": "below / low, lowest (天下, the world)",
+   "g": "below · low, lowest (天下, the world)",
    "gs": "word",
    "hw": "下",
    "kind": "unanalysed",
@@ -14495,7 +14495,7 @@
    "entry": "glossary/dao-道.md",
    "fq": null,
    "fw": 0,
-   "g": "the Tao / way",
+   "g": "the Tao · way",
    "gs": "locked",
    "hw": "道",
    "kind": "compound",
@@ -14503,7 +14503,7 @@
    "n": 75,
    "p": "Dào",
    "pho": [],
-   "r": "the Tao / way",
+   "r": "the Tao · way",
    "rad": "辵",
    "sem": [
     "辵",
@@ -14567,7 +14567,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "this / (是以) therefore / (是謂) this is called",
+   "g": "this · (是以) therefore · (是謂) this is called",
    "gs": "grammar",
    "hw": "是",
    "kind": "compound",
@@ -14635,7 +14635,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "therefore / so",
+   "g": "therefore · so",
    "gs": "grammar",
    "hw": "故",
    "kind": "phonetic-compound",
@@ -14746,7 +14746,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "know / knowing / knowledge (53)",
+   "g": "know · knowing · knowledge",
    "gs": "word",
    "hw": "知",
    "kind": "compound",
@@ -14793,7 +14793,7 @@
    "entry": "glossary/shan-善.md",
    "fq": null,
    "fw": 0,
-   "g": "masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)",
+   "g": "masterful · masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)",
    "gs": "locked",
    "hw": "譱",
    "kind": "compound",
@@ -14801,7 +14801,7 @@
    "n": 52,
    "p": "shàn",
    "pho": [],
-   "r": "masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)",
+   "r": "masterful · masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)",
    "rad": "誩",
    "sem": [
     "誩",
@@ -14843,7 +14843,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "at / in / to / than",
+   "g": "at · in · to · than",
    "gs": "grammar",
    "hw": null,
    "kind": null,
@@ -14882,7 +14882,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "like / as if / seems / if",
+   "g": "like · as if · seems · if",
    "gs": "grammar",
    "hw": "若",
    "kind": "compound",
@@ -14975,7 +14975,7 @@
    "entry": "glossary/sheng-生.md",
    "fq": null,
    "fw": 0,
-   "g": "give birth to / bear / bring forth",
+   "g": "give birth to · bear · bring forth",
    "gs": "locked",
    "hw": "生",
    "kind": "pictograph",
@@ -14983,7 +14983,7 @@
    "n": 38,
    "p": "shēng",
    "pho": [],
-   "r": "give birth to / bear / bring forth",
+   "r": "give birth to · bear · bring forth",
    "rad": "生",
    "sem": [],
    "tier": "locked"
@@ -15028,7 +15028,7 @@
    "entry": "glossary/wanwu-萬物.md",
    "fq": null,
    "fw": 0,
-   "g": "things / something",
+   "g": "things · something",
    "gs": "covers",
    "hw": "物",
    "kind": "phonetic-compound",
@@ -15038,7 +15038,7 @@
    "pho": [
     "勿"
    ],
-   "r": "things / something",
+   "r": "things · something",
    "rad": "牛",
    "sem": [
     "牛"
@@ -15078,7 +15078,7 @@
    "entry": "glossary/ke-可.md",
    "fq": null,
    "fw": 0,
-   "g": "can be (可 + verb) / can (可以 + verb) / cannot (不可)",
+   "g": "can be (可 + verb) · can (可以 + verb) · cannot (不可)",
    "gs": "locked",
    "hw": "可",
    "kind": "phonetic-compound",
@@ -15088,7 +15088,7 @@
    "pho": [
     "丂"
    ],
-   "r": "can be (可 + verb) / can (可以 + verb) / cannot (不可)",
+   "r": "can be (可 + verb) · can (可以 + verb) · cannot (不可)",
    "rad": "可",
    "sem": [
     "口",
@@ -15178,7 +15178,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "get, gain / receive (39) / find",
+   "g": "get, gain · receive · find",
    "gs": "word",
    "hw": "得",
    "kind": "phonetic-compound",
@@ -15273,7 +15273,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "oneself, themselves / of itself / from (21)",
+   "g": "oneself, themselves · of itself · from",
    "gs": "word",
    "hw": "自",
    "kind": "pictograph",
@@ -15314,7 +15314,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "then / and so",
+   "g": "then · and so",
    "gs": "grammar",
    "hw": "則",
    "kind": "compound",
@@ -15413,7 +15413,7 @@
    "entry": "glossary/sheng-聖.md",
    "fq": null,
    "fw": 0,
-   "g": "the sage · sagehood (聖 alone, ch 19)",
+   "g": "the sage · sagehood (聖 alone)",
    "gs": "locked",
    "hw": "聖",
    "kind": "phonetic-compound",
@@ -15423,7 +15423,7 @@
    "pho": [
     "呈"
    ],
-   "r": "the sage · sagehood (聖 alone, ch 19)",
+   "r": "the sage · sagehood (聖 alone)",
    "rad": "耳",
    "sem": [
     "耳"
@@ -15464,7 +15464,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "now (opening a statement) / that, those",
+   "g": "now (opening a statement) · that, those",
    "gs": "grammar",
    "hw": "夫",
    "kind": "compound",
@@ -15511,7 +15511,7 @@
    "entry": "glossary/chang-常.md",
    "fq": null,
    "fw": 0,
-   "g": "the ever-present / ever / always",
+   "g": "the ever-present · ever · always",
    "gs": "locked",
    "hw": "常",
    "kind": "phonetic-compound",
@@ -15521,7 +15521,7 @@
    "pho": [
     "尚"
    ],
-   "r": "the ever-present / ever / always",
+   "r": "the ever-present · ever · always",
    "rad": "巾",
    "sem": [
     "巾"
@@ -15592,7 +15592,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "what / where / that which (before a verb)",
+   "g": "what · where · that which (before a verb)",
    "gs": "grammar",
    "hw": "所",
    "kind": "phonetic-compound",
@@ -15635,7 +15635,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "desire / want, wish / would (29, 36)",
+   "g": "desire · want, wish · would",
    "gs": "word",
    "hw": "欲",
    "kind": "phonetic-compound",
@@ -15710,7 +15710,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "name / to name, call / reputation (44)",
+   "g": "name · to name, call · reputation",
    "gs": "word",
    "hw": "名",
    "kind": "compound",
@@ -15747,7 +15747,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "about to / will / (將欲) wanting to / a general (31)",
+   "g": "about to · will · (將欲) wanting to · a general",
    "gs": "grammar",
    "hw": "將",
    "kind": "phonetic-compound",
@@ -15909,7 +15909,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "is called / says",
+   "g": "is called · says",
    "gs": "grammar",
    "hw": "曰",
    "kind": "phonetic-compound",
@@ -15996,7 +15996,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "prize, value / honor, honored / status (9)",
+   "g": "prize, value · honor, honored · status",
    "gs": "word",
    "hw": "貴",
    "kind": "phonetic-compound",
@@ -16040,7 +16040,7 @@
    "entry": "glossary/shi-事.md",
    "fq": null,
    "fw": 0,
-   "g": "affairs / undertakings (noun) · to serve, to attend to (verb)",
+   "g": "affairs · undertakings (noun) · to serve, to attend to (verb)",
    "gs": "locked",
    "hw": "事",
    "kind": "phonetic-compound",
@@ -16050,7 +16050,7 @@
    "pho": [
     "之"
    ],
-   "r": "affairs / undertakings (noun) · to serve, to attend to (verb)",
+   "r": "affairs · undertakings (noun) · to serve, to attend to (verb)",
    "rad": "史",
    "sem": [
     "史"
@@ -16131,7 +16131,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "words / speak, speech / saying",
+   "g": "words · speak, speech · saying",
    "gs": "word",
    "hw": "言",
    "kind": "phonetic-compound",
@@ -16170,7 +16170,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "none / no one / nothing",
+   "g": "none · no one · nothing",
    "gs": "grammar",
    "hw": "莫",
    "kind": "compound",
@@ -16218,7 +16218,7 @@
    "entry": "glossary/xing-行.md",
    "fq": null,
    "fw": 0,
-   "g": "go / carry out / conduct",
+   "g": "go · carry out · conduct",
    "gs": "open",
    "hw": "行",
    "kind": "compound",
@@ -16226,7 +16226,7 @@
    "n": 20,
    "p": "xíng",
    "pho": [],
-   "r": "go / carry out / conduct",
+   "r": "go · carry out · conduct",
    "rad": "行",
    "sem": [
     "彳",
@@ -16255,7 +16255,7 @@
    "entry": null,
    "fq": "時掌切",
    "fw": 0,
-   "g": "highest / above / those over (75)",
+   "g": "highest · above · those over",
    "gs": "word",
    "hw": "上",
    "kind": "unanalysed",
@@ -16329,7 +16329,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "enough / foot (64)",
+   "g": "enough · foot",
    "gs": "word",
    "hw": "足",
    "kind": "compound",
@@ -16402,7 +16402,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "some / sometimes / perhaps",
+   "g": "some · sometimes · perhaps",
    "gs": "grammar",
    "hw": "或",
    "kind": "compound",
@@ -16438,7 +16438,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "death / die",
+   "g": "death · die",
    "gs": "word",
    "hw": "死",
    "kind": "compound",
@@ -16473,7 +16473,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "lose / loss / slip through (73)",
+   "g": "lose · loss · slip through",
    "gs": "word",
    "hw": "失",
    "kind": "phonetic-compound",
@@ -16515,7 +16515,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "complete / be done / accomplish",
+   "g": "complete · be done · accomplish",
    "gs": "word",
    "hw": "成",
    "kind": "phonetic-compound",
@@ -16642,7 +16642,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "this / here",
+   "g": "this · here",
    "gs": "grammar",
    "hw": "此",
    "kind": "compound",
@@ -16681,7 +16681,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "long, lasting / grow (10, 51) / chief",
+   "g": "long, lasting · grow · chief",
    "gs": "word",
    "hw": "長",
    "kind": "phonetic-compound",
@@ -16754,7 +16754,7 @@
    "entry": "glossary/xin-信.md",
    "fq": null,
    "fw": 0,
-   "g": "trust / trustworthy",
+   "g": "trust · trustworthy",
    "gs": "locked",
    "hw": "信",
    "kind": "compound",
@@ -16762,7 +16762,7 @@
    "n": 15,
    "p": "xìn",
    "pho": [],
-   "r": "trust / trustworthy",
+   "r": "trust · trustworthy",
    "rad": "言",
    "sem": [
     "人",
@@ -16791,7 +16791,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "return / go back / turn into (58)",
+   "g": "return · go back · turn into",
    "gs": "word",
    "hw": "復",
    "kind": "phonetic-compound",
@@ -16831,7 +16831,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "and / with / to give / (closes a question, 77)",
+   "g": "and · with · to give · (closes a question)",
    "gs": "grammar",
    "hw": "與",
    "kind": "compound",
@@ -16868,7 +16868,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "dwell / be placed / stand, stay",
+   "g": "dwell · be placed · stand, stay",
    "gs": "word",
    "hw": "処",
    "kind": "compound",
@@ -16937,7 +16937,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "what / why / how",
+   "g": "what · why · how",
    "gs": "grammar",
    "hw": "何",
    "kind": "phonetic-compound",
@@ -17006,7 +17006,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "must / surely",
+   "g": "must · surely",
    "gs": "grammar",
    "hw": "必",
    "kind": "phonetic-compound",
@@ -17040,7 +17040,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "each other / together (32)",
+   "g": "each other · together",
    "gs": "word",
    "hw": "相",
    "kind": "compound",
@@ -17078,7 +17078,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "see / show, display / appear (77)",
+   "g": "see · show, display · appear",
    "gs": "word",
    "hw": "見",
    "kind": "unanalysed",
@@ -17111,7 +17111,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "also / too",
+   "g": "also · too",
    "gs": "grammar",
    "hw": "亦",
    "kind": "compound",
@@ -17186,7 +17186,7 @@
    "entry": "glossary/wang-王.md",
    "fq": "雨方切",
    "fw": 0,
-   "g": "ruler / sovereign · to rule (verb)",
+   "g": "ruler · sovereign · to rule (verb)",
    "gs": "locked",
    "hw": "王",
    "kind": "unanalysed",
@@ -17194,7 +17194,7 @@
    "n": 13,
    "p": "wáng",
    "pho": [],
-   "r": "ruler / sovereign · to rule (verb)",
+   "r": "ruler · sovereign · to rule (verb)",
    "rad": "王",
    "sem": [],
    "tier": "Tier 3"
@@ -17246,7 +17246,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "then / and so becomes",
+   "g": "then · and so becomes",
    "gs": "grammar",
    "hw": "乃",
    "kind": "pictograph",
@@ -17277,7 +17277,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "weapons / armies / military force (30)",
+   "g": "weapons · armies · military force",
    "gs": "word",
    "hw": "兵",
    "kind": "compound",
@@ -17313,7 +17313,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "take / seize (30) / win (57)",
+   "g": "take · seize · win",
    "gs": "word",
    "hw": "取",
    "kind": "compound",
@@ -17351,7 +17351,7 @@
    "entry": "glossary/qi-器.md",
    "fq": null,
    "fw": 0,
-   "g": "vessel / tool / implement",
+   "g": "vessel · tool · implement",
    "gs": "locked",
    "hw": "器",
    "kind": "pictograph",
@@ -17359,7 +17359,7 @@
    "n": 12,
    "p": "qì",
    "pho": [],
-   "r": "vessel / tool / implement",
+   "r": "vessel · tool · implement",
    "rad": "㗊",
    "sem": [],
    "tier": "Tier 1"
@@ -17388,7 +17388,7 @@
    "entry": "glossary/ming-明.md",
    "fq": null,
    "fw": 0,
-   "g": "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",
+   "g": "clear-seeing · clarity — *see clearly* in predicate position, *clear* as a modifier",
    "gs": "locked",
    "hw": "朙",
    "kind": "compound",
@@ -17396,7 +17396,7 @@
    "n": 12,
    "p": "Míng",
    "pho": [],
-   "r": "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",
+   "r": "clear-seeing · clarity — *see clearly* in predicate position, *clear* as a modifier",
    "rad": "朙",
    "sem": [
     "月",
@@ -17429,7 +17429,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "so / thus / (然後) only then",
+   "g": "so · thus · (然後) only then",
    "gs": "grammar",
    "hw": "然",
    "kind": "phonetic-compound",
@@ -17529,7 +17529,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "let, cause / drive (55) / if (53)",
+   "g": "let, cause · drive · if",
    "gs": "word",
    "hw": "使",
    "kind": "phonetic-compound",
@@ -17632,7 +17632,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "dwell / stay in / home",
+   "g": "dwell · stay in · home",
    "gs": "word",
    "hw": "居",
    "kind": "compound",
@@ -17668,7 +17668,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "back, rear / last, behind / after, then",
+   "g": "back, rear · last, behind · after, then",
    "gs": "word",
    "hw": "後",
    "kind": "compound",
@@ -17699,7 +17699,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "easy / take the place of (78)",
+   "g": "easy · take the place of",
    "gs": "word",
    "hw": "易",
    "kind": "pictograph",
@@ -17805,7 +17805,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "endure / last long / long since (67)",
+   "g": "endure · last long · long since",
    "gs": "word",
    "hw": "久",
    "kind": "pictograph",
@@ -17834,7 +17834,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "(closes a question) / (an exclamation)",
+   "g": "(closes a question) · (an exclamation)",
    "gs": "grammar",
    "hw": "乎",
    "kind": "compound",
@@ -17905,7 +17905,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "let go of / leave / apart (20)",
+   "g": "let go of · leave · apart",
    "gs": "word",
    "hw": "去",
    "kind": "phonetic-compound",
@@ -17940,7 +17940,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "like / as / (不如) better to",
+   "g": "like · as · (不如) better to",
    "gs": "grammar",
    "hw": "如",
    "kind": "compound",
@@ -17976,7 +17976,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "who / which",
+   "g": "who · which",
    "gs": "grammar",
    "hw": "𦏧",
    "kind": "phonetic-compound",
@@ -18112,7 +18112,7 @@
    "entry": "glossary/gan-敢.md",
    "fq": null,
    "fw": 0,
-   "g": "push / venture — the forward press to take",
+   "g": "push · venture — the forward press to take",
    "gs": "locked",
    "hw": null,
    "kind": null,
@@ -18120,7 +18120,7 @@
    "n": 10,
    "p": "gǎn",
    "pho": [],
-   "r": "push / venture — the forward press to take",
+   "r": "push · venture — the forward press to take",
    "rad": null,
    "sem": [],
    "tier": "Tier 3"
@@ -18145,7 +18145,7 @@
    "entry": "glossary/zheng-爭.md",
    "fq": null,
    "fw": 0,
-   "g": "contend / contention",
+   "g": "contend · contention",
    "gs": "locked",
    "hw": "爭",
    "kind": "compound",
@@ -18153,7 +18153,7 @@
    "n": 10,
    "p": "zhēng",
    "pho": [],
-   "r": "contend / contention",
+   "r": "contend · contention",
    "rad": "𠬪",
    "sem": [
     "𠬪"
@@ -18283,7 +18283,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "stillness / still / to still (15)",
+   "g": "stillness · still · to still",
    "gs": "word",
    "hw": "靜",
    "kind": "phonetic-compound",
@@ -18318,7 +18318,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "is not / not / is it not?",
+   "g": "is not · not · is it not?",
    "gs": "grammar",
    "hw": "非",
    "kind": "compound",
@@ -18483,7 +18483,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "there / to it / (closes a statement)",
+   "g": "there · to it · (closes a statement)",
    "gs": "grammar",
    "hw": "焉",
    "kind": "pictograph",
@@ -18512,7 +18512,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "very / excess (29) / extreme (44)",
+   "g": "very · excess · extreme",
    "gs": "word",
    "hw": "甚",
    "kind": "compound",
@@ -18543,7 +18543,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "sick, sickness / be sick of / harm (44)",
+   "g": "sick, sickness · be sick of · harm",
    "gs": "word",
    "hw": "病",
    "kind": "phonetic-compound",
@@ -18578,7 +18578,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "full / fill",
+   "g": "full · fill",
    "gs": "word",
    "hw": "盈",
    "kind": "compound",
@@ -18612,7 +18612,7 @@
    "entry": "glossary/zhong-眾.md",
    "fq": null,
    "fw": 0,
-   "g": "the crowd / the many",
+   "g": "the crowd · the many",
    "gs": "locked",
    "hw": "眾",
    "kind": "compound",
@@ -18620,7 +18620,7 @@
    "n": 9,
    "p": "zhòng",
    "pho": [],
-   "r": "the crowd / the many",
+   "r": "the crowd · the many",
    "rad": "㐺",
    "sem": [
     "乑"
@@ -18674,7 +18674,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "observe / sight (26)",
+   "g": "observe · sight",
    "gs": "word",
    "hw": "觀",
    "kind": "phonetic-compound",
@@ -18806,7 +18806,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "first / ahead, before / older than (4)",
+   "g": "first · ahead, before · older than",
    "gs": "word",
    "hw": "先",
    "kind": "unanalysed",
@@ -18903,7 +18903,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "firm / indeed / at first (36)",
+   "g": "firm · indeed · at first",
    "gs": "word",
    "hw": "固",
    "kind": "phonetic-compound",
@@ -18969,7 +18969,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "decrease / take from, draw off (77)",
+   "g": "decrease · take from, draw off",
    "gs": "word",
    "hw": "損",
    "kind": "phonetic-compound",
@@ -19003,7 +19003,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "cleverness / intelligence / guile (65)",
+   "g": "cleverness · intelligence · guile",
    "gs": "word",
    "hw": "𥏼",
    "kind": "compound",
@@ -19068,7 +19068,7 @@
    "entry": "glossary/pu-樸.md",
    "fq": null,
    "fw": 0,
-   "g": "uncarved wood / the uncarved",
+   "g": "uncarved wood · the uncarved",
    "gs": "locked",
    "hw": "樸",
    "kind": "phonetic-compound",
@@ -19078,7 +19078,7 @@
    "pho": [
     "菐"
    ],
-   "r": "uncarved wood / the uncarved",
+   "r": "uncarved wood · the uncarved",
    "rad": "木",
    "sem": [
     "木"
@@ -19164,7 +19164,7 @@
    "entry": null,
    "fq": "食鄰切",
    "fw": 0,
-   "g": "spirit / potency (60)",
+   "g": "spirit · potency",
    "gs": "word",
    "hw": "神",
    "kind": "phonetic-compound",
@@ -19198,7 +19198,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "reach / utmost, most / come (72)",
+   "g": "reach · utmost, most · come",
    "gs": "word",
    "hw": "至",
    "kind": "compound",
@@ -19233,7 +19233,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "light / make light of / lightly (63)",
+   "g": "light · make light of · lightly",
    "gs": "word",
    "hw": "輕",
    "kind": "phonetic-compound",
@@ -19265,7 +19265,7 @@
    "entry": null,
    "fq": "陟弓切",
    "fw": 0,
-   "g": "within / center (5) / middling (41)",
+   "g": "within · center · middling",
    "gs": "word",
    "hw": "中",
    "kind": "compound",
@@ -19296,7 +19296,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "arise / begin / action",
+   "g": "arise · begin · action",
    "gs": "word",
    "hw": "作",
    "kind": "compound",
@@ -19395,7 +19395,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "(an exclamation) / how…!",
+   "g": "(an exclamation) · how…!",
    "gs": "grammar",
    "hw": "哉",
    "kind": "phonetic-compound",
@@ -19430,7 +19430,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "loathe, hate / ugly, bad / recoil from",
+   "g": "loathe, hate · ugly, bad · recoil from",
    "gs": "word",
    "hw": "惡",
    "kind": "phonetic-compound",
@@ -19523,7 +19523,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "set right / upright / norm (58)",
+   "g": "set right · upright · norm",
    "gs": "word",
    "hw": "正",
    "kind": "compound",
@@ -19683,7 +19683,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "master, lord / owner (34) / host (69)",
+   "g": "master, lord · owner · host",
    "gs": "word",
    "hw": "主",
    "kind": "phonetic-compound",
@@ -19746,7 +19746,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "few / sparse / the inaudible (14)",
+   "g": "few · sparse · the inaudible",
    "gs": "word",
    "hw": null,
    "kind": null,
@@ -19805,7 +19805,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "embrace / arms' span (64)",
+   "g": "embrace · arms' span",
    "gs": "word",
    "hw": "捊",
    "kind": "phonetic-compound",
@@ -19837,7 +19837,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "already / once / used up (35)",
+   "g": "already · once · used up",
    "gs": "grammar",
    "hw": "旣",
    "kind": "phonetic-compound",
@@ -19999,7 +19999,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "like / still, even so / hesitant (15)",
+   "g": "like · still, even so · hesitant",
    "gs": "grammar",
    "hw": "猶",
    "kind": "phonetic-compound",
@@ -20031,7 +20031,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "increase / benefit (43)",
+   "g": "increase · benefit",
    "gs": "word",
    "hw": "益",
    "kind": "compound",
@@ -20061,7 +20061,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "disgrace / soiled (41)",
+   "g": "disgrace · soiled",
    "gs": "word",
    "hw": "辱",
    "kind": "compound",
@@ -20127,7 +20127,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "although / even if",
+   "g": "although · even if",
    "gs": "grammar",
    "hw": "雖",
    "kind": "phonetic-compound",
@@ -20158,7 +20158,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "and / and also",
+   "g": "and · and also",
    "gs": "grammar",
    "hw": "且",
    "kind": "compound",
@@ -20278,7 +20278,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "harm / cut (74)",
+   "g": "harm · cut",
    "gs": "word",
    "hw": "傷",
    "kind": "phonetic-compound",
@@ -20311,7 +20311,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "two / both (61)",
+   "g": "two · both",
    "gs": "word",
    "hw": "兩",
    "kind": "compound",
@@ -20342,7 +20342,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "move / movement",
+   "g": "move · movement",
    "gs": "word",
    "hw": "動",
    "kind": "phonetic-compound",
@@ -20375,7 +20375,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "thick / abundant / heavy (44)",
+   "g": "thick · abundant · heavy",
    "gs": "word",
    "hw": "厚",
    "kind": "compound",
@@ -20405,7 +20405,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "oppress / tire of / gorged (53)",
+   "g": "oppress · tire of · gorged",
    "gs": "word",
    "hw": "厭",
    "kind": "phonetic-compound",
@@ -20470,7 +20470,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "at rest / settled / how? (79)",
+   "g": "at rest · settled · how?",
    "gs": "grammar",
    "hw": "安",
    "kind": "compound",
@@ -20504,7 +20504,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "harm / hinder (66)",
+   "g": "harm · hinder",
    "gs": "word",
    "hw": "害",
    "kind": "phonetic-compound",
@@ -20568,7 +20568,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "contain / likeness (15) / room for (50)",
+   "g": "contain · likeness · room for",
    "gs": "word",
    "hw": "容",
    "kind": "compound",
@@ -20629,7 +20629,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "left / left half of a tally (79)",
+   "g": "left · left half of a tally",
    "gs": "word",
    "hw": "左",
    "kind": "compound",
@@ -20687,7 +20687,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "not / does not",
+   "g": "not · does not",
    "gs": "grammar",
    "hw": "弗",
    "kind": "compound",
@@ -20814,7 +20814,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "teaching / to teach",
+   "g": "teaching · to teach",
    "gs": "word",
    "hw": "教",
    "kind": "compound",
@@ -20996,7 +20996,7 @@
    "entry": null,
    "fq": "靈啓切",
    "fw": 0,
-   "g": "ritual / rites (31)",
+   "g": "ritual · rites",
    "gs": "word",
    "hw": "禮",
    "kind": "phonetic-compound",
@@ -21058,7 +21058,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "bring to / reach / follow through (39)",
+   "g": "bring to · reach · follow through",
    "gs": "word",
    "hw": "致",
    "kind": "compound",
@@ -21125,7 +21125,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "dear, draw near / kin (18) / favorites (79)",
+   "g": "dear, draw near · kin · favorites",
    "gs": "word",
    "hw": "親",
    "kind": "phonetic-compound",
@@ -21158,7 +21158,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "image / seem, resemble (4)",
+   "g": "image · seem, resemble",
    "gs": "word",
    "hw": "象",
    "kind": "pictograph",
@@ -21254,7 +21254,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "gate / door",
+   "g": "gate · door",
    "gs": "word",
    "hw": "門",
    "kind": "compound",
@@ -21286,7 +21286,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "food / feed (20) / eat up (75)",
+   "g": "food · feed · eat up",
    "gs": "word",
    "hw": "食",
    "kind": "phonetic-compound",
@@ -21443,7 +21443,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "light / bright (58)",
+   "g": "light · bright",
    "gs": "word",
    "hw": "光",
    "kind": "compound",
@@ -21504,7 +21504,7 @@
    "entry": "glossary/gong-公.md",
    "fq": null,
    "fw": 0,
-   "g": "impartiality / impartial (the quality) · lord / minister (the office)",
+   "g": "impartiality · impartial (the quality) · lord · minister (the office)",
    "gs": "locked",
    "hw": "公",
    "kind": "compound",
@@ -21512,7 +21512,7 @@
    "n": 4,
    "p": "gōng",
    "pho": [],
-   "r": "impartiality / impartial (the quality) · lord / minister (the office)",
+   "r": "impartiality · impartial (the quality) · lord · minister (the office)",
    "rad": "八",
    "sem": [
     "八",
@@ -21533,7 +21533,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "brave / courage",
+   "g": "brave · courage",
    "gs": "word",
    "hw": "勇",
    "kind": "phonetic-compound",
@@ -21616,7 +21616,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "if, when / until (21) / reach (43)",
+   "g": "if, when · until · reach",
    "gs": "word",
    "hw": "及",
    "kind": "compound",
@@ -21704,7 +21704,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "keep / preside over (司殺者, 74)",
+   "g": "keep · preside over (司殺者)",
    "gs": "word",
    "hw": "司",
    "kind": "compound",
@@ -21795,7 +21795,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "strange / surprise / crooked, out of line",
+   "g": "strange · surprise · crooked, out of line",
    "gs": "word",
    "hw": "奇",
    "kind": "compound",
@@ -21889,7 +21889,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "be here / survive (7) / keep (41)",
+   "g": "be here · survive · keep",
    "gs": "word",
    "hw": "存",
    "kind": "phonetic-compound",
@@ -21951,7 +21951,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "sharp / prying (58)",
+   "g": "sharp · prying",
    "gs": "word",
    "hw": "察",
    "kind": "compound",
@@ -22010,7 +22010,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "little, few / less (47) / diminish (19)",
+   "g": "little, few · less · diminish",
    "gs": "word",
    "hw": "少",
    "kind": "phonetic-compound",
@@ -22130,7 +22130,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "faint / hidden (36) / the intangible (14)",
+   "g": "faint · hidden · the intangible",
    "gs": "word",
    "hw": "微",
    "kind": "phonetic-compound",
@@ -22222,7 +22222,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "dull / undiscerning (58)",
+   "g": "dull · undiscerning",
    "gs": "word",
    "hw": "悶",
    "kind": "phonetic-compound",
@@ -22283,7 +22283,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "rescue / save (52)",
+   "g": "rescue · save",
    "gs": "word",
    "hw": "救",
    "kind": "phonetic-compound",
@@ -22406,7 +22406,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "clothes, wear / accept (早服, 59)",
+   "g": "clothes, wear · accept (早服)",
    "gs": "word",
    "hw": "服",
    "kind": "phonetic-compound",
@@ -22619,7 +22619,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "cord / rope (27) / continuous (繩繩, 14)",
+   "g": "cord · rope · continuous (繩繩)",
    "gs": "word",
    "hw": "繩",
    "kind": "phonetic-compound",
@@ -22680,7 +22680,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "no more than (不過) / pass / go too far (64)",
+   "g": "no more than (不過) · pass · go too far",
    "gs": "word",
    "hw": "過",
    "kind": "phonetic-compound",
@@ -22739,7 +22739,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "two / second (67)",
+   "g": "two · second",
    "gs": "word",
    "hw": "二",
    "kind": "compound",
@@ -22796,7 +22796,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "now / today (21)",
+   "g": "now · today",
    "gs": "word",
    "hw": "今",
    "kind": "compound",
@@ -22855,7 +22855,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "claim credit (自伐) / brag (30)",
+   "g": "claim credit (自伐) · brag",
    "gs": "word",
    "hw": "伐",
    "kind": "compound",
@@ -22885,7 +22885,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "worldly (俗人) / ways (80)",
+   "g": "worldly (俗人) · ways",
    "gs": "word",
    "hw": "俗",
    "kind": "phonetic-compound",
@@ -23028,7 +23028,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "disaster / inauspicious (31)",
+   "g": "disaster · inauspicious",
    "gs": "word",
    "hw": "凶",
    "kind": "pictograph",
@@ -23055,7 +23055,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "front / in advance (38)",
+   "g": "front · in advance",
    "gs": "word",
    "hw": "前",
    "kind": "compound",
@@ -23151,7 +23151,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "join / union (55) / arm span (合抱, 64)",
+   "g": "join · union · arm span (合抱)",
    "gs": "word",
    "hw": "合",
    "kind": "compound",
@@ -23212,7 +23212,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "mourning (喪禮) / to lose (69)",
+   "g": "mourning (喪禮) · to lose",
    "gs": "word",
    "hw": "喪",
    "kind": "phonetic-compound",
@@ -23302,7 +23302,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "greatest / great / utterly (35)",
+   "g": "greatest · great · utterly",
    "gs": "word",
    "hw": null,
    "kind": null,
@@ -23448,7 +23448,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "wealthy / wealth / enrich (57)",
+   "g": "wealthy · wealth · enrich",
    "gs": "word",
    "hw": "富",
    "kind": "phonetic-compound",
@@ -23511,7 +23511,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "revere / honor (62)",
+   "g": "revere · honor",
    "gs": "word",
    "hw": "𢍜",
    "kind": "compound",
@@ -23599,7 +23599,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "reach far / boundless (41)",
+   "g": "reach far · boundless",
    "gs": "word",
    "hw": "廣",
    "kind": "phonetic-compound",
@@ -23629,7 +23629,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "established / sturdy (41) / plant (54)",
+   "g": "established · sturdy · plant",
    "gs": "word",
    "hw": "建",
    "kind": "compound",
@@ -23658,7 +23658,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "the more / the further (47)",
+   "g": "the more · the further",
    "gs": "word",
    "hw": "镾",
    "kind": "phonetic-compound",
@@ -23689,7 +23689,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "form / give form / measure against (2)",
+   "g": "form · give form · measure against",
    "gs": "word",
    "hw": "形",
    "kind": "phonetic-compound",
@@ -23782,7 +23782,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "come to / go (往來, 80)",
+   "g": "come to · go (往來)",
    "gs": "word",
    "hw": "往",
    "kind": "phonetic-compound",
@@ -23813,7 +23813,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "follow / go about (從事, 64)",
+   "g": "follow · go about (從事)",
    "gs": "word",
    "hw": "從",
    "kind": "compound",
@@ -23842,7 +23842,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "will / ambition (3)",
+   "g": "will · ambition",
    "gs": "word",
    "hw": "志",
    "kind": "phonetic-compound",
@@ -23872,7 +23872,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "grudge / resentment (63)",
+   "g": "grudge · resentment",
    "gs": "word",
    "hw": "怨",
    "kind": "phonetic-compound",
@@ -23933,7 +23933,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "the more / more still (81)",
+   "g": "the more · more still",
    "gs": "word",
    "hw": null,
    "kind": null,
@@ -23960,7 +23960,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "fool, foolish / guileless (65)",
+   "g": "fool, foolish · guileless",
    "gs": "word",
    "hw": "愚",
    "kind": "compound",
@@ -23990,7 +23990,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "battle / fight",
+   "g": "battle · fight",
    "gs": "word",
    "hw": "戰",
    "kind": "phonetic-compound",
@@ -24229,7 +24229,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "draw in / breathe gently (歙歙, 49)",
+   "g": "draw in · breathe gently (歙歙)",
    "gs": "word",
    "hw": "歙",
    "kind": "phonetic-compound",
@@ -24704,7 +24704,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "boast / pride oneself (自矜)",
+   "g": "boast · pride oneself (自矜)",
    "gs": "word",
    "hw": "矜",
    "kind": "phonetic-compound",
@@ -24734,7 +24734,7 @@
    "entry": null,
    "fq": "方六切",
    "fw": 0,
-   "g": "fortune / good fortune (65)",
+   "g": "fortune · good fortune",
    "gs": "word",
    "hw": "福",
    "kind": "phonetic-compound",
@@ -24766,7 +24766,7 @@
    "entry": "glossary/gong-公.md",
    "fq": null,
    "fw": 0,
-   "g": "the private / the private self",
+   "g": "the private · the private self",
    "gs": "covers",
    "hw": "私",
    "kind": "phonetic-compound",
@@ -24776,7 +24776,7 @@
    "pho": [
     "厶"
    ],
-   "r": "the private / the private self",
+   "r": "the private · the private self",
    "rad": "禾",
    "sem": [
     "禾"
@@ -24796,7 +24796,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "accumulate / hoard (81)",
+   "g": "accumulate · hoard",
    "gs": "word",
    "hw": "積",
    "kind": "phonetic-compound",
@@ -24827,7 +24827,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "stand / raise up (62)",
+   "g": "stand · raise up",
    "gs": "word",
    "hw": "立",
    "kind": "compound",
@@ -24861,7 +24861,7 @@
    "entry": "glossary/jing-精.md",
    "fq": null,
    "fw": 0,
-   "g": "vital essence / essence",
+   "g": "vital essence · essence",
    "gs": "locked",
    "hw": "精",
    "kind": "phonetic-compound",
@@ -24871,7 +24871,7 @@
    "pho": [
     "青"
    ],
-   "r": "vital essence / essence",
+   "r": "vital essence · essence",
    "rad": "米",
    "sem": [
     "米"
@@ -24921,7 +24921,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "deficient / cunning (缺缺, 58)",
+   "g": "deficient · cunning (缺缺)",
    "gs": "word",
    "hw": "缺",
    "kind": "phonetic-compound",
@@ -24981,7 +24981,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "sound / tone (2)",
+   "g": "sound · tone",
    "gs": "word",
    "hw": "聲",
    "kind": "phonetic-compound",
@@ -25010,7 +25010,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "look like / resemble",
+   "g": "look like · resemble",
    "gs": "word",
    "hw": "肖",
    "kind": "phonetic-compound",
@@ -25101,7 +25101,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "read, make out / know (前識, 38)",
+   "g": "read, make out · know (前識)",
    "gs": "word",
    "hw": "識",
    "kind": "phonetic-compound",
@@ -25193,7 +25193,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "exceptional / worthier (75)",
+   "g": "exceptional · worthier",
    "gs": "word",
    "hw": "賢",
    "kind": "phonetic-compound",
@@ -25223,7 +25223,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "cheap / debase (56)",
+   "g": "cheap · debase",
    "gs": "word",
    "hw": "賤",
    "kind": "phonetic-compound",
@@ -25283,7 +25283,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "argue / argument (45)",
+   "g": "argue · argument",
    "gs": "word",
    "hw": "辯",
    "kind": "compound",
@@ -25343,7 +25343,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "advance / offer (62)",
+   "g": "advance · offer",
    "gs": "word",
    "hw": "進",
    "kind": "phonetic-compound",
@@ -25554,7 +25554,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "open / breach (27)",
+   "g": "open · breach",
    "gs": "word",
    "hw": "開",
    "kind": "compound",
@@ -25616,7 +25616,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "leave / part (10)",
+   "g": "leave · part",
    "gs": "word",
    "hw": "離",
    "kind": "phonetic-compound",
@@ -25703,7 +25703,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "chariot (萬乘) / ride (80)",
+   "g": "chariot (萬乘) · ride",
    "gs": "word",
    "hw": "椉",
    "kind": "compound",
@@ -25757,7 +25757,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "converge / confluence (61)",
+   "g": "converge · confluence",
    "gs": "word",
    "hw": "交",
    "kind": "compound",
@@ -25785,7 +25785,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "come / come and go (往來, 80)",
+   "g": "come · come and go (往來)",
    "gs": "word",
    "hw": "來",
    "kind": "pictograph",
@@ -26064,7 +26064,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "have heard it all / broad learning",
+   "g": "have heard it all · broad learning",
    "gs": "word",
    "hw": "博",
    "kind": "compound",
@@ -26093,7 +26093,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "again / and further",
+   "g": "again · and further",
    "gs": "grammar",
    "hw": "又",
    "kind": "pictograph",
@@ -26379,7 +26379,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "(奈何) how / why",
+   "g": "(奈何) how · why",
    "gs": "grammar",
    "hw": "柰",
    "kind": "phonetic-compound",
@@ -26466,7 +26466,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "authority / harm (大威, the great collapse)",
+   "g": "authority · harm (大威, the great collapse)",
    "gs": "word",
    "hw": "威",
    "kind": "compound",
@@ -26672,7 +26672,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "fill / substance (38)",
+   "g": "fill · substance",
    "gs": "word",
    "hw": "實",
    "kind": "compound",
@@ -26730,7 +26730,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "crooked / depleted (5)",
+   "g": "crooked · depleted",
    "gs": "word",
    "hw": "屈",
    "kind": "phonetic-compound",
@@ -26785,7 +26785,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "oneself / themselves",
+   "g": "oneself · themselves",
    "gs": "word",
    "hw": "己",
    "kind": "pictograph",
@@ -26841,7 +26841,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "stretch out / string a bow (77)",
+   "g": "stretch out · string a bow",
    "gs": "word",
    "hw": "張",
    "kind": "phonetic-compound",
@@ -27017,7 +27017,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "drag / haul",
+   "g": "drag · haul",
    "gs": "word",
    "hw": "扔",
    "kind": "phonetic-compound",
@@ -27133,7 +27133,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "count / reckoning",
+   "g": "count · reckoning",
    "gs": "word",
    "hw": "數",
    "kind": "phonetic-compound",
@@ -27188,7 +27188,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "carve / hew",
+   "g": "carve · hew",
    "gs": "word",
    "hw": "斫",
    "kind": "phonetic-compound",
@@ -27217,7 +27217,7 @@
    "entry": null,
    "fq": null,
    "fw": 1,
-   "g": "then / thereupon",
+   "g": "then · thereupon",
    "gs": "grammar",
    "hw": "斯",
    "kind": "phonetic-compound",
@@ -27247,7 +27247,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "new / renewed (22)",
+   "g": "new · renewed",
    "gs": "word",
    "hw": "新",
    "kind": "phonetic-compound",
@@ -27363,7 +27363,7 @@
    "entry": "glossary/quan-全.md",
    "fq": null,
    "fw": 0,
-   "g": "bend / bent",
+   "g": "bend · bent",
    "gs": "covers",
    "hw": "曲",
    "kind": "pictograph",
@@ -27371,7 +27371,7 @@
    "n": 2,
    "p": "Qū",
    "pho": [],
-   "r": "bend / bent",
+   "r": "bend · bent",
    "rad": "曲",
    "sem": [],
    "tier": "locked"
@@ -27415,7 +27415,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "glory / glorious (26)",
+   "g": "glory · glorious",
    "gs": "word",
    "hw": "榮",
    "kind": "phonetic-compound",
@@ -27445,7 +27445,7 @@
    "entry": null,
    "fq": "徒沃切",
    "fw": 0,
-   "g": "venomous / mature (51)",
+   "g": "venomous · mature",
    "gs": "word",
    "hw": "毒",
    "kind": "compound",
@@ -27474,7 +27474,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "seek / want (75)",
+   "g": "seek · want",
    "gs": "word",
    "hw": null,
    "kind": null,
@@ -27584,7 +27584,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "bland / detachment (恬淡, 31)",
+   "g": "bland · detachment (恬淡)",
    "gs": "word",
    "hw": "淡",
    "kind": "phonetic-compound",
@@ -27961,7 +27961,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "hold off / wide-meshed (73)",
+   "g": "hold off · wide-meshed",
    "gs": "word",
    "hw": "疏",
    "kind": "phonetic-compound",
@@ -27992,7 +27992,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "burst (39) / break out (12)",
+   "g": "burst · break out",
    "gs": "word",
    "hw": "發",
    "kind": "phonetic-compound",
@@ -28082,7 +28082,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "run out / dead end (5)",
+   "g": "run out · dead end",
    "gs": "word",
    "hw": "竆",
    "kind": "phonetic-compound",
@@ -28311,7 +28311,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "slip away / leave (36)",
+   "g": "slip away · leave",
    "gs": "word",
    "hw": "脫",
    "kind": "phonetic-compound",
@@ -28403,7 +28403,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "minister / bring under (32)",
+   "g": "minister · bring under",
    "gs": "word",
    "hw": "臣",
    "kind": "pictograph",
@@ -28540,7 +28540,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "thin / thinning",
+   "g": "thin · thinning",
    "gs": "word",
    "hw": "薄",
    "kind": "phonetic-compound",
@@ -28597,7 +28597,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "wear / be touched by (50)",
+   "g": "wear · be touched by",
    "gs": "word",
    "hw": "被",
    "kind": "phonetic-compound",
@@ -28626,7 +28626,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "fill in / mend",
+   "g": "fill in · mend",
    "gs": "word",
    "hw": "補",
    "kind": "phonetic-compound",
@@ -28774,7 +28774,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "rise / appear (57)",
+   "g": "rise · appear",
    "gs": "word",
    "hw": "起",
    "kind": "phonetic-compound",
@@ -28893,7 +28893,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "space between / gap, seam (43)",
+   "g": "space between · gap, seam",
    "gs": "word",
    "hw": "閒",
    "kind": "compound",
@@ -29010,7 +29010,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "go hungry / hunger",
+   "g": "go hungry · hunger",
    "gs": "word",
    "hw": "飢",
    "kind": "phonetic-compound",
@@ -29156,7 +29156,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "arrogant / arrogance",
+   "g": "arrogant · arrogance",
    "gs": "word",
    "hw": "驕",
    "kind": "phonetic-compound",
@@ -30563,7 +30563,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "bounds / realm",
+   "g": "bounds · realm",
    "gs": "word",
    "hw": "或",
    "kind": "compound",
@@ -31361,7 +31361,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "tier / story of a building",
+   "g": "tier · story of a building",
    "gs": "word",
    "hw": "層",
    "kind": "phonetic-compound",
@@ -31845,7 +31845,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "rage / anger",
+   "g": "rage · anger",
    "gs": "word",
    "hw": "怒",
    "kind": "phonetic-compound",
@@ -32901,7 +32901,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "within sight of / look across at",
+   "g": "within sight of · look across at",
    "gs": "word",
    "hw": "望",
    "kind": "phonetic-compound",
@@ -33131,7 +33131,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "dry / dried out",
+   "g": "dry · dried out",
    "gs": "word",
    "hw": "槀",
    "kind": "phonetic-compound",
@@ -33380,7 +33380,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "how much more / let alone",
+   "g": "how much more · let alone",
    "gs": "grammar",
    "hw": "況",
    "kind": "phonetic-compound",
@@ -33492,7 +33492,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "shatter / melt apart",
+   "g": "shatter · melt apart",
    "gs": "word",
    "hw": "泮",
    "kind": "phonetic-compound",
@@ -33552,7 +33552,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "stay alive / live",
+   "g": "stay alive · live",
    "gs": "word",
    "hw": "活",
    "kind": "phonetic-compound",
@@ -34165,7 +34165,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "crowd / hem in",
+   "g": "crowd · hem in",
    "gs": "word",
    "hw": "狎",
    "kind": "phonetic-compound",
@@ -35097,7 +35097,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "heap / pile up",
+   "g": "heap · pile up",
    "gs": "word",
    "hw": "纍",
    "kind": "phonetic-compound",
@@ -35178,7 +35178,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "unhurried / slack",
+   "g": "unhurried · slack",
    "gs": "word",
    "hw": "繟",
    "kind": "phonetic-compound",
@@ -36162,7 +36162,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "probe / question closely",
+   "g": "probe · question closely",
    "gs": "word",
    "hw": "詰",
    "kind": "phonetic-compound",
@@ -36220,7 +36220,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "who / whose",
+   "g": "who · whose",
    "gs": "grammar",
    "hw": "誰",
    "kind": "phonetic-compound",
@@ -36565,7 +36565,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "ask for / exact payment",
+   "g": "ask for · exact payment",
    "gs": "word",
    "hw": "責",
    "kind": "phonetic-compound",
@@ -37421,7 +37421,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "partnered with / pair with",
+   "g": "partnered with · pair with",
    "gs": "word",
    "hw": "配",
    "kind": "phonetic-compound",
@@ -37800,7 +37800,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "march out / set in array",
+   "g": "march out · set in array",
    "gs": "word",
    "hw": "陳",
    "kind": "phonetic-compound",
@@ -38294,7 +38294,7 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "food / delicacies",
+   "g": "food · delicacies",
    "gs": "word",
    "hw": null,
    "kind": null,
@@ -40047,11 +40047,11 @@
   ],
   "上": [
    "Shàng",
-   "highest / above / those over (75)"
+   "highest · above · those over"
   ],
   "下": [
    "xià",
-   "below / low, lowest (天下, the world)"
+   "below · low, lowest (天下, the world)"
   ],
   "不": [
    "bù",
@@ -40059,7 +40059,7 @@
   ],
   "且": [
    "qiě",
-   "and / and also"
+   "and · and also"
   ],
   "並": [
    "bìng",
@@ -40067,7 +40067,7 @@
   ],
   "中": [
    "zhōng",
-   "within / center (5) / middling (41)"
+   "within · center · middling"
   ],
   "丶": [
    "zhǔ",
@@ -40075,7 +40075,7 @@
   ],
   "主": [
    "zhǔ",
-   "master, lord / owner (34) / host (69)"
+   "master, lord · owner · host"
   ],
   "丿": [
    "piě",
@@ -40083,23 +40083,23 @@
   ],
   "乃": [
    "nǎi",
-   "then / and so becomes"
+   "then · and so becomes"
   ],
   "久": [
    "jiǔ",
-   "endure / last long / long since (67)"
+   "endure · last long · long since"
   ],
   "之": [
    "zhī",
-   "of ('s) / it, them / (links a modifier to its noun)"
+   "of ('s) · it, them · (links a modifier to its noun)"
   ],
   "乎": [
    "hū",
-   "(closes a question) / (an exclamation)"
+   "(closes a question) · (an exclamation)"
   ],
   "乘": [
    "shèng",
-   "chariot (萬乘) / ride (80)"
+   "chariot (萬乘) · ride"
   ],
   "九": [
    "Jiǔ",
@@ -40115,11 +40115,11 @@
   ],
   "事": [
    "shì",
-   "affairs / undertakings (noun) · to serve, to attend to (verb)"
+   "affairs · undertakings (noun) · to serve, to attend to (verb)"
   ],
   "二": [
    "èr",
-   "two / second (67)"
+   "two · second"
   ],
   "云": [
    "yún",
@@ -40135,11 +40135,11 @@
   ],
   "交": [
    "jiāo",
-   "converge / confluence (61)"
+   "converge · confluence"
   ],
   "亦": [
    "yì",
-   "also / too"
+   "also · too"
   ],
   "享": [
    "xiǎng",
@@ -40151,7 +40151,7 @@
   ],
   "人": [
    "rén",
-   "people / others / person (聖人, sage)"
+   "people · others · person (聖人, sage)"
   ],
   "亼": [
    "jí",
@@ -40167,7 +40167,7 @@
   ],
   "今": [
    "jīn",
-   "now / today (21)"
+   "now · today"
   ],
   "介": [
    "jiè",
@@ -40187,7 +40187,7 @@
   ],
   "以": [
    "yǐ",
-   "by means of / so as to / because / take as"
+   "by means of · so as to · because · take as"
   ],
   "企": [
    "Qǐ",
@@ -40203,7 +40203,7 @@
   ],
   "伐": [
    "fá",
-   "claim credit (自伐) / brag (30)"
+   "claim credit (自伐) · brag"
   ],
   "伯": [
    "bǎi",
@@ -40219,7 +40219,7 @@
   ],
   "何": [
    "Hé",
-   "what / why / how"
+   "what · why · how"
   ],
   "余": [
    "yú",
@@ -40227,7 +40227,7 @@
   ],
   "作": [
    "zuò",
-   "arise / begin / action"
+   "arise · begin · action"
   ],
   "佳": [
    "jiā",
@@ -40235,11 +40235,11 @@
   ],
   "使": [
    "shǐ",
-   "let, cause / drive (55) / if (53)"
+   "let, cause · drive · if"
   ],
   "來": [
    "lái",
-   "come / come and go (往來, 80)"
+   "come · come and go (往來)"
   ],
   "侮": [
    "wǔ",
@@ -40251,7 +40251,7 @@
   ],
   "俗": [
    "Sú",
-   "worldly (俗人) / ways (80)"
+   "worldly (俗人) · ways"
   ],
   "保": [
    "bǎo",
@@ -40259,7 +40259,7 @@
   ],
   "信": [
    "xìn",
-   "trust / trustworthy"
+   "trust · trustworthy"
   ],
   "修": [
    "Xiū",
@@ -40295,7 +40295,7 @@
   ],
   "傷": [
    "shāng",
-   "harm / cut (74)"
+   "harm · cut"
   ],
   "儉": [
    "jiǎn",
@@ -40311,11 +40311,11 @@
   ],
   "先": [
    "xiān",
-   "first / ahead, before / older than (4)"
+   "first · ahead, before · older than"
   ],
   "光": [
    "guāng",
-   "light / bright (58)"
+   "light · bright"
   ],
   "克": [
    "kè",
@@ -40347,7 +40347,7 @@
   ],
   "兩": [
    "liǎng",
-   "two / both (61)"
+   "two · both"
   ],
   "八": [
    "bā",
@@ -40355,7 +40355,7 @@
   ],
   "公": [
    "gōng",
-   "impartiality / impartial (the quality) · lord / minister (the office)"
+   "impartiality · impartial (the quality) · lord · minister (the office)"
   ],
   "六": [
    "Liù",
@@ -40371,11 +40371,11 @@
   ],
   "兵": [
    "bīng",
-   "weapons / armies / military force (30)"
+   "weapons · armies · military force"
   ],
   "其": [
    "qí",
-   "its / their / (in a question) surely?"
+   "its · their · (in a question) surely?"
   ],
   "兼": [
    "jiān",
@@ -40403,7 +40403,7 @@
   ],
   "凶": [
    "xiōng",
-   "disaster / inauspicious (31)"
+   "disaster · inauspicious"
   ],
   "出": [
    "chū",
@@ -40427,11 +40427,11 @@
   ],
   "則": [
    "zé",
-   "then / and so"
+   "then · and so"
   ],
   "前": [
    "qián",
-   "front / in advance (38)"
+   "front · in advance"
   ],
   "剛": [
    "gāng",
@@ -40463,11 +40463,11 @@
   ],
   "勇": [
    "yǒng",
-   "brave / courage"
+   "brave · courage"
   ],
   "動": [
    "dòng",
-   "move / movement"
+   "move · movement"
   ],
   "勝": [
    "Shèng",
@@ -40507,7 +40507,7 @@
   ],
   "博": [
    "bó",
-   "have heard it all / broad learning"
+   "have heard it all · broad learning"
   ],
   "卩": [
    "jié",
@@ -40523,11 +40523,11 @@
   ],
   "厚": [
    "hòu",
-   "thick / abundant / heavy (44)"
+   "thick · abundant · heavy"
   ],
   "厭": [
    "yàn",
-   "oppress / tire of / gorged (53)"
+   "oppress · tire of · gorged"
   ],
   "厶": [
    "sī",
@@ -40535,15 +40535,15 @@
   ],
   "去": [
    "qù",
-   "let go of / leave / apart (20)"
+   "let go of · leave · apart"
   ],
   "又": [
    "yòu",
-   "again / and further"
+   "again · and further"
   ],
   "及": [
    "Jí",
-   "if, when / until (21) / reach (43)"
+   "if, when · until · reach"
   ],
   "反": [
    "fǎn",
@@ -40551,7 +40551,7 @@
   ],
   "取": [
    "qǔ",
-   "take / seize (30) / win (57)"
+   "take · seize · win"
   ],
   "受": [
    "shòu",
@@ -40571,7 +40571,7 @@
   ],
   "可": [
    "kě",
-   "can be (可 + verb) / can (可以 + verb) / cannot (不可)"
+   "can be (可 + verb) · can (可以 + verb) · cannot (不可)"
   ],
   "右": [
    "yòu",
@@ -40579,7 +40579,7 @@
   ],
   "司": [
    "sī",
-   "keep / preside over (司殺者, 74)"
+   "keep · preside over (司殺者)"
   ],
   "各": [
    "Gè",
@@ -40587,7 +40587,7 @@
   ],
   "合": [
    "hé",
-   "join / union (55) / arm span (合抱, 64)"
+   "join · union · arm span (合抱)"
   ],
   "吉": [
    "Jí",
@@ -40599,7 +40599,7 @@
   ],
   "名": [
    "míng",
-   "name / to name, call / reputation (44)"
+   "name · to name, call · reputation"
   ],
   "君": [
    "jūn",
@@ -40643,7 +40643,7 @@
   ],
   "哉": [
    "zāi",
-   "(an exclamation) / how…!"
+   "(an exclamation) · how…!"
   ],
   "唯": [
    "wéi",
@@ -40651,11 +40651,11 @@
   ],
   "善": [
    "shàn",
-   "masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)"
+   "masterful · masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)"
   ],
   "喪": [
    "sàng",
-   "mourning (喪禮) / to lose (69)"
+   "mourning (喪禮) · to lose"
   ],
   "嗄": [
    "shà",
@@ -40667,7 +40667,7 @@
   ],
   "器": [
    "qì",
-   "vessel / tool / implement"
+   "vessel · tool · implement"
   ],
   "囗": [
    "wéi",
@@ -40683,7 +40683,7 @@
   ],
   "固": [
    "gù",
-   "firm / indeed / at first (36)"
+   "firm · indeed · at first"
   ],
   "國": [
    "guó",
@@ -40723,7 +40723,7 @@
   ],
   "域": [
    "Yù",
-   "bounds / realm"
+   "bounds · realm"
   ],
   "埴": [
    "zhí",
@@ -40791,15 +40791,15 @@
   ],
   "天": [
    "tiān",
-   "sky (as a tier) · nature / the natural (as an agent)"
+   "sky (as a tier) · nature · the natural (as an agent)"
   ],
   "太": [
    "Tài",
-   "greatest / great / utterly (35)"
+   "greatest · great · utterly"
   ],
   "夫": [
    "Fú",
-   "now (opening a statement) / that, those"
+   "now (opening a statement) · that, those"
   ],
   "央": [
    "yāng",
@@ -40807,7 +40807,7 @@
   ],
   "失": [
    "Shī",
-   "lose / loss / slip through (73)"
+   "lose · loss · slip through"
   ],
   "夷": [
    "yí",
@@ -40819,11 +40819,11 @@
   ],
   "奇": [
    "qí",
-   "strange / surprise / crooked, out of line"
+   "strange · surprise · crooked, out of line"
   ],
   "奈": [
    "Nài",
-   "(奈何) how / why"
+   "(奈何) how · why"
   ],
   "奉": [
    "fèng",
@@ -40855,7 +40855,7 @@
   ],
   "如": [
    "rú",
-   "like / as / (不如) better to"
+   "like · as · (不如) better to"
   ],
   "妄": [
    "Wàng",
@@ -40883,7 +40883,7 @@
   ],
   "威": [
    "wēi",
-   "authority / harm (大威, the great collapse)"
+   "authority · harm (大威, the great collapse)"
   ],
   "嬰": [
    "yīng",
@@ -40903,7 +40903,7 @@
   ],
   "存": [
    "cún",
-   "be here / survive (7) / keep (41)"
+   "be here · survive · keep"
   ],
   "孝": [
    "xiào",
@@ -40923,7 +40923,7 @@
   ],
   "孰": [
    "Shú",
-   "who / which"
+   "who · which"
   ],
   "學": [
    "xué",
@@ -40939,7 +40939,7 @@
   ],
   "安": [
    "ān",
-   "at rest / settled / how? (79)"
+   "at rest · settled · how?"
   ],
   "宗": [
    "zōng",
@@ -40967,7 +40967,7 @@
   ],
   "害": [
    "hài",
-   "harm / hinder (66)"
+   "harm · hinder"
   ],
   "家": [
    "jiā",
@@ -40975,7 +40975,7 @@
   ],
   "容": [
    "róng",
-   "contain / likeness (15) / room for (50)"
+   "contain · likeness · room for"
   ],
   "寂": [
    "Jì",
@@ -40987,7 +40987,7 @@
   ],
   "富": [
    "fù",
-   "wealthy / wealth / enrich (57)"
+   "wealthy · wealth · enrich"
   ],
   "寒": [
    "hán",
@@ -40995,7 +40995,7 @@
   ],
   "察": [
    "chá",
-   "sharp / prying (58)"
+   "sharp · prying"
   ],
   "寡": [
    "guǎ",
@@ -41007,7 +41007,7 @@
   ],
   "實": [
    "shí",
-   "fill / substance (38)"
+   "fill · substance"
   ],
   "寧": [
    "níng",
@@ -41027,7 +41027,7 @@
   ],
   "將": [
    "jiāng",
-   "about to / will / (將欲) wanting to / a general (31)"
+   "about to · will · (將欲) wanting to · a general"
   ],
   "專": [
    "Zhuān",
@@ -41035,7 +41035,7 @@
   ],
   "尊": [
    "zūn",
-   "revere / honor (62)"
+   "revere · honor"
   ],
   "小": [
    "xiǎo",
@@ -41043,7 +41043,7 @@
   ],
   "少": [
    "Shǎo",
-   "little, few / less (47) / diminish (19)"
+   "little, few · less · diminish"
   ],
   "尚": [
    "shàng",
@@ -41067,15 +41067,15 @@
   ],
   "居": [
    "jū",
-   "dwell / stay in / home"
+   "dwell · stay in · home"
   ],
   "屈": [
    "qū",
-   "crooked / depleted (5)"
+   "crooked · depleted"
   ],
   "層": [
    "céng",
-   "tier / story of a building"
+   "tier · story of a building"
   ],
   "屬": [
    "shǔ",
@@ -41091,7 +41091,7 @@
   ],
   "左": [
    "zuǒ",
-   "left / left half of a tally (79)"
+   "left · left half of a tally"
   ],
   "巧": [
    "qiǎo",
@@ -41099,7 +41099,7 @@
   ],
   "己": [
    "jǐ",
-   "oneself / themselves"
+   "oneself · themselves"
   ],
   "已": [
    "yǐ",
@@ -41119,7 +41119,7 @@
   ],
   "希": [
    "xī",
-   "few / sparse / the inaudible (14)"
+   "few · sparse · the inaudible"
   ],
   "帝": [
    "dì",
@@ -41135,7 +41135,7 @@
   ],
   "常": [
    "cháng",
-   "the ever-present / ever / always"
+   "the ever-present · ever · always"
   ],
   "平": [
    "píng",
@@ -41163,11 +41163,11 @@
   ],
   "廣": [
    "Guǎng",
-   "reach far / boundless (41)"
+   "reach far · boundless"
   ],
   "建": [
    "jiàn",
-   "established / sturdy (41) / plant (54)"
+   "established · sturdy · plant"
   ],
   "廾": [
    "gǒng",
@@ -41191,7 +41191,7 @@
   ],
   "弗": [
    "fú",
-   "not / does not"
+   "not · does not"
   ],
   "弱": [
    "ruò",
@@ -41199,7 +41199,7 @@
   ],
   "張": [
    "zhāng",
-   "stretch out / string a bow (77)"
+   "stretch out · string a bow"
   ],
   "強": [
    "qiáng",
@@ -41207,7 +41207,7 @@
   ],
   "彌": [
    "mí",
-   "the more / the further (47)"
+   "the more · the further"
   ],
   "彡": [
    "shān",
@@ -41215,7 +41215,7 @@
   ],
   "形": [
    "xíng",
-   "form / give form / measure against (2)"
+   "form · give form · measure against"
   ],
   "彰": [
    "zhāng",
@@ -41231,11 +41231,11 @@
   ],
   "往": [
    "wǎng",
-   "come to / go (往來, 80)"
+   "come to · go (往來)"
   ],
   "後": [
    "hòu",
-   "back, rear / last, behind / after, then"
+   "back, rear · last, behind · after, then"
   ],
   "徐": [
    "xú",
@@ -41251,7 +41251,7 @@
   ],
   "得": [
    "dé",
-   "get, gain / receive (39) / find"
+   "get, gain · receive · find"
   ],
   "徙": [
    "xǐ",
@@ -41259,7 +41259,7 @@
   ],
   "從": [
    "cóng",
-   "follow / go about (從事, 64)"
+   "follow · go about (從事)"
   ],
   "御": [
    "yù",
@@ -41267,11 +41267,11 @@
   ],
   "復": [
    "Fù",
-   "return / go back / turn into (58)"
+   "return · go back · turn into"
   ],
   "微": [
    "wēi",
-   "faint / hidden (36) / the intangible (14)"
+   "faint · hidden · the intangible"
   ],
   "德": [
    "dé",
@@ -41291,7 +41291,7 @@
   ],
   "必": [
    "bì",
-   "must / surely"
+   "must · surely"
   ],
   "忌": [
    "jì",
@@ -41303,7 +41303,7 @@
   ],
   "志": [
    "zhì",
-   "will / ambition (3)"
+   "will · ambition"
   ],
   "忠": [
    "zhōng",
@@ -41311,11 +41311,11 @@
   ],
   "怒": [
    "nù",
-   "rage / anger"
+   "rage · anger"
   ],
   "怨": [
    "yuàn",
-   "grudge / resentment (63)"
+   "grudge · resentment"
   ],
   "恃": [
    "shì",
@@ -41351,7 +41351,7 @@
   ],
   "悶": [
    "mèn",
-   "dull / undiscerning (58)"
+   "dull · undiscerning"
   ],
   "惑": [
    "huò",
@@ -41367,15 +41367,15 @@
   ],
   "惡": [
    "è",
-   "loathe, hate / ugly, bad / recoil from"
+   "loathe, hate · ugly, bad · recoil from"
   ],
   "愈": [
    "yù",
-   "the more / more still (81)"
+   "the more · more still"
   ],
   "愚": [
    "yú",
-   "fool, foolish / guileless (65)"
+   "fool, foolish · guileless"
   ],
   "愛": [
    "Ài",
@@ -41419,7 +41419,7 @@
   ],
   "成": [
    "chéng",
-   "complete / be done / accomplish"
+   "complete · be done · accomplish"
   ],
   "我": [
    "Wǒ",
@@ -41427,11 +41427,11 @@
   ],
   "或": [
    "huò",
-   "some / sometimes / perhaps"
+   "some · sometimes · perhaps"
   ],
   "戰": [
    "zhàn",
-   "battle / fight"
+   "battle · fight"
   ],
   "戶": [
    "hù",
@@ -41439,7 +41439,7 @@
   ],
   "所": [
    "suǒ",
-   "what / where / that which (before a verb)"
+   "what · where · that which (before a verb)"
   ],
   "手": [
    "shǒu",
@@ -41451,7 +41451,7 @@
   ],
   "扔": [
    "rēng",
-   "drag / haul"
+   "drag · haul"
   ],
   "抑": [
    "yì",
@@ -41471,7 +41471,7 @@
   ],
   "抱": [
    "bào",
-   "embrace / arms' span (64)"
+   "embrace · arms' span"
   ],
   "拔": [
    "bá",
@@ -41511,7 +41511,7 @@
   ],
   "損": [
    "sǔn",
-   "decrease / take from, draw off (77)"
+   "decrease · take from, draw off"
   ],
   "搏": [
    "Bó",
@@ -41551,11 +41551,11 @@
   ],
   "故": [
    "Gù",
-   "therefore / so"
+   "therefore · so"
   ],
   "救": [
    "jiù",
-   "rescue / save (52)"
+   "rescue · save"
   ],
   "敗": [
    "bài",
@@ -41563,7 +41563,7 @@
   ],
   "教": [
    "jiào",
-   "teaching / to teach"
+   "teaching · to teach"
   ],
   "敝": [
    "Bì",
@@ -41571,7 +41571,7 @@
   ],
   "敢": [
    "gǎn",
-   "push / venture — the forward press to take"
+   "push · venture — the forward press to take"
   ],
   "散": [
    "sàn",
@@ -41587,7 +41587,7 @@
   ],
   "數": [
    "shù",
-   "count / reckoning"
+   "count · reckoning"
   ],
   "文": [
    "wén",
@@ -41599,15 +41599,15 @@
   ],
   "斫": [
    "zhuó",
-   "carve / hew"
+   "carve · hew"
   ],
   "斯": [
    "sī",
-   "then / thereupon"
+   "then · thereupon"
   ],
   "新": [
    "xīn",
-   "new / renewed (22)"
+   "new · renewed"
   ],
   "方": [
    "fāng",
@@ -41615,7 +41615,7 @@
   ],
   "於": [
    "yú",
-   "at / in / to / than"
+   "at · in · to · than"
   ],
   "施": [
    "shī",
@@ -41623,7 +41623,7 @@
   ],
   "既": [
    "jì",
-   "already / once / used up (35)"
+   "already · once · used up"
   ],
   "日": [
    "rì",
@@ -41635,7 +41635,7 @@
   ],
   "明": [
    "Míng",
-   "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
+   "clear-seeing · clarity — *see clearly* in predicate position, *clear* as a modifier"
   ],
   "昏": [
    "hūn",
@@ -41643,7 +41643,7 @@
   ],
   "易": [
    "yì",
-   "easy / take the place of (78)"
+   "easy · take the place of"
   ],
   "昔": [
    "Xī",
@@ -41663,7 +41663,7 @@
   ],
   "是": [
    "Shì",
-   "this / (是以) therefore / (是謂) this is called"
+   "this · (是以) therefore · (是謂) this is called"
   ],
   "時": [
    "shí",
@@ -41679,7 +41679,7 @@
   ],
   "智": [
    "zhì",
-   "cleverness / intelligence / guile (65)"
+   "cleverness · intelligence · guile"
   ],
   "曠": [
    "Kuàng",
@@ -41687,11 +41687,11 @@
   ],
   "曰": [
    "yuē",
-   "is called / says"
+   "is called · says"
   ],
   "曲": [
    "Qū",
-   "bend / bent"
+   "bend · bent"
   ],
   "月": [
    "yuè",
@@ -41703,7 +41703,7 @@
   ],
   "服": [
    "Fú",
-   "clothes, wear / accept (早服, 59)"
+   "clothes, wear · accept (早服)"
   ],
   "朘": [
    "zuī",
@@ -41711,7 +41711,7 @@
   ],
   "望": [
    "wàng",
-   "within sight of / look across at"
+   "within sight of · look across at"
   ],
   "朝": [
    "zhāo",
@@ -41783,11 +41783,11 @@
   ],
   "榮": [
    "róng",
-   "glory / glorious (26)"
+   "glory · glorious"
   ],
   "槁": [
    "gǎo",
-   "dry / dried out"
+   "dry · dried out"
   ],
   "樂": [
    "lè",
@@ -41795,7 +41795,7 @@
   ],
   "樸": [
    "pǔ",
-   "uncarved wood / the uncarved"
+   "uncarved wood · the uncarved"
   ],
   "橐": [
    "tuó",
@@ -41811,7 +41811,7 @@
   ],
   "欲": [
    "yù",
-   "desire / want, wish / would (29, 36)"
+   "desire · want, wish · would"
   ],
   "歇": [
    "xiē",
@@ -41823,7 +41823,7 @@
   ],
   "歙": [
    "xì",
-   "draw in / breathe gently (歙歙, 49)"
+   "draw in · breathe gently (歙歙)"
   ],
   "止": [
    "zhǐ",
@@ -41831,11 +41831,11 @@
   ],
   "正": [
    "zhèng",
-   "set right / upright / norm (58)"
+   "set right · upright · norm"
   ],
   "此": [
    "Cǐ",
-   "this / here"
+   "this · here"
   ],
   "武": [
    "wǔ",
@@ -41851,7 +41851,7 @@
   ],
   "死": [
    "sǐ",
-   "death / die"
+   "death · die"
   ],
   "殃": [
    "yāng",
@@ -41871,7 +41871,7 @@
   ],
   "毒": [
    "dú",
-   "venomous / mature (51)"
+   "venomous · mature"
   ],
   "比": [
    "bǐ",
@@ -41895,7 +41895,7 @@
   ],
   "求": [
    "qiú",
-   "seek / want (75)"
+   "seek · want"
   ],
   "汎": [
    "fàn",
@@ -41923,7 +41923,7 @@
   ],
   "況": [
    "kuàng",
-   "how much more / let alone"
+   "how much more · let alone"
   ],
   "泊": [
    "bó",
@@ -41943,7 +41943,7 @@
   ],
   "泮": [
    "pàn",
-   "shatter / melt apart"
+   "shatter · melt apart"
   ],
   "泰": [
    "tài",
@@ -41951,7 +41951,7 @@
   ],
   "活": [
    "huó",
-   "stay alive / live"
+   "stay alive · live"
   ],
   "流": [
    "liú",
@@ -41967,7 +41967,7 @@
   ],
   "淡": [
    "dàn",
-   "bland / detachment (恬淡, 31)"
+   "bland · detachment (恬淡)"
   ],
   "深": [
    "Shēn",
@@ -42039,7 +42039,7 @@
   ],
   "為": [
    "wéi",
-   "do / handle / serve as"
+   "do · handle · serve as"
   ],
   "烹": [
    "pēng",
@@ -42047,7 +42047,7 @@
   ],
   "焉": [
    "yān",
-   "there / to it / (closes a statement)"
+   "there · to it · (closes a statement)"
   ],
   "無": [
    "Wú",
@@ -42055,7 +42055,7 @@
   ],
   "然": [
    "rán",
-   "so / thus / (然後) only then"
+   "so · thus · (然後) only then"
   ],
   "熙": [
    "xī",
@@ -42079,7 +42079,7 @@
   ],
   "爭": [
    "zhēng",
-   "contend / contention"
+   "contend · contention"
   ],
   "父": [
    "fù",
@@ -42111,7 +42111,7 @@
   ],
   "物": [
    "wù",
-   "things / something"
+   "things · something"
   ],
   "犬": [
    "quǎn",
@@ -42127,7 +42127,7 @@
   ],
   "狎": [
    "xiá",
-   "crowd / hem in"
+   "crowd · hem in"
   ],
   "狗": [
    "gǒu",
@@ -42139,7 +42139,7 @@
   ],
   "猶": [
    "yóu",
-   "like / still, even so / hesitant (15)"
+   "like · still, even so · hesitant"
   ],
   "獨": [
    "dú",
@@ -42163,7 +42163,7 @@
   ],
   "王": [
    "wáng",
-   "ruler / sovereign · to rule (verb)"
+   "ruler · sovereign · to rule (verb)"
   ],
   "珞": [
    "Luò",
@@ -42187,11 +42187,11 @@
   ],
   "甚": [
    "shèn",
-   "very / excess (29) / extreme (44)"
+   "very · excess · extreme"
   ],
   "生": [
    "shēng",
-   "give birth to / bear / bring forth"
+   "give birth to · bear · bring forth"
   ],
   "用": [
    "yòng",
@@ -42231,7 +42231,7 @@
   ],
   "疏": [
    "shū",
-   "hold off / wide-meshed (73)"
+   "hold off · wide-meshed"
   ],
   "疒": [
    "nè",
@@ -42243,7 +42243,7 @@
   ],
   "病": [
    "bìng",
-   "sick, sickness / be sick of / harm (44)"
+   "sick, sickness · be sick of · harm"
   ],
   "登": [
    "dēng",
@@ -42251,7 +42251,7 @@
   ],
   "發": [
    "fā",
-   "burst (39) / break out (12)"
+   "burst · break out"
   ],
   "白": [
    "bái",
@@ -42271,11 +42271,11 @@
   ],
   "盈": [
    "yíng",
-   "full / fill"
+   "full · fill"
   ],
   "益": [
    "yì",
-   "increase / benefit (43)"
+   "increase · benefit"
   ],
   "盜": [
    "dào",
@@ -42295,7 +42295,7 @@
   ],
   "相": [
    "xiāng",
-   "each other / together (32)"
+   "each other · together"
   ],
   "真": [
    "zhēn",
@@ -42303,11 +42303,11 @@
   ],
   "眾": [
    "zhòng",
-   "the crowd / the many"
+   "the crowd · the many"
   ],
   "矜": [
    "jīn",
-   "boast / pride oneself (自矜)"
+   "boast · pride oneself (自矜)"
   ],
   "矢": [
    "shǐ",
@@ -42319,7 +42319,7 @@
   ],
   "知": [
    "zhī",
-   "know / knowing / knowledge (53)"
+   "know · knowing · knowledge"
   ],
   "短": [
    "duǎn",
@@ -42343,7 +42343,7 @@
   ],
   "神": [
    "shén",
-   "spirit / potency (60)"
+   "spirit · potency"
   ],
   "祥": [
    "xiáng",
@@ -42359,11 +42359,11 @@
   ],
   "福": [
    "fú",
-   "fortune / good fortune (65)"
+   "fortune · good fortune"
   ],
   "禮": [
    "lǐ",
-   "ritual / rites (31)"
+   "ritual · rites"
   ],
   "禾": [
    "hé",
@@ -42371,7 +42371,7 @@
   ],
   "私": [
    "sī",
-   "the private / the private self"
+   "the private · the private self"
   ],
   "稅": [
    "shuì",
@@ -42395,7 +42395,7 @@
   ],
   "積": [
    "jī",
-   "accumulate / hoard (81)"
+   "accumulate · hoard"
   ],
   "窈": [
    "Yǎo",
@@ -42407,11 +42407,11 @@
   ],
   "窮": [
    "qióng",
-   "run out / dead end (5)"
+   "run out · dead end"
   ],
   "立": [
    "lì",
-   "stand / raise up (62)"
+   "stand · raise up"
   ],
   "竭": [
    "jié",
@@ -42451,7 +42451,7 @@
   ],
   "精": [
    "jīng",
-   "vital essence / essence"
+   "vital essence · essence"
   ],
   "糞": [
    "fèn",
@@ -42483,7 +42483,7 @@
   ],
   "累": [
    "lěi",
-   "heap / pile up"
+   "heap · pile up"
   ],
   "細": [
    "xì",
@@ -42515,11 +42515,11 @@
   ],
   "繟": [
    "Chǎn",
-   "unhurried / slack"
+   "unhurried · slack"
   ],
   "繩": [
    "Shéng",
-   "cord / rope (27) / continuous (繩繩, 14)"
+   "cord · rope · continuous (繩繩)"
   ],
   "纇": [
    "lèi",
@@ -42531,7 +42531,7 @@
   ],
   "缺": [
    "quē",
-   "deficient / cunning (缺缺, 58)"
+   "deficient · cunning (缺缺)"
   ],
   "网": [
    "wǎng",
@@ -42571,11 +42571,11 @@
   ],
   "者": [
    "zhě",
-   "the one who / that which / (marks a topic)"
+   "the one who · that which · (marks a topic)"
   ],
   "而": [
    "ér",
-   "and / and yet / but"
+   "and · and yet · but"
   ],
   "耳": [
    "ěr",
@@ -42583,7 +42583,7 @@
   ],
   "聖": [
    "shèng",
-   "the sage · sagehood (聖 alone, ch 19)"
+   "the sage · sagehood (聖 alone)"
   ],
   "聞": [
    "wén",
@@ -42591,7 +42591,7 @@
   ],
   "聲": [
    "shēng",
-   "sound / tone (2)"
+   "sound · tone"
   ],
   "聽": [
    "Tīng",
@@ -42611,7 +42611,7 @@
   ],
   "肖": [
    "xiào",
-   "look like / resemble"
+   "look like · resemble"
   ],
   "育": [
    "yù",
@@ -42627,7 +42627,7 @@
   ],
   "脫": [
    "tuō",
-   "slip away / leave (36)"
+   "slip away · leave"
   ],
   "腹": [
    "fù",
@@ -42639,19 +42639,19 @@
   ],
   "臣": [
    "chén",
-   "minister / bring under (32)"
+   "minister · bring under"
   ],
   "自": [
    "zì",
-   "oneself, themselves / of itself / from (21)"
+   "oneself, themselves · of itself · from"
   ],
   "至": [
    "zhì",
-   "reach / utmost, most / come (72)"
+   "reach · utmost, most · come"
   ],
   "致": [
    "zhì",
-   "bring to / reach / follow through (39)"
+   "bring to · reach · follow through"
   ],
   "臺": [
    "tái",
@@ -42663,7 +42663,7 @@
   ],
   "與": [
    "yǔ",
-   "and / with / to give / (closes a question, 77)"
+   "and · with · to give · (closes a question)"
   ],
   "興": [
    "xīng",
@@ -42695,7 +42695,7 @@
   ],
   "若": [
    "ruò",
-   "like / as if / seems / if"
+   "like · as if · seems · if"
   ],
   "草": [
    "cǎo",
@@ -42715,7 +42715,7 @@
   ],
   "莫": [
    "mò",
-   "none / no one / nothing"
+   "none · no one · nothing"
   ],
   "華": [
    "huá",
@@ -42739,7 +42739,7 @@
   ],
   "薄": [
    "bó",
-   "thin / thinning"
+   "thin · thinning"
   ],
   "藏": [
    "cáng",
@@ -42751,7 +42751,7 @@
   ],
   "處": [
    "chǔ",
-   "dwell / be placed / stand, stay"
+   "dwell · be placed · stand, stay"
   ],
   "虛": [
    "xū",
@@ -42779,7 +42779,7 @@
   ],
   "行": [
    "xíng",
-   "go / carry out / conduct"
+   "go · carry out · conduct"
   ],
   "衛": [
    "wèi",
@@ -42791,7 +42791,7 @@
   ],
   "被": [
    "pèi",
-   "wear / be touched by (50)"
+   "wear · be touched by"
   ],
   "裂": [
    "liè",
@@ -42799,7 +42799,7 @@
   ],
   "補": [
    "bǔ",
-   "fill in / mend"
+   "fill in · mend"
   ],
   "褐": [
    "hè",
@@ -42819,7 +42819,7 @@
   ],
   "見": [
    "jiàn",
-   "see / show, display / appear (77)"
+   "see · show, display · appear"
   ],
   "視": [
    "Shì",
@@ -42827,7 +42827,7 @@
   ],
   "親": [
    "qīn",
-   "dear, draw near / kin (18) / favorites (79)"
+   "dear, draw near · kin · favorites"
   ],
   "覽": [
    "lǎn",
@@ -42835,7 +42835,7 @@
   ],
   "觀": [
    "guān",
-   "observe / sight (26)"
+   "observe · sight"
   ],
   "角": [
    "jiǎo",
@@ -42847,7 +42847,7 @@
   ],
   "言": [
    "yán",
-   "words / speak, speech / saying"
+   "words · speak, speech · saying"
   ],
   "計": [
    "jì",
@@ -42863,7 +42863,7 @@
   ],
   "詰": [
    "jié",
-   "probe / question closely"
+   "probe · question closely"
   ],
   "誠": [
    "Chéng",
@@ -42871,7 +42871,7 @@
   ],
   "誰": [
    "shuí",
-   "who / whose"
+   "who · whose"
   ],
   "諱": [
    "huì",
@@ -42895,7 +42895,7 @@
   ],
   "識": [
    "shí",
-   "read, make out / know (前識, 38)"
+   "read, make out · know (前識)"
   ],
   "譬": [
    "Pì",
@@ -42923,7 +42923,7 @@
   ],
   "象": [
    "xiàng",
-   "image / seem, resemble (4)"
+   "image · seem, resemble"
   ],
   "豫": [
    "Yù",
@@ -42955,11 +42955,11 @@
   ],
   "責": [
    "zé",
-   "ask for / exact payment"
+   "ask for · exact payment"
   ],
   "貴": [
    "guì",
-   "prize, value / honor, honored / status (9)"
+   "prize, value · honor, honored · status"
   ],
   "貸": [
    "dài",
@@ -42983,11 +42983,11 @@
   ],
   "賢": [
    "xián",
-   "exceptional / worthier (75)"
+   "exceptional · worthier"
   ],
   "賤": [
    "jiàn",
-   "cheap / debase (56)"
+   "cheap · debase"
   ],
   "質": [
    "zhì",
@@ -43007,7 +43007,7 @@
   ],
   "起": [
    "qǐ",
-   "rise / appear (57)"
+   "rise · appear"
   ],
   "超": [
    "chāo",
@@ -43015,7 +43015,7 @@
   ],
   "足": [
    "zú",
-   "enough / foot (64)"
+   "enough · foot"
   ],
   "跡": [
    "jì",
@@ -43055,7 +43055,7 @@
   ],
   "輕": [
    "qīng",
-   "light / make light of / lightly (63)"
+   "light · make light of · lightly"
   ],
   "輜": [
    "zī",
@@ -43087,11 +43087,11 @@
   ],
   "辯": [
    "biàn",
-   "argue / argument (45)"
+   "argue · argument"
   ],
   "辱": [
    "rǔ",
-   "disgrace / soiled (41)"
+   "disgrace · soiled"
   ],
   "辵": [
    "chuò",
@@ -43119,7 +43119,7 @@
   ],
   "進": [
    "jìn",
-   "advance / offer (62)"
+   "advance · offer"
   ],
   "遂": [
    "suì",
@@ -43131,11 +43131,11 @@
   ],
   "過": [
    "guò",
-   "no more than (不過) / pass / go too far (64)"
+   "no more than (不過) · pass · go too far"
   ],
   "道": [
    "Dào",
-   "the Tao / way"
+   "the Tao · way"
   ],
   "達": [
    "dá",
@@ -43183,7 +43183,7 @@
   ],
   "配": [
    "pèi",
-   "partnered with / pair with"
+   "partnered with · pair with"
   ],
   "釋": [
    "shì",
@@ -43215,11 +43215,11 @@
   ],
   "長": [
    "cháng",
-   "long, lasting / grow (10, 51) / chief"
+   "long, lasting · grow · chief"
   ],
   "門": [
    "mén",
-   "gate / door"
+   "gate · door"
   ],
   "閉": [
    "bì",
@@ -43227,11 +43227,11 @@
   ],
   "開": [
    "kāi",
-   "open / breach (27)"
+   "open · breach"
   ],
   "間": [
    "jiān",
-   "space between / gap, seam (43)"
+   "space between · gap, seam"
   ],
   "閱": [
    "yuè",
@@ -43267,7 +43267,7 @@
   ],
   "陳": [
    "chén",
-   "march out / set in array"
+   "march out · set in array"
   ],
   "陸": [
    "Lù",
@@ -43311,7 +43311,7 @@
   ],
   "雖": [
    "Suī",
-   "although / even if"
+   "although · even if"
   ],
   "雞": [
    "jī",
@@ -43319,7 +43319,7 @@
   ],
   "離": [
    "lí",
-   "leave / part (10)"
+   "leave · part"
   ],
   "難": [
    "nán",
@@ -43343,11 +43343,11 @@
   ],
   "靜": [
    "jìng",
-   "stillness / still / to still (15)"
+   "stillness · still · to still"
   ],
   "非": [
    "fēi",
-   "is not / not / is it not?"
+   "is not · not · is it not?"
   ],
   "音": [
    "yīn",
@@ -43379,11 +43379,11 @@
   ],
   "食": [
    "shí",
-   "food / feed (20) / eat up (75)"
+   "food · feed · eat up"
   ],
   "飢": [
    "jī",
-   "go hungry / hunger"
+   "go hungry · hunger"
   ],
   "飲": [
    "yǐn",
@@ -43395,7 +43395,7 @@
   ],
   "餌": [
    "ěr",
-   "food / delicacies"
+   "food · delicacies"
   ],
   "餘": [
    "yú",
@@ -43423,7 +43423,7 @@
   ],
   "驕": [
    "jiāo",
-   "arrogant / arrogance"
+   "arrogant · arrogance"
   ],
   "驚": [
    "jīng",

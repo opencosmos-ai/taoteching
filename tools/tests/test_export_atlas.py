@@ -137,3 +137,21 @@ class ReaderKeys(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CardEnglish(unittest.TestCase):
+    """A character's English as a reader sees it: senses separated by " · ",
+    no chapter numbers, compounds and grammar notes kept."""
+
+    def test_senses_take_the_middot(self):
+        self.assertEqual(export_atlas.card_english("few / sparse / the inaudible (14)"),
+                         "few · sparse · the inaudible")
+
+    def test_chapter_numbers_go_and_the_rest_of_a_note_stays(self):
+        c = export_atlas.card_english
+        self.assertEqual(c("would (29, 36)"), "would")
+        self.assertEqual(c("sagehood (聖 alone, ch 19)"), "sagehood (聖 alone)")
+        self.assertEqual(c("preside over (司殺者, 74)"), "preside over (司殺者)")
+        self.assertEqual(c("can be (可 + verb) / cannot (不可)"), "can be (可 + verb) · cannot (不可)")
+        self.assertEqual(c("(closes a question) / (an exclamation)"),
+                         "(closes a question) · (an exclamation)")

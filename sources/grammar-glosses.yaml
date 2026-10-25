@@ -11,7 +11,9 @@
 #
 # WHAT A GLOSS HERE IS. A short list of the jobs the word does IN THIS BOOK,
 # slash-separated, most frequent first, written by reading every line it stands
-# in. A sense the book uses once is given its chapter in parentheses. Glosses in
+# in. A sense the book uses once is given its chapter in parentheses. A reader
+# sees the senses separated by " · " and without the chapter numbers
+# (tools/export_atlas.py, card_english). Glosses in
 # parentheses describe a job English has no word for (a sentence-final
 # particle). It is not a dictionary definition and not a lock: nothing here is
 # enforced, and a word that one day earns an entry leaves this file.

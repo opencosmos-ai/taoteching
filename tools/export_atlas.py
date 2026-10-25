@@ -38,7 +38,9 @@ reads none of these keys.
 
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
-body, verbatim. Edit an entry, rebuild, and the atlas changes. CI gates the
+body, verbatim. One thing is shaped for display: each character's English
+(`g`, `r`, and the parts' glosses in `glyphs`) separates its senses with " · "
+and drops chapter numbers, which the sources keep (`card_english`). Edit an entry, rebuild, and the atlas changes. CI gates the
 file like the rest of `data/`, so a stale export cannot be merged.
 """
 
@@ -160,6 +162,23 @@ def reader(conn, chapters=None):
     return {"verse": verse, "notes": notes, "literal": literal, "align": align}
 
 
+# A chapter reference inside parentheses: "14", "29, 36", "ch 19".
+_CH_REF = re.compile(r"(?:ch\.?\s*)?\d+(?:\s*[-–]\s*\d+)?")
+
+
+def card_english(s):
+    """A character's English as a reader sees it: senses separated by " · ",
+    with no chapter numbers. The sources keep both their slashes and their
+    chapter references, which tell an editor where each sense stands; the line
+    list beside the gloss already shows a reader that."""
+    def paren(m):
+        kept = [p.strip() for p in m.group(1).split(",")
+                if p.strip() and not _CH_REF.fullmatch(p.strip())]
+        return f" ({', '.join(kept)})" if kept else ""
+    s = re.sub(r"\s*\(([^()]*)\)", paren, s or "")
+    return s.replace(" / ", " · ").strip()
+
+
 def main():
     if not DB_PATH.exists():
         print("  no database — run: python3 tools/build_db.py")
@@ -178,6 +197,12 @@ def main():
             member.setdefault(c, []).append(e["slug"])
     for c in data["chars"]:
         c["entries"] = sorted(member.get(c["c"], []))
+        for k in ("g", "r"):
+            if c.get(k):
+                c[k] = card_english(c[k])
+    for g, v in data["glyphs"].items():
+        if v[1]:
+            v[1] = card_english(v[1])
     TEXT["witness"]["carries"] = sum(1 for ch in data["chapters"].values() if ch[3])
 
     out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents}
