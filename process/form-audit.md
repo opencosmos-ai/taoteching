@@ -230,6 +230,8 @@
 4. Bring each *lost* to Shalom, one at a time, with a recommendation. Record what he decides: a fix goes in the chapter and `notes/translation.md`, and a departure gets its reason here.
 5. Fill in the chapter's row below.
 
+**Where the losses are tracked.** Every *lost* verdict from the seed scan has a row in `WORKLIST.md`: T3-8 → T3-14, with ch 6's doubling at T2-67 and ch 58's chain under T4-2. A ruling there updates the verdict here.
+
 **The ledger.** *Devices noted* comes from the seed scan and is a starting point, not a reading. A chapter is **read** only once someone has worked through steps 1–5.
 
 | Ch | Devices noted | Read | Open |
