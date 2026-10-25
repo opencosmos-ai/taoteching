@@ -155,3 +155,18 @@ class CardEnglish(unittest.TestCase):
         self.assertEqual(c("can be (可 + verb) / cannot (不可)"), "can be (可 + verb) · cannot (不可)")
         self.assertEqual(c("(closes a question) / (an exclamation)"),
                          "(closes a question) · (an exclamation)")
+
+    def test_slashes_without_spaces_and_capitals_from_the_tables(self):
+        c = export_atlas.card_english
+        self.assertEqual(c("System/Administrator"), "system · administrator")
+        self.assertEqual(c("the Tao / way"), "the Tao · way")
+
+
+class EntryCard(unittest.TestCase):
+    def test_a_card_field_is_shown_as_written(self):
+        e = {"card": "the people", "render": "the people", "flexions": [{"english": "people"}]}
+        self.assertEqual(export_atlas.entry_card(e), "the people")
+
+    def test_without_one_the_ruling_is_followed_by_its_flexions(self):
+        e = {"card": "", "render": "strain", "flexions": [{"english": "labor"}]}
+        self.assertEqual(export_atlas.entry_card(e), "strain · labor")

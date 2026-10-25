@@ -2,6 +2,7 @@
 term: "明"
 pinyin: "míng"
 render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
+card: "clear-seeing · clarity · clear · clever"
 flexions:
   - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 forbidden: ["enlightenment", "illumination", "brilliance"]

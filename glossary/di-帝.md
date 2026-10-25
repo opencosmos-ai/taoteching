@@ -2,6 +2,7 @@
 term: "帝"
 pinyin: "dì"
 render: "god — *any god* at its one occurrence"
+card: "god"
 forbidden: ["God", "the Lord", "Creator", "heaven", "emperor", "the high god"]
 chapters: [4]
 status: locked

@@ -2,6 +2,7 @@
 term: "天"
 pinyin: "tiān"
 render: "sky (as a tier) · nature / the natural (as an agent)"
+card: "sky · nature"
 forbidden: ["Heaven", "Providence", "the Almighty", "the Cosmos"]
 chapters: []
 status: locked

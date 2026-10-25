@@ -2,6 +2,7 @@
 term: "身"
 pinyin: "shēn"
 render: "body"
+card: "body"
 flexions:
   - { english: "to the end of your days", chapters: [16, 52], why: "the lifespan compounds 終身 and 没身, where 身 marks the span of a life" }
 forbidden: ["spirit", "soul", "the ego", "the separate self"]

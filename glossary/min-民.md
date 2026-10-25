@@ -2,6 +2,7 @@
 term: "民"
 pinyin: "mín"
 render: "the people"
+card: "the people"
 flexions:
   - { english: "people", chapters: [64], why: "the one 民 with no ruler in the line, and the oldest witness reads 人 there" }
 forbidden: ["the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed"]

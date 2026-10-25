@@ -2,6 +2,7 @@
 term: "事"
 pinyin: "shì"
 render: "affairs / undertakings (noun) · to serve, to attend to (verb)"
+card: "affairs · undertakings · to serve · to attend to"
 forbidden: ["techniques", "processes"]
 chapters: [2, 8, 17, 23, 30, 31, 48, 52, 57, 59, 61, 63, 64, 70]
 status: locked

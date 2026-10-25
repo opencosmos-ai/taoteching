@@ -40,7 +40,9 @@ reads none of these keys.
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. One thing is shaped for display: each character's English
 (`g`, `r`, and the parts' glosses in `glyphs`) separates its senses with " · "
-and drops chapter numbers, which the sources keep (`card_english`). Edit an entry, rebuild, and the atlas changes. CI gates the
+and drops chapter numbers, which the sources keep (`card_english`). A character
+with its own entry shows the entry's `card:`, or its ruling and flexions
+(`entry_card`). Edit an entry, rebuild, and the atlas changes. CI gates the
 file like the rest of `data/`, so a stale export cannot be merged.
 """
 
@@ -96,6 +98,7 @@ def entries():
             "chars": [c for c in term if "㐀" <= c <= "鿿"],
             "pinyin": fm.get("pinyin", ""),
             "render": fm.get("render", ""),
+            "card": fm.get("card", ""),
             "status": fm.get("status", ""),
             "forbidden": fm.get("forbidden") or [],
             "flexions": fm.get("flexions") or [],
@@ -176,7 +179,24 @@ def card_english(s):
                 if p.strip() and not _CH_REF.fullmatch(p.strip())]
         return f" ({', '.join(kept)})" if kept else ""
     s = re.sub(r"\s*\(([^()]*)\)", paren, s or "")
-    return s.replace(" / ", " · ").strip()
+    s = re.sub(r"\s*/\s*", " · ", s).strip()
+    # The source tables' literals capitalize ("Many/much"); a gloss is a
+    # dictionary word. The Tao keeps its capital.
+    return " · ".join(p if p.startswith("Tao") else p[:1].lower() + p[1:]
+                      for p in s.split(" · "))
+
+
+def entry_card(e):
+    """What a card shows for an entry's own character: the entry's `card:`
+    where it has one, which is written to be read at a glance, and otherwise
+    the ruling followed by its chapter-scoped flexions (勤: "strain · labor")."""
+    if e.get("card"):
+        return e["card"]
+    out = []
+    for g in [card_english(e["render"])] + [card_english(f["english"]) for f in e["flexions"]]:
+        if g and g not in out:
+            out.append(g)
+    return " · ".join(out)
 
 
 def main():
@@ -195,8 +215,12 @@ def main():
     for e in ents:
         for c in set(e["chars"]) | set(e["covers"]):
             member.setdefault(c, []).append(e["slug"])
+    own = {e["term"]: e for e in ents if len(e["term"]) == 1}
     for c in data["chars"]:
         c["entries"] = sorted(member.get(c["c"], []))
+        if c["c"] in own and c.get("g"):
+            c["g"] = c["r"] = entry_card(own[c["c"]])
+            continue
         for k in ("g", "r"):
             if c.get(k):
                 c[k] = card_english(c[k])

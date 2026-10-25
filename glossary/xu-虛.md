@@ -2,6 +2,7 @@
 term: "虛"
 pinyin: "xū"
 render: "empty (adjective) · to empty (verb)"
+card: "empty · to empty"
 forbidden: ["emptiness", "the void", "vacuity", "nothingness"]
 chapters: [3, 5, 16, 22, 53]
 status: open

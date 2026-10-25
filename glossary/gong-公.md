@@ -2,6 +2,7 @@
 term: "公"
 pinyin: "gōng"
 render: "impartiality / impartial (the quality) · lord / minister (the office)"
+card: "impartiality · impartial · lord · minister"
 forbidden: ["duke", "equanimity", "justice"]
 chapters: [16, 42, 62]
 status: locked

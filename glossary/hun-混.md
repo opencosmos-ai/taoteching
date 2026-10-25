@@ -2,6 +2,7 @@
 term: "混"
 pinyin: "hùn"
 render: "mixed (adjective) · to mix (verb)"
+card: "mixed · to mix"
 forbidden: ["chaos", "chaotic", "undifferentiated", "blend", "merge"]
 chapters: [14, 15, 25]
 status: locked
