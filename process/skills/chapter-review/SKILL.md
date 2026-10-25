@@ -117,7 +117,7 @@ Then **offer clay**: a full rendering he can accept, reject, or reshape. His poe
 - **The sage is never "he."** Singular *they/their*, or recast. Applies to every archetypal figure.
 - **Universality over the incidental male-default.** Where the text's exaltation of the feminine collides with its assumption of the male as cultural default: render toward the universal, **note the seam**. Never erase the male-centrism silently.
 - **No em-dashes in the verse.** They read as a machine tell, and they **strand subjects** — classical Chinese omits them freely, English cannot, and a dash disguises the gap instead of closing it. Name the subject and end the sentence.
-- **Let the layout track the original's rhythm.** The marks are ours; the music is the source's. Stay consistent within any parallel series.
+- **Let the layout track the original's rhythm.** The marks are ours; the music is the source's. Stay consistent within any parallel series. **Check the chapter against [`process/form-audit.md`](../../form-audit.md)**: name the devices its Chinese uses (a chain, a series, a couplet, a rhyme, a formula), and where the English departs from one, log the departure there with its reason.
 - **Two trailing spaces on every verse line.** Markdown collapses a single newline into a space.
 
 ---

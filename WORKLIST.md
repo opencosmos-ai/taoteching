@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **64 item rows: 56 open · 0 done · 6 part done · 2 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **65 item rows: 57 open · 0 done · 6 part done · 2 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -81,6 +81,7 @@
 | | | **Research** | | |
 | R2 | ⬜ | **義 (*yì* — duty) wants a glossary entry** — reads *duty* in all 5 lines, unlocked, and the source-table literals still say *righteousness* at 18, 19 and 38 | 18 19 38 | E |
 | R3 | ⬜ | ★ **Read the ten recovered 王弼 (*Wáng Bì*) chapters against decisions made without him** — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78. Every one was drafted, and several reworked, with one commentary where there were two. Their lemma forks are logged; **the comments are unread.** First lead: **ch 15 prints 若容 (*ruò róng* — like a bearing) for our 若客 (*ruò kè* — like a guest)**, base kept provisionally. Ch 62 was already drafted with him (under 061) | 8 14 15 19 30 54 62 70 71 78 | E |
+| R4 | ⬜ | ★ **The form audit: read all 81 chapters for the source's music.** `process/form-audit.md` names the devices: 頂真 (*dǐng zhēn* — a chain, anadiplosis), 排比 (*pái bǐ* — a parallel series), 對偶 (*duì ǒu* — a matched couplet), 回文 (*huí wén* — a reversal, chiasmus), 疊字 (*dié zì* — doubled characters), 押韻 (*yā yùn* — rhyme), and the fixed formulas. For each chapter, record which devices its Chinese uses and whether the English keeps each one; where it does not, the departure is either a choice with its reason logged in the audit, or a loss to bring to Shalom. **Ch 6 first, two calls waiting:** its chain, 玄牝。玄牝之門 (*xuán pìn. xuán pìn zhī mén* — "the dark female. The dark female's gate"), lost its link in *"The gate of the dark female"*, and *"The dark female's gate"* restores it; and its stanza breaks, three couplets. Rhyme wants a published Old Chinese reconstruction before any claim beyond the audit's own | 6 + book-wide | E |
 | | | **Tier 4 · Open calls** | | |
 | T4-2 | ⏸ | **正 / 奇** (*zhèng / qí* — straight / crooked) — five Englishes. Owed: `glossary/zheng-正.md` | 37 45 57 58 78 | F |
 | T4-3 | ⏸ | **Em-dashes in the verse** — `check_locks.py --rule em-dash` lists every one. Ch 44's three are good. Ch 10 and 51 share one en-dash on the same line (長而不宰, *zhǎng ér bù zǎi* — "grows them and does not rule them") and move together | 10 14 43 44 51 53 55 58 | F |

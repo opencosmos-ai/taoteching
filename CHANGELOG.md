@@ -33,6 +33,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-25 — The form audit opens
+
+Ch 6's line breaks raised a question no file answered: the Chinese chains *"the dark female"* from one line into the next, and our English had kept the words and lost the link. The book's form had rules (`lineation-is-ours`, `repeat-yourself`) but no record of how the English meets them.
+
+- **[`process/form-audit.md`](process/form-audit.md)**: why fidelity includes form, and why every departure from one must be a choice. It names ten devices, including 頂真 (*dǐng zhēn* — the chain, anadiplosis), 排比 (*pái bǐ* — the series), 回文 (*huí wén* — the reversal) and 押韻 (*yā yùn* — rhyme), with examples from a seed scan. It also sets out our logic for stanza breaks, writes ch 6 as the first entry, and opens an 81-chapter ledger.
+- **The seed scan's losses**, each awaiting a verdict: ch 37's chain, ch 64's 為 (*wéi* — do) antithesis, the 彰 (*zhāng* — to shine forth) mirror between 22 and 24, ch 78's two dropped 是謂 (*shì wèi* — "this is called"), and two book-wide calls, on doubled characters and on rhyme. `WORKLIST.md` R4.
+- Linked from the README, `ARCHITECTURE.md`, `CLAUDE.md`, `AGENTS.md`, `chapter-review` step 6, `lineation-is-ours`, and `DISCOVERIES.md` §6, whose finding it extends.
+
 ## 2026-10-25 — 谷 (gǔ — valley) is locked, and the silks' valley is recorded
 
 The valley is one of the six images the book's own README names, and the hinge of its feminine chapters. Its entry reads all ten lines, and reading them meant checking the excavated witnesses, which the apparatus had not recorded for any of its seven chapters.

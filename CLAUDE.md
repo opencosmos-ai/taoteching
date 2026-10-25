@@ -216,6 +216,7 @@ process/principles/   ★ the rules learned by making decisions — one file eac
                       trigger saying when each fires. INDEX.md is generated; the skills
                       load them by `applies:` tag. Read README.md before adding one
 process/overlay-audit.md
+process/form-audit.md    the source's formal devices (chains, parallels, rhyme, formulas) and how the English carries each
 sources/PROVENANCE.md what may live in sources/, and on what authority — read before adding
 sources/variants.yaml the witness apparatus, as facts (never transcriptions)
 sources/guodian-inventory.yaml  what the oldest witness (~300 BCE) contains — an inventory, never a text
