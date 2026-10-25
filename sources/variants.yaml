@@ -1562,3 +1562,134 @@
     (難得), flavors (五味), tones (五音). Our base groups the three "five" lines
     first. No line changes, and we keep the base order.
   logged: notes/manuscript.md
+
+# The valley, 谷 (gu - valley). Recorded 2026-10-25 for glossary/gu-谷.md.
+# Mawangdui A was read in the edited transcription on Shidian guji;
+# Mawangdui B and Guodian in an online parallel-text table. Where a row rests on
+# one of those alone, its note says so. Confirm against the printed editions
+# before any of these carries a lock.
+
+- chapter: 6
+  line: "谷神不死"
+  base: "谷"
+  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Both silks write 浴 (yu - to bathe), the graph they also write for the
+    valley in chs 28, 32, 39 and 66, where rivers and seas are in the line and
+    only a valley can be meant. So the scribes heard one word in all of them.
+    That bears on Heshang Gong's 谷，養也 (gu, yang ye - "gu means to nourish"): the silks give
+    no sign of a different word here. Guodian does not carry the chapter.
+  logged: glossary/gu-谷.md
+
+- chapter: 15
+  line: "曠兮其若谷"
+  base: "曠"
+  witnesses: { mawangdui-b: "莊" }
+  meaning_bearing: true
+  our_call: undecided
+  note: >
+    Silk B reads 莊 (zhuang - grave, dignified) where our base reads 曠 (kuang -
+    wide, bright), and both silks set this simile after the muddy water (混兮其若濁,
+    hun xi qi ruo zhuo - "mixed, like muddy water"), not before it. If zhuang is
+    its own word the line is "grave, like a valley"; if it is a loan for kuang
+    nothing changes. Silk A's adjective is lost; the
+    reading rests on the parallel-text table alone.
+  logged: notes/manuscript.md
+
+- chapter: 15
+  line: "曠兮其若谷"
+  base: "谷"
+  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    The silks' usual spelling of the valley, 浴 (yu - to bathe). See ch 6.
+  logged: glossary/gu-谷.md
+
+- chapter: 28
+  line: "知其榮，守其辱，為天下谷"
+  base: "榮"
+  witnesses: { mawangdui-a: "白" }
+  meaning_bearing: true
+  our_call: undecided
+  note: >
+    Silk A reads 知其白，守其辱，為天下浴 (zhi qi bai, shou qi ru, wei tian xia yu -
+    "know the white, hold to the soiled, serve as the world's valley") and sets
+    this stanza second, between the ravine (谿 xi) and the pattern (式 shi),
+    whose own line reads 守其黑 (shou qi hei - "hold to the black") with the
+    character before it lost. Our base pairs ru (辱 - soiling, disgrace) with
+    榮 (rong - glory), a judgment of standing; the silk pairs it with 白
+    (bai - white), a mark on a surface, as ch 41's 大白若辱 (da bai ruo ru -
+    "the whitest white seems soiled") does. Silk B not
+    checked for this line.
+  logged: notes/manuscript.md
+
+- chapter: 28
+  line: "為天下谷"
+  base: "谷"
+  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    The silks' usual spelling of the valley, 浴 (yu - to bathe). See ch 6.
+  logged: glossary/gu-谷.md
+
+- chapter: 32
+  line: "猶川谷之於江海"
+  base: "川谷"
+  witnesses: { guodian: "小谷", mawangdui-b: "小浴" }
+  meaning_bearing: true
+  our_call: undecided
+  note: >
+    Guodian reads 小谷 (xiao gu - small valleys) and silk B 小浴 (xiao yu, the
+    silks' spelling of the same) where our base reads 川谷 (chuan gu - streams
+    and valleys); silk A is damaged at "small." Both commentaries have streams
+    and valleys. With "small" the line is small valleys running down to the
+    river and the sea, and the streams are gone. The excavated witnesses also
+    write 與 (yu - with) for 於 (yu - to), which changes nothing. Guodian's reading rests on the
+    parallel-text table alone.
+  logged: notes/manuscript.md
+
+- chapter: 39
+  line: "谷得一以盈"
+  base: "谷"
+  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    The silks' usual spelling of the valley, 浴 (yu - to bathe). In the second
+    valley line, 谷無以盈，將恐竭 (gu wu yi ying, jiang kong jie - "the valley with
+    no way to be full is likely to run dry"), silk A again writes 浴 (yu) and
+    silk B writes plain 谷 (gu - valley), the one place a silk does. See ch 6.
+  logged: glossary/gu-谷.md
+
+- chapter: 41
+  line: "上德若谷"
+  base: "谷"
+  witnesses: { guodian: "谷", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Guodian writes the valley plainly; silk B writes 浴 (yu - to bathe), and
+    silk A does not preserve the line. Both excavated witnesses read 如 (ru) for
+    若 (ruo), both "like / seems", which changes nothing. Rests on the parallel-text
+    table alone.
+  logged: glossary/gu-谷.md
+
+- chapter: 66
+  line: "江海所以能為百谷王者"
+  base: "谷"
+  witnesses: { guodian: "谷", mawangdui-a: "浴", mawangdui-b: "浴" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Guodian, the oldest witness, writes the valley plainly; both silks write
+    浴 (yu - to bathe). "Rivers and seas rule the hundred bathings" is not a
+    sentence, which is the plainest proof that the bathing graph spells the
+    valley. Guodian also reads 以其能為百谷下 (yi qi neng wei bai gu xia -
+    "because they can be below the hundred valleys") for our 以其善下之 (yi qi
+    shan xia zhi - "because they are masterful at being below them"), naming the valleys as what the sea is
+    below.
+  logged: glossary/gu-谷.md

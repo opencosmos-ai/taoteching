@@ -1134,7 +1134,7 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (96, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (105, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
                        "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
@@ -1145,7 +1145,9 @@ BASELINE = {
                        "89→90 ch 32 可以 / 所以, 2026-10-14 (glossary/ke-可.md) · "
                        "90→92 ch 57 人 / 民 and ch 64 民 / 人, 2026-10-14 (glossary/min-民.md) · "
                        "92→93 ch 15 混 / 渾, 河上公's spelling, 2026-10-19 (glossary/hun-混.md) · "
-                       "93→96 ch 12 之治也, 使人之行方, and the silks' line order, 2026-10-20 (glossary/xing-行.md)"),
+                       "93→96 ch 12 之治也, 使人之行方, and the silks' line order, 2026-10-20 (glossary/xing-行.md) · "
+                       "96→105 the valley's lines, 谷 / 浴 in chs 6, 15, 28, 39, 41, 66, ch 15 曠 / 莊, "
+                       "ch 28 榮 / 白, ch 32 川谷 / 小谷, 2026-10-25 (glossary/gu-谷.md)"),
     "verse_line": (857, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20 · "

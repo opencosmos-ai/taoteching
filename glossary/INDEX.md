@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**63 entries.** Sorted by how much of the book each term touches.
+**64 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -44,6 +44,7 @@ python3 tools/build_index.py
 | **柔** | *róu* | soft | "supple", "pliant", "pliable", "flexible", "gentle", "tender" | 7 | **locked** | [`rou-柔.md`](rou-柔.md) |
 | **爭** | *zhēng* | contend / contention | "compete", "competes", "competing", "competition" | 7 | **locked** | [`zheng-爭.md`](zheng-爭.md) |
 | **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 7 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
+| **谷** | *gǔ* | valley | "reservoir", "basin", "hollow", "the void", "emptiness" | 7 | open — not yet a lock · binds taoteching only | [`gu-谷.md`](gu-谷.md) |
 | **弱** | *ruò* | yielding — and *weaken* only where it takes an object | "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
@@ -100,6 +101,7 @@ python3 tools/build_index.py
 | **能** | be able | [`ke-可.md`](ke-可.md) — 可 |
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
+| **谿** | ravine | [`gu-谷.md`](gu-谷.md) — 谷 |
 
 ## Still open
 

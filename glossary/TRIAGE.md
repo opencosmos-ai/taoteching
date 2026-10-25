@@ -128,7 +128,7 @@
 | 12 | **希** (xī) — sparse | Open (row 14b above) | One sense, six Englishes; ch 23 and 70 are the same word | Entry; *rare* is spent on 貨 |
 | 13 | **貴 / 賤** (guì / jiàn) — prized / cheap | Owed (`WORKLIST.md` T2-36) | 22 lines; *precious* collides with 貨 | Entry for the pair |
 | 14 | **和** (hé) — harmony | No entry | Ch 42, 55; *dims* at 4/56 hides the character | Entry |
-| 15 | **谷** (gǔ) — valley | No entry | The feminine centre (6, 28, 66) | Entry |
+| ~~15~~ | ~~**谷** (gǔ) — valley~~ | 🔶 **WRITTEN, OPEN** → `gu-谷.md`, 2026-10-25 | The Shuowen defines the valley by its outlet, against 谿 (xī — ravine), which has none, and the graph is water half seen coming out of an opening. In 32 and 66 the river and the sea are below the valleys, so the valley is a passage, not the lowest place. The silks spell it 浴 (yù — to bathe) throughout; Guodian writes it plainly. Covers the ravine. Open: ch 6's grammar (Wang Bi's noun against Heshang Gong's "to nourish"), and three forks in its lines: ch 15's 莊 (zhuāng — grave), ch 28's 白 (bái — white) for 榮 (róng — glory), ch 32's 小谷 (xiǎo gǔ — small valleys). | — |
 | 16 | **言** (yán) — speech | No entry | 不言之教; ch 81's 信言/美言 | Entry |
 | 17 | **得** (dé) — get | Owed (`WORKLIST.md` T2-35) | 19 chapters, no entry | Entry |
 | 18 | **先** (xiān) — first | Open (row 14 above) | One of ch 67's three treasures; five Englishes | Entry |

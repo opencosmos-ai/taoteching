@@ -136,3 +136,15 @@
     locked to "mixed," and "undifferentiated" is on its forbidden list.
   see: "glossary/hun-混.md"
   allow: ["PLAN.md", "process/legacy-tao-source-code.md"]
+
+- id: ch28-stanza-order-no-witness-diverges
+  retracted: 2026-10-25
+  claim: >
+    No listed witness diverges from our base on the order of ch 28's three
+    stanzas.
+  match: ["so no listed witness diverges"]
+  correction: >
+    Mawangdui A orders them ravine, valley, pattern, against our base's
+    ravine, pattern, valley, and pairs the valley's 辱 (ru - soiling) with
+    白 (bai - white) rather than 榮 (rong - glory).
+  see: "notes/manuscript.md"

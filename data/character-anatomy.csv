@@ -90,7 +90,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 取,qǔ,take / seize (30) / win (57),,取,exact,又,compound,,又 (yòu = again / and further) + 耳 (ěr = ears),,12,,0.0748,捕取也。从又从耳。《周禮》：“獲者取左耳。”《司馬法》曰：“載獻聝。”聝者，耳也。,
 居,jū,dwell / stay in / home,,居,exact,-{尸}-,compound,,尸 (shī = a body laid out; a seated figure) + 古 (gǔ = ancient / the ancients) + 者 (zhě = the one who / that which / (marks a topic)),,11,,0.0747,蹲也。从尸古者，居从古。,
 如,rú,like / as / (不如) better to,,如,exact,女,compound,,隨 (suí = follow) + 也 (yě = (closes a statement: it is so)) + 女 (nǚ = a woman) + 口 (kǒu = mouths),,10,,0.0745,从隨也。从女从口。,
-谷,Gǔ,valley,,谷,exact,谷,compound,,"水 (shuǐ = water) + 半 (? = not yet glossed) + 見 (jiàn = see / show, display / appear (77))",,10,,0.0734,泉出通川爲谷。从水半見，出於口。凡谷之屬皆从谷。,
+谷,Gǔ,valley,valley,谷,exact,谷,compound,,"水 (shuǐ = water) + 半 (? = not yet glossed) + 見 (jiàn = see / show, display / appear (77))",,10,,0.0734,泉出通川爲谷。从水半見，出於口。凡谷之屬皆从谷。,"Where a spring comes out and runs through to a river is a valley. From 水 (shuǐ — water) half seen, coming out of 口 (kǒu — an opening)."
 守,shǒu,hold to,hold to,守,exact,宀,compound,,宀 (mián = a roof; under a house) + 寸 (cùn = inch),,11,locked,0.0724,守官也。从宀从寸。寺府之事者。从寸。寸，法度也。,
 小,xiǎo,small,small,小,exact,小,compound,,"八 (bā = eight; to divide, to part)",,10,locked,0.0723,物之微也。从八，丨見而分之。凡小之屬皆从小。,
 久,jiǔ,endure / last long / long since (67),,久,exact,久,pictograph,,,,10,,0.0721,以後灸之，象人兩脛後有距也。《周禮》曰：“久諸牆以觀其橈。”凡久之屬皆从久。,
@@ -535,7 +535,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 魚,Yú,fish,,魚,exact,魚,pictograph,,,,1,,0.0108,水蟲也。象形。魚尾與燕尾相似。凡魚之屬皆从魚。,
 當,dāng,"in, at (當其無, in what is not there)",,當,exact,田,phonetic-compound,,田 (tián = field),尚 (shàng = exalt / honor / even (23)),3,,0.0102,田相值也。从田尚聲。,
 博,bó,have heard it all / broad learning,,博,exact,十,compound,,十 (shí = ten) + 尃 (? = not yet glossed),,2,,0.01,大通也。从十从尃。尃，布也。,
-谿,xī,ravine,,谿,exact,谷,phonetic-compound,,谷 (Gǔ = valley),奚 (? = not yet glossed),2,,0.01,山瀆無所通者。从谷奚聲。,
+谿,xī,ravine,ravine,谿,exact,谷,phonetic-compound,,谷 (Gǔ = valley),奚 (? = not yet glossed),2,,0.01,山瀆無所通者。从谷奚聲。,
 逝,shì,depart,,逝,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",折 (zhé = snap),2,,0.01,往也。从辵折聲。讀若誓。,
 偏,Piān,"deputy (偏將軍, deputy general)",,偏,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",扁 (? = not yet glossed),1,,0.0098,頗也。从人扁聲。,
 儼,Yǎn,Reserved/dignified,,儼,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",嚴 (? = not yet glossed),1,,0.0098,昂頭也。从人嚴聲。一曰好皃。,

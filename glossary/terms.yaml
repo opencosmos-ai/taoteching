@@ -306,6 +306,16 @@
   status: locked
   entry: glossary/xuan-miao-玄妙.md
 
+- term: "谷"
+  pinyin: "gǔ"
+  render: "valley"
+  forbidden: ["reservoir", "basin", "hollow", "the void", "emptiness"]
+  chapters: [6, 15, 28, 32, 39, 41, 66]
+  status: open
+  entry: glossary/gu-谷.md
+  binds: [taoteching]
+  # covers 谿 -> ravine
+
 - term: "弱"
   pinyin: "ruò"
   render: "yielding — and *weaken* only where it takes an object"
