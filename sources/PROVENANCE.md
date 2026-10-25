@@ -74,7 +74,7 @@ And a fourth blocker that would stand even if all three fell: the page's content
 
 | Path | Contents | Coverage |
 |---|---|---|
-| `variants.yaml` | The variant apparatus, as **facts** | <!-- count: variants -->105 forks |
+| `variants.yaml` | The variant apparatus, as **facts** | <!-- count: variants -->110 forks |
 | `guodian-inventory.yaml` | What the **oldest witness** contains, as facts — never a text | 31 chapters, 3 bundles |
 | `commentaries/wangbi/` | 王弼 (d. 249 CE) on the Laozi, lemma by lemma | **all 81 chapters** *(71 until 2026-09-24)* |
 | `commentaries/heshanggong/` | 河上公章句 (Han), lemma by lemma, with his own chapter titles | **81 of 81 chapters** |

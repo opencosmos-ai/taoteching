@@ -64,7 +64,7 @@ To that writer, 聖 and 智 are two ways of knowing: one by the ear, one by the 
 
 **The sage is described mostly by what they decline.** Many lines are refusals: not humane (5), does not travel (47), does not do the great (63), does not rely (77), does not cut (58), does not hoard (81), is not sick (71), has no fixed heart (49), does not exact payment (79). The positive verbs are few and plain: embraces one thing (22), acts for the belly (12), wears coarse cloth (70), puts them to use (28), grasps the left half of the tally (79).
 
-**And the sage governs.** 聖人之治, *the sage's governing* (3). 處上, *stands above* the people (66). 為官長, becomes *chief of the officers* (28). Takes on the grime of the state and so is *the ruler of the world* (78). The book is addressed to people who hold office, and the sage is its model for holding it. **But 聖人 is not a rank.** The book has rank words of its own: 王 (*wáng* — ruler), 侯王 (*hóu wáng* — lords and rulers), 君 (*jūn* — ruler), 主 (*zhǔ* — lord). 聖人 is none of them.
+**And the sage governs.** 聖人之治, *the sage's governing* (3). 處上, *stands above* the people (66). 為官長, becomes *chief of the officers* (28). Takes on the shame of the state and so is *the ruler of the world* (78). The book is addressed to people who hold office, and the sage is its model for holding it. **But 聖人 is not a rank.** The book has rank words of its own: 王 (*wáng* — ruler), 侯王 (*hóu wáng* — lords and rulers), 君 (*jūn* — ruler), 主 (*zhǔ* — lord). 聖人 is none of them.
 
 ### What the witnesses add
 

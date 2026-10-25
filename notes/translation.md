@@ -1977,7 +1977,11 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Wang Bi's grammar, 谷 (*gǔ*) as the valley, over Heshang Gong's 谷，養也 (*gǔ, yǎng yě* — "gǔ means to nourish"), which reads the chapter as breath through the nose and mouth. Taken without Wang Bi's emptiness, 谷中央無谷 (*gǔ zhōng yāng wú gǔ* — "the middle of the valley, where there is no valley"): the valley is land. *Nourish* is forbidden for 谷. The argument and its cost: `glossary/gu-谷.md`.
 
-### Ch 78 · 受國之垢 → "the grime of the state," not "the filth"
+### Ch 78 · 受國之垢 → "the shame of the state," after the silks' 詬
+
+*(2026-10-25, Shalom's call.)* Both silks write 訽, a form of 詬 (*gòu* — reviling, shame), for our base's 垢 (*gòu* — grime). It pairs with the next clause's 不祥 (*bù xiáng* — ill omen), and *shame* is used by no other character in the verse. This supersedes the *grime* of the same morning, below. `chapters/078.md`, `notes/manuscript.md`.
+
+### Ch 78 · 受國之垢 → "the grime of the state," not "the filth" *(superseded the same day by "shame")*
 
 *(2026-10-25, Shalom's call.)* 垢 (*gòu*) is 濁也，从土 in the Shuowen, *"murky; from 土 (tǔ — earth)."* *Filth* passed a verdict of disgust the character does not; *grime* is dirt worked in. It is the book's own figure for disgrace accepted, the same figure as ch 28's *soiled*. `chapters/078.md`, `DISCOVERIES.md` §8.
 

@@ -1635,8 +1635,9 @@
     the pair and the order. The Zhuangzi (its chapter 天下, tian xia - "the
     world") quotes Lao Dan with the same two stanzas in the same order and
     with 白: 知其雄，守其雌，為天下谿。知其白，守其辱，為天下谷, then has him say
-    受天下之垢 (shou tian xia zhi gou - "take on the world's grime"). Not a
-    schema witness id, so it is recorded here. The Huainanzi (139 BCE, its
+    受天下之詬 (shou tian xia zhi gou - "take on the world's reviling"; one
+    edition reads 垢, grime; corrected 2026-10-25, this once quoted the
+    variant as the text). Not a schema witness id, so it is recorded here. The Huainanzi (139 BCE, its
     chapter 道應 dao ying) already reads 知其榮，守其辱，為天下穀, with glory, and
     spells the valley 穀 (gu - grain), so the received reading is early too.
     Followed 2026-10-25, Shalom's call: the verse reads "Know the white, hold
@@ -1711,3 +1712,85 @@
     shan xia zhi - "because they are masterful at being below them"), naming the valleys as what the sea is
     below.
   logged: glossary/gu-谷.md
+
+# Water, 水 (shui - water). Recorded 2026-10-25 for glossary/shui-水.md, read in
+# the same two online transcriptions as the valley's rows (Shidian guji for
+# silk A where it was consulted, and 6dsy.cn, which prints each silk's 原文
+# beside its edited reading). Guodian carries neither ch 8 nor ch 78.
+
+- chapter: 8
+  line: "上善若水"
+  base: "若"
+  witnesses: { mawangdui-a: "治", mawangdui-b: "如" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Silk A writes 治 (zhi - to govern; the Shuowen's river), which its editors
+    read as 似 (si - like); silk B writes 如 (ru - like). Both are "like."
+    Recorded because silk A's graph is the river-word the zhi entry is built
+    on, and a reader may meet it.
+  logged: glossary/shui-水.md
+
+- chapter: 8
+  line: "水善利萬物而不爭"
+  base: "不爭"
+  witnesses: { mawangdui-a: "有靜", mawangdui-b: "有爭" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk A reads 水善，利萬物而有靜 (shui shan, li wan wu er you jing - "water is
+    masterful: it benefits the countless things and has stillness"); silk B
+    writes 有爭, which its editors read as 有靜 too, since 爭 (zheng - to
+    contend) is the sound element of 靜 (jing - still). Our base reads 不爭
+    (bu zheng - "does not contend"). The chapter's own close, 夫唯不爭，故無尤
+    ("only because it does not contend is it blameless"), stands in both
+    silks (silk A writes it 不靜), so the silks have water still in the
+    first line and not contending in the last. Kept, 2026-10-25, Shalom's
+    call: silk A's scribe writes 靜 for 爭 in the close, so its 有靜 cannot
+    secure "stillness", and "has contending" contradicts the close.
+  logged: notes/manuscript.md
+
+- chapter: 8
+  line: "處眾人之所惡"
+  base: "處"
+  witnesses: { mawangdui-a: "居", mawangdui-b: "居" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Both silks write 居 (ju - to dwell) for 處 (chu - to stay in); silk A also
+    lacks 人 (ren - person). Our English already reads "dwells."
+  logged: glossary/shui-水.md
+
+- chapter: 78
+  line: "柔之勝剛"
+  base: "柔"
+  witnesses: { mawangdui-b: "水" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk B reads 水之朕剛也，弱之朕強也 (shui zhi sheng gang ye, ruo zhi sheng
+    qiang ye - "water's overcoming the unbending, the yielding's overcoming
+    the strong"), writing 朕 for 勝 (sheng - to overcome) and putting the
+    water clause first. Our base reads 弱之勝強，柔之勝剛 ("the yielding
+    overcomes the strong, the soft overcomes the unbending"). In silk B the
+    line names water a second time. Silk A is damaged here and its editors
+    restore it from silk B. Kept, 2026-10-25, Shalom's call: one witness
+    against every received edition.
+  logged: notes/manuscript.md
+
+- chapter: 78
+  line: "受國之垢，是謂社稷主"
+  base: "垢"
+  witnesses: { mawangdui-a: "訽", mawangdui-b: "訽" }
+  meaning_bearing: true
+  our_call: mawangdui-a
+  note: >
+    Both silks write 訽, a form of 詬 (gou - reviling, shame), where our base
+    has 垢 (gou - grime). The Shuowen: 詬，謑詬，恥也。从言后聲 ("gou is
+    reviling, shame; from 言, speech"), with 訽 as its variant, against 垢，
+    濁也。从土 ("grime is murk; from 土, earth"). The Zhuangzi's main text has
+    詬 in its echo of this line, 受天下之詬, and records 垢 as a variant.
+    Heshang Gong's text has 垢 and he reads it as grime and murk. Silk A
+    also writes 邦 (bang - state) for 國, the Han taboo (see ch 61). Followed
+    2026-10-25, Shalom's call: "whoever takes on the shame of the state."
+  logged: notes/manuscript.md
