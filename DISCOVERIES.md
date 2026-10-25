@@ -51,6 +51,8 @@ His own answer to how to settle it: *"we must more deeply understand 辱."*
 
 **Shalom's call, 2026-10-25: *soiled*, as the more honest rendering.** Chapter 28 now reads *"Know the white, hold to the soiled, / serve as the world's valley,"* following both silks and the *Zhuangzi*, and keeping our stanza order. 辱 now splits by its partner: *soiled* beside white (28, 41), *disgrace* beside favor or as a consequence (13, 44). Whether that split holds is the entry's work.
 
+**And chapter 78 follows the silks too: *"whoever takes on the shame of the state."*** *(Shalom's call, 2026-10-25.)* There the oldest witnesses point at the humility itself, the shame taken on, and the soil stays a line below, in *the soil and the grain*. So the answer the evidence gives is not one answer: the stain in chapters 28 and 41, the shame in chapter 78.
+
 ### Where the evidence sits
 
 `chapters/028.md` → *Notes* · `glossary/gu-谷.md` → *The valley's company* · `notes/manuscript.md` → *Ch 28 · 知其榮，守其辱 / 知其白，守其辱* · `sources/variants.yaml` (chapter 28) · `chapters/041.md` → *大白若辱* · `notes/manuscript.md` → *Ch 13 · 寵為下 / 辱為下*.

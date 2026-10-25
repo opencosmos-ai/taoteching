@@ -50,6 +50,15 @@ Ch 6's line breaks raised a question no file answered: the Chinese chains *"the 
 - **Ch 6, its chain restored:** *"This is called the dark female. / The dark female's gate — / this is called the root of sky and earth,"* in two stanzas, 4 / 2 (Shalom's call). *(was: "The gate of the dark female,")* The dash is the same mark chs 10 and 51 use before 是謂 (*shì wèi* — "this is called").
 - Linked from the README, `ARCHITECTURE.md`, `CLAUDE.md`, `AGENTS.md`, `chapter-review` step 6, `lineation-is-ours`, and `DISCOVERIES.md` §6, whose finding it extends.
 
+## 2026-10-25 — 水 (shuǐ — water) gets an entry, and ch 78 takes on shame
+
+Water is the image the valley exists for. Reading its two chapters in the silks changed both, and corrected a quotation the valley's records had leaned on.
+
+- **[`glossary/shui-水.md`](glossary/shui-水.md)**, open: *water* in every line. The Shuowen's first word for it is 準 (*zhǔn* — level). *Element*, *liquid* and *fluid* are forbidden, and the lock carries `binds: [taoteching]`. Five rows in `sources/variants.yaml` (105 → 110).
+- **Ch 78: *"whoever takes on the shame of the state."*** *(was: "the grime," that morning, and before that "the filth.")* Both silks write 詬 (*gòu* — reviling, shame), built on speech, where our base has 垢 (*gòu* — grime), built on earth (Shalom's call). `DISCOVERIES.md` §8 now answers in two parts: the stain in chapters 28 and 41, the shame in chapter 78.
+- **Corrected:** the *Zhuangzi*'s echo of chapter 28 reads 受天下之詬, reviling. Grime is a variant it records, and our records had quoted it as the text. The claim is registered in `process/retractions.yaml`.
+- **Still open** (`WORKLIST.md` T2-73): ch 8's water that *has stillness* in the silks, where ours *does not contend*; ch 78's *soft*, which silk B names as *water*.
+
 ## 2026-10-25 — 谷 (gǔ — valley) is locked, and the silks' valley is recorded
 
 The valley is one of the six images the book's own README names, and the hinge of its feminine chapters. Its entry reads all ten lines, and reading them meant checking the excavated witnesses, which the apparatus had not recorded for any of its seven chapters.

@@ -1780,7 +1780,7 @@
   base: "垢"
   witnesses: { mawangdui-a: "訽", mawangdui-b: "訽" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
     Both silks write 訽, a form of 詬 (gou - reviling, shame), where our base
     has 垢 (gou - grime). The Shuowen: 詬，謑詬，恥也。从言后聲 ("gou is
@@ -1788,5 +1788,6 @@
     濁也。从土 ("grime is murk; from 土, earth"). The Zhuangzi's main text has
     詬 in its echo of this line, 受天下之詬, and records 垢 as a variant.
     Heshang Gong's text has 垢 and he reads it as grime and murk. Silk A
-    also writes 邦 (bang - state) for 國, the Han taboo (see ch 61).
+    also writes 邦 (bang - state) for 國, the Han taboo (see ch 61). Followed
+    2026-10-25, Shalom's call: "whoever takes on the shame of the state."
   logged: notes/manuscript.md

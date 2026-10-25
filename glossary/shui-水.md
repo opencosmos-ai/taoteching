@@ -14,7 +14,7 @@ binds: [taoteching]
 
 *Say "shway," dipping and lifting. Three lines in two chapters, and a fourth in one of the silks. The book's one image for the way it wants a person to be.*
 
-**Recommended: 水 (*shuǐ*) → "water," in every line.** *(Not "the water element," which is the Han dynasty's five phases. Not "liquid" or "fluid," which name a state of matter where the line has a thing you can drink. Not "the Water," since a capital makes it a doctrine.)* *Three forks in its two chapters are still open; see the close.*
+**Recommended: 水 (*shuǐ*) → "water," in every line.** *(Not "the water element," which is the Han dynasty's five phases. Not "liquid" or "fluid," which name a state of matter where the line has a thing you can drink. Not "the Water," since a capital makes it a doctrine.)* *Two forks in its two chapters are still open; see the close.*
 
 ### The graph: streams side by side, and a level
 
@@ -61,7 +61,7 @@ This is the yielding that the 柔 (*róu* — soft) and 弱 (*ruò* — yielding
 
 **Water's chapters hold the soil and the shame together.** Chapter 8's water dwells in what the crowd loathes, which Heshang Gong calls the low, the damp, the grimy and the murky. Chapter 78 ends with the sage taking on the state's 垢 (*gòu* — grime). Heshang Gong there: 君能愛國垢濁者，若江海不逆小流, *"a ruler who can love the state's grime and murk is like rivers and seas, which do not refuse the small streams."*
 
-**The silks complicate the second.** Both Mawangdui silks write 訽 in chapter 78, a form of 詬 (*gòu* — reviling, shame), where the received text has 垢. The two words sound the same. The Shuowen builds 詬 on 言 (*yán* — speech) and defines it as 恥 (*chǐ* — shame), and builds 垢 on 土 (*tǔ* — earth) and defines it as 濁 (*zhuó* — murk). In the silks the sage takes on the state's spoken shame, and the grime is the received text's figure for it. `DISCOVERIES.md` §8 holds the question this belongs to.
+**The silks change the second, and the verse follows them.** Both Mawangdui silks write 訽 in chapter 78, a form of 詬 (*gòu* — reviling, shame), where the received text has 垢. The two words sound the same. The Shuowen builds 詬 on 言 (*yán* — speech) and defines it as 恥 (*chǐ* — shame), and builds 垢 on 土 (*tǔ* — earth) and defines it as 濁 (*zhuó* — murk). In the silks the sage takes on the state's spoken shame, and the grime is the received text's figure for it. The verse follows the silks: *"whoever takes on the shame of the state / is the keeper of the soil and the grain"* (Shalom's call, 2026-10-25). `DISCOVERIES.md` §8 holds the question this belongs to.
 
 ### What the silks change
 
@@ -101,7 +101,5 @@ Neither can be held by a rule: 水 stands in neither chapter, so the checker nev
 **Chapter 8's first line: does water not contend, or is it still?** Both silks read 有靜 (*yǒu jìng* — "has stillness"); our base reads 不爭 (*bù zhēng* — "does not contend"). Shalom's call.
 
 **Chapter 78's soft: the soft, or water?** Silk B names water a second time where our base has 柔 (*róu* — soft). Shalom's call.
-
-**Chapter 78's grime: grime, or reviling?** Both silks read 詬 (*gòu* — reviling, shame) where the verse, on our base's 垢, reads *grime*. Shalom's call.
 
 **Why water, and not the Tao.** Wang Bi's answer is that water has a form and the Tao does not. The book never says what else keeps water at *nearly*.
