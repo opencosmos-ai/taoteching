@@ -136,3 +136,27 @@
     locked to "mixed," and "undifferentiated" is on its forbidden list.
   see: "glossary/hun-混.md"
   allow: ["PLAN.md", "process/legacy-tao-source-code.md"]
+
+- id: ch28-stanza-order-no-witness-diverges
+  retracted: 2026-10-25
+  claim: >
+    No listed witness diverges from our base on the order of ch 28's three
+    stanzas.
+  match: ["so no listed witness diverges"]
+  correction: >
+    Mawangdui A orders them ravine, valley, pattern, against our base's
+    ravine, pattern, valley, and pairs the valley's 辱 (ru - soiling) with
+    白 (bai - white) rather than 榮 (rong - glory).
+  see: "notes/manuscript.md"
+
+- id: valley-receives-by-being-lowest
+  retracted: 2026-10-25
+  claim: >
+    The valley receives everything precisely by being the lowest and emptiest
+    place, and holds more than the peak.
+  match: ["precisely by being lowest", "valley holds more than the"]
+  correction: >
+    The Shuowen defines the valley by its outlet: water comes out of it and
+    runs on. In chs 32 and 66 the valleys run down to the river and the sea,
+    and it is the rivers and seas that stay below and take the water in.
+  see: "glossary/gu-谷.md"

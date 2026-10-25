@@ -120,7 +120,17 @@ We print 功遂身退，天之道 — *"the work done, the body withdraws; this 
 
 Our vendored 王弼 (*Wáng Bì*) carries the Siku compilers' note on the opening block: 〔案**永樂大典此節在復歸於無極之後，據注仍宜在前**〕 — *"in the Yongle Dadian this section stands **after** 復歸於無極; on the evidence of the commentary it should still come first."* So the 雄/雌 stanza's position at the head of the chapter is **restored**, not simply transmitted, and the Ming encyclopaedia had it second.
 
-**Not in `sources/variants.yaml`**, for the same reason as ch 38's 處/居: the 永樂大典 (*Yǒnglè Dàdiǎn*, 1408) is not one of the schema's witness ids, it is neither excavated nor a named older transmitted recension, and forcing it into the `witnesses:` map would put a Ming encyclopaedia where the file promises a witness. 河上公 (*Héshàng Gōng*) has the same order as our base, so no listed witness diverges. **Nothing in our English turns on it** — the three stanzas are a template and each is self-contained — but the chapter's shape rests on a collation decision, and that is worth a reader knowing.
+**Not in `sources/variants.yaml`**, for the same reason as ch 38's 處/居: the 永樂大典 (*Yǒnglè Dàdiǎn*, 1408) is not one of the schema's witness ids, it is neither excavated nor a named older transmitted recension, and forcing it into the `witnesses:` map would put a Ming encyclopaedia where the file promises a witness. Heshang Gong has the same order as our base. *(Corrected 2026-10-25: Mawangdui A diverges. See the next entry.)* **Nothing in our English turns on it** — the three stanzas are a template and each is self-contained — but the chapter's shape rests on a collation decision, and that is worth a reader knowing.
+
+### Ch 28 · 知其榮，守其辱 / 知其白，守其辱 (glory, or white, beside the soiled) — the valley's pair, and its place
+
+*(2026-10-25, found writing `glossary/gu-谷.md`.)* We print 知其榮，守其辱，為天下谷 (*zhī qí róng, shǒu qí rǔ, wéi tiān xià gǔ*), *"know the glory, hold to the disgrace, serve as the world's valley."* **Mawangdui A reads 知其白，守其辱，為天下浴** (*zhī qí bái, shǒu qí rǔ, wéi tiān xià yù* — "know the white, hold to the soiled, serve as the world's valley"): 白 (*bái* — white) where we have 榮 (*róng* — glory), with the valley spelled 浴 (*yù* — to bathe) as the silks spell it throughout. **It also orders the stanzas differently**: the ravine, then the valley, then the pattern, whose line reads 守其黑 (*shǒu qí hēi* — "hold to the black") with the character before it lost. Our base has ravine, pattern, valley.
+
+**It is meaning-bearing, and it bears on 辱 (*rǔ* — soiling, disgrace) more than on the valley.** Beside glory, *rǔ* is standing in other people's eyes, and our English says *disgrace*. Beside white, it is a mark on a surface, which is how ch 41's 大白若辱 (*dà bái ruò rǔ*) is rendered (*"the whitest white seems soiled"*), and how Heshang Gong reads *rǔ* in this very line: 辱以喻汚濁, *"rǔ figures the dirty and the murky."* Wang Bi reads ch 41 into this chapter with 知其白守其黑 (*zhī qí bái shǒu qí hēi* — "know the white, hold to the black"), a white/black pair, not a glory/disgrace one. Glory is in both commentaries' lemmas, so the transmitted text is unanimous against the silk.
+
+**Silk B agrees with silk A, and so does the Zhuangzi.** Silk B reads 知其白，守其辱 (*zhī qí bái, shǒu qí rǔ*) in the same stanza order. The Zhuangzi's last chapter, 天下 (*tiān xià* — "the world"), quotes Lao Dan with only the first two stanzas, ravine then valley, and with white: 知其雄，守其雌，為天下谿。知其白，守其辱，為天下谷, *"know the rooster, hold to the hen, serve as the world's ravine; know the white, hold to the soiled, serve as the world's valley."* It goes on: 人皆取先，己獨取後，曰：受天下之垢, *"everyone takes the front; he alone takes the back, and says: take on the world's grime."* The Zhuangzi is a transmitted text, not one of the schema's witness ids, so it is recorded in the note to the row. That is two excavated witnesses and the oldest quotation against the received editions. **The received reading is early too:** the *Huainanzi* (139 BCE), in its chapter 道應 (*dào yìng* — "responses of the Tao"), quotes 知其榮，守其辱，為天下穀 with glory, and spells the valley 穀 (*gǔ* — grain). It hangs the line on King Wen of Zhou, who made a show of indulgence to put the tyrant off his guard. `DISCOVERIES.md` §8 holds the question this leaves. *(Added 2026-10-25, from the Wikisource text of the Zhuangzi and an online transcription of silk B.)*
+
+**Our call: we follow the silks on white, and keep our stanza order.** *(2026-10-25, Shalom's call.)* The verse reads *"Know the white, hold to the soiled, / serve as the world's valley."* The order stays ours, because it ends on the uncarved wood and runs into 樸散 (*pǔ sàn* — "the uncarved wood scatters"), and nothing in the English turns on it. 辱 (*rǔ*) now reads *soiled* beside white (ch 28, 41) and *disgrace* beside favor or as a consequence (ch 13, 44). `sources/variants.yaml`, `chapters/028.md`.
 
 ### Ch 38 · 扔 / 仍 — both graphs mean *pull*, and our English had said *force*
 
@@ -175,6 +185,12 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 **It is meaning-bearing.** 客 (*kè* — guest) makes the line a simile about a person. 容 (*róng* — countenance, bearing) makes it about a demeanour, and 容 already stands five lines up in this chapter, at 強為之容 (*qiǎng wéi zhī róng* — *"I force a likeness"*). 王弼's gloss on the whole 若 (*ruò* — like) series, 凡此諸若皆言其容象不可得而形名也 (*"all these 'like's speak of its 容象, which cannot be given a shape or a name"*), uses 容 without saying which graph he read in the line.
 
 **The base is kept provisionally.** Ch 15 was reworked on 2026-09-06 without 王弼 on the table, and this belongs to the read `WORKLIST` R3 owes. `sources/variants.yaml`.
+
+### Ch 15 · 曠兮其若谷 / 莊呵其若浴 (wide, or grave, like a valley) — and in another place
+
+*(2026-10-25, found writing `glossary/gu-谷.md`.)* We print 曠兮其若谷 (*kuàng xī qí ruò gǔ*), *"open, like a valley."* **Mawangdui B reads 莊 (*zhuāng* — grave, dignified) for 曠 (*kuàng* — wide, bright)**, and writes the valley 浴 (*yù* — to bathe), the silks' usual spelling. Silk A's adjective is lost. **Both silks also move the line**: it comes after 混兮其若濁 (*hùn xī qí ruò zhuó* — "mixed, like muddy water"), not before it.
+
+**It may be meaning-bearing.** If *grave* is its own word here, the valley sits beside 儼 (*yǎn* — dignified) two lines up, which our English already renders *dignified*. If it is a loan for *wide*, nothing changes. Heshang Gong reads 曠者寬大, *"'wide' means broad and large,"* so his text had *wide*. **Undecided**, and resting on one online parallel-text table; confirm silk B against a printed edition. `sources/variants.yaml`.
 
 ### Ch 23 · three facts on one chapter — a dropped 道者, a 得/失 swap, and a Ming witness without 樂
 
@@ -690,4 +706,12 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 **The fork is meaning-bearing.** 可以 (*kě yǐ* — can) makes knowing when to stop an **opening**: you *can* come to no danger. 所以 (*suǒ yǐ* — that by which) makes it the **means**: it *is how* you come to no danger.
 
 **Our call: 所以, the same shape and the same reasoning as ch 21's 然 / 狀.** The English, *"Knowing when to stop, you come to no danger,"* already renders it, and now reads as ch 44's 知止不殆 does. Before this was logged, the line looked like a dropped 可.
+
+### Ch 32 · 猶川谷之於江海 / 猶小谷之與江海 (streams and valleys, or small valleys)
+
+*(2026-10-25, found writing `glossary/gu-谷.md`.)* We print 猶川谷之於江海 (*yóu chuān gǔ zhī yú jiāng hǎi*), *"like streams and valleys to the river and the sea."* **Guodian reads 小谷 (*xiǎo gǔ* — small valleys), and Mawangdui B 小浴** (*xiǎo yù*), the silks' spelling of the same. Silk A is damaged at that character. Both commentaries print 川谷 (*chuān gǔ* — streams and valleys), so the transmitted text is unanimous.
+
+**It is meaning-bearing.** With 川 (*chuān* — a stream, a river) the simile has two kinds of water running down to the river and the sea. With 小 (*xiǎo* — small) it has one: small valleys and the great waters. *Small* then answers the chapter's own 樸雖小 (*pǔ suī xiǎo* — "though small"), the Tao's smallness in its second line. Either way the valleys run down, and the river and the sea are below.
+
+**Undecided**, and Guodian's reading rests on one online parallel-text table; confirm against the 1998 edition of the slips. `sources/variants.yaml`.
 

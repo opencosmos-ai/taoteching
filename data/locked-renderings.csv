@@ -87,6 +87,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Isn't the space between sky and earth like a bellows?
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Speaking of this is a dead end. Instead, hold to the center."
+6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley is deathless.
 6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"The gate of the dark female,"
 6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
@@ -249,6 +250,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,5,強,qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,do I force a likeness:
 15,5,為,wèi,為,do / handle / serve as,yes,1.0,exact-count,do I force a likeness:
 15,10,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"Solid, like uncarved wood."
+15,11,谷,gǔ,谷,valley,yes,1.0,exact-count,"Open, like a valley."
 15,12,混,Hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,exact-count,"Mixed, like muddy water."
 15,12,濁,zhuó,清,muddy,yes,1.0,exact-count,"Mixed, like muddy water."
 15,13,清,qīng,清,clear,yes,1.0,exact-count,"Who can be muddy, and by stilling it slowly come clear?"
@@ -466,10 +468,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,1,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
 28,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's ravine.
 28,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's ravine.
+28,2,谿,xī,谷,ravine,yes,1.0,exact-count,serve as the world's ravine.
 28,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,3,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
+28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,5,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the black,"
 28,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's pattern.
 28,6,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's pattern.
@@ -479,13 +483,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,7,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
 28,8,極,jí,極,the far end — where a thing runs out,yes,1.0,exact-count,Return again to the endless.
 28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Return again to the endless.
-28,9,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the glory, hold to the disgrace,"
+28,9,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the soiled,"
 28,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's valley.
 28,10,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's valley.
+28,10,谷,gǔ,谷,valley,yes,1.0,exact-count,serve as the world's valley.
 28,11,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,11,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,11,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,11,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
+28,11,谷,gǔ,谷,valley,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,12,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,Return again to the uncarved wood.
 28,13,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,13,樸,Pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
@@ -558,6 +564,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Knowing when to stop, you come to no danger."
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
 32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
+32,10,谷,gǔ,谷,valley,yes,1.0,authored,The Tao in the world is like streams and valleys to the river and the sea.
 33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,One who knows themselves sees clearly.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
@@ -669,6 +676,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,3,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Earth received the one, and so became settled."
 39,4,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Spirit received the one, and so became numinous."
 39,5,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The valley received the one, and so became full."
+39,5,谷,Gǔ,谷,valley,yes,1.0,exact-count,"The valley received the one, and so became full."
 39,6,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The countless things received the one, and so came to life."
 39,6,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things received the one, and so came to life."
 39,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The countless things received the one, and so came to life."
@@ -684,6 +692,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Earth with no way to be settled is likely to burst.
 39,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Spirit with no way to be numinous is likely to cease.
 39,12,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The valley with no way to be full is likely to run dry.
+39,12,谷,Gǔ,谷,valley,yes,1.0,exact-count,The valley with no way to be full is likely to run dry.
 39,13,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The countless things with no way to live are likely to die out.
 39,13,物,wù,萬物,things / something,yes,1.0,exact-count,The countless things with no way to live are likely to die out.
 39,13,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,The countless things with no way to live are likely to die out.
@@ -727,6 +736,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,6,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,The clear Tao seems murky. The advancing Tao seems to retreat. The level Tao seems rough.
 41,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,7,德,dé,德,integrity,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
+41,7,谷,gǔ,谷,valley,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,8,德,dé,德,integrity,yes,1.0,authored,Boundless integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
 41,8,德,dé,德,integrity,yes,1.0,authored,Boundless integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
 41,9,器,qì,器,vessel / tool / implement,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
@@ -1129,10 +1139,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Rivers and seas can rule the hundred valleys
 66,1,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,1.0,authored,Rivers and seas can rule the hundred valleys
 66,1,能,néng,可,be able,NOT FOUND,1.0,authored,Rivers and seas can rule the hundred valleys
+66,1,谷,gǔ,谷,valley,yes,1.0,authored,Rivers and seas can rule the hundred valleys
 66,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,2,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,2,能,néng,可,be able,NOT FOUND,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
+66,2,谷,gǔ,谷,valley,yes,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,3,民,mín,民,the people,yes,1.0,authored,"So to rise above the people, you must speak from below them."
 66,4,民,mín,民,the people,yes,1.0,authored,"To walk ahead of the people, you must put your body behind them."
 66,4,身,shēn,身,body,yes,1.0,authored,"To walk ahead of the people, you must put your body behind them."
@@ -1311,9 +1323,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,3,柔,róu,柔,soft,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,能,néng,可,be able,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
-78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,So the sage says: whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
-78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,So the sage says: whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
-78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the filth of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
+78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,So the sage says: whoever takes on the grime of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
+78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,So the sage says: whoever takes on the grime of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
+78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the grime of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
 79,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?

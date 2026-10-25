@@ -4,7 +4,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 3,安民,ān mín,Settling the people,drafted,67,80,1.194,no,,,9,9,2
 4,無源,wú yuán,The sourceless,drafted,42,58,1.381,no,,,7,7,1
 5,虛用,xū yòng,The use of emptiness,drafted,45,63,1.4,yes,middle,A,5,6,0
-6,成象,chéng xiàng,Taking form,drafted,25,39,1.56,no,,,6,6,0
+6,成象,chéng xiàng,Taking form,drafted,25,39,1.56,no,,,6,6,1
 7,韜光,tāo guāng,Sheathing the light,drafted,49,62,1.265,no,,,8,8,0
 8,易性,yì xìng,An easy nature,drafted,50,82,1.64,no,,,13,13,1
 9,運夷,yùn yí,Keeping level,drafted,39,56,1.436,yes,complete,A,10,5,2
@@ -13,7 +13,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 12,檢欲,jiǎn yù,Reining in desire,drafted,49,65,1.327,no,,,9,7,3
 13,猒恥,yàn chǐ,Shrinking from disgrace,drafted,81,125,1.543,yes,complete,B,16,12,2
 14,贊玄,zàn xuán,In praise of the dark,drafted,95,122,1.284,no,,,21,16,0
-15,顯德,xiǎn dé,Integrity made visible,drafted,98,125,1.276,yes,complete,A,17,17,3
+15,顯德,xiǎn dé,Integrity made visible,drafted,98,125,1.276,yes,complete,A,17,17,5
 16,歸根,guī gēn,Returning to the root,drafted,67,120,1.791,yes,opening,A,19,18,2
 17,淳風,chún fēng,Unspoiled ways,drafted,44,55,1.25,yes,complete,C,8,8,0
 18,俗薄,sú bó,When custom wears thin,drafted,26,39,1.5,yes,complete,C,4,4,0
@@ -26,20 +26,20 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 25,象元,xiàng yuán,Figuring the origin,drafted,87,127,1.46,yes,complete,A,19,16,4
 26,重德,zhòng dé,The weight of integrity,drafted,47,63,1.34,no,,,9,8,2
 27,巧用,qiǎo yòng,Deft use,drafted,91,110,1.209,no,,,18,12,0
-28,反朴,fǎn pǔ,Back to uncarved wood,drafted,86,116,1.349,no,,,15,15,0
+28,反朴,fǎn pǔ,Back to uncarved wood,drafted,86,116,1.349,no,,,15,15,2
 29,無為,wú wéi,Non-doing,drafted,62,80,1.29,no,,,11,9,2
 30,儉武,jiǎn wǔ,Sparing with arms,drafted,75,97,1.293,yes,complete,A,15,9,0
 31,偃武,yǎn wǔ,Laying arms down,drafted,116,137,1.181,yes,end,C,18,15,0
-32,聖德,shèng dé,The integrity of the sage,drafted,71,95,1.338,yes,complete,A,10,9,2
+32,聖德,shèng dé,The integrity of the sage,drafted,71,95,1.338,yes,complete,A,10,9,3
 33,辯德,biàn dé,Telling integrity apart,drafted,38,57,1.5,no,,,8,8,0
 34,任成,rèn chéng,Letting things complete,drafted,62,76,1.226,no,,,8,8,0
 35,仁德,rén dé,Humane integrity,drafted,43,63,1.465,yes,complete,C,7,7,2
 36,微明,wēi míng,Subtle clear-seeing,drafted,56,75,1.339,no,,,8,8,3
 37,為政,wéi zhèng,Handling government,drafted,50,56,1.12,yes,complete,A,5,5,0
 38,論德,lùn dé,On integrity,drafted,129,177,1.372,no,,,20,17,2
-39,法本,fǎ běn,Following the root,drafted,134,203,1.515,no,,,21,21,5
+39,法本,fǎ běn,Following the root,drafted,134,203,1.515,no,,,21,21,6
 40,去用,qù yòng,Putting use aside,drafted,21,27,1.286,yes,complete,A,4,4,0
-41,同異,tóng yì,Same and different,drafted,95,138,1.453,yes,complete,B,12,19,1
+41,同異,tóng yì,Same and different,drafted,95,138,1.453,yes,complete,B,12,19,2
 42,道化,dào huà,The Tao transforming,drafted,73,104,1.425,no,,,8,8,1
 43,徧用,biàn yòng,Use that reaches everywhere,drafted,39,41,1.051,no,,,5,5,0
 44,立戒,lì jiè,A standing caution,drafted,39,61,1.564,yes,complete,A,8,8,0
@@ -64,7 +64,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 63,恩始,ēn shǐ,Favour at the beginning,drafted,79,94,1.19,yes,complete,A,8,15,2
 64,守微,shǒu wēi,Holding fast to the slight,drafted,125,169,1.352,yes,split,"A, C",13,22,4
 65,淳德,chún dé,Unspoiled integrity,drafted,69,95,1.377,no,,,7,13,1
-66,後巳,hòu jǐ,Putting the self last,drafted,76,97,1.276,yes,complete,A,8,10,0
+66,後巳,hòu jǐ,Putting the self last,drafted,76,97,1.276,yes,complete,A,8,10,1
 67,三寳,sān bǎo,The three treasures,drafted,99,145,1.465,no,,,11,16,2
 68,配天,pèi tiān,Matching the sky,drafted,43,57,1.326,no,,,7,7,1
 69,玄用,xuán yòng,Profound use,drafted,54,93,1.722,no,,,10,10,1

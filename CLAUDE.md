@@ -10,13 +10,15 @@
 
 **Shalom does not read Chinese.** Never write a Chinese character, word, phrase, line, or chapter title — in conversation, in a document, in a commit message, in a table, anywhere — without an English rendering immediately beside it.
 
-**The format, always:** 為 (*wéi* — "to do / to handle"). Character, pinyin with tone marks, English. Never a bare 為.
+**The format, always:** 為 (*wéi* — "to do / to handle"). Character, then pinyin with tone marks and English in parentheses right after it. Never a bare 為.
+
+**Names are the one exception: write them romanized, with no Chinese at all.** Commentators, authors, dictionaries and witnesses go by their romanized names: Wang Bi, Heshang Gong, Han Fei, Xu Shen, the Shuowen, Guodian, Mawangdui. Never "王弼's grammar," and not "王弼 (*Wáng Bì*)" either: a name in characters is one more thing the reader has to get past, and it makes an entry cryptic for anyone who does not read Chinese. *(Shalom's call, 2026-10-25, on the draft of `glossary/gu-谷.md`. Older files still write names in characters; romanize them when you are editing that passage anyway.)*
 
 **This applies even when:**
 - the term was glossed earlier in the same session, or in the same message
-- it is a chapter title, a compound, a commentator's name, or a quoted line
+- it is a chapter title, a compound, or a quoted line
 - it is "obviously" familiar — 道, 德, 天, 無為 all still get glossed
-- you are quoting 王弼 (*Wáng Bì*) or 河上公 (*Héshàng Gōng*); **quoted commentary gets a full English rendering, not a paraphrase**
+- you are quoting Wang Bi or Heshang Gong; **quoted commentary gets a full English rendering, not a paraphrase**
 - you are asking a question and think the answer is obvious
 
 A working approximation is fine and expected; the *deep* meaning is what the glossary entry is for. **Unglossed Chinese makes the work unreadable to the person whose work it is** — it silently converts a question into a thing he cannot answer.
@@ -82,7 +84,7 @@ He decides; the AI argues. Bring him a **clear recommendation with the evidence 
 
 ## Standing rules — non-negotiable
 
-0. **Shalom does not read Chinese. Gloss every character, every time — see the banner at the top of this file.** Never write a Chinese character, phrase, or line in conversation or in a document without an immediate English rendering beside it — e.g. 為 (*wéi* — "to do / to handle"), not bare 為. This includes chapter titles, compounds, and terms already discussed earlier in the session. A working approximation is fine and expected; the *deep* meaning is what the glossary entry itself is for. Unglossed Chinese makes the work unreadable to the person whose work it is.
+0. **Shalom does not read Chinese. Gloss every character, every time — see the banner at the top of this file.** Never write a Chinese character, phrase, or line in conversation or in a document without an immediate English rendering beside it — e.g. 為 (*wéi* — "to do / to handle"), not bare 為. This includes chapter titles, compounds, and terms already discussed earlier in the session. **Names of commentators and sources are written romanized, with no characters** — Wang Bi, Heshang Gong, the Shuowen — never 王弼 or 王弼 (*Wáng Bì*). A working approximation is fine and expected; the *deep* meaning is what the glossary entry itself is for. Unglossed Chinese makes the work unreadable to the person whose work it is.
 1. **Never refer to the Sage as "he."** Use singular *they/their*, or recast. This is an impermissible gender bias. Applies to all archetypal figures.
 2. **Universality over the incidental male-default.** The text exalts the feminine as principle yet assumes the male as cultural default. Where they collide: **render toward the universal, note the seam.** Never erase the male-centrism silently.
 3. **Consult sources for *meaning*, never for *phrasing*.** Pre-1931 public domain only. Waley (1934) and later are off-limits.

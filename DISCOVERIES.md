@@ -6,6 +6,55 @@
 
 ---
 
+## 8 · Soiled, or disgraced: what the valley holds to
+
+*Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. The rendering is settled; the question it raised is still worth an essay, and 辱 is owed an entry (`WORKLIST.md` T2-72).*
+
+### The question
+
+The valley's stanza in chapter 28 tells the reader to hold to 辱 (*rǔ* — soiling, disgrace). Our base reads 知其榮，守其辱，為天下谷 (*zhī qí róng, shǒu qí rǔ, wéi tiān xià gǔ* — "know the glory, hold to the disgrace, serve as the world's valley"). Both Mawangdui silks and the *Zhuangzi* read 白 (*bái* — white) where we read 榮 (*róng* — glory), and *"Know the white, hold to the soiled, / serve as the world's valley"* reads truer of land that is made of soil. Shalom asked, before ruling:
+
+> I want to make sure we're being true to Laozi's vision here, and I don't want to dodge "disgrace" if that's what he intended. Was he pointing to the literal soil-makeup of valleys (and in the meantime, challenging our aversion to things that are soiled)? Or was he pointing to the humility that welcomes both glory and disgrace (and resists neither)?
+
+His own answer to how to settle it: *"we must more deeply understand 辱."*
+
+### What the record holds so far
+
+**The graph is a hand in a field.** The oracle-bone 辱 (*rǔ*) is a hand holding 辰 (*chén*), a farming blade, and its first sense was to weed or till, later written 耨 (*nòu* — to hoe). The Shuowen defines it as 恥 (*chǐ* — shame), and explains the shame with the field: 失耕時，於封畺上戮之也, *"whoever missed the ploughing season was punished on the field's boundary."* So even the dictionary's disgrace is a farmer's, given at the edge of the soil.
+
+**The book uses it in six lines, and the pairing decides the sense.**
+
+| Chapter | Line | Paired with | Sense |
+|---|---|---|---|
+| 13, three times | 寵辱若驚 (*chǒng rǔ ruò jīng* — "favor and disgrace are like alarm") | 寵 (*chǒng* — favor) | standing in others' eyes |
+| 44 | 知足不辱 (*zhī zú bù rǔ* — "know what is enough and you are not disgraced") | none | standing in others' eyes |
+| 41 | 大白若辱 (*dà bái ruò rǔ* — "the whitest white seems soiled") | 白 (*bái* — white) | a mark on a surface, as it looks to others |
+| 28 | 守其辱 (*shǒu qí rǔ* — "hold to the 辱") | 榮 (*róng* — glory) in our base · 白 (*bái* — white) in the silks and the *Zhuangzi* | the fork |
+
+**Beside a social word, it is disgrace. Beside white, it is soiling.** So the question is the fork, and the fork is old on both sides. Both silks (c. 200 and 175 BCE) and the *Zhuangzi*'s last chapter read white. The *Huainanzi* (139 BCE) already reads glory, and spells the valley 穀 (*gǔ* — grain): 知其榮，守其辱，為天下穀. Its story for the line is King Wen of Zhou, who after his release from prison made a show of indulgence, *"to wait for the tyrant's failure,"* and let himself be thought less than he was. That is disgrace accepted as a strategy, a political reading.
+
+**The commentators read the soil even where the text says glory.** Heshang Gong, on our base's 知其榮: 辱以喻汚濁, *"rǔ figures the dirty and the murky,"* and 知己之有榮貴，當守之以汚濁, *"knowing you have glory and rank, hold to it with dirt and murk."* On chapter 41: 上德之人若深谷，不恥垢濁也, *"the person of highest integrity is like a deep valley, and is not ashamed of grime and murk."* Wang Bi reads chapter 41 into chapter 28 with white and black.
+
+**The book's own figure for accepted disgrace is grime.** Chapter 78: 受國之垢，是謂社稷主 (*shòu guó zhī gòu, shì wèi shè jì zhǔ* — "whoever takes on the state's grime is called lord of its altars"). Heshang Gong there: 君能愛國垢濁者，若江海不逆小流, *"a ruler who can love the state's grime and murk is like rivers and seas, which do not refuse the small streams."* The *Zhuangzi* quotes the ravine and valley stanzas and goes straight on: 人皆取先，己獨取後，曰：受天下之垢, *"everyone takes the front; he alone takes the back, and says: take on the world's grime."*
+
+### Where it stands
+
+**A first reading, offered for the ruling and not as one:** the two options may not be two. Wherever this text accepts disgrace, it says so with soil: the soiled white of chapter 41, the state's grime of chapter 78, the world's grime in the *Zhuangzi*'s gloss on this very stanza. The figure is the earth, literally. What it points at is the low place in other people's eyes. *Soiled* carries both: a soiled cloth, and a soiled name. *Disgrace* keeps the second and loses the earth.
+
+**Two things the evidence does not yet support.** The text never praises soil for itself, so "challenging our aversion to the soiled" is something the line does by its image, not something it says; Heshang Gong's *not ashamed of grime* is the nearest any source comes. And chapter 28 does not ask the reader to welcome glory and disgrace alike. That is chapter 13, where 寵辱若驚 sets the two side by side as equal alarms. Chapter 28 is asymmetric: know the one, hold to the other.
+
+**Still to read:** the 辱 family, 蓐 (*rù* — matted grass), 溽 (*rù* — damp heat) and 褥 (*rù* — a bedding mat), for whether the sound carries the soil; the received-text history of the 白 / 榮 change; and whether *soiled* can stand in chapter 13 or must stay *disgrace* there.
+
+### The call
+
+**Shalom's call, 2026-10-25: *soiled*, as the more honest rendering.** Chapter 28 now reads *"Know the white, hold to the soiled, / serve as the world's valley,"* following both silks and the *Zhuangzi*, and keeping our stanza order. 辱 now splits by its partner: *soiled* beside white (28, 41), *disgrace* beside favor or as a consequence (13, 44). Whether that split holds is the entry's work.
+
+### Where the evidence sits
+
+`chapters/028.md` → *Notes* · `glossary/gu-谷.md` → *The valley's company* · `notes/manuscript.md` → *Ch 28 · 知其榮，守其辱 / 知其白，守其辱* · `sources/variants.yaml` (chapter 28) · `chapters/041.md` → *大白若辱* · `notes/manuscript.md` → *Ch 13 · 寵為下 / 辱為下*.
+
+---
+
 ## 7 · The soul that stays with the body
 
 *Found at Chapter 10, 2026-10-15. Full argument: `glossary/po-魄.md`.*

@@ -105,7 +105,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 爭,zhēng,contend / contention,locked,,contend / contention,locked,compete; competes; competing; competition,10,7,"3,8,22,66,68,73,81",3,81,1.89,glossary/zheng-爭.md
 矣,yǐ,(closes a statement: now it is so),grammar,,,,,10,7,"31,46,63,65,67,69,74",31,74,1.89,
 終,zhōng,"end / to the end / all (終日, all day) / never (終不)",word,,,,,10,7,"23,26,34,52,55,63,64",23,64,1.89,
-谷,Gǔ,valley,word,,,,,10,7,"6,15,28,32,39,41,66",6,66,1.89,
+谷,Gǔ,valley,locked,,valley,locked,reservoir; basin; hollow; the void; emptiness; nourish,10,7,"6,15,28,32,39,41,66",6,66,1.89,glossary/gu-谷.md
 靜,jìng,stillness / still / to still (15),word,,,,,10,7,"15,16,26,37,45,57,61",15,61,1.89,
 非,fēi,is not / not / is it not?,grammar,,,,,10,7,"1,7,31,39,53,60,65",1,65,1.89,
 執,Zhí,grasp,locked,,grasp,locked,cling; clinging; attachment; embody; control; possess,9,7,"14,29,35,64,69,74,79",14,79,1.7,glossary/zhi-執.md
@@ -161,7 +161,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 極,jí,the far end — where a thing runs out,open,,the far end — where a thing runs out,open,limitless; absolute; ultimate; infinite; extreme; utmost,6,5,"16,28,58,59,68",16,68,1.13,glossary/ji-極.md
 猶,yóu,"like / still, even so / hesitant (15)",grammar,,,,,6,6,"5,15,32,63,73,77",5,77,1.13,
 益,yì,increase / benefit (43),word,,,,,6,4,"42,43,48,55",42,55,1.13,
-辱,rǔ,disgrace / soiled (41),word,,,,,6,4,"13,28,41,44",13,44,1.13,
+辱,rǔ,"soiled (beside white, 28, 41) / disgrace (social, 13, 44)",word,,,,,6,4,"13,28,41,44",13,44,1.13,
 重,Zhòng,heavy / weigh down / baggage (輜重),word,,,,,6,4,"26,59,66,80",26,80,1.13,
 雖,Suī,although / even if,grammar,,,,,6,5,"26,27,32,62,80",26,80,1.13,
 且,qiě,and / and also,grammar,,,,,5,3,"7,41,67",7,67,0.94,
@@ -452,7 +452,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 補,bǔ,fill in / mend,word,,,,,2,1,77,77,77,0.38,
 襲,xí,inheriting/wearing,apparatus,1/1,,,,2,2,"27,52",27,52,0.38,
 謀,móu,plan,word,,,,,2,2,"64,73",64,73,0.38,
-谿,xī,ravine,word,,,,,2,1,28,28,28,0.38,
+谿,xī,ravine,covers,,ravine,locked,,2,1,28,28,28,0.38,glossary/gu-谷.md
 資,zī,raw material/resource,apparatus,2/2,,,,2,1,27,27,27,0.38,
 起,qǐ,rise / appear (57),word,,,,,2,2,"57,64",57,64,0.38,
 迷,mí,confused/lost,apparatus,1/1,,,,2,2,"27,58",27,58,0.38,
@@ -515,7 +515,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 土,tǔ,"dirt, earth",word,,,,,1,1,64,64,64,0.19,
 均,jūn,equalize/harmonize,apparatus,1/1,,,,1,1,32,32,32,0.19,
 坐,zuò,sit,word,,,,,1,1,62,62,62,0.19,
-垢,gòu,filth,word,,,,,1,1,78,78,78,0.19,
+垢,gòu,grime,word,,,,,1,1,78,78,78,0.19,
 埏,Yán,Kneading,apparatus,1/1,,,,1,1,11,11,11,0.19,
 域,Yù,bounds / realm,word,,,,,1,1,25,25,25,0.19,
 埴,zhí,clay,apparatus,1/1,,,,1,1,11,11,11,0.19,
