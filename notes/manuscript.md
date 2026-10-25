@@ -188,9 +188,11 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 ### Ch 15 · 曠兮其若谷 / 莊呵其若浴 (wide, or grave, like a valley) — and in another place
 
-*(2026-10-25, found writing `glossary/gu-谷.md`.)* We print 曠兮其若谷 (*kuàng xī qí ruò gǔ*), *"open, like a valley."* **Mawangdui B reads 莊 (*zhuāng* — grave, dignified) for 曠 (*kuàng* — wide, bright)**, and writes the valley 浴 (*yù* — to bathe), the silks' usual spelling. Silk A's adjective is lost. **Both silks also move the line**: it comes after 混兮其若濁 (*hùn xī qí ruò zhuó* — "mixed, like muddy water"), not before it.
+*(2026-10-25, found writing `glossary/gu-谷.md`.)* We print 曠兮其若谷 (*kuàng xī qí ruò gǔ*), *"open, like a valley."* **Mawangdui B's adjective is disputed between transcriptions.** One prints 莊 (*zhuāng* — grave, dignified). The other prints 𣼥, a rarer graph, and reads it as our 曠 (*kuàng* — wide, bright). Silk A's adjective is lost, and one edition restores 莊 there in brackets. Both silks write the valley 浴 (*yù* — to bathe), their usual spelling. **Both silks also move the line**: it comes after 混兮其若濁 (*hùn xī qí ruò zhuó* — "mixed, like muddy water"), not before it.
 
-**It may be meaning-bearing.** If *grave* is its own word here, the valley sits beside 儼 (*yǎn* — dignified) two lines up, which our English already renders *dignified*. If it is a loan for *wide*, nothing changes. Heshang Gong reads 曠者寬大, *"'wide' means broad and large,"* so his text had *wide*. **Undecided**, and resting on one online parallel-text table; confirm silk B against a printed edition. `sources/variants.yaml`.
+**Guodian has no valley simile at all.** The oldest witness carries ch 15 (bundle A), and its series runs 豫 · 猶 · 儼 · 渙 · 屯 · 沌 (*yù · yóu · yǎn · huàn · tún · dùn* — hesitant, wary, dignified, loosening, solid, muddy): the guest, the melting ice, the uncarved wood, the muddy water, and nothing between them. Its muddy water leads straight into 孰能濁以靜者 (*shú néng zhuó yǐ jìng zhě* — "who can be muddy and, by stilling it..."), the adjacency our base keeps and the silks break.
+
+**It may be meaning-bearing.** If *grave* is the silk's word, the valley sits beside 儼 (*yǎn* — dignified) two lines up, which our English already renders *dignified*. If 𣼥 is a spelling of *wide*, nothing changes. Heshang Gong reads 曠者寬大, *"'wide' means broad and large,"* so his text had *wide*. **Undecided.** Both transcriptions were checked on 2026-10-25; the printed editions were not. `sources/variants.yaml`.
 
 ### Ch 23 · three facts on one chapter — a dropped 道者, a 得/失 swap, and a Ming witness without 樂
 
@@ -713,5 +715,5 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 **It is meaning-bearing.** With 川 (*chuān* — a stream, a river) the simile has two kinds of water running down to the river and the sea. With 小 (*xiǎo* — small) it has one: small valleys and the great waters. *Small* then answers the chapter's own 樸雖小 (*pǔ suī xiǎo* — "though small"), the Tao's smallness in its second line. Either way the valleys run down, and the river and the sea are below.
 
-**Undecided**, and Guodian's reading rests on one online parallel-text table; confirm against the 1998 edition of the slips. `sources/variants.yaml`.
+**Undecided.** Two independent transcriptions agree on Guodian's 小谷 and silk B's 小浴 (checked 2026-10-25); the printed editions were not consulted. `sources/variants.yaml`.
 
