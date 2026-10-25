@@ -15131,8 +15131,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "called",
-   "gs": "apparatus",
+   "g": "is called · call · say · mean",
+   "gs": "word",
    "hw": "謂",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -15674,7 +15674,7 @@
    "fq": null,
    "fw": 0,
    "g": "state",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "國",
    "kind": "compound",
    "lock": 0,
@@ -16367,8 +16367,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "earth",
-   "gs": "apparatus",
+   "g": "earth · ground",
+   "gs": "word",
    "hw": "地",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -16554,8 +16554,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "one who overcomes · defeats",
-   "gs": "apparatus",
+   "g": "overcome · win · victory",
+   "gs": "word",
    "hw": "勝",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -16973,8 +16973,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "many · much",
-   "gs": "apparatus",
+   "g": "much, many · more",
+   "gs": "word",
    "hw": "多",
    "kind": "compound",
    "lock": 0,
@@ -17218,8 +17218,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "hard",
-   "gs": "apparatus",
+   "g": "difficult · hard · rare (難得)",
+   "gs": "word",
    "hw": null,
    "kind": null,
    "lock": 0,
@@ -17498,7 +17498,7 @@
    "fq": "穌甘切",
    "fw": 0,
    "g": "three",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "三",
    "kind": "compound",
    "lock": 0,
@@ -17561,8 +17561,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "merge · identify",
-   "gs": "apparatus",
+   "g": "the same · same as · together",
+   "gs": "word",
    "hw": "同",
    "kind": "compound",
    "lock": 0,
@@ -17769,7 +17769,7 @@
    "fq": null,
    "fw": 0,
    "g": "return",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "歸",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -18213,8 +18213,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "last the whole",
-   "gs": "apparatus",
+   "g": "end · to the end · all (終日, all day) · never (終不)",
+   "gs": "word",
    "hw": "終",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -18448,8 +18448,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "in killing",
-   "gs": "apparatus",
+   "g": "kill · killing",
+   "gs": "word",
    "hw": "殺",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -18643,8 +18643,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "glorifying · beautifying",
-   "gs": "apparatus",
+   "g": "beauty · fine · pretty · glorify",
+   "gs": "word",
    "hw": "美",
    "kind": "compound",
    "lock": 0,
@@ -18708,8 +18708,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "leftover · surplus",
-   "gs": "apparatus",
+   "g": "too much · more than enough · leftover · remain",
+   "gs": "word",
    "hw": "餘",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -18774,8 +18774,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "cause",
-   "gs": "apparatus",
+   "g": "make (令人) · command · laws (法令)",
+   "gs": "word",
    "hw": "令",
    "kind": "compound",
    "lock": 0,
@@ -18837,8 +18837,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "ancient",
-   "gs": "apparatus",
+   "g": "ancient · the ancients",
+   "gs": "word",
    "hw": "古",
    "kind": "compound",
    "lock": 0,
@@ -18870,8 +18870,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "harmonious",
-   "gs": "apparatus",
+   "g": "harmony · harmonize · dim (和其光) · settle",
+   "gs": "word",
    "hw": "和",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -18938,8 +18938,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "beginnings · origins",
-   "gs": "apparatus",
+   "g": "beginning · begin · origin",
+   "gs": "word",
    "hw": "始",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -19036,8 +19036,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "glad · happy",
-   "gs": "apparatus",
+   "g": "gladly · delight in · pleasure · music (yuè)",
+   "gs": "word",
    "hw": "樂",
    "kind": "pictograph",
    "lock": 0,
@@ -19102,8 +19102,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "fear",
-   "gs": "apparatus",
+   "g": "fear · wary of",
+   "gs": "word",
    "hw": "畏",
    "kind": "compound",
    "lock": 0,
@@ -19329,8 +19329,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "emerge",
-   "gs": "apparatus",
+   "g": "go out, leave · arise · emerge · yield",
+   "gs": "word",
    "hw": "出",
    "kind": "pictograph",
    "lock": 0,
@@ -19584,8 +19584,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "alone",
-   "gs": "apparatus",
+   "g": "alone · solitary",
+   "gs": "word",
    "hw": "獨",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -19619,8 +19619,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "hundred",
-   "gs": "apparatus",
+   "g": "hundred · everyone (百姓)",
+   "gs": "word",
    "hw": "百",
    "kind": "compound",
    "lock": 0,
@@ -19650,8 +19650,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "hearing",
-   "gs": "apparatus",
+   "g": "hear · it is said (蓋聞)",
+   "gs": "word",
    "hw": "聞",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -19714,8 +19714,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "master · ruler",
-   "gs": "apparatus",
+   "g": "ruler · the noble (君子)",
+   "gs": "word",
    "hw": "君",
    "kind": "compound",
    "lock": 0,
@@ -19870,8 +19870,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "day",
-   "gs": "apparatus",
+   "g": "day · daily · all day (終日)",
+   "gs": "word",
    "hw": "日",
    "kind": "compound",
    "lock": 0,
@@ -19928,7 +19928,7 @@
    "fq": null,
    "fw": 0,
    "g": "abandon",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "棄",
    "kind": "compound",
    "lock": 0,
@@ -20094,8 +20094,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "heavy · mass",
-   "gs": "apparatus",
+   "g": "heavy · weigh down · baggage (輜重)",
+   "gs": "word",
    "hw": "重",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20187,8 +20187,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "seem",
-   "gs": "apparatus",
+   "g": "seem · look like",
+   "gs": "word",
    "hw": "佀",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20536,8 +20536,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "family · nation",
-   "gs": "apparatus",
+   "g": "family · state (國家)",
+   "gs": "word",
    "hw": "家",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20599,8 +20599,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "diminish",
-   "gs": "apparatus",
+   "g": "few, little · diminish · alone, meager (孤寡)",
+   "gs": "word",
    "hw": "寡",
    "kind": "compound",
    "lock": 0,
@@ -20658,8 +20658,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "model · pattern",
-   "gs": "apparatus",
+   "g": "pattern",
+   "gs": "word",
    "hw": "式",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20755,8 +20755,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "loving · cherishing",
-   "gs": "apparatus",
+   "g": "love · attachment",
+   "gs": "word",
    "hw": "愛",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20786,7 +20786,7 @@
    "fq": null,
    "fw": 0,
    "g": "ruin",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "敗",
    "kind": "compound",
    "lock": 0,
@@ -20846,7 +20846,7 @@
    "fq": null,
    "fw": 0,
    "g": "root",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "根",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20877,8 +20877,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "stopping point",
-   "gs": "apparatus",
+   "g": "stop · halt",
+   "gs": "word",
    "hw": "止",
    "kind": "pictograph",
    "lock": 0,
@@ -20906,8 +20906,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "danger · exhaustion",
-   "gs": "apparatus",
+   "g": "danger",
+   "gs": "word",
    "hw": "殆",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -20936,8 +20936,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "models · follows the law of",
-   "gs": "apparatus",
+   "g": "model oneself on · laws (法令)",
+   "gs": "word",
    "hw": "灋",
    "kind": "compound",
    "lock": 0,
@@ -20967,7 +20967,7 @@
    "fq": null,
    "fw": 0,
    "g": "female",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "牝",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -21315,8 +21315,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "alarm",
-   "gs": "apparatus",
+   "g": "shock",
+   "gs": "word",
    "hw": "驚",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -21379,8 +21379,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "perish",
-   "gs": "apparatus",
+   "g": "loss · perish · forget",
+   "gs": "word",
    "hw": "亡",
    "kind": "compound",
    "lock": 0,
@@ -21647,8 +21647,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "returning · reverting",
-   "gs": "apparatus",
+   "g": "return · turn back · opposite",
+   "gs": "word",
    "hw": "反",
    "kind": "compound",
    "lock": 0,
@@ -21734,8 +21734,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "flavors · tastes",
-   "gs": "apparatus",
+   "g": "flavor · taste",
+   "gs": "word",
    "hw": "味",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -21856,8 +21856,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "surnames · people",
-   "gs": "apparatus",
+   "g": "surname (百姓, everyone)",
+   "gs": "word",
    "hw": "姓",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -21920,8 +21920,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "study · learning",
-   "gs": "apparatus",
+   "g": "learning · learn",
+   "gs": "word",
    "hw": "斆",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -22041,8 +22041,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "still",
-   "gs": "apparatus",
+   "g": "exalt · honor · even",
+   "gs": "word",
    "hw": "尚",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -22073,8 +22073,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "it is close · near",
-   "gs": "apparatus",
+   "g": "nearly · how much (幾何) · just short of",
+   "gs": "word",
    "hw": "幾",
    "kind": "compound",
    "lock": 0,
@@ -22470,8 +22470,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "nourishing · rearing",
-   "gs": "apparatus",
+   "g": "rear",
+   "gs": "word",
    "hw": "畜",
    "kind": "unanalysed",
    "lock": 0,
@@ -22499,7 +22499,7 @@
    "fq": null,
    "fw": 0,
    "g": "thieves",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "盜",
    "kind": "compound",
    "lock": 0,
@@ -22650,8 +22650,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "army · campaign",
-   "gs": "apparatus",
+   "g": "army · military · general (將軍)",
+   "gs": "word",
    "hw": "軍",
    "kind": "compound",
    "lock": 0,
@@ -22767,8 +22767,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "five",
-   "gs": "apparatus",
+   "g": "five (五色, the full spectrum of colors)",
+   "gs": "word",
    "hw": "五",
    "kind": "compound",
    "lock": 0,
@@ -23245,7 +23245,7 @@
    "fq": null,
    "fw": 0,
    "g": "four",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "四",
    "kind": "pictograph",
    "lock": 0,
@@ -23271,8 +23271,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "place in",
-   "gs": "apparatus",
+   "g": "in · be in",
+   "gs": "word",
    "hw": "在",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -23329,8 +23329,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "invisible · colorless",
-   "gs": "apparatus",
+   "g": "level · the invisible",
+   "gs": "word",
    "hw": "夷",
    "kind": "compound",
    "lock": 0,
@@ -23359,8 +23359,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "prone to · tend to",
-   "gs": "apparatus",
+   "g": "love · tend to",
+   "gs": "word",
    "hw": "好",
    "kind": "compound",
    "lock": 0,
@@ -23417,8 +23417,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "guest",
-   "gs": "apparatus",
+   "g": "guest · second (為客)",
+   "gs": "word",
    "hw": "客",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -23540,8 +23540,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "skill · cunning",
-   "gs": "apparatus",
+   "g": "cunning · skill",
+   "gs": "word",
    "hw": "巧",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -23570,8 +23570,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "teacher · master",
-   "gs": "apparatus",
+   "g": "teacher, master · armies",
+   "gs": "word",
    "hw": "師",
    "kind": "compound",
    "lock": 0,
@@ -23720,8 +23720,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "prominent · manifest",
-   "gs": "apparatus",
+   "g": "show · proclaimed",
+   "gs": "word",
    "hw": "彰",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24054,8 +24054,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "supported · safe",
-   "gs": "apparatus",
+   "g": "blunt (verse reads 載, carry)",
+   "gs": "word",
    "hw": "挫",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24113,8 +24113,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "in governing",
-   "gs": "apparatus",
+   "g": "government",
+   "gs": "word",
    "hw": "政",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24172,8 +24172,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "root · foundation",
-   "gs": "apparatus",
+   "g": "root",
+   "gs": "word",
    "hw": "本",
    "kind": "compound",
    "lock": 0,
@@ -24260,8 +24260,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "vital breath",
-   "gs": "apparatus",
+   "g": "breath · vital breath",
+   "gs": "word",
    "hw": "氣",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24291,7 +24291,7 @@
    "fq": null,
    "fw": 0,
    "g": "water",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "水",
    "kind": "pictograph",
    "lock": 0,
@@ -24347,7 +24347,7 @@
    "fq": null,
    "fw": 0,
    "g": "sea",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "海",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24377,8 +24377,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "so deep",
-   "gs": "apparatus",
+   "g": "deep",
+   "gs": "word",
    "hw": "深",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24408,8 +24408,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "good at depth · abyss",
-   "gs": "apparatus",
+   "g": "deep water · fathomless · deep",
+   "gs": "word",
    "hw": "淵",
    "kind": "compound",
    "lock": 0,
@@ -24498,8 +24498,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "shape · form",
-   "gs": "apparatus",
+   "g": "shape",
+   "gs": "word",
    "hw": "狀",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24530,7 +24530,7 @@
    "fq": "魚欲切",
    "fw": 0,
    "g": "jade",
-   "gs": "apparatus",
+   "gs": "word",
    "hw": "玉",
    "kind": "pictograph",
    "lock": 0,
@@ -24554,8 +24554,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "just at",
-   "gs": "apparatus",
+   "g": "in, at (當其無, in what is not there)",
+   "gs": "word",
    "hw": "當",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -24585,8 +24585,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "white · light",
-   "gs": "apparatus",
+   "g": "white · clarity (明白)",
+   "gs": "word",
    "hw": "白",
    "kind": "compound",
    "lock": 0,
@@ -24615,8 +24615,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "eyes",
-   "gs": "apparatus",
+   "g": "eye",
+   "gs": "word",
    "hw": "目",
    "kind": "pictograph",
    "lock": 0,
@@ -24642,8 +24642,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "straight",
-   "gs": "apparatus",
+   "g": "straight · straightness",
+   "gs": "word",
    "hw": "直",
    "kind": "compound",
    "lock": 0,
@@ -24673,8 +24673,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "real · true",
-   "gs": "apparatus",
+   "g": "real · truth · authentic",
+   "gs": "word",
    "hw": "眞",
    "kind": "compound",
    "lock": 0,
@@ -24952,8 +24952,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "age · decay",
-   "gs": "apparatus",
+   "g": "decay · grow old",
+   "gs": "word",
    "hw": "老",
    "kind": "compound",
    "lock": 0,
@@ -25041,8 +25041,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "looking at",
-   "gs": "apparatus",
+   "g": "look · vision (久視)",
+   "gs": "word",
    "hw": "視",
    "kind": "compound",
    "lock": 0,
@@ -25070,8 +25070,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "untied",
-   "gs": "apparatus",
+   "g": "untangle · untie",
+   "gs": "word",
    "hw": "解",
    "kind": "compound",
    "lock": 0,
@@ -25131,8 +25131,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "praise",
-   "gs": "apparatus",
+   "g": "praise (verse reads 輿, cart)",
+   "gs": "word",
    "hw": "譽",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -25162,8 +25162,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "robbers",
-   "gs": "apparatus",
+   "g": "thieves (盜賊) · rob",
+   "gs": "word",
    "hw": "賊",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -25253,8 +25253,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "restless · agitated",
-   "gs": "apparatus",
+   "g": "agitation · movement",
+   "gs": "word",
    "hw": "趮",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -25316,8 +25316,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "retreats · retires",
-   "gs": "apparatus",
+   "g": "withdraw · retreat · give up",
+   "gs": "word",
    "hw": null,
    "kind": null,
    "lock": 0,
@@ -25374,8 +25374,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "be left behind · lacking",
-   "gs": "apparatus",
+   "g": "leave · miss out",
+   "gs": "word",
    "hw": "遺",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -25494,8 +25494,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "sharpening",
-   "gs": "apparatus",
+   "g": "sharpness · sharp",
+   "gs": "word",
    "hw": "銳",
    "kind": "phonetic-compound",
    "lock": 0,
@@ -25525,8 +25525,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "closing",
-   "gs": "apparatus",
+   "g": "close",
+   "gs": "word",
    "hw": "閉",
    "kind": "compound",
    "lock": 0,
@@ -25647,8 +25647,8 @@
    "entry": null,
    "fq": null,
    "fw": 0,
-   "g": "tones · notes",
-   "gs": "apparatus",
+   "g": "tone · sound",
+   "gs": "word",
    "hw": "音",
    "kind": "compound",
    "lock": 0,
@@ -40190,11 +40190,11 @@
   ],
   "五": [
    "Wǔ",
-   "five"
+   "five (五色, the full spectrum of colors)"
   ],
   "亡": [
    "wáng",
-   "perish"
+   "loss · perish · forget"
   ],
   "交": [
    "jiāo",
@@ -40246,7 +40246,7 @@
   ],
   "令": [
    "lìng",
-   "cause"
+   "make (令人) · command · laws (法令)"
   ],
   "以": [
    "yǐ",
@@ -40274,7 +40274,7 @@
   ],
   "似": [
    "sì",
-   "seem"
+   "seem · look like"
   ],
   "佐": [
    "zuǒ",
@@ -40470,7 +40470,7 @@
   ],
   "出": [
    "chū",
-   "emerge"
+   "go out, leave · arise · emerge · yield"
   ],
   "刀": [
    "dāo",
@@ -40534,7 +40534,7 @@
   ],
   "勝": [
    "Shèng",
-   "one who overcomes · defeats"
+   "overcome · win · victory"
   ],
   "勢": [
    "shì",
@@ -40610,7 +40610,7 @@
   ],
   "反": [
    "fǎn",
-   "returning · reverting"
+   "return · turn back · opposite"
   ],
   "取": [
    "qǔ",
@@ -40626,7 +40626,7 @@
   ],
   "古": [
    "gǔ",
-   "ancient"
+   "ancient · the ancients"
   ],
   "召": [
    "zhào",
@@ -40658,7 +40658,7 @@
   ],
   "同": [
    "tóng",
-   "merge · identify"
+   "the same · same as · together"
   ],
   "名": [
    "míng",
@@ -40666,7 +40666,7 @@
   ],
   "君": [
    "jūn",
-   "master · ruler"
+   "ruler · the noble (君子)"
   ],
   "含": [
    "Hán",
@@ -40686,7 +40686,7 @@
   ],
   "味": [
    "wèi",
-   "flavors · tastes"
+   "flavor · taste"
   ],
   "命": [
    "mìng",
@@ -40694,7 +40694,7 @@
   ],
   "和": [
    "hé",
-   "harmonious"
+   "harmony · harmonize · dim (和其光) · settle"
   ],
   "咎": [
    "jiù",
@@ -40762,11 +40762,11 @@
   ],
   "在": [
    "zài",
-   "place in"
+   "in · be in"
   ],
   "地": [
    "dì",
-   "earth"
+   "earth · ground"
   ],
   "均": [
    "jūn",
@@ -40846,7 +40846,7 @@
   ],
   "多": [
    "Duō",
-   "many · much"
+   "much, many · more"
   ],
   "大": [
    "dà",
@@ -40874,7 +40874,7 @@
   ],
   "夷": [
    "yí",
-   "invisible · colorless"
+   "level · the invisible"
   ],
   "夸": [
    "kuā",
@@ -40914,7 +40914,7 @@
   ],
   "好": [
    "hào",
-   "prone to · tend to"
+   "love · tend to"
   ],
   "如": [
    "rú",
@@ -40938,11 +40938,11 @@
   ],
   "始": [
    "shǐ",
-   "beginnings · origins"
+   "beginning · begin · origin"
   ],
   "姓": [
    "xìng",
-   "surnames · people"
+   "surname (百姓, everyone)"
   ],
   "威": [
    "wēi",
@@ -40990,7 +40990,7 @@
   ],
   "學": [
    "xué",
-   "study · learning"
+   "learning · learn"
   ],
   "宀": [
    "mián",
@@ -41018,7 +41018,7 @@
   ],
   "客": [
    "kè",
-   "guest"
+   "guest · second (為客)"
   ],
   "室": [
    "shì",
@@ -41034,7 +41034,7 @@
   ],
   "家": [
    "jiā",
-   "family · nation"
+   "family · state (國家)"
   ],
   "容": [
    "róng",
@@ -41062,7 +41062,7 @@
   ],
   "寡": [
    "guǎ",
-   "diminish"
+   "few, little · diminish · alone, meager (孤寡)"
   ],
   "寥": [
    "liáo",
@@ -41110,7 +41110,7 @@
   ],
   "尚": [
    "shàng",
-   "still"
+   "exalt · honor · even"
   ],
   "尤": [
    "yóu",
@@ -41158,7 +41158,7 @@
   ],
   "巧": [
    "qiǎo",
-   "skill · cunning"
+   "cunning · skill"
   ],
   "己": [
    "jǐ",
@@ -41190,7 +41190,7 @@
   ],
   "師": [
    "shī",
-   "teacher · master"
+   "teacher, master · armies"
   ],
   "帶": [
    "dài",
@@ -41210,7 +41210,7 @@
   ],
   "幾": [
    "jī",
-   "it is close · near"
+   "nearly · how much (幾何) · just short of"
   ],
   "广": [
    "yǎn",
@@ -41246,7 +41246,7 @@
   ],
   "式": [
    "shì",
-   "model · pattern"
+   "pattern"
   ],
   "弓": [
    "gōng",
@@ -41282,7 +41282,7 @@
   ],
   "彰": [
    "zhāng",
-   "prominent · manifest"
+   "show · proclaimed"
   ],
   "彳": [
    "chì",
@@ -41442,7 +41442,7 @@
   ],
   "愛": [
    "Ài",
-   "loving · cherishing"
+   "love · attachment"
   ],
   "慈": [
    "cí",
@@ -41554,7 +41554,7 @@
   ],
   "挫": [
    "Cuò",
-   "supported · safe"
+   "blunt (verse reads 載, carry)"
   ],
   "捨": [
    "shě",
@@ -41610,7 +41610,7 @@
   ],
   "政": [
    "zhèng",
-   "in governing"
+   "government"
   ],
   "故": [
    "Gù",
@@ -41690,7 +41690,7 @@
   ],
   "日": [
    "rì",
-   "day"
+   "day · daily · all day (終日)"
   ],
   "早": [
    "zǎo",
@@ -41794,7 +41794,7 @@
   ],
   "本": [
    "běn",
-   "root · foundation"
+   "root"
   ],
   "朿": [
    "cì",
@@ -41854,7 +41854,7 @@
   ],
   "樂": [
    "lè",
-   "glad · happy"
+   "gladly · delight in · pleasure · music (yuè)"
   ],
   "樸": [
    "pǔ",
@@ -41890,7 +41890,7 @@
   ],
   "止": [
    "zhǐ",
-   "stopping point"
+   "stop · halt"
   ],
   "正": [
    "zhèng",
@@ -41922,11 +41922,11 @@
   ],
   "殆": [
    "dài",
-   "danger · exhaustion"
+   "danger"
   ],
   "殺": [
    "shā",
-   "in killing"
+   "kill · killing"
   ],
   "母": [
    "mǔ",
@@ -41950,7 +41950,7 @@
   ],
   "氣": [
    "qì",
-   "vital breath"
+   "breath · vital breath"
   ],
   "水": [
    "shuǐ",
@@ -41994,7 +41994,7 @@
   ],
   "法": [
    "fǎ",
-   "models · follows the law of"
+   "model oneself on · laws (法令)"
   ],
   "泣": [
    "qì",
@@ -42034,7 +42034,7 @@
   ],
   "深": [
    "Shēn",
-   "so deep"
+   "deep"
   ],
   "淳": [
    "chún",
@@ -42042,7 +42042,7 @@
   ],
   "淵": [
    "Yuān",
-   "good at depth · abyss"
+   "deep water · fathomless · deep"
   ],
   "混": [
    "hùn",
@@ -42182,7 +42182,7 @@
   ],
   "狀": [
    "zhuàng",
-   "shape · form"
+   "shape"
   ],
   "狂": [
    "kuáng",
@@ -42206,7 +42206,7 @@
   ],
   "獨": [
    "dú",
-   "alone"
+   "alone · solitary"
   ],
   "獵": [
    "liè",
@@ -42278,11 +42278,11 @@
   ],
   "畏": [
    "wèi",
-   "fear"
+   "fear · wary of"
   ],
   "畜": [
    "xù",
-   "nourishing · rearing"
+   "rear"
   ],
   "異": [
    "yì",
@@ -42290,7 +42290,7 @@
   ],
   "當": [
    "dāng",
-   "just at"
+   "in, at (當其無, in what is not there)"
   ],
   "疏": [
    "shū",
@@ -42318,11 +42318,11 @@
   ],
   "白": [
    "bái",
-   "white · light"
+   "white · clarity (明白)"
   ],
   "百": [
    "bǎi",
-   "hundred"
+   "hundred · everyone (百姓)"
   ],
   "皆": [
    "jiē",
@@ -42346,7 +42346,7 @@
   ],
   "目": [
    "mù",
-   "eyes"
+   "eye"
   ],
   "盲": [
    "máng",
@@ -42354,7 +42354,7 @@
   ],
   "直": [
    "zhí",
-   "straight"
+   "straight · straightness"
   ],
   "相": [
    "xiāng",
@@ -42362,7 +42362,7 @@
   ],
   "真": [
    "zhēn",
-   "real · true"
+   "real · truth · authentic"
   ],
   "眾": [
    "zhòng",
@@ -42554,7 +42554,7 @@
   ],
   "終": [
    "zhōng",
-   "last the whole"
+   "end · to the end · all (終日, all day) · never (終不)"
   ],
   "結": [
    "jié",
@@ -42614,7 +42614,7 @@
   ],
   "美": [
    "měi",
-   "glorifying · beautifying"
+   "beauty · fine · pretty · glorify"
   ],
   "義": [
    "yì",
@@ -42630,7 +42630,7 @@
   ],
   "老": [
    "lǎo",
-   "age · decay"
+   "decay · grow old"
   ],
   "者": [
    "zhě",
@@ -42650,7 +42650,7 @@
   ],
   "聞": [
    "wén",
-   "hearing"
+   "hear · it is said (蓋聞)"
   ],
   "聲": [
    "shēng",
@@ -42886,7 +42886,7 @@
   ],
   "視": [
    "Shì",
-   "looking at"
+   "look · vision (久視)"
   ],
   "親": [
    "qīn",
@@ -42906,7 +42906,7 @@
   ],
   "解": [
    "jiě",
-   "untied"
+   "untangle · untie"
   ],
   "言": [
    "yán",
@@ -42950,7 +42950,7 @@
   ],
   "謂": [
    "wèi",
-   "called"
+   "is called · call · say · mean"
   ],
   "謫": [
    "zhé",
@@ -42966,7 +42966,7 @@
   ],
   "譽": [
    "yù",
-   "praise"
+   "praise (verse reads 輿, cart)"
   ],
   "谷": [
    "Gǔ",
@@ -43038,7 +43038,7 @@
   ],
   "賊": [
    "zéi",
-   "robbers"
+   "thieves (盜賊) · rob"
   ],
   "賓": [
    "bīn",
@@ -43094,7 +43094,7 @@
   ],
   "躁": [
    "zào",
-   "restless · agitated"
+   "agitation · movement"
   ],
   "身": [
    "shēn",
@@ -43106,7 +43106,7 @@
   ],
   "軍": [
    "jūn",
-   "army · campaign"
+   "army · military · general (將軍)"
   ],
   "載": [
    "Zài",
@@ -43170,7 +43170,7 @@
   ],
   "退": [
    "tuì",
-   "retreats · retires"
+   "withdraw · retreat · give up"
   ],
   "通": [
    "tōng",
@@ -43210,7 +43210,7 @@
   ],
   "遺": [
    "yí",
-   "be left behind · lacking"
+   "leave · miss out"
   ],
   "還": [
    "huán",
@@ -43258,7 +43258,7 @@
   ],
   "重": [
    "Zhòng",
-   "heavy · mass"
+   "heavy · weigh down · baggage (輜重)"
   ],
   "金": [
    "Jīn",
@@ -43266,7 +43266,7 @@
   ],
   "銳": [
    "ruì",
-   "sharpening"
+   "sharpness · sharp"
   ],
   "鎮": [
    "zhèn",
@@ -43286,7 +43286,7 @@
   ],
   "閉": [
    "bì",
-   "closing"
+   "close"
   ],
   "開": [
    "kāi",
@@ -43386,7 +43386,7 @@
   ],
   "難": [
    "nán",
-   "hard"
+   "difficult · hard · rare (難得)"
   ],
   "雨": [
    "yǔ",
@@ -43414,7 +43414,7 @@
   ],
   "音": [
    "yīn",
-   "tones · notes"
+   "tone · sound"
   ],
   "頁": [
    "yè",
@@ -43462,7 +43462,7 @@
   ],
   "餘": [
    "yú",
-   "leftover · surplus"
+   "too much · more than enough · leftover · remain"
   ],
   "首": [
    "shǒu",
@@ -43490,7 +43490,7 @@
   ],
   "驚": [
    "jīng",
-   "alarm"
+   "shock"
   ],
   "驟": [
    "Zhòu",
