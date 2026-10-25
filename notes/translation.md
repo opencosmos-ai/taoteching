@@ -136,6 +136,8 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **Two em-dashes went with the rewrite, not as a decision. T4-3 stays deferred**; ch 28 simply leaves its list.
 
+**知其榮，守其辱 → "Know the white, hold to the soiled."** *(2026-10-25, Shalom's call.)* *(was: "Know the glory, hold to the disgrace.")* We follow both Mawangdui silks and the *Zhuangzi* in reading 白 (*bái* — white) for 榮 (*róng* — glory); beside white, 辱 (*rǔ*) is a soiling, as at ch 41. *Soiled* holds the earth and the stained name together, where *disgrace* held only the name. 辱 now splits by its partner: *soiled* beside white (28, 41), *disgrace* beside favor or as a consequence (13, 44). The argument: `chapters/028.md`, `DISCOVERIES.md` §8.
+
 ### Ch 38 · the 道 → 德 → 仁 → 義 → 禮 descent rebuilt, and the rank-word seam named
 
 *(2026-08-31, Pass D. `WORKLIST.md` T1-4. The chapter's own Notes carry the line-by-line.)*
@@ -234,7 +236,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **故建言有之 introduces a quotation, and twelve proverbs followed it packed onto five English lines.** `--formulas 41` shows the chapter is almost nothing but frames — ▢士聞道 ×3, ▢道若▢ ×3, ▢德若▢ ×3, 大▢無▢ ×2, and 大▢若▢ five times across **ch 41 and ch 45 together**. The English also changed shape as it went (*"Bright Tao seems dark"* against *"The highest integrity seems **like** a valley"*). Now one saying per line.
 
-**大白若辱 → "The great white seems disgraced."** *(Was "true purity seems soiled.")* **大 had been replaced by *true*** — a breach of `glossary/da-大.md` that **no check can catch**, since every rule keys off a forbidden word and this is an absence. 白 is *white*, not *purity*; and 王弼 quotes ch 28 outright — 知其白守其黑，大白然後乃得 — so the old line severed a link the commentator states. 辱 → **disgraced**, matching ch 28's 守其辱 and ch 13's 寵辱.
+**大白若辱 → "The great white seems disgraced."** *(Was "true purity seems soiled.")* **大 had been replaced by *true*** — a breach of `glossary/da-大.md` that **no check can catch**, since every rule keys off a forbidden word and this is an absence. 白 is *white*, not *purity*; and 王弼 quotes ch 28 outright — 知其白守其黑，大白然後乃得 — so the old line severed a link the commentator states. 辱 → **disgraced**, matching ch 28's 守其辱 and ch 13's 寵辱. *(Superseded: ch 41 reads "soiled" since 2026-09-07, and ch 28 reads "soiled" since 2026-10-25.)*
 
 **建 (*jiàn*) takes two Englishes in one chapter, deliberately** — *"the **established** sayings"* (建言) and *"**Sturdy** integrity"* (建德). They were unified to *established* first and the unification was undone: in English *"established integrity"* collapses into **long-standing**, a reputation, which is the opposite of the line. **The grammar licenses the split** — 建言 is a fixed compound (a received body of maxims), 建德 is 建 modifying a noun — the same pattern as 事 and 弱. The cost is that a reader cannot see the shared character; the chapter notes carry it.
 

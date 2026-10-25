@@ -8,7 +8,7 @@
 
 ## 8 · Soiled, or disgraced: what the valley holds to
 
-*Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. A question, not yet answered. The fork is `WORKLIST.md` T2-71.*
+*Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. The rendering is settled; the question it raised is still worth an essay, and 辱 is owed an entry (`WORKLIST.md` T2-72).*
 
 ### The question
 
@@ -45,9 +45,13 @@ His own answer to how to settle it: *"we must more deeply understand 辱."*
 
 **Still to read:** the 辱 family, 蓐 (*rù* — matted grass), 溽 (*rù* — damp heat) and 褥 (*rù* — a bedding mat), for whether the sound carries the soil; the received-text history of the 白 / 榮 change; and whether *soiled* can stand in chapter 13 or must stay *disgrace* there.
 
+### The call
+
+**Shalom's call, 2026-10-25: *soiled*, as the more honest rendering.** Chapter 28 now reads *"Know the white, hold to the soiled, / serve as the world's valley,"* following both silks and the *Zhuangzi*, and keeping our stanza order. 辱 now splits by its partner: *soiled* beside white (28, 41), *disgrace* beside favor or as a consequence (13, 44). Whether that split holds is the entry's work.
+
 ### Where the evidence sits
 
-`glossary/gu-谷.md` → *The valley's company* · `notes/manuscript.md` → *Ch 28 · 知其榮，守其辱 / 知其白，守其辱* · `sources/variants.yaml` (chapter 28) · `chapters/041.md` → *大白若辱* · `notes/manuscript.md` → *Ch 13 · 寵為下 / 辱為下*.
+`chapters/028.md` → *Notes* · `glossary/gu-谷.md` → *The valley's company* · `notes/manuscript.md` → *Ch 28 · 知其榮，守其辱 / 知其白，守其辱* · `sources/variants.yaml` (chapter 28) · `chapters/041.md` → *大白若辱* · `notes/manuscript.md` → *Ch 13 · 寵為下 / 辱為下*.
 
 ---
 

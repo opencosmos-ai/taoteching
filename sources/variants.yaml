@@ -1613,7 +1613,7 @@
   base: "榮"
   witnesses: { mawangdui-a: "白", mawangdui-b: "白" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
     Silk A reads 知其白，守其辱，為天下浴 (zhi qi bai, shou qi ru, wei tian xia yu -
     "know the white, hold to the soiled, serve as the world's valley") and sets
@@ -1630,6 +1630,8 @@
     schema witness id, so it is recorded here. The Huainanzi (139 BCE, its
     chapter 道應 dao ying) already reads 知其榮，守其辱，為天下穀, with glory, and
     spells the valley 穀 (gu - grain), so the received reading is early too.
+    Followed 2026-10-25, Shalom's call: the verse reads "Know the white, hold
+    to the soiled," keeping our stanza order.
   logged: notes/manuscript.md
 
 - chapter: 28

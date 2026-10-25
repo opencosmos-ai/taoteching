@@ -40,8 +40,10 @@ Nine of eleven are the first. The two that are not are the two where 守 has sto
 
 守 is how the book says *do this*, and the shape recurs. Chapter 28 runs it three times as a template:
 
-> 知其雄，**守**其雌 · 知其白，**守**其黑 · 知其榮，**守**其辱
-> *"Know the rooster, hold to the hen · know the white, hold to the black · know the glory, hold to the disgrace."*
+> 知其雄，**守**其雌 · 知其白，**守**其黑 · 知其白，**守**其辱
+> *"Know the rooster, hold to the hen · know the white, hold to the black · know the white, hold to the soiled."*
+
+*(The third is the silks' reading, which ch 28 follows since 2026-10-25; our base text reads 知其榮 (*zhī qí róng* — "know the glory").)*
 
 Knowing is the easy half. 守 is the half you have to keep doing, and the pairing with 知 (*zhī* — to know) is what makes the stanza a practice rather than an observation. Chapters 32 and 37 use one line verbatim — 侯王若能**守**之 — for the whole political programme, and chapter 52 uses it for the most consoling movement in the book: 既知其子，復**守**其母, *"know her children, return and hold fast to the mother."*
 
