@@ -709,10 +709,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 40,4,有,Yǒu,無 & 有,presence,yes,1.0,exact-count,Presence is born from absence.
 40,4,無,wú,無 & 有,absence,yes,1.0,exact-count,Presence is born from absence.
 40,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Presence is born from absence.
-41,1,勤,qín,勤,strain,yes,1.0,authored,Those highest in service hear the Tao and strain to practice it.
-41,1,士,shì,士,in service,yes,1.0,authored,Those highest in service hear the Tao and strain to practice it.
-41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Those highest in service hear the Tao and strain to practice it.
-41,1,道,dào,道,the Tao / way,yes,1.0,authored,Those highest in service hear the Tao and strain to practice it.
+41,1,勤,qín,勤,strain,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,士,shì,士,in service,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,道,dào,道,the Tao / way,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
 41,2,士,shì,士,in service,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
 41,2,道,dào,道,the Tao / way,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
 41,3,士,shì,士,in service,yes,1.0,authored,Those lowest in service hear the Tao and laugh aloud at it.

@@ -431,6 +431,8 @@
   chapters: [6, 41, 52]
   status: locked
   entry: glossary/qin-勤.md
+  flexions:
+    - { english: "labor", chapters: [41], why: "affirmed rather than negated, so strain would fault the effort, a verdict the Chinese does not pass" }
 
 - term: "士"
   pinyin: "shì"

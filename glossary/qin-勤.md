@@ -2,6 +2,8 @@
 term: "勤"
 pinyin: "qín"
 render: "strain"
+flexions:
+  - { english: "labor", chapters: [41], why: "affirmed rather than negated, so strain would fault the effort, a verdict the Chinese does not pass" }
 forbidden: ["exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil"]
 shuowen: "Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 chapters: [6, 41, 52]
@@ -13,7 +15,7 @@ pairing: false
 
 *Say "chin," rising. Three lines in three chapters. In one of them the best people do it, and in the other two the point is not doing it.*
 
-**Locked: 勤 → "strain."** *(Not "exhausted," which reads a different character into the line. Not "diligence," which praises where the character only describes. Not "toil," which came closest.)*
+**Locked: 勤 → "strain," and "labor" in ch 41, the one line where it is affirmed.** *(Not "exhausted," which reads a different character into the line. Not "diligence," which praises where the character only describes. Not "toil," which came closest.)*
 
 ### The graph: a digging stick, and a word older than its picture
 
@@ -37,7 +39,7 @@ pairing: false
 > *Block the openings, close the doors, and to the end of your days you will not strain.* — ch 52
 
 > 上士聞道，勤而行之 (*shàng shì wén dào, qín ér xíng zhī* — "the highest in service hear the Tao, 勤, and practice it")
-> *Those highest in service hear the Tao and strain to practice it.* — ch 41
+> *Those highest in service hear the Tao and labor to practice it.* — ch 41
 
 **Both commentators read the spending of strength in ch 6, and both read it in ch 52.**
 
@@ -57,11 +59,19 @@ pairing: false
 
 河上公 uses the same compound in ch 41 and ch 52. 勤苦 (*qín kǔ* — "strain and suffer"). In ch 41 the highest people do it: they hear the Tao and spend themselves, using up their strength. In ch 52 the person who closes the openings is spared it to the end of their days.
 
-So the book holds both. The best student strains at the Tao. The Tao itself, used, does not strain, and neither does the one who stops chasing what the eyes and mouth want. An English that praised the first (*diligence*) and pitied the second (*exhaustion*) would be two words with two verdicts. *Strain* is one word, and it takes its verdict from its line. The Chinese does the same.
+So the book holds both. The best student labors at the Tao. The Tao itself, used, does not strain, and neither does the one who stops chasing what the eyes and mouth want. An English that praised the first (*diligence*) and pitied the second (*exhaustion*) would be two words with two opposite verdicts.
+
+### Why ch 41 reads *labor*
+
+**Negated, *strain* is the thing avoided. Affirmed, it is a fault.** In chs 6 and 52, *there is no strain* and *you will not strain* describe ease, and the word's edge, forcing past what is easy, is exactly what the line rules out. In ch 41 nothing is ruled out. *Strain to practice it* would say the best students overreach, and neither commentator says that: 王弼 hears resolve, and 河上公's suffering is the cost of their effort, not a mistake in it. So the line takes a flexion.
+
+***Labor* is the character's own definition.** 說文's 勞也 is the word, and 王弼 glosses ch 6 with the same 勞. The bronze bell pairs them, 堇勞. *Labor* is honest strength spent, neither praised nor faulted, and *labor to* still carries a little of the difficulty the line may hold (below). The word is set aside in ch 6 for a reason ch 41 does not have: there is no gate of the dark female beside it to turn it into childbirth.
+
+**The cost is the echo.** The book now says *labor* in ch 41 and *strain* in chs 6 and 52, where the Chinese says one character three times. The two words are neighbors, and labor is what strain is the excess of, so a reader can still hear the best student's effort against the ease of the other two lines. But it is a near echo, not the same word.
 
 ### What is set aside
 
-**"toil," narrowly.** It came closest, and for a while it was the recommendation. It is plain, it is old, and it carries what 勞 carries: long work and the tiredness after it. It fits all three lines. It lost on the hardest one. In ch 6, *strain* names what 河上公 sets against 勤, the breath that is hurried instead of loose and easy, and *toil* does not. And in ch 41, *strain to practice it* holds both readings of the line (below), where *toil at practicing it* settles for one. What *toil* has and *strain* loses is duration: toil goes on all day, and strain can be a moment.
+**"toil," narrowly.** It came closest, and for a while it was the recommendation. It is plain, it is old, and it carries what 勞 carries: long work and the tiredness after it. It fits all three lines. It lost on the hardest one: in ch 6, *strain* names what 河上公 sets against 勤, the breath that is hurried instead of loose and easy, and *toil* does not. What *toil* has and *strain* loses is duration: toil goes on all day, and strain can be a moment.
 
 **"exhausted," "inexhaustible."** These read 勤 as if it were 盡 (*jìn* — to use up). 盡 is near the word, in 杜預's definition, and the line before ch 6's already says the thing is 綿綿 (*mián mián* — unbroken, unbroken). But running out is where 勤 ends, not what it is. 說文 says labor, both commentators say labor, and ch 52's 終身不勤 cannot mean *to the end of your days you are not used up*. *Inexhaustible* is also the hymn's word: it sits well in a sermon about grace.
 
@@ -69,19 +79,21 @@ So the book holds both. The best student strains at the Tao. The Tao itself, use
 
 **"effort."** It is close, and lighter than *strain*. It has no cost in it, where 杜預's definition is all cost: *sparing nothing*. It also fails ch 52: *you will make no effort* sounds like idleness, where the line describes ease.
 
-**"labor."** 說文's own gloss, and the best evidence for the sense. In ch 6, though, *no labor* beside the gate of the dark female becomes a birth without labor pains. The line does not say that.
+**"labor," outside ch 41.** 說文's own gloss, and the best evidence for the sense, which is why it is ch 41's flexion. In ch 6, though, *no labor* beside the gate of the dark female becomes a birth without labor pains. The line does not say that. Ch 52 follows ch 6, so the two negated lines keep one word.
 
 **"heavy labor," "labored."** Two words for one character, and *heavy labor* is a sentence handed down by a court. *Labored* is good English for a breath, and it is an adjective, which ch 41's verb cannot take.
+
+**"work hard."** Both words are spoken for. *Work* is 功 (*gōng* — work done) in seven lines, *"the work is done, and the sage does not stay in it"* (2, 77), so the best students would be doing what the sage lets go of. *Hard* is the *hard and strong* that ch 76 calls the followers of death, and 難 (*nán* — difficult) in *hard to govern* (65, 75).
 
 ### Working register
 
 | Grammar | English | Where |
 |---|---|---|
 | negated predicate, 不勤 | *there is no strain* / *will not strain* | 6, 52 |
-| verb before 而 + verb | *strain to* (do it) | 41 |
+| verb before 而 + verb, affirmed | *labor to* (do it) | 41 |
 
 ### Left open
 
-**Ch 41 may not be about effort at all.** The highest in service strain at the Tao, the middling keep some and forget some, and the lowest laugh. The received text reads the first line as effort, and both commentators do. Some readers take the line as saying the Tao is hard to carry out, so that even the best can only just manage it. *Strain to practice it* can be heard either way, and that is part of why it was chosen. But the line where the best people strain sits oddly in a book whose ideal is not straining, and that oddness may be the point, or it may be a sign of a misread graph.
+**Ch 41 may not be about effort at all.** The highest in service labor at the Tao, the middling keep some and forget some, and the lowest laugh. The received text reads the first line as effort, and both commentators do. Some readers take the line as saying the Tao is hard to carry out, so that even the best can only just manage it. *Labor to practice it* leans toward effort and keeps some of the difficulty. But the line where the best people labor sits oddly in a book whose ideal is not straining, and that oddness may be the point, or it may be a sign of a misread graph.
 
 **What strain loses.** In modern English *strain* has drifted toward stress, the mind's tightness more than the arm's. The digging stick in 力 is the older sense, and the English word has both. A reader who hears only stress hears half.
