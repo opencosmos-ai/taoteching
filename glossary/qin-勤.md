@@ -1,19 +1,19 @@
 ---
 term: "勤"
 pinyin: "qín"
-render: "toil"
-forbidden: []
+render: "strain"
+forbidden: ["exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil"]
 shuowen: "Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 chapters: [6, 41, 52]
-status: open
+status: locked
 pairing: false
 ---
 
-## 勤 (Qín) — Toil
+## 勤 (Qín) — Strain
 
 *Say "chin," rising. Three lines in three chapters. In one of them the best people do it, and in the other two the point is not doing it.*
 
-**Recommended: 勤 → "toil."** *(Not "exhausted," which reads a different character into the line. Not "diligence," which praises where the character only describes.)*
+**Locked: 勤 → "strain."** *(Not "exhausted," which reads a different character into the line. Not "diligence," which praises where the character only describes. Not "toil," which came closest.)*
 
 ### The graph: a digging stick, and a word older than its picture
 
@@ -31,49 +31,57 @@ pairing: false
 ### Three lines, and two of them are a negation
 
 > 用之不勤 (*yòng zhī bù qín* — "use it, and not 勤")
-> *Use it, and there is no toil.* — ch 6
+> *Use it, and there is no strain.* — ch 6
 
 > 塞其兌，閉其門，終身不勤 (*sè qí duì, bì qí mén, zhōng shēn bù qín* — "block the openings, close the doors, to the end of your days, not 勤")
-> *Block the openings, close the doors, and to the end of your days you will not toil.* — ch 52
+> *Block the openings, close the doors, and to the end of your days you will not strain.* — ch 52
 
 > 上士聞道，勤而行之 (*shàng shì wén dào, qín ér xíng zhī* — "the highest in service hear the Tao, 勤, and practice it")
-> *Those highest in service hear the Tao and toil at practicing it.* — ch 41
+> *Those highest in service hear the Tao and strain to practice it.* — ch 41
 
-**Both commentators read toil in ch 6, and both read it in ch 52.**
+**Both commentators read the spending of strength in ch 6, and both read it in ch 52.**
 
 | | 王弼 (*Wáng Bì*, d. 249) | 河上公 (*Héshàng Gōng*, Han) |
 |---|---|---|
 | ch 6 | 用而不勞也 — *"it is used, and does not labor"* | 用氣常寬舒，不當急疾懃勞也 — *"use the breath always loose and easy; it should not be hurried or toiling"* |
-| ch 52 | 無事永逸，故終身不勤也 — *"no affairs, forever at ease, so to the end of your days you do not toil"* | 人當塞目不妄視，𨳲口不妄言，則終身不勤苦 — *"if a person blocks the eyes from looking wildly and closes the mouth from speaking wildly, then to the end of their days they do not toil and suffer"* |
-| ch 41 | 有志也 — *"they have resolve"* | 上士聞道，自勤苦竭力而行之 — *"the highest in service hear the Tao, and of themselves toil and suffer, spending all their strength, to practice it"* |
+| ch 52 | 無事永逸，故終身不勤也 — *"no affairs, forever at ease, so to the end of your days you do not strain"* | 人當塞目不妄視，𨳲口不妄言，則終身不勤苦 — *"if a person blocks the eyes from looking wildly and closes the mouth from speaking wildly, then to the end of their days they do not strain and suffer"* |
+| ch 41 | 有志也 — *"they have resolve"* | 上士聞道，自勤苦竭力而行之 — *"the highest in service hear the Tao, and of themselves strain and suffer, using up their strength, to practice it"* |
 
 王弼 glosses 勤 with 勞 (*láo* — labor) in ch 6, which is 說文's own word. 河上公 writes 懃 (*qín*), 勤 with 心 (*xīn* — heart) beneath it, and pairs it with 勞 too.
 
-**The two commentators disagree about whose toil ch 6 means.** For 王弼 it is the thing: what is used never labors. For 河上公 it is the person breathing, who must not strain. *There is no toil* names no one, so it carries both.
+**河上公 names the opposite of 勤 in ch 6, and it is the opposite of strain.** 寬舒 (*kuān shū* — loose and easy), against 急疾 (*jí jí* — hurried, rushed). That is what *strain* means in a body: the breath held tight, the muscle pulled past ease. Labor and toil can be steady and unhurried. Strain cannot.
+
+**The two commentators disagree about whose strain ch 6 means.** For 王弼 it is the thing: what is used never labors. For 河上公 it is the person breathing, who must not force it. *There is no strain* names no one, so it carries both.
 
 ### One commentator, one compound, both ways
 
-河上公 uses the same compound in ch 41 and ch 52. 勤苦 (*qín kǔ* — "toil and suffer"). In ch 41 the highest people do it: they hear the Tao and toil, spending all their strength. In ch 52 the person who closes the openings is spared it to the end of their days.
+河上公 uses the same compound in ch 41 and ch 52. 勤苦 (*qín kǔ* — "strain and suffer"). In ch 41 the highest people do it: they hear the Tao and spend themselves, using up their strength. In ch 52 the person who closes the openings is spared it to the end of their days.
 
-So the book holds both. The best student toils at the Tao. The Tao itself, used, does not toil, and neither does the one who stops chasing what the eyes and mouth want. An English that praised the first (*diligence*) and pitied the second (*exhaustion*) would be two words with two verdicts. *Toil* is one word, and it takes the verdict from its line. The Chinese does the same.
+So the book holds both. The best student strains at the Tao. The Tao itself, used, does not strain, and neither does the one who stops chasing what the eyes and mouth want. An English that praised the first (*diligence*) and pitied the second (*exhaustion*) would be two words with two verdicts. *Strain* is one word, and it takes its verdict from its line. The Chinese does the same.
 
 ### What is set aside
 
-**"exhausted," "inexhaustible."** These read 勤 as if it were 盡 (*jìn* — to use up). It is a real idea in ch 6, where the line before already says the thing is 綿綿 (*mián mián* — unbroken, unbroken), but it is not this character's. 說文 says labor, both commentators say labor, and ch 52's 終身不勤 cannot mean *to the end of your days you are not used up*. *Inexhaustible* is also the hymn's word: it sits well in a sermon about grace.
+**"toil," narrowly.** It came closest, and for a while it was the recommendation. It is plain, it is old, and it carries what 勞 carries: long work and the tiredness after it. It fits all three lines. It lost on the hardest one. In ch 6, *strain* names what 河上公 sets against 勤, the breath that is hurried instead of loose and easy, and *toil* does not. And in ch 41, *strain to practice it* holds both readings of the line (below), where *toil at practicing it* settles for one. What *toil* has and *strain* loses is duration: toil goes on all day, and strain can be a moment.
 
-**"diligence," "diligently."** These are a virtue, and English hears approval in them. 勤 describes strength being spent. 王弼 reads the ch 41 line as resolve and 河上公 as suffering, and neither is praise.
+**"exhausted," "inexhaustible."** These read 勤 as if it were 盡 (*jìn* — to use up). 盡 is near the word, in 杜預's definition, and the line before ch 6's already says the thing is 綿綿 (*mián mián* — unbroken, unbroken). But running out is where 勤 ends, not what it is. 說文 says labor, both commentators say labor, and ch 52's 終身不勤 cannot mean *to the end of your days you are not used up*. *Inexhaustible* is also the hymn's word: it sits well in a sermon about grace.
 
-**"effort."** It is close, and lighter than *toil*. It loses 勞's weariness, which is what 河上公's 苦 (*kǔ* — bitter) keeps. It also fails ch 52: *you will make no effort* sounds like idleness, where the line describes ease.
+**"diligence," "diligent," "diligently."** These are a virtue, and English hears approval in them. 勤 describes strength being spent. 王弼 reads the ch 41 line as resolve and 河上公 as suffering, and neither is praise.
+
+**"effort."** It is close, and lighter than *strain*. It has no cost in it, where 杜預's definition is all cost: *sparing nothing*. It also fails ch 52: *you will make no effort* sounds like idleness, where the line describes ease.
 
 **"labor."** 說文's own gloss, and the best evidence for the sense. In ch 6, though, *no labor* beside the gate of the dark female becomes a birth without labor pains. The line does not say that.
+
+**"heavy labor," "labored."** Two words for one character, and *heavy labor* is a sentence handed down by a court. *Labored* is good English for a breath, and it is an adjective, which ch 41's verb cannot take.
 
 ### Working register
 
 | Grammar | English | Where |
 |---|---|---|
-| negated predicate, 不勤 | *there is no toil* / *will not toil* | 6, 52 |
-| verb before 而 + verb | *toil at* (doing it) | 41 |
+| negated predicate, 不勤 | *there is no strain* / *will not strain* | 6, 52 |
+| verb before 而 + verb | *strain to* (do it) | 41 |
 
 ### Left open
 
-**Ch 41 may not be about toil at all.** The highest in service toil at the Tao, the middling keep some and forget some, and the lowest laugh. The received text reads the first line as effort. Some readers take the line as saying the Tao is hard to carry out, so that even the best can only just manage it. The base text prints 勤, both commentators read effort, and so does this entry. But the line where the best people toil sits oddly in a book whose ideal is not toiling, and that oddness may be the point, or it may be a sign of a misread graph.
+**Ch 41 may not be about effort at all.** The highest in service strain at the Tao, the middling keep some and forget some, and the lowest laugh. The received text reads the first line as effort, and both commentators do. Some readers take the line as saying the Tao is hard to carry out, so that even the best can only just manage it. *Strain to practice it* can be heard either way, and that is part of why it was chosen. But the line where the best people strain sits oddly in a book whose ideal is not straining, and that oddness may be the point, or it may be a sign of a misread graph.
+
+**What strain loses.** In modern English *strain* has drifted toward stress, the mind's tightness more than the arm's. The digging stick in 力 is the older sense, and the English word has both. A reader who hears only stress hears half.

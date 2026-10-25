@@ -426,10 +426,10 @@
 
 - term: "勤"
   pinyin: "qín"
-  render: "toil"
-  forbidden: []
+  render: "strain"
+  forbidden: ["exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil"]
   chapters: [6, 41, 52]
-  status: open
+  status: locked
   entry: glossary/qin-勤.md
 
 - term: "士"

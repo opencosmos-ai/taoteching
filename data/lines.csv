@@ -46,7 +46,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,","The gate of the dark female,",exact-count
 6,4,0,是謂天地根。,shì wèi tiān dì gēn.,this is called the root/base \[gen\] of heaven \[tian\] and earth \[di\].,this is called the root of sky and earth.,exact-count
 6,5,0,綿綿若存，,"Mián mián ruò cún,","Continuous/unbroken \[mian mian\], it seems/appears \[ruo\] to exist \[cun\],","Unceasing yet barely perceptible,",exact-count
-6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].",it can never be exhausted.,exact-count
+6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].","use it, and there is no strain.",exact-count
 7,1,1,天長地久。,Tiān cháng dì jiǔ.,"Heaven \[tian\] is long-lasting \[chang\], earth \[di\] is enduring \[jiu\].","The sky is lasting, the earth enduring.",exact-count
 7,2,1,天地所以能長且久者，,"Tiān dì suǒ yǐ néng cháng qiě jiǔ zhě,","The reason heaven and earth can \[neng\] be long-lasting and \[qie\] enduring,",Sky and earth can last and endure,exact-count
 7,3,1,以其不自生，,"yǐ qí bù zì shēng,","is because \[yi\] they \[qi\] do not \[bu\] live/generate \[sheng\] for themselves \[zi\],","because they do not live for themselves,",exact-count
@@ -485,7 +485,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 40,2,1,弱者道之用。,Ruò zhě dào zhī yòng,Weakness/Yielding ( Ruò ) is the function/application ( yòng ) of the Tao.,Yielding is the Tao’s use.,exact-count
 40,3,2,天下萬物生於有，,Tiān xià wàn wù shēng yú yǒu,The ten thousand things under heaven ( Wàn wù ) are born from Being/Presence ( Yǒu );,The countless things of the world are born from presence;,exact-count
 40,4,2,有生於無。,Yǒu shēng yú wú,Being/Presence ( Yǒu ) is born from Non-Being/The Void ( Wú ).,Presence is born from absence.,exact-count
-41,1,1,上士聞道，勤而行之；,"Shàng shì wén dào, qín ér xíng zhī","Top-tier scholars/users ( Shàng shì ) hear the Tao, diligently practice/execute it ( xíng zhī ).",Those highest in service hear the Tao and practice it with diligence.,authored
+41,1,1,上士聞道，勤而行之；,"Shàng shì wén dào, qín ér xíng zhī","Top-tier scholars/users ( Shàng shì ) hear the Tao, diligently practice/execute it ( xíng zhī ).",Those highest in service hear the Tao and strain to practice it.,authored
 41,2,1,中士聞道，若存若亡；,"Zhōng shì wén dào, ruò cún ruò wáng;","Mid-tier scholars/users ( Zhōng shì ) hear the Tao, seemingly keep/preserve it ( cún ), seemingly lose/forget it ( wáng ).","Those middling in service hear the Tao and keep some, forget some.",authored
 41,3,1,下士聞道，大笑之。,"Xià shì wén dào, dà xiào zhī","Low-tier scholars/users ( Xià shì ) hear the Tao, laugh loudly at it.",Those lowest in service hear the Tao and laugh aloud at it.,authored
 41,4,1,不笑不足以為道。,Bù xiào bù zú yǐ wéi dào,"If it were not laughed at, it would not be sufficient ( zú ) to function as ( wéi ) the Tao.","If it weren’t laughed at, the Tao wouldn’t be what it is.",authored
@@ -573,7 +573,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has an origin, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
 52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","Know her children, return and hold fast to our mother, / and to the end of your days, no danger will find you.",authored
-52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not toil/struggle.","Block the openings, close the doors, and to the end of your days you will not toil.",authored
+52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not toil/struggle.","Block the openings, close the doors, and to the end of your days you will not strain.",authored
 52,5,2,開其兌，濟其事，終身不救。,"Kāi qí duì, jì qí shì, zhōng shēn bù jiù.","Open the openings, multiply affairs/tasks, to the end of life one is beyond rescue.","Open the openings, multiply your affairs, and to the end of your days you are beyond saving.",authored
 52,6,3,見小曰明，守柔曰強。,"Jiàn xiǎo yuē míng, shǒu róu yuē qiáng.","Seeing the small is called clarity/illumination, guarding the soft/yielding is called strength.",Seeing the small is called clarity. / Holding to the soft is called strong.,authored
 52,7,3,用其光，復歸其明，無遺身殃；,"Yòng qí guāng, fù guī qí míng, wú yí shēn yāng;","Use the light, return to the clarity/illumination, leaving no disaster for the body;","Use the outer light, return to your inner clarity, / and leave no calamity for the body.",authored

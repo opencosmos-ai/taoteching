@@ -289,7 +289,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 狀,zhuàng,shape/form,,狀,exact,犬,phonetic-compound,,犬 (quǎn = dog),爿 (? = not yet glossed),3,,0.0241,犬形也。从犬爿聲。,
 私,sī,the private / the private self,the private / the private self,私,exact,禾,phonetic-compound,,禾 (hé = standing grain),厶 (sī = enclosing for oneself — the private),3,locked,0.0241,禾也。从禾厶聲。北道名禾主人曰私主人。,
 果,guǒ,succeed,,果,exact,木,compound,,木 (mù = tree),,6,,0.024,木實也。从木，象果形在木之上。,
-勤,qín,toil,toil,勤,exact,力,phonetic-compound,,力 (lì = force),𡏳 (? = not yet glossed),3,,0.0239,勞也。从力𡏳聲。,"Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
+勤,qín,strain,strain,勤,exact,力,phonetic-compound,,力 (lì = force),𡏳 (? = not yet glossed),3,locked,0.0239,勞也。从力𡏳聲。,"Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 夷,yí,invisible/colorless,,夷,exact,大,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 弓 (gōng = bow)",,3,,0.0239,平也。从大从弓。東方之人也。,
 持,Chí,hold,hold,持,exact,手,phonetic-compound,,手 (shǒu = hand),寺 (? = not yet glossed),3,locked,0.0239,握也。从手寺聲。,
 牡,mǔ,male,,牡,exact,牛,phonetic-compound,,牛 (niú = an ox),"土 (tǔ = dirt, earth)",2,,0.0239,畜父也。从牛土聲。,
