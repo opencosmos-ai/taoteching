@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **56 item rows: 49 open · 0 done · 5 part done · 2 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **57 item rows: 50 open · 0 done · 5 part done · 2 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -72,6 +72,7 @@
 | T2-63 | ⬜ | **渾 (*hún*) at ch 49 reads *muddy*, which is 濁's English.** 為天下渾其心 → *"they let their heart go muddy."* 渾 is 混's own word: 說文 渾，混流聲也, and 河上公's text prints 渾 for 混 at ch 15. The chime with ch 15 the line wants is real, but in the Chinese it runs through 混 (*mixed*), not 濁. A line rewrite, so Shalom's call; then 渾 can go into `hun-混.md`'s `covers:` | 15 49 | E |
 | T2-64 | ⬜ | **殆 (*dài* — danger) and 畏 (*wèi* — to fear) want entries.** 殆 reads *danger* in all five of its lines, one-to-one, and nothing enforces it; 畏 has no entry either. T5-3's *depletion* belongs on 殆's `forbidden:` list | 15 16 17 20 25 32 44 52 53 72 74 | E |
 | T2-65 | ⬜ | **行** (*xíng* — to go / conduct) — entry written open, `glossary/xing-行.md`. Three things it leaves: **ch 47's *"knows without venturing"* puts 出 (*chū* — to go out)'s *venture* on 行** three lines below 其出彌遠 (*"the further out you venture"*); **ch 24's 贅行 and ch 27's 善行** are read as conduct by 河上公 (sound note *xìng*) and as motion by the verse; and the carrying-out sense wears *carries out* (2), *practice* (41) and *follow* (70, 78, Shalom's call) | 2 24 27 41 47 | E |
+| T2-66 | ⬜ | **勤 (*qín* — strain): the silks' 堇 (*jǐn*), to verify against a critical edition.** The entry is locked (`glossary/qin-勤.md`, Shalom's call 2026-10-24). Left is a lead from the web, not yet in `variants.yaml`: published transcriptions of the silks print 堇 for 勤 in all three lines, and Guodian and Beida reportedly do at ch 41. Scholars split on ch 41's 堇: read as 勤 or as 僅 (*jǐn* — barely, "the highest can barely carry it out"). 呂鵬志 (*Lǚ Péngzhì*) and 薛聰 (*Xuē Cōng*) argue for 僅. Some editors read ch 6's 不堇 as 不盡 (*bù jìn* — "not used up"). Ch 41's flexion *labor to practice it* leans to effort but keeps some difficulty; record the fork once verified | 6 41 52 | E |
 | | | **Research** | | |
 | R2 | ⬜ | **義 (*yì* — duty) wants a glossary entry** — reads *duty* in all 5 lines, unlocked, and the source-table literals still say *righteousness* at 18, 19 and 38 | 18 19 38 | E |
 | R3 | ⬜ | ★ **Read the ten recovered 王弼 (*Wáng Bì*) chapters against decisions made without him** — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78. Every one was drafted, and several reworked, with one commentary where there were two. Their lemma forks are logged; **the comments are unread.** First lead: **ch 15 prints 若容 (*ruò róng* — like a bearing) for our 若客 (*ruò kè* — like a guest)**, base kept provisionally. Ch 62 was already drafted with him (under 061) | 8 14 15 19 30 54 62 70 71 78 | E |

@@ -2,6 +2,7 @@
 term: "弱"
 pinyin: "ruò"
 render: "yielding — and *weaken* only where it takes an object"
+card: "yielding · weaken"
 forbidden: ["frail", "feeble", "feebleness", "powerless"]
 chapters: [3, 36, 40, 55, 76, 78]
 status: locked

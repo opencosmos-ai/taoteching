@@ -2,6 +2,7 @@
 term: "可"
 pinyin: "kě"
 render: "can be (可 + verb) / can (可以 + verb) / cannot (不可)"
+card: "can · cannot · must · never · desirable"
 flexions:
   - { english: "desirable", chapters: [3], why: "可欲 is a fixed phrase, what can be desired, and English has the word" }
   - { english: "must", chapters: [20], why: "不可不 is cannot-not, which English says as must" }

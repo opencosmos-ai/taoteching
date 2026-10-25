@@ -2,6 +2,7 @@
 term: "強"
 pinyin: "qiáng"
 render: "strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature"
+card: "strong · strengthen · forcing"
 forbidden: ["mighty", "forceful", "brute strength", "perseverance"]
 chapters: [3, 15, 25, 29, 30, 33, 36, 42, 52, 55, 76, 78]
 status: locked

@@ -1146,9 +1146,11 @@ BASELINE = {
                        "90→92 ch 57 人 / 民 and ch 64 民 / 人, 2026-10-14 (glossary/min-民.md) · "
                        "92→93 ch 15 混 / 渾, 河上公's spelling, 2026-10-19 (glossary/hun-混.md) · "
                        "93→96 ch 12 之治也, 使人之行方, and the silks' line order, 2026-10-20 (glossary/xing-行.md)"),
-    "verse_line": (855, "English verse lines across chapters/*.md. "
+    "verse_line": (857, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
-                        "two comma-segments, 2026-09-20"),
+                        "two comma-segments, 2026-09-20 · "
+                        "855→857 ch 6 set one English line to each Chinese line, "
+                        "2026-10-24"),
 }
 
 

@@ -2,6 +2,7 @@
 term: "敢"
 pinyin: "gǎn"
 render: "push / venture — the forward press to take"
+card: "push · venture"
 forbidden: ["dare", "dares", "dared", "daring"]
 chapters: [3, 30, 64, 67, 69, 73, 74]
 status: locked

@@ -2,6 +2,7 @@
 term: "善"
 pinyin: "shàn"
 render: "masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category)"
+card: "masterful · the masterful · good"
 forbidden: ["virtuous", "righteous", "saintly", "benevolent"]
 chapters: [2, 8, 15, 20, 27, 30, 41, 49, 50, 54, 58, 62, 65, 66, 68, 73, 79, 81]
 status: locked

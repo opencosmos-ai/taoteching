@@ -2,6 +2,7 @@
 term: "聖"
 pinyin: "shèng"
 render: "the sage · sagehood (聖 alone, ch 19)"
+card: "the sage · sagehood"
 forbidden: ["holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness"]
 chapters: [2, 3, 5, 7, 12, 19, 22, 27, 28, 29, 47, 49, 57, 58, 60, 63, 64, 66, 70, 71, 72, 73, 77, 78, 79, 81]
 status: locked

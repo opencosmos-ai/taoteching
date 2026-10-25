@@ -2,6 +2,7 @@
 term: "王"
 pinyin: "wáng"
 render: "ruler / sovereign · to rule (verb)"
+card: "ruler · sovereign · to rule · supreme authority"
 flexions:
   - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
 forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]

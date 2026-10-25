@@ -2,6 +2,7 @@
 term: "恃"
 pinyin: "shì"
 render: "rely on — the heart putting its weight on something"
+card: "rely on"
 forbidden: ["presume", "presuming", "dependency"]
 chapters: []
 status: locked

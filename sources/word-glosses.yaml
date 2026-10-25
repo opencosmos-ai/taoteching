@@ -9,7 +9,9 @@
 # name). Each now has a short gloss, so its atlas card says something true.
 #
 # WHAT A GLOSS HERE IS. The senses the character carries IN THIS BOOK, read from
-# every line it stands in, most frequent first, slash-separated. Where the verse
+# every line it stands in, most frequent first, slash-separated. A reader
+# sees them separated by " · " and without the chapter numbers, which stay
+# here for the record (tools/export_atlas.py, card_english). Where the verse
 # renders the character faithfully, the gloss uses the verse's English, so the
 # card and the translation agree. Where the verse paraphrases, drops the
 # character, or follows a manuscript variant, the gloss gives the sense of the
@@ -1410,3 +1412,6 @@
 - char: "己"
   pinyin: "jǐ"
   gloss: "oneself / themselves"
+- char: "沖"
+  pinyin: "chōng"
+  gloss: "empty / blending"

@@ -121,6 +121,7 @@ covers:
 | `pinyin` | with tone marks; pairings use `"wǒ / wú"` |
 | `render` | the primary locked English. Slashes for senses that vary by grammar |
 | `flexions` | a secondary English **scoped to named chapters** — data, not prose. See below |
+| `card` | optional: the English a character card shows, read at a glance (`"strong · strengthen · forcing"`). Only for a single-character entry whose `render:` carries notes a card should not. Without it, a card shows `render:` then each flexion, separated by " · " |
 | `forbidden` | rejected renderings — read by `check_locks.py` |
 | `chapters` | recomputed automatically on build; put your best list in |
 | `status` | `locked` or `open` |

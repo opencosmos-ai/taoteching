@@ -2,6 +2,7 @@
 term: "命"
 pinyin: "mìng"
 render: "the allotted course — what is spoken over a thing and sent with it"
+card: "the allotted course"
 forbidden: ["mandate", "destiny", "fate", "decree"]
 chapters: [16, 51]
 status: open

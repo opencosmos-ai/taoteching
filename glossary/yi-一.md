@@ -2,6 +2,7 @@
 term: "一"
 pinyin: "yī"
 render: "the one (lowercase) · plain numeral where it counts"
+card: "the one · one"
 flexions:
   - { english: "one thing", chapters: [22], why: "抱一 takes 一 as the object embraced, not as the name of the Tao" }
 forbidden: ["the One", "Oneness", "the Absolute"]

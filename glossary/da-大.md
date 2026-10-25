@@ -2,6 +2,7 @@
 term: "大"
 pinyin: "dà"
 render: "great — large where the scale is physical or political, greater in comparatives, master of a craftsman"
+card: "great · large · greater · master"
 forbidden: ["mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great"]
 chapters: [13, 18, 25, 27, 28, 30, 34, 35, 38, 41, 44, 45, 46, 53, 60, 61, 63, 65, 67, 69, 72, 74, 76, 79]
 status: locked

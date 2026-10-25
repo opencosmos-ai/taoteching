@@ -81,9 +81,10 @@ class ReaderKeys(unittest.TestCase):
 
     def test_chapter_six_pairs_its_gate_correctly(self):
         """The guess paired the gate of the dark female with "This is the dark
-        female." Its English is the next line, and the alignment says so."""
-        self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "authored"]])
-        self.assertEqual(self.r["align"]["6.4"], [[3, 1.0, "authored"]])
+        female." Its English is the next line. Since 2026-10-24 each Chinese
+        line has an English line of its own, so the counts agree and say so."""
+        self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "exact-count"]])
+        self.assertEqual(self.r["align"]["6.4"], [[4, 1.0, "exact-count"]])
 
     def test_every_pairing_is_certain(self):
         """No chapter falls back to a guess (WORKLIST T5-23)."""
@@ -101,7 +102,7 @@ class ReaderKeys(unittest.TestCase):
 
     def test_empty_notes_are_empty_not_missing(self):
         self.assertTrue(self.r["notes"]["1"])
-        self.assertEqual(self.r["notes"]["6"], "")
+        self.assertEqual(self.r["notes"]["7"], "")
         self.assertFalse(self.r["notes"]["1"].startswith("## "))
 
     def test_a_waiver_is_not_a_note(self):
@@ -136,3 +137,36 @@ class ReaderKeys(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CardEnglish(unittest.TestCase):
+    """A character's English as a reader sees it: senses separated by " · ",
+    no chapter numbers, compounds and grammar notes kept."""
+
+    def test_senses_take_the_middot(self):
+        self.assertEqual(export_atlas.card_english("few / sparse / the inaudible (14)"),
+                         "few · sparse · the inaudible")
+
+    def test_chapter_numbers_go_and_the_rest_of_a_note_stays(self):
+        c = export_atlas.card_english
+        self.assertEqual(c("would (29, 36)"), "would")
+        self.assertEqual(c("sagehood (聖 alone, ch 19)"), "sagehood (聖 alone)")
+        self.assertEqual(c("preside over (司殺者, 74)"), "preside over (司殺者)")
+        self.assertEqual(c("can be (可 + verb) / cannot (不可)"), "can be (可 + verb) · cannot (不可)")
+        self.assertEqual(c("(closes a question) / (an exclamation)"),
+                         "(closes a question) · (an exclamation)")
+
+    def test_slashes_without_spaces_and_capitals_from_the_tables(self):
+        c = export_atlas.card_english
+        self.assertEqual(c("System/Administrator"), "system · administrator")
+        self.assertEqual(c("the Tao / way"), "the Tao · way")
+
+
+class EntryCard(unittest.TestCase):
+    def test_a_card_field_is_shown_as_written(self):
+        e = {"card": "the people", "render": "the people", "flexions": [{"english": "people"}]}
+        self.assertEqual(export_atlas.entry_card(e), "the people")
+
+    def test_without_one_the_ruling_is_followed_by_its_flexions(self):
+        e = {"card": "", "render": "strain", "flexions": [{"english": "labor"}]}
+        self.assertEqual(export_atlas.entry_card(e), "strain · labor")

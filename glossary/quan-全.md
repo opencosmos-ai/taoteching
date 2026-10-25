@@ -2,6 +2,7 @@
 term: "全"
 pinyin: "quán"
 render: "whole · stay whole · keep whole (transitive)"
+card: "whole · stay whole · keep whole"
 forbidden: ["complete", "perfect", "flawless", "restore", "made whole"]
 chapters: [22]
 status: locked

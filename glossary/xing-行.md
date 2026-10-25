@@ -49,7 +49,7 @@ The same sense stands at 24 (跨者不行, *get nowhere*), 33 (強行者, *force
 **2. To carry out: when 行 takes an object.** The object is a teaching, a set of words, or the Tao.
 
 > 行不言之教 (2) — *carries out the teaching without words.*
-> 上士聞道，勤而行之 (41) — *those highest in service hear the Tao and practice it with diligence.*
+> 上士聞道，勤而行之 (41) — *those highest in service hear the Tao and labor to practice it.*
 > 甚易行…莫能行 (70) — *very easy to follow… no one can follow them.*
 
 王弼 (*Wáng Bì*) ties the second sense back to the book's center at ch 70: 無為而成，故曰甚易行也 — *"it is accomplished by not-doing, therefore it says 'very easy to carry out.'"* What is carried out is the not-handling. That is why *do* cannot stand here: 為 (*wéi* — to do, to handle) is the word the line is a commentary on.

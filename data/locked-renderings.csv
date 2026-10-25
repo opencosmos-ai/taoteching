@@ -87,10 +87,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Isn't the space between sky and earth like a bellows?
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Speaking of this is a dead end. Instead, hold to the center."
-6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,This is the dark female.
-6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,This dark gateway birthed the sky and the earth.
-6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,This dark gateway birthed the sky and the earth.
-6,6,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,"Unceasing yet barely perceptible, it can never be exhausted."
+6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
+6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"The gate of the dark female,"
+6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
+6,6,勤,qín,勤,strain,yes,1.0,exact-count,"use it, and there is no strain."
+6,6,用,yòng,無 & 有,use,yes,1.0,exact-count,"use it, and there is no strain."
 7,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The sky is lasting, the earth enduring."
 7,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Sky and earth can last and endure
 7,2,能,néng,可,be able,NOT FOUND,1.0,exact-count,Sky and earth can last and endure
@@ -708,9 +709,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 40,4,有,Yǒu,無 & 有,presence,yes,1.0,exact-count,Presence is born from absence.
 40,4,無,wú,無 & 有,absence,yes,1.0,exact-count,Presence is born from absence.
 40,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Presence is born from absence.
-41,1,士,shì,士,in service,yes,1.0,authored,Those highest in service hear the Tao and practice it with diligence.
-41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Those highest in service hear the Tao and practice it with diligence.
-41,1,道,dào,道,the Tao / way,yes,1.0,authored,Those highest in service hear the Tao and practice it with diligence.
+41,1,勤,qín,勤,strain,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,士,shì,士,in service,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Those highest in service hear the Tao and labor to practice it.
+41,1,道,dào,道,the Tao / way,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
 41,2,士,shì,士,in service,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
 41,2,道,dào,道,the Tao / way,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
 41,3,士,shì,士,in service,yes,1.0,authored,Those lowest in service hear the Tao and laugh aloud at it.
@@ -896,7 +898,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,3,守,shǒu,守,hold to,NOT FOUND,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
 52,3,母,mǔ,母,mother,yes,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
 52,3,身,shēn,身,body,yes,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
-52,4,身,shēn,身,body,yes,1.0,authored,"Block the openings, close the doors, and to the end of your days you will not toil."
+52,4,勤,qín,勤,strain,yes,1.0,authored,"Block the openings, close the doors, and to the end of your days you will not strain."
+52,4,身,shēn,身,body,yes,1.0,authored,"Block the openings, close the doors, and to the end of your days you will not strain."
 52,5,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,"Open the openings, multiply your affairs, and to the end of your days you are beyond saving."
 52,5,身,shēn,身,body,yes,1.0,authored,"Open the openings, multiply your affairs, and to the end of your days you are beyond saving."
 52,6,守,shǒu,守,hold to,NOT FOUND,1.0,authored,Seeing the small is called clarity. Holding to the soft is called strong.
