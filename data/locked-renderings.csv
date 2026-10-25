@@ -87,10 +87,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Isn't the space between sky and earth like a bellows?
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Speaking of this is a dead end. Instead, hold to the center."
-6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,This is called the dark female.
-6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,"The gate of the dark female,"
-6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,this is called the root of sky and earth.
-6,6,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,"Unceasing yet barely perceptible, it can never be exhausted."
+6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
+6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"The gate of the dark female,"
+6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
+6,6,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,it can never be exhausted.
 7,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The sky is lasting, the earth enduring."
 7,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Sky and earth can last and endure
 7,2,能,néng,可,be able,NOT FOUND,1.0,exact-count,Sky and earth can last and endure

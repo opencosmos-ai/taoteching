@@ -41,12 +41,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 5,3,2,天地之間，其猶橐籥乎？,"Tiān dì zhī jiān, qí yóu tuó yuè hū?","Between Heaven and Earth, is it not like a bellows?",Isn't the space between sky and earth like a bellows?,authored
 5,4,2,虛而不屈，動而愈出。,"Xū ér bù qū, dòng ér yù chū.","Empty yet inexhaustible, the more it moves, the more it brings forth.","Empty but never depleted, the more it moves, the more it yields.",authored
 5,5,2,多言數窮，不如守中。,"Duō yán shù qióng, bù rú shǒu zhōng.","Much speech exhausts itself, better to hold to the center.","Speaking of this is a dead end. / Instead, hold to the center.",authored
-6,1,0,谷神不死，,"Gǔ shén bù sǐ,","The valley \[gu\] spirit \[shen\] does not \[bu\] die \[si\],",The spirit of the valley is deathless.,authored
-6,2,0,是謂玄牝。,shì wèi xuán pìn.,this \[shi\] is called \[wei\] the dark/mysterious \[xuan\] female \[pin\].,This is called the dark female.,authored
-6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,","The gate of the dark female,",authored
-6,4,0,是謂天地根。,shì wèi tiān dì gēn.,this is called the root/base \[gen\] of heaven \[tian\] and earth \[di\].,this is called the root of sky and earth.,authored
-6,5,0,綿綿若存，,"Mián mián ruò cún,","Continuous/unbroken \[mian mian\], it seems/appears \[ruo\] to exist \[cun\],","Unceasing yet barely perceptible, it can never be exhausted.",authored
-6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].","Unceasing yet barely perceptible, it can never be exhausted.",authored
+6,1,0,谷神不死，,"Gǔ shén bù sǐ,","The valley \[gu\] spirit \[shen\] does not \[bu\] die \[si\],",The spirit of the valley is deathless.,exact-count
+6,2,0,是謂玄牝。,shì wèi xuán pìn.,this \[shi\] is called \[wei\] the dark/mysterious \[xuan\] female \[pin\].,This is called the dark female.,exact-count
+6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,","The gate of the dark female,",exact-count
+6,4,0,是謂天地根。,shì wèi tiān dì gēn.,this is called the root/base \[gen\] of heaven \[tian\] and earth \[di\].,this is called the root of sky and earth.,exact-count
+6,5,0,綿綿若存，,"Mián mián ruò cún,","Continuous/unbroken \[mian mian\], it seems/appears \[ruo\] to exist \[cun\],","Unceasing yet barely perceptible,",exact-count
+6,6,0,用之不勤。,yòng zhī bù qín.,"use/deploy \[yong\] it \[zhi\], and it is not exhausted/toilsome \[qin\].",it can never be exhausted.,exact-count
 7,1,1,天長地久。,Tiān cháng dì jiǔ.,"Heaven \[tian\] is long-lasting \[chang\], earth \[di\] is enduring \[jiu\].","The sky is lasting, the earth enduring.",exact-count
 7,2,1,天地所以能長且久者，,"Tiān dì suǒ yǐ néng cháng qiě jiǔ zhě,","The reason heaven and earth can \[neng\] be long-lasting and \[qie\] enduring,",Sky and earth can last and endure,exact-count
 7,3,1,以其不自生，,"yǐ qí bù zì shēng,","is because \[yi\] they \[qi\] do not \[bu\] live/generate \[sheng\] for themselves \[zi\],","because they do not live for themselves,",exact-count

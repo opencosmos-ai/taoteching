@@ -81,10 +81,10 @@ class ReaderKeys(unittest.TestCase):
 
     def test_chapter_six_pairs_its_gate_correctly(self):
         """The guess paired the gate of the dark female with "This is the dark
-        female." Its English is the next line, and the alignment says so.
-        Since 2026-10-24 the gate and the root each have a line of their own."""
-        self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "authored"]])
-        self.assertEqual(self.r["align"]["6.4"], [[4, 1.0, "authored"]])
+        female." Its English is the next line. Since 2026-10-24 each Chinese
+        line has an English line of its own, so the counts agree and say so."""
+        self.assertEqual(self.r["align"]["6.3"], [[3, 1.0, "exact-count"]])
+        self.assertEqual(self.r["align"]["6.4"], [[4, 1.0, "exact-count"]])
 
     def test_every_pairing_is_certain(self):
         """No chapter falls back to a guess (WORKLIST T5-23)."""
