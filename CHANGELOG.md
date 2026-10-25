@@ -2,7 +2,7 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-10-25
 
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
@@ -32,6 +32,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 **On the other changelogs.** This repository is one of four with a work history, and the rule across all of them is **one change, one changelog — the one that owns the decision.** The system is written down once, in the [opencosmos root `CHANGELOG.md`](https://github.com/shalomormsby/opencosmos/blob/main/CHANGELOG.md). What touches this project from outside: `glossary/terms.yaml` is **vendored into** the opencosmos I Ching substrate as its lock table, and this repository's `process/principles/` is **inherited wholesale** by that project. Both are logged there as consumption, and here only when the thing consumed actually changed.
 
 ---
+
+## 2026-10-25 — 谷 (gǔ — valley) gets an entry, and the silks' valley is recorded
+
+The valley is one of the six images the book's own README names, and the hinge of its feminine chapters. Its entry reads all ten lines, and reading them meant checking the excavated witnesses, which the apparatus had not recorded for any of its seven chapters.
+
+- **[`glossary/gu-谷.md`](glossary/gu-谷.md)**, open: *valley* in every line, and *ravine* for 谿 (*xī* — a watercourse with no outlet), which it covers. The Shuowen defines the valley by its outlet, so it is a passage for water, not a store, and chapters 32 and 66 put the river and the sea below it. *Reservoir*, *basin*, *hollow*, *the void* and *emptiness* forbidden. Recommended for ch 6: Wang Bi's grammar, the valley as a noun, without his emptiness; the ruling is Shalom's. The lock carries `binds: [taoteching]`: the I Ching's 谷 (*gǔ*) includes a well's hollow (its hexagram 48).
+- **Nine rows in `sources/variants.yaml`** (96 → 105). The Mawangdui silks write the valley 浴 (*yù* — to bathe) almost everywhere, and Guodian writes it plainly. Three forks are meaning-bearing and logged `undecided` in `notes/manuscript.md`: ch 15's 莊 (*zhuāng* — grave), ch 28's 白 (*bái* — white) for 榮 (*róng* — glory), and ch 32's 小谷 (*xiǎo gǔ* — small valleys). `WORKLIST.md` T2-71.
+- **Rule 0 names no one in characters.** Commentators and sources are written romanized: Wang Bi, Heshang Gong, the Shuowen. Everything else is still glossed in parentheses. [`CLAUDE.md`](CLAUDE.md), Shalom's call.
 
 ## 2026-10-24 — Every chapter's English is paired with its Chinese, line by line
 
