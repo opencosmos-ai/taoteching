@@ -160,3 +160,15 @@
     runs on. In chs 32 and 66 the valleys run down to the river and the sea,
     and it is the rivers and seas that stay below and take the water in.
   see: "glossary/gu-谷.md"
+
+- id: zhuangzi-take-on-the-worlds-grime
+  retracted: 2026-10-25
+  claim: >
+    The Zhuangzi's chapter 天下 (tian xia) has Lao Dan say 受天下之垢, "take on
+    the world's grime."
+  match: ["受天下之垢"]
+  correction: >
+    Its main text reads 受天下之詬 (gou - reviling, shame), and notes 垢 (gou -
+    grime) as another edition's reading. The Mawangdui silks write 詬's form
+    訽 at ch 78 too, where the received text has 垢.
+  see: "DISCOVERIES.md"

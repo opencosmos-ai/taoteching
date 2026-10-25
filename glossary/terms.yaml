@@ -519,6 +519,15 @@
   entry: glossary/jiu-咎.md
   binds: [taoteching]
 
+- term: "水"
+  pinyin: "shuǐ"
+  render: "water"
+  forbidden: ["element", "liquid", "fluid"]
+  chapters: [8, 78]
+  status: open
+  entry: glossary/shui-水.md
+  binds: [taoteching]
+
 - term: "精"
   pinyin: "jīng"
   render: "vital essence / essence"

@@ -8765,7 +8765,7 @@
   },
   {
    "id": "char:水",
-   "tier": "section",
+   "tier": "quote",
    "label": "水 shuǐ · water",
    "parent": "work:tao-te-ching-ormsby",
    "tradition": "taoism",
@@ -8774,7 +8774,7 @@
    "han": "水",
    "pinyin": "shuǐ",
    "gloss": "water",
-   "ourRender": null,
+   "ourRender": "water",
    "locked": false,
    "triageTier": null,
    "centrality": 0.0284,

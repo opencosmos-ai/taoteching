@@ -109,8 +109,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so their private self is fulfilled.
 7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so their private self is fulfilled.
 8,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,The most masterful are like water.
+8,1,水,shuǐ,水,water,yes,1.0,exact-count,The most masterful are like water.
 8,2,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
+8,2,水,Shuǐ,水,water,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,物,wù,萬物,things / something,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,萬,wàn,萬物,countless,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
@@ -1313,6 +1315,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,柔,róu,柔,soft,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
+78,1,水,shuǐ,水,water,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,能,néng,可,be able,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
