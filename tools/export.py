@@ -11,7 +11,7 @@ property that buys is worth the duplication — **every future change to the
 manuscript shows up as a diff in the data**, the same way `glossary/INDEX.md`
 already makes a lock change visible.
 
-**Standing rule 0 is enforced here, not merely intended.** `--check` fails if any
+**The gloss rule is enforced here, not merely intended.** `--check` fails if any
 row carries a Han character without pinyin and English beside it. `CLAUDE.md`
 records that rule being broken repeatedly despite being written down; a column of
 bare glyphs in a file headed "characters" is that failure at scale. Columns are
@@ -189,7 +189,7 @@ EXPORTS = {
     """,
 }
 
-# Which columns satisfy standing rule 0 for each export: the pinyin and English
+# Which columns satisfy the gloss rule for each export: the pinyin and English
 # that must sit beside any Chinese on the same row. Named explicitly rather than
 # sniffed from column names, so that adding a Chinese column to an export without
 # also giving it a gloss is a build failure and not an oversight.
@@ -231,7 +231,7 @@ def rows(conn, sql):
 def rule_zero_violations(name, cols, data):
     """Rows carrying a Han character with nothing on the row that reads it.
 
-    CLAUDE.md standing rule 0, as a check rather than a hope. A row is in breach
+    CLAUDE.md the gloss rule, as a check rather than a hope. A row is in breach
     when it contains a Chinese character and every one of its designated gloss
     columns is empty.
     """
@@ -304,7 +304,7 @@ entries. Anything here that disagrees with a chapter file is a bug in the tools.
 ## Reading these files without reading Chinese
 
 Every row that carries a Chinese character carries its pinyin and an English
-rendering beside it. That is `CLAUDE.md` standing rule 0, and `tools/export.py
+rendering beside it. That is `CLAUDE.md` the gloss rule, and `tools/export.py
 --check` fails the build if any row breaks it.
 
 **The `gloss_source` column tells you how much to trust a gloss.**
@@ -428,13 +428,13 @@ def main():
 
     rc = 0
     if violations:
-        print(f"\n  ✗ standing rule 0: {len(violations)} row(s) carry Chinese "
+        print(f"\n  ✗ the gloss rule: {len(violations)} row(s) carry Chinese "
               f"with no pinyin and no English")
         for name, (cols, row) in violations[:5]:
             print(f"      {name}.csv · columns {cols} · {str(row)[:90]}")
         rc = 1
     else:
-        print("\n  ✓ standing rule 0: every row with Chinese carries pinyin "
+        print("\n  ✓ the gloss rule: every row with Chinese carries pinyin "
               "or English")
     if untranslated:
         print(f"  · {untranslated} row(s) carry deliberately untranslated Chinese "

@@ -19,7 +19,7 @@ entries. Anything here that disagrees with a chapter file is a bug in the tools.
 ## Reading these files without reading Chinese
 
 Every row that carries a Chinese character carries its pinyin and an English
-rendering beside it. That is `CLAUDE.md` standing rule 0, and `tools/export.py
+rendering beside it. That is `CLAUDE.md` the gloss rule, and `tools/export.py
 --check` fails the build if any row breaks it.
 
 **The `gloss_source` column tells you how much to trust a gloss.**

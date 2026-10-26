@@ -10,7 +10,7 @@
 # this repository.
 #
 # ⚠ STATUS: working renderings, not settled translation. They were written to
-# satisfy standing rule 0 — the titles were entering the corpus as bare glyphs,
+# satisfy the gloss rule — the titles were entering the corpus as bare glyphs,
 # and tools/export.py refuses to emit Chinese that nothing on the row can read.
 # They follow the locks (道 the Tao · 德 integrity · 明 clear-seeing · 心 heart ·
 # 民 the people · 樸/朴 uncarved wood · 無為 non-doing · 守 hold fast to ·

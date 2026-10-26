@@ -146,7 +146,7 @@ class SagePronoun(unittest.TestCase):
 
 
 class DevotionalCapitalization(unittest.TestCase):
-    """Standing rule 5: capitals confer status, and turn a word into a doctrine."""
+    """Standing rule 4: capitals confer status, and turn a word into a doctrine."""
 
     def test_the_great_way_in_chapter_53(self):
         # The live error this harness was built on. Note the phrase rule cannot

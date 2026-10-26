@@ -36,7 +36,7 @@
 
 **What a break changes downstream.** Blank lines are not counted as lines, so a chapter still pairs line by line with its Chinese. `tools/build_db.py` numbers the stanzas, and `data/atlas-export.json` carries them to the Library and the atlas, so a stanza break is visible to every reader.
 
-**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 5): the spaced em-dash ( — ), and only where its subject is named on both sides. It often marks the Chinese topic–comment shape, a topic held up and then named again.
+**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 4): the spaced em-dash ( — ), and only where its subject is named on both sides. It often marks the Chinese topic–comment shape, a topic held up and then named again.
 
 ---
 
@@ -211,7 +211,7 @@
 
 - **The chain, kept.** *The dark female's gate* opens on the words the line before it ended on, in the Chinese order: 玄 (*xuán* — dark) 牝 (*pìn* — female) 之 (*zhī* — 's) 門 (*mén* — gate). It also names her twice and ties the gate to her, which is what the 2026-10-24 ruling on this line asked for.
 - **The stanza break, 4 / 2.** The first four lines name the thing twice with 是謂 and hold the chain inside one stanza. The last two turn to how it is used. The break cuts only the rhyme that ties 根 (*gēn* — root) to 存 (*cún*) and 勤 (*qín*), which the English does not carry anyway. *(Three couplets, 2 / 2 / 2, were considered and set aside: they put a blank line in the middle of the chain.)*
-- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them — / this is called profound integrity."* This line is the case on which the dash rule was rewritten the same day (`CLAUDE.md` standing rule 5).
+- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them — / this is called profound integrity."* This line is the case on which the dash rule was rewritten the same day (`CLAUDE.md` standing rule 4).
 - **The cost.** Chapter 1's 眾妙之門 (*zhòng miào zhī mén*) reads *"the gate of all subtleties,"* so 之門 (*zhī mén* — "'s gate") takes two shapes in the book. Chapter 6 has a chain to keep, and chapter 1 does not.
 
 **Verdict:** chain *kept*. Rhyme *departed*, by policy (§7). The doubling 綿綿 (*mián mián* — unbroken) is noted in §6 and awaits its verdict.
