@@ -173,7 +173,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 象,xiàng,"image / seem, resemble (4)",,象,exact,象,pictograph,,,,5,,0.0391,長鼻牙，南越大獸，三秊一乳，象耳牙四足之形。凡象之屬皆从象。,
 慈,cí,tenderness,tenderness,慈,exact,心,phonetic-compound,,心 (xīn = heart),兹 (? = not yet glossed),7,locked,0.0389,愛也。从心兹聲。,
 辱,rǔ,"soiled (beside white, 28, 41) / disgrace (social, 13, 44)",,辱,exact,辰,compound,,"寸 (cùn = inch) + 在 (zài = in / be in) + 辰 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world))",,6,,0.0385,恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也。,
-牝,pìn,female,,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,
+牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The female of livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 遠,yuǎn,far,,遠,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",袁 (? = not yet glossed),5,,0.0382,遼也。从辵袁聲。,
 害,hài,harm / hinder (66),,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
 殆,dài,danger,,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,,0.038,危也。从歺台聲。,
@@ -292,7 +292,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 勤,qín,strain,strain,勤,exact,力,phonetic-compound,,力 (lì = force),𡏳 (? = not yet glossed),3,locked,0.0239,勞也。从力𡏳聲。,"Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 夷,yí,level / the invisible (14),,夷,exact,大,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 弓 (gōng = bow)",,3,,0.0239,平也。从大从弓。東方之人也。,
 持,Chí,hold,hold,持,exact,手,phonetic-compound,,手 (shǒu = hand),寺 (? = not yet glossed),3,locked,0.0239,握也。从手寺聲。,
-牡,mǔ,male,,牡,exact,牛,phonetic-compound,,牛 (niú = an ox),"土 (tǔ = dirt, earth)",2,,0.0239,畜父也。从牛土聲。,
+牡,mǔ,the male,the male,牡,exact,牛,phonetic-compound,,牛 (niú = an ox),"土 (tǔ = dirt, earth)",2,locked,0.0239,畜父也。从牛土聲。,
 矜,jīn,boast / pride oneself (自矜),,矜,exact,矛,phonetic-compound,,矛 (? = not yet glossed),今 (jīn = now / today (21)),3,,0.0239,矛柄也。从矛今聲。,
 細,xì,slight,,細,exact,糸,phonetic-compound,,糸 (mì = silk thread),囟 (? = not yet glossed),3,,0.023,微也。从糸囟聲。,
 川,chuān,river,,川,exact,川,unanalysed,,,,2,,0.0228,貫穿通流水也。《虞書》曰：“濬𡿨巜，距川。”言深𡿨巜之水會爲川也。凡川之屬皆从川。,
@@ -399,7 +399,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 迷,mí,confused/lost,,迷,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",米 (mǐ = grains of rice),2,,0.0163,或也。从辵米聲。,
 遂,suì,"done, accomplished",,遂,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",㒸 (? = not yet glossed),2,,0.0163,亾也。从辵㒸聲。,
 除,chú,clearing,,除,exact,𨸏,phonetic-compound,,𨸏 (? = not yet glossed),"余 (yú = a shelter; and, borrowed, 'I')",2,,0.0163,殿陛也。从𨸏余聲。,
-雌,cí,hen,,雌,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),此 (Cǐ = this / here),2,,0.0163,鳥母也。从隹此聲。,
+雌,cí,the hen,the hen,雌,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),此 (Cǐ = this / here),2,locked,0.0163,鳥母也。从隹此聲。,"The mother among birds. From 隹 (zhuī — a short-tailed bird), with 此 (cǐ) as its sound."
 驕,jiāo,arrogant / arrogance,,驕,exact,馬,phonetic-compound,,馬 (mǎ = horse),喬 (? = not yet glossed),2,,0.0163,馬高六尺爲驕。从馬喬聲。《詩》曰：“我馬唯驕。”一曰野馬。,
 勿,wù,do not,,勿,exact,勿,pictograph,,,,4,,0.0159,州里所建旗。象其柄，有三游。雜帛，幅半異。所以趣民，故遽，稱勿勿。凡勿之屬皆从勿。,
 儉,jiǎn,frugality,,儉,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",僉 (? = not yet glossed),3,,0.0157,約也。从人僉聲。,
@@ -751,7 +751,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 蹶,jué,topple,,蹶,exact,足,phonetic-compound,,足 (zú = enough / foot (64)),厥 (? = not yet glossed),1,,0.0076,僵也。从足厥聲。一曰跳也。亦讀若橜。,
 闚,kuī,"look out, peer",,闚,exact,門,phonetic-compound,,門 (mén = gate / door),規 (? = not yet glossed),1,,0.0076,閃也。从門規聲。,
 隳,huī,fall/are destroyed,,隓,old-form,𨸏,phonetic-compound,,𨸏 (? = not yet glossed),𢀡 (? = not yet glossed),1,,0.0076,敗城𨸏曰隓。从𨸏𢀡聲。,
-雄,xióng,male/active,,雄,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),厷 (? = not yet glossed),1,,0.0076,鳥父也。从隹厷聲。,
+雄,xióng,the rooster,the rooster,雄,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),厷 (? = not yet glossed),1,locked,0.0076,鳥父也。从隹厷聲。,
 飲,yǐn,drink,,㱃,old-form,㱃,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",酓 (? = not yet glossed),1,,0.0076,歠也。从欠酓聲。凡㱃之屬皆从㱃。,
 黑,hēi,black/dark,,黑,exact,黑,compound,,炎 (? = not yet glossed),,1,,0.0076,火所熏之色也。从炎，上出𡆧。𡆧，古窻字。凡黑之屬皆从黑。,
 侮,wǔ,despise/insult,,侮,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𣫭 (? = not yet glossed),1,,0.0065,傷也。从人𣫭聲。,

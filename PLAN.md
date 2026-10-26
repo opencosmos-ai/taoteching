@@ -175,7 +175,7 @@ The research process currently depends on a search engine every time a line is c
 | **zh.wikisource.org** | CC BY-SA 4.0 | **No** — ShareAlike |
 | Pre-1929 printed editions | US public domain by date | **Yes** |
 
-**The NonCommercial clause is the sharper problem than the CC0 one.** `../taocompanion` exists so this work can sustain a family. An NC-licensed dependency anywhere in a commercial book's derivation chain is exactly the wrong shape — worse than the CC0 issue, because CC0 is a gift Shalom controls and the companion is income he needs.
+**The NonCommercial clause is the sharper problem than the CC0 one.** `shalomormsby/taocompanion` exists so this work can sustain a family. An NC-licensed dependency anywhere in a commercial book's derivation chain is exactly the wrong shape — worse than the CC0 issue, because CC0 is a gift Shalom controls and the companion is income he needs.
 
 **The legal reality is probably fine, and that is not good enough.** Copyright covers original expression; 道可道非常道 is 4th-century BCE and free, and a faithful transcription of a public-domain text attracts no new copyright in the US (*Feist v. Rural Telephone*, 1991, rejecting "sweat of the brow"; *Bridgeman v. Corel*, 1999, for faithful reproductions). What a site **can** own is the compilation, the metadata, and the **added punctuation** — and `notes/translation.md` already establishes that all punctuation in the Chinese is a later editor's addition, not the source's.
 

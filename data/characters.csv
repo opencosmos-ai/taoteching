@@ -190,7 +190,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 止,zhǐ,stop / halt,word,,,,,5,4,"20,32,35,44",20,44,0.94,
 殆,dài,danger,word,,,,,5,5,"16,25,32,44,52",16,52,0.94,
 法,fǎ,model oneself on / laws (法令),word,,,,,5,2,"25,57",25,57,0.94,
-牝,pìn,female,word,,,,,5,3,"6,55,61",6,61,0.94,
+牝,pìn,the female,locked,,the female,locked,receptive; feminine; the Female,5,3,"6,55,61",6,61,0.94,glossary/pin-牝.md
 禮,lǐ,ritual / rites (31),word,,,,,5,2,"31,38",31,38,0.94,
 義,yì,duty,word,,,,,5,3,"18,19,38",18,38,0.94,
 致,zhì,bring to / reach / follow through (39),word,,,,,5,4,"10,14,16,39",10,39,0.94,
@@ -418,7 +418,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 濁,zhuó,muddy,covers,,muddy,locked,,2,1,15,15,15,0.38,glossary/qing-清.md
 熙,xī,merry,word,,,,,2,1,20,20,20,0.38,
 牖,yǒu,windows,apparatus,1/1,,,,2,2,"11,47",11,47,0.38,
-牡,mǔ,male,word,,,,,2,2,"55,61",55,61,0.38,
+牡,mǔ,the male,covers,,the male,locked,,2,2,"55,61",55,61,0.38,glossary/pin-牝.md
 狗,gǒu,"dog (芻狗, straw dogs)",word,,,,,2,1,5,5,5,0.38,
 珞,Luò,"stony (珞珞, common like stone)",word,,,,,2,1,39,39,39,0.38,
 琭,lù,"gleaming (琭琭, gleaming like jade)",word,,,,,2,1,39,39,39,0.38,
@@ -460,7 +460,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 遂,suì,"done, accomplished",word,,,,,2,2,"9,17",9,17,0.38,
 間,jiān,"space between / gap, seam (43)",word,,,,,2,2,"5,43",5,43,0.38,
 除,chú,clearing,apparatus,1/1,,,,2,2,"10,53",10,53,0.38,
-雌,cí,hen,word,,,,,2,2,"10,28",10,28,0.38,
+雌,cí,the hen,locked,,the hen,locked,female; feminine; receptive; passive; energy; the Hen,2,2,"10,28",10,28,0.38,glossary/ci-雌.md
 靈,líng,numinous,word,,,,,2,1,39,39,39,0.38,
 飢,jī,go hungry / hunger,word,,,,,2,1,75,75,75,0.38,
 養,yǎng,nourish,word,,,,,2,2,"34,51",34,51,0.38,
@@ -779,7 +779,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 隣,Lín,neighboring,word,,,,,1,1,80,80,80,0.19,
 隱,yǐn,hidden,word,,,,,1,1,41,41,41,0.19,
 隳,huī,fall/are destroyed,apparatus,1/1,,,,1,1,29,29,29,0.19,
-雄,xióng,male/active,apparatus,1/1,,,,1,1,28,28,28,0.19,
+雄,xióng,the rooster,covers,,the rooster,locked,,1,1,28,28,28,0.19,glossary/ci-雌.md
 雞,jī,chicken,word,,,,,1,1,80,80,80,0.19,
 雨,yǔ,"rain (驟雨, a downpour)",word,,,,,1,1,23,23,23,0.19,
 露,lù,dew,word,,,,,1,1,32,32,32,0.19,

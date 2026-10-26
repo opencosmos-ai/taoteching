@@ -186,7 +186,7 @@ asking you before anything is posted.
 
 If you want something more concrete:
 
-- **<!-- count: gloss:word -->541 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
+- **<!-- count: gloss:word -->538 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
 - **<!-- count: dash-chapters -->9 chapters carry a dash in the verse**, each allowed only
