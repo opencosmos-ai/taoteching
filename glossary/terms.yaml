@@ -486,6 +486,16 @@
   entry: glossary/qing-清.md
   # covers 濁 -> muddy
 
+- term: "牝"
+  pinyin: "pìn"
+  render: "the female"
+  forbidden: ["receptive", "feminine", "the Female"]
+  chapters: [6, 55, 61]
+  status: locked
+  entry: glossary/pin-牝.md
+  binds: [taoteching]
+  # covers 牡 -> the male
+
 - term: "百姓"
   pinyin: "bǎi xìng"
   render: "everyone"

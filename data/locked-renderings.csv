@@ -88,7 +88,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Speaking of this is a dead end. Instead, hold to the center."
 6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley is deathless.
+6,2,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
+6,3,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,The dark female's gate —
 6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,The dark female's gate —
 6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
 6,6,勤,qín,勤,strain,yes,1.0,exact-count,"use it, and there is no strain."
@@ -955,6 +957,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,1,德,dé,德,integrity,yes,1.0,authored,A person with abundant integrity is like a newborn.
 55,3,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,3,柔,róu,柔,soft,yes,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
+55,4,牝,pìn,牝,the female,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
+55,4,牡,mǔ,牝,the male,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
 55,4,精,jīng,精,vital essence / essence,yes,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Knowing harmony is called the ever-present. Knowing the ever-present is called clear-seeing.
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Knowing harmony is called the ever-present. Knowing the ever-present is called clear-seeing.
@@ -1037,8 +1041,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The large state is the downstream flow,"
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the confluence of the world, the female of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the confluence of the world, the female of the world."
+61,2,牝,pìn,牝,the female,yes,1.0,authored,"the confluence of the world, the female of the world."
 61,3,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
+61,3,牝,Pìn,牝,the female,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
+61,3,牡,mǔ,牝,the male,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
