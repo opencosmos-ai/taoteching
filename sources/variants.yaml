@@ -566,6 +566,27 @@
     chiastic repetition is the argument. Heshang Gong reads it actively too.
   logged: notes/manuscript.md
 
+# Recorded 2026-10-26 from the Wikisource transcriptions of silks A and B,
+# which follow 長沙馬王堆漢墓簡帛集成 (Collected Bamboo and Silk Manuscripts
+# of the Mawangdui Han Tombs, 2014). The printed volumes were not consulted;
+# see WORKLIST T2-74.
+
+- chapter: 61
+  line: "牝常以靜勝牡，以靜為下"
+  base: "以靜為下"
+  witnesses: { mawangdui-a: "為其靜…宜為下 (two graphs lost; 靚 for 靜)", mawangdui-b: "為其靜也，故宜為下也" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The silks give a reason where the base gives a means: "because she is
+    still, therefore it is fitting that she be underneath," against "by
+    stillness she is underneath." We keep the base against both excavated
+    witnesses, Shalom's call 2026-10-26: every English for the silks' 宜 (yi -
+    fitting) said of the female reads as a verdict on where she belongs, which
+    could be used to justify her domination. Wang Bi reads the base causally
+    (以其靜故能為下也), so the silks' sense survives in English "by."
+  logged: notes/manuscript.md
+
 - chapter: 63
   line: "大小多少，報怨以德"
   base: "報怨以德"
