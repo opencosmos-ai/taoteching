@@ -32,14 +32,25 @@ pairing: false
 
 ### Three lines, and two of them are a negation
 
-> 用之不勤 (*yòng zhī bù qín* — "use it, and not 勤")
-> *Use it, and there is no strain.* — ch 6
+> *Use it, and there is no strain.*
+>
+> 用之不勤。
+>
+> — chapter 6
 
-> 塞其兌，閉其門，終身不勤 (*sè qí duì, bì qí mén, zhōng shēn bù qín* — "block the openings, close the doors, to the end of your days, not 勤")
-> *Block the openings, close the doors, and to the end of your days you will not strain.* — ch 52
+> *Block the openings, close the doors, and to the end of your days you will not strain.*
+>
+> 塞其兌，閉其門，終身不勤。
+>
+> — chapter 52
 
-> 上士聞道，勤而行之 (*shàng shì wén dào, qín ér xíng zhī* — "the highest in service hear the Tao, 勤, and practice it")
-> *Those highest in service hear the Tao and labor to practice it.* — ch 41
+> *Those highest in service hear the Tao and labor to practice it.*
+>
+> 上士聞道，勤而行之
+>
+> — chapter 41
+
+Word for word, two of the lines put 不 (*bù* — not) before the character: 用之不勤 (*yòng zhī bù qín* — "use it, and not 勤") and 終身不勤 (*zhōng shēn bù qín* — "to the end of your days, not 勤"). The third, 勤而行之 (*qín ér xíng zhī* — "勤, and practice it"), is what the highest in service do.
 
 **Both commentators read the spending of strength in ch 6, and both read it in ch 52.**
 

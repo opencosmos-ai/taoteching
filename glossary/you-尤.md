@@ -27,8 +27,15 @@ The oldest graph is contested. The oracle-bone form long read as 尤 has been re
 
 ### One line, and it points outward
 
-> 夫唯不爭，故無尤 (*fú wéi bù zhēng, gù wú yóu* — "only because it does not contend, therefore no 尤")
-> *Only because it does not contend / is there no blame.* — ch 8
+> *Only because it does not contend*
+> *is there no blame.*
+>
+> 夫唯不爭，
+> 故無尤。
+>
+> — chapter 8
+
+Word for word, the second half is 故無尤 (*gù wú yóu* — "therefore no 尤").
 
 **The only commentary on the line makes 尤 something done to water.** 河上公 (*Héshàng Gōng*): 水性如是，故天下无有怨尤水者也 — *"water's nature is like this, so in all the world there is no one who resents or blames water."* 怨尤 (*yuàn yóu* — to resent, to blame) is the Analects' pair, and water is its object. 王弼 (*Wáng Bì*) says nothing about the word.
 

@@ -38,27 +38,57 @@ A 谿 (*xī* — "ravine") is a valley closed at the bottom. Both are land that 
 
 ### Ten lines, and the valley is land in every one
 
-> 谷神不死 (*gǔ shén bù sǐ* — "the valley's spirit does not die")
-> *The spirit of the valley is deathless.* — ch 6
+> *The spirit of the valley is deathless.*
+>
+> 谷神不死
+>
+> — chapter 6
 
-> 曠兮其若谷 (*kuàng xī qí ruò gǔ* — "wide, like a valley")
-> *Open, like a valley.* — ch 15
+> *Open, like a valley.*
+>
+> 曠兮其若谷
+>
+> — chapter 15
 
-> 為天下谷 (*wéi tiān xià gǔ* — "serve as the world's valley")
-> *Serve as the world's valley.* — ch 28, twice
+> *serve as the world's valley.*
+> *Serve as the world's valley, and the ever-present integrity is enough at last.*
+>
+> 為天下谷。
+> 為天下谷，常德乃足
+>
+> — chapter 28
 
-> 猶小谷之與江海 (*yóu xiǎo gǔ zhī yǔ jiāng hǎi* — "like small valleys to the river and the sea")
-> *The Tao in the world is like small valleys to the river and the sea.* — ch 32, in Guodian's and silk B's reading; our base text has 川谷 (*chuān gǔ* — streams and valleys)
+> *The Tao in the world is like small valleys to the river and the sea.*
+>
+> 猶小谷之與江海
+>
+> — chapter 32
 
-> 谷得一以盈 (*gǔ dé yī yǐ yíng* — "the valley received the one and became full")
-> 谷無以盈，將恐竭 (*gǔ wú yǐ yíng, jiāng kǒng jié* — "the valley with no way to be full is likely to run dry")
-> *The valley received the one, and so became full.* · *The valley with no way to be full is likely to run dry.* — ch 39
+Chapter 32 reads with Guodian and silk B here. Our base text has 川谷 (*chuān gǔ* — streams and valleys).
 
-> 上德若谷 (*shàng dé ruò gǔ* — "the highest integrity seems a valley")
-> *The highest integrity seems a valley.* — ch 41
+> *The valley received the one, and so became full.*
+> *The valley with no way to be full is likely to run dry.*
+>
+> 谷得一以盈
+> 谷無以盈，將恐竭
+>
+> — chapter 39
 
-> 江海所以能為百谷王者，以其善下之 (*jiāng hǎi suǒ yǐ néng wéi bǎi gǔ wàng zhě, yǐ qí shàn xià zhī* — "rivers and seas can rule the hundred valleys because they are masterful at being below them")
-> *Rivers and seas can rule the hundred valleys / because they are masterful at staying below them.* — ch 66, and again in its next line
+> *The highest integrity seems a valley.*
+>
+> 上德若谷
+>
+> — chapter 41
+
+> *Rivers and seas can rule the hundred valleys*
+> *because they are masterful at staying below them.*
+> *That is how they come to rule the hundred valleys.*
+>
+> 江海所以能為百谷王者，
+> 以其善下之，
+> 故能為百谷王。
+>
+> — chapter 66
 
 **In chapters 32 and 66 the valley is not the lowest place.** Small valleys run down to the river and the sea, and it is the river and the sea that stay below. Heshang Gong (Han dynasty) on chapter 66: 江海以卑，故衆流歸之, *"rivers and seas are low, so the many streams return to them."* The oldest witness says it more plainly still. Guodian (~300 BCE) reads 以其能為百谷下 (*yǐ qí néng wéi bǎi gǔ xià* — "because they can be below the hundred valleys"). Wang Bi (d. 249) on chapter 32: 川谷之求江與海，非江海召之，不召不求而自歸者, *"streams and valleys seek the river and the sea, but the river and the sea do not summon them; unsummoned and unsought, they return of themselves."* Heshang Gong on the same line uses the Shuowen's own verb: 如川谷與江海相流通也, *"as streams and valleys and the river and the sea flow through to one another."*
 

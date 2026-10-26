@@ -29,11 +29,19 @@ covers:
 
 ### Two lines, and both are asked of you
 
-> 知其雄，守其雌，為天下谿 (*zhī qí xióng, shǒu qí cí, wéi tiān xià xī* — "know its rooster, hold to its hen, be the world's ravine")
-> *Know the rooster, hold to the hen, / serve as the world's ravine.* — ch 28
+> *Know the rooster, hold to the hen,*
+> *serve as the world's ravine.*
+>
+> 知其雄，守其雌，
+> 為天下谿。
+>
+> — chapter 28
 
-> 天門開闔，能為雌乎 (*tiān mén kāi hé, néng wéi cí hū* — "the gate of the sky opens and closes: can you be the hen?")
-> *When the gate of the sky opens and closes, can you be the hen?* — ch 10
+> *When the gate of the sky opens and closes, can you be the hen?*
+>
+> 天門開闔，能為雌乎？
+>
+> — chapter 10
 
 **Neither line describes the hen.** The first tells you to hold to her, and the second asks whether you can be her. 守 (*shǒu* — to hold to) is a post you are answerable for (`glossary/shou-守.md`), and 為 (*wéi* — to be, to serve as) is a part you play.
 
