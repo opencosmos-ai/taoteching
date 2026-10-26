@@ -1,6 +1,6 @@
 # PROVENANCE — what may live in `sources/`, and on what authority
 
-*This directory holds primary material consulted during translation. Every file in it must be **provably free**, because this repository is dedicated CC0 with no exceptions, and because the companion volume in `../taocompanion` is intended to be **sold**.*
+*This directory holds primary material consulted during translation. Every file in it must be **provably free**, because this repository is dedicated CC0 with no exceptions, and because the companion volume in `shalomormsby/taocompanion` is intended to be **sold**.*
 
 **Read the admission rules before adding anything.** They are stricter than copyright law requires, deliberately.
 

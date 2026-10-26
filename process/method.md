@@ -181,9 +181,9 @@ The handoff is complete *because the notes exist*: Fable can see not only what w
 **The two-tier model** (serves the gift *and* the family):
 
 - **The free gift — the translation itself.** The 81 chapters of English verse, released to the **public domain**. Freely copyable, printable, quotable, teachable. This maximizes reach and *is* the gift to humanity.
-- **The paid companion — the apparatus.** The glossary (道 德 生 母 常…), the three notes layers, the etymological deep-dives, the essays, the story of the making. This is where the unique labor and devotion live, and what people gladly pay for. **Give away the poem; sell the illumination.**
+- **The paid companion — a book for readers.** A rewrite of this repository's research for people who will never open it: the word essays, the etymological deep-dives, reflections, the story of the making. The glossary and the three notes layers it draws on stay here, in the public domain, like everything else in this repository. What people pay for is the writing and the made object, not access to the research. **Give away the poem and the work behind it; sell the book that makes the work readable.**
 
-**Why it works:** the free translation drives discovery and builds reputation and audience; the companion — your original research, which no one can copy — is the defensible product. *Honest caveat:* once public-domain, others may also print or sell the bare translation. That's fine, even good; it's the design. The **companion**, not the translation, is the moat.
+**Why it works:** the free translation drives discovery and builds reputation and audience; the companion — your own writing about the research, drawn from decades of study — is the product. *Honest caveat:* once public-domain, others may also print or sell the bare translation, or mine the glossary and notes. That's fine, even good; it's the design. The **companion's writing**, not anything withheld, is what sustains the work.
 
 **Licensing: CC0, chosen.** It is the truest "gift to all", with no strings and no exceptions anywhere in the repository. (CC BY, which keeps a name attached, was the alternative weighed here.)
 
