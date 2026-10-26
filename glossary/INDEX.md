@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**66 entries.** Sorted by how much of the book each term touches.
+**67 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -72,6 +72,7 @@ python3 tools/build_index.py
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
+| **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |
@@ -105,6 +106,7 @@ python3 tools/build_index.py
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **谿** | ravine | [`gu-谷.md`](gu-谷.md) — 谷 |
+| **雄** | the rooster | [`ci-雌.md`](ci-雌.md) — 雌 |
 
 ## Still open
 

@@ -546,6 +546,16 @@
   status: locked
   entry: glossary/jing-精.md
 
+- term: "雌"
+  pinyin: "cí"
+  render: "the hen"
+  forbidden: ["female", "feminine", "receptive", "passive", "energy", "the Hen"]
+  chapters: [10, 28]
+  status: locked
+  entry: glossary/ci-雌.md
+  binds: [taoteching]
+  # covers 雄 -> the rooster
+
 - term: "全"
   pinyin: "quán"
   render: "whole · stay whole · keep whole (transitive)"

@@ -460,7 +460,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 遂,suì,"done, accomplished",word,,,,,2,2,"9,17",9,17,0.38,
 間,jiān,"space between / gap, seam (43)",word,,,,,2,2,"5,43",5,43,0.38,
 除,chú,clearing,apparatus,1/1,,,,2,2,"10,53",10,53,0.38,
-雌,cí,hen,word,,,,,2,2,"10,28",10,28,0.38,
+雌,cí,the hen,locked,,the hen,locked,female; feminine; receptive; passive; energy; the Hen,2,2,"10,28",10,28,0.38,glossary/ci-雌.md
 靈,líng,numinous,word,,,,,2,1,39,39,39,0.38,
 飢,jī,go hungry / hunger,word,,,,,2,1,75,75,75,0.38,
 養,yǎng,nourish,word,,,,,2,2,"34,51",34,51,0.38,
@@ -779,7 +779,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 隣,Lín,neighboring,word,,,,,1,1,80,80,80,0.19,
 隱,yǐn,hidden,word,,,,,1,1,41,41,41,0.19,
 隳,huī,fall/are destroyed,apparatus,1/1,,,,1,1,29,29,29,0.19,
-雄,xióng,male/active,apparatus,1/1,,,,1,1,28,28,28,0.19,
+雄,xióng,the rooster,covers,,the rooster,locked,,1,1,28,28,28,0.19,glossary/ci-雌.md
 雞,jī,chicken,word,,,,,1,1,80,80,80,0.19,
 雨,yǔ,"rain (驟雨, a downpour)",word,,,,,1,1,23,23,23,0.19,
 露,lù,dew,word,,,,,1,1,32,32,32,0.19,

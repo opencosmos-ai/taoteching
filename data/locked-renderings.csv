@@ -163,6 +163,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,9,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"When the gate of the sky opens and closes, can you be the hen?"
 10,10,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"When the gate of the sky opens and closes, can you be the hen?"
 10,10,能,néng,可,be able,NOT FOUND,1.0,authored,"When the gate of the sky opens and closes, can you be the hen?"
+10,10,雌,cí,雌,the hen,yes,1.0,authored,"When the gate of the sky opens and closes, can you be the hen?"
 10,11,明,Míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
 10,12,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
 10,12,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
@@ -470,6 +471,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Not valuing the master and not loving their raw material is a sign of great confusion. Even those who appear intelligent are lost. This is the essential secret.
 27,18,妙,miào,玄 & 妙,subtle,NOT FOUND,1.0,authored,Even those who appear intelligent are lost. This is the essential secret.
 28,1,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
+28,1,雄,xióng,雌,the rooster,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
+28,1,雌,cí,雌,the hen,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
 28,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's ravine.
 28,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's ravine.
 28,2,谿,xī,谷,ravine,yes,1.0,exact-count,serve as the world's ravine.
