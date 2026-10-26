@@ -29,14 +29,31 @@ binds: [taoteching]
 
 ### Three lines, and what water does in them
 
-> 上善若水 (*shàng shàn ruò shuǐ* — "the highest masterful is like water")
-> *The most masterful are like water.* — ch 8
+> *The most masterful are like water.*
+>
+> 上善若水。
+>
+> — chapter 8
 
-> 水善利萬物而不爭，處衆人之所惡，故幾於道 (*shuǐ shàn lì wàn wù ér bù zhēng, chǔ zhòng rén zhī suǒ wù, gù jī yú dào* — "water is masterful at benefiting the countless things and does not contend; it stays where the crowd loathes, and so is nearly the Tao")
-> *Water is masterful at benefiting the countless things and does not contend. / It dwells in what the crowd loathes, / and so is nearly the Tao.* — ch 8
+> *Water is masterful at benefiting the countless things and does not contend.*
+> *It dwells in what the crowd loathes,*
+> *and so is nearly the Tao.*
+>
+> 水善利萬物而不爭，
+> 處眾人之所惡，
+> 故幾於道。
+>
+> — chapter 8
 
-> 天下莫柔弱於水，而攻堅強者莫之能勝，以其無以易之 (*tiān xià mò róu ruò yú shuǐ, ér gōng jiān qiáng zhě mò zhī néng shèng, yǐ qí wú yǐ yì zhī* — "nothing in the world is softer and more yielding than water, yet at attacking the hard and strong nothing overcomes it, because nothing can take its place")
-> *In all the world nothing is softer and more yielding than water, / yet at attacking the hard and the strong nothing overcomes it, / for nothing can take its place.* — ch 78
+> *In all the world nothing is softer and more yielding than water,*
+> *yet at attacking the hard and the strong nothing overcomes it,*
+> *for nothing can take its place.*
+>
+> 天下莫柔弱於水，
+> 而攻堅強者莫之能勝，
+> 以其無以易之。
+>
+> — chapter 78
 
 **Water does four things in these lines, and each is a thing you can watch it do.**
 

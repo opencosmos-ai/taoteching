@@ -14,6 +14,8 @@
 
 **Names are the one exception: write them romanized, with no Chinese at all.** Commentators, authors, dictionaries and witnesses go by their romanized names: Wang Bi, Heshang Gong, Han Fei, Xu Shen, the Shuowen, Guodian, Mawangdui. Never "王弼's grammar," and not "王弼 (*Wáng Bì*)" either: a name in characters is one more thing the reader has to get past, and it makes an entry cryptic for anyone who does not read Chinese. *(Shalom's call, 2026-10-25, on the draft of `glossary/gu-谷.md`. Older files still write names in characters; romanize them when you are editing that passage anyway.)*
 
+**A verse quote is the other exception: its English stands beside its Chinese, and is its gloss.** When a glossary entry quotes the book's own verse as a block, it gives our English lines, then the Chinese lines, broken where the English breaks, then the chapter, with no pinyin and no literal gloss. The atlas sets the two side by side, line against line. Where an argument needs a literal reading, write it in the prose beside the quote, glossed as above. *(Shalom's call, 2026-10-26: the old form read as dense and unwelcoming. The shape is in `process/skills/glossary-entry/SKILL.md` §3.)*
+
 **This applies even when:**
 - the term was glossed earlier in the same session, or in the same message
 - it is a chapter title, a compound, or a quoted line

@@ -29,14 +29,33 @@ covers:
 
 ### Three chapters, and she is a body in each
 
-> 谷神不死，是謂玄牝。玄牝之門，是謂天地根。(*gǔ shén bù sǐ, shì wèi xuán pìn. xuán pìn zhī mén, shì wèi tiān dì gēn* — "the valley's spirit does not die; this is called the dark female. The dark female's gate; this is called the root of sky and earth")
-> *The spirit of the valley is deathless. / This is called the dark female. / The dark female's gate — / this is called the root of sky and earth.* — ch 6
+> *The spirit of the valley is deathless.*
+> *This is called the dark female.*
+> *The dark female's gate —*
+> *this is called the root of sky and earth.*
+>
+> 谷神不死，
+> 是謂玄牝。
+> 玄牝之門，
+> 是謂天地根。
+>
+> — chapter 6
 
-> 未知牝牡之合而全作 (*wèi zhī pìn mǔ zhī hé ér quán zuò* — "not yet knowing the joining of female and male, yet wholly stirring")
-> *They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.* — ch 55
+> *They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.*
+>
+> 未知牝牡之合而全作，精之至也。
+>
+> — chapter 55
 
-> 天下之交，天下之牝。牝常以靜勝牡，以靜為下。(*tiān xià zhī jiāo, tiān xià zhī pìn. pìn cháng yǐ jìng shèng mǔ, yǐ jìng wéi xià* — "the meeting place of the world, the female of the world. The female always overcomes the male by stillness; by stillness she is below")
-> *the confluence of the world, the female of the world. / The female always overcomes the male by stillness. / By stillness she is underneath.* — ch 61
+> *the confluence of the world, the female of the world.*
+> *The female always overcomes the male by stillness.*
+> *By stillness she is underneath.*
+>
+> 天下之交，天下之牝。
+> 牝常以靜勝牡，
+> 以靜為下。
+>
+> — chapter 61
 
 **In each line she is something you could point at.**
 
