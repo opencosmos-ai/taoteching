@@ -63,7 +63,9 @@
 | 58 | 其無正。正復為奇 (*qí wú zhèng. zhèng fù wéi qí* — "it has no straight. The straight turns crooked") | *"It has no fixed norm — / The straight turns crooked"* | **Lost.** 正 (*zhèng* — straight) reads *norm*, then *straight*. Left to the 正/奇 (*zhèng / qí* — straight / crooked) call, `WORKLIST.md` T4-2 |
 | 59 | 夫唯嗇，是謂早服；早服謂之重積德 (*fū wéi sè, shì wèi zǎo fú; zǎo fú wèi zhī zhòng jī dé* — "only conserving is called accepting early; accepting early is called a heavy store of integrity"), and four links more | *"Only conserving is called accepting early, / accepting early is called a heavy accumulation of integrity…"* | **Kept**, every link in position |
 
-**Also kept:** ch 1 (玄之又玄 *xuán zhī yòu xuán* — "dark, and dark again"), 21, 23, 28 (×3), 30 and 55, 48, 52, and 15.
+**Also kept:** 15 (×2), 21, 23, 28 (×3), 30 and 55, 32 (×2), 35, 40, 48, 52, 60, 61, 67 and 69; ch 74's link keeps its words but falls mid-line.
+
+**Kept in words, cut by a stanza break** *(found in the full read, 2026-10-26)*: ch 1 (同謂之玄。玄之又玄 *tóng wèi zhī xuán. xuán zhī yòu xuán* — "together they are called dark. Dark, and dark again"), 25 (名曰大。大曰逝 *míng yuē dà. dà yuē shì* — "named it great. Great means departing"), 28's fourth link (復歸於樸。樸散 *fù guī yú pǔ. pǔ sàn* — "return to the uncarved wood. The uncarved wood scatters"), 55 (和之至也。知和 *hé zhī zhì yě. zhī hé* — "harmony at its utmost. Knowing harmony") and 65 (玄德。玄德 *xuán dé. xuán dé* — "profound integrity. Profound integrity"). The words are in position, and a blank line falls across the link, which rule 3 above forbids. `WORKLIST.md` T3-15.
 
 #### 2 · The series — 排比 (*pái bǐ* — "arranged in a row"), isocolon
 
@@ -128,6 +130,9 @@
 | 1 | 道可道 (*dào kě dào* — "the Tao that can be tao-ed") | **Departed**, a recorded choice: the verb 道 (*dào* — to lay out, to tell) becomes *made a way*, so the line reads *Tao · way · Tao* (`chapters/001.md`, notes) |
 | 63 | 為無為，事無事，味無味 (*wéi wú wéi, shì wú shì, wèi wú wèi* — "do not-doing, serve not-serving, taste not-tasting") | **Lost** in the third: *"taste the flavorless"* breaks the pattern of the first two |
 | 64 | 欲不欲 / 學不學 (*yù bù yù / xué bù xué* — "want not-wanting / learn not-learning") | **Lost** in the second: *"learns to unlearn"* beside *"wants the not-wanting"* |
+| 72 | 不畏威，則大威至 (*bù wèi wēi, zé dà wēi zhì* — "do not fear dread, and the great dread comes") and 夫唯不厭，是以不厭 (*fū wéi bù yàn, shì yǐ bù yàn* — "only because you do not press down, they are not fed up") | **Departed**, both recorded: the first repetition killed by Shalom, the second split into *oppress* / *tire of* (`notes/translation.md` → *Ch 72*) |
+| 46 | 不知足…知足之足 (*bù zhī zú… zhī zú zhī zú* — "not knowing enough… the enough of knowing enough") | **Lost**: *discontent*, then *the contentment of knowing you have enough* (T3-18) |
+| 39 | 數譽無譽 (*shù yù wú yù*, read as 輿 *yú* — "count the cart, and there is no cart") | **Kept**: *reduce a cart to the count of its parts, and there is no cart* |
 
 #### 6 · The doubled character — 疊字 (*dié zì* — "stacked characters"), reduplication
 
@@ -171,17 +176,18 @@
 
 | Formula | How we carry it | Where it slips |
 |---|---|---|
-| 是謂 (*shì wèi* — "this is called") | *this is called* | **Lost** at ch 13 (*"This is what is meant:"*), 14 (*"This is the shape of no-shape"*), 27, 53 and 74, and **dropped** twice at ch 78 (是謂社稷主 *shì wèi shè jì zhǔ* — "this is called lord of the altars of soil and grain" → *"is the keeper of the soil and the grain"*). Some may be licensed; each needs a verdict |
-| 是以聖人 (*shì yǐ shèng rén* — "therefore the sage") and 故 (*gù* — "so") | *Therefore, the sage* and *So the sage*, both | The two connectives are not held apart: ch 57's 故聖人云 (*gù shèng rén yún*) reads *"Therefore the sage says:"* and ch 78's 是以聖人云 (*shì yǐ shèng rén yún*) reads *"So the sage says:"*, the mapping reversed. Wants one book-wide decision |
+| 是謂 (*shì wèi* — "this is called") | *this is called* | **Lost** at ch 13 (*"This is what is meant:"*), 14 (*"This is the shape of no-shape"*), 27, 53 and 74, and **dropped** twice at ch 78 (是謂社稷主 *shì wèi shè jì zhǔ* — "this is called lord of the altars of soil and grain" → *"is the keeper of the soil and the grain"*). Ch 65's 是謂玄德 (*shì wèi xuán dé* — "this is called profound integrity") reads *is called profound integrity*, where 10 and 51 give the same three characters *— / this is called*. Some may be licensed; each needs a verdict (T3-11, T3-17) |
+| 是以聖人 (*shì yǐ shèng rén* — "therefore the sage") and 故 (*gù* — "so") | *Therefore, the sage* and *So the sage*, both | The two connectives are not held apart: ch 57's 故聖人云 (*gù shèng rén yún*) reads *"Therefore the sage says:"* and ch 78's 是以聖人云 (*shì yǐ shèng rén yún*) reads *"So the sage says:"*, the mapping reversed. **The full read's tally** of 是以聖人 (*shì yǐ shèng rén*), 19 times in 18 chapters: *Therefore (,) the sage* at 2, 12, 22, 27, 29, 47, 58, 64 ×2, 70 and 77; *So the sage* at 7, 63 ×2, 73, 78 and 79; *This is how the sage* at 3; *And so the sage* at 72; and **no English at all** at 66 (*"The sage stands above"*). Wants one book-wide decision (T3-12) |
 | 吾何以知…以此 (*wú hé yǐ zhī… yǐ cǐ* — "how do I know… by this") | *How do I know … is so? By this.* | **Kept** at 21, 54 and 57 (`notes/translation.md` → 以此) |
 | 夫唯 (*fū wéi* — "only because") | *Only because…* | **Kept** at 2, 8, 15, 22, 67 and 71 |
-| refrains across chapters: 沒身不殆 (*mò shēn bù dài* — "to the end of your days, no danger", 16 · 52), 知常曰明 (*zhī cháng yuē míng* — "knowing the ever-present is called clear-seeing", 16 · 55), 無為而無不為 (*wú wéi ér wú bù wéi* — "non-doing, yet nothing left undone", 37 · 48) | one English each | **Kept** |
+| verbatim phrases across chapters that wear two Englishes, from the full read: 孤、寡、不穀 (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy", 39 · 42), 禍莫大於 (*huò mò dà yú* — "no disaster greater than", 46 · 69), 不言之教 (*bù yán zhī jiào* — "the teaching without words", 2 · 43), 生而不有 (*shēng ér bù yǒu* — "gives life and does not possess", 2 · 10 · 51), 不自見 (*bù zì jiàn* — "do not show themselves", 22 · 72), ▢之又▢ (*▢ zhī yòu ▢* — "▢, and ▢ again", 1 · 48), 以無事取天下 (*yǐ wú shì qǔ tiān xià* — "take the world by not meddling", 48 · 57), 抱一 (*bào yī* — "embrace one", 10 · 22), 扔 (*rēng* — to pull, 38 · 69), 功成 (*gōng chéng* — "the work done", 2 · 34 · 77), 民不畏 (*mín bù wèi* — "the people do not fear", 72 · 74), 利器 (*lì qì* — sharp tools, 36 · 57) | one English each, or a recorded reason | **Lost**, each awaiting a verdict. Several may be licensed by context; ch 69's is not, since its note says it matches ch 46 and the page does not (T3-17) |
+| refrains across chapters: 沒身不殆 (*mò shēn bù dài* — "to the end of your days, no danger", 16 · 52), 知常曰明 (*zhī cháng yuē míng* — "knowing the ever-present is called clear-seeing", 16 · 55), 無為而無不為 (*wú wéi ér wú bù wéi* — "non-doing, yet nothing left undone", 37 · 48) | one English each | **Kept**, and so are 去彼取此 (*qù bǐ qǔ cǐ* — "let go of that, take this", 12 · 38 · 72), 物或惡之，故有道者不處 (*wù huò wù zhī, gù yǒu dào zhě bù chǔ* — "living things recoil from them, so those with the Tao do not dwell there", 24 · 31), 物壯則老 (*wù zhuàng zé lǎo* — "things in their prime decay", 30 · 55), 信不足焉 (*xìn bù zú yān* — "where trust is not enough", 17 · 23), 為者敗之，執者失之 (*wéi zhě bài zhī, zhí zhě shī zhī* — "those who handle it ruin it, those who grasp it lose it", 29 · 64), 為而不恃 (*wéi ér bù shì* — "acts, yet does not rely on it", 2 · 10 · 51 · 77), 是以聖人猶難之 (*shì yǐ shèng rén yóu nán zhī* — "so the sage still finds it difficult", 63 · 73), 侯王若能守之 (*hóu wáng ruò néng shǒu zhī* — "if rulers can hold to this", 32 · 37), 天之道 · 天道 (*tiān zhī dào · tiān dào* — "the way of nature", 9 · 47 · 73 · 77 · 79 · 81) and 是謂襲▢ (*shì wèi xí ▢* — "this is called ▢ worn covered", 27 · 52) |
 
 #### 9 · The sung pause and the question — 兮 (*xī*) and 乎 (*hū*)
 
 **What they are.** 兮 is a breath-particle from sung verse, a held pause with no meaning of its own. 乎 marks a question, often one that answers itself.
 
-**How we carry them.** 兮 has no English word, so it is **departed** throughout, carried by the layout instead: a bare adjective and a comma (ch 4's *"Fathomless,"*, ch 15's *"Careful, like…"*), or full stops (ch 25's *"Silent. Empty. Solitary. Unchanging."*). Twice at ch 20 it becomes an exclamation (*"How muddled!"*). The reason should be written once, here, when the full audit reaches chapter 4. 乎's questions are **kept** at 10, 15, 44 and elsewhere. At ch 20, 相去 (*xiāng qù* — "how far apart") ×2 reads *"how much distance?"* and then *"how far apart?"*, **lost**.
+**How we carry them.** 兮 (*xī*) stands in nine chapters: 4, 14, 15, 17, 20, 21, 25, 34 and 58. It has no English word, so it is **departed** throughout, carried by the layout instead: a bare adjective and a comma (ch 4's *"Fathomless,"*, ch 15's *"Careful, like…"*), or full stops (ch 25's *"Silent. Empty. Solitary. Unchanging."*). Twice at ch 20 it becomes an exclamation (*"How muddled!"*). At 14, 17 and 34 it simply goes, and at 58, 禍兮 (*huò xī* — "disaster!") holds a topic up, which the English carries as *Disaster is what…*. The reason should be written once, here (T3-14). 乎's (*hū*) questions are **kept** at 10, 15, 44 and elsewhere. At ch 20, 相去 (*xiāng qù* — "how far apart") ×2 reads *"how much distance?"* and then *"how far apart?"*, **lost**.
 
 #### 10 · The reversed saying — 正言若反 (*zhèng yán ruò fǎn*), paradox
 
@@ -220,7 +226,7 @@
 
 ### The full audit
 
-*Owed: `WORKLIST.md` R4. Every chapter read for its forms, one at a time, in order.*
+*`WORKLIST.md` R4. **All 81 chapters read on 2026-10-26**, one at a time, against the Chinese, the `--formulas` scan, and the notes, so that a form already let go by a recorded decision is marked* departed *and not reopened.*
 
 **How to read a chapter:**
 
@@ -230,92 +236,346 @@
 4. Bring each *lost* to Shalom, one at a time, with a recommendation. Record what he decides: a fix goes in the chapter and `notes/translation.md`, and a departure gets its reason here.
 5. Fill in the chapter's row below.
 
-**Where the losses are tracked.** Every *lost* verdict from the seed scan has a row in `WORKLIST.md`: T3-8 → T3-14, with ch 6's doubling at T2-67 and ch 58's chain under T4-2. A ruling there updates the verdict here.
+**What the full read changed.** Steps 1–3 are done for every chapter. Step 4 is the work now owed: the losses are filed in `WORKLIST.md`, and no line of the translation was changed by this pass. Four patterns came out of the whole book that no single chapter shows:
 
-**The ledger.** *Devices noted* comes from the seed scan and is a starting point, not a reading. A chapter is **read** only once someone has worked through steps 1–5.
+- **A chain cut by a stanza break.** Five chapters hand a chain's words from one line to the next across a blank line, which this file's own rule 3 forbids: 1, 25, 28, 55 and 65. `WORKLIST.md` T3-15.
+- **Ch 27's mirror, and a word doing two jobs.** 善人 (*shàn rén* — the masterful person) and 不善人 (*bù shàn rén* — the unmasterful person) trade places in a chiasmus, and the English renders them *the masterful one*, *the novice* and *the master*, while 師 (*shī* — teacher) reads *teaches* and then *the master*. So *master* names two characters in adjacent lines, and the mirror is gone. T3-16.
+- **Formulas that drift between chapters.** The seed scan read repeats inside a chapter well. Across chapters, a dozen verbatim phrases wear two Englishes, and in one case, ch 69, the note says the English was matched to ch 46 on purpose while the page no longer matches. T3-17.
+- **A cross-chapter formula and a within-chapter series can pull in opposite directions.** 為而不恃 (*wéi ér bù shì* — "acts, yet does not rely on it") reads *acts, yet relies on nothing* or *acting yet relying on nothing* at 2, 10, 51 and 77, one English every time. That consistency is exactly what breaks the 而不 (*ér bù* — "and does not") series inside ch 2, 10 and 51. Whoever decides T3-13's ch 2 decides all four chapters.
 
-| Ch | Devices noted | Read | Open |
+**Where the losses are tracked.** The seed scan's losses are T3-8 → T3-14, with ch 6's doubling at T2-67 and ch 58's chain under T4-2. The full read added T3-15 → T3-18, widened T3-12 and T3-14, and added evidence to T4-2 and T5-14. A ruling there updates the verdict here.
+
+**The ledger.** ✅ read, every device kept, or let go by a recorded decision. 🔶 read, with something still open: the *Open* column names the row. Rhyme needs no verdict: it is not rendered, by policy (§7). Doublings do: each is decided line by line, against the full list in §6.
+
+| Ch | Devices | Read | Open |
 |---|---|---|---|
-| 1 | chain, polyptoton | ⬜ | |
-| 2 | series ×2, rhyme, only because | ⬜ | does-not series |
-| 3 | couplet, therefore the sage | ⬜ | |
-| 4 | sung pause, shares lineation with 56 | ⬜ | |
-| 5 | question | ⬜ | |
-| 6 | chain, this is called, doubling, rhyme, dash | 🔶 | doubling |
-| 7 | paradox | ⬜ | |
-| 8 | series, only because | ⬜ | |
-| 9 | | ⬜ | |
-| 10 | series of questions, this is called, dash | ⬜ | |
-| 11 | series | ⬜ | |
-| 12 | | ⬜ | |
-| 13 | refrain, this is called, question | ⬜ | this is called |
-| 14 | doubling, polyptoton, this is called | ⬜ | this is called, doubling |
-| 15 | sung-pause series, chain, question, only because | ⬜ | |
-| 16 | chain (sorites), doubling, refrain, rhyme | ⬜ | doubling |
-| 17 | | ⬜ | |
-| 18 | | ⬜ | |
-| 19 | series | ⬜ | |
-| 20 | doubling, sung pause, question | ⬜ | doubling, how far apart |
-| 21 | chain, reversal, sung pause, by this | ⬜ | |
-| 22 | ring, mirror of 24, only because, question | ⬜ | shine forth |
-| 23 | chain, question | ⬜ | |
-| 24 | mirror of 22 | ⬜ | shine forth |
-| 25 | chain ×2, sung pause, rhyme | ⬜ | |
-| 26 | | ⬜ | |
-| 27 | this is called | ⬜ | this is called |
-| 28 | chain ×3 | ⬜ | |
-| 29 | | ⬜ | |
-| 30 | series, chain | ⬜ | |
-| 31 | | ⬜ | |
-| 32 | | ⬜ | |
-| 33 | couplets | ⬜ | |
-| 34 | | ⬜ | |
-| 35 | | ⬜ | |
-| 36 | series, paradox | ⬜ | |
-| 37 | chain, refrain | ⬜ | transform chain |
-| 38 | polyptoton | ⬜ | |
-| 39 | series ×2, doubling, question | ⬜ | doubling |
-| 40 | couplet | ⬜ | |
-| 41 | series | ⬜ | whitest white |
-| 42 | chain | ⬜ | |
-| 43 | | ⬜ | |
-| 44 | questions | ⬜ | |
-| 45 | series, rhyme | ⬜ | |
-| 46 | | ⬜ | |
-| 47 | | ⬜ | |
-| 48 | chain, couplet, refrain | ⬜ | |
-| 49 | doubling | ⬜ | doubling |
-| 50 | | ⬜ | |
-| 51 | this is called, dash | ⬜ | |
-| 52 | chain, reversal, couplet, refrain | ⬜ | |
-| 53 | this is called | ⬜ | this is called |
-| 54 | series, by this | ⬜ | |
-| 55 | chain, refrain | ⬜ | |
-| 56 | series, reversal, shares lineation with 4 | ⬜ | cannot-be-made series |
-| 57 | series, by this, so the sage | ⬜ | so / therefore |
-| 58 | reversal, doubling | ⬜ | lacking, doubled |
-| 59 | chain (sorites) | ⬜ | |
-| 60 | | ⬜ | |
-| 61 | | ⬜ | |
-| 62 | | ⬜ | |
-| 63 | polyptoton | ⬜ | taste the not-tasting |
-| 64 | couplet, polyptoton | ⬜ | do / handle, learn not-learning |
-| 65 | | ⬜ | |
-| 66 | therefore the sage | ⬜ | |
-| 67 | series, only because | ⬜ | |
-| 68 | this is called | ⬜ | |
-| 69 | | ⬜ | |
-| 70 | | ⬜ | |
-| 71 | reversal, polyptoton, only because | ⬜ | know-not-knowing mirror |
-| 72 | therefore the sage | ⬜ | |
-| 73 | doubling | ⬜ | doubling |
-| 74 | this is called | ⬜ | this is called |
-| 75 | | ⬜ | |
-| 76 | couplet | ⬜ | |
-| 77 | | ⬜ | |
-| 78 | paradox, this is called ×2, therefore the sage | ⬜ | this is called ×2, so / therefore |
-| 79 | | ⬜ | |
-| 80 | | ⬜ | |
-| 81 | reversal ×3 | ⬜ | |
+| 1 | polyptoton, couplets ×2, chain | 🔶 | T3-15 · T3-17 |
+| 2 | couplet, series ×2, chain, only because | 🔶 | T3-13 · T3-17 · T3-18 |
+| 3 | series, couplets, polyptoton, therefore the sage | 🔶 | T3-12 |
+| 4 | sung pause ×2, series shared with 56 | 🔶 | T3-14 · T5-14 |
+| 5 | couplet, question | ✅ | |
+| 6 | chain, this is called ×2, doubling, rhyme, dash | 🔶 | T2-67 |
+| 7 | couplet, paradox, chain | ✅ | |
+| 8 | series, only because, ring | ✅ | |
+| 9 | couplets ×2 | 🔶 | T3-18 |
+| 10 | series of questions, series, this is called | 🔶 | T3-13 · T3-17 · T3-18 |
+| 11 | series | ✅ | |
+| 12 | series, therefore the sage, refrain | 🔶 | T3-18 |
+| 13 | refrains, this is called, couplet | 🔶 | T3-11 · T3-18 |
+| 14 | series, doubling, polyptoton, this is called ×3 | 🔶 | T3-11 · T3-14 · §6 |
+| 15 | sung-pause series, chain ×2, questions, only because ×2 | 🔶 | T3-14 |
+| 16 | couplet, chain (sorites), doubling, refrain | 🔶 | §6 |
+| 17 | ladder, polyptoton, refrain, sung pause | 🔶 | T3-14 · T3-18 |
+| 18 | series | ✅ | |
+| 19 | series, couplet | ✅ | |
+| 20 | doublings, sung pause, questions, refrain | 🔶 | T3-13 · T3-14 · §6 |
+| 21 | series, reversal, chain, sung pause, by this | 🔶 | T3-14 |
+| 22 | series ×2, ring, mirror of 24, only because | 🔶 | T3-10 · T3-17 |
+| 23 | couplet, chain, series ×2, refrain | ✅ | |
+| 24 | couplet, mirror of 22, refrain shared with 31 | 🔶 | T3-10 |
+| 25 | sung pause, couplet, chain ×2, series | 🔶 | T3-14 · T3-15 · T3-18 |
+| 26 | couplet, ring, echo | 🔶 | T3-18 |
+| 27 | series, couplet, chiasmus, this is called ×2 | 🔶 | T3-11 · T3-16 · T3-18 |
+| 28 | three parallel stanzas, chain ×4 | 🔶 | T3-15 |
+| 29 | series ×2, couplet | ✅ | |
+| 30 | series, chain, refrain shared with 55 | 🔶 | T3-18 |
+| 31 | couplets ×3, chain, refrain shared with 24 | ✅ | |
+| 32 | chain ×2, formula shared with 37 | ✅ | |
+| 33 | couplets ×4 | ✅ | |
+| 34 | sung pause, frame ×2, chain | 🔶 | T3-14 · T3-17 · T3-18 |
+| 35 | chain, series | ✅ | |
+| 36 | series, this is called | 🔶 | T3-17 |
+| 37 | chain ×3, refrain | 🔶 | T3-8 |
+| 38 | polyptoton, series, chain (cascade), refrain | 🔶 | T3-17 |
+| 39 | series ×2, couplet, doubling, question | 🔶 | T3-17 · §6 |
+| 40 | couplet, chain | ✅ | |
+| 41 | series ×3, chain | 🔶 | T3-13 |
+| 42 | chain, reversal | 🔶 | T3-17 |
+| 43 | couplet, echo | 🔶 | T3-17 |
+| 44 | questions, couplets ×2 | ✅ | |
+| 45 | series, couplet | 🔶 | T4-2 |
+| 46 | couplets ×2, polyptoton | 🔶 | T3-17 · T3-18 |
+| 47 | couplet, series | 🔶 | T5-14 |
+| 48 | couplet, chain, refrain | 🔶 | T3-17 |
+| 49 | parallel stanzas, polyptoton, doubling | 🔶 | T3-18 · §6 |
+| 50 | series ×2, frame ×2, polyptoton | 🔶 | T3-14 · T3-18 |
+| 51 | series ×2, refrain shared with 10 | 🔶 | T3-13 · T3-18 |
+| 52 | chain, reversal, couplets, refrain | ✅ | |
+| 53 | series ×2, this is called | 🔶 | T3-11 |
+| 54 | couplet, series ×2, by this | ✅ | |
+| 55 | series, chain ×2, refrain shared with 30 | 🔶 | T3-15 · T3-18 |
+| 56 | reversal, series ×2, shared with 4 and 52 | 🔶 | T3-13 |
+| 57 | series ×3, by this, so the sage | 🔶 | T3-12 · T3-17 · T3-18 |
+| 58 | doublings, reversal, chain, series | 🔶 | T4-2 · §6 |
+| 59 | chain (sorites) | ✅ | |
+| 60 | chain | 🔶 | T3-18 |
+| 61 | chiasmus, chain, couplet | ✅ | |
+| 62 | sound-pair, couplet | ✅ | |
+| 63 | polyptoton ×3, couplets | 🔶 | T3-13 |
+| 64 | series ×2, couplets, polyptoton | 🔶 | T3-9 |
+| 65 | couplet, chain, this is called | 🔶 | T3-15 · T3-17 · T3-18 |
+| 66 | ring, couplets, refrain shared with 22 | 🔶 | T3-12 |
+| 67 | chain, series ×3, only because | ✅ | |
+| 68 | series, this is called ×3 | ✅ | |
+| 69 | couplet, series, chain | 🔶 | T3-17 |
+| 70 | couplets ×3, only because | ✅ | |
+| 71 | reversal, polyptoton, only because | 🔶 | T3-13 |
+| 72 | polyptoton ×2, couplets | 🔶 | T3-17 |
+| 73 | couplet, series, doubling | 🔶 | §6 |
+| 74 | chain, this is called | 🔶 | T3-11 · T3-17 |
+| 75 | series with refrain | ✅ | |
+| 76 | couplets ×3 | ✅ | |
+| 77 | couplets, chiasmus, refrain | 🔶 | T3-18 |
+| 78 | paradox, this is called ×2, therefore the sage | 🔶 | T3-11 · T3-12 |
+| 79 | couplet | ✅ | |
+| 80 | series ×3 | 🔶 | T3-18 |
+| 81 | reversal ×3, couplets | ✅ | |
 
-**Rhyme needs no verdict:** it is not rendered, by policy (§7). **Doublings do:** each is decided line by line as its chapter is read, against the full list in §6.
+---
+
+### The readings, chapter by chapter
+
+*Each reading names the devices, then the verdicts. Rhyme is left out: it is departed by policy everywhere (§7). Where a verdict rests on a decision already made, the reading says where it is recorded.*
+
+#### Ch 1
+**Kept:** the couplet 道可道 / 名可名 (*dào kě dào / míng kě míng* — "the Tao that can be tao-ed / the name that can be named"), both halves ending *is not the ever-present* ▢. The couplets 無名 / 有名 (*wú míng / yǒu míng* — "the nameless / the named") and 常無欲 / 常有欲 (*cháng wú yù / cháng yǒu yù* — "ever desireless / ever desiring"). **Departed:** the verb 道 (*dào* — to tell) as *made a way*, recorded in the chapter's notes. **Lost:** the chain 同謂之玄。玄之又玄 (*tóng wèi zhī xuán. xuán zhī yòu xuán* — "together they are called dark. Dark, and dark again") keeps its words, *profound darkness* / *Dark*, but a stanza break falls between them (T3-15). And the frame ▢之又▢ (*▢ zhī yòu ▢* — "▢, and ▢ again") reads *Dark, and dark again* here and *Decreasing and decreasing* at ch 48 (T3-17).
+
+#### Ch 2
+**Kept:** the couplet 美之為美 / 善之為善 (*měi zhī wéi měi / shàn zhī wéi shàn* — "beauty as beauty / good as good"); the six 相 (*xiāng* — each other); the chain 弗居。夫唯弗居 (*fú jū. fū wéi fú jū* — "does not stay. Only because it does not stay"); 夫唯 (*fū wéi* — only because). **Lost:** the 而弗 (*ér fú* — "and does not") series, one member out (T3-13), and that member is the book-wide formula 為而不恃 (*wéi ér bù shì* — "acts, yet does not rely on it"), so the fix decides chs 10, 51 and 77 too. 生而弗有 (*shēng ér fú yǒu* — "gives life, and does not possess") reads *They are born, and the sage does not possess them*, where 10 and 51 read *giving birth without possessing* (T3-17). 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") reads *the bad arises*, so the negation of the line's own word is gone (T3-18). 不言之教 (*bù yán zhī jiào* — the teaching without words) reads *the teaching without words* here and *the wordless teaching* at 43 (T3-17).
+
+#### Ch 3
+**Kept:** the series 不▢…使民不▢ (*bù ▢… shǐ mín bù ▢* — "not ▢… so the people do not ▢") ×3; the couplets 虛其心，實其腹 / 弱其志，強其骨 (*xū qí xīn, shí qí fù / ruò qí zhì, qiáng qí gǔ* — "empty their hearts, fill their bellies / weaken their ambition, strengthen their bones"); 為無為 (*wéi wú wéi* — "do the not-doing"), the same English as ch 63; 治 (*zhì* — govern) turned to 無不治 (*wú bù zhì* — "nothing ungoverned"). **Lost:** 是以聖人之治 (*shì yǐ shèng rén zhī zhì* — "therefore the sage's governing") reads *This is how the sage governs:*, the formula's fifth shape in the book (T3-12).
+
+#### Ch 4
+**Kept:** the pair 淵兮，似… / 湛兮，似… (*yuān xī, sì… / zhàn xī, sì…* — "deep, it seems… / submerged, it seems…"), *Fathomless, it seems… / Submerged, it seems…*; the four-member series 挫其銳…同其塵 (*cuò qí ruì… tóng qí chén* — "blunt the sharpness… same as the dust"), two to a line, as at ch 56. **Departed, reason owed:** 兮 (*xī* — the sung pause), carried by the comma (T3-14). **Invented echo:** 象帝之先 (*xiàng dì zhī xiān* — "an image of what came before the gods") reads *It seems older*, so *seems* stands three times for two 似 (*sì* — to resemble) and one 象 (*xiàng* — image) (T5-14).
+
+#### Ch 5
+**Kept:** the couplet 天地不仁 / 聖人不仁 (*tiān dì bù rén / shèng rén bù rén* — "sky and earth are not humane / the sage is not humane"), each closing on *straw dogs*; the question 其猶橐籥乎 (*qí yóu tuó yuè hū* — "is it not like a bellows?"); the pair 虛而不屈，動而愈出 (*xū ér bù qū, dòng ér yù chū* — "empty and not depleted, moving and yielding more").
+
+#### Ch 6
+See *Chapter 6* above. Chain kept; doubling open (T2-67).
+
+#### Ch 7
+**Kept:** 天長地久 (*tiān cháng dì jiǔ* — "sky long, earth lasting") picked up as *last and endure*; the couplet 後其身而身先 / 外其身而身存 (*hòu qí shēn ér shēn xiān / wài qí shēn ér shēn cún* — "puts their body last and it comes first / puts their body outside and it survives"); the turn on 私 (*sī* — the private self), *no private self… their private self is fulfilled*; 故能 (*gù néng* — "and so can") twice as *and so*.
+
+#### Ch 8
+**Kept:** the seven 善 (*shàn* — masterful at); the ring on 不爭 (*bù zhēng* — does not contend), which opens and closes the chapter in one English; 夫唯 (*fū wéi* — only because) as *Only because*.
+
+#### Ch 9
+**Lost:** two couplets lose their shape. 持而盈之，不如其已；揣而銳之，不可長保 (*chí ér yíng zhī, bù rú qí yǐ; chuǎi ér ruì zhī, bù kě cháng bǎo* — "hold it and fill it, better to stop; hammer it and sharpen it, it cannot keep long") reads *Rather than keep filling what you hold, stop* against *Hammer a point ever sharper, and it will not keep for long*: one half inverted, the other not (T3-18). **Kept:** the second couplet, *Gold and jade fill the hall… / Grow arrogant with wealth…*; 天之道 (*tiān zhī dào* — "the way of the sky") as *the way of nature*, as at 47, 73, 77, 79 and 81.
+
+#### Ch 10
+**Kept:** the six questions 能▢乎 (*néng ▢ hū* — "can you ▢?"); the closing 生而不有，為而不恃，長而不宰 (*shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi* — "gives life and does not possess, acts and does not rely, grows and does not rule"), word for word as ch 51; 是謂玄德 (*shì wèi xuán dé* — "this is called profound integrity") with its dash. **Lost:** of the four 能無▢乎 (*néng wú ▢ hū* — "can you be without ▢?"), three read *can you be…* and the first reads *can you keep these from parting?* (T3-18). The closing series breaks in its middle member, as at ch 2 (T3-13). 抱一 (*bào yī* — embrace one) reads *embracing the one*, where ch 22's recorded call made it *one thing*; the call's reason is ch 22's own 少 / 多 (*shǎo / duō* — little / much), which ch 10 does not have, so the split may be licensed, but it is not yet recorded (T3-17).
+
+#### Ch 11
+**Kept**, since 2026-09-05 (`DISCOVERIES.md` §6).
+
+#### Ch 12
+**Kept:** 五▢令人▢▢ (*wǔ ▢ lìng rén ▢ ▢* — "the five ▢ make people's ▢ ▢") ×3; 為腹不為目 (*wèi fù bù wèi mù* — "for the belly, not for the eye"); 去彼取此 (*qù bǐ qǔ cǐ* — "let go of that, take this") in one English at 12, 38 and 72. **Lost:** 令人 (*lìng rén* — "makes people") stands five times. Four read *makes people's…*; the fifth, 令人行妨 (*lìng rén xíng fáng* — "makes people's conduct hindered"), reads *Rare goods hinder people's conduct* (T3-18).
+
+#### Ch 13
+**Kept:** 寵辱若驚 (*chǒng rǔ ruò jīng* — "favor and disgrace are both a shock") ×3 and 貴大患若身 (*guì dà huàn ruò shēn* — "prize great trouble as your body") ×2, one English each; the two 何謂 (*hé wèi* — "what does it mean") questions; 得之若驚，失之若驚 (*dé zhī ruò jīng, shī zhī ruò jīng* — "getting it, a shock; losing it, a shock"). **Lost:** 是謂 (*shì wèi* — "this is called") as *This is what is meant* (T3-11). The closing couplet: 寄 (*jì* — to lodge with) and 託 (*tuō* — to entrust to) both read *trusted with*, and the second 天下 (*tiān xià* — the world) becomes *it* (T3-18).
+
+#### Ch 14
+**Kept:** the series 視之不見，名曰夷 (*shì zhī bù jiàn, míng yuē yí* — "look and do not see it, its name is the invisible") ×3; 其上 / 其下 (*qí shàng / qí xià* — "its top / its bottom"); 無狀之狀 (*wú zhuàng zhī zhuàng* — "the shape of no-shape"); 迎之 / 隨之 (*yíng zhī / suí zhī* — "meet it / follow it"); 古 / 今 (*gǔ / jīn* — ancient / now). **Lost:** 是謂 (*shì wèi* — this is called) as *This is the shape…*, one of three (T3-11). **Noted:** the doubling 繩繩 (*shéng shéng* — cord upon cord), §6. **Departed, reason owed:** 兮 (*xī*), dropped (T3-14).
+
+#### Ch 15
+**Kept:** the seven 兮 (*xī*) likenesses, one per line; the two chains through 夫唯 (*fū wéi* — only because), *could not be read. / Only because they could not be read* and *no wish to be full. / Only because they are never full*; the two questions 孰能 (*shú néng* — "who can"). **Departed, reason owed:** 兮 (T3-14).
+
+#### Ch 16
+**Kept:** the couplet 致虛極，守靜篤 (*zhì xū jí, shǒu jìng dǔ* — "reach emptiness to the utmost, hold stillness steadily"); every link of the chain, §1; the refrains 知常曰明 (*zhī cháng yuē míng* — "knowing the ever-present is called clear-seeing", as at 55) and 沒身不殆 (*mò shēn bù dài* — "to the end of your days, no danger", as at 52); 是謂 (*shì wèi*). **Noted:** 芸芸 (*yún yún* — teeming), §6.
+
+#### Ch 17
+**Lost:** the ladder 太上…其次…其次…其次 (*tài shàng… qí cì…* — "the highest… the next… the next… the next") names its rungs by position, and the English names them by grade, *Good… Poor… The worst*. The three 其次 (*qí cì* — the next) get three Englishes, and *good* and *poor* add a verdict the Chinese leaves to the order (T3-18). **Kept:** 信不足焉，有不信焉 (*xìn bù zú yān, yǒu bù xìn yān* — "where trust is not enough, there is no trust"), the same English as ch 23. **Departed, reason owed:** 悠兮 (*yōu xī* — "unhurried!"), the sung pause absorbed into *speak sparingly* (T3-14).
+
+#### Ch 18
+**Kept:** the four 有▢ (*yǒu ▢* — "there is ▢"), each *…appear*.
+
+#### Ch 19
+**Kept:** 絕▢棄▢ (*jué ▢ qì ▢* — "cut off ▢, abandon ▢") ×3; 孝慈 (*xiào cí* — devotion and tenderness) as at ch 18; 見素抱樸 (*jiàn sù bào pǔ* — "see the undyed silk, embrace the uncarved wood").
+
+#### Ch 20
+**Kept:** 我獨 (*wǒ dú* — "I alone") ×6, *I alone…* every time; 眾人 (*zhòng rén* — the crowd) ×3; 俗人 (*sú rén* — the worldly) ×2; 如…如… (*rú… rú…* — "as if… as if…"); 人之所畏，不可不畏 (*rén zhī suǒ wèi, bù kě bù wèi* — "what people fear must be feared"). **Lost:** 相去 (*xiāng qù* — "how far apart") ×2 (T3-13). **Noted:** six doublings, §6. **Departed, reason owed:** 兮 (*xī*) ×6 (T3-14).
+
+#### Ch 21
+**Kept:** 惟恍惟惚 (*wéi huǎng wéi hū* — "only vague, only elusive"); the reversal 惚兮恍兮 / 恍兮惚兮 (*hū xī huǎng xī / huǎng xī hū xī* — "elusive, vague / vague, elusive"); 其中有 (*qí zhōng yǒu* — "within it there is") ×4; the chain 有精；其精 (*yǒu jīng; qí jīng* — "there is vital essence; its essence"); 眾甫 (*zhòng fǔ* — the origin of the many) ×2; 吾何以知…以此 (*wú hé yǐ zhī… yǐ cǐ* — "how do I know… by this"). **Departed, reason owed:** 兮 (T3-14).
+
+#### Ch 22
+**Kept:** ▢則▢ (*▢ zé ▢* — "▢, and then ▢") ×6; 不自▢，故▢ (*bù zì ▢, gù ▢* — "they do not ▢ themselves, and so ▢") ×4; the ring on 曲則全 (*qū zé quán* — "bend, and stay whole"); the chain 不爭，故天下莫能與之爭 (*bù zhēng, gù tiān xià mò néng yǔ zhī zhēng* — "they do not contend, so no one in the world can contend with them"), the same English as ch 66; 為天下式 (*wéi tiān xià shì* — "serve as the world's pattern"), as at ch 28. **Departed:** 抱一 (*bào yī*) as *embraces one thing*, recorded in `notes/translation.md` → 抱一 (*bào yī* — embrace one). **Lost:** 彰 (*zhāng* — to shine forth) against ch 24 (T3-10). 不自見 (*bù zì jiàn* — "do not show themselves") reads *do not show themselves off* here and *does not display themselves* at ch 72 (T3-17).
+
+#### Ch 23
+**Kept:** the couplet 飄風不終朝，驟雨不終日 (*piāo fēng bù zhōng zhāo, zhòu yǔ bù zhōng rì* — "a squall does not last the morning, a downpour does not last the day"); the chain 天地。天地 (*tiān dì. tiān dì* — "sky and earth. Sky and earth"); 同於▢ (*tóng yú ▢* — "the same as ▢") ×3 and its mirror ▢亦樂得之 (*▢ yì lè dé zhī* — "▢ too gladly gets them") ×3; the refrain shared with ch 17.
+
+#### Ch 24
+**Kept:** 企者不立；跨者不行 (*qǐ zhě bù lì; kuà zhě bù xíng* — "those on tiptoe do not stand; those striding do not go"); three of the four pairs mirrored from ch 22; 物或惡之，故有道者不處 (*wù huò wù zhī, gù yǒu dào zhě bù chǔ* — "living things recoil from them, so those with the Tao do not dwell there"), word for word as ch 31. **Lost:** 彰 (*zhāng*), T3-10.
+
+#### Ch 25
+**Kept:** 強字之 / 強為之名 (*qiǎng zì zhī / qiǎng wèi zhī míng* — "forcing a label on it / forcing a name on it"); the chain 大曰逝，逝曰遠，遠曰反 (*dà yuē shì, shì yuē yuǎn, yuǎn yuē fǎn* — "great means departing…"); the four 大 (*dà* — great); the chain 人法地… (*rén fǎ dì* — "humans model on earth…"). **Lost:** the chain 名曰大。大曰逝 (*míng yuē dà. dà yuē shì* — "named it great. Great means departing") keeps its words in place, *I call it great. / Great means departing*, but a stanza break falls between them (T3-15). The couplet 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài* — "stands alone and does not change, moves in a circle and is not endangered") is split: its first half joins the four fragments *Silent. Empty. Solitary. Unchanging.*, and its second becomes a sentence, *It moves in a circle, never in danger* (T3-18). **Departed, reason owed:** 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") carried by full stops (T3-14).
+
+#### Ch 26
+**Kept:** the couplet 重為輕根，靜為躁君 (*zhòng wéi qīng gēn, jìng wéi zào jūn* — "the heavy is the root of the light, stillness is the lord of the agitated") and its ring in the closing couplet, *Lightness loses the root. / Agitation loses the ruler*, all four words in place. **Lost, an echo:** 輜重 (*zī zhòng* — the baggage train, literally "the heavy wagons") carries line 1's 重 (*zhòng* — heavy), which is why the noble does not leave it; *baggage wagons* drops the weight. `chapters/026.md`'s notes chose the English and quotes Wang Bi's 以重為本故不離 (*yǐ zhòng wéi běn gù bù lí* — "takes the heavy as the root, so does not leave it"), but does not say the echo was let go (T3-18).
+
+#### Ch 27
+**Kept:** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") ×5 in its frame, four of them *uses no* or *leaves no*; 常善救人，故無棄人 / 常善救物，故無棄物 (*cháng shàn jiù rén, gù wú qì rén / … wù* — "always masterful at rescuing people, so no one is abandoned / … things"); 是謂襲明 (*shì wèi xí míng* — "this is called clarity worn covered"), matched with ch 52. **Lost:** the chiasmus 善人者，不善人之師；不善人者，善人之資 (*shàn rén zhě, bù shàn rén zhī shī; bù shàn rén zhě, shàn rén zhī zī* — "the masterful are the teachers of the unmasterful; the unmasterful are the material of the masterful"), and the next line's 師 / 資 (*shī / zī* — teacher / material) (T3-16). 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw") reads *is flawless*, the one member out of the *uses no* frame (T3-18). 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") as *This is the essential secret* (T3-11).
+
+#### Ch 28
+**Kept:** the three stanzas on one frame, 知其▢，守其▢，為天下▢ (*zhī qí ▢, shǒu qí ▢, wéi tiān xià ▢* — "know the ▢, hold to the ▢, serve as the world's ▢"), every slot in place; the chain 為天下▢。為天下▢ (*wéi tiān xià ▢. wéi tiān xià ▢* — "serve as the world's ▢. Serve as the world's ▢") ×3; 常德 (*cháng dé* — the ever-present integrity) ×3; 復歸於 (*fù guī yú* — "return again to") ×3. The third stanza's 白 (*bái* — white) for 榮 (*róng* — glory) is a text decision, `notes/manuscript.md` → *Ch 28*. **Lost:** the fourth chain, 復歸於樸。樸散則為器 (*fù guī yú pǔ. pǔ sàn zé wéi qì* — "return to the uncarved wood. The uncarved wood scatters and becomes vessels"), crosses a stanza break, and closing it would make the third stanza longer than the first two (T3-15).
+
+#### Ch 29
+**Kept:** 不可為也，不可執也 / 為者敗之，執者失之 (*bù kě wéi yě, bù kě zhí yě / wéi zhě bài zhī, zhí zhě shī zhī* — "cannot be handled, cannot be grasped / those who handle it ruin it, those who grasp it lose it"), word for word as ch 64; 或▢或▢ (*huò ▢ huò ▢* — "some ▢, some ▢") ×4; 去 (*qù* — let go of) ×3.
+
+#### Ch 30
+**Kept:** 果而勿▢ (*guǒ ér wù ▢* — "succeed, and do not ▢") ×4, with 果而不得已 (*guǒ ér bù dé yǐ* — "succeed only because it is unavoidable") where the Chinese also breaks the frame; the chain 不道，不道早已 (*bù dào, bù dào zǎo yǐ* — "not-Tao; not-Tao ends early"); the refrain 物壯則老 (*wù zhuàng zé lǎo* — "things in their prime decay"), word for word as ch 55. **Lost:** 強 (*qiáng* — to force) binds the chapter, three times, and reads three ways, *dominate the world*, *seize dominance*, *excessive force*. Two of them are the lock's *forcing* flexion; *dominate* and *dominance* are not (T3-18).
+
+#### Ch 31
+**Kept:** 不祥之器 (*bù xiáng zhī qì* — "tools of ill omen") ×2; 貴左 / 貴右 (*guì zuǒ / guì yòu* — "prizes the left / the right"), 尚左 / 尚右 (*shàng zuǒ / shàng yòu* — "honors the left / the right"), 居左 / 居右 (*jū zuǒ / jū yòu* — "takes the left / the right"); the chain 美之…樂殺人。夫樂殺人者 (*měi zhī… lè shā rén. fū lè shā rén zhě* — "glorify it… delight in killing. Those who delight in killing"); 以喪禮處之 (*yǐ sàng lǐ chǔ zhī* — "place them by the rites of mourning") ×2; the refrain shared with ch 24.
+
+#### Ch 32
+**Kept:** the chain 有名，名亦既有 (*yǒu míng, míng yì jì yǒu* — "there are names; since names exist"); the chain 知止，知止 (*zhī zhǐ, zhī zhǐ* — "know when to stop; knowing when to stop"); 侯王若能守之，萬物將自▢ (*hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì ▢* — "if rulers can hold to this, the countless things will ▢ of themselves"), word for word as ch 37.
+
+#### Ch 33
+**Kept:** the four couplets, each ▢者▢ (*▢ zhě ▢* — "one who ▢ is ▢"), with 知人 / 自知 (*zhī rén / zì zhī* — "knows others / knows themselves") and 勝人 / 自勝 (*shèng rén / zì shèng* — "overcomes others / overcomes themselves") mirrored. *Has force* for 有力 (*yǒu lì* — has strength) two lines above *forces themselves onward* for 強行 (*qiáng xíng* — presses on) is not an invented echo: `glossary/qiang-強.md` covers 力 (*lì* — force) inside 強's (*qiáng* — strong) own lock, so the two are kin by decision.
+
+#### Ch 34
+**Kept:** 可名於小 / 可名為大 (*kě míng yú xiǎo / kě míng wéi dà* — "can be called small / can be called great"); the chain 不自為大，故能成其大 (*bù zì wéi dà, gù néng chéng qí dà* — "does not make itself great, so it can complete its greatness"), matched with ch 63. **Lost:** 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") stands twice and reads *claims no ownership*, then *Without acting as their master*; and 功成而不名有 (*gōng chéng ér bù míng yǒu* — "the work done, it does not claim to possess it") reads *It works without claiming to be the owner*, so *owner* and *ownership* fall on two different characters (T3-18). 功成 (*gōng chéng* — the work done) reads *The work is done* at 2 and 77 (T3-17). **Departed, reason owed:** 汎兮 (*fàn xī* — "overflowing!") (T3-14).
+
+#### Ch 35
+**Kept:** the chain 天下往。往而不害 (*tiān xià wǎng. wǎng ér bù hài* — "the world goes to it. Going, it is not harmed"), *comes to you. / It comes*; the series 視之 / 聽之 / 用之 (*shì zhī / tīng zhī / yòng zhī* — "look at it / listen for it / use it").
+
+#### Ch 36
+**Kept:** 將欲▢之，必固▢之 (*jiāng yù ▢ zhī, bì gù ▢ zhī* — "if you would ▢ it, you must first ▢ it") ×4; 是謂微明 (*shì wèi wēi míng* — "this is called the hidden clarity"). **Open:** 利器 (*lì qì* — sharp tools) reads *tools of advantage* here and *sharp weapons* at ch 57. The contexts differ, so this may be licensed, but it wants a verdict (T3-17).
+
+#### Ch 37
+**Kept:** the chain 無名之樸。無名之樸 (*wú míng zhī pǔ. wú míng zhī pǔ* — "the nameless uncarved wood. The nameless uncarved wood"); the refrain 無為而無不為 (*wú wéi ér wú bù wéi* — "non-doing, yet nothing left undone"), as at ch 48. **Lost:** the chain through 化 (*huà* — transform), T3-8.
+
+#### Ch 38
+**Kept:** 上德不德 (*shàng dé bù dé* — "high integrity does not do integrity"); the frame 上▢為之而▢以為 (*shàng ▢ wéi zhī ér ▢ yǐ wéi* — "the highest ▢ acts, and has ▢ to act for"); the cascade 失▢…失▢ (*shī* — lose), following Han Fei, `chapters/038.md`; 處其厚，不居其薄；處其實，不居其華 (*chǔ qí hòu, bù jū qí bó; chǔ qí shí, bù jū qí huá* — "dwells in the thick, not the thin; in the substance, not the blossom"); the refrain 去彼取此 (*qù bǐ qǔ cǐ*). **Open:** 攘臂而扔之 (*rǎng bì ér rēng zhī* — "bares its arms and pulls them along") reads *drags*, and ch 69's 攘無臂，扔無敵 (*rǎng wú bì, rēng wú dí* — "baring no arm, pulling no enemy") reads *baring an arm… hauling*, so 扔 (*rēng* — to pull) wears two Englishes (T3-17).
+
+#### Ch 39
+**Kept:** ▢得一以▢ (*▢ dé yī yǐ ▢* — "▢ got the one and so ▢") ×6 and its mirror ▢無以▢，將恐▢ (*▢ wú yǐ ▢, jiāng kǒng ▢* — "▢ with no way to ▢ is likely to ▢") ×6; 貴以賤為本，高以下為基 (*guì yǐ jiàn wéi běn, gāo yǐ xià wéi jī* — "the prized takes the cheap as root, the high takes the low as footing"), and its echo in the question; 數譽無譽 (*shù yù wú yù* — "count the cart, and there is no cart"), the polyptoton kept on the 輿 (*yú* — cart) reading. **Lost:** 孤、寡、不穀 (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy") reads *orphaned, alone, and unworthy* here and *orphaned, meager, or unworthy* at ch 42 (T3-17). **Noted:** 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming / rough), §6.
+
+#### Ch 40
+**Kept:** the couplet 反者道之動，弱者道之用 (*fǎn zhě dào zhī dòng, ruò zhě dào zhī yòng* — "returning is the Tao's movement, yielding is the Tao's use"); the chain 生於有，有生於無 (*shēng yú yǒu, yǒu shēng yú wú* — "born from presence, presence born from absence").
+
+#### Ch 41
+**Kept:** 上士 / 中士 / 下士聞道 (*shàng / zhōng / xià shì wén dào* — "the highest / middling / lowest in service hear the Tao"); the chain 大笑之。不笑 (*dà xiào zhī. bù xiào* — "laugh aloud at it. Not laughed at"); the established sayings, one per line, each *seems*; the four 大▢ (*dà ▢* — the great ▢). **Lost:** 大白 (*dà bái* — great white), T3-13.
+
+#### Ch 42
+**Kept:** the chain 道生一… (*dào shēng yī* — "the Tao births one…"); the reversal 損之而益，益之而損 (*sǔn zhī ér yì, yì zhī ér sǔn* — "decreased and so increased, increased and so decreased"); 人之所教，我亦教之 (*rén zhī suǒ jiào, wǒ yì jiào zhī* — "what others teach, I also teach"). **Lost:** 孤、寡、不穀 (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy") against ch 39 (T3-17).
+
+#### Ch 43
+**Kept:** 天下之至柔 / 天下之至堅 (*tiān xià zhī zhì róu / zhì jiān* — "the softest in the world / the hardest in the world"); 無有入無間 (*wú yǒu rù wú jiàn* — "what has no presence enters what has no gap"); 無為之有益 / 無為之益 (*wú wéi zhī yǒu yì / wú wéi zhī yì* — "the benefit of non-doing") twice in one English. **Lost:** 不言之教 (*bù yán zhī jiào* — "the teaching without words") against ch 2 (T3-17).
+
+#### Ch 44
+**Kept:** the three questions ▢與▢孰▢ (*▢ yǔ ▢ shú ▢* — "▢ or ▢, which ▢?"); 甚愛必大費，多藏必厚亡 (*shèn ài bì dà fèi, duō cáng bì hòu wáng* — "great attachment surely costs much, much hoarding surely loses heavily"); 知足不辱，知止不殆 (*zhī zú bù rǔ, zhī zhǐ bù dài* — "know enough and no disgrace, know when to stop and no danger"), matched with chs 32 and 46; 可以長久 (*kě yǐ cháng jiǔ* — "and so can last long"), as at ch 59.
+
+#### Ch 45
+**Kept:** 大▢若▢ (*dà ▢ ruò ▢* — "great ▢ seems ▢") ×5; 其用不弊 / 其用不窮 (*qí yòng bù bì / bù qióng* — "in use it does not wear out / does not run dry"); 躁勝寒，靜勝熱 (*zào shèng hán, jìng shèng rè* — "movement overcomes cold, stillness overcomes heat"). 大直若屈 (*dà zhí ruò qū* — "great straightness seems bent") is a rider on T4-2: see ch 58.
+
+#### Ch 46
+**Kept:** 天下有道 / 天下無道 (*tiān xià yǒu dào / wú dào* — "when the world has the Tao / lacks the Tao"); 禍莫大於…咎莫大於 (*huò mò dà yú… jiù mò dà yú* — "no disaster greater than… no fault greater than"). **Lost:** 不知足 (*bù zhī zú* — not knowing enough) reads *discontent*, then 知足之足 (*zhī zú zhī zú* — "the enough of knowing enough") reads *the contentment of knowing you have enough*, so the line's own antithesis, not-knowing-enough against knowing-enough, is in two vocabularies (T3-18). 禍莫大於 (*huò mò dà yú* — "no disaster greater than") against ch 69 (T3-17).
+
+#### Ch 47
+**Kept:** 不出戶 / 不闚牖 (*bù chū hù / bù kuī yǒu* — "without going out the door / without looking out the window"); 其出彌遠，其知彌少 (*qí chū mí yuǎn, qí zhī mí shǎo* — "the further you go out, the less you know"); 不▢而▢ (*bù ▢ ér ▢* — "without ▢, ▢") ×3. **Invented echo:** 出 (*chū* — go out) reads *venture*, and two lines on 不行 (*bù xíng* — without going) reads *without venturing*, so one English word chimes across two characters (T5-14).
+
+#### Ch 48
+**Kept:** 為學日益，為道日損 (*wéi xué rì yì, wéi dào rì sǔn* — "pursuing learning, increase daily; pursuing the Tao, decrease daily"); the chain 無為。無為 (*wú wéi. wú wéi* — "non-doing. Non-doing"); the refrain shared with ch 37. **Departed:** 取天下 (*qǔ tiān xià* — "take the world") as *the world comes to you*, recorded in `notes/translation.md` → 取天下 (*qǔ tiān xià* — take the world). **Lost:** that note leaves 取天下 (*qǔ tiān xià*) across 29, 48 and 57 open. Ch 48's 取天下常以無事 (*qǔ tiān xià cháng yǐ wú shì* — "take the world always by not meddling") and ch 57's 以無事取天下 (*yǐ wú shì qǔ tiān xià* — "take the world by not meddling") are one claim in the same words, and read *the world always comes to you by not meddling* and *win the world by not meddling*. And ▢之又▢ (*▢ zhī yòu ▢* — "▢, and ▢ again") against ch 1 (T3-17).
+
+#### Ch 49
+**Kept:** the two stanzas on one frame, ▢者，吾▢之；不▢者，吾亦▢之；德▢ (*▢ zhě, wú ▢ zhī; bù ▢ zhě, wú yì ▢ zhī; dé ▢* — "the ▢, I ▢; the un-▢, I also ▢; integrity is ▢"); 以百姓心為心 (*yǐ bǎi xìng xīn wéi xīn* — "takes everyone's heart as their heart"). **Lost:** 亦 (*yì* — also) reads *too*, then *as well* (T3-18). **Noted:** 歙歙 (*xī xī* — drawing in), §6.
+
+#### Ch 50
+**Kept:** 出生入死 (*chū shēng rù sǐ* — "emerge into life, enter into death"); 十有三 (*shí yǒu sān* — "three in ten") ×3; 夫何故？以其 (*fū hé gù? yǐ qí* — "why? because they") ×2, *Why? Because…* both times; ▢無所▢其▢ (*▢ wú suǒ ▢ qí ▢* — "the ▢ has nowhere to ▢ its ▢") ×3. **Lost:** 死地 (*sǐ dì* — deadly ground) stands in the first movement and 無死地 (*wú sǐ dì* — "no deadly ground") ends the second; the English reads *deadly ground* and then *give death no foothold*, so the chapter's last words no longer answer its first stanza (T3-18). **Departed, reason owed:** 生生之厚 (*shēng shēng zhī hòu*), T3-14; ch 75's 求生之厚 (*qiú shēng zhī hòu* — "seeking life's richness") reads *want their own lives so rich*, which the reason should take into account.
+
+#### Ch 51
+**Kept:** 道生之，德畜之，物形之，勢成之 (*dào shēng zhī, dé xù zhī, wù xíng zhī, shì chéng zhī* — "the Tao births them, integrity rears them, matter forms them, circumstance completes them"); 尊道而貴德 / 道之尊，德之貴 (*zūn dào ér guì dé / dào zhī zūn, dé zhī guì* — "revere the Tao and value integrity / this reverence, this valuing"); ▢之▢之 (*▢ zhī ▢ zhī* — "▢ them and ▢ them") ×3; the closing as ch 10. **Lost:** 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) is said twice, the second time as a summary, and reads *gives birth to*, then *births* (T3-18). The closing series, T3-13.
+
+#### Ch 52
+**Kept:** the reversal on 母 / 子 (*mǔ / zǐ* — mother / child); 沒身不殆 (*mò shēn bù dài*), word for word as ch 16; the couplet 塞其兌，閉其門 / 開其兌，濟其事 (*sè qí duì, bì qí mén / kāi qí duì, jì qí shì* — "block the openings, close the doors / open the openings, multiply your affairs"), and its refrain 終身不▢ (*zhōng shēn bù ▢* — "to the end of your days, not ▢"); 見小曰明，守柔曰強 (*jiàn xiǎo yuē míng, shǒu róu yuē qiáng* — "seeing the small is called clarity, holding to the soft is called strong"); 是謂襲常 (*shì wèi xí cháng* — "this is called the ever-present worn covered"), matched with ch 27.
+
+#### Ch 53
+**Kept:** the series 朝甚除，田甚蕪，倉甚虛 (*cháo shèn chú, tián shèn wú, cāng shèn xū* — "the court very clean, the fields very overgrown, the granaries very empty"), one clause each, and the four-part series after it. **Lost:** 是謂盜夸 (*shì wèi dào kuā* — "this is called the boast of thieves") as *This exposes…* (T3-11).
+
+#### Ch 54
+**Kept:** 善建者不拔，善抱者不脫 (*shàn jiàn zhě bù bá, shàn bào zhě bù tuō* — "the well planted is not uprooted, the well held does not slip"); 修之於▢，其德乃▢ (*xiū zhī yú ▢, qí dé nǎi ▢* — "cultivate it in the ▢, and its integrity becomes ▢") ×5; 以▢觀▢ (*yǐ ▢ guān ▢* — "observe the ▢ through the ▢") ×5; *By this*, as at 21 and 57.
+
+#### Ch 55
+**Kept:** 毒蟲不螫，猛獸不據，攫鳥不搏 (*dú chóng bù shì, měng shòu bù jù, jué niǎo bù bó* — "venomous creatures do not sting, fierce beasts do not seize, birds of prey do not strike"); ▢之至也 (*▢ zhī zhì yě* — "this is ▢ at its utmost") ×2; the chain 知和曰常，知常曰明 (*zhī hé yuē cháng, zhī cháng yuē míng* — "knowing harmony is called the ever-present, knowing the ever-present is called clear-seeing"); the refrain shared with ch 30. **Lost:** the link 和之至也。知和 (*hé zhī zhì yě. zhī hé* — "harmony at its utmost. Knowing harmony") crosses a stanza break (T3-15). 曰 (*yuē* — is called) stands four times in two lines, and the third, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous"), reads *is an ill omen*, the one out of the *is called* run (T3-18).
+
+#### Ch 56
+**Kept:** the reversal 知者不言，言者不知 (*zhī zhě bù yán, yán zhě bù zhī* — "those who know do not speak, those who speak do not know"); 塞其兌，閉其門 (*sè qí duì, bì qí mén*), as at ch 52; the four from ch 4, two to a line, as at ch 4; 是謂玄同 (*shì wèi xuán tóng* — "this is called profound sameness"); 為天下貴 (*wéi tiān xià guì* — "the most honored in the world"), as at ch 62. **Lost:** 不可得而▢ (*bù kě dé ér ▢* — "cannot be made to ▢") ×6, T3-13.
+
+#### Ch 57
+**Kept:** 以正治國，以奇用兵，以無事取天下 (*yǐ zhèng zhì guó, yǐ qí yòng bīng, yǐ wú shì qǔ tiān xià* — "govern the state by the straight, wage war by surprise, take the world by not meddling"); *How do I know it is so? By this*; the four *The more…, the more…*; 而民自▢ (*ér mín zì ▢* — "and the people ▢ themselves") ×4. **Lost:** 我無▢ (*wǒ wú ▢* — "I do not ▢") stands three times and reads *I do not do*, *I do not meddle*, then *I am desireless* (T3-18). 故聖人云 (*gù shèng rén yún* — "so the sage says"), T3-12. 以無事取天下 (*yǐ wú shì qǔ tiān xià* — "take the world by not meddling") against ch 48 and 利器 (*lì qì*) against ch 36 (T3-17).
+
+#### Ch 58
+**Kept:** the reversal 禍兮福之所倚，福兮禍之所伏 (*huò xī fú zhī suǒ yǐ, fú xī huò zhī suǒ fú* — "disaster, where fortune leans; fortune, where disaster hides"), with its 兮 (*xī*) as a held topic; 正復為奇，善復為妖 (*zhèng fù wéi qí, shàn fù wéi yāo* — "the straight turns crooked, the good turns monstrous"); 方而不割 (*fāng ér bù gē* — "square but does not cut") and three more on the frame ▢而不▢ (*▢ ér bù ▢* — "▢ but does not ▢"). **Lost:** the chain through 正 (*zhèng* — straight), T4-2. **A rider for T4-2:** the closing series' 直 (*zhí* — straight) also reads *straight*, three lines after 正 (*zhèng* — straight) does, and ch 45's 大直若屈 (*dà zhí ruò qū* — "great straightness seems bent") reads *straightness… crooked*, which is 正復為奇's (*zhèng fù wéi qí* — "the straight turns crooked") English too. So *straight* and *crooked* each carry two characters across 45 and 58, and whatever 正 / 奇 (*zhèng / qí*) becomes will have to sit beside 直 / 屈 (*zhí / qū* — straight / bent). **Noted:** 悶悶 / 淳淳 / 察察 / 缺缺 (*mèn mèn / chún chún / chá chá / quē quē* — dull / simple / sharp / lacking), §6.
+
+#### Ch 59
+**Kept:** every link of the sorites, §1; 莫若嗇。夫唯嗇 (*mò ruò sè. fū wéi sè* — "nothing like conserving. Only conserving"); 有國 (*yǒu guó* — have the state) ×2 as a link; 可以長久 (*kě yǐ cháng jiǔ*), as at ch 44; 是謂 (*shì wèi*).
+
+#### Ch 60
+**Kept:** the chain 其鬼不神；非其鬼不神，其神不傷人；非其神不傷人 (*qí guǐ bù shén; fēi qí guǐ bù shén, qí shén bù shāng rén; fēi qí shén bù shāng rén* — "the ghosts lose their potency; not only do the ghosts lose their potency, their potency does not harm people; not only does their potency not harm people"), every link in position. **Lost:** 不傷人 (*bù shāng rén* — "does not harm people") ×3 reads *causes no harm to people*, *do no harm*, *does no harm to people* (T3-18).
+
+#### Ch 61
+**Kept:** 天下之交，天下之牝 (*tiān xià zhī jiāo, tiān xià zhī pìn* — "the confluence of the world, the female of the world"); the chain 以靜…以靜 (*yǐ jìng* — by stillness); the chiasmus 大國以下小國…小國以下大國 (*dà guó yǐ xià xiǎo guó… xiǎo guó yǐ xià dà guó* — "the large state going below the small… the small going below the large"); 大國不過欲 / 小國不過欲 (*dà guó / xiǎo guó bù guò yù* — "the large / small state wants nothing more than").
+
+#### Ch 62
+**Kept:** 美言 / 美行 (*měi yán / měi xíng* — fine words / fine conduct); 此道 (*cǐ dào* — this Tao) ×2; 故為天下貴 (*gù wéi tiān xià guì*), as at ch 56. **Departed:** the sound-pair 寶 / 保 (*bǎo / bǎo* — treasure / keep safe), *treasure* and *keeps safe*, which keeps both senses and loses the chime; recorded in `notes/translation.md` → 寶 / 保 (*bǎo / bǎo* — treasure / keep safe), which also withdraws the claim that the pun is original.
+
+#### Ch 63
+**Kept:** 圖難於其易，為大於其細 (*tú nán yú qí yì, wéi dà yú qí xì* — "plan the difficult while it is easy, do the great while it is small") and its pair 天下難事 / 天下大事 (*tiān xià nán shì / dà shì* — "the world's difficult / great affairs"); 不為大，故能成其大 (*bù wéi dà, gù néng chéng qí dà*), as at ch 34; 是以聖人猶難之 (*shì yǐ shèng rén yóu nán zhī* — "so the sage still finds it difficult"), word for word as ch 73. **Lost:** 味無味 (*wèi wú wèi* — "taste the not-tasting"), T3-13.
+
+#### Ch 64
+**Kept:** 其▢易▢ (*qí ▢ yì ▢* — "what is ▢ is easy to ▢") ×4; 為之於未有，治之於未亂 (*wéi zhī yú wèi yǒu, zhì zhī yú wèi luàn* — "handle it before it exists, order it before disorder"); the three images on ▢之▢，▢於▢ (*▢ zhī ▢, ▢ yú ▢* — "the ▢ of ▢ ▢ from ▢"); 為者敗之，執者失之 (*wéi zhě bài zhī, zhí zhě shī zhī*), word for word as ch 29; 未兆 (*wèi zhào* — no sign yet), *shows no sign*, as at ch 20. **Lost:** T3-9.
+
+#### Ch 65
+**Kept:** 以智治國 / 不以智治國 (*yǐ zhì zhì guó / bù yǐ zhì zhì guó* — "govern the state with guile / not with guile"); 稽式 (*jī shì* — the pattern) ×2; 深矣，遠矣，反矣 (*shēn yǐ, yuǎn yǐ, fǎn yǐ* — "deep, far, turned back"). **Lost:** the chain 玄德。玄德 (*xuán dé. xuán dé* — "profound integrity. Profound integrity") crosses a stanza break (T3-15). The pair's second half, 國之賊 / 國之福 (*guó zhī zéi / guó zhī fú* — "the state's thief / the state's good fortune"), reads *robs the state* against *is the state's good fortune*, a verb against a noun (T3-18). 是謂玄德 (*shì wèi xuán dé*) reads *is called profound integrity*, without the *— / this is called* that chs 10 and 51 give the same three characters (T3-17).
+
+#### Ch 66
+**Kept:** the ring 能為百谷王 (*néng wéi bǎi gǔ wáng* — "can be king of the hundred valleys") ×2; 欲上民，必以言下之；欲先民，必以身後之 (*yù shàng mín, bì yǐ yán xià zhī; yù xiān mín, bì yǐ shēn hòu zhī* — "to be above the people, speak from below; to be ahead, put your body behind"); 處上 / 處前 (*chǔ shàng / chǔ qián* — "stands above / stands in front"); the refrain shared with ch 22. **Lost:** 是以聖人 (*shì yǐ shèng rén* — "therefore the sage") is dropped, *The sage stands above*, the one place in the book it has no English (T3-12).
+
+#### Ch 67
+**Kept:** the chain 似不肖。夫唯大，故似不肖 (*sì bù xiào. fū wéi dà, gù sì bù xiào* — "looks like nothing. Only because it is great does it look like nothing"); 一曰…二曰…三曰 (*yī yuē… èr yuē… sān yuē* — "the first is… the second… the third"); ▢故能▢ (*▢ gù néng ▢* — "▢, and so you can ▢") ×3; 捨▢且▢ (*shě ▢ qiě ▢* — "abandon ▢ and grab ▢") ×3; 慈 (*cí* — tenderness) ×6.
+
+#### Ch 68
+**Kept:** 善▢者，不▢ (*shàn ▢ zhě, bù ▢* — "the one masterful at ▢ does not ▢") ×4; 是謂 (*shì wèi*) ×3, *This is called* every time.
+
+#### Ch 69
+**Kept:** 不敢為主而為客；不敢進寸而退尺 (*bù gǎn wéi zhǔ ér wéi kè; bù gǎn jìn cùn ér tuì chǐ* — "I dare not be host but guest; I dare not advance an inch but retreat a foot"); ▢無▢ (*▢ wú ▢* — "▢ where there is no ▢") ×4; the chain 輕敵，輕敵 (*qīng dí, qīng dí* — "making light of the enemy; making light of the enemy"). **Lost:** 禍莫大於 (*huò mò dà yú* — "no disaster greater than") reads *There is no disaster greater than*, where ch 46 reads *There is no greater disaster than*, and `notes/translation.md` → *Ch 69* says the two were kept parallel on purpose. 扔 (*rēng*) against ch 38 (T3-17).
+
+#### Ch 70
+**Kept:** 甚易知，甚易行 / 莫能知，莫能行 (*shèn yì zhī, shèn yì xíng / mò néng zhī, mò néng xíng* — "very easy to know, very easy to follow / no one can know, no one can follow"), with 莫能行 (*mò néng xíng*) as at ch 78; 言有宗，事有君 (*yán yǒu zōng, shì yǒu jūn* — "words have an ancestor, affairs have a ruler"); 知我者希，則我者貴 (*zhī wǒ zhě xī, zé wǒ zhě guì* — "those who know me are few, those who pattern on me are precious").
+
+#### Ch 71
+**Kept:** 病病 (*bìng bìng* — "sick of the sickness") ×2 in one English. **Departed:** the trailing 是以不病 (*shì yǐ bù bìng* — "therefore not sick"), cut on Shalom's call, 2026-08-24, `notes/translation.md` → *Ch 75*. **Lost:** the mirror 知不知 / 不知知 (*zhī bù zhī / bù zhī zhī*), T3-13.
+
+#### Ch 72
+**Kept:** 無狎其所居，無厭其所生 (*wú xiá qí suǒ jū, wú yàn qí suǒ shēng* — "do not crowd their dwellings, do not oppress their livelihoods"); 自知，不自見；自愛，不自貴 (*zì zhī, bù zì jiàn; zì ài, bù zì guì* — "knows themselves, does not display themselves; loves themselves, does not prize themselves"); 去彼取此 (*qù bǐ qǔ cǐ*). **Departed:** 威 (*wēi* — dread, authority) turned in 不畏威，則大威至 (*bù wèi wēi, zé dà wēi zhì* — "do not fear dread, and the great dread comes"), the repetition killed by Shalom as unworkable in English; and 厭 (*yàn* — to press down; to be fed up) turned in 夫唯不厭，是以不厭 (*fū wéi bù yàn, shì yǐ bù yàn*), split between *oppress* and *tire of*. Both are recorded in `notes/translation.md` → *Ch 72*. **Lost:** 不自見 (*bù zì jiàn*) against ch 22, and 民不畏 (*mín bù wèi* — "the people do not fear"), *no longer fear* here and *do not fear* at ch 74 (T3-17).
+
+#### Ch 73
+**Kept:** 勇於敢 / 勇於不敢 (*yǒng yú gǎn / yǒng yú bù gǎn* — "brave in daring / brave in not daring"); 此兩者 (*cǐ liǎng zhě* — "these two"), as at ch 1; 不▢而▢ (*bù ▢ ér ▢* — "does not ▢, yet ▢") ×4; 是以聖人猶難之 (*shì yǐ shèng rén yóu nán zhī*), as at ch 63. **Noted:** 恢恢 (*huī huī* — vast), §6.
+
+#### Ch 74
+**Kept:** 民不畏死 / 民常畏死 (*mín bù wèi sǐ / mín cháng wèi sǐ* — "the people do not fear death / always fear death"); the chain 代大匠斫。夫代大匠斫 (*dài dà jiàng zhuó. fū dài dà jiàng zhuó* — "carving in place of the master carpenter. Carving in place of the master carpenter"), its words kept, *of the master carpenter. / Of those who carve in place of the master carpenter*, though the link now falls mid-line. **Lost:** 是謂 (*shì wèi*), T3-11; and 民不畏 (*mín bù wèi* — "the people do not fear") against ch 72 (T3-17).
+
+#### Ch 75
+**Kept:** 民之▢，以其上▢ (*mín zhī ▢, yǐ qí shàng ▢* — "the people's ▢ is because those above ▢") ×3, carried as anaphora. **Departed:** each charge's closing 是以▢ (*shì yǐ ▢* — "therefore ▢"), cut on Shalom's call, 2026-08-25, `notes/translation.md` → *Ch 75*.
+
+#### Ch 76
+**Kept:** 人之生也柔弱，其死也堅強 (*rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng* — "a person alive is soft and yielding, dead is hard and strong") and its pair for the grasses and trees; 死之徒 / 生之徒 (*sǐ zhī tú / shēng zhī tú* — "followers of death / of life"), as at ch 50; 兵強 / 木強 (*bīng qiáng / mù qiáng* — "a strong army / a strong tree"); 處下 / 處上 (*chǔ xià / chǔ shàng* — "dwell below / above").
+
+#### Ch 77
+**Kept:** 天之道 / 人之道 (*tiān zhī dào / rén zhī dào* — "the way of nature / the way of people"); 高者抑之，下者舉之 (*gāo zhě yì zhī, xià zhě jǔ zhī* — "the high pressed down, the low lifted"); the chiasmus 損有餘而補不足 / 損不足以奉有餘 (*sǔn yǒu yú ér bǔ bù zú / sǔn bù zú yǐ fèng yǒu yú* — "takes from too much and mends too little / takes from too little to offer to too much"); 為而不恃 (*wéi ér bù shì*) and 功成而不處 (*gōng chéng ér bù chǔ* — "the work done, does not stay"), as at ch 2. **Lost:** 損 (*sǔn* — reduce) and 補 (*bǔ* — mend) open the chapter in the bow image and are restated as its law, and the English changes verbs between them, *drawn off* and *filled in*, then *takes from* and *mends* (T3-18).
+
+#### Ch 78
+**Kept:** 莫…莫… (*mò… mò…* — "nothing… nothing…"); 弱之勝強，柔之勝剛 (*ruò zhī shèng qiáng, róu zhī shèng gāng* — "the yielding overcomes the strong, the soft overcomes the hard"); 受國之垢 / 受國之不祥 (*shòu guó zhī gòu / shòu guó zhī bù xiáng* — "takes on the state's shame / the state's ill omen"); 正言若反 (*zhèng yán ruò fǎn* — "straight words seem reversed"). **Lost:** 是謂 (*shì wèi*) dropped twice (T3-11); 是以聖人云 (*shì yǐ shèng rén yún* — "therefore the sage says") (T3-12).
+
+#### Ch 79
+**Kept:** 怨 (*yuàn* — grudge) ×2; 有德司契，無德司徹 (*yǒu dé sī qì, wú dé sī chè* — "those with integrity keep the tally, those without keep the levy"); 天道 (*tiān dào* — the way of nature), as at 9, 47, 73, 77 and 81.
+
+#### Ch 80
+**Kept:** 使 (*shǐ* — let) ×3, *Let the people…*; 雖有▢，無所▢之 (*suī yǒu ▢, wú suǒ ▢ zhī* — "though there are ▢, there is no call to ▢ them") ×2; 甘其食，美其服，安其居，樂其俗 (*gān qí shí, měi qí fú, ān qí jū, lè qí sú* — "their food sweet, their clothes fine, their homes restful, their ways a joy"). **Lost:** 相 (*xiāng* — each other) stands three times in the closing, *within sight of each other*, *hear each other's*, then 不相往來 (*bù xiāng wǎng lái* — "do not go to and fro with each other") as *never once go next door* (T3-18).
+
+#### Ch 81
+**Kept:** all three reversals, §4; 既以為人己愈有，既以與人己愈多 (*jì yǐ wéi rén jǐ yù yǒu, jì yǐ yǔ rén jǐ yù duō* — "having done for others, they have more; having given to others, they have more still"); 天之道 / 聖人之道 (*tiān zhī dào / shèng rén zhī dào* — "the way of nature / the way of the sage"), each closing on ▢而不▢ (*▢ ér bù ▢* — "▢ and does not ▢").
