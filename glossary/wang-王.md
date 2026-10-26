@@ -98,7 +98,7 @@ Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社�
 
 ### What stays open
 
-**The office really was male, and the English no longer says so.** Where 侯王 and 王公 name the actual ruling stratum of the late Zhou — chapters 32, 37, 39, 42 — the people addressed were men. *Rulers* is true to the word and silent about the world. This edition renders toward the universal and notes the seam here rather than in the verse, which is standing rule 2 working as written; but the silence is real and a reader should know the room Laozi was speaking into.
+**The office really was male, and the English no longer says so.** Where 侯王 and 王公 name the actual ruling stratum of the late Zhou — chapters 32, 37, 39, 42 — the people addressed were men. *Rulers* is true to the word and silent about the world. This edition renders toward the universal and notes the seam here rather than in the verse, which is standing rule 1 working as written; but the silence is real and a reader should know the room Laozi was speaking into.
 
 **And whether the book is undermining the throne or advising it.** Chapters 32 and 37 speak *to* 侯王 with a conditional — *if rulers can hold to this* — which is counsel offered to power, on power's own terms. Chapters 66 and 78 do something else: they redefine the word so that it names whoever goes lowest and absorbs the most. Reform from inside, or a redefinition that empties the office out.
 

@@ -76,7 +76,7 @@ def text_graph(conn):
     ):
         n, zh, pin, en, guodian, han, words = r
         # Every label carries English. A constellation node reading 體道 tells an
-        # English reader nothing, and standing rule 0 does not stop at the repo
+        # English reader nothing, and the gloss rule does not stop at the repo
         # boundary — it is about the reader, and the reader is the same person.
         label = f"{n}. {en}" if en else f"Chapter {n}"
         nodes.append({

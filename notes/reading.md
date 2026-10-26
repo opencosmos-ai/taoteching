@@ -177,6 +177,10 @@ Then Laozi presses past luck into judgment itself: 孰知其極？其無正 — 
 
 The sage's answer is the four closing lines — square but not cutting, edged but not wounding, straight but not overreaching, bright but not dazzling. Not weakness: the only sane response to a world of reversals. If sharp virtue flips into its opposite (as 察察, the sharp-eyed ruler, bred crafty people), then keep the edge without the cut — hold the straight without honing it into a blade that gouges, the light without the glare that blinds. The sage does not press their correctness on the world, precisely because pressed correctness is what curdles into its opposite. Integrity held softly is the one thing the reversal cannot turn.
 
+### Ch 61 · She is underneath, and nobody puts her there
+
+The oldest copies of this chapter, the Mawangdui silks, give the female a reason: *"because she is still, it is fitting that she be underneath."* We did not follow them. In Chinese the word for *fitting*, 宜 (*yí*), names the place where something is at rest. In English every version of it sounds like someone else deciding where she belongs, and a line like that can be quoted to justify keeping women down, in a chapter whose point is that she overcomes. The received text keeps her the one acting: *"The female always overcomes the male by stillness. / By stillness she is underneath."* Her lowness and her winning come from the same stillness, and the chapter asks the large state, not her, to learn it: *"The large one ought to be underneath."* The fork and its cost are in `notes/manuscript.md`.
+
 ### Ch 62 · A sanctuary the size of a corner
 
 The chapter opens by saying where the Tao is, and the answer is domestic. The word is 奧 (*ào*), and it names **the southwest corner of a house** — the innermost corner, furthest from the door. In a Zhou-era home that corner was the household's altar space: where the presiding spirit of the house was honoured and where the head of the family sat. Confucius refers to it in exactly that way, in a proverb about whether it is smarter to court the spirit of the honoured corner or the spirit of the kitchen stove.

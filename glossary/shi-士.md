@@ -77,7 +77,7 @@ This is the entry's real finding, and it is why a narrower word cannot be used.
 
 ### The seam
 
-**士 named a class of men.** Standing rule 2 governs: render toward the universal, and never erase the male default in silence. *In service* is neutral by design, and the fact that the original is not is recorded here rather than smoothed over.
+**士 named a class of men.** Standing rule 1 governs: render toward the universal, and never erase the male default in silence. *In service* is neutral by design, and the fact that the original is not is recorded here rather than smoothed over.
 
 士 belongs to a family the manuscript is still deciding — **大丈夫** (*dà zhàng fū*, ch 38), **君子** (*jūn zǐ*, ch 26 and 31), and 士 — three male rank-words that have been dissolved in opposite directions. `WORKLIST.md` T4-7 holds that question, and it is the same question as 民 / 人: what to do with a social category when the rank is often what the line is about.
 

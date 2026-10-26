@@ -63,7 +63,7 @@ That covers the first, second, and last of the four below; the character's histo
    Then the body, in `###` subsections. Use **Recommended:** in place of **Locked:** where `status: open`.
 2. **Read the character as a picture changing over time.** Oracle bone → seal → modern. This is where entries earn their keep: 為 is a hand on an elephant, 無 was a dancer, 自 is a nose, 明 is moonlight through a window, 萬 is a scorpion.
 3. **Let cross-textual evidence argue.** Quote the Chinese with a gloss, cite chapters, let the pattern make the case.
-4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3).
+4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3). **For any term that names or stands for the female, set aside every English that could be quoted to justify her domination**, such as *passive*, *submissive*, or *fitting* for her place, and say why (`CLAUDE.md` standing rule 1).
 5. **State the working register.** How the term flexes by grammar, with examples. Include a table of protected verbs where the noun cannot carry the whole sense.
 6. **Leave the real tension open.** Every good entry ends somewhere honest and unresolved. If nothing is unresolved, look harder.
 7. **Say which rulings the build holds.** A word you rule out that another character in the same chapters may legitimately print cannot go on `forbidden:` — the gate keys on chapter presence. Name it in the lock line as a ruling no check can hold, and explain it under a `### What no rule can enforce` section, naming the blocking character and the shared chapters. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
@@ -91,7 +91,7 @@ The rule most often broken. An entry is not a work log.
 **Also:**
 
 - **Lowercase everything but the Tao** — *the sage*, *the mother*, *the uncarved*, *stillness*. English capitals confer status the Chinese does not.
-- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 5). Prose in the entry may use them.
+- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 4). Prose in the entry may use them.
 - **Gloss every Chinese character in English, every time** — 為 (*wéi* — "to do"). Shalom does not read Chinese.
 - **Never "he" for the sage.** Singular *they/their*, or recast.
 

@@ -101,6 +101,7 @@ Six checks on the **finished English**. Each is a principle, and this is the ste
 | **Point every English word at a character.** A word that renders nothing is either scaffolding English grammar requires — say so in the note — or it comes out | `renders-no-character` · `supplied-verb-is-scaffolding` |
 | **Read the English alone, without the Chinese beside it, and say what it claims.** Then check that claim against the source | `defensible-but-a-different-claim` |
 | **Ask what the line implies about the people in it.** Would this book say the same of the sage? | `collocation-carries-a-verdict` · `no-verdict-the-chinese-lacks` |
+| **Lift every line about the female out of the chapter and read it as a sentence about women.** If it could be quoted to justify her domination, it does not go in, whatever the witnesses read | `CLAUDE.md` standing rule 1 |
 | **Ask what every pronoun points at.** If two things could be *it*, the English has chosen; choose deliberately or recast | `name-the-referent` |
 | **Where the commentators split, has the English chosen between them?** If so, try for a line that holds both, or say in the note what choosing cost | `divergence-stays-open` |
 | **Where you used two English words for one Chinese modifier, name the single word you avoided** | `one-modifier-one-modifier` |
@@ -116,7 +117,7 @@ Then **offer clay**: a full rendering he can accept, reject, or reshape. His poe
 - **Lowercase everything but the Tao.** *the sage*, *the mother*, *the uncarved*, *stillness*. English capitals confer status; they turn a word into a doctrine. 道 keeps its capital as a proper name. Nothing else does.
 - **The sage is never "he."** Singular *they/their*, or recast. Applies to every archetypal figure.
 - **Universality over the incidental male-default.** Where the text's exaltation of the feminine collides with its assumption of the male as cultural default: render toward the universal, **note the seam**. Never erase the male-centrism silently.
-- **A dash in the verse only where its subject is named on both sides.** The mark is the spaced em-dash ( — ). It may hold a topic up for the next words to name again (*this*, *which*, a question); it may never trail into an action whose doer is unnamed, because classical Chinese omits subjects freely and English cannot. Keep them rare. `CLAUDE.md` standing rule 5.
+- **A dash in the verse only where its subject is named on both sides.** The mark is the spaced em-dash ( — ). It may hold a topic up for the next words to name again (*this*, *which*, a question); it may never trail into an action whose doer is unnamed, because classical Chinese omits subjects freely and English cannot. Keep them rare. `CLAUDE.md` standing rule 4.
 - **Let the layout track the original's rhythm.** The marks are ours; the music is the source's. Stay consistent within any parallel series. **Check the chapter against [`process/form-audit.md`](../../form-audit.md)**: name the devices its Chinese uses (a chain, a series, a couplet, a rhyme, a formula), and where the English departs from one, log the departure there with its reason.
 - **Two trailing spaces on every verse line.** Markdown collapses a single newline into a space.
 
