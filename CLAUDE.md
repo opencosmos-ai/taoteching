@@ -155,6 +155,7 @@ python3 -m unittest discover -s tools/tests       # the tools' own tests; CI run
 | `ARCHITECTURE.md` | how the system fits together: every document and who it is for, what is generated, the gates, the runbook |
 | `process/method.md` | the full working guide, and why |
 | `process/form-audit.md` | the source's formal devices, and how the English carries each |
+| `process/accuracy-audit.md` | what the English drops or adds, line by line, and which of those departures were chosen |
 | `sources/PROVENANCE.md` | what may live in `sources/`, and on what authority |
 | `WORKLIST-CLOSED.md` | every closed worklist row, word for word |
 | `README.md` · `CONTRIBUTING.md` · `AGENTS.md` | the front door, the ways in for contributors, and this context for other tools |

@@ -85,6 +85,7 @@ You don't need any of this but the first. Everything else is here for whoever wa
 | `process/method.md` | The full working method |
 | `process/overlay-audit.md` | Reading Laozi without the missionary lens |
 | [`process/form-audit.md`](process/form-audit.md) | The music of the Chinese — its chains, parallels, rhymes and formulas — and where the English keeps or departs from each |
+| [`process/accuracy-audit.md`](process/accuracy-audit.md) | What the Chinese says that the English drops, what the English says that the Chinese does not, and which of those were chosen |
 | `process/skills/` | The method made executable, for AI collaborators |
 | [`sources/`](sources/PROVENANCE.md) | The three classical commentaries (Wang Bi, Heshang Gong, Han Fei), 說文解字, the variant apparatus, the hand-kept gloss lists, and per-file provenance |
 | [`data/`](data/README.md) | The corpus as CSVs, and `atlas-export.json`, the one file the Library and the atlas are built from — all generated |
