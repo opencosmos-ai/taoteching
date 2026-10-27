@@ -205,7 +205,7 @@ def rule_sage_pronoun(chapters, **_):
     return out
 
 
-# CLAUDE.md standing rule 4: English capitals confer status — they turn a word
+# CLAUDE.md standing rule 3: English capitals confer status — they turn a word
 # into a doctrine. Each watched word maps to the character that would license
 # the concept, so the evidence gate applies here too.
 _DEVOTIONAL = {
@@ -237,7 +237,7 @@ def rule_devotional_capitalization(chapters, **_):
                         f'"{word}" is capitalized mid-sentence — lowercase everything '
                         f"but the Tao. Capitals turn a word into a doctrine."
                         + ("" if has_gate else f" ({gate} is not in this chapter — verify.)"),
-                        line.strip(), "CLAUDE.md · standing rule 4",
+                        line.strip(), "CLAUDE.md · standing rule 3",
                         {"devotional-capitalization", word.lower()},
                     ))
     return out
@@ -359,7 +359,7 @@ _DASH = re.compile(r"[—–]")
 
 def rule_em_dash(chapters, **_):
     """Inventory, plus the mark. A dash is allowed where its subject is named
-    on both sides (CLAUDE.md standing rule 4, 2026-10-25), and only a reader
+    on both sides (CLAUDE.md standing rule 3, 2026-10-25), and only a reader
     can tell, so every dash is listed at info and none fails a build. The mark
     is checkable: the verse's dash is the em-dash, so an en-dash warns."""
     out = []

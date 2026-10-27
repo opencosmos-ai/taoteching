@@ -36,7 +36,7 @@
 
 **What a break changes downstream.** Blank lines are not counted as lines, so a chapter still pairs line by line with its Chinese. `tools/build_db.py` numbers the stanzas, and `data/atlas-export.json` carries them to the Library and the atlas, so a stanza break is visible to every reader.
 
-**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 4): the spaced em-dash ( — ), and only where its subject is named on both sides. It often marks the Chinese topic–comment shape, a topic held up and then named again.
+**Punctuation.** Ours, used deliberately. The dash is the one mark with a standing rule (`CLAUDE.md` standing rule 3): the spaced em-dash ( — ), and only where its subject is named on both sides. It often marks the Chinese topic–comment shape, a topic held up and then named again.
 
 ---
 
@@ -60,7 +60,7 @@
 
 **How far this research went, said plainly.** This environment's network blocks every page fetch, so the sources above were read through search results: abstracts, tables of contents, and quoted passages. **Wagner's own list of his 39 chapters, and Liu Xiaogan's full analysis, were not read.** So §11's instances are this audit's identification, made with Fech's restraint, not Wagner's list, and they should be checked against his book when it can be read. Every claim marked from a source above is one the search results state.
 
-**Not devices, and why.** *Person:* the Chinese rarely names a subject, and the English must, so *you*, *they* and *the sage* are a translation decision, governed by standing rules 1 and 4, not a form of the source. *Tempo:* the source moves in three- and four-character beats that English cannot match syllable for syllable. Its form survives as rule 1 of *The page* (a series gets one shape), which every reading already checks.
+**Not devices, and why.** *Person:* the Chinese rarely names a subject, and the English must, so *you*, *they* and *the sage* are a translation decision, governed by standing rules 1 and 3, not a form of the source. *Tempo:* the source moves in three- and four-character beats that English cannot match syllable for syllable. Its form survives as rule 1 of *The page* (a series gets one shape), which every reading already checks.
 
 ---
 
@@ -334,7 +334,7 @@
 
 - **The chain, kept.** *The dark female's gate* opens on the words the line before it ended on, in the Chinese order: 玄 (*xuán* — dark) 牝 (*pìn* — female) 之 (*zhī* — 's) 門 (*mén* — gate). It also names her twice and ties the gate to her, which is what the 2026-10-24 ruling on this line asked for.
 - **The stanza break, 4 / 2.** The first four lines name the thing twice with 是謂 and hold the chain inside one stanza. The last two turn to how it is used. The break cuts only the rhyme that ties 根 (*gēn* — root) to 存 (*cún*) and 勤 (*qín*), which the English does not carry anyway. *(Three couplets, 2 / 2 / 2, were considered and set aside: they put a blank line in the middle of the chain.)*
-- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them — / this is called profound integrity."* This line is the case on which the dash rule was rewritten the same day (`CLAUDE.md` standing rule 4).
+- **The dash.** It does not strand a subject: *this* picks it straight back up, as the Chinese 是 (*shì* — this) points back at its topic. Chapters 10 and 51 use the same mark in the same formula: *"growing them without ruling them — / this is called profound integrity."* This line is the case on which the dash rule was rewritten the same day (`CLAUDE.md` standing rule 3).
 - **The cost.** Chapter 1's 眾妙之門 (*zhòng miào zhī mén*) reads *"the gate of all subtleties,"* so 之門 (*zhī mén* — "'s gate") takes two shapes in the book. Chapter 6 has a chain to keep, and chapter 1 does not.
 
 **Verdict:** chain *kept*. Rhyme *departed*, by policy (§7). The doubling 綿綿 (*mián mián* — unbroken) is noted in §6 and awaits its verdict.
@@ -454,7 +454,7 @@
 
 ### What to do with each departure
 
-*Every place the English differs from a form the Chinese uses, with a recommendation: **resolve** it, and how, or **leave** it, and the reason to record. A recommendation is not a ruling. Each comes to Shalom one at a time, and his ruling replaces it here. Proposed English follows the locks in `glossary/INDEX.md` and standing rule 4's dash rule. Departures already settled by a recorded decision are listed at the end, so nothing is missing from the count.*
+*Every place the English differs from a form the Chinese uses, with a recommendation: **resolve** it, and how, or **leave** it, and the reason to record. A recommendation is not a ruling. Each comes to Shalom one at a time, and his ruling replaces it here. Proposed English follows the locks in `glossary/INDEX.md` and standing rule 3's dash rule. Departures already settled by a recorded decision are listed at the end, so nothing is missing from the count.*
 
 **The order to take them in.** Deepest first: **T3-16** (ch 27, where the mirror and a lock both break), then **T3-13's ch 2 / T3-17's 為而不恃** (*wéi ér bù shì* — "acts, yet does not rely on it"), which decides four chapters at once, then **T3-12** (the connectives, book-wide), then the rest by row.
 
@@ -512,7 +512,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-9 · Ch 64 — the strands of doing and grasping
 
-**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`CLAUDE.md` → *The locks*) applies, as it does for 弱其志 (*ruò qí zhì* — "weaken their ambition"). The current *does not do* is no closer to the lock.
+**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`process/skills/glossary-entry/SKILL.md` → *How the locks behave*) applies, as it does for 弱其志 (*ruò qí zhì* — "weaken their ambition"). The current *does not do* is no closer to the lock.
 
 #### T3-10 · Ch 22 / 24 — 彰 (*zhāng* — to shine forth)
 
@@ -555,7 +555,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*.
 - **功成** (*gōng chéng* — "the work done"), 2 · 34 · 77 — **resolve** with ch 34, under T3-18.
 - **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has.
-- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always to know the pattern — / this is called profound integrity."* The dash is the topic–comment shape standing rule 4 allows, as at 10 and 51.
+- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always to know the pattern — / this is called profound integrity."* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
 - **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image.
 
 #### T3-18 · One member out of step

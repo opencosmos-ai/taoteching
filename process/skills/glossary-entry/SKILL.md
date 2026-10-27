@@ -93,7 +93,7 @@ The rule most often broken. An entry is not a work log.
 **Also:**
 
 - **Lowercase everything but the Tao** — *the sage*, *the mother*, *the uncarved*, *stillness*. English capitals confer status the Chinese does not.
-- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 4). Prose in the entry may use them.
+- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 3). Prose in the entry may use them.
 - **Set a quote from the verse in the verse-quote shape**: our English, one line per verse line, a blank line, the Chinese broken where the English breaks, a blank line, and the chapter. Take the pairing from `data/lines.csv`. No pinyin and no literal gloss: the English beside the Chinese is its gloss (`CLAUDE.md`, the gloss rule). One chapter per quote, so a note such as *twice* or *in silk B's reading* goes in a sentence after it. The atlas sets this as a figure, the chapter above as a link, English beside Chinese; any other blockquote stays a plain quote.
 
   ```markdown
@@ -159,6 +159,17 @@ The **where** is a chapter list a tool can check; the **why** is a sentence for 
 
 **Filename:** `pinyin-字.md`, no tone marks — `xin-心.md`, `wu-you-無有.md`.
 
+### How the locks behave
+
+What a generated table cannot say, and what does not go stale:
+
+- **A lock is on register, not on one English word.** Several terms carry licensed flexions — 事 (*shì* — affairs / to attend to), 弱 (*ruò* — yielding / *weaken*), 強 (*qiáng* — strong / *strengthen* / *forcing*). The entry states which, and why.
+- **Grammar overrides a lock.** 弱其志 (*ruò qí zhì* — "weaken their ambition") takes an object, and a stance word cannot. The split is marked in the Chinese, so it can be checked rather than argued.
+- **Some characters carry both valences, and the English must not resolve them.** 強 is the disease at ch 76 and the cure at ch 52; 執 (*zhí* — to grasp) is the wrong kind of taking-hold at ch 29 and an instruction at ch 14. An English carrying a verdict cannot do both jobs.
+- **A `forbidden:` entry must be a word no *other* character in those same chapters can legitimately claim.** The checker gates on whether a character is present in the chapter, so it cannot express *right for that character, wrong for this one, same chapter*. *Integrity* cannot be forbidden for 信 (*xìn* — trust), because chapters 21, 23, 38 and 49 hold both 信 and 德 (*dé* — integrity). Those distinctions live in the entry's prose and in the reader (§2, step 7).
+- **A lock is a claim in both directions**, every 強 renders *strong* and every *strong* renders 強, and the checker can test only the first. Run `concordance.py --english` on every lock you settle.
+- **`check_locks.py` does not scan `glossary/`.** An entry can contradict its own lock indefinitely, so sweep `glossary/` by hand whenever a lock is settled (§5).
+
 ---
 
 ## 5. Finish — every time, no exceptions
@@ -184,8 +195,8 @@ Then confirm the lock holds, and sweep:
 python3 tools/check_locks.py --severity info
 ```
 
-1. **Sweep the chapters** if a rendering changed. Fix on discovery; do not defer. Mechanical term-swaps: apply them. Lines needing a rewrite: propose to Shalom first.
-2. **Do not copy the lock anywhere.** `glossary/INDEX.md` and `terms.yaml` are generated from the frontmatter you just wrote, and they are the only lists. *(A hand-kept table in `CLAUDE.md` was deleted on 2026-08-28 after going stale twice in a week; see `CLAUDE.md` → The locks.)*
+1. **Sweep the chapters, and `glossary/` too,** if a rendering changed: `check_locks.py` does not scan the glossary. Fix on discovery; do not defer. Mechanical term-swaps: apply them. Lines needing a rewrite: propose to Shalom first.
+2. **Do not copy the lock anywhere.** `glossary/INDEX.md` and `terms.yaml` are generated from the frontmatter you just wrote, and they are the only lists. *(A hand-kept table in `CLAUDE.md` was deleted on 2026-08-28 after going stale twice in a week.)*
 3. **Log the reasoning** in `notes/translation.md` if the choice departs from convention.
 4. **Update `glossary/TRIAGE.md`** — strike the term through, record what was found.
 5. **Take a newly entered character off the hand lists.** If this entry is new, every character it governs — its term, and each one in `covers:` — must leave `sources/word-glosses.yaml` or `sources/grammar-glosses.yaml` if it is listed there: an entry outranks the list, so a listed gloss would be dead, kept by hand and published nowhere. `tools/tests/test_hand_glosses.py` (`test_no_gloss_shadows_an_entry`, which reads the `terms.yaml` you just regenerated) fails until it is gone. Then rebuild `data/` again: the character's English now comes from the entry.
