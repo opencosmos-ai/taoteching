@@ -47,6 +47,25 @@ reason: >
 
 ## Calls in effect
 
+## 2026-10-26 · entry-no-draft-history — the father's entry keeps its history
+
+rule: entry-no-draft-history
+source: process/skills/glossary-entry/SKILL.md §3 — "what must never appear in an entry": draft-state commentary and critique of our own past renderings
+scope: glossary/fu-父.md
+until: standing
+reason: >
+  Shalom's call. The entry for 父 (fù — father) and 甫 (fǔ — a man's honorific)
+  says, in its own section, that the first version of this translation rendered
+  them "origin" (ch 21) and "root" (ch 42), and that the father was restored on
+  2026-10-26. Shalom asked for it, for two reasons: so the restoration is
+  visibly about Laozi's own wording, and so a reader sees that standing rule 1
+  (the female never subordinated, the male never the default) was not allowed
+  to erase a masculine presence the text names on purpose. The history is the
+  argument here, so it belongs in the entry and not only in the notes.
+
+  Scoped to this one entry. The rule stands for every other entry: a draft's
+  history is still work-tracking everywhere it is not itself the point.
+
 ## 2026-08-28 · no-new-tooling — set aside permanently
 
 rule: no-new-tooling

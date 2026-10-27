@@ -6,7 +6,7 @@ labels: glossary
 ---
 
 <!--
-<!-- count: gloss:apparatus -->125 of the book's <!-- count: characters -->798 characters carry only `gloss_source: apparatus` — working
+<!-- count: gloss:apparatus -->124 of the book's <!-- count: characters -->798 characters carry only `gloss_source: apparatus` — working
 approximations harvested from the source tables, not decisions, and some are
 plainly wrong. Each is a word seen only once or twice: the more frequent ones
 have hand glosses in sources/word-glosses.yaml.

@@ -16,6 +16,8 @@ supersedes: []
 
 **When it fires.** Whenever a Chinese term names a male role or class and the English has a neutral option: 士 (*shì*), 君子 (*jūn zǐ*), 聖人 (*shèng rén*), 大丈夫 (*dà zhàng fū*), and every pronoun for an archetypal figure.
 
+**When it never fires.** When the Chinese names the male *as male*, on purpose: 父 (*fù* — father), 牡 (*mǔ* — the male), 雄 (*xióng* — the rooster). There the maleness is the content, not a default, and universalizing it would erase what the line says. The aim is the end of all subordination, not the masculine put under the feminine. *(Shalom's call, 2026-10-26: `glossary/fu-父.md`.)*
+
 ---
 
 ## Why this holds

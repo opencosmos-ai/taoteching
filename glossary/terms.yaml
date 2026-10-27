@@ -590,6 +590,14 @@
   status: locked
   entry: glossary/fuming-復命.md
 
+- term: "父 & 甫"
+  pinyin: "fù / fǔ"
+  render: "father"
+  forbidden: ["origin", "root"]
+  chapters: [42]
+  status: locked
+  entry: glossary/fu-父.md
+
 - term: "魄"
   pinyin: "pò"
   render: "aliveness"

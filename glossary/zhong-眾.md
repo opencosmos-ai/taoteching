@@ -40,7 +40,7 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 
 **Chapter 31 counts the dead.** 殺人之眾，以悲哀泣之 — *when the killed are many, weep for them in grief.* Here 眾 is predicative — *many* — and the line is one of the most humane in the book.
 
-**And twice 眾 modifies things, not people.** Chapter 1's 眾妙之門 (*the gate of all subtleties*) and Chapter 21's 眾甫 (*the origin of the many*). In both, "the crowd" would be absurd and **the many** or **all** is right.
+**And twice 眾 modifies things, not people.** Chapter 1's 眾妙之門 (*the gate of all subtleties*) and Chapter 21's 眾甫 (*the father of the many*). In both, "the crowd" would be absurd and **the many** or **all** is right.
 
 ### The lock: what is set aside, and why
 
@@ -55,7 +55,7 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 ### The working register
 
 - of people, as a body → **the crowd** (眾人熙熙 → "the crowd is merry"; 處眾人之所惡 → "where the crowd will not go")
-- of things, as a modifier → **all** or **the many** (眾妙之門 → "the gate of all subtleties"; 眾甫 → "the origin of the many")
+- of things, as a modifier → **all** or **the many** (眾妙之門 → "the gate of all subtleties"; 眾甫 → "the father of the many")
 - as a bare predicate → **many** (殺人之眾 → "when the killed are many")
 
 **Never** "the masses," "the multitude," and never the word that belongs to 民.

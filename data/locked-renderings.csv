@@ -358,9 +358,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 21,8,信,xìn,信,trust / trustworthy,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,精,jīng,精,vital essence / essence,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
-21,10,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"In this name, I observe the origin of the many."
-21,11,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the origin of the many is so? By this.
-21,11,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,How do I know the origin of the many is so? By this.
+21,10,甫,fǔ,父 & 甫,father,yes,1.0,authored,"In this name, I observe the father of the many."
+21,10,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"In this name, I observe the father of the many."
+21,11,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the father of the many is so? By this.
+21,11,甫,fǔ,父 & 甫,father,yes,1.0,authored,How do I know the father of the many is so? By this.
+21,11,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,How do I know the father of the many is so? By this.
 22,1,全,quán,全,whole · stay whole · keep whole (transitive),yes,1.0,authored,"Bend, and stay whole. Be wronged, and be made straight."
 22,1,曲,Qū,全,bend / bent,yes,1.0,authored,"Bend, and stay whole. Be wronged, and be made straight."
 22,7,一,yī,一,the one (lowercase) · plain numeral where it counts,yes,1.0,authored,Therefore the sage embraces one thing and serves as the world's pattern.
@@ -779,6 +781,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,7,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,8,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,I take this as the father of learning.
 42,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I take this as the father of learning.
+42,8,父,fù,父 & 甫,father,yes,1.0,exact-count,I take this as the father of learning.
 43,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
 43,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
 43,1,柔,róu,柔,soft,yes,1.0,exact-count,The softest thing in the world gallops over the hardest thing in the world.
