@@ -59,7 +59,7 @@
     "The Tao that can be made a way is not the ever-present Tao." Spoken gave
     way on 2026-10-14, and "into" was dropped on 2026-10-16.
   see: "chapters/001.md"
-  allow: ["source/archive-google-doc-final-export-*.md"]
+  allow: ["source/archive-google-doc-final-export-*.md", "process/back-translation/A_*.md"]
 
 - id: atlas-updates-within-the-hour
   retracted: 2026-10-17
