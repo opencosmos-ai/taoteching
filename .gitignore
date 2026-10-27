@@ -17,3 +17,6 @@ data/*.sqlite
 # regenerates on every glossary edit, and its diff would bury the CSV diffs it
 # is derived from. The CSVs are the record; this is a view of them.
 data/explorer.html
+
+# Python bytecode, written whenever tools/ runs
+__pycache__/
