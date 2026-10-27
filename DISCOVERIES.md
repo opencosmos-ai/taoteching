@@ -350,7 +350,7 @@ Three chapters close on the same seven-character formula, and the answer is iden
 |---|---|---|
 | Ch 54 | 吾何以知天下**然**哉？以此 | "How do I know the world is so? By this." |
 | Ch 57 | 吾何以知其**然**哉？以此 | "How do I know it is so? By this:" |
-| Ch 21 | 吾何以知眾甫之**然**哉？以此 | "How do I know the origin of the many is so? By this." |
+| Ch 21 | 吾何以知眾甫之**然**哉？以此 | "How do I know the father of the many is so? By this." |
 
 So the question Laozi asks about the world, about the origin of everything, and about his own claims is **not what a thing is, or what it looks like, or what it means. It is whether it is so.** And the answer is never revelation, authority, or inference from first principles. It is 以此 — **by this**: the present, the near, the thing in front of you.
 
@@ -364,8 +364,8 @@ So the question Laozi asks about the world, about the origin of everything, and 
 
 **The near-miss makes the point visible.** Our base text reads **狀** (*zhuàng* — **shape, form**) at Chapter 21 instead of 然, and 狀 was very nearly kept. Hear the difference:
 
-> *"How do I know the **shape** of the origin of the many?"* — a question about form. Metaphysics. Speculation.
-> *"How do I know the origin of the many **is so**?"* — a question about the case. Attention.
+> *"How do I know the **shape** of the father of the many?"* — a question about form. Metaphysics. Speculation.
+> *"How do I know the father of the many **is so**?"* — a question about the case. Attention.
 
 One word is the difference between a book that speculates about the structure of reality and a book that asks you to look at what is in front of you. **Four independent witnesses read 然** — both Mawangdui silks, the Song Heshang Gong edition, and the Siku Quanshu compilers' own note on the line, 〔案狀各本俱作然〕 (*"as for 狀, all editions read 然"*) — and 狀 occurs twice in the whole book against 然's twelve. The formula was there all along; our transcription had one word of it wrong.
 

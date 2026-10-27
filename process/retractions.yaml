@@ -183,3 +183,15 @@
     Silk A writes 邦 wherever the graph survives; silk B, copied under the Han
     taboo on Liu Bang's name, already writes 國. The chapter has nine 國.
   see: "notes/manuscript.md#ch-61-邦-國-the-han-name-taboo"
+
+- id: father-rendered-origin-or-root
+  retracted: 2026-10-26
+  claim: >
+    Ch 21's 眾甫 is "the origin of the many" and ch 42's 父 is "the root of
+    learning."
+  match: ["the origin of the many", "the root of learning", "the origin of the multitude"]
+  correction: >
+    甫 and 父 are one word, father: "the father of the many" (21) and "the
+    father of learning" (42), Shalom's call, 2026-10-26.
+  see: "glossary/fu-父.md"
+  allow: ["source/archive-google-doc-final-export-2026-08-09.md"]

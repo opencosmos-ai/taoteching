@@ -423,7 +423,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 珞,Luò,"stony (珞珞, common like stone)",word,,,,,2,1,39,39,39,0.38,
 琭,lù,"gleaming (琭琭, gleaming like jade)",word,,,,,2,1,39,39,39,0.38,
 甘,gān,sweet,word,,,,,2,2,"32,80",32,80,0.38,
-甫,fǔ,origin/father,apparatus,1/1,,,,2,1,21,21,21,0.38,
+甫,fǔ,father,locked,,father,locked,origin; root,2,1,21,21,21,0.38,glossary/fu-父.md
 甲,jiǎ,armor,word,,,,,2,2,"50,80",50,80,0.38,
 異,yì,am different,apparatus,1/1,,,,2,2,"1,20",1,20,0.38,
 疏,shū,hold off / wide-meshed (73),word,,,,,2,2,"56,73",56,73,0.38,
@@ -639,7 +639,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 燕,Yàn,Peacefully,apparatus,1/1,,,,1,1,26,26,26,0.19,
 營,yíng,housing,covers,,housing,locked,,1,1,10,10,10,0.19,glossary/po-魄.md
 爪,zhǎo,claw,word,,,,,1,1,50,50,50,0.19,
-父,fù,"father (學父, the father of learning)",word,,,,,1,1,42,42,42,0.19,
+父,fù,father,locked,,father,locked,origin; root,1,1,42,42,42,0.19,glossary/fu-父.md
 爽,shuǎng,dull/spoiled,apparatus,1/1,,,,1,1,12,12,12,0.19,
 牢,láo,"penned beast (太牢, a great feast)",word,,,,,1,1,20,20,20,0.19,
 犬,quǎn,dog,word,,,,,1,1,80,80,80,0.19,

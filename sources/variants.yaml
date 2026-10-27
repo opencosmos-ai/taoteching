@@ -262,11 +262,12 @@
   base: "甫"
   witnesses: { mawangdui-a: "父", mawangdui-b: "父" }
   meaning_bearing: true
-  our_call: base
+  our_call: mawangdui-a
   note: >
-    Open since 2026-10-26. 甫 (beginning) gives our "origin." Ch 42 now reads
-    父 as "father" (Shalom's call), so the silks' 眾父 would read "the father
-    of the multitude." WORKLIST.md T4-10.
+    RESOLVED 2026-10-26, Shalom's call — we follow 父: "the father of the
+    many." 甫 and 父 are one word in two spellings (Heshang Gong glosses both
+    始, "beginning"), and ch 42 reads 父 as "father." The base text keeps 甫;
+    only the translation follows the silks. glossary/fu-父.md.
   logged: notes/manuscript.md
 
 - chapter: 21
@@ -283,7 +284,7 @@
     狀 breaks it. Then: both Mawangdui silks read 然, the Song Heshang Gong
     edition reads 然, and the Siku compilers' own note on this line reads
     〔案狀各本俱作然〕, "for 狀, all editions read 然". Rendered "How do I know
-    the origin of the many is so?", which lets a reader hear the formula in all
+    the father of the many is so?", which lets a reader hear the formula in all
     three chapters. The base text and Source table keep 狀; only the
     translation follows the witnesses, as at Ch 41, 42, 47 and 53.
   logged: notes/manuscript.md

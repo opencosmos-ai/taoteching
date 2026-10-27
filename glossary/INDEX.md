@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**67 entries.** Sorted by how much of the book each term touches.
+**68 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -77,6 +77,7 @@ python3 tools/build_index.py
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |
 | **復命** | *fù mìng* | returning to what is given | "returning to destiny", "restoring destiny", "returning to fate", "the mandate", "returning to what was given" | 1 | **locked** | [`fuming-復命.md`](fuming-復命.md) |
+| **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 1 | **locked** | [`fu-父.md`](fu-父.md) |
 | **魄** | *pò* | aliveness | "soul", "spirit", "life force", "life-force", "lifeforce", "vigor" | 1 | **locked** | [`po-魄.md`](po-魄.md) |
 
 ## Secondary characters

@@ -167,7 +167,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 熒,,,phonetic,"no gloss needed: present for sound, not meaning",2,"榮,營"
 爿,,,phonetic,"no gloss needed: present for sound, not meaning",2,"壯,狀"
 用,yòng,use,semantic,glossed,2,"周,甫"
-甫,fǔ,origin/father,phonetic,glossed,2,"補,輔"
+甫,fǔ,father,phonetic,glossed,2,"補,輔"
 甬,,,phonetic,"no gloss needed: present for sound, not meaning",2,"勇,通"
 田,tián,field,semantic,glossed,2,"當,里"
 申,,,phonetic,"no gloss needed: present for sound, not meaning",2,"神,陳"
@@ -458,7 +458,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 爭,zhēng,contend / contention,phonetic,glossed,1,靜
 爯,,,phonetic,"no gloss needed: present for sound, not meaning",1,稱
 爲,,,phonetic,"no gloss needed: present for sound, not meaning",1,偽
-父,fù,"father (學父, the father of learning)",phonetic,glossed,1,甫
+父,fù,father,phonetic,glossed,1,甫
 爾,,,phonetic,"no gloss needed: present for sound, not meaning",1,彌
 片,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,牖
 牙,,,phonetic,"no gloss needed: present for sound, not meaning",1,邪

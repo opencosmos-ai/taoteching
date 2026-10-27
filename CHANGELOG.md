@@ -33,6 +33,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-26 — The father of the many, and one entry for the father
+
+Shalom found the father hidden in two chapters and asked what separates ch 21's 甫 (*fǔ* — a man's honorific) from ch 42's 父 (*fù* — father). Nothing does: they are one word in two spellings. Both Mawangdui silks write 父 in ch 21, the two sounded nearly alike, and Heshang Gong glosses both in the same words, 始也 (*shǐ yě* — "means beginning").
+
+- **Ch 21: *"In this name, I observe the father of the many."*** *(was: "the origin of the many.")* Closes `WORKLIST.md` T4-10. The base text keeps 甫, and only the English follows the silks, as at ch 42. Shalom weighed changing the Chinese itself and kept it: the same rule would take the silks' 順 (*shùn* — follow) for 閱 (*yuè* — observe) in the same line, and the base stays one recension. [`chapters/021.md`](chapters/021.md).
+- **New entry: [`glossary/fu-父.md`](glossary/fu-父.md)**, both characters in one lock, *father*, with *origin* and *root* forbidden. At Shalom's ask it records that the first version rendered *origin* and *root*, and that the father was restored for Laozi's wording and so that standing rule 1, written to protect the feminine, is not used to erase a masculine the text names on purpose. That history in an entry is a call, recorded in `process/shaloms-call.md`.
+- **Swept:** the 眾 (*zhòng* — the many) and 自然 (*zìrán* — so of itself) entries, `DISCOVERIES.md` §2, `notes/translation.md`, `notes/manuscript.md`, `process/form-audit.md` and the variant records. 父 leaves `sources/word-glosses.yaml`, since its entry now supplies its English. The old English is registered in `process/retractions.yaml`.
+- **Standing rule 1, widened to its aim** (Shalom's call): *the end of all subordination, not the masculine put under the feminine.* A fourth part, *the male the text names stays named*, keeps the rule from reaching 父 (*fù* — father), 牡 (*mǔ* — the male) or 雄 (*xióng* — the rooster). The same limit is written into `process/method.md`, the universalize principle and the chapter-review skill.
+
 ## 2026-10-26 — Mother and father, as the Chinese says them
 
 Shalom asked that the female and hen entries stop saying *sex*. The Shuowen (the Han dictionary) says neither *sex* nor *gender*: it defines 牝 (*pìn* — the female) as 畜母 (*chù mǔ* — "the mother among livestock") and 雌 (*cí* — the hen) as 鳥母 (*niǎo mǔ* — "the mother among birds"). His rule: 母 (*mǔ* — mother) is *mother* wherever it stands, and 父 (*fù* — father) is *father*.

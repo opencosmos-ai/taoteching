@@ -593,13 +593,13 @@ The middle of Chapter 21 is one continuous structure and the English had dissolv
 
 *Worth noticing, and left in the reading notes rather than the verse: the darkest word in the stanza, 冥 (míng — dim, obscure), is a homophone of 明 (míng — clear-seeing), the book's word for sight that is unobstructed. The chapter finds the real thing at the bottom of the dim.*
 
-#### 以閱眾甫 → "In this name, I observe the origin of the many"
+#### 以閱眾甫 → "In this name, I observe the father of the many"
 
-*(was: "the unerasable source code of all creation")*
+*(was: "the unerasable source code of all creation"; then "the origin of the many" until 2026-10-26, when Shalom restored the father: `glossary/fu-父.md`)*
 
 The old rendering carried our own besetting temptation, the **mechanistic** — and almost certainly inherited it from `process/legacy-tao-source-code.md`, whose framework is superseded. Three things were wrong with it.
 
-**"Source code" adds what the Chinese refuses.** 眾甫 (*zhòng fǔ*) is *the origin of the many*: 甫 is a **seedling in a field**, borrowed early as a respectful word for a man and so *father / beginning / that from which things come*. Code is **written, by someone**, which reinstalls the author the chapter is at pains to leave out, and it **executes deterministically**, where a seedling unfolds. Both imports are exactly backwards.
+**"Source code" adds what the Chinese refuses.** 眾甫 (*zhòng fǔ*) was rendered *the origin of the many* (formerly; *the father of the many* since 2026-10-26): 甫 is a **seedling in a field**, borrowed early as a respectful word for a man and so *father / beginning / that from which things come*. Code is **written, by someone**, which reinstalls the author the chapter is at pains to leave out, and it **executes deterministically**, where a seedling unfolds. Both imports are exactly backwards.
 
 **閱 (*yuè*) is *to observe*, not *to be*.** The old line said the Tao **is** the origin; the Chinese says the persisting name is what lets you **see** the origin. A different and much smaller claim, and the honest one. *(Heshang Gong dissents, glossing 閱 as 稟 — to bestow — so that the Tao confers on the many and the question becomes how one knows they receive 氣 from it. We decline: that reads a Han cosmology of qi-transmission back into the line, and the closing question is explicitly epistemic — 何以**知**.)*
 
@@ -607,17 +607,17 @@ The old rendering carried our own besetting temptation, the **mechanistic** — 
 
 **And "the many," not "the countless things."** 眾 (*zhòng*) is not 萬物, and 萬物 does not occur in this chapter. Borrowing the 萬物 lock here would repeat the error just corrected in Ch 23, where 信 had been given 德's locked word. Elsewhere 眾 is rendered *all* (Ch 1's "the gate of all subtleties") and *the crowd* (Ch 20), so "the many" is in register. **"I," not "we,"** because the chapter's voice is 吾 (*wú* — the self *seeing*), which the next line makes explicit.
 
-#### 吾何以知眾甫之狀哉 → "How do I know the origin of the many is so?"
+#### 吾何以知眾甫之狀哉 → "How do I know the father of the many is so?"
 
 *(was: "…the origin of the many?", with the contested word untranslated)*
 
-The line's last content word is contested. Our base text reads **狀** (*zhuàng* — shape, form, condition); four older sources read **然** (*rán* — so, thus, that it is so). The English had rendered **neither**, asking simply "How do I know the origin of the many?" — which is why nothing had broken: the line was true under either reading, and silently so.
+The line's last content word is contested. Our base text reads **狀** (*zhuàng* — shape, form, condition); four older sources read **然** (*rán* — so, thus, that it is so). The English had rendered **neither**, asking simply "How do I know the origin of the many?" (formerly its English for 眾甫; *the father of the many* since 2026-10-26) — which is why nothing had broken: the line was true under either reading, and silently so.
 
 **We follow 然, and the decisive argument is not a manuscript one.** 狀 occurs **twice** in the whole book (here, and Ch 14's 無狀之狀, "the shape of no-shape"). 然 occurs **twelve** times. And 吾何以知…然哉？以此 is a **fixed closing formula**:
 
 > Ch 54 · 吾何以知天下**然**哉？以此 — *"How do I know the world is so? By this."*
 > Ch 57 · 吾何以知其**然**哉？以此 — *"How do I know it is so? By this:"*
-> Ch 21 · 吾何以知眾甫之**然**哉？以此 — *"How do I know the origin of the many is so? By this."*
+> Ch 21 · 吾何以知眾甫之**然**哉？以此 — *"How do I know the father of the many is so? By this."*
 
 **然 completes the formula; 狀 breaks it.** Three chapters ask one question and answer it one way, and the English now lets a reader hear that.
 

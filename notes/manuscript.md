@@ -238,7 +238,7 @@ Our base reads 道之**為**物，惟恍惟惚. Both Mawangdui silks read **道�
 
 Our base reads 自**古**及**今** ("from ancient times until today"). **Both Mawangdui silks** read 自**今**及**古** ("from **now back to** antiquity"). **We keep the base text**, and log the fork because it is genuinely meaning-bearing: it reverses the direction of the inquiry. Mawangdui makes the chapter *start* from the present and trace backward; Wang Bi makes it *arrive* at the present. We render the arrival — the line ends on "today," and the closing "By this." completes the movement toward the reader, which is the movement of the whole chapter. *(That closing line read "By this, here, now" until 2026-08-30; the movement survives the trim, because the arrival is carried by "today," not by the demonstrative.)*
 
-The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and 甫/父 is open. 甫 (*fǔ* — beginning) gives our *origin*, but since 2026-10-26 ch 42 reads 父 (*fù* — father) as *father*, so the silks' 眾父 (*zhòng fù*) would read *"the father of the multitude."* `WORKLIST.md` T4-10.
+The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and on 甫/父 we follow the silks, **resolved 2026-10-26, Shalom's call**. 甫 (*fǔ* — a man's honorific) and 父 (*fù* — father) are one word in two spellings, so ch 21 reads *"the father of the many"* as ch 42 reads *"the father of learning."* The base keeps 甫. `glossary/fu-父.md`.
 
 #### 眾甫之狀 / 眾甫之然 — **resolved 2026-08-11: we follow 然**
 
