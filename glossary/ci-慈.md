@@ -59,7 +59,7 @@ The claim is not that gentleness is secretly strong. It is that **courage withou
 
 **The unnamed thing survives the removal of the named one.** That is the chapter's whole mechanism, and it only reads if 仁 and 慈 take clearly different English.
 
-### Never
+### What is set aside
 
 **compassion.** Suffering-with, and Buddhist in English. 慈 is 愛 — the heart growing toward — and it has to produce 勇 (*yǒng* — courage) at ch 67.
 
@@ -69,7 +69,7 @@ The claim is not that gentleness is secretly strong. It is that **courage withou
 
 **filial piety** for 孝. A Victorian sinology compound that names an institution and a duty; the graph shows a child taking an elder's weight. And in both places 孝 occurs it is bonded to 慈, so it never has to carry the direction alone.
 
-### What stays open
+### Left open
 
 **Whether tenderness can survive being the first treasure.** English treats tenderness as a mood — something felt, and usually briefly. 慈 at ch 67 is closer to a **stance you fight from**, and the entry's own argument leans on a parent's ferocity to make that plausible. It is plausible. It is not obvious, and a reader who has not been handed the graph may hear only softness.
 

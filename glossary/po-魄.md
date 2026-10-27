@@ -97,7 +97,7 @@ Five things follow. 魄 is **first**, the life a person has before anything else
 
 **"body"** and **"flesh"**: *body* is 身's (13, 54, 76), and *flesh* is Pauline, Romans 8, the hymn test.
 
-### The working register
+### Working register
 
 One occurrence, a noun, the object of 載 (*zài* — to carry, to ride, to dwell in). The two characters before it are rendered together by one verb:
 
@@ -114,6 +114,6 @@ One occurrence, a noun, the object of 載 (*zài* — to carry, to ride, to dwel
 
 **The ghost.** Aliveness ends at death; the 魄 does not. 子產's whole point is that a strong 魄 can outlast the person: the 禮記 sends it into the ground with the body, and it is what lingers at the tomb. The English keeps the living half of the word and drops the half that goes into the earth, and it has to, because the only English that keeps both is *soul*. Laozi's line is about a living person keeping two things from parting, so the ghost is offstage. It is not gone.
 
-**Whether 白 carries meaning.** 說文 says sound. The 霸 word family and a Han pun say more. 明白 (*míng bái* — clarity) stands four lines below in this chapter, and `WORKLIST` T2-23 already asks whether that compound is bound. Whether the chapter hears 魄 and 明白 together is a reason to look and not a reading (`process/principles/distribution-locates.md`).
+**Whether 白 carries meaning.** 說文 says sound. The 霸 word family and a Han pun say more. 明白 (*míng bái* — clarity) stands four lines below in this chapter, and that compound is bound, to *clarity* (`glossary/ming-明.md`; `WORKLIST-CLOSED.md` T2-23). Whether the chapter hears 魄 and 明白 together is a reason to look and not a reading (`process/principles/distribution-locates.md`).
 
 **The direction of 載.** 王弼 has the person inside the 營魄; 王逸 and 河上公 have the person holding it. The verse follows the second. 王弼 is the commentator this edition most often follows, and here it does not.

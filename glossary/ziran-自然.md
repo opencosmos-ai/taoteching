@@ -21,7 +21,7 @@ The **obvious** danger is "Nature." In modern Chinese 自然 does mean *nature* 
 
 The **quieter** danger is inconsistency. 自然 appears only five times, and if each is rendered to suit its local sentence, the term goes **invisible** — a reader cannot see that five passages are saying one thing when the English never repeats. Rare words need consistent rendering more than common ones do, not less.
 
-### The characters, read slowly — a nose, and a fire
+### The graph: a nose, and a fire
 
 **自** (*zì*) is a **nose**. The oracle-bone graph draws one, and the *Shuowen Jiezi* says so flatly: 自，鼻也 — "*zì*: the nose; a picture of a nose." The meaning *self* came from the gesture, and the gesture survives: a Chinese speaker indicating themselves points not at the chest, as Europeans do, but at the **nose**. The word for "self" is the part of you that you point at.
 
@@ -111,7 +111,7 @@ This entry locked **"the self-so"** from its writing until 2026-08-24, and the c
 
 **What is kept is the analysis, which was right and which produced the answer**: the nose, the roasting-fire borrowed for its sound, and the 吾何以知…然哉 formula. Retiring the calque in fact makes that analysis *audible in the verse for the first time*. The claim of `DISCOVERIES.md` §2 is that 然 means **so** — and *things go of themselves*, *always so of itself*, *so of themselves* all say **so**. A hyphen had buried it.
 
-### What we set aside
+### What is set aside
 
 **"The self-so."** Forbidden. A calque that names a thing where the Chinese and both commentators refuse to. Retained nowhere.
 
@@ -125,7 +125,7 @@ This entry locked **"the self-so"** from its writing until 2026-08-24, and the c
 
 **And any systems rendering** — 自然 as autonomy, self-organization, frictionless process. A self-organizing system is still a *system*, still designed, still explained from the outside. 自然 is precisely the refusal of an outside explanation.
 
-### The working register
+### Working register
 
 **The rule: 自然 is rendered as a movement, never as a name.** Four of the five occurrences are adverbial and take the plain English; the fifth is the exception, and it is an exception in the direction of *less* noun, not more.
 
@@ -152,7 +152,7 @@ Watts did more than almost anyone to bring this idea into English, and his centr
 
 Two honest boundaries. Watts's work remains **in copyright** (he died in 1973), so we do not draw on his phrasing, only note the affinity — the same rule that governs our use of any modern interpreter. And he was a popularizer with a Zen-inflected ear; where his emphasis and the classical Chinese diverge, the characters decide.
 
-### The tension, left open
+### Left open
 
 If everything is self-so, why does the book need to be written?
 

@@ -20,7 +20,7 @@ Render 明 as *enlightenment* and you hand the reader a whole cosmology they did
 
 The early draft of this glossary put it better than most translations manage: **"You don't ascend; you just stop being blind."** That instinct was right, and the evidence supports it overwhelmingly.
 
-### The character, read slowly — moonlight through a window
+### The graph: moonlight through a window
 
 In its modern form 明 is 日 (*rì* — sun) beside 月 (*yuè* — moon): the two lights of the world, together. A satisfying image, and not wrong.
 
@@ -58,7 +58,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear Tao seems murky.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
 
-### The lock: why not "enlightenment" or "illumination"
+### What is set aside: why not "enlightenment" or "illumination"
 
 **"Enlightenment"** imports a Buddhist and New Age structure — *awakening*, ascent, a threshold crossed, a self transformed into a higher kind. Laozi has no such architecture. There is no attainment, no realized state, no before-and-after. There is a person who has stopped displaying themselves and can therefore see the small thing in front of them. The word also carries the European Enlightenment as a second ghost — reason, progress, the dispelling of superstition — which is if anything further off.
 
@@ -68,7 +68,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **"Wisdom"** belongs to a different character — 智 (*zhì*), which Chapter 33 explicitly ranks *below* 明.
 
-### The working register
+### Working register
 
 明 flexes by grammar; keep it inside one image — *sight that is unobstructed*:
 
@@ -83,7 +83,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 *Why this stays prose in `render:` and is not a `flexions:` entry.* The variation here is **grammatical, not chapter-scoped** — 明 takes the predicate form wherever it predicates, which happens at 22, 24 and 33 (47 left 明 for the received 名 on 2026-09-24), and would take it in a chapter nobody has written yet. `flexions:` exists for a licence tied to a named place, and its `flexion-chapter` rule checks exactly that; pinning a grammatical form to a chapter list would assert a condition the language does not have. See `process/skills/glossary-entry/SKILL.md` §4.
 
 
-### The tension, left open
+### Left open
 
 One chapter uses 明 against everything above, and honesty requires flagging it rather than smoothing it.
 

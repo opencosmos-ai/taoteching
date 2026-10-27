@@ -29,7 +29,7 @@ The chapter is not about being mended. It is about **not getting broken in the f
 
 To *restore* is to bring something back to a former condition, which presupposes the loss. It is *make whole* with better manners. Under this lock, neither can stand.
 
-### The character, read slowly — a piece of jade brought in whole
+### The graph: a piece of jade brought in whole
 
 全 is **入** (*rù* — to enter, to bring in) over **玉** (*yù* — jade), written 王 with its dot dropped. The picture is **a piece of jade carried in unbroken.**
 
@@ -56,7 +56,7 @@ That seals the pair inside one chapter and makes it a self-contained argument. I
 
 The book thinks about integrity in **objects** — jade, jars, timber. 全 belongs in that company and should be rendered from it.
 
-### The lock: what is set aside, and why
+### What is set aside, and why
 
 **"Complete"** belongs to **成** (*chéng*), which runs through fourteen chapters, and the two are not synonyms. *Complete* means **finished**; 全 means **undamaged**. A thing can be whole and unfinished — Chapter 41 insists on it: 大器晚成 (*dà qì wǎn chéng* — *"the great vessel is never completed"*). The book is openly suspicious of completion. It is not suspicious of wholeness.
 
@@ -80,7 +80,7 @@ The book thinks about integrity in **objects** — jade, jars, timber. 全 belon
 
 *Bend* also keeps the physical gesture the chapter needs, because the four opening lines are all bodily: bent, wronged-and-straightened, hollowed, worn out.
 
-### The working register
+### Working register
 
 - as the outcome of the 則 (*zé* — then, thus) construction → **stay whole** (曲則全 → *"Bend, and stay whole"*)
 - as a transitive act, chiefly in the commentaries → **keep whole** (全其身 → *"keep their body whole"*)
@@ -89,7 +89,7 @@ The book thinks about integrity in **objects** — jade, jars, timber. 全 belon
 
 **Never** *complete*, *perfect*, *flawless*, or any verb that implies the thing was broken first.
 
-### The tension, left open
+### Left open
 
 **Why does a word this load-bearing appear in one chapter and nowhere else?**
 

@@ -72,14 +72,14 @@ The compound at Chapter 16 — 是謂復命，復命曰常 — is treated in **`
 
 **"the system's command"** — the Source table's literal gloss, and mechanistic in the way `CLAUDE.md` names as this edition's besetting temptation.
 
-### The working register
+### Working register
 
 | Form | Chapters | English |
 |---|---|---|
 | 命 as a negated verb | 51 (莫之命) | *(unsettled — must not be* command*, which is 令's at ch 32)* |
 | 復命, the compound | 16 ×2 | *(unsettled — see below)* |
 
-### The tension, left open
+### Left open
 
 **Chapter 16's line is settled.** 是謂復命，復命曰常 → *"returning to what is given"* — present tense, giver present but unnamed. The four candidates it beat, and why, are in `fuming-復命.md`.
 

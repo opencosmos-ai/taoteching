@@ -85,7 +85,7 @@ To that writer, 聖 and 智 are two ways of knowing: one by the ear, one by the 
 
 Both classical commentators say which sagehood is meant. 河上公: 絕聖制作，反初守元。五帝垂象，蒼頡作書，不如三皇結繩無文, *"cut off the sages' making of things, return to the beginning and keep to the origin. The Five Emperors hanging out their images and Cāngjié creating writing are not as good as the Three August Ones' knotted cords, with no writing at all."* 王弼: 聖智，才之善也, *"sagehood and knowing are the best of talent."* The 莊子 (*Zhuāngzǐ*, 胠篋) uses the same four characters for the same target: 聖人不死，大盜不止…故絕聖棄知，大盜乃止, *"while the sages do not die, the great thieves do not stop… so cut off sagehood, discard knowing, and the great thieves stop."* In every reading, what is cut is sagehood as an institution: the inventor, the founder, the one whose tools a thief can take. *Sagehood* names that status and that role. *Sageliness*, a manner or a demeanour, does not.
 
-### Set aside
+### What is set aside
 
 **holy · saint · blessed.** 聖 became the word for *holy* when the nineteenth-century Bible translators chose it for that. The English Laozi then read that choice back into the original: Paul Carus's *"the holy man"* (1898), and Stephen Mitchell's chapter 19, *"throw away holiness and wisdom."* Chapter 19 shows the cost. A book that praises *the holy man* in twenty-five chapters and says *throw away holiness* in one becomes an attack on religion. The Chinese is an attack on founders and their inventions. This is the first entry on the overlay watchlist (`CLAUDE.md`, `process/overlay-audit.md`).
 
@@ -119,7 +119,7 @@ Both classical commentators say which sagehood is meant. 河上公: 絕聖制作
 
 **The capital is held, by a different rule.** *Sage* and *Master* capitalised mid-sentence are caught by the `devotional-capitalization` rule, which maps both to 聖. That is why *"the Sage"* and *"the Master"* are not repeated on this list.
 
-### What stays open
+### Left open
 
 **The ear is in the graph and nowhere in the English, and the book itself is uneasy about ears.** The character for the sage is a picture of acute hearing. Yet in this book:
 - *the five tones make the ears deaf* (12), in the same chapter where the sage *acts for the belly, not for the eye*;

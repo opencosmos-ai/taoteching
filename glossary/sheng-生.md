@@ -13,7 +13,7 @@ pairing: false
 
 生 is the verb of the Tao's deepest act. It is what the Tao *does* to the world — 道生一 (42), 道生之 (51) — and what the sage is asked to do while claiming nothing: 生而不有. Almost every translator reaches, sooner or later, for "generate," "produce," or "create," and each of those performs the same quiet violence: it turns a *birth* into a *manufacture*. The stakes are larger than a word. To render 生 as *making* rather than *bearing* is to lose the feminine-generative essence at the very heart of the Tao — the mother the whole book is built around. This entry exists to keep her.
 
-### The character, read slowly
+### The graph
 
 生 is a sprout. The oldest forms draw a young plant (屮) pushing up through the line of the earth (一) — new growth breaking the surface. That one image is the whole word: to come up, to come forth, to be born, to live. And it is so fertile that it seeds the language itself. 性, one's inborn nature, is 心 + 生 — the heart's own growth. 星, a star, hides 生 inside it. And — this is the one to hold onto — **姓, the word for a family name, is 女 + 生: *woman* and *birth*, "born-of-woman."** In archaic China the oldest surnames were reckoned through the mother, and many still carry the 女 radical in their bones (姜, 姬, 姒). So at the very root of 生 sits the plainest fact of the feminine: life comes forth from her. Lineage itself was once counted from the one who gives birth.
 
@@ -25,11 +25,11 @@ Follow 生 through the text and you are following the mother. Laozi's cosmos is 
 
 And here is the deepest thing 生 carries, the thing no "create" can hold. **The mother gives birth and lets go.** 生而不有 — she brings forth, but does not possess; 長而不宰 — she fosters, but does not rule. The child was never hers to keep. This is why 生 and 玄德 (Profound Integrity) are one teaching seen twice: to bear truly *is* to release. A maker owns what they make — *my creation*. A mother knows the life came *through* her, not *from* her, and belongs to itself. That releasing is the entire ethic of the book pressed into a single verb — and it evaporates the instant 生 becomes "produce."
 
-### What we set aside
+### What is set aside
 
 So we set aside **"generate"** — it hums with the mechanical and the electrical, turbines rather than wombs. And we set aside **"create,"** gently, because a *creator* is an author, and an author's shadow is ownership — the very possession 不有 dissolves. Both are defensible; both quietly re-import the maker-God or the engineer, the frame Laozi's razor is precisely cutting away. His cosmogony is gestation, not construction. The world was not fashioned. It was *borne*.
 
-### The working register
+### Working register
 
 生 will not hold still as one English word — it flexes by grammar, and we let it, so long as it never leaves the *organic* register:
 
@@ -39,7 +39,7 @@ So we set aside **"generate"** — it hums with the mechanical and the electrica
 
 One register — sprouting, bearing, alive — and one standing prohibition: **never "manufacture," never "generate."** The word must stay warm.
 
-### The tension, left open
+### Left open
 
 Two honesties, so this doesn't harden into dogma.
 

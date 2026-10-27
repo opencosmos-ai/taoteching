@@ -24,7 +24,7 @@ In modern English, *he did not dare* means **he was afraid**. Chapter 73 says th
 
 There is a **courage of not-敢**. Whatever English carries the word must be able to be brave. *Not daring* cannot: it makes the third of Chapter 67's three treasures sound like timidity, in a chapter that two lines earlier says 慈故能勇 — *"tenderness, and so you can be brave."*
 
-### The character: a hand, a weapon, and a boar
+### The graph: a hand, a weapon, and a boar
 
 The oracle-bone accounts read 敢 as **a hand holding a hunting implement, going after a wild boar** (豕, *shǐ*). Its oldest sense is *to hunt, to pursue*. The *Shuowen Jiezi* keeps that and abstracts it slightly: 敢，**進取**也 — *"敢 is to advance and take."*
 
@@ -89,7 +89,7 @@ Host against guest is a question of **propriety** — who presides, who defers �
 
 **不敢為 is rendered as a unit at Chapter 64.** *"And never pushes them"* carries 敢為 in one verb rather than splitting it, because English *push to handle* will not stand. The chapter's contrast survives intact and is sharper for it: 輔 (*fǔ*) is the spare timber lashed alongside a cart-wheel to brace it, and a brace holds from the side where a push moves from behind. **Support them; do not push them.**
 
-### What stays open
+### Left open
 
 **Whether Chapter 73's one affirmative 敢 wants a different word.** Nine of the ten occurrences are negated; the exception is 勇於**敢**則殺，勇於不敢則活 — *"courage in 敢 kills; courage in not-敢 lives."*
 

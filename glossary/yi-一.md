@@ -16,7 +16,7 @@ pairing: false
 
 **Locked: 一 → "the one," lowercase — and at Chapter 22, "one thing."** *(Never "the One," never "Oneness," never "the Absolute.")*
 
-### The character, read slowly — there is nothing to read
+### The graph: there is nothing to read
 
 一 is a single horizontal stroke. It is not a pictograph. Nothing is depicted, no radical is combined, no sound is borrowed. It is the mark you make when you have counted to one.
 
@@ -84,7 +84,7 @@ Even at ch 39, 一 is what a thing holds to in order to be *itself* — 天得�
 
 **抱一 is the cure for 博.** The two ends of the book are one argument, and 一 is the hinge.
 
-### The working register
+### Working register
 
 - default → **the one**, lowercase (抱一 → "embraces the one"; 得一 → "attained the one")
 - ch 22 only → **one thing** (抱一 → "embraces one thing"), licensed by the 少/多/一 sequence

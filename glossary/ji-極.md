@@ -68,7 +68,7 @@ What is left is a better difficulty, and a real one. **The verb is a travelling 
 
 **utmost** — belongs to 至 (*zhì* — to arrive at), which carries it twice in chapter 55: 精之至也 and 和之至也, *"vital essence at its utmost," "harmony at its utmost."*
 
-### The working register
+### Working register
 
 **極 flexes by grammar, and the flexions are not interchangeable.**
 
@@ -81,7 +81,7 @@ What is left is a better difficulty, and a real one. **The verb is a travelling 
 
 **The line-final position at chapter 16 is grammatical, not decorative.** 致虛極 and 守靜篤 (*shǒu jìng dǔ* — "hold to stillness, 篤") are the same three-beat shape twice: verb, object, terminal degree word. 篤 (*dǔ* — steady; 說文 馬行頓遟, *"a horse's gait, halting and slow"*) cannot be a noun head — nobody arrives at the thickness of stillness — so 極 in the matching slot is doing the same adverbial work. 王弼 confirms it from the other side by binding the two into a single compound across both lines: 言致虛，物之極篤 — *"reaching emptiness is things' 極篤"* — and again 是物之極篤也. He can only pair them if they are the same kind of word.
 
-### The tension, left open
+### Left open
 
 **Chapter 68's 古之極 is the one appearance this entry cannot place.** 是謂配天，古之極 — *"this is called being 配 (pèi — matched, as one of a pair) with 天 (tiān — sky), the 極 of the ancients."* It is not a process whose end is unknowable, and it is not adverbial. It reads as *the far point the ancients reached*, which is exactly the graph — but that line is already contested at 配天, and settling one half would settle both. *(See `tian-天.md`.)*
 

@@ -33,7 +33,7 @@ Both destroy the line, and for the same reason. **They treat the sentence as a c
 
 ---
 
-### The character: a calyx, a fire, or a pivot — but not a person
+### The graph: a calyx, a fire, or a pivot — but not a person
 
 **說文解字 (c. 100 CE) is wrong here, and the reason it is wrong is the whole story in miniature.** Xu Shen gives 諦也，王天下之號也。从丄，朿聲 — *"帝 means 諦 (*dì* — to scrutinize); the title of one who rules the world. From 丄 (the archaic 上, 'above'), with 朿 (*cì* — a thorn) as sound."* Modern palaeography rejects that analysis. **By Xu Shen's day 帝 had meant *emperor* for three centuries, and he read the graph backwards from the word he knew.** The dictionary that preserves the oldest Chinese lexicography had already lost this one to the political meaning.
 
@@ -155,7 +155,7 @@ The **Term Question** was the long dispute over which Chinese word would be cons
 
 ---
 
-### The working register
+### Working register
 
 **帝 → "god," and at its one occurrence, *any god*.** No flexion, no sweep. The whole weight falls on three characters:
 
@@ -166,7 +166,7 @@ The **Term Question** was the long dispute over which Chinese word would be cons
 
 ---
 
-### What stays open
+### Left open
 
 **Whether to name him at all.** *"before Dì"* would treat 帝 as we treat 道 — an untranslated proper name, glossed once. It is honest about how much is contested, and it refuses to decide for the reader. It is also opaque, and it asks someone who has met one Chinese word to meet a second by Chapter 4. **Recommended against, without confidence.**
 

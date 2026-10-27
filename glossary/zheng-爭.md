@@ -22,7 +22,7 @@ First, it imports an institution. Competition in English is **rule-governed riva
 
 Second, and fatally, it collapses at the one line where the book distinguishes 爭 from winning.
 
-### The character is two hands and one object
+### The graph: two hands and one object
 
 爪 (*zhǎo*) sits on top — a hand, turned down, fingers grasping. 彐 sits beneath it — a second hand, coming from the other direction. Between them, in the oldest forms, is the thing: a vertical stroke that survives in the modern character as the hook down its middle. Some read it as a plowshare, gripped from both sides.
 
@@ -120,7 +120,7 @@ The **noun** is the pressure point. English has no clean nominal for the act —
 
 So the rendering trades the fingernails for the distinction, and the distinction is worth more. But the loss is real, and a reader who wants the character rather than the word should keep the two hands in view.
 
-### What stays open
+### Left open
 
 **Whether non-contention is an ethic or a tactic.** The book will not say, and two chapters make the question sharp:
 

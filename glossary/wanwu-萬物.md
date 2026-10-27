@@ -16,7 +16,7 @@ covers:
 
 **Locked: 萬物 → "the countless things."** *(Not "the ten thousand things," not "all things," not "beings.")*
 
-### The characters, read slowly — a scorpion and a mottled ox
+### The graph: a scorpion and a mottled ox
 
 **萬** is a **scorpion**. The oracle-bone graph draws one, pincers and tail, and it was borrowed purely for its *sound* to serve as the number ten thousand. The insect meaning went elsewhere; the number stayed. This matters more than it seems: **the quantity is a phonetic accident.** Laozi did not choose a figure. There is no census in this word.
 
@@ -62,7 +62,7 @@ The same reasoning that settled 無為 → *non-doing*. **"Innumerable" is Latin
 
 The stronger objection is **rhythm**, since this term recurs twenty times: 萬物 is two characters, and "innumerable things" is six syllables doing what the Chinese does in two. *"The mother of the countless things"* against *"the mother of the innumerable things"* — the second clunks where the first should sing. "Innumerable" also carries a faintly mathematical air, the word for a proof rather than a poem.
 
-### The working register
+### Working register
 
 - **萬物** → **the countless things** (道生之 → "the Tao gives birth to the countless things")
 - **物** alone, of the manifest world → **things** (夫物芸芸 → "the things in their teeming growth"; 物壯則老 → "things at their peak of strength decay")
@@ -81,7 +81,7 @@ The stronger objection is **rhythm**, since this term recurs twenty times: 萬�
 Let those drift and no choice of noun will save the passage; hold them and the scorpion and the ox both survive.
 
 
-### The tension, left open
+### Left open
 
 One honesty. If 物 reaches from grasses to the Tao itself — 有物混成, *something mixed and complete* — then the word is doing something English cannot quite follow. It is not a category ("objects") but closer to *whatever can be pointed at*, including what has no form to point at.
 

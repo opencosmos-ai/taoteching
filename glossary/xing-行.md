@@ -81,7 +81,7 @@ The same sense stands at 24 (跨者不行, *get nowhere*), 33 (強行者, *force
 
 **"deeds," "works."** King James English, *"by their works"*. Both fail the hymn test, and both count things done where 行 is a way of going.
 
-### The working register
+### Working register
 
 | Grammar | English | Lines |
 |---|---|---|

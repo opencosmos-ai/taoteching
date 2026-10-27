@@ -17,7 +17,7 @@ For two thousand years, readers have taken 無為 to counsel withdrawal — sit 
 
 The text says something much stranger and much more demanding.
 
-### What it is built from
+### The graph: what it is built from
 
 **無** (*wú*) is absence — *not have, without, there is no*. **為** (*wéi*) is the subject of its own entry, and everything here depends on it: 為 is not neutral "doing" but **handling** — a hand laid on something that has its own momentum. The oracle-bone character is a picture of a human hand reaching down onto the head of an **elephant**.
 
@@ -74,7 +74,7 @@ Three arguments, the last of which is decisive.
 
 The structure only survives in English if the word is a **verb that also works as a noun**. *Doing* does. *Action* does not — "act the non-action, affair the non-affair, flavor the non-flavor" collapses on contact. One chapter, three parallel members, and only one candidate rendering holds all three. That is not a matter of taste; it is the text choosing for us.
 
-### What we set aside
+### What is set aside
 
 **"Effortless action."** Rejected outright. It is an *interpretation* smuggled into a rendering, and it destroys the paradox by resolving it in advance. The entire force of 無為而無不為 is that a **negation** produces completeness; "effortless action" deletes the negation and hands the reader a comfortable oxymoron instead of a difficult one. It also imports a promise the text never makes — that this will feel easy.
 
@@ -86,7 +86,7 @@ The structure only survives in English if the word is a **verb that also works a
 
 **And any mechanical rendering** — 無為 as frictionless operation, efficient process, a system running without interference. A machine has no momentum of its own and nowhere it was already going. The elephant has both. Machine language also smuggles in an engineer, which is the theistic error wearing a different coat.
 
-### The working register
+### Working register
 
 - **無為** → **non-doing** (as a noun: *the practice of non-doing*; 無為之益 → "the benefit of non-doing")
 - **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味)
@@ -94,7 +94,7 @@ The structure only survives in English if the word is a **verb that also works a
 - **我無為** (57) → **"I do not do"** — plainest possible, to match the four-line refrain
 
 
-### The tension, left open
+### Left open
 
 The honest difficulty is where the line falls, and the text will not say.
 

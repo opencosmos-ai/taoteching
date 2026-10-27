@@ -16,7 +16,7 @@ pairing: false
 
 Nineteen lines in fourteen chapters, and this edition had been rendering them as *work*, *affairs*, *actions*, *techniques*, *processes*, *non-interference*, *serve*, and *tend*. Eight Englishes for one character — and two of them, *techniques* and *processes*, are the mechanistic overlay this edition exists to strip. Nothing was holding 事 together, so its best line has been invisible: **事 is a hand, and it is standing beside another hand.**
 
-### The character: a hand holding the badge of office
+### The graph: a hand holding the badge of office
 
 In the oracle bones, four characters that English keeps carefully apart were **one graph**: a hand (又, *yòu*) gripping an implement — a standard with a banner at the top, or a recording tool.
 

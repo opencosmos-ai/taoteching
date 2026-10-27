@@ -18,7 +18,7 @@ covers:
 
 Open almost any English Tao Te Ching at Chapter 42 and you will find *dukes*. Open it at Chapter 16 and you will find *fairness*, or *equanimity*, or *the impartial*. Nothing tells the reader these are one word. So the fact the Chinese states plainly — **the office is named after the virtue** — disappears, and with it the quiet judgment the text passes every time it uses the title.
 
-### The character is a negation, and that is the whole of it
+### The graph: a negation, and that is the whole of it
 
 公 is two pieces:
 
@@ -86,7 +86,7 @@ And in Chapter 62 the manuscripts hand us an argument. Where the received text r
 | the office, compounded with 王 | 42 (王公) | **lords** |
 | the office, the three highest of state | 62 (三公) | **the three ministers** |
 
-### What stays open
+### Left open
 
 **The two senses cannot take one English word, and this entry does not force them to.** Every available rendering for the office severs it from the root, so a reader of Chapter 62 will not hear what a reader of Chapter 16 hears. That is a real loss, and the glossary can only partly repair it: the entry can say *the office is named after the virtue*, but the verse cannot.
 

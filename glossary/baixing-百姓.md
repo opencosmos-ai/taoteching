@@ -15,7 +15,7 @@ pairing: false
 
 百姓 is the whole population, named without reference to anyone above it. 民 (*mín* — the people) is the population as a ruler sees it: governed, taxed, frightened, or left alone. 百姓 is the same people seen from among themselves, and in three of its four lines they are the ones acting: they speak, they have a heart, they pay attention.
 
-### The words: a hundred clan names
+### The graph: a hundred clan names
 
 - **百 (*bǎi*)** is *a hundred*, and as with 萬 (*wàn* — ten thousand) in 萬物 (*wàn wù* — the countless things), the number means *all of them*, not a count.
 - **姓 (*xìng*)** is a clan name. Our vendored 說文解字 (*Shuōwén Jiězì*, c. 100 CE) defines it 人所生也…从女从生 — *"what a person is born of… from 女 (nǚ — woman) and 生 (shēng — birth)."* The name you inherit is, in the graph, the name of the one who bore you.
@@ -48,7 +48,7 @@ By Laozi's day the old sense is gone, and both of our commentators read 百姓 a
 
 **"The common people," "the masses."** Both bring a class line the phrase no longer draws. *Common* sets them against the uncommon, and *the masses* is rejected for 民 and 眾 (*zhòng* — the crowd) on the same grounds.
 
-### The working register
+### Working register
 
 - as subject → **everyone** (百姓皆謂 → "everyone says"; English *everyone* already holds 皆 (*jiē* — all), so it is not rendered twice)
 - possessive → **everyone's** (以百姓心為心 → "they take everyone's heart as their own")

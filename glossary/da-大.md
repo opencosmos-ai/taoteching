@@ -16,7 +16,7 @@ covers:
 
 **Locked: 大 → "great."** *(Lowercase. Licensed flexions: **large** where the scale is physical or political, **greater** in comparatives, **master** of a craftsman.)*
 
-### The character is a person standing with their arms out
+### The graph: a person standing with their arms out
 
 說文解字 (*Shuōwén Jiězì*, c. 100 CE) defines it in eleven characters, and the last four are the whole entry:
 

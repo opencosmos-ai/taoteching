@@ -97,7 +97,7 @@ Neither commentator ever reads 唯 as mere emphasis.
 
 **"it is only because X that Y"**, the cleft, keeps everything and costs six English words a line. It turns verse into argument.
 
-### The working register
+### Working register
 
 | Chinese | English | form |
 |---|---|---|

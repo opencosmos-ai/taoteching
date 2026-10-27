@@ -15,7 +15,7 @@ pairing: false
 
 The word had drifted into four Englishes: *all* in Chapter 1, **dropped entirely** in Chapter 8, *the masses* six times in Chapter 20, *the many* in Chapter 21. The drop is the worst of them — Chapter 8's 處眾人之所惡 (*it dwells where the crowd will not go*) had become simply *"it seeks the lowest places,"* which keeps the water and loses the people the line is measuring the water against.
 
-### The character, read slowly — worked and watched
+### The graph: worked and watched
 
 The *Shuowen Jiezi* (~100 CE) analyses 眾 as **多也。从乑目** — *many; from 乑 and 目* — where 乑 is a stack of three 人 (*rén* — person) and 目 is an eye.
 
@@ -42,7 +42,7 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 
 **And twice 眾 modifies things, not people.** Chapter 1's 眾妙之門 (*the gate of all subtleties*) and Chapter 21's 眾甫 (*the father of the many*). In both, "the crowd" would be absurd and **the many** or **all** is right.
 
-### The lock: what is set aside, and why
+### What is set aside, and why
 
 **"The masses"** carries a modern political charge — a bloc, a demographic, an object of policy — and a faint condescension the Chinese does not have. Chapter 20's crowd is *merry at a spring festival*, not a proletariat.
 
@@ -52,7 +52,7 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 
 **"Everyone"** is a reasonable near-miss and is right in some lines — it is arguably the best English for Chapter 8 — but it loses the massed quality that Chapter 20 depends on. A crowd moves together; everyone does not.
 
-### The working register
+### Working register
 
 - of people, as a body → **the crowd** (眾人熙熙 → "the crowd is merry"; 處眾人之所惡 → "where the crowd will not go")
 - of things, as a modifier → **all** or **the many** (眾妙之門 → "the gate of all subtleties"; 眾甫 → "the father of the many")
@@ -60,7 +60,7 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 
 **Never** "the masses," "the multitude," and never the word that belongs to 民.
 
-### The tension, left open
+### Left open
 
 **Is Laozi contemptuous of the crowd, or one of them?**
 

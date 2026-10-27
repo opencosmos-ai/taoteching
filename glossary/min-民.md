@@ -78,7 +78,7 @@ The copying tradition let 民 and 人 change places three times, and each change
 
 **"Commoners," "peasants."** They name a rank and an occupation. Some 民 were peasants. The word does not say so, and chapter 80's people keep records, own boats, and wear fine clothes.
 
-### The working register
+### Working register
 
 - the default, with the article → **the people** (愛民 → "loving the people"; 民之難治 → "the people are hard to govern")
 - possessive → **the people's** (使民心不亂 → "the people's hearts are not thrown into disorder")

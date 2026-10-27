@@ -19,7 +19,7 @@ The standard rendering has long been *virtue*, and the choice was not foolish. L
 
 So we set *virtue* aside — not because it was always wrong, but because it stopped being right.
 
-### The character, read slowly
+### The graph
 
 德 assembles from three parts, and it rewards watching them lock together:
 
@@ -55,7 +55,7 @@ Say the English word slowly and its own root opens: *integer* — **whole, untou
 
 There is a deeper reason the word belongs to *this* translation in particular. Our whole reading of Laozi turns on **un-fragmentation** — 抱一, embrace the One; 復歸於樸, return to the uncarved block; the infant; the undivided center. *Integrity* is simply the English name for **un-fragmented wholeness.** It is not an import into our system; it is the keystone the other stones were already leaning toward. With it, 德 clicks home: the intact wholeness you received from the Tao, kept undivided, carried straight into the world.
 
-### The working rule
+### Working register
 
 **德 = "integrity," everywhere.** One word, no exceptions — and let the possessive do the quiet work in the rare line where 德 is a thing's own nature acting upon it (*"their integrity rears them"*). Retire *virtue*, *power*, and *lifeforce*. For 玄德, use **"hidden integrity"** or **"profound integrity."**
 
@@ -66,7 +66,7 @@ Hear it in the hard places:
 - Ch 51 — *道生之，德畜之* → **"The Tao gives them life; their integrity nurtures them."**
 - Ch 55 — *含德之厚* → **"One whose integrity runs deep…"**
 
-### One tension, left honestly open
+### Left open
 
 *Integrity* is not flawless. It has picked up a faint modern corporate echo — "business integrity," the poster on the break-room wall. We are betting that the older, structural sense — *intactness* — is strong enough to carry the weight, and that set against the deadening piety of "virtue" it will strike a modern ear as both truer and more alive. But this is finally the ear's decision, not the dictionary's. A living translation keeps testing its own keywords; if some later chapter makes *integrity* buckle, we will hear it, and we will come back to this page. For now it stands — **the Way, made whole, in a single thing.**
 

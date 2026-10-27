@@ -75,7 +75,7 @@ Three pairs of **goods**, said to be insufficient as 文 (*wén* — cultural fo
 
 **And the oldest witness does not make the attack at all.** At Guodian (~300 BCE) the passage corresponding to ch 19 carries neither 仁 nor 義 nor 聖; the pairs severed there are different ones. See `notes/manuscript.md` · Ch 19 and `sources/variants.yaml`.
 
-### Never
+### What is set aside
 
 **benevolence.** A Latin will-word for a Chinese relation-word, and the standard English carries a whole missionary lexicon behind it — Legge's Tao Te Ching came out of the London Missionary Society, and this is one of the words that came with him.
 
@@ -83,7 +83,7 @@ Three pairs of **goods**, said to be insufficient as 文 (*wén* — cultural fo
 
 **kindness and love are not forbidden here, because they are not free** — 慈 (*cí* — tenderness) holds that ground and shares two chapters with this character. See `glossary/ci-慈.md`.
 
-### What stays open
+### Left open
 
 **仁 is the only word in this book that the text attacks and the commentators defend.** 王弼 calls it 人之善也, the best of what a person can be, in the middle of glossing a chapter that says to cut it off. 河上公 says it becomes invisible when things go well, which is praise disguised as dismissal.
 
