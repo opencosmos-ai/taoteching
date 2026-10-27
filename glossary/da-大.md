@@ -84,7 +84,7 @@ English *great* reaches all four — great size, the great square, great trouble
 
 **And the deeper objection: 大 is not an elevated word in Chinese.** It is a person with their arms out. Rendering it with an English word that carries *more* charge than the original would make Chapter 25's forced name sound like it succeeded — which reverses the passage. A worn word is the faithful one here, and the wear is doing work. *Vast* is also, separately, spoken for: it currently renders 廣 (*guǎng* — broad) at ch 41 and 恢 (*huī* — vast) at ch 73, both of which sit alongside 大 or would want the word back.
 
-**"The Great," capitalized.** A capital turns a forced, admittedly failing name into a title, which is the one thing the passage denies it. Standing rule 4.
+**"The Great," capitalized.** A capital turns a forced, admittedly failing name into a title, which is the one thing the passage denies it. Standing rule 3.
 
 **"Mighty," "grand," "supreme," "cosmic."** Each imports a register 大 does not have — power, ceremony, rank, or the firmament — where the character offers only a body's worth of room.
 

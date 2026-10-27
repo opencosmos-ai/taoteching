@@ -17,7 +17,7 @@ pairing: false
 
 ***Any*, not *the*, and the choice is load-bearing twice over.**
 
-**It refuses to assert what the field has not settled.** Whether the Shang had a single high god is an open question in the scholarship, so *the high god* would smuggle a whole theological architecture in through the definite article — where nobody would notice it, because articles are not words readers weigh. **The definite article confers status exactly as a capital does** (standing rule 4): *the* high god reads as a title, *any* god reads as a category. It is the fault of *the Source* and *the One*, wearing a different part of speech.
+**It refuses to assert what the field has not settled.** Whether the Shang had a single high god is an open question in the scholarship, so *the high god* would smuggle a whole theological architecture in through the definite article — where nobody would notice it, because articles are not words readers weigh. **The definite article confers status exactly as a capital does** (standing rule 3): *the* high god reads as a title, *any* god reads as a category. It is the fault of *the Source* and *the One*, wearing a different part of speech.
 
 **And it is the stronger claim, which the argument below needs.** If the Tao precedes only *the* high god, a claimant may answer *"my line descends from a different power."* If it precedes **any** god, the chain of descent has no floor anywhere. **The universal quantifier closes the escape the definite article leaves open.**
 
@@ -151,7 +151,7 @@ The **Term Question** was the long dispute over which Chinese word would be cons
 
 **"the gods," "the pantheon"** — the opposite over-reach: they assert a plural set and a structure. 帝 is one word and the line makes one claim.
 
-**Lowercase, always.** *any god*, never *any God* and never *the High God*. Capitals confer status (standing rule 4), and capitalizing here would re-import through typography exactly what the wording refuses.
+**Lowercase, always.** *any god*, never *any God* and never *the High God*. Capitals confer status (standing rule 3), and capitalizing here would re-import through typography exactly what the wording refuses.
 
 ---
 

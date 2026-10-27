@@ -56,7 +56,7 @@ The marks are ours; the music is the source's. The ancient text carries no punct
 
 ### Typography — lowercase, and the dash only with its subject named
 
-**The rule itself is `CLAUDE.md` standing rule 4**, and `check_locks.py` enforces it — `_DEVOTIONAL` carries `"Mother": "母"`, so a capital in the verse has always been a hard error. It is restated for outside contributors in [`CONTRIBUTING.md`](../CONTRIBUTING.md). This section held a third full copy.
+**The rule itself is `CLAUDE.md` standing rule 3**, and `check_locks.py` enforces it — `_DEVOTIONAL` carries `"Mother": "母"`, so a capital in the verse has always been a hard error. It is restated for outside contributors in [`CONTRIBUTING.md`](../CONTRIBUTING.md). This section held a third full copy.
 
 **The 母 decision moved to [`glossary/mu-母.md`](../glossary/mu-母.md), 2026-09-10**, under *"On the capital, which she does not take."* 母 (*mǔ* — mother) is the strongest candidate in the book for a second capital and she stays lowercase, on five grounds — ch 25 withholding the name the capital would confer, the grammar never naming her, both commentators calling it a comparison, the Jungian Great Mother as the modern overlay, and the capital promoting her out of the body into a pantheon, **which is how she was lost the first time**.
 
@@ -178,7 +178,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **常 → "ever," 無欲 → "desireless."** 常…無欲 is a formula this manuscript already renders **"Ever desireless"** twice, at ch 1 (of the reader) and ch 34 (of the Tao). The 常 lock licenses plain *ever / always* adverbially; it had been dropped from this line altogether, the same fault as ch 28's three 常德.
 
-**弱其志 → "ambition," not "striving."** 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* CLAUDE.md's own gloss of the line is *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
+**弱其志 → "ambition," not "striving."** 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* The glossary skill's own example reads the line *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
 
 **敢 applied; it had been dropped outright.** 不敢為 → **"never push to act,"** joining ch 30, 64, 67, 69, 73 and 74.
 
@@ -206,7 +206,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **The 帝 finding is the one that matters, and it is the inverse of the overlay we usually hunt.** The naturalistic razor strips theism read **into** a word. Here the Chinese names a god and the English **deleted** him — deleting with him Laozi's own demotion of him. **帝 comes to this text as a god the Zhou had already deposed**, replaced by 天 (*tiān*) when they invented 天命 (*tiān mìng* — the Mandate of Heaven) to justify the conquest; by 288 BCE living kings were taking the title (東帝 / 西帝) and by 221 秦始皇帝 had fixed it to the throne. **Read against 誰之子 two lines above — and against 天子 (*tiān zǐ*, "child of the sky") at ch 62 — the line takes the floor out of legitimation:** authority descends, and a thing with no parent standing before any god leaves the chain with nothing at the bottom.
 
-***"Any god," not "the high god."*** The definite article asserts a singular supreme deity at the top of a hierarchy — which the scholarship on Shang religion has not settled — and it does so where no reader weighs it. **A rendering must not assert what the entry says is unsettled, and the definite article confers status exactly as a capital does** (standing rule 4). *Any* is also the stronger claim: precede only *the* high god and a claimant can answer *"my line descends from a different power."* **This is now a general principle: *the* can smuggle a doctrine as effectively as a capital letter.**
+***"Any god," not "the high god."*** The definite article asserts a singular supreme deity at the top of a hierarchy — which the scholarship on Shang religion has not settled — and it does so where no reader weighs it. **A rendering must not assert what the entry says is unsettled, and the definite article confers status exactly as a capital does** (standing rule 3). *Any* is also the stronger claim: precede only *the* high god and a claimant can answer *"my line descends from a different power."* **This is now a general principle: *the* can smuggle a doctrine as effectively as a capital letter.**
 
 **兮 (*xī*) never hedges**, across all twelve occurrences: **[asserted quality] 兮，[hedged predicate]**, as ch 15's seven-line series shows. So in 湛兮，似或存 the submersion is *stated* and only 存 is in doubt — which killed a draft reading *"Submerged. It seems to be."*, where English's ellipsis reached backward and took *submerged* as the missing complement.
 
@@ -214,7 +214,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **象 is the comparison, not the noun, and the argument went the other way first.** 象 (*xiàng*) is *image* at 無物之象 (14), 其中有象 (21), 執大象 (35), 大象無形 (41), and 似 is the dedicated hedge already used twice in this chapter — so a draft closed on *"An image, older than any god."* **The grammar defeats it: wherever 象 is unambiguously a noun it is marked as one, by 之, 有 or 大; here it stands bare before a noun phrase, which is verb-plus-object.** Both commentaries agree, and ch 4 is 象's first appearance, so *image* would land where no reader could yet hear it. **A distributional argument is a reason to look, not a reason to conclude.**
 
-**A stranded subject, and a rule that reaches further than em-dashes.** A draft split the quatrain into two sentences and left the second without a subject: *"Dims its own light, merges with the dust."* **Standing rule 4's reasoning is about the fault, not about the dash** — *"classical Chinese omits subjects freely, English cannot"* — and a full stop strands a subject exactly as a dash does. The couplet now runs on a comma with a lowercase continuation line, this manuscript's convention at ch 2, 7, 16, 19, 25, 31, 34, 43, 47, 48 and 49. **Ch 56 needs no repair**: its version is imperative, so each line is already a complete sentence.
+**A stranded subject, and a rule that reaches further than em-dashes.** A draft split the quatrain into two sentences and left the second without a subject: *"Dims its own light, merges with the dust."* **Standing rule 3's reasoning is about the fault, not about the dash** — *"classical Chinese omits subjects freely, English cannot"* — and a full stop strands a subject exactly as a dash does. The couplet now runs on a comma with a lowercase continuation line, this manuscript's convention at ch 2, 7, 16, 19, 25, 31, 34, 43, 47, 48 and 49. **Ch 56 needs no repair**: its version is imperative, so each line is already a complete sentence.
 
 **誰之子 → "whose child," and *descendant* is refused on 說文's own distinction.** 孫 (*sūn* — grandchild) is glossed 子之子曰孫。从子从系。系，續也 — *"the 子 of a 子 is called 孫; from 子 and 系 (to connect), and 系 means to continue."* **The generations are separated in the language, and the compound for descendants — 子孫 — is one this book uses**, at ch 54's 子孫以祭祀不輟. Ch 4 writes bare 子, a **pictograph of an infant**. The distinction carries the argument: **天子 at ch 62 is the *child* of 天, one generation, direct**, and ch 52 pairs 母/子. *Descendant* would soften the line to *"its ancestry is untraceable"* when the claim is that **there is no parent at all.**
 
@@ -1146,7 +1146,7 @@ So the register is exposure, banishment, a person put outside where they cannot 
 
 And the Tao is 先天地生, *born before sky and earth*. **The sky is itself a child.** Ch 4 leaves the Tao's own parentage unknown and puts it before 帝; Ch 52 gives the world a mother. So within Laozi's own cosmology, 天子 is not a claim of divine descent — it is kinship with a junior member of the family, whose actual parent is the 母. **The title deflates on contact with Ch 25.** "Son of Heaven" prevents that; "a child of the sky" performs it. In a chapter whose whole argument is that this apparatus is worth less than sitting down, the smaller-sounding phrase is the more accurate one.
 
-**Three locks recovered at once:** 天 keeps *sky*; the capital goes, per standing rule 4; and *Son* goes, which the graph never supported. **The seam, noted and not erased:** every historical 天子 was a man, and the title was male in every practical sense. 子 is not — it is an infant in swaddling. We render toward the universal, as at Ch 16's 公乃王 and Ch 55's 朘, and say so here.
+**Three locks recovered at once:** 天 keeps *sky*; the capital goes, per standing rule 3; and *Son* goes, which the graph never supported. **The seam, noted and not erased:** every historical 天子 was a man, and the title was male in every practical sense. 子 is not — it is an infant in swaddling. We render toward the universal, as at Ch 16's 公乃王 and Ch 55's 朘, and say so here.
 
 **Cost, on the record:** we have traded office for image. 天子 was a piece of ordinary state vocabulary — as ordinary as *Prime Minister*, which is made of "first" and "servant" and which nobody hears — and the English now foregrounds a picture the Chinese kept in the background. Worth it in this chapter, whose business is shrinking the office. It would not be worth it in a chapter that needed the institution to sit there inertly. 天子 occurs nowhere else, so the trade is never retested. *(Fuller treatment in the Reading Notes; `DISCOVERIES.md` §3.)*
 
@@ -1156,7 +1156,7 @@ And the Tao is 先天地生, *born before sky and earth*. **The sky is itself a 
 
 公 (*gōng*) is 八 (*bā* — to divide; two strokes parting) over 厶 (*sī* — private, the self, the old form of 私). The word is **the dividing-up of what is private** — hence *public, common, impartial*; *Shuowen*: 公，平分也, *"公 is fair division."* This edition already renders it that way at Ch 16 (容乃**公**，**公**乃王 → *"Embracing all leads to impartiality. Impartiality leads to sovereignty."*).
 
-As an office title 公 is conventionally *duke*, a borrowed European feudal rank we reject; *minister* says the same thing about an office of state without importing a peerage. Lowercase, per standing rule 4.
+As an office title 公 is conventionally *duke*, a borrowed European feudal rank we reject; *minister* says the same thing about an office of state without importing a peerage. Lowercase, per standing rule 3.
 
 **The silks settle it in our favour:** where our base reads 三公 they write 三鄉, which editors read as a loan for 三**卿** (*sān qīng*) — the word that simply means *high minister*. Our "three ministers" turns out to be the oldest witness's own word.
 
@@ -2065,7 +2065,7 @@ Revised to **"holds their half of the tally / and never asks for the other."** T
 
 ### Ch 80 · 使有什伯之器 — 王弼 supplies the subject, and the 無所 triple
 
-The clause elides its subject: 使有什伯之器而不用, *"cause there to be ten- and hundred-fold tools and not use them."* Classical Chinese drops subjects freely; English strands them, which is what standing rule 4 is about. **王弼 restores it outright** — 言**使民**雖有什伯之器而無所用 — and the next clause of the base text states it (使**民**重死), so the two are parallel causatives over 民. The English names the people in both.
+The clause elides its subject: 使有什伯之器而不用, *"cause there to be ten- and hundred-fold tools and not use them."* Classical Chinese drops subjects freely; English strands them, which is what standing rule 3 is about. **王弼 restores it outright** — 言**使民**雖有什伯之器而無所用 — and the next clause of the base text states it (使**民**重死), so the two are parallel causatives over 民. The English names the people in both.
 
 **而 is concessive, not additive.** 王弼 marks it with 雖 (*suī* — although): 雖有什伯之器**而**無所用. So the English is *"yet no need to use them,"* not *"and."* An *and* flattens a concession into a list.
 

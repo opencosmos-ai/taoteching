@@ -60,9 +60,9 @@ supersedes: []
 
 **This is not licence to lineate by feel.** The freedom is in the marks *given* the music; a layout that ignores the beat is not exercising the freedom, it is declining the discipline.
 
-**It does not govern the dash.** That is standing rule 4 in `CLAUDE.md`, and its reason is grammatical rather than musical — a dash may stand only where its subject is named on both sides, because classical Chinese may omit a subject and English may not.
+**It does not govern the dash.** That is standing rule 3 in `CLAUDE.md`, and its reason is grammatical rather than musical — a dash may stand only where its subject is named on both sides, because classical Chinese may omit a subject and English may not.
 
-**It does not govern capitalisation**, which is standing rule 4's other half and is enforced by `check_locks.py`.
+**It does not govern capitalisation**, which is standing rule 3's other half and is enforced by `check_locks.py`.
 
 **And a mark is not a word.** A colon may carry direction, as at ch 57; it may not carry a character. Where punctuation starts doing a character's work, the problem is the rendering.
 
