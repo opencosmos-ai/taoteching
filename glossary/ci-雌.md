@@ -18,12 +18,12 @@ covers:
 
 **Locked: 雌 (*cí*) → "the hen," and its partner 雄 (*xióng*) → "the rooster."** *(Not "the female," which is 牝 (pìn)'s English. Not "the feminine" or "yielding energy," which turn a bird into an abstraction. Not "the receptive" or "the passive," which add a quality no line names. Not "the Hen," since a capital makes her a doctrine.)* *(The English was settled in the verse before this entry, at chapters 10 and 28. The entry argues for it and holds it. That 雌 and 牝 (pìn — the female) get two entries, not one, is Shalom's call, 2026-10-26.)*
 
-### The graph: a bird, and its sex
+### The graph: the mother among birds
 
 > 雌，鳥母也。从隹此聲。
 > *"雌: the mother among birds. From 隹 (zhuī — a short-tailed bird), with 此 (cǐ) as its sound."* — the *Shuowen Jiezi* (the Han dictionary)
 
-**The class is 隹 (*zhuī*), the short-tailed bird, and 此 (*cǐ* — this) gives only the sound.** The Shuowen defines its partner in matching words: 雄，鳥父也 — *"雄: the father among birds."* It defines the other pair the same way among animals that walk: 牝 (*pìn*) is 畜母 (*chù mǔ* — "the mother among livestock") and 牡 (*mǔ*) is 畜父 (*chù fù* — "the father among livestock"). Two pairs of words for sex, one for beasts and one for birds, and the Tao Te Ching uses both (`glossary/pin-牝.md`).
+**The class is 隹 (*zhuī*), the short-tailed bird, and 此 (*cǐ* — this) gives only the sound.** The Shuowen defines its partner in matching words: 雄，鳥父也 — *"雄: the father among birds."* It defines the other pair the same way among animals that walk: 牝 (*pìn*) is 畜母 (*chù mǔ* — "the mother among livestock") and 牡 (*mǔ*) is 畜父 (*chù fù* — "the father among livestock"). Two pairs of words for mother and father, one for beasts and one for birds, and the Tao Te Ching uses both (`glossary/pin-牝.md`).
 
 **So the hen's English has to be a bird's.** The book's English gives 牝 and 牡 *the female* and *the male* at chapters 6, 55 and 61. 雌 and 雄 need words of their own, and the graph says which. English ornithology has the exact pair, *cock* and *hen*, for the male and female of any bird (a *cock pheasant*, a *hen harrier*). *Cock* is unusable in modern English, so 雄 is *the rooster*.
 
@@ -88,7 +88,7 @@ covers:
 | the object of 守 (*shǒu* — hold to) | *hold to the hen* | 28 (守其雌 *shǒu qí cí*) |
 | the complement of 為 (*wéi* — to be) | *can you be the hen?* | 10 (能為雌乎 *néng wéi cí hū*) |
 
-**Her pronoun is *she*.** The hen has a sex, and the line is about it. Standing rule 1 forbids *he* for the sage, whom the Chinese leaves without one.
+**Her pronoun is *she*.** 雌 says she is the hen, and the line is about her. Standing rule 1 forbids *he* for the sage: the Chinese never says whether the sage is a woman or a man, and *he* would make the male the default.
 
 ### What no rule can enforce
 

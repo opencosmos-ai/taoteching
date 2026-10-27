@@ -238,7 +238,7 @@ Our base reads 道之**為**物，惟恍惟惚. Both Mawangdui silks read **道�
 
 Our base reads 自**古**及**今** ("from ancient times until today"). **Both Mawangdui silks** read 自**今**及**古** ("from **now back to** antiquity"). **We keep the base text**, and log the fork because it is genuinely meaning-bearing: it reverses the direction of the inquiry. Mawangdui makes the chapter *start* from the present and trace backward; Wang Bi makes it *arrive* at the present. We render the arrival — the line ends on "today," and the closing "By this." completes the movement toward the reader, which is the movement of the whole chapter. *(That closing line read "By this, here, now" until 2026-08-30; the movement survives the trim, because the arrival is carried by "today," not by the demonstrative.)*
 
-The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and 甫/父 needs no decision, since Ch 42 already settled that 父 here means *origin / root*, not "godfather," and both give "origin" in English.
+The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and 甫/父 is open. 甫 (*fǔ* — beginning) gives our *origin*, but since 2026-10-26 ch 42 reads 父 (*fù* — father) as *father*, so the silks' 眾父 (*zhòng fù*) would read *"the father of the multitude."* `WORKLIST.md` T4-10.
 
 #### 眾甫之狀 / 眾甫之然 — **resolved 2026-08-11: we follow 然**
 
@@ -320,7 +320,7 @@ Received: 晚成, "completed **late**." Mawangdui reads 免成, Guodian reads �
 
 ### Ch 42 · 教父 / 學父 — father of teaching, or of learning
 
-Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"this I take as the root of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line: 父 here means *origin / root*, not "godfather"; and there is no possessive in the Chinese — it is "the root of learning," not "of *my* learning." The 吾 is only the one who adopts it.)
+Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"I take this as the father of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line. 父 (*fù* — father) is *father*, as 母 (*mǔ* — mother) is *mother*: Heshang Gong glosses it 始 (*shǐ* — beginning), and English *the father of* carries that sense without cooling the word into *origin* or *root*, which this note read until 2026-10-26, Shalom's call. And there is no possessive in the Chinese: it is "the father of learning," not "of *my* learning." The 吾 (*wú* — I) is only the one who adopts it.)
 
 ### Ch 46 · 禍莫大於不知足 — the manuscripts remember a third clause
 

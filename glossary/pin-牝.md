@@ -3,7 +3,7 @@ term: "牝"
 pinyin: "pìn"
 render: "the female"
 forbidden: ["receptive", "feminine", "the Female"]
-shuowen: "The female of livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
+shuowen: "The mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 chapters: [6, 55, 61]
 status: locked
 pairing: false
@@ -18,14 +18,14 @@ covers:
 
 **Locked: 牝 (*pìn*) → "the female," in every line, and its partner 牡 (*mǔ*) → "the male."** *(Not "the receptive female," which adds a quality no line names. Not "the feminine," which turns an animal into an abstraction. Not "the Female," since a capital makes her a doctrine.)* *(The English was settled in the verse before this entry, at chapters 6, 55 and 61. The entry argues for it and holds it. That 牝 and 雌 (cí — the hen) get two entries, not one, is Shalom's call, 2026-10-26.)*
 
-### The graph: an animal, and its sex
+### The graph: the mother of the herd
 
 > 牝，畜母也。从牛匕聲。易曰：畜牝牛，吉。
-> *"牝: the female of livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"* — the *Shuowen Jiezi* (the Han dictionary)
+> *"牝: the mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"* — the *Shuowen Jiezi* (the Han dictionary)
 
 **The class is 牛 (*niú* — cattle), and the class is livestock, not the ox alone.** The Shuowen's word is 畜 (*chù* — a reared animal), and the quotation it chooses, from hexagram 30 of the Changes, is a cow being raised. 牝 is the word a herder or a priest choosing an animal for sacrifice would use: the female of the herd.
 
-**The Shuowen defines its partner in matching words.** 牡，畜父也。从牛土聲 — *"牡: the male of livestock. From 牛 (niú — cattle), with 土 (tǔ) as its sound."* And it defines the book's other pair the same way, among birds: 雌 (*cí* — the hen) is 鳥母 (*niǎo mǔ* — "the mother among birds") and 雄 (*xióng* — the rooster) is 鳥父 (*niǎo fù* — "the father among birds"). So the Han dictionary holds two pairs of words for sex, one for animals that walk and one for birds, and the Tao Te Ching uses both pairs. This entry is the first. `glossary/` owes the second its own.
+**The Shuowen defines its partner in matching words.** 牡，畜父也。从牛土聲 — *"牡: the father among livestock. From 牛 (niú — cattle), with 土 (tǔ) as its sound."* And it defines the book's other pair the same way, among birds: 雌 (*cí* — the hen) is 鳥母 (*niǎo mǔ* — "the mother among birds") and 雄 (*xióng* — the rooster) is 鳥父 (*niǎo fù* — "the father among birds"). So the Han dictionary holds two pairs of words for mother and father, one for animals that walk and one for birds, and the Tao Te Ching uses both pairs. This entry is the first. `glossary/` owes the second its own.
 
 ### Three chapters, and she is a body in each
 
@@ -105,7 +105,7 @@ covers:
 | a noun, in apposition | *the female of the world* | 61 (天下之牝 *tiān xià zhī pìn*) |
 | the subject, with 牡 as object | *the female … the male* | 61 |
 
-**Her pronoun is *she*.** Chapter 61 reads *"By stillness she is underneath."* Standing rule 1 forbids *he* for the sage, because the sage has no sex in the Chinese. The female does, and the line is about it.
+**Her pronoun is *she*.** Chapter 61 reads *"By stillness she is underneath."* Standing rule 1 forbids *he* for the sage: the Chinese never says whether the sage is a woman or a man, and *he* would make the male the default. 牝 says she is female, and the line is about her.
 
 ### What no rule can enforce
 
