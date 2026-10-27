@@ -73,7 +73,7 @@ The clearest case for the plain word is the chapter that most tempts you away fr
 > 以其不自生，故能**長生**。是以聖人後其**身**而**身**先，外其**身**而**身**存。
 > *"Because they do not live for themselves, therefore they can **live long**. So the sage puts their **body** last, and their **body** comes first; puts their **body** outside, and their **body** survives."*
 
-存 (*cún* — to remain in existence) answers 長生 (*cháng shēng* — long life) directly, and 身 stands four times in eleven characters. 河上公 reads it with no metaphor whatever: 百姓愛之如父母…故**身常存**, *"the people love them as parents… therefore their body constantly survives."* The chapter is an argument that the one who does not grab **outlasts**, on the model of sky and earth. A self does not survive. A body does.
+存 (*cún* — to remain in existence) answers 長生 (*cháng shēng* — long life) directly, and 身 stands four times in eleven characters. 河上公 reads it with no metaphor whatever: 百姓愛之如父母…故**身常存**, *"the people love them as father and mother… therefore their body constantly survives."* The chapter is an argument that the one who does not grab **outlasts**, on the model of sky and earth. A self does not survive. A body does.
 
 ### The homophones, and the near-neighbours
 

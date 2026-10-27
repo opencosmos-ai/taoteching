@@ -261,11 +261,12 @@
   line: "以閱眾甫"
   base: "甫"
   witnesses: { mawangdui-a: "父", mawangdui-b: "父" }
-  meaning_bearing: false
+  meaning_bearing: true
   our_call: base
   note: >
-    No decision needed. Ch 42 already settled that 父 here means origin or
-    root, not father in the personal sense, so both give "origin" in English.
+    Open since 2026-10-26. 甫 (beginning) gives our "origin." Ch 42 now reads
+    父 as "father" (Shalom's call), so the silks' 眾父 would read "the father
+    of the multitude." WORKLIST.md T4-10.
   logged: notes/manuscript.md
 
 - chapter: 21
@@ -476,7 +477,8 @@
   our_call: mawangdui-a
   note: >
     Father of teaching, against father of learning. We follow the silk — the
-    bolder reading and the older one. 父 means origin or root here.
+    bolder reading and the older one. 父 is father: "the father of learning"
+    (Shalom's call, 2026-10-26; it read "root" until then).
   logged: notes/manuscript.md
 
 - chapter: 46

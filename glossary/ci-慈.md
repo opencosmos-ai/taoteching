@@ -27,7 +27,7 @@ covers:
 It never appears alone in this book outside ch 67. Twice it appears welded to **孝** (*xiào*), and the two graphs are a matched pair pointing opposite ways:
 
 > 孝，善事父母者。从老省，从子，子承老也
-> *Shuowen — "孝 is one who serves their parents well. From an abbreviated 老 (lǎo — old) and from 子 (zǐ — child): **the child bears up the old**."*
+> *Shuowen — "孝 is one who serves their father and mother well. From an abbreviated 老 (lǎo — old) and from 子 (zǐ — child): **the child bears up the old**."*
 
 **孝 is a child holding up an elder. 慈 is a heart growing toward a child.** One goes up the generations, one comes down. 孝慈 is not two virtues in a list; it is a circuit, and 河上公 says so — 乃有孝慈**相牧養**也, *"then there is 孝慈, tending each other."*
 

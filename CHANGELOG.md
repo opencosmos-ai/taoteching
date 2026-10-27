@@ -33,6 +33,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-10-26 — Mother and father, as the Chinese says them
+
+Shalom asked that the female and hen entries stop saying *sex*. The Shuowen (the Han dictionary) says neither *sex* nor *gender*: it defines 牝 (*pìn* — the female) as 畜母 (*chù mǔ* — "the mother among livestock") and 雌 (*cí* — the hen) as 鳥母 (*niǎo mǔ* — "the mother among birds"). His rule: 母 (*mǔ* — mother) is *mother* wherever it stands, and 父 (*fù* — father) is *father*.
+
+- **Ch 42: *"I take this as the father of learning."*** *(was: "the root of learning.")* 父 stands in every witness. *Root* came from Heshang Gong's gloss 始 (*shǐ* — beginning), which English *the father of* already carries. The edition does not cool the mother into *the Source*, and now it does not cool the father into *a root* (Shalom's call). [`chapters/042.md`](chapters/042.md), `notes/manuscript.md`.
+- **Opened by it:** ch 21's 眾甫 (*zhòng fǔ* — "the origin of the multitude"), where both silks write 父. `WORKLIST.md` T4-10.
+- **The entries:** the female and hen entries now give the Shuowen's mother and father, in their headings, their quotations and the female's card. 父母 (*fù mǔ*) is *father and mother*, not *parents*, in the entries for the body and compassion and in two notes. The life entry had glossed four characters with three words, missing *mother*, and now glosses each.
+
 ## 2026-10-26 — Verse quotes set as verse, and the entry template
 
 Shalom read the female and hen entries and found their quotes dense: the Chinese, the pinyin, a literal gloss and the verse English crammed into one block. He asked for the English and the Chinese apart, the chapter written out as a link, and one template every entry follows.

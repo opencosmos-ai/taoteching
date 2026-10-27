@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **71 item rows: 65 open · 0 done · 5 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **72 item rows: 66 open · 0 done · 5 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -96,6 +96,7 @@
 | T4-7 | ⬜ | ★ **Rank and gender — 大丈夫 · 君子 · 士.** Three male rank-words, each now universalised: 大丈夫 (*dà zhàng fū* — a grown man) → *the great person* (38), 君子 (*jūn zǐ* — a ruler's son) → *the noble* (26, 31), 士 (*shì* — a man of service rank) → *in service* (15, 41, 68). **Owed: one decision on *rank* across all three**, because a rank word universalised loses the rank, which is often what the line is about; and the seam named wherever it is universalised. Standing rule 1's carve-out is for the *incidental* male-default, and these are not incidental: 說文 makes 丈夫 a measurement and a capping ceremony (人長八尺，故曰丈夫, *"a person stands eight 尺 tall, therefore 丈夫"*), not an inner state. **聖人 is not a rank, and its entry leaves *is the sage a ruler?* open; both silks read 君子 at ch 26** (`glossary/sheng-聖.md`) | 15 26 31 38 41 68 | F |
 | T4-8 | ⬜ | 說文 (c. 100 CE) quotes the four-greats line as 人亦大 — six centuries before our oldest 人 witness | 25 | E |
 | T4-9 | ⬜ | **Bring the glossary to its template** (`process/skills/glossary-entry/template.md`, Shalom's ask, 2026-10-26). 62 entries predate it, listed in `tools/tests/test_entry_shape.py` → `NOT_YET`. **First, the renames:** most have the sections under other names (*The character, read slowly*, *What we set aside*, *The working register*, *The tension, left open*), one PR, a mechanical diff for Shalom to read. **Then the substance**, one entry at a time with the skill, where a section is missing its content, not just its name. Start with 母 (*mǔ* — mother): 40 lines, no graph section, and inside the feminine-center work. The thin ones after it: 知足 (*zhī zú* — knowing enough), 生 (*shēng* — life), 我吾 (*wǒ wú* — I) | — | E |
+| T4-10 | ⬜ | **Ch 21's 眾甫 (*zhòng fǔ* — "the origin of the multitude") against the silks' 眾父 (*zhòng fù* — "the father of the multitude").** Both Mawangdui silks write 父 (*fù* — father). The fork needed no decision while ch 42 read 父 as *root*; since 2026-10-26 it reads *father*, so the two readings now differ in English. Our base 甫 (*fǔ* — beginning, and a man's honorific) is kept until Shalom rules. `notes/manuscript.md` → Ch 21 | 21 | F |
 | | | **Tier 5 · The harness** | | |
 | T5-3 | ⬜ | Forbidden lists thin on near-synonyms — *depletion* belongs on 殆's and *energy* on 氣's, once those entries exist (T2-64, T2-4) | — | E |
 | T5-4 | ⬜ | Run `--english` on every lock. It is the only reverse-direction check, and the only one that sees a lock's English borrowed inside a chapter that holds the lock's own character, where the evidence gate blinds `check_locks.py` | — | ongoing |
