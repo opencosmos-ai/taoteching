@@ -172,3 +172,14 @@
     grime) as another edition's reading. The Mawangdui silks write 詬's form
     訽 at ch 78 too, where the received text has 垢.
   see: "DISCOVERIES.md"
+
+- id: ch61-both-silks-write-bang
+  retracted: 2026-10-26
+  claim: >
+    At ch 61 both Mawangdui silks read 邦 (bang - state) where our base reads
+    國 (guo - state), seven times.
+  match: ["the Mawangdui silks read 邦", "國 ×7", "at each of the seven occurrences"]
+  correction: >
+    Silk A writes 邦 wherever the graph survives; silk B, copied under the Han
+    taboo on Liu Bang's name, already writes 國. The chapter has nine 國.
+  see: "notes/manuscript.md#ch-61-邦-國-the-han-name-taboo"
