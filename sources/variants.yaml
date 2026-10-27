@@ -545,15 +545,33 @@
   logged: notes/manuscript.md
 
 - chapter: 61
-  line: "大國者下流 … (國 ×7)"
+  line: "大國者下流 … (國 ×9)"
   base: "國"
-  witnesses: { mawangdui-a: "邦", mawangdui-b: "邦" }
+  witnesses: { mawangdui-a: "邦", mawangdui-b: "國" }
   meaning_bearing: false
   our_call: base
   note: >
     The systematic Han name-taboo avoiding the personal name of the founding
-    emperor Liu Bang (劉邦). Meaning-neutral, logged once rather than at each
-    of the seven occurrences.
+    emperor Liu Bang (劉邦). Silk A writes 邦 wherever the graph survives; silk
+    B, copied under the taboo, already writes 國, as our base does.
+    Meaning-neutral, logged once rather than at each of the nine occurrences.
+    (Corrected 2026-10-26: was "mawangdui-b: 邦" and "seven occurrences".)
+  logged: notes/manuscript.md
+
+- chapter: 61
+  line: "天下之交，天下之牝"
+  base: "天下之交，天下之牝"
+  witnesses: { mawangdui-a: "天下之牝，天下之郊也", mawangdui-b: "…牝也，天下之交也 (the opening graphs lost)" }
+  meaning_bearing: false
+  our_call: undecided
+  note: >
+    Both silks put the female before the confluence. Silk A writes 郊 (jiao -
+    the outskirts), a loan for 交 (jiao - to meet). Silk B has lost the seven
+    graphs before 牝, but its 牝也，天下之交也 keeps the same order. No line
+    changes in meaning. The order bears on the form: our base ends one line on
+    天下之牝 and opens the next on 牝, a chain the English keeps ("the female of
+    the world. / The female always overcomes…"), and the silks have no chain
+    there. Open, for Shalom: WORKLIST T3.
   logged: notes/manuscript.md
 
 - chapter: 61

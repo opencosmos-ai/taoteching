@@ -352,7 +352,11 @@ Received Wang Bi: 而**全**作 — 全 = *whole, complete* — "yet it quickens
 
 ### Ch 61 · 邦 / 國 — the Han name-taboo
 
-Where our received base reads 國 (*guó* — state) seven times in this chapter, the Mawangdui silks read 邦 (*bāng* — state). This is the systematic Han substitution avoiding the personal name of the founding emperor Liu Bang (劉邦), and it runs through the received text wherever 邦 stood. Meaning-neutral, logged once here rather than at every occurrence.
+Where our received base reads 國 (*guó* — state) nine times in this chapter, Mawangdui silk A reads 邦 (*bāng* — state) wherever the graph survives. This is the systematic Han substitution avoiding the personal name of the founding emperor Liu Bang (劉邦), and it runs through the received text wherever 邦 stood. **Silk B already writes 國**: it was copied under the taboo, and observing it is part of how the two silks are dated. Meaning-neutral, logged once here rather than at every occurrence. *(Corrected 2026-10-26: this said both silks read 邦, and counted seven 國. Read in Wikisource's transcriptions of the 2014 Mawangdui edition: `WORKLIST` T2-74.)*
+
+#### 天下之交，天下之牝 — the silks put the female first
+
+Received: 大國者下流，**天下之交，天下之牝**。牝常以靜勝牡 — *"the large state is the downstream flow, the confluence of the world, the female of the world. The female always overcomes…"* **Both silks reverse the pair.** Silk A reads 天下之牝，天下之郊也 (*"the female of the world, the confluence of the world"*), with 郊 (*jiāo* — the outskirts) as a loan for 交 (*jiāo* — to meet). Silk B has lost the seven graphs before 牝, but what survives, 牝也，天下之交也, keeps the silks' order. **No line changes its meaning, but the form does.** Our base ends a line on 牝 and opens the next on 牝, a chain the English keeps: *"the female of the world. / The female always overcomes the male by stillness."* In the silks the confluence sits between the two, and there is no chain. **Our call: open.** Whether to keep the base's order and its chain, or follow the silks, is Shalom's call, in `WORKLIST` T3.
 
 #### 則取大國 — active, not passive
 
