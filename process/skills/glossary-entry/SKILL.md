@@ -50,6 +50,8 @@ That covers the first, second, and last of the four below; the character's histo
 
 ## 2. The entry standard — the shape every entry takes
 
+**Start from [`template.md`](template.md).** It is the skeleton every entry follows: four fixed headings (**The graph**, **What is set aside**, **Working register**, **Left open**, in that order), claim-titled sections between them, and what each slot must do to earn its place. `tools/tests/test_entry_shape.py` holds the fixed headings. The rules below are why the template is shaped as it is.
+
 1. **Open with the character, not with a critique.** An entry is not a design brief. Name the term, say how it sounds, give its frequency, state the ruling — then the graph, and what the character means. A reader wants to know what the word *is* before they hear what anyone got wrong, and an entry that opens by cataloguing our own past renderings is doing the thing §3 forbids. Follow the house shape:
 
    ```markdown
@@ -62,8 +64,8 @@ That covers the first, second, and last of the four below; the character's histo
 
    Then the body, in `###` subsections. Use **Recommended:** in place of **Locked:** where `status: open`.
 2. **Read the character as a picture changing over time.** Oracle bone → seal → modern. This is where entries earn their keep: 為 is a hand on an elephant, 無 was a dancer, 自 is a nose, 明 is moonlight through a window, 萬 is a scorpion.
-3. **Let cross-textual evidence argue.** Quote the Chinese with a gloss, cite chapters, let the pattern make the case.
-4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3).
+3. **Let cross-textual evidence argue.** Quote the lines as verse quotes (§3), cite chapters, let the pattern make the case.
+4. **Name what is set aside, and why.** Each rejected rendering gets its own reason. Often the most useful section in the entry, and **this is where the critique lives** — what the *conventional* English costs, never what this manuscript used to say (§3). **For any term that names or stands for the female, set aside every English that could be quoted to justify her domination**, such as *passive*, *submissive*, or *fitting* for her place, and say why (`CLAUDE.md` standing rule 1).
 5. **State the working register.** How the term flexes by grammar, with examples. Include a table of protected verbs where the noun cannot carry the whole sense.
 6. **Leave the real tension open.** Every good entry ends somewhere honest and unresolved. If nothing is unresolved, look harder.
 7. **Say which rulings the build holds.** A word you rule out that another character in the same chapters may legitimately print cannot go on `forbidden:` — the gate keys on chapter presence. Name it in the lock line as a ruling no check can hold, and explain it under a `### What no rule can enforce` section, naming the blocking character and the shared chapters. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
@@ -91,7 +93,20 @@ The rule most often broken. An entry is not a work log.
 **Also:**
 
 - **Lowercase everything but the Tao** — *the sage*, *the mother*, *the uncarved*, *stillness*. English capitals confer status the Chinese does not.
-- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 5). Prose in the entry may use them.
+- **Quote the verse exactly**, its em-dashes included. Never add a dash to a quoted line: a dash that strands a subject is barred in the verse (`CLAUDE.md` standing rule 4). Prose in the entry may use them.
+- **Set a quote from the verse in the verse-quote shape**: our English, one line per verse line, a blank line, the Chinese broken where the English breaks, a blank line, and the chapter. Take the pairing from `data/lines.csv`. No pinyin and no literal gloss: the English beside the Chinese is its gloss (`CLAUDE.md`, the gloss rule). One chapter per quote, so a note such as *twice* or *in silk B's reading* goes in a sentence after it. The atlas sets this as a figure, the chapter above as a link, English beside Chinese; any other blockquote stays a plain quote.
+
+  ```markdown
+  > *The spirit of the valley is deathless.*
+  > *This is called the dark female.*
+  >
+  > 谷神不死，
+  > 是謂玄牝。
+  >
+  > — chapter 6
+  ```
+
+  Quotes from the Shuowen and the commentators keep the old form, Chinese with its glossed English, since they have no verse English to stand beside them. A line quoted inside a sentence is glossed in place, as always.
 - **Gloss every Chinese character in English, every time** — 為 (*wéi* — "to do"). Shalom does not read Chinese.
 - **Never "he" for the sage.** Singular *they/their*, or recast.
 

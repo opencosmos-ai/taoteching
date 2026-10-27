@@ -238,7 +238,7 @@ Our base reads 道之**為**物，惟恍惟惚. Both Mawangdui silks read **道�
 
 Our base reads 自**古**及**今** ("from ancient times until today"). **Both Mawangdui silks** read 自**今**及**古** ("from **now back to** antiquity"). **We keep the base text**, and log the fork because it is genuinely meaning-bearing: it reverses the direction of the inquiry. Mawangdui makes the chapter *start* from the present and trace backward; Wang Bi makes it *arrive* at the present. We render the arrival — the line ends on "today," and the closing "By this." completes the movement toward the reader, which is the movement of the whole chapter. *(That closing line read "By this, here, now" until 2026-08-30; the movement survives the trim, because the arrival is carried by "today," not by the demonstrative.)*
 
-The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and 甫/父 needs no decision, since Ch 42 already settled that 父 here means *origin / root*, not "godfather," and both give "origin" in English.
+The same two lines carry two more forks. 以**閱**眾**甫** against the silks' 以**順**眾**父** (順 = *follow along with*, not *observe*) — we keep 閱; and 甫/父 is open. 甫 (*fǔ* — beginning) gives our *origin*, but since 2026-10-26 ch 42 reads 父 (*fù* — father) as *father*, so the silks' 眾父 (*zhòng fù*) would read *"the father of the multitude."* `WORKLIST.md` T4-10.
 
 #### 眾甫之狀 / 眾甫之然 — **resolved 2026-08-11: we follow 然**
 
@@ -277,7 +277,7 @@ Heshang Gong's reading also independently supports the Mawangdui 自今及古 (*
 
 1. **The received text contradicts itself.** The next line is 人法地 ("humans follow earth"). A text that makes the *king* one of the four greats and then instantly makes *humans* the bottom rung of the ladder has a seam in it. This is Fan Yingyuan's argument and Xi Tong's, made on internal evidence centuries before any manuscript was dug up, and it is untouched by the excavations.
 2. **The reading Fu Yi and Fan preserve may still be old.** A transmitted edition is not automatically younger than a buried one; it is only less certain. The claim is unprovable either way, and should not be leaned on.
-3. **Standing rule 2**, universality over the incidental male-default — an *editorial* ground this edition avows openly. Note that it does not depend on the fork at all: 王 is not gendered in Chinese, and `glossary/wang-王.md` renders it *ruler / sovereign* everywhere, never *king*. Reading 王 here would still not produce a king in the English.
+3. **Standing rule 1**, universality over the incidental male-default — an *editorial* ground this edition avows openly. Note that it does not depend on the fork at all: 王 is not gendered in Chinese, and `glossary/wang-王.md` renders it *ruler / sovereign* everywhere, never *king*. Reading 王 here would still not produce a king in the English.
 
 **域 / 國.** Our base reads 域中 (*yù zhōng*); Guodian, both silks and Beida all read 國中 (*guó zhōng* — within the state). Not meaning-bearing — 域 and 國 are one root 或 (*huò*) with two different classifiers, soil under it or a wall around it — but worth noticing that the **state** word is the one every excavated witness carries. The territorial frame is the oldest layer here. *(Note also 有物**混**成 / 有物**昆**成 — a graphic variant only, both "merged, undifferentiated"; not meaning-bearing.)*
 
@@ -320,7 +320,7 @@ Received: 晚成, "completed **late**." Mawangdui reads 免成, Guodian reads �
 
 ### Ch 42 · 教父 / 學父 — father of teaching, or of learning
 
-Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"this I take as the root of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line: 父 here means *origin / root*, not "godfather"; and there is no possessive in the Chinese — it is "the root of learning," not "of *my* learning." The 吾 is only the one who adopts it.)
+Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"I take this as the father of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line. 父 (*fù* — father) is *father*, as 母 (*mǔ* — mother) is *mother*: Heshang Gong glosses it 始 (*shǐ* — beginning), and English *the father of* carries that sense without cooling the word into *origin* or *root*, which this note read until 2026-10-26, Shalom's call. And there is no possessive in the Chinese: it is "the father of learning," not "of *my* learning." The 吾 (*wú* — I) is only the one who adopts it.)
 
 ### Ch 46 · 禍莫大於不知足 — the manuscripts remember a third clause
 
@@ -357,6 +357,12 @@ Where our received base reads 國 (*guó* — state) seven times in this chapter
 #### 則取大國 — active, not passive
 
 Received: 小國以下大國，則**取**大國 — *"a small state, by going below a large state, then **takes** the large state."* The Chinese carries no passive marker, yet most translations render the second half passively ("is taken by the large state"), and some editions supply 於 (取**於**大國) to license it. We keep the **active** reading in both halves. The chiastic repetition is the argument: the same move, made by either party, acquires the other. Heshang Gong reads it so as well, glossing the pair as the large state gaining the small state's goodwill and the small state gaining the large state's favour. Making the second half passive restores exactly the ordinary power relation this chapter exists to invert.
+
+#### 以靜為下 / 為其靜也，故宜為下 — the silks give a reason, and we keep the base
+
+Received: 牝常以靜勝牡，**以靜為下** — *"the female always overcomes the male by stillness; **by stillness she is underneath**."* **Both Mawangdui silks read 為其靜也，故宜為下** (*wèi qí jìng yě, gù yí wéi xià* — "because she is still, therefore it is fitting that she be underneath"). Silk B is intact and ends 也 (*yě*). Silk A has lost the two graphs after 靜 and writes 靚 (*jìng*), a loan for 靜. Both write 恆 (*héng* — ever) for 常 (*cháng*). Guodian does not carry the chapter. **Meaning-bearing:** the base says stillness is the *means* by which she is underneath, and the silks say it is the *cause*, then add 宜 (*yí*), a judgment that the place suits her. In the silks 宜為下 (*yí wéi xià* — "fitting to be underneath") then stands twice, once of the female and once in the chapter's last words, 大者宜為下 (*"it is fitting that the large one be underneath"*).
+
+**Our call: we keep the base.** *(2026-10-26, Shalom's call.)* 宜 is the Shuowen's 所安也 (*"where one is at rest"*), so in the Chinese it names her ease. **No English carries that.** *"It is fitting that she be underneath," "she belongs underneath"* and *"underneath suits her"* each read as a ruling on where the female belongs, and any of them, lifted out of a chapter in which she wins, could serve as a rationale for her domination. In Shalom's words, we don't allow a translation that could be used that way. The base keeps her the subject of both lines, overcoming and underneath, with no one ruling on her place, and it repeats 以靜 (*yǐ jìng* — "by stillness"), as the English does. **The silks' sense is not lost.** Wang Bi, commenting on our base, reads it causally: 以其靜故能為下也 (*"because she is still, she is able to be underneath"*). English *by* holds the cause and the means alike. **Cost:** we follow a transmitted reading against both excavated witnesses, and we give up the silks' clasp of 宜為下 said twice. The base's 為下 (*wéi xià* — "be underneath") twice still binds the female to the large state. Read from an online transcription, not the printed volume: `WORKLIST` T2-74.
 
 ### Ch 62 · 奧 / 注 — the chapter's first word is not in the oldest witnesses
 

@@ -6,13 +6,15 @@
 
 ---
 
-# ⛔ BEFORE YOU WRITE ANYTHING: gloss every Chinese character, every time
+# ⛔ The gloss rule: before you write anything, gloss every Chinese character, every time
 
 **Shalom does not read Chinese.** Never write a Chinese character, word, phrase, line, or chapter title — in conversation, in a document, in a commit message, in a table, anywhere — without an English rendering immediately beside it.
 
 **The format, always:** 為 (*wéi* — "to do / to handle"). Character, then pinyin with tone marks and English in parentheses right after it. Never a bare 為.
 
 **Names are the one exception: write them romanized, with no Chinese at all.** Commentators, authors, dictionaries and witnesses go by their romanized names: Wang Bi, Heshang Gong, Han Fei, Xu Shen, the Shuowen, Guodian, Mawangdui. Never "王弼's grammar," and not "王弼 (*Wáng Bì*)" either: a name in characters is one more thing the reader has to get past, and it makes an entry cryptic for anyone who does not read Chinese. *(Shalom's call, 2026-10-25, on the draft of `glossary/gu-谷.md`. Older files still write names in characters; romanize them when you are editing that passage anyway.)*
+
+**A verse quote is the other exception: its English stands beside its Chinese, and is its gloss.** When a glossary entry quotes the book's own verse as a block, it gives our English lines, then the Chinese lines, broken where the English breaks, then the chapter, with no pinyin and no literal gloss. The atlas sets the two side by side, line against line. Where an argument needs a literal reading, write it in the prose beside the quote, glossed as above. *(Shalom's call, 2026-10-26: the old form read as dense and unwelcoming. The shape is in `process/skills/glossary-entry/SKILL.md` §3.)*
 
 **This applies even when:**
 - the term was glossed earlier in the same session, or in the same message
@@ -23,7 +25,7 @@
 
 A working approximation is fine and expected; the *deep* meaning is what the glossary entry is for. **Unglossed Chinese makes the work unreadable to the person whose work it is** — it silently converts a question into a thing he cannot answer.
 
-*This is standing rule 0 below. It is repeated here because it is the rule most often broken, and it was broken repeatedly on 2026-08-28 despite being written down.*
+*It stands here, above everything else, because it is the rule most often broken: it was broken repeatedly on 2026-08-28 despite being written down.*
 
 ---
 
@@ -40,7 +42,7 @@ A working approximation is fine and expected; the *deep* meaning is what the glo
    A 🔶 is provisional — one case so far, so weigh it rather than obey it.
 4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. **⚠ §1's central claim was superseded on 2026-08-20;** the file carries a banner. The *heaven* half stands, the *king* half was backwards, and the lesson worth keeping is that a popular "帛書版" (*bó shū bǎn* — "silk-manuscript edition") text online had been silently emended and we took it for the silks. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
 
-**One call is deferred by Shalom and must not be quietly settled inside a chapter review** — 正/奇 (*zhèng / qí* — straight / crooked). *(Two others were taken up and settled: 民/人 (*mín / rén* — the people / a person) on 2026-10-14, `glossary/min-民.md`, and the dashes in the verse on 2026-10-25, standing rule 5.)* Argue them with new evidence if you have it; otherwise leave them. `WORKLIST.md` T4.
+**One call is deferred by Shalom and must not be quietly settled inside a chapter review** — 正/奇 (*zhèng / qí* — straight / crooked). *(Two others were taken up and settled: 民/人 (*mín / rén* — the people / a person) on 2026-10-14, `glossary/min-民.md`, and the dashes in the verse on 2026-10-25, standing rule 4.)* Argue them with new evidence if you have it; otherwise leave them. `WORKLIST.md` T4.
 
 ---
 
@@ -84,13 +86,14 @@ He decides; the AI argues. Bring him a **clear recommendation with the evidence 
 
 ## Standing rules — non-negotiable
 
-0. **Shalom does not read Chinese. Gloss every character, every time — see the banner at the top of this file.** Never write a Chinese character, phrase, or line in conversation or in a document without an immediate English rendering beside it — e.g. 為 (*wéi* — "to do / to handle"), not bare 為. This includes chapter titles, compounds, and terms already discussed earlier in the session. **Names of commentators and sources are written romanized, with no characters** — Wang Bi, Heshang Gong, the Shuowen — never 王弼 or 王弼 (*Wáng Bì*). A working approximation is fine and expected; the *deep* meaning is what the glossary entry itself is for. Unglossed Chinese makes the work unreadable to the person whose work it is.
-1. **Never refer to the Sage as "he."** Use singular *they/their*, or recast. This is an impermissible gender bias. Applies to all archetypal figures.
-2. **Universality over the incidental male-default.** The text exalts the feminine as principle yet assumes the male as cultural default. Where they collide: **render toward the universal, note the seam.** Never erase the male-centrism silently.
-3. **Consult sources for *meaning*, never for *phrasing*.** Pre-1931 public domain only. Waley (1934) and later are off-limits.
-4. **Honesty over false closure.** Where the text is genuinely double, say so and leave the tension open.
-5. **Typography: lowercase everything but the Tao; a dash in the verse only where its subject is named on both sides.** English capitals confer status — they turn a word into a doctrine (*the sage*, *the mother*, *the uncarved*, *stillness*, never *the Sage*). 道 keeps its capital as a proper name; nothing else does. **The verse's dash is the spaced em-dash ( — ).** It may hold a topic up and let the next words name it again: *this*, *which*, *its*, a question. That is the Chinese topic–comment shape, often before 是謂 (*shì wèi* — "this is called"): *"The dark female's gate — / this is called the root of sky and earth."* It is barred where the clause after it trails into an action whose doer goes unnamed, because classical Chinese omits subjects freely, English cannot, and a dash there disguises the gap instead of closing it. Name the subject. Keep dashes rare; in numbers they still read as a machine tell. *(Shalom's call, 2026-10-25, replacing a blanket ban and closing `WORKLIST` T4-3. Full reasoning in `notes/translation.md` → *Typography*.)*
-6. **Every decision gets logged** in one of the three notes layers. See below.
+1. **The female is never subordinated, and the male is never the default.** Three parts, one rule:
+   - **No rendering that could be used to justify the domination of the female.** Before a line about her goes into the verse, lift it out of its chapter and read it as a sentence someone could quote about women. That covers 牝 (*pìn* — the female), 雌 (*cí* — the hen), 母 (*mǔ* — mother), the dark female's gate, and the soft, the still and the low wherever they stand for her. If the line could serve as a rationale for keeping her under, it does not go in. Keep her the subject of what she does, never the object of someone's ruling on her place. **This does not soften her.** In this book her power *is* being underneath, soft and still, and the English keeps all three. What it refuses is English that turns them into her assigned place: *fitting*, *belongs*, *suits*, *passive*, *submissive*. **The rule binds the English, so it can outweigh a witness.** Where no English for the oldest reading passes this test, keep the reading that does, and give the other reading and its cost in the notes, so nothing the Chinese says is hidden. *(Shalom's call, 2026-10-26, at ch 61, where both Mawangdui silks read 故宜為下 (*gù yí wéi xià* — "therefore it is fitting that she be underneath") and the base was kept: `notes/manuscript.md`. The hen entry's refusal of *passive* is the same rule: `glossary/ci-雌.md`.)*
+   - **Never refer to the sage as "he."** Use singular *they/their*, or recast. This is an impermissible gender bias, and it applies to every archetypal figure.
+   - **Universality over the incidental male-default.** The text exalts the feminine as principle yet assumes the male as cultural default. Where they collide: **render toward the universal, note the seam.** Never erase the male-centrism silently.
+2. **Consult sources for *meaning*, never for *phrasing*.** Pre-1931 public domain only. Waley (1934) and later are off-limits.
+3. **Honesty over false closure.** Where the text is genuinely double, say so and leave the tension open.
+4. **Typography: lowercase everything but the Tao; a dash in the verse only where its subject is named on both sides.** English capitals confer status — they turn a word into a doctrine (*the sage*, *the mother*, *the uncarved*, *stillness*, never *the Sage*). 道 keeps its capital as a proper name; nothing else does. **The verse's dash is the spaced em-dash ( — ).** It may hold a topic up and let the next words name it again: *this*, *which*, *its*, a question. That is the Chinese topic–comment shape, often before 是謂 (*shì wèi* — "this is called"): *"The dark female's gate — / this is called the root of sky and earth."* It is barred where the clause after it trails into an action whose doer goes unnamed, because classical Chinese omits subjects freely, English cannot, and a dash there disguises the gap instead of closing it. Name the subject. Keep dashes rare; in numbers they still read as a machine tell. *(Shalom's call, 2026-10-25, replacing a blanket ban and closing `WORKLIST` T4-3. Full reasoning in `notes/translation.md` → *Typography*.)*
+5. **Every strategic decision gets logged** in one of the three notes layers. See below.
 
 **Every rule above, and every lock below, is subject to `shaloms-call`.** Shalom can set aside any rule in this repo; when he does, it is recorded in **`process/shaloms-call.md`** — **read that file at session start, with `WORKLIST.md` → *Start here*.** Where a call is in effect, the call wins: say so once and proceed. **Argue hard *before* the call — that is the prime directive. Execute *after* it, without relitigating.** The AI never writes a call on its own initiative.
 
@@ -170,7 +173,7 @@ Three commentaries are vendored — 王弼 (*Wáng Bì*, d. 249 CE), 河上公 (
 
 **Run them before drafting a chapter and before changing a settled line.** Three of this session's findings came from exactly that and could not have come from anywhere else: Wang Bi's gloss 此上之所云也 settled the referent of 此 in Ch 21; the Siku compilers' note 〔案狀各本俱作然〕 reopened a decision made an hour earlier; Han Feizi's 大必起於小 supplied a reading of Ch 63's hardest line.
 
-**Quote, gloss, and cite them — never copy their English.** There is no English in these files; they are the Chinese. The pre-1931 rule in standing rule 3 governs *translations*, and none are in this repository.
+**Quote, gloss, and cite them — never copy their English.** There is no English in these files; they are the Chinese. The pre-1931 rule in standing rule 2 governs *translations*, and none are in this repository.
 
 **When they disagree, that is the finding.** Convergence is strong evidence; divergence gets logged in `notes/manuscript.md` and, if it is a textual fork, in `sources/variants.yaml`. Do not average them into a consensus.
 

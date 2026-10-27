@@ -261,11 +261,12 @@
   line: "以閱眾甫"
   base: "甫"
   witnesses: { mawangdui-a: "父", mawangdui-b: "父" }
-  meaning_bearing: false
+  meaning_bearing: true
   our_call: base
   note: >
-    No decision needed. Ch 42 already settled that 父 here means origin or
-    root, not father in the personal sense, so both give "origin" in English.
+    Open since 2026-10-26. 甫 (beginning) gives our "origin." Ch 42 now reads
+    父 as "father" (Shalom's call), so the silks' 眾父 would read "the father
+    of the multitude." WORKLIST.md T4-10.
   logged: notes/manuscript.md
 
 - chapter: 21
@@ -476,7 +477,8 @@
   our_call: mawangdui-a
   note: >
     Father of teaching, against father of learning. We follow the silk — the
-    bolder reading and the older one. 父 means origin or root here.
+    bolder reading and the older one. 父 is father: "the father of learning"
+    (Shalom's call, 2026-10-26; it read "root" until then).
   logged: notes/manuscript.md
 
 - chapter: 46
@@ -564,6 +566,27 @@
     Not a witness fork but an editorial one: some editions supply 於 (取於大國)
     to license a passive reading. We keep the active in both halves, since the
     chiastic repetition is the argument. Heshang Gong reads it actively too.
+  logged: notes/manuscript.md
+
+# Recorded 2026-10-26 from the Wikisource transcriptions of silks A and B,
+# which follow 長沙馬王堆漢墓簡帛集成 (Collected Bamboo and Silk Manuscripts
+# of the Mawangdui Han Tombs, 2014). The printed volumes were not consulted;
+# see WORKLIST T2-74.
+
+- chapter: 61
+  line: "牝常以靜勝牡，以靜為下"
+  base: "以靜為下"
+  witnesses: { mawangdui-a: "為其靜…宜為下 (two graphs lost; 靚 for 靜)", mawangdui-b: "為其靜也，故宜為下也" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The silks give a reason where the base gives a means: "because she is
+    still, therefore it is fitting that she be underneath," against "by
+    stillness she is underneath." We keep the base against both excavated
+    witnesses, Shalom's call 2026-10-26: every English for the silks' 宜 (yi -
+    fitting) said of the female reads as a verdict on where she belongs, which
+    could be used to justify her domination. Wang Bi reads the base causally
+    (以其靜故能為下也), so the silks' sense survives in English "by."
   logged: notes/manuscript.md
 
 - chapter: 63

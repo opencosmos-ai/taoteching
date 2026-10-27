@@ -173,7 +173,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 象,xiàng,"image / seem, resemble (4)",,象,exact,象,pictograph,,,,5,,0.0391,長鼻牙，南越大獸，三秊一乳，象耳牙四足之形。凡象之屬皆从象。,
 慈,cí,tenderness,tenderness,慈,exact,心,phonetic-compound,,心 (xīn = heart),兹 (? = not yet glossed),7,locked,0.0389,愛也。从心兹聲。,
 辱,rǔ,"soiled (beside white, 28, 41) / disgrace (social, 13, 44)",,辱,exact,辰,compound,,"寸 (cùn = inch) + 在 (zài = in / be in) + 辰 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world))",,6,,0.0385,恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也。,
-牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The female of livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
+牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 遠,yuǎn,far,,遠,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",袁 (? = not yet glossed),5,,0.0382,遼也。从辵袁聲。,
 害,hài,harm / hinder (66),,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
 殆,dài,danger,,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,,0.038,危也。从歺台聲。,
@@ -386,7 +386,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 捨,shě,abandon,,捨,exact,手,phonetic-compound,,手 (shǒu = hand),舍 (? = not yet glossed),3,,0.0167,釋也。从手舍聲。,
 契,qì,tally,,契,exact,大,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 㓞 (? = not yet glossed)",,2,,0.0165,大約也。从大从㓞。《易》曰：“後代聖人易之以書契。”,
 歙,xì,"draw in / breathe gently (歙歙, 49)",,歙,exact,欠,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",翕 (? = not yet glossed),3,,0.0165,縮鼻也。从欠翕聲。丹陽有歙縣。,
-甫,fǔ,origin/father,,甫,exact,用,phonetic-compound,,用 (yòng = use),"父 (fù = father, root (教父, root of learning))",2,,0.0165,男子美稱也。从用、父，父亦聲。,
+甫,fǔ,origin/father,,甫,exact,用,phonetic-compound,,用 (yòng = use),"父 (fù = father (學父, the father of learning))",2,,0.0165,男子美稱也。从用、父，父亦聲。,
 剛,gāng,unbending,unbending,剛,exact,刀,phonetic-compound,,刀 (dāo = a knife),岡 (? = not yet glossed),2,locked,0.0163,彊斷也。从刀岡聲。,
 廢,fèi,abandoned/abolished,,廢,exact,广,phonetic-compound,,广 (yǎn = a shelter built against a bank),發 (fā = burst (39) / break out (12)),2,,0.0163,屋頓也。从广發聲。,
 忠,zhōng,loyalty,loyalty,忠,exact,心,phonetic-compound,,心 (xīn = heart),中 (zhōng = within / center (5) / middling (41)),2,locked,0.0163,敬也。从心中聲。,
@@ -502,7 +502,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 活,huó,stay alive / live,,活,exact,水,phonetic-compound,,水 (shuǐ = water),𠯑 (? = not yet glossed),1,,0.0108,水流聲。从水𠯑聲。,
 渾,hún,muddy,,渾,exact,水,phonetic-compound,,水 (shuǐ = water),軍 (jūn = army / military / general (將軍)),1,,0.0108,混流聲也。从水軍聲。一曰洿下皃。,
 爪,zhǎo,claw,,爪,exact,爪,pictograph,,,,1,,0.0108,丮也。覆手曰爪。象形。凡爪之屬皆从爪。,
-父,fù,"father, root (教父, root of learning)",,父,exact,又,compound,,又 (yòu = again / and further) + 舉 (jǔ = lift) + 杖 (? = not yet glossed),,1,,0.0108,矩也。家長率教者。从又舉杖。,
+父,fù,"father (學父, the father of learning)",,父,exact,又,compound,,又 (yòu = again / and further) + 舉 (jǔ = lift) + 杖 (? = not yet glossed),,1,,0.0108,矩也。家長率教者。从又舉杖。,
 爽,shuǎng,dull/spoiled,,爽,exact,㸚,compound,,"㸚 (? = not yet glossed) + 大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,1,,0.0108,明也。从㸚从大。,
 犬,quǎn,dog,,犬,exact,犬,pictograph,,,,1,,0.0108,狗之有縣蹏者也。象形。孔子曰：“視犬之字如畫狗也。”凡犬之屬皆从犬。,
 盲,máng,blind,,盲,exact,目,phonetic-compound,,目 (mù = eye),亡 (wáng = loss / perish / forget (41)),1,,0.0108,目無牟子。从目亡聲。,

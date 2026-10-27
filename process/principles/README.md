@@ -27,9 +27,9 @@ So: **a principle gets its own file, addressable by name, loaded by the skills a
 | A rule Shalom has set aside | `process/shaloms-call.md` | a suspension, not a principle |
 | What the manuscript still owes | `WORKLIST.md` | |
 | A finding worth an essay | `DISCOVERIES.md` | |
-| One of `CLAUDE.md`'s standing rules 0–6 | **stays in `CLAUDE.md`** | see below |
+| One of `CLAUDE.md`'s standing rules 1–5 | **stays in `CLAUDE.md`** | see below |
 
-**Standing rules 0–6 are deliberately not kept here, and that is a decision rather than an oversight.** They are already indexed, already read at the start of every session, and several are enforced by `check_locks.py`. This directory exists for rules with **no** home; copying `CLAUDE.md` into it would rebuild precisely the failure that killed the hand-kept lock table — two copies, one of which goes stale. **Where a standing rule needs an argument rather than a statement, the argument goes in the layer that owns it** — `glossary/` for a term, `notes/translation.md` for a decision, a principle here only if it generalises past the rule.
+**Standing rules 1–5 are deliberately not kept here, and that is a decision rather than an oversight.** They are already indexed, already read at the start of every session, and several are enforced by `check_locks.py`. This directory exists for rules with **no** home; copying `CLAUDE.md` into it would rebuild precisely the failure that killed the hand-kept lock table — two copies, one of which goes stale. **Where a standing rule needs an argument rather than a statement, the argument goes in the layer that owns it** — `glossary/` for a term, `notes/translation.md` for a decision, a principle here only if it generalises past the rule.
 
 **The test: does it tell you something about a chapter you have not read yet?** If it only explains one line, it is a chapter note.
 

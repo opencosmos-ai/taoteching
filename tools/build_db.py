@@ -19,7 +19,7 @@ excavated manuscripts outright and says a `shaloms-call` cannot reach it, so thi
 is not a preference the schema can be talked out of later.
 
 **No row carries a Chinese character without pinyin and English beside it.**
-`CLAUDE.md` standing rule 0, made mechanical. A `characters.csv` that opens as a
+`CLAUDE.md` the gloss rule, made mechanical. A `characters.csv` that opens as a
 column of glyphs is that rule broken 798 times in one file, and the rule records
 its own repeated failure as prose. Here it is a check that fails the build.
 
@@ -212,7 +212,7 @@ CREATE TABLE component (
 
 -- Every graph the corpus can show a reader, whether or not it occurs in the
 -- Laozi: the book's own characters plus the components they are built from.
--- Standing rule 0 needs this — a component with no English makes the whole
+-- The gloss rule needs this — a component with no English makes the whole
 -- decomposition layer unreadable, which is the layer it exists for.
 CREATE TABLE glyph (
     char   TEXT PRIMARY KEY,
@@ -627,7 +627,7 @@ def build(conn, report=False):
     # His Chinese comes from the vendored commentary frontmatter; the pinyin and
     # English come from sources/heshanggong-titles.yaml, which is our own work and
     # is marked there as working renderings pending review. They arrive glossed
-    # or not at all — a bare title would breach standing rule 0, and export.py
+    # or not at all — a bare title would breach the gloss rule, and export.py
     # would refuse to emit it.
     hsg = COMMENTARIES / "heshanggong"
     if hsg.is_dir():
@@ -1106,7 +1106,7 @@ def print_report(cur, stats, align_stats):
     print(f"    authored          {align_stats['authored']} chapters")
     print(f"    exact-count       {align_stats['exact']} chapters")
 
-    print("\n  gloss coverage — standing rule 0, measured")
+    print("\n  gloss coverage — the gloss rule, measured")
     rows = cur.execute(
         "SELECT gloss_source, count(*), sum(total) FROM character"
         " GROUP BY gloss_source ORDER BY sum(total) DESC").fetchall()
@@ -1134,7 +1134,7 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (110, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (111, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
                        "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
@@ -1149,7 +1149,8 @@ BASELINE = {
                        "96→105 the valley's lines, 谷 / 浴 in chs 6, 15, 28, 39, 41, 66, ch 15 曠 / 莊, "
                        "ch 28 榮 / 白, ch 32 川谷 / 小谷, 2026-10-25 (glossary/gu-谷.md) · "
                        "105→110 water's lines, ch 8 若 / 治 / 如, 不爭 / 有靜, 處 / 居, ch 78 柔 / 水, 垢 / 訽, "
-                       "2026-10-25 (glossary/shui-水.md)"),
+                       "2026-10-25 (glossary/shui-水.md) · "
+                       "110→111 ch 61 以靜為下 / 為其靜也，故宜為下, the silks' reason, 2026-10-26 (notes/manuscript.md)"),
     "verse_line": (857, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20 · "
@@ -1190,7 +1191,7 @@ def verify(cur):
 
     missing = cur.execute(
         "SELECT count(*) FROM token WHERE pinyin IS NULL").fetchone()[0]
-    print(f"    {'ok ' if missing == 0 else 'FAIL'} rule 0       "
+    print(f"    {'ok ' if missing == 0 else 'FAIL'} gloss rule   "
           f"{missing} tokens with no pinyin")
     ok &= missing == 0
     return ok
