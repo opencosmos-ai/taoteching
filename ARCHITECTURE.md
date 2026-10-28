@@ -375,6 +375,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`process/method.md`](process/method.md) | translator and collaborators | how a chapter is actually translated |
 | [`process/overlay-audit.md`](process/overlay-audit.md) | same | reading Laozi without the missionary lens |
 | [`process/form-audit.md`](process/form-audit.md) | same, and readers | the source's formal devices, and where the English keeps or departs from each |
+| [`process/accuracy-audit.md`](process/accuracy-audit.md) | same, and readers | every line read for what the English drops or adds, and which departures were chosen |
 | [`process/back-translation-audit.md`](process/back-translation-audit.md) | same, and readers | blind readers of the English against blind readers of the Chinese: where a reader of the English comes away with something else. Raw reports in `process/back-translation/`, frozen |
 | [`process/skills/`](process/skills/README.md) | AI collaborators | the method made executable — exposed to Claude by relative links in `.claude/skills/` |
 | [`WORKLIST.md`](WORKLIST.md) | whoever picks up the work | what is still owed, prioritized |
