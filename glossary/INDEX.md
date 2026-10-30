@@ -28,7 +28,7 @@ python3 tools/build_index.py
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
-| **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clever* (ch 65) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
+| **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) · *clever* (ch 65) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |

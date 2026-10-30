@@ -574,13 +574,13 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 32,10,谷,gǔ,谷,valley,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
-33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,One who knows themselves sees clearly.
+33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,exact-count,One who knows themselves is clear-seeing.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
-33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
-33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
-33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who forces themselves onward has will.
+33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
+33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
+33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 34,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.

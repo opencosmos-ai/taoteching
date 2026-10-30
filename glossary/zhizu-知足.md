@@ -40,12 +40,12 @@ pairing: false
 
 ### Four lines, and in each one the knowing is the wealth
 
-> *One who knows others is intelligent.*
-> *One who knows themselves sees clearly.*
+> *One who knows others is clever.*
+> *One who knows themselves is clear-seeing.*
 > *One who overcomes others has force.*
 > *One who overcomes themselves is strong.*
 > *One who knows they have enough is wealthy.*
-> *One who forces themselves onward has will.*
+> *One who walks with strength has purpose.*
 >
 > 知人者智，
 > 自知者明。
@@ -140,7 +140,7 @@ pairing: false
 
 ### Left open
 
-**Chapter 33's ladder, and whether the English climbs it.** The chapter climbs *knows others*, *knows themselves*, and then, in the English, *knows they have enough*, where the Chinese says only 知足 (*zhī zú* — "knows enough"). *One who knows enough is wealthy* would give the three rungs one shape and shorten the line by two words. Its cost is real: English *knows enough* usually means *has enough knowledge*, and chapter 33 has just spent two lines on knowing. The question is Shalom's: `WORKLIST.md` T3-21.
+**Chapter 33's third rung is longer than the first two.** The Chinese climbs in three steps of two characters: 知人 (*zhī rén* — "knows others"), 自知 (*zì zhī* — "knows themselves"), 知足 (*zhī zú* — "knows enough"). The English spends five words on the third, *knows they have enough*, because *knows enough* is heard as *has enough knowledge*, and *knows sufficiency* would make the recognition a concept and is ruled out here *(Shalom's call, 2026-10-30)*. The rungs are even in Chinese and uneven in English, and the English keeps the meaning over the shape.
 
 **Whether 足 (zú — enough, foot) wants an entry of its own.** This entry governs four lines. 足 stands in seventeen, with several Englishes for 不足 (*bù zú* — "not enough") and a foot in chapter 64 that no entry argues for. An entry for 足 would hold both senses in one place, and could take this one in as its compound: `WORKLIST.md` T2-75.
 
