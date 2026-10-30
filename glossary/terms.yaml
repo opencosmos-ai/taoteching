@@ -507,10 +507,12 @@
 - term: "知足"
   pinyin: "zhī zú"
   render: "knowing you have enough / contentment"
-  forbidden: ["sufficiency", "fulfilled"]
+  forbidden: ["sufficiency", "fulfilled", "satisfaction"]
   chapters: [33, 44, 46]
   status: locked
   entry: glossary/zhizu-知足.md
+  flexions:
+    - { english: "discontent", chapters: [46], why: "不知足 (bù zhī zú — not knowing enough) stands as the subject of a comparison, and English wants a noun there" }
 
 - term: "命"
   pinyin: "mìng"
