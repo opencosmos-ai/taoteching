@@ -28,7 +28,7 @@ NOT_YET = {
     "shan-善", "shen-身", "sheng-生", "sheng-聖", "shi-事", "shi-士", "shi-恃",
     "shou-守", "tian-天", "tiandi-天地", "wang-王", "wanwu-萬物", "wei-唯", "wei-為",
     "wo-wu-我吾", "wu-you-無有", "wuwei-無為", "xin-信", "xin-心", "xing-行", "xu-虛",
-    "xuan-miao-玄妙", "yi-一", "you-尤", "zheng-爭", "zhi-執", "zhi-治", "zhizu-知足",
+    "xuan-miao-玄妙", "yi-一", "you-尤", "zheng-爭", "zhi-執", "zhi-治",
     "zhong-眾", "ziran-自然",
 }
 

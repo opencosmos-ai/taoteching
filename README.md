@@ -51,7 +51,7 @@ The cost is that the opening line loses some of its music. I don't make that tra
 
 - **The glossary is both the ruling and the rule.** Each entry ([`glossary/INDEX.md`](glossary/INDEX.md) lists them all) argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
-- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of <!-- count: shuowen -->764 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->112 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
+- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of <!-- count: shuowen -->764 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->114 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
@@ -188,7 +188,7 @@ asking you before anything is posted.
 
 If you want something more concrete:
 
-- **<!-- count: gloss:word -->537 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
+- **<!-- count: gloss:word -->538 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
 - **<!-- count: dash-chapters -->9 chapters carry a dash in the verse**, each allowed only

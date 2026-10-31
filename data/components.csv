@@ -118,8 +118,8 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 乁,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"今,市"
 乙,,,phonetic,"no gloss needed: present for sound, not meaning",2,"失,曰"
 亏,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"平,智"
-亡,wáng,loss / perish / forget (41),phonetic,glossed,2,"妄,盲"
-亡,wáng,loss / perish / forget (41),semantic,glossed,2,"望,無"
+亡,wáng,vanish (33) / loss / forget (41),phonetic,glossed,2,"妄,盲"
+亡,wáng,vanish (33) / loss / forget (41),semantic,glossed,2,"望,無"
 交,jiāo,converge / confluence (61),phonetic,glossed,2,"要,郊"
 亾,,,phonetic,"no gloss needed: present for sound, not meaning",2,"喪,長"
 仌,bīng,ice,semantic,glossed,2,"冬,冰"
@@ -339,7 +339,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 坴,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,陸
 壬,,,phonetic,"no gloss needed: present for sound, not meaning",1,聽
 壬,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,重
-壽,shòu,has true longevity,phonetic,glossed,1,籌
+壽,shòu,live long,phonetic,glossed,1,籌
 夅,,,phonetic,"no gloss needed: present for sound, not meaning",1,降
 夗,,,phonetic,"no gloss needed: present for sound, not meaning",1,怨
 多,Duō,"much, many / more",phonetic,glossed,1,宜

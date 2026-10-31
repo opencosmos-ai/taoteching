@@ -167,6 +167,7 @@
   status: locked
   entry: glossary/ming-明.md
   flexions:
+    - { english: "clear-seeing", chapters: [33], why: "ch 33 sets its six bare predicates as *is* + one word, and 明 stands among them; the chapter's shape is the licence (Shalom's call, 2026-10-30)" }
     - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 
 - term: "無為"
@@ -507,10 +508,12 @@
 - term: "知足"
   pinyin: "zhī zú"
   render: "knowing you have enough / contentment"
-  forbidden: ["sufficiency", "fulfilled"]
+  forbidden: ["sufficiency", "fulfilled", "satisfaction"]
   chapters: [33, 44, 46]
   status: locked
   entry: glossary/zhizu-知足.md
+  flexions:
+    - { english: "discontent", chapters: [46], why: "不知足 (bù zhī zú — not knowing enough) stands as the subject of a comparison, and English wants a noun there" }
 
 - term: "命"
   pinyin: "mìng"

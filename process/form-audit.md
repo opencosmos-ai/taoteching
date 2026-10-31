@@ -119,7 +119,7 @@
 
 | Ch | The pair | Verdict |
 |---|---|---|
-| 33 | 知人者智，自知者明 (*zhī rén zhě zhì, zì zhī zhě míng* — "one who knows others is clever, one who knows themselves sees clearly") | **Kept** |
+| 33 | 知人者智，自知者明 (*zhī rén zhě zhì, zì zhī zhě míng* — "one who knows others is clever, one who knows themselves is clear-seeing") | **Kept** |
 | 40 | 反者道之動，弱者道之用 (*fǎn zhě dào zhī dòng, ruò zhě dào zhī yòng* — "returning is the Tao's movement, yielding is the Tao's use") | **Kept** |
 | 48 | 為學日益，為道日損 (*wéi xué rì yì, wéi dào rì sǔn* — "pursuing learning, increase daily; pursuing the Tao, decrease daily") | **Kept** |
 | 64 | 為者敗之…無為故無敗 (*wéi zhě bài zhī… wú wéi gù wú bài* — "those who do it ruin it… not doing, so no ruin") | **Lost.** 為 (*wéi* — do) reads *handle* in one half and *do* in the other: *"Those who handle it ruin it"* against *"the sage does not do, and so ruins nothing"* |
@@ -727,7 +727,7 @@ See *Chapter 6* above. Chain kept; doubling open (T2-67). The second read confir
 **Kept:** the chain 有名，名亦既有 (*yǒu míng, míng yì jì yǒu* — "there are names; since names exist"); the chain 知止，知止 (*zhī zhǐ, zhī zhǐ* — "know when to stop; knowing when to stop"); 侯王若能守之，萬物將自▢ (*hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì ▢* — "if rulers can hold to this, the countless things will ▢ of themselves"), word for word as ch 37.
 
 #### Ch 33
-**Kept:** the four couplets, each ▢者▢ (*▢ zhě ▢* — "one who ▢ is ▢"), with 知人 / 自知 (*zhī rén / zì zhī* — "knows others / knows themselves") and 勝人 / 自勝 (*shèng rén / zì shèng* — "overcomes others / overcomes themselves") mirrored. *Has force* for 有力 (*yǒu lì* — has strength) two lines above *forces themselves onward* for 強行 (*qiáng xíng* — presses on) is not an invented echo: `glossary/qiang-強.md` covers 力 (*lì* — force) inside 強's (*qiáng* — strong) own lock, so the two are kin by decision.
+**Kept:** the four couplets, each ▢者▢ (*▢ zhě ▢* — "one who ▢ is ▢"), with 知人 / 自知 (*zhī rén / zì zhī* — "knows others / knows themselves") and 勝人 / 自勝 (*shèng rén / zì shèng* — "overcomes others / overcomes themselves") mirrored. The bare predicates read *is* + one word through three couplets, the close turns on two verbs (*endures / lives long*), and *has* stands only where the Chinese prints 有 (*yǒu* — has): *has force* for 有力 (*yǒu lì* — has strength), *has purpose* for 有志 (*yǒu zhì* — has intent). 強 (*qiáng* — strong) carries from line 4 into line 6, *is strong* and then *walks with strength*, as the Chinese reuses it. *(Shalom's call, 2026-10-30; the chapter's notes.)*
 
 #### Ch 34
 **Kept:** 可名於小 / 可名為大 (*kě míng yú xiǎo / kě míng wéi dà* — "can be called small / can be called great"); the chain 不自為大，故能成其大 (*bù zì wéi dà, gù néng chéng qí dà* — "does not make itself great, so it can complete its greatness"), matched with ch 63. **Lost:** 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") stands twice and reads *claims no ownership*, then *Without acting as their master*; and 功成而不名有 (*gōng chéng ér bù míng yǒu* — "the work done, it does not claim to possess it") reads *It works without claiming to be the owner*, so *owner* and *ownership* fall on two different characters (T3-18). 功成 (*gōng chéng* — the work done) reads *The work is done* at 2 and 77 (T3-17). **Departed, reason owed:** 汎兮 (*fàn xī* — "overflowing!") (T3-14).
