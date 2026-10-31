@@ -2,8 +2,6 @@
 
 The dated spine of the work: **what landed, and when.** Newest first.
 
-**Last updated:** 2026-10-26
-
 > **This file exists because the dates were scattered and nothing held them.** *"The first draft is complete since 2026-08-26"* is in `WORKLIST.md`; *"built 2026-08-11"* is in `PLAN.md`; *"found at Chapter 11, 2026-09-05"* is in `DISCOVERIES.md`; the suspensions are dated in `process/shaloms-call.md` and the rules in `process/principles/`. Every one of those dates is authoritative where it sits. None of them is anywhere you can read the project's shape from.
 >
 > **`WORKLIST.md` is the single forward-looking file and this is the single backward-looking one.** Between them the repository's doctrine is unchanged: *nothing belongs in two of those.*
