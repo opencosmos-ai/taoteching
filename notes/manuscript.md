@@ -602,6 +602,10 @@ Our vendored 王弼 (*Wáng Bì*) prints 命並作爵 beneath 夫莫之命而常
 
 **Why it is worth keeping.** It is independent evidence for 命's **conferral** sense against its command sense, which is the open question in `glossary/ming-命.md` — and ch 51 currently renders 命 as *commands*, which is 令 (*lìng*)'s English in the identical 莫之X而 frame at ch 32.
 
+### Ch 33 · 死而不亡 / 死而不忘 — gone, or forgotten
+
+Our base reads 死而不亡者壽 (*sǐ ér bù wáng zhě shòu* — "one who dies but is not gone lives long"). Both Mawangdui silks write 忘 (*wàng* — to forget) for 亡 (*wáng* — to be gone), and silk A has no 而 (*ér* — but): *one who dies and is not forgotten lives long*. The two words sound alike, and the silks' reading puts the survival in memory. **We keep the base.** Wang Bi reads 亡: 雖死而以為生之道不亡，乃得全其壽 — *"though they die, the way they lived by is not gone, and so their long life is made whole."* The English, *dies but does not vanish*, leans toward both: what vanishes is lost to sight, and to memory. *(2026-10-30, from Xu Fancheng's collation notes; confirm against a printed edition, as `WORKLIST.md` T2-74 asks of the other recent rows.)*
+
 ### Ch 35 · 安平太 — three characters, three witnesses, and 太 never stands alone
 
 Our base reads 安平太 (*ān píng tài*). The Siku editors flag the spot inside 王弼 (*Wáng Bì*)'s own text: 〔案平太，河上公注本作太平，永樂大典作平泰〕 — *"as for 平太: 河上公 (*Héshàng Gōng*)'s annotated edition reads 太平; the 永樂大典 (*Yǒnglè Dàdiǎn*, the Ming encyclopaedia of 1408) reads 平泰."* Three witnesses, three orders.

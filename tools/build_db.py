@@ -1134,7 +1134,7 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (113, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (114, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
                        "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
@@ -1152,7 +1152,8 @@ BASELINE = {
                        "2026-10-25 (glossary/shui-水.md) · "
                        "110→111 ch 61 以靜為下 / 為其靜也，故宜為下, the silks' reason, 2026-10-26 (notes/manuscript.md) · "
                        "111→112 ch 61 天下之交 / 天下之牝, the silks' order, 2026-10-26 (notes/manuscript.md) · "
-                       "112→113 ch 46 知足之足 / 知足之為足, Guodian, 2026-10-30 (glossary/zhizu-知足.md)"),
+                       "112→113 ch 46 知足之足 / 知足之為足, Guodian, 2026-10-30 (glossary/zhizu-知足.md) · "
+                       "113→114 ch 33 不亡 / 不忘, the silks, 2026-10-30 (notes/manuscript.md)"),
     "verse_line": (857, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20 · "

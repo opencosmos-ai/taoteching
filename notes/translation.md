@@ -2448,7 +2448,7 @@ Repairing the link removed three imports in one move: **create** (生 *shēng*'s
 
 ### Ch 33 · the four couplets on one grammar
 
-*(2026-10-30, Shalom's call.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose / is enduring, is long-lived.* Couplets 1 and 2 rank, and 3 and 4 praise. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
+*(2026-10-30, Shalom's call.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose*, and the close turns on two verbs, *endures / lives long*. Couplets 1 and 2 rank, and 3 and 4 praise. 死而不亡 (*sǐ ér bù wáng* — "dies but is not gone") → *dies but does not vanish*. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
 
 ## Ch 35 · the whole chapter — one argument, cut in half and mystified
 
