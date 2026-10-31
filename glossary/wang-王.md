@@ -27,7 +27,7 @@ Every English Tao Te Ching renders 王 as **king**. The word arrives so naturall
 
 **The throne is not, however, a later insertion into the Chinese.** An earlier version of this entry said it was, on a bad reading of the Ch 25 witnesses. Corrected 2026-08-20: every excavated witness there reads 王, Guodian included, and the human reading is transmitted (傅奕, Tang; 范應元, Song). See `notes/manuscript.md` · Ch 25. **The case against *king* is unaffected**, because it never rested on the manuscripts — it rests on the graph and on the eight chapters below.
 
-### The character is an axe
+### The graph: an axe
 
 The oracle-bone form of 王 is a **broad axe-head, blade downward** — the ceremonial 鉞 (*yuè*), the great bronze battle-axe carried before a war leader. In Shang practice it was the instrument of execution, so to hold it was to hold the power over life and death.
 
@@ -96,7 +96,7 @@ Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社�
 
 **A note on the lock string.** *king* is forbidden as **" king"**, with a leading space, because as a bare substring it fires inside *walking*, *cooking*, *taking*, *making*, *seeking* and *thinking*. None currently occur in these eight chapters; one rewrite would be enough. The space is the difference between a lock and a nuisance.
 
-### What stays open
+### Left open
 
 **The office really was male, and the English no longer says so.** Where 侯王 and 王公 name the actual ruling stratum of the late Zhou — chapters 32, 37, 39, 42 — the people addressed were men. *Rulers* is true to the word and silent about the world. This edition renders toward the universal and notes the seam here rather than in the verse, which is standing rule 1 working as written; but the silence is real and a reader should know the room Laozi was speaking into.
 

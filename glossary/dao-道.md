@@ -69,7 +69,7 @@ Watch what he says of it, and the verbs give it away:
 
 All three explain the name through the road. The Tao is not named for what it *is*. It is named for the fact that everything travels it.
 
-### What we set aside
+### What is set aside
 
 - ***the Way*** — the honest literal, and the reason it is forbidden is the capital. Capitalized and alone, *the Way* becomes a creed. It belongs to the early Christian name for itself (*the Way*, Acts 9:2), to every "way of life" sold since, and to a one-word answer to a question the book keeps open. Forbidden as the name; *way*, lowercase and with an owner, is kept.
 - ***the Path*** — true to the road, but too small and too private. A path is one person's track through the woods, and 說文 says 道 is the road that runs straight through. Forbidden capitalized; *path* stays available as an ordinary word.
@@ -83,7 +83,7 @@ Chapter 25 says the name is forced, so we leave it visibly as a name. **"The Tao
 
 **What stays untranslated is the name, not the word.** The first line teaches this: 道可道 → *"The Tao that can be made a way."* *Tao* and *way* stand in the same sentence, so the reader learns what the name means before learning anything else.
 
-### The working register
+### Working register
 
 | Use | English | Chapters | Example |
 |---|---|---|---|

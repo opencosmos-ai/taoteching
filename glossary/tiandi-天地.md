@@ -20,13 +20,13 @@ Almost every English Tao Te Ching renders 天地 as "heaven and earth." The phra
 
 This is not an accident of taste; it has a traceable history. The English Tao Te Ching was largely built by **missionaries**. James Legge — who gave us the 1891 translation still in print, still in the public domain, still the base of countless later versions — came to China with the London Missionary Society and spent decades at the center of the "Term Question," the fierce debate over which Chinese word should be conscripted to mean the Christian *God*. Vocabulary flowed both directions across that argument: Chinese religious terms were pressed into Christian service, and Christian terms were handed back to translate Chinese ones. "Heaven" for 天 entered English Taoism through evangelical hands, and it never left. When we consult the public-domain translations to triangulate meaning, this is precisely the kind of inheritance to strip: not a neutral convention, but a theology, sedimented into a word.
 
-### 天, read slowly — the crown of the head
+### The graph: 天 (tiān — sky), the crown of the head
 
 Here is the fact that undoes the whole overlay. **天 begins in the human body.** Its oldest graphs draw 大 — a person standing with arms outstretched — with the *head* marked: a square, a circle, or a heavy stroke laid across the top. The *Shuowen* defines it 顛也, "the crown of the head," and glosses it 至高無上, "the highest, with nothing above." The word is kin to 顛, the summit, the top of the skull.
 
 So 天 is not a realm. It is a **direction, named from your own body**: the top of you, and then, by simple extension, whatever is above the top of you. Not a throne, not an abode, not a destination for the dead. Just *overhead* — the most ordinary fact there is, seen by looking up.
 
-### 地, read slowly — the clod underfoot
+### The graph: 地 (dì — earth), the clod underfoot
 
 Its partner is even plainer. 地 is built on 土, whose oracle-bone form is a lump of soil heaped on the line of the ground. It is dirt. Ground. The land you stand on.
 
@@ -54,13 +54,13 @@ And here is why "the cosmos" — the reasonable correction, the one that flees t
 
 There is also an architecture to protect. Chapter 1 moves *nameless → 天地 → 萬物*: the undifferentiated, then the primal **pair**, then the countless things. That is Chapter 42 in miniature — 一生二，二生三，三生萬物 — where 天地 is the classic reading of the **two**. Render it as a single abstraction and the arithmetic of emergence quietly breaks: the middle term stops being a two and becomes a fog.
 
-### What we set aside
+### What is set aside
 
 **"Heaven and earth"** — for the Genesis echo, the missionary lexicon, and the deity it smuggles in. **"The heavens and the earth"** — worse; that *is* Genesis. **"Creation"** — it implies a creator, and this cosmos was borne, not made (see 生). And, with real respect for the instinct behind it, **"the cosmos" / "the universe"**: κόσμος is a Greek term of art meaning *ordered arrangement*, and in modern English it is a science-documentary word — galaxies, deep time, something studied through an instrument. Laozi never once reaches for a technical term. His vocabulary is water, valley, uncarved wood, infant, dust, a bellows, a hub with a hole in it. "Cosmos" makes a reader think *about the universe.* **"Sky and earth" makes them look up, and then down.** He wants the second, every time.
 
 If "sky and earth" sounds smaller than "the cosmos" — that lowering is the whole method. This is the philosopher of the valley, the newborn, the uncarved block. His grandeur is assembled entirely out of plain things.
 
-### The working register — the 天 family
+### Working register — the 天 (tiān — sky) family
 
 - **天地** → **sky and earth** (the concrete pair; keep both nouns, always)
 - **天下** → **the world** (literally *under-sky*, but idiomatically the human realm — already locked in 48, 56, 57)
@@ -73,7 +73,7 @@ The policy does not cover everything cleanly, and we say so rather than pretend.
 
 **天門** (10, 天門開闔) — "the gate of the sky" is awkward English, and the line may not be cosmological at all; some read it as the gates of the senses opening and closing. Unsettled. **天網** (73, 天網恢恢) — "nature's net is vast, wide-meshed, and loses nothing" works. **天將救之** (67) — reads agentive, as if something *intends* rescue; "when nature would save someone, it guards them with compassion" keeps the impersonality without flattening the line. **天子** (62) — the Son of Heaven is an *institutional title*, the emperor's own, and we keep it as a proper name, the way one keeps "Pope"; the theology there belongs to the office, not to Laozi.
 
-### The tension, left open
+### Left open
 
 One honesty remains. 天 in classical Chinese is not *only* the physical sky — it carries the impersonal order of things, the source of the mandate (天命), what a modern ear might call nature-with-a-capital-N. "Sky" is, in that sense, slightly thin for 天 when it stands alone, which is exactly why we let it become *nature* in those places. But inside the binome 天地, the pull of 地 — soil, ground, dirt — drags 天 back down to its plain physical sense, and we let it be dragged. That is the trade we accept: a little abstraction lost, an entire theology removed.
 

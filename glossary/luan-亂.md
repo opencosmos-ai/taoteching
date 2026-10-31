@@ -73,7 +73,7 @@ It fails at **chapter 38**, and the failure is structural rather than a matter o
 
 **"turmoil"** is better than *chaos* and still wrong: a word about agitation and feeling, so it carries the heart at ch 3 and drops the constitutional sense at 18 and 38. It has no relation to *order*.
 
-### The working register
+### Working register
 
 - as the state a thing falls into → **disorder** (亂之首 → "the head of disorder")
 - as what a thing is kept out of → **thrown into disorder** (使民心不亂 → "the people's hearts are not thrown into disorder")

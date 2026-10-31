@@ -17,7 +17,7 @@ Chapter 29 read 天下神器 as *"the world is a sacred system."* That single su
 
 The danger runs the other way too. Chapter 11's whole case depends on 器 staying a **pot**: 埏埴以為器 — *knead clay to make a vessel* — and the vessel is useful only because of the hollow. Let 器 drift toward "structure" or "function" and the argument evaporates, because a structure has no inside.
 
-### The character, read slowly — a dog guarding the crockery
+### The graph: a dog guarding the crockery
 
 器 is four 口 (*kǒu* — mouth, opening) around 犬 (*quǎn* — dog). The *Shuowen Jiezi* (~100 CE) is unusually plain about it:
 
@@ -38,7 +38,7 @@ That second half is what makes 神器 (*shén qì*) in Chapter 29 land. In the l
 
 **And a person can be one.** Chapter 41's 大器晚成 — in our base text *"the great vessel is completed late,"* and in the Mawangdui and Guodian witnesses 免成 / 曼成, *never completed*, which we follow. Classical Chinese applies 器 to people as **capacity** — the size of what someone can hold — and the idiom survives in modern Chinese as *a person of great capacity matures slowly*. Chapter 67's 故能成器長 (*and so can become the elder of the vessels*) uses the same personal sense.
 
-### The lock: what is set aside, and why
+### What is set aside, and why
 
 **"System"** is the mechanistic overlay, and this project's own besetting temptation. It abstracts a fired clay pot into a set of relations, breaks Chapter 29's grasping image, and empties Chapter 11's hollow. It also fails the pointing test twice over: Laozi could point at the pot and at the dog.
 
@@ -50,7 +50,7 @@ That second half is what makes 神器 (*shén qì*) in Chapter 29 land. In the l
 
 **"Vessel" everywhere** would also be an error. Chapter 31's weapons are not vessels, and Chapter 28's carved tools are not vessels. The lock is a small family — *vessel, tool, implement* — held together by being **made, concrete, and usable**, and it flexes by what the chapter has in hand.
 
-### The working register
+### Working register
 
 - containers, and the world as one → **vessel** (有器之用 → "the use of the vessel"; 神器 → "a sacred vessel"; 大器 → "the great vessel")
 - what the uncarved becomes → **tools** (樸散則為器 → "when the uncarved wood is carved, it is made into tools")
@@ -59,7 +59,7 @@ That second half is what makes 神器 (*shén qì*) in Chapter 29 land. In the l
 
 **Never** "system," "mechanism," "machine," "utensil."
 
-### The tension, left open
+### Left open
 
 **Is 器 fallen or exemplary?** The text will not say.
 

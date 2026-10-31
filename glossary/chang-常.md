@@ -82,7 +82,7 @@ None of the three puts 常 outside time. All three describe it as something that
 
 **As a glossary heading the same holds.** *The ever-present* covers the name-word of 16, 52 and 55, and its *ever* covers the manner-word of 1, 3, 32, 34 and 37. One English root spans both characters the received text merged. *Eternal* fits neither.
 
-### What we set aside
+### What is set aside
 
 - ***eternal / eternity*** — fails the hymn test outright, since *"the eternal Tao"* is at home in a sermon. It also imports a timeless beyond, which the book never names and its oldest readers contradict. Forbidden.
 - ***everlasting*** — closer, because it at least runs on in time, but it is hymn vocabulary (*everlasting arms*, *life everlasting*). It also lays stress on *lasting*, which is 長's word. Forbidden.
@@ -92,7 +92,7 @@ None of the three puts 常 outside time. All three describe it as something that
 - ***enduring / lasting*** — already spoken for, by two different characters. **久 (*jiǔ*)** is *endure*: 天長地久 (7), *"the sky is lasting, the earth enduring"*, and 道乃久 (16), *"the Tao leads to what endures."* **長 (*cháng*)**, a false friend with the same sound, is *lasting* (說文: 久遠也, *"long and far"*). Chapter 16 sets 常 and 久 in the same chain, and they must stay two words.
 - ***the abiding*** — accurate, and once listed beside *the ever-present*. No line uses it, and a second noun for one name would split chapter 16's chain, where 常 is repeated as a subject four times.
 
-### The working register
+### Working register
 
 | Grammar | English | Chapters | Example |
 |---|---|---|---|

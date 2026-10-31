@@ -56,7 +56,7 @@ Buddhism reaches China in roughly the first century CE; this text is Warring Sta
 
 **hollow** — belongs to 窪 (*wā* — a low, sunken place) at chapter 22: 窪則盈, *"be hollowed out, and be filled."* **Chapter 22 contains both 窪 and 虛**, so this is precisely the distinction a `forbidden:` list cannot express — the checker gates on whether a character is present, and both are. It has to be held by the reader.
 
-### The working register
+### Working register
 
 | Form | Chapters | English |
 |---|---|---|
@@ -64,7 +64,7 @@ Buddhism reaches China in roughly the first century CE; this text is Warring Sta
 | 虛 predicative or attributive | 5, 22, 53 | empty |
 | 虛 as the object of a verb | 16 | *(unsettled — see below)* |
 
-### The tension, left open
+### Left open
 
 **Chapter 16 is the only place in the book where 虛 has to be a noun**, and it is therefore the only place the Buddhist reading can get in. 致 (*zhì* — to send all the way there) 虛 (*xū*) 極 (*jí* — the far end) puts 虛 in the object slot, and English wants *emptiness* there.
 

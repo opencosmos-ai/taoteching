@@ -80,7 +80,7 @@ So the picture behind 柔 is a carpenter's: a length of green or heated wood tak
 
 **"tender"** is 慈's (*cí*, *tenderness*, the first of ch 67's three treasures). 慈 shares no chapter with 柔, so the build can hold this one.
 
-### The working register
+### Working register
 
 柔 never takes an object in this book. It describes a state, or names the thing in that state.
 

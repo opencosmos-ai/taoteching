@@ -15,7 +15,7 @@ pairing: false
 
 But something is. 為 is the verb that the book's most famous idea **negates**: 無為, *wú wéi*, "no-為." You cannot know what 無為 asks of you until you know what 為 actually is — and 為 is not the flat, neutral "doing" that English supplies. It is something much more specific, and the character says so plainly.
 
-### The character, read slowly — a hand on an elephant
+### The graph: a hand on an elephant
 
 The oracle-bone form of 為 is one of the most vivid graphs in the writing system: a **hand** (爪), reaching down onto the head of an **elephant** (象). That is the whole picture. A person, working an elephant.
 
@@ -57,7 +57,7 @@ Two formulations carry the weight, and both are built from 為 alone:
 
 Read with the elephant in view, neither is mystical. Stop steering, and things still get where they are going — in fact they arrive better, because they were always going there. And *doing the not-doing* is a real discipline: it takes continuous, deliberate effort to keep your hand off something you believe you could improve.
 
-### What we set aside
+### What is set aside
 
 **"Action" and "inaction."** Latinate, abstract, and bloodless. 為 is manual and concrete — a hand on a hide. "Inaction" also imports laziness, which is precisely the misreading Laozi's critics have made for two thousand years.
 
@@ -67,7 +67,7 @@ Read with the elephant in view, neither is mystical. Stop steering, and things s
 
 **Flattening 為 to "is."** In lines like 重為輕根 (26) — *the heavy 為 the root of the light* — translators reach for the copula, "the heavy **is** the root." But 為 is doing real work there: the heavy **serves as**, **acts as**, holds the position of root. It is a functional relationship, not an identity. Keep the verb alive.
 
-### The working register
+### Working register
 
 - as plain verb → **do, act, handle, work at** (為者敗之 → "the one who handles it ruins it")
 - 為 + noun → **serve as, act as, become** (重為輕根 → "the heavy serves as the root of the light")
@@ -91,7 +91,7 @@ On leaving it untranslated as *wu wei*: we keep 道 untranslated because every E
 
 *Pending Shalom's confirmation; once locked, sweep chapters 2, 3, 10, 37, 38, 43, 48, 57, 63, 64.*
 
-### The tension, left open
+### Left open
 
 Here is what the entry cannot resolve, and should not pretend to.
 

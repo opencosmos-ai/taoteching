@@ -15,7 +15,7 @@ pairing: false
 
 樸 is a piece of timber that has not yet been made into anything. That is the whole word, and its power is that it stays a piece of wood. The temptation — and most translations succumb — is to lift it into a virtue: *simplicity, purity, primal innocence*. But an abstraction cannot be **split**, and splitting is precisely what Chapter 28 does to it. Keep the wood, and the argument survives.
 
-### The character, read slowly
+### The graph
 
 樸 is built on **木** (*mù*) — a tree, the oldest and plainest graph for wood — with a phonetic element beside it. The *Shuowen Jiezi* defines it 木素也: *wood in its 素 state*, where **素** (*sù*) is **undyed silk** — cloth still the color it was when it came off the worm.
 
@@ -70,7 +70,7 @@ One more line belongs to this cluster, and its manuscript fork makes it sharper:
 
 Set it beside Chapter 28 and it snaps into place. If a vessel is made by cutting, then the **greatest** vessel is the one never finished being cut — which is to say, the block itself. The great vessel is never completed because completion is exactly what would ruin it.
 
-### What we set aside
+### What is set aside
 
 **"Simplicity."** The most common rendering and the most costly. It is abstract, it sounds like a lifestyle preference, and it cannot be split into vessels. Chapter 28's argument becomes unreadable.
 
@@ -82,7 +82,7 @@ Set it beside Chapter 28 and it snaps into place. If a vessel is made by cutting
 
 **Leaving it untranslated as *pu*.** The image is fully available in English. Transliterating would mystify a piece of wood.
 
-### The working register
+### Working register
 
 - as noun → **uncarved wood**, or **the uncarved** where the sentence needs it to act as a subject (樸散則為器 → "when the uncarved is split up, it becomes vessels")
 - in simile → **like uncarved wood** (敦兮其若樸 → "solid, like uncarved wood")
@@ -125,7 +125,7 @@ So the "block" is **English**, not Chinese — a noun supplied by translators to
 
 That is the honest shape of the thing. The paradox is not buried in the etymology; it is in what Laozi *does* with a perfectly ordinary word for raw timber. Which is more interesting, and more his.
 
-### The tension, left open
+### Left open
 
 The obvious objection: bowls are good. Wheels are good. A world of uncut logs is a world with nothing to eat from. Laozi knows this — Chapter 11 is a hymn to the usefulness of vessels, and Chapter 28 has the sage *using* the carved things and governing with them.
 

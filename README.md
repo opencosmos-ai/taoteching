@@ -51,7 +51,7 @@ The cost is that the opening line loses some of its music. I don't make that tra
 
 - **The glossary is both the ruling and the rule.** Each entry ([`glossary/INDEX.md`](glossary/INDEX.md) lists them all) argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
-- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — 王弼 (*Wáng Bì*, d. 249 CE, all 81), 河上公 (*Héshàng Gōng*, Han, all 81) and 韓非 (*Hán Fēi*, d. 233 BCE, the oldest there is) — the 說文解字 (*Shuōwén Jiězì*, c. 100 CE) analysis of <!-- count: shuowen -->764 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->114 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
+- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — Wang Bi (d. 249 CE, all 81), Heshang Gong (Han, all 81) and Han Fei (d. 233 BCE, the oldest there is) — the Shuowen Jiezi (c. 100 CE) analysis of <!-- count: shuowen -->764 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->114 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
@@ -145,9 +145,9 @@ python3 tools/concordance.py --witnesses 21    # where the older manuscripts dis
 
 | Commentary | Date | Coverage | Edition |
 |---|---|---|---|
-| **王弼** Wang Bi | d. 249 CE | all 81 chapters | 欽定四庫全書 (Siku Quanshu), 1782 |
-| **河上公** Heshang Gong | Han | **81 of 81** | Song woodblock, via *Sibu congkan* 0532 |
-| **韓非** Han Feizi, 解老 / 喻老 | d. 233 BCE | 17 chapters he discusses | 韓非子, chs. 20–21 |
+| **Wang Bi** | d. 249 CE | all 81 chapters | the Siku Quanshu, 1782 |
+| **Heshang Gong** | Han | **81 of 81** | Song woodblock, via *Sibu congkan* 0532 |
+| **Han Fei**, *Jie Lao* and *Yu Lao* | d. 233 BCE | 17 chapters he discusses | the *Han Feizi*, chs. 20–21 |
 
 Every file names the printing it was transcribed from. Everything is public domain by age; the reasoning, and the rules for what may be added, are in [`sources/PROVENANCE.md`](sources/PROVENANCE.md). **The excavated manuscripts are deliberately *not* reproduced** — reconstructing the damaged graphs of the Mawangdui silks (1973) and Guodian slips (1993) is living scholarship, so the repository records the *fact* of each variant in [`sources/variants.yaml`](sources/variants.yaml) instead, which can be cited and checked.
 

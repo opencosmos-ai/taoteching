@@ -82,7 +82,7 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 
 **The voice keeps them apart in English.** 可 is *can be*, the situation's allowance. 能 is *can* or *is able to*, someone's power. 莫之能守 (9) — *"no one can guard them"* — is a failure of ability. 不可長保 in the same chapter — *"it will not keep for long"* — is the world not allowing it. Where both stand together, the book is saying something about each. At 70: 吾言甚易知，甚易行…天下莫能知，莫能行 — *"my words are very easy to know, very easy to follow. In all the world, no one can know them. No one can follow them."* The words *can be* known. People *cannot* know them. The fault is in the agents, not the words.
 
-### What we set aside
+### What is set aside
 
 - ***must not / should not*** for a plain 不可 — puts a commandment where the book describes a consequence (above). Chapter 36 is the case where it came closest to fitting, and *cannot* holds there too (below).
 - ***may*** — the oldest sense, and fine in 論語, but in modern English *may* means *perhaps* as often as *is permitted*. *"The Tao that may be made a way"* would read as a guess.

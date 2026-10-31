@@ -15,7 +15,7 @@ pairing: false
 
 A small word with a long reach: it is the first thing Chapter 15 says, the whole architecture of Chapter 41's opening, and the first of Chapter 68's four masteries. It had three Englishes until 2026-09-07 — *masters* (15), *student* (41), *warrior* (68) — **two of them on the identical phrase 善為士者**.
 
-### The character, and the reading that was put on it later
+### The graph, and the reading that was put on it later
 
 說文解字 (c. 100 CE) opens with the definition that matters and then explains it away:
 
@@ -64,7 +64,7 @@ This is the entry's real finding, and it is why a narrower word cannot be used.
 
 **"Servant."** A 士 held rank. The word marks the bottom of the nobility, not the top of the household.
 
-### The register, and how it flexes
+### Working register, and how it flexes
 
 | Chinese | shape | English |
 |---|---|---|

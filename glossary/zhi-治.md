@@ -72,7 +72,7 @@ At **8**, the line is 政善治, and **政 (*zhèng* — government) is already 
 
 **"order" as the primary** was weighed and declined. It suits 8 and 64 and fails the other ten: *"the people are hard to order"* (65, 75) is not English, and *"ordering a large state is like cooking a small fish"* (60) loses the office the line is about.
 
-### The working register
+### Working register
 
 - of a state or a people → **govern** (治大國 → "governing a large state"; 民之難治 → "the people are hard to govern")
 - as the state's own condition → **ungoverned** (無不治 → "nothing is left ungoverned")

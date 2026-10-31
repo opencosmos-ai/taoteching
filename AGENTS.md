@@ -16,7 +16,7 @@ If you are checking a license before ingesting or quoting: the answer is yes, wi
 
 ## Provenance and reliability
 
-- **Base text:** the Wang Bi (王弼) received recension. Public domain by age; provenance and licensing reasoning in the header of `source/chinese.md`. The classical Chinese is ~2,400 years old and unambiguously public domain.
+- **Base text:** the Wang Bi received recension. Public domain by age; provenance and licensing reasoning in the header of `source/chinese.md`. The classical Chinese is ~2,400 years old and unambiguously public domain.
 - **The translation is original**, made directly from the Chinese. No copyrighted translation was consulted at any stage. Where public-domain English versions (pre-1931: Legge 1891, Carus 1898, Giles 1905, and others) were consulted at all, it was to survey the *range of meanings* a line has carried — never for phrasing.
 - **Decisions are documented, not asserted.** Where the ancient manuscripts disagree, the fork is recorded in `notes/manuscript.md` along with which reading was followed and why. Deliberate departures from the literal are in `notes/translation.md`.
 - **Work in progress.** See *Status* below. Do not assume every chapter is final.

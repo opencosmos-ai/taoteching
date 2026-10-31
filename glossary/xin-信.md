@@ -19,7 +19,7 @@ The recurring failure with 信 is not that translators reach for the wrong synon
 
 The cost is precision at the exact places the text is most careful. And Chapter 49 proves the two cannot share an English word, because it **puts them in one compound**: 德信 — *integrity is trustworthy*. A translation in which 德 and 信 are both "integrity" cannot render the phrase at all.
 
-### The character, read slowly — a person beside their word
+### The graph: a person beside their word
 
 信 is 人 (*rén* — a person) beside 言 (*yán* — speech). The picture is a **person standing next to what they said.**
 
@@ -48,7 +48,7 @@ Hold that against the two conventional renderings and both fall away. **Sincerit
 
 **And the sage extends it unconditionally.** Chapter 49: 信者，吾信之；不信者，吾亦信之；德信 — *the trustworthy, I trust; the untrustworthy, I also trust; integrity is trustworthy.* This is the hardest line in the entry, because it appears to break the tally: the sage's 信 does not wait to be matched. The resolution is that the sage is the **half that always matches** — reliable regardless of what the other half does. Not naive, and not transactional either.
 
-### The lock: what is set aside, and why
+### What is set aside, and why
 
 **"Faith"** is the theistic overlay, and an unusually direct one: 信 is the standard word for *faith* in Chinese Christian and Buddhist usage — 信仰 (*xìn yǎng*), 信心 (*xìn xīn*). Importing it here makes Chapter 21's 其中有信 read as *there is faith within it*, which turns a claim about reliability into a claim about devotion, and installs a believer where the text has only a tally. Fails the hymn test on sight.
 
@@ -64,7 +64,7 @@ Hold that against the two conventional renderings and both fall away. **Sincerit
 
 忠 appears twice: 忠信之薄 (38) and 國家昏亂，有忠臣 (18) — *when the state falls into disorder, there are loyal ministers.* It is 中 (*zhōng* — centre) over 心 (*xīn* — heart): the heart held at the centre, not swayed. Render **loyalty**, and keep it distinct from 信 wherever they stand together — 忠信 is **loyalty and trust**, two things, not one hendiadys.
 
-### The working register
+### Working register
 
 - as a noun → **trust** (信不足焉，有不信焉 → "where trust runs short, there is no trust," identically at ch 17 and ch 23; 寡信 → "short on trust")
 - as an adjective or the person who has it → **trustworthy** (信者 → "the trustworthy"; 不信者 → "the untrustworthy"; 德信 → "integrity is trustworthy")

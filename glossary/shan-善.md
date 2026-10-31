@@ -16,7 +16,7 @@ pairing: false
 
 Render 善 as *good* throughout, as the English tradition does, and you produce a Laozi who divides people into the good and the bad, prizes goodness, and counsels being nice to the wicked. Almost none of that is in the Chinese. **Roughly thirty of the forty-five occurrences mean skilled at something**, and where the word *is* used as a moral category, the book's move is to warn you against the category.
 
-### The character is a sheep, and it has two siblings
+### The graph: a sheep, and it has two siblings
 
 The *Shuowen Jiezi* gives the old form 譱 and glosses it: 吉也。从誩，从羊。**此與義、美同意** — *"auspicious; from 誩 and 羊; this has the same sense as 義 and 美."*
 
@@ -116,7 +116,7 @@ The seven now run in one shape: *In settling, masterful at ground. In the heart,
 
 **能 (*néng* — able) took *what can be done* rather than *ability***, because 能 has 32 lines in the book and 31 are the plain modal *can*; ch 8's is the only noun. Building the English out of *can* keeps it in the book's own vocabulary and removes the abstract-noun stack beside *masterful*. The cost is a slight drift of the capacity from the agent to the situation.
 
-### What stays open
+### Left open
 
 
 **淵 (*yuān* — a deep pool), inside ch 8's stanza, is not yet settled** and reads three ways across the book: *fathomless* (4), *depth* (8), *the deep abyss* (36). 說文解字 makes it banked water — 回水也…左右，岸也, *"swirling water… left and right are the banks"* — so *limitless*, which stood at ch 8 until 2026-09-02, was precisely backwards. Tracked as `WORKLIST.md` T2-24; not this entry's term, but it sits inside this entry's showcase chapter.

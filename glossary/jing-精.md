@@ -15,7 +15,7 @@ pairing: false
 
 Chapter 21 rendered 其中有精 as *"within its dark depths lies the primordial mass of creation."* That is not a loose translation; it is the **precise opposite** of the character. 精 is what remains when the mass is taken **away**.
 
-### The character, read slowly — hulled rice
+### The graph: hulled rice
 
 精 is 米 (*mǐ* — rice) beside 青 (*qīng*), which supplies the sound and lends a sense of *fresh, pure*. The *Shuowen Jiezi* (~100 CE) glosses it in a single word: **擇也** — *to select, to sift.*
 
@@ -33,7 +33,7 @@ The same chapter then draws the line that keeps 精 from meaning merely "energy"
 
 **Chapter 21, the source.** 窈兮冥兮，其中有精；其精甚真，其中有信 — *deep and dim, and within it there is 精; its 精 is utterly real, and within it there is trust.* Here the sifting image does its cosmological work: at the bottom of the indistinct there is not a mass but a **concentrate** — the small dense real thing left when everything vague has been winnowed off. The chapter's whole descent is a sifting: through 象 (*xiàng* — image), 物 (*wù* — thing), 精, 信 (*xìn* — trust), each finer than the last.
 
-### The lock: what is set aside, and why
+### What is set aside, and why
 
 **"Primordial mass"** inverts the character, as above, and dates the text to the twentieth century.
 
@@ -47,7 +47,7 @@ The same chapter then draws the line that keeps 精 from meaning merely "energy"
 
 **"Semen"** deserves naming, because it is a real reading and not a foolish one: in later Daoist and medical literature 精 unambiguously means seminal essence, and Chapter 55's line about the infant's arousal invites it. We decline it for two reasons. The specialized sense is **later** than this text, and taking it here would make the passage a claim about one organ in one sex, where the point is a whole small body full of unspent life. The male-default is the text's, not the argument's. *(See the Chapter 55 manuscript note on 朘 / 全, where the same question arises in the source text itself.)*
 
-### The working register
+### Working register
 
 精 barely flexes — three occurrences, two grammatical positions:
 
@@ -57,7 +57,7 @@ The same chapter then draws the line that keeps 精 from meaning merely "energy"
 
 **Never** "primordial mass," "soul," "spirit," "energy," "life force."
 
-### The tension, left open
+### Left open
 
 **Is it one word here, or two senses?** Chapter 55's 精 is unmistakably **bodily** — an infant's undissipated vitality, sitting in a line about genitals and grip strength. Chapter 21's 精 is **cosmological** — what is found at the bottom of the indistinct, before anything has a name. English "vital essence" covers both, which is convenient and may be a cheat.
 

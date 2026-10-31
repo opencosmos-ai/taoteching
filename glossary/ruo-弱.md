@@ -83,12 +83,12 @@ So 柔 keeps **soft** and does not get *yielding*, which it had borrowed in ch 5
 
 Chapter 76 works by spending the **admiring** word on a corpse: 堅強 (*jiān qiáng* — hard and strong) is rigor mortis, and four lines later it is an army. That ambush is on 強 alone. An earlier draft of this entry's reasoning claimed the chapter *also* provokes by calling the living state weak — it does not, and translating to protect that invented second provocation is what put **weak** into the verse. Caught by Shalom, 2026-08-26.
 
-### Renders
+### Working register
 
 - **yielding** — ch 36 (柔弱勝剛強), 40, 55, 76, 78
 - **weaken** — ch 3, 36 (將欲弱之), where the character takes an object
 
-### Never
+### What is set aside
 
 **frail · feeble · powerless.** All three name a lack. 弱 names a response.
 

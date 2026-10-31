@@ -108,7 +108,7 @@ The couplet is **plain force against achieved strength**, and it rhymes with the
 
 **力 takes *force*** — which ch 68 already does (用人之力, *"using people's force"*) — and 強 takes *strong*. Neither needs an adjective; the couplet supplies the comparison.
 
-### Never
+### What is set aside
 
 **mighty · forceful · brute strength.** All three pre-judge. 強 is the word the book uses for the state it warns against *and* the state it recommends, and an English that carries a verdict cannot do both.
 
@@ -116,7 +116,7 @@ The couplet is **plain force against achieved strength**, and it rhymes with the
 
 **And do not let *strong* or *strength* drift onto its neighbours.** Two characters have borrowed 強's English in chapters that contain 強 — 固 (*gù* — firm) at ch 55's 握固, and 壯 (*zhuàng* — in its prime) at 物壯則老 in ch 30 and ch 55. A lock is a claim in both directions, and no checker rule can catch these: 固 and 壯 sit in the same chapters as 強, so the evidence gate that makes the tool trustworthy is exactly what blinds it here. This is a reader's job.
 
-### What stays open
+### Left open
 
 **強 is both the disease and the cure, and nothing in the text resolves it.** It is rigor mortis at ch 76, an army that cannot win at ch 76 and ch 30, a roof-beam at ch 42, the heart bullying the breath at ch 55 — and it is also what you are when you overcome yourself at ch 33 and when you hold to the soft at ch 52.
 

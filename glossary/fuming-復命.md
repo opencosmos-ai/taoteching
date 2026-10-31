@@ -31,7 +31,7 @@ This is the single most useful fact about the term, and it is easy to miss. Chap
 
 So the question is never *what else happens at 復命* — it is **what the returning looks like when you call it by this name.**
 
-### The two characters, down to the radicals
+### The graph: the two characters, down to the radicals
 
 **復 (*fù*) — a foot on a road it has walked before**
 
@@ -94,7 +94,7 @@ Neither commentator takes it. The graph and the idiom do, and the chapter's own 
 
 **"returning to the source," "returning to the origin"** — 復命 is not 歸根 restated in cosmic terms. 根 (*gēn*) is 說文 木株也, a **stump**; the chapter has already given the return its concrete name and is now giving it a different one. Collapsing the two throws away the reason there are two.
 
-### The working register
+### Working register
 
 | Form | Chapters | English |
 |---|---|---|
@@ -111,7 +111,7 @@ Neither commentator takes it. The graph and the idiom do, and the chapter's own 
 
 ***returning to what is*** — the worst of the four, and the reverse check catches it in an unusual form. *What it is* is already **自然 (*zì rán* — of itself)**'s English at ch 25 (道法自然 → *"the Tao models itself on being what it is"*), and 自然 is not merely another term: **chapter 51 sets it against 命 in a single clause** — 夫莫之命而常自然, *"no one 命s it, and it is always 自然."* Rendering 命 with its own antonym's English would collapse the book's antithesis from the inside.
 
-### The tension, left open
+### Left open
 
 **命's verb is unsettled one chapter over.** Ch 51's 夫莫之命而常自然 reads *"no one commands it"* — but *command* is 令 (*lìng*)'s English at ch 32, in the identical 莫之X而 frame, and the two characters were **one graph** before the Western Zhou split them. See `ming-命.md` and `WORKLIST.md` T2-29.
 

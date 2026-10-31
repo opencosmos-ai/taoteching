@@ -21,15 +21,9 @@ FIXED = ["The graph", "What is set aside", "Working register", "Left open"]
 # Written before the template (2026-10-26). Remove an entry when it is brought
 # to the template; never add one.
 NOT_YET = {
-    "baixing-百姓", "bao-保", "chang-常", "chi-持", "ci-慈", "da-大", "dao-道", "de-德",
-    "di-帝", "fuming-復命", "gan-敢", "gong-公", "hun-混", "huo-貨", "ji-極", "jing-精",
-    "jiu-咎", "ke-可", "luan-亂", "min-民", "ming-命", "ming-明", "mu-母", "po-魄",
-    "pu-樸", "qi-器", "qiang-強", "qing-清", "quan-全", "ren-仁", "rou-柔", "ruo-弱",
-    "shan-善", "shen-身", "sheng-生", "sheng-聖", "shi-事", "shi-士", "shi-恃",
-    "shou-守", "tian-天", "tiandi-天地", "wang-王", "wanwu-萬物", "wei-唯", "wei-為",
-    "wo-wu-我吾", "wu-you-無有", "wuwei-無為", "xin-信", "xin-心", "xing-行", "xu-虛",
-    "xuan-miao-玄妙", "yi-一", "you-尤", "zheng-爭", "zhi-執", "zhi-治",
-    "zhong-眾", "ziran-自然",
+    "bao-保", "chi-持", "ci-慈", "da-大", "de-德", "ji-極", "jiu-咎", "ke-可", "luan-亂",
+    "ming-命", "mu-母", "qiang-強", "ren-仁", "ruo-弱", "shen-身", "shi-事", "shi-恃", "shou-守",
+    "wanwu-萬物", "wo-wu-我吾", "xin-信", "xu-虛", "yi-一", "you-尤", "zhi-執",
 }
 
 

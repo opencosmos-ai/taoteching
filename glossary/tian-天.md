@@ -21,7 +21,7 @@ Laozi's 天 is not a realm and nobody goes there. It is **the top of things**, a
 
 **It is also the book's most frequent content character — 92 occurrences**, more than 道 (*dào*). Sixty-one of those are 天下 (*tiān xià* — "under-sky," the world), nine are 天地 (*tiān dì* — sky and earth). **Nineteen stand alone**, and those nineteen are where the decision has to be made.
 
-### The character: the top of a head
+### The graph: the top of a head
 
 The oracle-bone graph is a **standing person seen from the front** — the figure that becomes 大 (*dà* — big) — with the **head marked**, a filled square or a heavy stroke laid across the top.
 
@@ -87,7 +87,7 @@ Three boundaries keep the rendering honest:
 2. **Never let it touch 自然.** 自然 is *of itself / of themselves*, and *nature* is forbidden there outright. The two words look alike in English and share nothing but a character.
 3. **When 地 is in the line or the series, it is *sky*.** This is the mechanical form of the rule and it decides every clear case.
 
-### The working register
+### Working register
 
 | Form | Chapters | Rendered |
 |---|---|---|
@@ -100,7 +100,7 @@ Three boundaries keep the rendering honest:
 
 **天之道 and 天道 are one formula and take one English.** The book writes it both ways, with and without the particle 之, and nothing turns on the difference.
 
-### What stays open
+### Left open
 
 **配天 at Chapter 68 is the one contested line, and it is contested in the manuscript itself.** 是謂配天，古之極 — *"this is called being 配 (pèi — matched, as one of a pair) with 天, the utmost of the ancients."* The chapter file reads *"partnered with the sky"*; `notes/translation.md` records the decision as *"matched with nature."* Both cannot be right.
 

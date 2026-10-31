@@ -70,7 +70,7 @@ A sky that is only clear, with no night in it, breaks. The book prizes clear and
 
 **"still"** is 靜's.
 
-### The working register
+### Working register
 
 | Chinese | English | form |
 |---|---|---|

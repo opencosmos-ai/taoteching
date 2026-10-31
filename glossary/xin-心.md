@@ -17,7 +17,7 @@ covers:
 
 The problem is the one that made translators reach for a hyphen in the first place: **English has a heart and a mind, and classical Chinese has neither.** It has 心, which is both and prior to both, and any English word will import a division the Chinese does not make.
 
-### The character, read slowly — an organ, drawn
+### The graph: an organ, drawn
 
 心 is not a symbol. It is an **anatomical drawing**: the oracle-bone and bronze forms show the outline of a heart, with its chambers and the great vessels leaving the top. The *Shuowen Jiezi* is equally physical — 人心，土藏也，在身之中 — *"the human heart; the earth-organ; at the center of the body."*
 
@@ -77,7 +77,7 @@ The chapter closes on 渾其心 — *makes their heart undifferentiated, muddied
 - **20** — 我愚人之心也哉, *I have the heart of a fool!* Laozi's own confession, and 愚 (*yú*, foolish, uncarved-simple) is a compliment he pays himself.
 - **55** — 心使氣曰強, *when the heart drives the vital breath, that is forcing.* The one clearly negative use: the willing self muscling the body's own current. You cannot command the breath into harmony. *(See Ch 55's translation note.)*
 
-### What we set aside
+### What is set aside
 
 **"Mind."** Imports cold cognition, computation, the disembodied reasoner. It also makes Chapter 3 ("empty their minds") sound like a program of enforced ignorance, and Chapter 8 ("in mind, be deep") sound like advice about intelligence.
 
@@ -87,13 +87,13 @@ The chapter closes on 渾其心 — *makes their heart undifferentiated, muddied
 
 **And any mechanical rendering** — 心 as a processor, a control centre, the seat of information. A processor has no belly to be set against, cannot go mad from too much scenery, and cannot be the heart of a fool.
 
-### The working register
+### Working register
 
 - **心** → **heart** (心善淵 → "in heart, be deep as a pool"; 無常心 → "no fixed heart")
 - **腹** → **belly** (實其腹 → "fill their bellies"; 為腹不為目 → "for the belly, not the eye")
 - 虛其心 → **"empty their hearts"** — keep 虛 positive; it is the same word as Ch 16's *utmost emptiness*
 
-### The tension, left open
+### Left open
 
 Something is genuinely lost, and it should be said plainly rather than argued away.
 

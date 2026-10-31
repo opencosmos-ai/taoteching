@@ -20,7 +20,7 @@ Render this pair as *Being* and *Non-Being* and you have quietly moved Laozi int
 
 The philosophy is real, but it is built out of household grammar — and the moment the grammar becomes metaphysics, Chapter 11 stops making sense.
 
-### The characters, read slowly — a hand of meat, and a dancer
+### The graph: a hand of meat, and a dancer
 
 **有** is a **hand holding meat**: 又 (a hand) above 肉 (flesh). To have. To possess something you can grip. Nothing abstract about it — the character is a person with food in their fist.
 
@@ -73,7 +73,7 @@ Chapter 1 gives the pair its most famous appearance, and the received punctuatio
 
 But the Chinese carries no marks, and an old and serious alternative reads 無 and 有 as the **subjects**: *"Absence — name it the beginning of sky and earth; presence — name it the mother of the countless things."* This edition follows the received reading (see `notes/manuscript.md`), but the fork is genuine, and it is why the pair feels present in Chapter 1 even when the English says only "nameless" and "named."
 
-### What we set aside
+### What is set aside
 
 **"Being" and "Non-Being."** The central rejection. They convert verbs into substances, and they hand the reader Parmenides, scholastic ontology, and twentieth-century existentialism — none of which Laozi is arguing with. They also make Chapter 11 incoherent: the hub does not have a hole of *Non-Being* in it.
 
@@ -85,7 +85,7 @@ But the Chinese carries no marks, and an old and serious alternative reads 無 a
 
 **"Form and formless," "manifest and unmanifest."** Defensible as interpretation and sometimes graceful, but they name a *different* distinction — about visibility rather than presence — and they smuggle in a two-tier cosmos.
 
-### The working register
+### Working register
 
 The pair flexes, and it must, because Laozi uses it at three different altitudes. Keep all three inside one plain vocabulary of *there / not there*:
 
@@ -96,7 +96,7 @@ The pair flexes, and it must, because Laozi uses it at three different altitudes
 - **利 / 用** in 11 → **advantage / use**
 
 
-### The tension, left open
+### Left open
 
 If absence bears presence (40), is 無 therefore *more real*, the true ground? Every mystical reading of this book says yes. But Chapter 2 refuses it — they bear **each other** — and Chapter 11 refuses it too, from the other side: a hub with no spokes is not a wheel, it is a hole in the air. The emptiness works *because* there is clay around it. Absence is only useful inside presence.
 

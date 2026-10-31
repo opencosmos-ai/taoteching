@@ -14,7 +14,7 @@ pairing: true
 
 Something in us has long known there are two of us. There is the "I" that wants and flinches and argues its corner and keeps one eye on how it is doing in the eyes of others — and there is a quieter "I" *behind* that one, which simply notices the first one doing all of that. Classical Chinese happens to carry two words for the first person, **我** and **吾**, and the Daoist tradition could not resist pressing them into exactly this service. Whether Laozi meant them so cleanly is a question we will keep honest about. But the seam they mark is real, and if you have sat still for any length of years you have felt it from the inside.
 
-### Two characters, two postures
+### The graph: two characters, two postures
 
 **我 (wǒ) — the armed hand.** The oldest graph is not a pronoun at all: it is a **weapon** — a bladed, saw-toothed halberd gripped in a hand — later borrowed for its *sound* to serve as "I." Sit with that a moment. The everyday "I" first pictured itself as *something held and wielded*: a stance, an edge, a boundary to be defended. 我 is the self that **grips** — that takes a position, asserts, protects its perimeter. In the Tao Te Ching it beats hardest in Chapter 20, where the word will not stop: *我獨泊兮… 我愚人之心也哉… 我獨異於人* — "*I* alone am still… *I* have the heart of a fool… *I* alone differ from others." That is the self *set against the crowd*, felt as separate — the self that stands out, and so is **seen**.
 
