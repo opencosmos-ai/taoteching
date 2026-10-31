@@ -23,7 +23,7 @@ FIXED = ["The graph", "What is set aside", "Working register", "Left open"]
 NOT_YET = {
     "bao-保", "chi-持", "ci-慈", "da-大", "de-德", "ji-極", "jiu-咎", "ke-可", "luan-亂",
     "ming-命", "mu-母", "qiang-強", "ren-仁", "ruo-弱", "shen-身", "shi-事", "shi-恃", "shou-守",
-    "wanwu-萬物", "wo-wu-我吾", "xin-信", "xu-虛", "yi-一", "you-尤", "zhi-執", "zhizu-知足",
+    "wanwu-萬物", "wo-wu-我吾", "xin-信", "xu-虛", "yi-一", "you-尤", "zhi-執",
 }
 
 

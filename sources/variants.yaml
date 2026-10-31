@@ -482,6 +482,20 @@
     (Shalom's call, 2026-10-26; it read "root" until then).
   logged: notes/manuscript.md
 
+- chapter: 33
+  line: "死而不亡者壽"
+  base: "亡"
+  witnesses: { mawangdui-a: "死不忘者壽 (忘, no 而)", mawangdui-b: "死而不忘者壽 (忘)" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The silks write 忘 (wàng — to forget) for 亡 (wáng — to be gone): one who
+    dies and is not forgotten lives long. Wang Bi reads 亡, and the base keeps
+    it. Recorded 2026-10-30 from Xu Fancheng's collation notes, a secondary
+    source; confirm against a printed edition, as T2-74 asks of the other
+    recent rows.
+  logged: notes/manuscript.md
+
 - chapter: 46
   line: "禍莫大於不知足"
   base: "(two calamity clauses)"
@@ -492,6 +506,20 @@
     The older witnesses remember a rising three-beat — crime/desire,
     disaster/discontent, fault/greed — that the received text trimmed to two.
     We keep the received pair and note the fuller crescendo.
+  logged: notes/manuscript.md
+
+- chapter: 46
+  line: "故知足之足，常足矣"
+  base: "知足之足，常足"
+  witnesses: { guodian: "知足之為足，此恒足矣" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Guodian spells the phrase out as a recognition: knowing that enough is
+    enough, and this is ever enough. Heshang Gong glosses chapter 33 in the same
+    words, 知足之為足. The verse keeps the received close. Recorded 2026-10-30
+    from ctext's Guodian transcription; confirm against a printed edition, as
+    T2-74 asks of the other recent rows.
   logged: notes/manuscript.md
 
 - chapter: 47

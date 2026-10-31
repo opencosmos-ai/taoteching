@@ -203,7 +203,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 食,shí,food / feed (20) / eat up (75),word,,,,,5,5,"20,24,53,75,80",20,80,0.94,
 驚,jīng,shock,word,,,,,5,1,13,13,13,0.94,
 亂,luàn,disorder,locked,,disorder,locked,chaos; chaotic,4,4,"3,18,38,64",3,64,0.76,glossary/luan-亂.md
-亡,wáng,loss / perish / forget (41),word,,,,,4,3,"33,41,44",33,44,0.76,
+亡,wáng,vanish (33) / loss / forget (41),word,,,,,4,3,"33,41,44",33,44,0.76,
 保,bǎo,keep safe,locked,,keep safe,locked,preserve; safekeeping; maintain; hold on to; safeguard,4,4,"9,15,62,67",9,67,0.76,glossary/bao-保.md
 光,guāng,light / bright (58),word,,,,,4,4,"4,52,56,58",4,58,0.76,
 入,rù,enter,word,,,,,4,3,"43,50,61",43,61,0.76,
@@ -285,7 +285,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 彼,bǐ,that (over there),grammar,,,,,3,3,"12,38,72",12,72,0.57,
 往,wǎng,"come to / go (往來, 80)",word,,,,,3,2,"35,80",35,80,0.57,
 從,cóng,"follow / go about (從事, 64)",word,,,,,3,3,"21,23,64",21,64,0.57,
-志,zhì,will / ambition (3),word,,,,,3,3,"3,31,33",3,33,0.57,
+志,zhì,purpose / will (31) / ambition (3),word,,,,,3,3,"3,31,33",3,33,0.57,
 怨,yuàn,grudge / resentment (63),word,,,,,3,2,"63,79",63,79,0.57,
 惟,wéi,only,covers,,only,locked,,3,1,21,21,21,0.57,glossary/wei-唯.md
 愈,yù,the more / more still (81),word,,,,,3,2,"5,81",5,81,0.57,
@@ -522,7 +522,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 基,jī,footing,word,,,,,1,1,39,39,39,0.19,
 堂,táng,hall,apparatus,1/1,,,,1,1,9,9,9,0.19,
 報,bào,repay,word,,,,,1,1,63,63,63,0.19,
-壽,shòu,has true longevity,apparatus,1/1,,,,1,1,33,33,33,0.19,
+壽,shòu,live long,word,,,,,1,1,33,33,33,0.19,
 外,wài,puts outside,apparatus,1/1,,,,1,1,7,7,7,0.19,
 央,yāng,reached the center/end,apparatus,1/1,,,,1,1,20,20,20,0.19,
 夸,kuā,"boast, flaunt (verse reads 竽, ringleader)",word,,,,,1,1,53,53,53,0.19,

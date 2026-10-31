@@ -326,6 +326,10 @@ Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of *
 
 The received text gives **two** calamity-clauses: 禍莫大於不知足 (no *disaster* greater than discontent) / 咎莫大於欲得 (no *fault* greater than the desire to acquire). Mawangdui and the Fu Yi text open the run with a **third, prior** line: **罪莫大於可欲** — "there is no greater **crime** than desire" (可欲, "the desirable," the same phrase as Ch 3's 不見可欲). So the older witnesses remember a rising three-beat — **crime**/desire → **disaster**/discontent → **fault**/greed — that the received text trimmed to two. We keep the received pair, noting the manuscripts' fuller crescendo.
 
+### Ch 46 · 知足之足 / 知足之為足 — Guodian spells out the recognition
+
+The received close is 故知足之足，常足矣 (*gù zhī zú zhī zú, cháng zú yǐ* — "so the enough of knowing enough is ever enough"). Guodian reads 知足之為足，此恒足矣 (*zhī zú zhī wéi zú, cǐ héng zú yǐ* — "knowing that enough is enough: this is ever enough"). Its 之為 (*zhī wéi* — "as being") makes 知足 a recognition, and Heshang Gong glosses ch 33 in the same words, 知足之為足. **We keep the base**, and the English already carries the sense: *the contentment of knowing you have enough*. The argument is in `glossary/zhizu-知足.md`. *(2026-10-30, from ctext's Guodian transcription; confirm against a printed edition, as `WORKLIST.md` T2-74 asks of the other recent rows.)*
+
 ### Ch 47 · 不見而名 / 不見而明 — the homophone fork
 
 Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." ~~We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here.~~ **Reversed 2026-09-24, Shalom's call: we keep the received 名**, which both our commentaries print. 王弼 (*Wáng Bì*): 雖不見而是非之理可得而名也, *"though not seeing, the principles of right and wrong can still be named."* The parallel holds with 名: *know / name / accomplish*. 明's predicate English, *see clearly*, had put *see* on two characters in one line, 明 and 見 (*jiàn* — to see). Now *"names without seeing."* See `chapters/047.md`. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
@@ -597,6 +601,10 @@ Our vendored 王弼 (*Wáng Bì*) prints 命並作爵 beneath 夫莫之命而常
 **Our call: the base**, because the reading is transmitted only through a collation note whose own status the Siku editors doubt, and because no edition is named for it — the same reason the Ming facts at Ch 38 and Ch 23 stayed out of `sources/variants.yaml` under a witness id. It is recorded as a fact about our vendored text, with `wangbi_collation` rather than a witness name.
 
 **Why it is worth keeping.** It is independent evidence for 命's **conferral** sense against its command sense, which is the open question in `glossary/ming-命.md` — and ch 51 currently renders 命 as *commands*, which is 令 (*lìng*)'s English in the identical 莫之X而 frame at ch 32.
+
+### Ch 33 · 死而不亡 / 死而不忘 — gone, or forgotten
+
+Our base reads 死而不亡者壽 (*sǐ ér bù wáng zhě shòu* — "one who dies but is not gone lives long"). Both Mawangdui silks write 忘 (*wàng* — to forget) for 亡 (*wáng* — to be gone), and silk A has no 而 (*ér* — but): *one who dies and is not forgotten lives long*. The two words sound alike, and the silks' reading puts the survival in memory. **We keep the base.** Wang Bi reads 亡: 雖死而以為生之道不亡，乃得全其壽 — *"though they die, the way they lived by is not gone, and so their long life is made whole."* The English, *dies but does not vanish*, leans toward both: what vanishes is lost to sight, and to memory. *(2026-10-30, from Xu Fancheng's collation notes; confirm against a printed edition, as `WORKLIST.md` T2-74 asks of the other recent rows.)*
 
 ### Ch 35 · 安平太 — three characters, three witnesses, and 太 never stands alone
 

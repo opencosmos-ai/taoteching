@@ -54,7 +54,7 @@ a line would sit comfortably in a hymn, I want to know.
 
 ### 2. Fill a gloss gap — a little Chinese, or a good dictionary
 
-**<!-- count: gloss:apparatus -->124 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
+**<!-- count: gloss:apparatus -->123 of the book's <!-- count: characters -->798 characters carry only a working approximation** —
 `gloss_source: apparatus`, harvested from the source tables, not decided.
 Each is a word seen only once or twice; the more frequent ones have hand glosses. Every one is a small, self-contained, genuinely
 useful contribution.
