@@ -116,7 +116,7 @@ We print 功遂身退，天之道 — *"the work done, the body withdraws; this 
 
 **Why both are worth having.** Our English had 無知 and 無為 **on each other's lines** (`WORKLIST` T1-1), and the fork sits on exactly those two lines — so a reader who found the old English and went looking would have had no way to tell an error from a witness. Both recorded in `sources/variants.yaml`.
 
-### Ch 10 · 能如嬰兒乎 / 能嬰兒乎 — a likeness, or the thing itself — **undecided**
+### Ch 10 · 能如嬰兒乎 / 能嬰兒乎 — a likeness, or the thing itself — **resolved 2026-11-01: we follow the witnesses**
 
 **Every witness we hold reads 能嬰兒乎** (*néng yīng ér hū* — "can you be an infant?"), without 如 (*rú* — like): both Mawangdui silks, the Siku Wang Bi lemma (`sources/commentaries/wangbi/010.md`, where it carries the `*` that marks a difference from our base), and Heshang Gong's lemma, 能孾兒 (*néng yīng ér* — "can be an infant"), which drops 乎 (*hū* — the question particle) as well. Guodian does not carry chapter 10. **Our base stands alone** in asking for a likeness.
 
@@ -124,7 +124,7 @@ We print 功遂身退，天之道 — *"the work done, the body withdraws; this 
 
 **The chapter's own shape argues for the witnesses.** Its other questions ask for the thing itself: 能無離乎 · 能無疵乎 · 能無知乎 · 能為雌乎 · 能無為乎 (*can you keep them from parting · be without blemish · be unknowing · be the hen · be non-doing?*). None has a 如. The verse already reads *"can you be the hen?"*, not *like the hen*.
 
-**Why it is left open.** It changes the verse, and the call is Shalom's (`WORKLIST.md` T2-76). Found 2026-11-01 while writing `glossary/qi-氣.md`. *Silk B also writes 至 (zhì — to reach) for 致 (zhì — to bring to) in the clause before, the agency fork of chapter 16 below, recorded in `sources/variants.yaml` and not meaning-bearing here: "gathering the breath to softness" reads either way.*
+**We follow the witnesses, Shalom's call, 2026-11-01:** *"Gathering the breath to softness, can you be an infant?"* (was: *"can you be like an infant?"*). **The base text and the Source table keep 如; only the verse follows the witnesses**, the practice already used at Ch 21, 41, 42, 47 and 53. Found 2026-11-01 while writing `glossary/qi-氣.md`; `WORKLIST-CLOSED.md` T2-76. *Silk B also writes 至 (zhì — to reach) for 致 (zhì — to bring to) in the clause before, the agency fork of chapter 16 below, recorded in `sources/variants.yaml` and not meaning-bearing here: "gathering the breath to softness" reads either way.*
 
 ### Ch 28 · the stanza order is an editorial restoration
 

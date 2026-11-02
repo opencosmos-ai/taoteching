@@ -71,11 +71,13 @@ The book's own three lines are a small sample, so the evidence widens to the tex
 
 ### Chapters 10 and 55 are one instruction, given twice
 
-> *Gathering the breath to softness, can you be like an infant?*
+> *Gathering the breath to softness, can you be an infant?*
 >
 > 專氣致柔，能如嬰兒乎？
 >
 > — chapter 10
+
+Every witness reads 能嬰兒乎 (*néng yīng ér hū* — "can you be an infant?"), without our base's 如 (*rú* — like), and the English follows them (`notes/manuscript.md`).
 
 > *It cries all day and never goes hoarse — this is harmony at its utmost.*
 > *Knowing harmony is called the ever-present.*

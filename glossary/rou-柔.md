@@ -40,7 +40,7 @@ So the picture behind 柔 is a carpenter's: a length of green or heated wood tak
 
 **The tongue.** On ch 78's 柔之勝剛, *"the soft overcomes the unbending,"* 河上公 answers with the body: 舌柔齒剛，齒先舌亡, *"the tongue is soft, the teeth are unbending; the teeth go first."*
 
-**The infant.** 骨弱筋柔而握固, *"their bones are yielding and their muscles soft, yet their grip is firm"* (55). 王弼 (*Wáng Bì*) says the softness is the reason for the grip: 以柔弱之故，故握能周固, *"because it is soft and yielding, its grip can close all the way round and hold."* A hard hand cannot wrap around a thing. Ch 10 asks for the same body from inside: 專氣致柔，能如嬰兒乎, *"gathering the breath to softness, can you be like an infant?"* 王弼 there: 致至柔之和, *"reaching the harmony of the utmost softness."*
+**The infant.** 骨弱筋柔而握固, *"their bones are yielding and their muscles soft, yet their grip is firm"* (55). 王弼 (*Wáng Bì*) says the softness is the reason for the grip: 以柔弱之故，故握能周固, *"because it is soft and yielding, its grip can close all the way round and hold."* A hard hand cannot wrap around a thing. Ch 10 asks for the same body from inside: 專氣致柔，能如嬰兒乎, *"gathering the breath to softness, can you be an infant?"* 王弼 there: 致至柔之和, *"reaching the harmony of the utmost softness."*
 
 **What is alive.** 人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁, *"In life a person is soft and yielding; in death, hard and strong. In life the countless things, the grasses and trees, are soft and fragile; in death, withered and dry"* (76). Rigor mortis and dry stalks are the argument. Softness is how you tell that something is alive.
 

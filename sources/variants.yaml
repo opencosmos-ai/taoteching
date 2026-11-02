@@ -1884,7 +1884,7 @@
   base: "能如嬰兒乎"
   witnesses: { mawangdui-a: "能嬰兒乎", mawangdui-b: "能嬰兒乎", siku-wangbi: "能嬰兒乎", heshanggong: "能孾兒" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
     Every witness we hold lacks 如 (ru - like): both silks, the Siku Wang Bi
     lemma, and Heshang Gong's lemma, which also lacks 乎. They ask "can you be
@@ -1892,7 +1892,8 @@
     commentators supply a likeness in their glosses (Wang Bi 能若嬰兒,
     Heshang Gong 能如孾兒), which may be where the base's 如 came from. None
     of the chapter's other questions has a 如. Found 2026-11-01, writing
-    glossary/qi-氣.md (WORKLIST T2-76).
+    glossary/qi-氣.md. Followed 2026-11-01, Shalom's call: "can you be an
+    infant?" The base text keeps 如; only the verse follows the witnesses.
   logged: notes/manuscript.md
 
 - chapter: 42

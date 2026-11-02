@@ -59,7 +59,7 @@ Five things follow. 魄 is **first**, the life a person has before anything else
 > 載營魄抱一，能無離乎
 > 專氣致柔，能如嬰兒乎
 > *"Housing your aliveness and embracing the one, can you keep these from parting?*
-> *Gathering the breath to softness, can you be like an infant?"*
+> *Gathering the breath to softness, can you be an infant?"*
 
 **The couplet names the two halves of a living person that the 禮記 pairs.** 祭義: 氣也者，神之盛也；魄也者，鬼之盛也, *"breath is the fullness of spirit; the 魄 is the fullness of ghost."* Aliveness stands in the first line and breath in the second. The infant the second line asks for is 孔穎達's picture of the 魄 itself.
 
