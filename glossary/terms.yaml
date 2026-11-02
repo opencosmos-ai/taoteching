@@ -235,6 +235,15 @@
   flexions:
     - { english: "guard", chapters: [9, 67], why: "what is kept is ground or property, not a stance" }
 
+- term: "歸 & 復 & 反"
+  pinyin: "guī / fù / fǎn"
+  render: "return / return, go back / returning"
+  forbidden: ["home", "revert", "reversion", "the Return", "eternal return", "source"]
+  chapters: [14, 16, 20, 22, 28, 34, 52, 60]
+  status: locked
+  entry: glossary/gui-fu-fan-歸復反.md
+  # covers 根 -> root
+
 - term: "王"
   pinyin: "wáng"
   render: "ruler / sovereign · to rule (verb)"

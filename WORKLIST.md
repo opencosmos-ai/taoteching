@@ -14,7 +14,7 @@
 
 **Next, in order:**
 
-1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 反/復/歸 (*fǎn / fù / guī* — the return family, T2-44) · 和 (*hé* — harmony, raised 2026-11-01) · 名 (*míng* — name) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
+1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 和 (*hé* — harmony, raised 2026-11-01) · 名 (*míng* — name) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** the two audits' findings, deepest first: R6's ch 60, then the rest of R6 and R5 (both run 2026-10-27). The form audit's losses, T3-8 → T3-18, one at a time (R4, step 4; all 81 chapters were read 2026-10-26). Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2). The em-dashes (T4-3) were settled 2026-10-25.
@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **77 item rows: 70 open · 0 done · 6 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **75 item rows: 68 open · 0 done · 6 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -46,7 +46,6 @@
 | T2-21 | ⬜ | **厚** four ways — *thick* (38) · *heavy* (44) · *abundant* (55) · *rich* (75) | 38 44 50 55 75 | E |
 | T2-24 | 🔶 | **淵** (*yuān* — deep water) — ch 36 reads **deep water** (說文 回水也…左右，岸也: circling water, banks left and right). Open: whether ch 4's *fathomless* and ch 8's *staying deep* (心善淵) join it. *pool* rejected as chlorinated; *the depths* fails the pointing test | 4 8 | E |
 | T2-27 | ⬜ | **同謂之玄 → *Together*** — 同's fourth English, and *together* can read as *jointly they form one thing* rather than *both alike are so called* | 1 | E |
-| T2-28 | ⬜ | **復歸 split four-to-three** — the seven-line compound reads *return again* at 16 and 28 ×3, plain *return* at 14 and 52 | 14 16 28 52 | E |
 | T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57). `ming-命.md` is still `status: open` | 12 19 32 51 57 | E |
 | T2-31 | ⬜ | **客** survives once in the English (ch 15). Restored at 35 as *a passing guest*; **ch 69 still owes it** · T1-23 | 15 35 69 | E |
 | T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
@@ -57,7 +56,6 @@
 | T2-37 | ⬜ | ★ **神 and 靈 want one entry together** — both on the overlay watchlist, neither has an entry. 神 → *spirit* (6, 39, 60) · *sacred* (29); 靈 → *numinous* (39), which **fails the pointing test** and had no surviving alternative. Ch 29's *sacred vessel* (神器, *shén qì*) waits on this; the argument is in `notes/reading.md` | 6 29 39 60 | E |
 | T2-39 | 🔶 | **The 強為之▢ frame (*qiǎng wéi zhī* — "forcing a ▢ on it") takes two shapes** — *"Forcing a name on it"* at 25 (強為之名) and *"do I force a likeness"* at 15 (強為之容). 名 (*míng* — name) is the book's own heavily-worked word, 21 lines across 9 chapters, and ch 1 is built on it | 15 25 | E |
 | T2-41 | ⬜ | **沖 reads *blending* at ch 42** (沖氣以為和) where ch 4's Pass D work settled it as **empty** (道沖) · **and 沖 may not be an emptiness word at all**: 說文 (*Shuōwén*) 涌搖也, *"surging and shaking"*, read like 動 (*dòng* — to move). *Empty* depends on reading it as 盅 (*zhōng* — an empty vessel), a call `variants.yaml` has not recorded (`glossary/xu-虛.md`). If that holds, 沖 wants its own entry. Its hand gloss (*empty / blending*) only describes the verse | 4 42 45 | E |
-| T2-44 | ⬜ | **The return family — 反 · 復 · 歸 all read *return*, across 21 English lines.** 說文 keeps them distinct: 反 覆也 (overturn, on 又 a hand), 復 往來也 (going and coming, on 彳 the step radical), 歸 女嫁也 (a woman marrying in — going where one belongs). 反 → *returning* is fixed at 25 and 40; the other two are open | 14 16 25 28 34 40 52 59 65 | E |
 | T2-45 | ⬜ | **廣 two Englishes** — *boundless* at 41 (廣德若不足) and *reach far* at 67 (儀故能廣). 說文: 殿之大屋也, a great hall, on the roof radical 广. *Vast* is free now that 大 is locked. Ch 41's note still calls 廣 *broad*, against its own verse | 41 67 | E |
 | T2-47 | ⬜ | **Ch 68's 善▢者 frame has a seam.** 善為士者 is verbatim at 15 and 68, so its first line reads *"Those masterful in service are not martial"* — while its other three run *"The master fighter," "The master of overcoming enemies," "The master of using people."* Four instances of one frame, two shapes | 68 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |

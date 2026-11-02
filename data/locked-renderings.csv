@@ -93,6 +93,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 6,3,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,The dark female's gate —
 6,3,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,The dark female's gate —
 6,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,this is called the root of sky and earth.
+6,4,根,gēn,歸 & 復 & 反,root,yes,1.0,exact-count,this is called the root of sky and earth.
 6,6,勤,qín,勤,strain,yes,1.0,exact-count,"use it, and there is no strain."
 6,6,用,yòng,無 & 有,use,yes,1.0,exact-count,"use it, and there is no strain."
 7,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The sky is lasting, the earth enduring."
@@ -235,6 +236,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 14,8,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,"Therefore, they mix into one."
 14,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Therefore, they mix into one."
 14,11,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Continuously flowing, it cannot be named"
+14,12,復,Fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,And returns to no-thing.
+14,12,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,And returns to no-thing.
 14,12,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,And returns to no-thing.
 14,12,物,wù,萬物,things / something,NOT FOUND,1.0,authored,And returns to no-thing.
 14,13,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"This is the shape of no-shape, the image of no-thing."
@@ -274,10 +277,18 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,3,物,wù,萬物,things / something,yes,1.0,authored,"The countless things arise together,"
 16,3,萬,Wàn,萬物,countless,yes,1.0,authored,"The countless things arise together,"
 16,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"Relying upon this, I observe their return."
+16,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"Relying upon this, I observe their return."
 16,5,物,wù,萬物,things / something,yes,1.0,authored,"Things come to their fullest,"
+16,6,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Each returns to its root.
+16,6,根,gēn,歸 & 復 & 反,root,yes,1.0,authored,Each returns to its root.
+16,6,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,Each returns to its root.
+16,7,根,gēn,歸 & 復 & 反,root,yes,1.0,authored,Returning to the root is called stillness.
+16,7,歸,Guī,歸 & 復 & 反,return,yes,1.0,authored,Returning to the root is called stillness.
 16,8,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,1.0,authored,This is called returning to what is given.
+16,8,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,This is called returning to what is given.
 16,9,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,1.0,authored,Returning to what is given is called the ever-present.
 16,9,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Returning to what is given is called the ever-present.
+16,9,復,Fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Returning to what is given is called the ever-present.
 16,10,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Knowing the ever-present is called clear-seeing.
 16,10,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,Knowing the ever-present is called clear-seeing.
 16,11,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Not knowing the ever-present brings reckless action and disaster.
@@ -314,6 +325,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 19,1,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,孝,xiào,慈,devotion,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
+19,2,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,慈,cí,慈,tenderness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,民,mín,民,the people,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off cunning, abandon profit, and there are no thieves."
@@ -329,6 +341,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),yes,1.0,authored,What people fear must be feared.
 20,6,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,"The crowd is merry, as if at a great feast,"
 20,9,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,"I alone am moored, and show no sign,"
+20,11,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,"listless, as if with nowhere to return."
 20,11,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"listless, as if with nowhere to return."
 20,12,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,The crowd all have more than enough.
 20,12,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,The crowd all have more than enough.
@@ -381,6 +394,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 22,15,曲,qū,全,bend / bent,yes,1.0,authored,"When the ancients said ""bend, and stay whole,"" were those empty words?"
 22,16,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"When the ancients said ""bend, and stay whole,"" were those empty words?"
 22,17,全,quán,全,whole · stay whole · keep whole (transitive),yes,1.0,authored,These words hold. Return to them. Stay whole.
+22,17,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,These words hold. Return to them. Stay whole.
 23,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Who does this? Sky and earth.
 23,4,為,wèi,為,do / handle / serve as,yes,1.0,authored,Who does this? Sky and earth.
 23,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Even sky and earth cannot make it last long.
@@ -422,6 +436,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,9,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
 25,9,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
 25,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Great means departing,"
+25,12,反,fǎn,歸 & 復 & 反,returning,yes,1.0,authored,going far means returning.
 25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
 25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
 25,13,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore, the Tao is great, the sky is great, the earth is great, and humans are also great."
@@ -437,6 +452,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,18,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The sky models itself on the Tao,"
 25,18,道,dào,道,the Tao / way,yes,1.0,authored,"The sky models itself on the Tao,"
 25,19,道,Dào,道,the Tao / way,yes,1.0,authored,The Tao models itself on being what it is.
+26,1,根,gēn,歸 & 復 & 反,root,yes,1.0,authored,The heavy is the root of the light.
 26,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The heavy is the root of the light.
 26,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Stillness is the ruler of the agitated.
 26,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"Therefore, the noble travels all day without leaving the baggage wagons."
@@ -484,6 +500,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
 28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
+28,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the infant.
+28,4,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the infant.
 28,5,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the black,"
 28,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's pattern.
 28,6,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's pattern.
@@ -491,8 +509,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,7,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
 28,7,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
 28,7,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
-28,8,極,jí,極,the far end — where a thing runs out,yes,1.0,exact-count,Return again to the endless.
-28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Return again to the endless.
+28,8,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the endless.
+28,8,極,jí,極,the far end — where a thing runs out,yes,1.0,exact-count,Return to the endless.
+28,8,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the endless.
+28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Return to the endless.
 28,9,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the soiled,"
 28,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's valley.
 28,10,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's valley.
@@ -502,7 +522,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,11,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,11,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
 28,11,谷,gǔ,谷,valley,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,12,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,Return again to the uncarved wood.
+28,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the uncarved wood.
+28,12,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,Return to the uncarved wood.
+28,12,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the uncarved wood.
 28,13,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,13,樸,Pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
@@ -599,6 +621,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Ever desireless, it can be called small."
 34,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
 34,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
+34,6,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
 34,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
 34,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
 34,6,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
@@ -716,6 +739,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,17,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,exact-count,"This is why rulers call themselves orphaned, alone, and unworthy."
 39,18,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Is this not taking the cheap as the root? Is it not?
 39,19,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"So reduce a cart to the count of its parts, and there is no cart."
+40,1,反,Fǎn,歸 & 復 & 反,returning,yes,1.0,exact-count,Returning is the Tao’s movement;
 40,1,道,dào,道,the Tao / way,yes,1.0,exact-count,Returning is the Tao’s movement;
 40,2,弱,Ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,Yielding is the Tao’s use.
 40,2,用,yòng,無 & 有,use,yes,1.0,exact-count,Yielding is the Tao’s use.
@@ -918,6 +942,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"The world has an origin, which serves as the mother of the world."
 52,2,母,mǔ,母,mother,yes,1.0,authored,"Find our mother, and you know her children."
 52,3,守,shǒu,守,hold to,NOT FOUND,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
+52,3,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
 52,3,母,mǔ,母,mother,yes,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
 52,3,身,shēn,身,body,yes,1.0,authored,"Know her children, return and hold fast to our mother, and to the end of your days, no danger will find you."
 52,4,勤,qín,勤,strain,yes,1.0,authored,"Block the openings, close the doors, and to the end of your days you will not strain."
@@ -929,7 +954,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,Seeing the small is called clarity. Holding to the soft is called strong.
 52,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,Seeing the small is called clarity. Holding to the soft is called strong.
 52,6,柔,róu,柔,soft,yes,1.0,authored,Seeing the small is called clarity. Holding to the soft is called strong.
+52,7,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
+52,7,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,用,Yòng,無 & 有,use,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,身,shēn,身,body,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
@@ -1020,6 +1047,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 58,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,Who knows where it ends? It has no fixed norm —
 58,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Who knows where it ends? It has no fixed norm —
 58,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
+58,6,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
+58,6,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 58,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 58,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
 58,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"Therefore the sage is square but does not cut,"
@@ -1038,6 +1067,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,母,mǔ,母,mother,yes,1.0,exact-count,"Have the mother of the state, and you can last long."
+59,8,根,gēn,歸 & 復 & 反,root,yes,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,道,dào,道,the Tao / way,yes,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 60,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Governing a large state is like cooking a small fish.
@@ -1047,6 +1077,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 60,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
 60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"not only does their potency do no harm, the sage, too, does no harm to people."
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
+60,5,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The large state is the downstream flow,"
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the confluence of the world, the female of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the confluence of the world, the female of the world."
@@ -1133,6 +1164,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,10,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,11,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage wants the not-wanting and does not prize rare goods,"
 64,11,貨,huò,貨,goods,yes,1.0,authored,"Therefore, the sage wants the not-wanting and does not prize rare goods,"
+64,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"learns to unlearn, brings the crowd back from where they have gone too far,"
 64,12,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"learns to unlearn, brings the crowd back from where they have gone too far,"
 64,13,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
@@ -1150,6 +1182,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,6,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,Always to know the pattern is called profound integrity.
 65,6,德,dé,德,integrity,yes,1.0,authored,Always to know the pattern is called profound integrity.
 65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,Always to know the pattern is called profound integrity.
+65,7,反,fǎn,歸 & 復 & 反,returning,NOT FOUND,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
 65,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
 65,7,德,dé,德,integrity,yes,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
 65,7,物,wù,萬物,things / something,yes,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
@@ -1345,6 +1378,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
+78,5,反,fǎn,歸 & 復 & 反,returning,NOT FOUND,1.0,authored,Words on the mark seem like their opposite.
 79,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
@@ -1371,6 +1405,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 80,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
 80,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
 80,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
+80,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,民,mín,民,the people,yes,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,6,民,mín,民,the people,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.

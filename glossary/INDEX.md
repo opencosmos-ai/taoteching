@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**69 entries.** Sorted by how much of the book each term touches.
+**70 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -36,6 +36,7 @@ python3 tools/build_index.py
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
 | **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
+| **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 8 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
 | **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
@@ -98,6 +99,7 @@ python3 tools/build_index.py
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
+| **根** | root | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) — 歸 & 復 & 反 |
 | **濁** | muddy | [`qing-清.md`](qing-清.md) — 清 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **牡** | the male | [`pin-牝.md`](pin-牝.md) — 牝 |

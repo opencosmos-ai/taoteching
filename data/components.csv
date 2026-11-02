@@ -77,7 +77,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 匕,bǐ,"a spoon, a ladle",semantic,glossed,3,"此,長,鳥"
 卜,,,semantic,not yet glossed — see sources/component-glosses.yaml,3,"兆,用,貞"
 厂,hǎn,"a cliff, an overhang",semantic,glossed,3,"侯,厚,厭"
-反,fǎn,return / turn back / opposite (78),semantic,glossed,3,"以,司,抑"
+反,fǎn,returning,semantic,glossed,3,"以,司,抑"
 古,gǔ,ancient / the ancients,phonetic,glossed,3,"固,故,枯"
 台,,,phonetic,"no gloss needed: present for sound, not meaning",3,"始,殆,治"
 夊,suī,"walking slowly, dragging the feet",semantic,glossed,3,"愛,憂,致"
@@ -390,7 +390,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 弗,fú,not / does not,phonetic,glossed,1,費
 弘,,,phonetic,"no gloss needed: present for sound, not meaning",1,強
 彗,,,phonetic,"no gloss needed: present for sound, not meaning",1,慧
-復,Fù,return / go back / turn into (58),phonetic,glossed,1,覆
+復,Fù,"return, go back",phonetic,glossed,1,覆
 微,wēi,faint / hidden (36) / the intangible (14),phonetic,glossed,1,豈
 徹,chè,"score (司徹, keep score)",phonetic,glossed,1,轍
 戊,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,成

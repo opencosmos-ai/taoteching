@@ -85,6 +85,6 @@ Let those drift and no choice of noun will save the passage; hold them and the s
 
 One honesty. If 物 reaches from grasses to the Tao itself — 有物混成, *something mixed and complete* — then the word is doing something English cannot quite follow. It is not a category ("objects") but closer to *whatever can be pointed at*, including what has no form to point at.
 
-Chapter 14 pushes this to its edge: 復歸於**無物** — *return again to no-thing* — and then, in the next breath, 無物之象, *the image of no-thing*. A no-thing that nonetheless has an image. Laozi is using the plainest available word for *stuff* and then hollowing it out from inside, until it can name the formless too.
+Chapter 14 pushes this to its edge: 復歸於**無物** — *returns to no-thing* — and then, in the next breath, 無物之象, *the image of no-thing*. A no-thing that nonetheless has an image. Laozi is using the plainest available word for *stuff* and then hollowing it out from inside, until it can name the formless too.
 
 We render it "things" and let the strangeness stand where he put it. A translation that tidied 物 into consistent English categories would be reporting a tidier book than the one he wrote.
