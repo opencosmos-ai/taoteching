@@ -328,8 +328,8 @@
 
 - term: "弱"
   pinyin: "ruò"
-  render: "yielding — and *weaken* only where it takes an object"
-  forbidden: ["frail", "feeble", "feebleness", "powerless"]
+  render: "yielding — and the verb *yield* where it makes something so"
+  forbidden: ["weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powerless"]
   chapters: [3, 36, 40, 55, 76, 78]
   status: locked
   entry: glossary/ruo-弱.md

@@ -25,7 +25,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","By not displaying the desirable, the people's hearts are not thrown into disorder.",exact-count
 3,4,2,是以聖人之治，,"Shì yǐ shèng rén zhī zhì,","Therefore, the Sage's governance",This is how the sage governs:,exact-count
 3,5,2,虛其心，實其腹，,"xū qí xīn, shí qí fù,","empties the heart, fills the stomach,","emptying their hearts and filling their bellies,",exact-count
-3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","weakens the ambition, and strengthens the bones.","weakening their ambition and strengthening their bones,",exact-count
+3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","teaches the ambition to yield, and strengthens the bones.","teaching their ambition to yield and strengthening their bones,",exact-count
 3,7,2,常使民無知無欲。,Cháng shǐ mín wú zhī wú yù.,Constantly keep the people without knowledge and desire.,"so the people are ever unknowing, ever desireless,",exact-count
 3,8,2,使夫智者不敢為也。,Shǐ fū zhì zhě bù gǎn wéi yě.,Let the clever not dare to act.,and the knowers never push to act.,exact-count
 3,9,2,為無為，則無不治。,"Wéi wú wéi, zé wú bù zhì.","Practice non-action, and nothing will not be governed.","Do the not-doing, and nothing is left ungoverned.",exact-count
@@ -428,11 +428,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 35,6,2,聽之不足聞，,"Tīng zhī bù zú wén,","Listen to it, not sufficient/enough to be heard.",Listen for it. There is not enough to hear.,exact-count
 35,7,2,用之不可既。,Yòng zhī bù kě jì.,"Use it, it cannot be exhausted/used up (bu ke ji).",Use it. It never runs out.,exact-count
 36,1,1,將欲歙之，必固張之；,"Jiāng yù xì zhī, bì gù zhāng zhī;","About to desire to contract it, must firmly expand it.","If you would draw it in, you must first stretch it out.",exact-count
-36,2,1,將欲弱之，必固強之；,"Jiāng yù ruò zhī, bì gù qiáng zhī;","About to desire to weaken it, must firmly strengthen it.","If you would weaken it, you must first strengthen it.",exact-count
+36,2,1,將欲弱之，必固強之；,"Jiāng yù ruò zhī, bì gù qiáng zhī;","About to desire to have it yield, must firmly strengthen it.","If you would have it yield, you must first strengthen it.",exact-count
 36,3,1,將欲廢之，必固興之；,"Jiāng yù fèi zhī, bì gù xīng zhī;","About to desire to abolish it, must firmly elevate it.","If you would bring it down, you must first raise it up.",exact-count
 36,4,1,將欲奪之，必固與之。,"Jiāng yù duó zhī, bì gù yǔ zhī.","About to desire to take from it, must firmly give to it.","If you would take from it, you must first give to it.",exact-count
 36,5,2,是謂微明。,Shì wèi wēi míng.,This is called subtle illumination.,This is called the hidden clarity.,exact-count
-36,6,2,柔弱勝剛強。,Róu ruò shèng gāng qiáng.,Soft and weak overcomes hard and strong.,The soft and yielding overcome the unbending and strong.,exact-count
+36,6,2,柔弱勝剛強。,Róu ruò shèng gāng qiáng.,Soft and yielding overcomes hard and strong.,The soft and yielding overcome the unbending and strong.,exact-count
 36,7,3,魚不可脫於淵，,"Yú bù kě tuō yú yuān,",Fish cannot be removed from the deep abyss.,A fish cannot leave deep water.,exact-count
 36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's tools of advantage cannot be shown.,exact-count
 37,1,1,道常無為而無不為。,Dào cháng wú wéi ér wú bù wéi.,"Tao constantly takes no action, yet nothing is left undone.","The Tao is ever non-doing, yet nothing is left undone.",exact-count
@@ -482,7 +482,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 39,20,4,不欲琭琭如玉，,Bù yù lù lù rú yù,"Do not desire to chime and shine like polished jade,","Do not want to be gleaming like jade,",exact-count
 39,21,4,珞珞如石。,Luò luò rú shí,\[But rather\] clatter and remain rough like common stone.,or common like stone.,exact-count
 40,1,1,反者道之動,Fǎn zhě dào zhī dòng,Returning/Reversion ( Fǎn ) is the movement ( dòng ) of the Tao;,Returning is the Tao’s movement;,exact-count
-40,2,1,弱者道之用。,Ruò zhě dào zhī yòng,Weakness/Yielding ( Ruò ) is the function/application ( yòng ) of the Tao.,Yielding is the Tao’s use.,exact-count
+40,2,1,弱者道之用。,Ruò zhě dào zhī yòng,Yielding ( Ruò ) is the function/application ( yòng ) of the Tao.,Yielding is the Tao’s use.,exact-count
 40,3,2,天下萬物生於有，,Tiān xià wàn wù shēng yú yǒu,The ten thousand things under heaven ( Wàn wù ) are born from Being/Presence ( Yǒu );,The countless things of the world are born from presence;,exact-count
 40,4,2,有生於無。,Yǒu shēng yú wú,Being/Presence ( Yǒu ) is born from Non-Being/The Void ( Wú ).,Presence is born from absence.,exact-count
 41,1,1,上士聞道，勤而行之；,"Shàng shì wén dào, qín ér xíng zhī","Top-tier scholars/users ( Shàng shì ) hear the Tao, diligently practice/execute it ( xíng zhī ).",Those highest in service hear the Tao and labor to practice it.,authored
@@ -594,7 +594,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 54,9,3,吾何以知天下然哉？以此。,Wú hé yǐ zhī tiān xià rán zāi? Yǐ cǐ.,How do I know the world is thus? By this.,How do I know the world is so? By this.,authored
 55,1,1,含德之厚，比於赤子。,"Hán dé zhī hòu, bǐ yú chì zǐ.",One containing abundant Virtue/Power is comparable to a newborn infant.,A person with abundant integrity is like a newborn.,authored
 55,2,1,毒蟲不螫，猛獸不據，攫鳥不搏。,"Dú chóng bù shì, měng shòu bù jù, jué niǎo bù bó.","Poisonous insects do not sting them, fierce beasts do not seize them, birds of prey do not strike them.","Venomous creatures do not sting them, / fierce beasts do not seize them, / birds of prey do not attack them.",authored
-55,3,1,骨弱筋柔而握固。,Gǔ ruò jīn róu ér wò gù.,"Bones are weak, muscles are soft, yet their grasp is firm.","Their bones are yielding and their muscles soft, yet their grip is firm.",authored
+55,3,1,骨弱筋柔而握固。,Gǔ ruò jīn róu ér wò gù.,"Bones are yielding, muscles are soft, yet their grasp is firm.","Their bones are yielding and their muscles soft, yet their grip is firm.",authored
 55,4,1,未知牝牡之合而朘作，精之至也。,"Wèi zhī pìn mǔ zhī hé ér zuī zuò, jīng zhī zhì yě.","They do not yet know the union of male and female, yet their organ is aroused, this is the perfection/extreme of vital essence (jing).","They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.",authored
 55,5,1,終日號而不嗄，和之至也。,"Zhōng rì háo ér bù shà, hé zhī zhì yě.","Crying all day yet their voice does not grow hoarse, this is the perfection/extreme of harmony.",It cries all day and never goes hoarse — this is harmony at its utmost.,authored
 55,6,2,知和曰常，知常曰明。,"Zhī hé yuē cháng, zhī cháng yuē míng.","Knowing harmony is called the constant, knowing the constant is called clarity/illumination.",Harmony is called the ever-present. / Knowing harmony is called clear-seeing.,authored
@@ -764,12 +764,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 75,2,2,民之難治，以其上之有為，是以難治。,"Mín zhī nán zhì, yǐ qí shàng zhī yǒu wéi, shì yǐ nán zhì.","The people are difficult to govern, because their superiors have ""doing"" (interference), therefore they are difficult to govern.",The people are hard to govern / because those over them will not stop doing.,authored
 75,3,2,民之輕死，以其上求生之厚，是以輕死。,"Mín zhī qīng sǐ, yǐ qí shàng qiú shēng zhī hòu, shì yǐ qīng sǐ.","The people treat death lightly, because their superiors seek ""life"" (luxury) with such thickness/profuseness, therefore they treat death lightly.",The people make light of death / because those over them want their own lives so rich.,authored
 75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Only those who don't use living for doing / are worthier than those who hold life precious.,authored
-76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and weak; at death it is rigid and hard/strong.,"In life a person is soft and yielding. / In death, hard and strong.",authored
+76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and yielding; at death it is rigid and hard/strong.,"In life a person is soft and yielding. / In death, hard and strong.",authored
 76,2,1,萬物草木之生也柔脆，其死也枯槁。,"Wàn wù cǎo mù zhī shēng yě róu cuì, qí sǐ yě kū gǎo.",The ten thousand things—grass and trees—are in life supple and fragile; at death they are withered and dried.,"In life the countless things, the grasses and trees, are soft and fragile. / In death, withered and dry.",authored
 76,3,2,故堅強者死之徒，,"Gù jiān qiáng zhě sǐ zhī tú,","Therefore the rigid and hard/strong are the disciples/company of death,",So the hard and strong are followers of death.,authored
-76,4,2,柔弱者生之徒。,Róu ruò zhě shēng zhī tú.,The supple and weak are the disciples/company of life.,The soft and yielding are followers of life.,authored
+76,4,2,柔弱者生之徒。,Róu ruò zhě shēng zhī tú.,The supple and yielding are the disciples/company of life.,The soft and yielding are followers of life.,authored
 76,5,3,是以兵強則不勝，木強則折。,"Shì yǐ bīng qiáng zé bù shèng, mù qiáng zé zhé.","Therefore, if troops are hard/strong, they will not win; if a tree is hard/strong, it will snap.","This is why a strong army does not win, / and a strong tree snaps.",authored
-76,6,3,強大處下，柔弱處上。,"Qiáng dà chǔ xià, róu ruò chǔ shàng.","The hard/strong and big reside below, the supple and weak reside above.",The strong and the big dwell below. / The soft and the yielding dwell above.,authored
+76,6,3,強大處下，柔弱處上。,"Qiáng dà chǔ xià, róu ruò chǔ shàng.","The hard/strong and big reside below, the supple and yielding reside above.",The strong and the big dwell below. / The soft and the yielding dwell above.,authored
 77,1,1,天之道，其猶張弓與？,"Tiān zhī dào, qí yóu zhāng gōng yǔ?","The Tao of Heaven, is it not like drawing a bow?",The way of nature: / is it not like stringing a bow?,authored
 77,2,1,高者抑之，下者舉之；,"Gāo zhě yì zhī, xià zhě jǔ zhī;","The high is lowered, the low is raised;","The high is pressed down, the low is lifted.",authored
 77,3,1,有餘者損之，不足者補之。,"Yǒu yú zhě sǔn zhī, bù zú zhě bǔ zhī.","Those who have excess, it diminishes; those who are insufficient, it supplements.",What is too much is drawn off. What is too little is filled in.,authored
@@ -777,9 +777,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 77,5,2,人之道，則不然，損不足以奉有餘。,"Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",The Tao of humanity is not like this: it diminishes those who are insufficient to serve those who have excess.,The way of people is not like this. / It takes from those who have too little / and offers it up to those who have too much.,authored
 77,6,3,孰能有餘以奉天下？唯有道者。,Shú néng yǒu yú yǐ fèng tiān xià? Wéi yǒu dào zhě.,Who can have excess to serve the world? Only the one who has the Tao.,"Who has more than enough, / and offers it up to the world? / Only those who are with the Tao.",authored
 77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts yet relies on nothing. / The work is done, and they do not stay in it. / They have no wish to appear exceptional.",authored
-78,1,1,天下莫柔弱於水，,"Tiān xià mò róu ruò yú shuǐ,","In the world, nothing is more supple and weak than water,","In all the world nothing is softer and more yielding than water,",authored
+78,1,1,天下莫柔弱於水，,"Tiān xià mò róu ruò yú shuǐ,","In the world, nothing is more supple and yielding than water,","In all the world nothing is softer and more yielding than water,",authored
 78,2,1,而攻堅強者莫之能勝，以其無以易之。,"Ér gōng jiān qiáng zhě mò zhī néng shèng, yǐ qí wú yǐ yì zhī.","Yet in attacking the hard and strong, nothing can surpass it, because nothing can replace it.","yet at attacking the hard and the strong nothing overcomes it, / for nothing can take its place.",authored
-78,3,2,弱之勝強，柔之勝剛，天下莫不知，莫能行。,"Ruò zhī shèng qiáng, róu zhī shèng gāng, tiān xià mò bù zhī, mò néng xíng.","That the weak conquers the strong, the supple conquers the hard/rigid—the world knows this, but no one can practice it.","The yielding overcomes the strong. / The soft overcomes the unbending. / No one in the world fails to know this, / yet no one can follow it.",authored
+78,3,2,弱之勝強，柔之勝剛，天下莫不知，莫能行。,"Ruò zhī shèng qiáng, róu zhī shèng gāng, tiān xià mò bù zhī, mò néng xíng.","That the yielding conquers the strong, the supple conquers the hard/rigid—the world knows this, but no one can practice it.","The yielding overcomes the strong. / The soft overcomes the unbending. / No one in the world fails to know this, / yet no one can follow it.",authored
 78,4,3,是以聖人云：受國之垢，是謂社稷主；受國之不祥，是謂天下王。,"Shì yǐ shèng rén yún: shòu guó zhī gòu, shì wèi shè jì zhǔ; shòu guó zhī bù xiáng, shì wèi tiān xià wáng.",Therefore the Sage says: To accept the state's grime is to be the Lord of the Altars (the people); to accept the state's misfortune is to be the King of the World.,So the sage says: / whoever takes on the shame of the state / is the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is the ruler of the world.,authored
 78,5,3,正言若反。,Zhèng yán ruò fǎn.,Right words seem like the opposite (paradoxical).,Words on the mark seem like their opposite.,authored
 79,1,1,和大怨，必有餘怨；安可以為善？,"Hé dà yuàn, bì yǒu yú yuàn; ān kě yǐ wéi shàn?","Even after reconciling a great grudge, there must remain some residual resentment; how can this be considered ""good""?",Settle a great grudge / and some grudge always remains. / How could that count as masterful?,authored

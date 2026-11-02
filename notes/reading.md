@@ -501,11 +501,11 @@ This is the most physical argument in the book, and it is nearly the only one th
 
 Which is why the translation keeps calling the corpse *strong*. 堅強 (*jiān qiáng* — hard and strong) is the flattering word, and Ch 76 spends it on rigor mortis before spending it on an army four lines later. By then the word has been ruined on purpose. 河上公 tracks it physiologically: alive, 含和氣抱精神 — *"holding harmonious energy, embracing the vital spirit"*; dead, 和氣竭精神亡 — *"the harmonious energy exhausted, the vital spirit gone."* Softness is not a virtue being recommended. It is what being alive feels like from the outside.
 
-### Ch 77 · the bow is 弱's own picture
+### Ch 77 · the bow, and 弱 beside it
 
-弱 (*ruò* — yielding) is two 弓 (*gōng* — bow) side by side. Chapter 77 is the chapter that puts a bow in your hands, and 河上公's gloss on its central lines closes the circle without being asked to: 夫抑高舉下，損強益弱，天之道也 — *"pressing down the high and raising the low, diminishing the strong and increasing the yielding: this is the way of nature."*
+*(Corrected 2026-11-02: this note said 弱 (*ruò* — yielding) is two 弓 (*gōng* — bow). The Shuowen defines it as 橈也 (*náo yě* — "to bend") and names no bow. `glossary/ruo-弱.md`.)* Chapter 77 is the chapter that puts a bow in your hands, and Heshang Gong's gloss on its central lines sets 弱 beside it without being asked to: 夫抑高舉下，損強益弱，天之道也 — *"pressing down the high and raising the low, diminishing the strong and increasing the yielding: this is the way of nature."*
 
-So the argument for the 弱 lock and the image at the heart of Ch 77 are the same object. A bow works because it bends; a bow is brought into use by having its high end pressed down and its low end lifted; and the way of nature does to the world what a bowyer does to a stave. **Ch 40's 弱者道之用** — *"yielding is the Tao's use"* — is not a separate claim. It is this one, with the picture removed.
+So the argument for the 弱 lock and the image at the heart of Ch 77 are close kin. A bow works because it bends; a bow is brought into use by having its high end pressed down and its low end lifted; and the way of nature does to the world what a bowyer does to a stave. **Ch 40's 弱者道之用** — *"yielding is the Tao's use"* — is the same thought without the picture.
 
 ### Ch 77 · the chapter that names the mechanism of inequality
 

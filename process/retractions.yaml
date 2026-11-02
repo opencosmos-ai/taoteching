@@ -195,3 +195,26 @@
     father of learning" (42), Shalom's call, 2026-10-26.
   see: "glossary/fu-父.md"
   allow: ["source/archive-google-doc-final-export-2026-08-09.md"]
+
+- id: ruo-rendered-weaken
+  retracted: 2026-11-02
+  claim: >
+    弱 reads "weaken" where it takes an object, because a stance word cannot
+    take an object.
+  match: ["weaken their ambition", "weakening their ambition", "if you would weaken it", "weaken it, first strengthen", "stance word cannot take an object"]
+  correction: >
+    弱 there is a stative word made causative, and it keeps its root: "teaching
+    their ambition to yield" (3) and "If you would have it yield" (36), Shalom's
+    call, 2026-11-02.
+  see: "glossary/ruo-弱.md"
+  allow: ["source/archive-google-doc-final-export-2026-08-09.md", "process/back-translation/*"]
+
+- id: ruo-graph-two-bows
+  retracted: 2026-11-02
+  claim: >
+    The graph of 弱 is two bows.
+  match: ["弱 is two 弓", "弱 is two bows", "whose graph is two 弓", "弱's own graph", "弱's own picture", "two bows that bend"]
+  correction: >
+    The Shuowen defines 弱 as 橈也, "to bend," and names no bow. The modern form
+    only looks like two bows, and the graph's origin is contested.
+  see: "glossary/ruo-弱.md"

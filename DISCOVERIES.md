@@ -6,6 +6,36 @@
 
 ---
 
+## 9 · How *weaken* weakened the text
+
+*Opened at Chapter 3, 2026-11-01, on Shalom's question about one word. Both lines are settled: chapter 3 reads* teaching their ambition to yield*, chapter 36* If you would have it yield*. The case is in `glossary/ruo-弱.md`.*
+
+### What was there
+
+弱 (*ruò* — yielding) was locked on 2026-08-26, and the lock did the hard part: it took *weak* out of chapters 36, 40, 55, 76 and 78. But it kept *weaken* formerly at two lines, chapter 3's 弱其志 (*ruò qí zhì* — "make their ambition 弱") and chapter 36's 將欲弱之 (*jiāng yù ruò zhī* — "wanting to 弱 it"), on the rule that a stance word cannot take an object. Stephen Mitchell's version prints *weakening* at chapter 3 as well, and it is the plain dictionary sense.
+
+### What it cost
+
+- **It broke chapter 36's repetition.** Lines 2 and 6 are one character. In English they were *weaken* and *yielding*, two words with no visible relation, so nobody could hear the close answering the opening.
+- **It cut chapter 3 off from chapter 40.** 弱者道之用 (*ruò zhě dào zhī yòng* — "Yielding is the Tao's use"). The sage's gift to the people is the Tao's own motion, and the English made it a ruler reducing them. The chapter's note was arguing that every state in the passage is elsewhere the sage's own, and it could not list this one because the English hid it.
+- **It brought back the doctrine the lock was written to refuse:** that the way to prevail is to lack something.
+- **It looked checkable.** "Has an object, so *weaken*" is a clean test, marked in the Chinese, and being checkable made it look settled. The test decided the form and said nothing about the word. Shalom's ear found it, asking whether *weaken* was even right.
+- **It was a comfort.** It kept the sage's word out of chapter 36's stratagem, which the Chinese does not do.
+
+### What the record says instead
+
+The one commentator who glosses chapter 3's phrase directly, Heshang Gong, writes 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"), and he uses 和柔 (*hé róu* — "gentle and soft") of rulers and lords at chapter 42. He also says outright that this can be taught: 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding").
+
+And Han Fei, the oldest reader, has both of chapter 36's uses in one story: the king of Yue goes into service in Wu, Wu grows strong and overextends and is subdued at the Five Lakes, and he closes with 處小弱而重自卑損，謂「弱勝強」也 (*chǔ xiǎo ruò ér zhòng zì bēi sǔn, wèi "ruò shèng qiáng" yě* — "to dwell in the small and yielding and make much of humbling oneself: this is what 'the yielding overcomes the strong' means"). Yue yields, and Wu is had to yield.
+
+So chapter 3 may not describe a ruler reducing the people. It may describe the sage passing on what the sage practices, by example. Chapter 36 is the same word in a colder light.
+
+### What it does not yet show
+
+- **弱 does mean weak.** It is the plain opposite of 強 (*qiáng* — strong), and the commentators use it that way elsewhere. Wang Bi's 志弱 (*zhì ruò* — "ambition is 弱") could be read plainly too, and all three commentators read chapter 36's line as a plain undoing. The English there is a choice to keep one word, not the correction of an error.
+- **The direct evidence on chapter 3 is one commentator,** whose reading of the chapter is partly inward.
+- **Not yet checked:** Han-era usage outside these commentaries, the silk witnesses of these lines, the excavated forms of the graph (`WORKLIST.md` T4-11), and how the English translators have actually handled it. Calling it a longstanding misconception needs that survey.
+
 ## 8 · Soiled, or disgraced: what the valley holds to
 
 *Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. The rendering is settled; the question it raised is still worth an essay, and 辱 is owed an entry (`WORKLIST.md` T2-72).*
@@ -138,7 +168,7 @@ The consequence is worth stating plainly, because it inverts what the tools were
 
 The repair (`tools/concordance.py`, 2026-09-05) counts occurrences rather than chapters, and adds **frames** — same-length segments sharing a fixed skeleton, so 將欲▢之, ▢得一以▢, 有▢之用 and ▢兮其若▢ arrive as findings rather than as four unrelated lines. On its first full run it surfaced two already-open items (ch 36's 將欲X之，必固Y之 and ch 39's 得一 mirror) and about a dozen nobody had logged.
 
-**How much of the book this touches is not yet known**, and that is the honest state: the finder reported 152 within-chapter repeats when this was written (181 by 2026-10-17), and how many of them our English has flattened is a reading job that has not been done. Chapter 11 was one. Chapter 36 is another, visible at a glance: four parallel 將欲X之，必固Y之 clauses rendered as *"Contraction requires firm expansion. / Weakening requires firm strengthening,"* with 將欲 (*jiāng yù* — "if you would") and 之 (*zhī* — it) dropped and 固 (*gù* — first, necessarily) turned into the adjective *"firm."* *(Since rewritten in Pass D, repetition kept: "If you would draw it in, you must first stretch it out. / If you would weaken it, you must first strengthen it.")*
+**How much of the book this touches is not yet known**, and that is the honest state: the finder reported 152 within-chapter repeats when this was written (181 by 2026-10-17), and how many of them our English has flattened is a reading job that has not been done. Chapter 11 was one. Chapter 36 is another, visible at a glance: four parallel 將欲X之，必固Y之 clauses rendered as *"Contraction requires firm expansion. / Weakening requires firm strengthening,"* with 將欲 (*jiāng yù* — "if you would") and 之 (*zhī* — it) dropped and 固 (*gù* — first, necessarily) turned into the adjective *"firm."* *(Since rewritten in Pass D, repetition kept: "If you would draw it in, you must first stretch it out. / If you would have it yield, you must first strengthen it.")*
 
 ### The rule this yields
 

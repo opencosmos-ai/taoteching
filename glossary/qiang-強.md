@@ -43,12 +43,12 @@ So two things follow, and the second is the one that matters.
 
 **The word we read is a grain weevil borrowed for its sound.** The strength is a phonetic accident, exactly as 萬 (*wàn* — a scorpion) is an accident inside 萬物. Two of this book's load-bearing terms are insects conscripted by rhyme.
 
-**And the word underneath it is a bow.** 弱 is two 弓 (bows) under 彡 (fine strokes) — a bow that gives. 彊 is 弓 at the limit of what it will take. **They are not opposites in kind. They are one instrument in two states**, and every image the book builds on the pair is a bow image:
+**And the word underneath it is a bow.** 彊 is 弓 at the limit of what it will take. 弱 (*ruò* — yielding), which the Shuowen defines as 橈也 (*náo yě* — "to bend"), is what gives under the same load. **They are not opposites in kind. They are one behaviour under load, in two states**, and the images the book builds on the pair show it.
 
 > 木強則折
 > *ch 76 — "a tree that is 強 snaps"*
 
-That is a bow drawn past its give. Ch 76's whole botany is the same figure: 王弼 glosses 強大處下 as 木之本也 (*"this is the trunk"*) and 柔弱處上 as 枝條是也 (*"these are the branches"*). The trunk cannot bend and is nearer the ground; the branches bend and are nearer the light.
+That is wood taken past its give. Ch 76's whole botany is the same figure: 王弼 glosses 強大處下 as 木之本也 (*"this is the trunk"*) and 柔弱處上 as 枝條是也 (*"these are the branches"*). The trunk cannot bend and is nearer the ground; the branches bend and are nearer the light.
 
 ### The commentators name the quartet outright
 
@@ -73,12 +73,12 @@ A Han commentator, using all four characters, in two matched lines, treating the
 
 The split is marked in the Chinese, so it can be checked rather than argued.
 
-**Transitive, with an object — *strengthen*.** Two lines, and they are the same two lines where 弱 is licensed to read *weaken*:
+**Transitive, with an object — *strengthen*.** Two lines, and they are the same two lines where 弱 (*ruò* — yielding) is made causative:
 
-- **ch 3** 弱其志，強其骨 — *weaken their ambition, strengthen their bones*
-- **ch 36** 將欲弱之，必固強之 — *wanting to weaken it, first strengthen it*
+- **ch 3** 弱其志，強其骨 — *teaching their ambition to yield and strengthening their bones*
+- **ch 36** 將欲弱之，必固強之 — *If you would have it yield, you must first strengthen it*
 
-The symmetry is not a coincidence: it is one grammar, so it is one exception, taken twice. A stance word cannot take an object.
+The symmetry is not a coincidence: it is one grammar taken twice, a stative word made causative. *Strengthen* keeps the root of *strong*, and *yield* keeps the root of *yielding* (`ruo-弱.md`).
 
 **Straining against a thing's nature — *forcing*.** Where 強 modifies a verb of naming or describing, it is the strain of the act, not a quality of anything:
 

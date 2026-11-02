@@ -46,7 +46,7 @@ python3 tools/build_index.py
 | **爭** | *zhēng* | contend / contention | "compete", "competes", "competing", "competition" | 7 | **locked** | [`zheng-爭.md`](zheng-爭.md) |
 | **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 7 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
 | **谷** | *gǔ* | valley | "reservoir", "basin", "hollow", "the void", "emptiness", "nourish" | 7 | **locked** · binds taoteching only | [`gu-谷.md`](gu-谷.md) |
-| **弱** | *ruò* | yielding — and *weaken* only where it takes an object | "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
+| **弱** | *ruò* | yielding — and the verb *yield* where it makes something so | "weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
