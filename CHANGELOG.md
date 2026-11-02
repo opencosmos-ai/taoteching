@@ -31,6 +31,18 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-01 — Breath, the return family, and three lines the oldest witnesses restore
+
+The 2027 calendar's twelve terms needed glossary entries behind their QR codes, and writing them sent the work back to the paleographic record and the excavated manuscripts. Shalom asked for the record, not the assumptions, and three verse lines changed on the evidence.
+
+- **New entry: [`glossary/qi-氣.md`](glossary/qi-氣.md),** 氣 (*qì* — breath), locked: *breath* in all three lines. Ch 42 *"blending the breath into harmony"* and ch 55 *"When the heart drives the breath"* drop *vital*, which is 精 (*jīng* — vital essence)'s word, and *energy*, which fails the pointing test. *Energy* is now forbidden for 氣 (*qì*), 精 (*jīng*) and 魄 (*pò* — aliveness). The research found that the oldest Laozi, Guodian, spells 氣 (*qì*) with 火 (*huǒ* — fire); that the cloud is the Shuowen's reading of a graph whose earliest uses are function words; and that the cosmic 氣 (*qì*) is contemporary with the book, in the Taiyi Sheng Shui from the same tomb. Closes `WORKLIST.md` T2-4.
+- **New entry: [`glossary/gui-fu-fan-歸復反.md`](glossary/gui-fu-fan-歸復反.md),** 歸 · 復 · 反 (*guī · fù · fǎn* — return), covering 根 (*gēn* — root), locked: three pictures of one movement, the bride arriving, the step going back, the hand turning over. 歸 (*guī*) keeps *return*; *home* was declined, since the line prints no house. The doubled verb 復歸 (*fù guī*) reads as one *return*, so ch 16 and ch 28 ×3 drop *again* (Shalom's calls). Closes T2-44 and T2-28.
+- **Ch 10: *"can you be an infant?"*** *(was: "can you be like an infant?")* Every witness we hold lacks 如 (*rú* — like): both silks, and the lemmas of the Siku Wang Bi and of Heshang Gong. Closes T2-76.
+- **Ch 55: *"Harmony is called the ever-present. / Knowing harmony is called clear-seeing."*** *(was: "Knowing harmony is called the ever-present. / Knowing the ever-present is called clear-seeing.")* The verse follows Guodian and silk A; the received chain matched chapter 16's line, the usual mark of a copyist's harmonizing. Closes T2-77.
+- **In both chapters the base text keeps its reading,** and only the verse follows the witnesses, as at chapters 21, 41, 42, 47 and 53.
+- **Four forks recorded** in `sources/variants.yaml`, with their cases in `notes/manuscript.md`; ch 42's silk A 中 (*zhōng* — middle) for 沖 (*chōng* — empty, blending) stays undecided with T2-41.
+- **和 (*hé* — harmony) raised** on the glossary queue to follow the return family.
+
 ## 2026-10-26 — The father of the many, and one entry for the father
 
 Shalom found the father hidden in two chapters and asked what separates ch 21's 甫 (*fǔ* — a man's honorific) from ch 42's 父 (*fù* — father). Nothing does: they are one word in two spellings. Both Mawangdui silks write 父 in ch 21, the two sounded nearly alike, and Heshang Gong glosses both in the same words, 始也 (*shǐ yě* — "means beginning").
