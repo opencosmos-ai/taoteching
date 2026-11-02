@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**68 entries.** Sorted by how much of the book each term touches.
+**69 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -63,6 +63,7 @@ python3 tools/build_index.py
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |
+| **氣** | *qì* | breath | "life force", "life-force", "vital force", "life energy" | 3 | open — not yet a lock | [`qi-氣.md`](qi-氣.md) |
 | **混** | *hùn* | mixed (adjective) · to mix (verb) | "chaos", "chaotic", "undifferentiated", "blend", "merge" | 3 | **locked** | [`hun-混.md`](hun-混.md) |
 | **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |

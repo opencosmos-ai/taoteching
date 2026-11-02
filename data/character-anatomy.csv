@@ -233,7 +233,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 今,jīn,now / today (21),,今,exact,亼,compound,,亼 (jí = to gather together) + 乁 (? = not yet glossed),,3,,0.0282,是時也。从亼从乁。乁，古文及。,
 光,guāng,light / bright (58),,光,exact,火,compound,,"火 (huǒ = fire) + 在 (zài = in / be in) + 人 (rén = people / others / person (聖人, sage)) + 上 (Shàng = highest / above / those over (75))",,4,,0.0282,明也。从火在人上，光明意也。,
 寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = ruler / sovereign · to rule (verb)) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
-氣,qì,breath / vital breath,,氣,exact,米,phonetic-compound,,米 (mǐ = grains of rice),气 (? = not yet glossed),3,Tier 3,0.0282,饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”,
+氣,qì,breath,breath,氣,exact,米,phonetic-compound,,米 (mǐ = grains of rice),气 (? = not yet glossed),3,Tier 3,0.0282,饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”,"Fodder and grain presented to guests. From 米 (mǐ — rice), with 气 (qì — cloud vapor) as its sound."
 深,Shēn,deep,,深,exact,水,phonetic-compound,,水 (shuǐ = water),罙 (? = not yet glossed),3,,0.0282,水。出桂陽南平，西入營道。从水罙聲。,
 混,hùn,mixed (adjective) · to mix (verb),mixed (adjective) · to mix (verb),混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,"An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 隨,suí,follow,,隨,exact,辵,phonetic-compound,,"也 (yě = (closes a statement: it is so)) + 辵 (chuò = walking, going along a road)",𡐦 (? = not yet glossed),3,,0.0282,从也。从辵，𡐦省聲。,

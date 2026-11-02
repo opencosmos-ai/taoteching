@@ -152,6 +152,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you keep these from parting?"
 10,2,能,néng,可,be able,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you keep these from parting?"
 10,3,柔,róu,柔,soft,yes,1.0,authored,"Gathering the breath to softness, can you be like an infant?"
+10,3,氣,qì,氣,breath,yes,1.0,authored,"Gathering the breath to softness, can you be like an infant?"
 10,4,能,néng,可,be able,NOT FOUND,1.0,authored,"Gathering the breath to softness, can you be like an infant?"
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
 10,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
@@ -769,6 +770,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
+42,2,氣,qì,氣,breath,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the vital breath into harmony."
 42,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the vital breath into harmony."
 42,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the vital breath into harmony."
 42,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the vital breath into harmony."
@@ -971,6 +973,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,Knowing harmony is called the ever-present. Knowing the ever-present is called clear-seeing.
 55,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"To force life to increase is an ill omen. When the heart drives the vital energy, that is called strong."
 55,7,心,Xīn,心,heart,yes,1.0,authored,"To force life to increase is an ill omen. When the heart drives the vital energy, that is called strong."
+55,7,氣,qì,氣,breath,NOT FOUND,1.0,authored,"To force life to increase is an ill omen. When the heart drives the vital energy, that is called strong."
 55,7,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"To force life to increase is an ill omen. When the heart drives the vital energy, that is called strong."
 55,8,物,Wù,萬物,things / something,yes,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
 55,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."

@@ -470,6 +470,14 @@
   status: locked
   entry: glossary/chi-持.md
 
+- term: "氣"
+  pinyin: "qì"
+  render: "breath"
+  forbidden: ["life force", "life-force", "vital force", "life energy"]
+  chapters: [10, 42, 55]
+  status: open
+  entry: glossary/qi-氣.md
+
 - term: "混"
   pinyin: "hùn"
   render: "mixed (adjective) · to mix (verb)"
