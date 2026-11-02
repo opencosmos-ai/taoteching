@@ -14,7 +14,7 @@
 
 **Next, in order:**
 
-1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 反/復/歸 (*fǎn / fù / guī* — the return family, T2-44) · 名 (*míng* — name) · 氣 (*qì* — breath, T2-4) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 和 (*hé* — harmony) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
+1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 反/復/歸 (*fǎn / fù / guī* — the return family, T2-44) · 和 (*hé* — harmony, raised 2026-11-01) · 名 (*míng* — name) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** the two audits' findings, deepest first: R6's ch 60, then the rest of R6 and R5 (both run 2026-10-27). The form audit's losses, T3-8 → T3-18, one at a time (R4, step 4; all 81 chapters were read 2026-10-26). Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2). The em-dashes (T4-3) were settled 2026-10-25.
