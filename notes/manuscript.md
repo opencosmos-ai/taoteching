@@ -372,13 +372,13 @@ Received: 盜**夸** (dào kuā) — "the *swagger* / boast / extravagance of th
 
 Received Wang Bi: 而**全**作 — 全 = *whole, complete* — "yet it quickens wholly." The older **Mawangdui** and **Fu Yi** texts read 而**朘**作, where 朘 (zuī) is specifically *the infant boy's member* — an explicit male erection. The traditional gloss takes both as the reflex erection (全 as a decorous stand-in for 朘). We keep our base text's **全** and read it in its plain sense — *the whole being quickens with life* — which preserves the point (精之至: desireless potency arising from fullness) while keeping the emblem universal, for infants of every gender. (See the paired Translation Note, and Process guide §0 on the incidental male-default.)
 
-### Ch 55 · 知和曰常，知常曰明 / 和曰常，知和曰明 — what clear-seeing knows — **undecided**
+### Ch 55 · 知和曰常，知常曰明 / 和曰常，知和曰明 — what clear-seeing knows — **resolved 2026-11-01: we follow Guodian and silk A**
 
 **Guodian and silk A read 和曰常，知和曰明** (*hé yuē cháng, zhī hé yuē míng* — "harmony is called the ever-present; knowing harmony is called clear-seeing"). Our base and silk B read 知和曰常，知常曰明 (*"knowing harmony is called the ever-present; knowing the ever-present is called clear-seeing"*); silk B has lost its opening graphs but keeps 常，知常曰明. So the oldest two witnesses split from silk B.
 
 **What turns on it.** Our base runs a chain, 和 → 常 → 明 (*harmony → the ever-present → clear-seeing*), the same chain chapter 16 ends on with 知常曰明. In Guodian and silk A, clear-seeing is knowing harmony itself, and harmony simply *is* the ever-present. The chain may be the received text bringing chapter 55 into line with chapter 16. `glossary/chang-常.md` already notes silk A's 和曰常.
 
-**Why it is left open.** It changes two lines of the verse, it bears on 和 (*hé* — harmony), which has no entry, and the call is Shalom's (`WORKLIST.md` T2-77). Found 2026-11-01 while writing `glossary/qi-氣.md`.
+**We follow Guodian and silk A, Shalom's call, 2026-11-01:** *"Harmony is called the ever-present. / Knowing harmony is called clear-seeing."* (was: *"Knowing harmony is called the ever-present. / Knowing the ever-present is called clear-seeing."*). Two independent witnesses a century apart agree, and the received reading matches a famous line elsewhere, the usual mark of a copyist's harmonizing. **The base text and the Source table keep 知和曰常，知常曰明; only the verse follows the witnesses.** Found 2026-11-01 while writing `glossary/qi-氣.md`; `WORKLIST-CLOSED.md` T2-77.
 
 ### Ch 61 · 邦 / 國 — the Han name-taboo
 

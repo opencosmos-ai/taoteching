@@ -55,7 +55,7 @@ Follow it through the text and it is perceptual every time — and strikingly mo
 
 The one who is busy being seen cannot see. Clarity is not something acquired; it is what returns when the performing self gets out of the light.
 
-**It sees what does not change.** 知常曰明 — *knowing the ever-present is called clear-seeing* — appears verbatim in **16** and **55**. This is a repeated formula and must read identically in both places.
+**It sees what does not change.** 知常曰明 — *knowing the ever-present is called clear-seeing* — stands in **16**, and in the received text of **55**. Chapter 55's verse follows Guodian and silk A instead, which read 知和曰明 (*zhī hé yuē míng* — "knowing harmony is called clear-seeing"): there, clear-seeing is knowing harmony itself (`notes/manuscript.md`).
 
 **And it is quiet, not brilliant.** 是謂微明 (36) — *this is called subtle clarity.* 明道若昧 (41) — *the clear Tao seems murky.* The word for the highest seeing is repeatedly qualified as faint, subtle, easily mistaken for dullness. No tradition that meant "brilliance" would keep saying so.
 

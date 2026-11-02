@@ -1917,12 +1917,14 @@
   base: "知和曰常，知常曰明"
   witnesses: { guodian: "和曰常，知和曰明", mawangdui-a: "和曰常，知和曰明", mawangdui-b: "…常，知常曰明 (the opening graphs lost)" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: guodian
   note: >
     Guodian and silk A read "harmony is called the ever-present; knowing
     harmony is called clear-seeing," where our base and silk B chain 和 (he -
     harmony) to 常 (chang - ever-present) and 常 to 明 (ming - clear-seeing),
     as chapter 16 does. In the two oldest witnesses, clear-seeing is knowing
-    harmony itself. Found 2026-11-01, writing glossary/qi-氣.md (WORKLIST
-    T2-77).
+    harmony itself. Found 2026-11-01, writing glossary/qi-氣.md. Followed
+    2026-11-01, Shalom's call: "Harmony is called the ever-present. /
+    Knowing harmony is called clear-seeing." The base text keeps its reading;
+    only the verse follows the witnesses.
   logged: notes/manuscript.md

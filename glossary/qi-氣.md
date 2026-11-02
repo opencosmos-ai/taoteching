@@ -80,8 +80,8 @@ The book's own three lines are a small sample, so the evidence widens to the tex
 Every witness reads 能嬰兒乎 (*néng yīng ér hū* — "can you be an infant?"), without our base's 如 (*rú* — like), and the English follows them (`notes/manuscript.md`).
 
 > *It cries all day and never goes hoarse — this is harmony at its utmost.*
-> *Knowing harmony is called the ever-present.*
-> *Knowing the ever-present is called clear-seeing.*
+> *Harmony is called the ever-present.*
+> *Knowing harmony is called clear-seeing.*
 > *To force life to increase is an ill omen.*
 > *When the heart drives the breath, that is called strong.*
 >
@@ -92,6 +92,8 @@ Every witness reads 能嬰兒乎 (*néng yīng ér hū* — "can you be an infan
 > 心使氣曰強。
 >
 > — chapter 55
+
+The second and third lines follow Guodian and silk A, which read 和曰常，知和曰明 (*hé yuē cháng, zhī hé yuē míng*); the Chinese above is our base text (`notes/manuscript.md`).
 
 Chapter 10 asks a person to gather the breath until it comes to 柔 (róu — soft). Chapter 55 says that when the heart drives the breath, that is 強 (qiáng — strong). In that chapter it is the strength of the stiffening thing: "When things reach their prime, they decay," runs the next line, and chapter 76 calls the dead "hard and strong" (`glossary/qiang-強.md`). **The same breath, handled two ways, gives the two outcomes the book cares most about.** Gathered, it ends soft, like an infant. Driven, it ends strong, like the corpse.
 

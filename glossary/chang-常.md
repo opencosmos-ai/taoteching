@@ -96,7 +96,7 @@ None of the three puts 常 outside time. All three describe it as something that
 
 | Grammar | English | Chapters | Example |
 |---|---|---|---|
-| a name — what something *is called* | **the ever-present** | 16 ×4, 52, 55 ×2 | 知常曰明 → *"knowing the ever-present is called clear-seeing"* |
+| a name — what something *is called* | **the ever-present** | 16 ×4, 52, 55 | 知常曰明 → *"knowing the ever-present is called clear-seeing"* |
 | before a noun | **ever-present** | 1 ×2, 28 ×3, 46 | 常德不離 → *"the ever-present integrity never leaves you"* |
 | adverb, before a 無X or 有X state | **ever** | 1 ×2, 3, 32, 34, 37 | 道常無名 → *"the Tao is ever nameless"* |
 | adverb, before any other predicate | **always** | 27 ×2, 48, 51, 61, 64, 65, 74 ×2 | 牝常以靜勝牡 → *"the female always overcomes the male by stillness"* |
