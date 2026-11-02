@@ -44,7 +44,7 @@ See how steadily he uses it:
 - *含德之厚，比於赤子* (Ch 55) — one whose **德** runs deep is like a newborn. Not a saint — an *infant*: maximally whole, nothing yet spent, nothing yet divided.
 - *玄德* (Ch 10, 51, 65) — "dark," hidden **德**: the power to give birth, nourish, and lead *without possessing or controlling*. Potency with the ego removed.
 
-And notice, just as carefully, what 德 is **not**. It is not social morality — Laozi keeps it a rung above the moral virtues and unconscious of itself. It is not 氣 (qì), the vital breath — that is fuel, the thermodynamics of a living body; 德 is the *intactness and rightness of the whole*, not its energy. And it is not generic "power" — it never slides into force or strength (力, 強), which Laozi distrusts. 德 is quieter than any of these: **the uncontrived, un-fragmented capacity to be exactly and fully what you are.**
+And notice, just as carefully, what 德 is **not**. It is not social morality — Laozi keeps it a rung above the moral virtues and unconscious of itself. It is not 氣 (qì), the breath — that is fuel, the thermodynamics of a living body; 德 is the *intactness and rightness of the whole*, not its energy. And it is not generic "power" — it never slides into force or strength (力, 強), which Laozi distrusts. 德 is quieter than any of these: **the uncontrived, un-fragmented capacity to be exactly and fully what you are.**
 
 ### Why we land on *integrity*
 

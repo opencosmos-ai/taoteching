@@ -473,9 +473,9 @@
 - term: "氣"
   pinyin: "qì"
   render: "breath"
-  forbidden: ["life force", "life-force", "vital force", "life energy"]
+  forbidden: ["energy", "life force", "life-force", "vital force"]
   chapters: [10, 42, 55]
-  status: open
+  status: locked
   entry: glossary/qi-氣.md
 
 - term: "混"
@@ -552,7 +552,7 @@
 - term: "精"
   pinyin: "jīng"
   render: "vital essence / essence"
-  forbidden: ["primordial mass", "soul", "spirit"]
+  forbidden: ["primordial mass", "soul", "spirit", "energy"]
   chapters: [21, 55]
   status: locked
   entry: glossary/jing-精.md
@@ -612,7 +612,7 @@
 - term: "魄"
   pinyin: "pò"
   render: "aliveness"
-  forbidden: ["soul", "spirit", "life force", "life-force", "lifeforce", "vigor"]
+  forbidden: ["soul", "spirit", "life force", "life-force", "lifeforce", "vigor", "energy"]
   chapters: [10]
   status: locked
   entry: glossary/po-魄.md

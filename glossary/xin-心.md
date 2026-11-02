@@ -75,7 +75,7 @@ The chapter closes on 渾其心 — *makes their heart undifferentiated, muddied
 - **8** — 心善淵, *in heart, be good at depth.* Among the water-virtues: the heart like a still pool, deep and unhurried.
 - **12** — 令人心發狂, *makes people's hearts go mad.* The five colors blind, the five tones deafen, and the hunt drives the heart wild. Sensory overload as a disorder of the heart, not the eyes.
 - **20** — 我愚人之心也哉, *I have the heart of a fool!* Laozi's own confession, and 愚 (*yú*, foolish, uncarved-simple) is a compliment he pays himself.
-- **55** — 心使氣曰強, *when the heart drives the vital breath, that is forcing.* The one clearly negative use: the willing self muscling the body's own current. You cannot command the breath into harmony. *(See Ch 55's translation note.)*
+- **55** — 心使氣曰強, *when the heart drives the breath, that is forcing.* The one clearly negative use: the willing self muscling the body's own current. You cannot command the breath into harmony. *(See Ch 55's translation note.)*
 
 ### What is set aside
 
@@ -97,6 +97,6 @@ The chapter closes on 渾其心 — *makes their heart undifferentiated, muddied
 
 Something is genuinely lost, and it should be said plainly rather than argued away.
 
-A reader who meets "heart" in Chapter 55 — *when the heart drives the vital breath, that is forcing* — will most likely picture emotion overriding good sense. The Chinese means something closer to the **willing, deciding self** overriding the body's own motion. English "heart" can carry that (*his heart was set on it*), but it is not the first thing the word does.
+A reader who meets "heart" in Chapter 55 — *when the heart drives the breath, that is forcing* — will most likely picture emotion overriding good sense. The Chinese means something closer to the **willing, deciding self** overriding the body's own motion. English "heart" can carry that (*his heart was set on it*), but it is not the first thing the word does.
 
 So the choice is between a word that is warm and slightly imprecise, and a compound that is precise and slightly dead. We take the warm one, and let this entry hold the precision — on the same principle as 物, where the ox lives in the verbs rather than the noun.

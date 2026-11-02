@@ -8753,7 +8753,7 @@
    "pinyin": "qì",
    "gloss": "breath",
    "ourRender": "breath",
-   "locked": false,
+   "locked": true,
    "triageTier": "Tier 3",
    "centrality": 0.0282,
    "occurrences": 3,

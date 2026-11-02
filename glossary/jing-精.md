@@ -2,7 +2,7 @@
 term: "精"
 pinyin: "jīng"
 render: "vital essence / essence"
-forbidden: ["primordial mass", "soul", "spirit"]
+forbidden: ["primordial mass", "soul", "spirit", "energy"]
 chapters: [21, 55]
 status: locked
 pairing: false
@@ -43,7 +43,7 @@ The same chapter then draws the line that keeps 精 from meaning merely "energy"
 
 **"Energy"** collapses 精 into 氣, as Chapter 55 forbids. It is also the vaguest word available in English for the most precise word in the family.
 
-> **Why "energy" is not on the `forbidden` list.** It cannot be. Chapter 55 contains **both** 精 and 氣, and 氣 legitimately takes *vital energy* in 心使氣曰強 (*when the heart drives the vital energy, that is forcing*) — so forbidding the word for 精 fires a false error on a correct line. `tools/check_locks.py` gates on whether a character is present in the chapter, which cannot express *right for that character, wrong for this one, same chapter.* The rule this implies is general: **a forbidden rendering must be a word no other character in those same chapters can legitimately claim.** The same limit applies to 德 and 信 (see `glossary/xin-信.md`), and this distinction is held by the reader of the entry rather than by the tool.
+*Energy* is ruled out for 氣 (qì — breath) as well (`glossary/qi-氣.md`), so no character in chapters 21 and 55 can claim it, and the build holds the ruling. The general rule is that **a forbidden rendering must be a word no other character in those same chapters can legitimately claim**; it is what keeps *integrity* off 信's list, since 德 shares its chapters (see `glossary/xin-信.md`).
 
 **"Semen"** deserves naming, because it is a real reading and not a foolish one: in later Daoist and medical literature 精 unambiguously means seminal essence, and Chapter 55's line about the infant's arousal invites it. We decline it for two reasons. The specialized sense is **later** than this text, and taking it here would make the passage a claim about one organ in one sex, where the point is a whole small body full of unspent life. The male-default is the text's, not the argument's. *(See the Chapter 55 manuscript note on 朘 / 全, where the same question arises in the source text itself.)*
 

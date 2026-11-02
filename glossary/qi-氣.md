@@ -2,9 +2,9 @@
 term: "氣"
 pinyin: "qì"
 render: "breath"
-forbidden: ["life force", "life-force", "vital force", "life energy"]
+forbidden: ["energy", "life force", "life-force", "vital force"]
 chapters: [10, 42, 55]
-status: open
+status: locked
 pairing: false
 shuowen: "Fodder and grain presented to guests. From 米 (mǐ — rice), with 气 (qì — cloud vapor) as its sound."
 ---
@@ -13,7 +13,7 @@ shuowen: "Fodder and grain presented to guests. From 米 (mǐ — rice), with �
 
 *Say "chee," falling. Three appearances, one in each of three chapters. The book's word for what moves in a living body and between the halves of things: in its plainest sense, a breath, the kind you can see on a cold morning.*
 
-**Recommended: 氣 → "breath," in all three lines.** *(Not "energy" or "vital energy," which bring physics and a twentieth-century register into a book about bodies. Not "vital breath," because* vital *is 精 (jīng — vital essence)'s word, and chapter 55 needs the two kept apart; that ruling no check can hold, see the last section but one. Not "life force," and not "qi" left in pinyin.)*
+**Locked: 氣 → "breath," in all three lines.** *(Shalom's call, 2026-11-01.)* *(Not "energy" or "vital energy," which bring physics and a twentieth-century register into a book about bodies. Not "vital breath," because* vital *is 精 (jīng — vital essence)'s word, and chapter 55 needs the two kept apart; that ruling no check can hold, see the last section but one. Not "life force," and not "qi" left in pinyin.)*
 
 *精 (jīng — vital essence) is its counterpart, and has its own entry: chapter 55 sets the two against each other, a reserve against a current, and one entry for both would blur the distinction the chapter is built on (`glossary/jing-精.md`).*
 
@@ -83,7 +83,7 @@ Every witness reads 能嬰兒乎 (*néng yīng ér hū* — "can you be an infan
 > *Knowing harmony is called the ever-present.*
 > *Knowing the ever-present is called clear-seeing.*
 > *To force life to increase is an ill omen.*
-> *When the heart drives the vital energy, that is called strong.*
+> *When the heart drives the breath, that is called strong.*
 >
 > 終日號而不嗄，和之至也。
 > 知和曰常，

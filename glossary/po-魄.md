@@ -2,7 +2,7 @@
 term: "魄"
 pinyin: "pò"
 render: "aliveness"
-forbidden: ["soul", "spirit", "life force", "life-force", "lifeforce", "vigor"]
+forbidden: ["soul", "spirit", "life force", "life-force", "lifeforce", "vigor", "energy"]
 chapters: [10]
 status: locked
 pairing: false
@@ -85,9 +85,9 @@ Five things follow. 魄 is **first**, the life a person has before anything else
 
 **"spirit"** is 神's (6, 39, 60), and 神 is the half the 禮記 sets against the 魄.
 
-**"life force"** and **"life-energy"** are the popular English for 氣 (*qì* — breath), which is the other half. *Energy* is 氣's own word at chapter 55.
+**"life force"** and **"life-energy"** are the popular English for 氣 (*qì* — breath), which is the other half, and *energy* is ruled out for 氣 as well (`glossary/qi-氣.md`).
 
-**"vitality"** shares its root with two locked phrases: 精 is *vital essence* (21, 55) and 氣 is *vital breath* (42) and *vital energy* (55). The 左傳's definition would then read *"draw on much vital essence and the vitality grows strong,"* and the distinction it draws is lost.
+**"vitality"** shares its root with 精's locked *vital essence* (21, 55). The 左傳's definition would then read *"draw on much vital essence and the vitality grows strong,"* and the distinction it draws is lost.
 
 **"vigor"** leans toward virility, and the sexual vitality in this book is 精's, at chapter 55's 朘作.
 
@@ -108,7 +108,7 @@ One occurrence, a noun, the object of 載 (*zài* — to carry, to ride, to dwel
 
 ### What no rule can enforce
 
-**"breath," "energy" and "life" are ruled out for 魄 and are not on the `forbidden:` list, because they cannot be.** 氣 stands in chapter 10 and prints *breath* there. *Energy* is its English at chapter 55, and a future reading of chapter 10 could use it. 生 (*shēng*) stands in chapter 10 too (生之畜之), and *life* is its word elsewhere. `check_locks.py` gates on whether a character is present in the chapter, and all three characters are. So *soul*, *spirit*, *life force* and *vigor* are held by the build; *breath*, *energy* and *life* are held by this entry and by the reader. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
+**"breath" and "life" are ruled out for 魄 and are not on the `forbidden:` list, because they cannot be.** 氣 stands in chapter 10 and prints *breath* there. 生 (*shēng*) stands in chapter 10 too (生之畜之), and *life* is its word elsewhere. `check_locks.py` gates on whether a character is present in the chapter, and both characters are. So *soul*, *spirit*, *life force*, *vigor* and *energy* are held by the build; *breath* and *life* are held by this entry and by the reader. See `process/principles/ruling-and-enforcement-are-two-facts.md`.
 
 ### Left open
 

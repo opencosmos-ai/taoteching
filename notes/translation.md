@@ -260,7 +260,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **混 (*hùn*) had three Englishes in three chapters** — *blend* (14), *Blended* (15), *undifferentiated* (25) — and is now **mixed** in all three. 說文: 豐流也。从**水**昆聲, *"abundant flow,"* on the water radical: the mixing sense comes from a full river carrying everything along, which is exactly what muddy water is at ch 15. Ch 15's seven similes are seven **single words**, which ruled out the two-word candidates on the spot *(Shalom's call)*. Ch 25's 有物混成 → *"Something mixed and complete"*, keeping 混成's paradox: undifferentiated, and already whole.
 
-**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the vital breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41.
+**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41.
 
 ### Ch 15 · the chapter reworked whole, and 蔽 read as *covered* rather than *worn out*
 
@@ -2967,7 +2967,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **Refused on the way**, each for a reason:
 - *Life force* and *life-energy* are the popular English for 氣.
-- *Vitality*: *vital* is 精's and 氣's (21, 42, 55).
+- *Vitality*: *vital* is 精's (21, 55).
 - *Vigor* leans toward virility, which is 精's at ch 55. *(Shalom's objection, and the text bears it out.)*
 - *The animating part* (the atlas gloss of #29): *anima* is breath.
 - *The quick* is creedal, and ch 55 already *quickens*.
