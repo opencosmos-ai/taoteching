@@ -80,8 +80,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 9,10,3,天之道。,tiān zhī dào.,the Tao/way of Heaven \[tian\].,"The work done, the body withdraws. This is the way of nature.",authored
 10,1,1,載營魄抱一，,"Zài yíng pò bào yī,","Carrying \[zai\] the vital/encampment \[ying\] aliveness \[po\] and embracing \[bao\] the One \[yi\],","Housing your aliveness and embracing the one, can you keep these from parting?",authored
 10,2,1,能無離乎？,néng wú lí hū?,can you \[neng\] not \[wu\] depart/separate \[li\]?,"Housing your aliveness and embracing the one, can you keep these from parting?",authored
-10,3,1,專氣致柔，,"Zhuān qì zhì róu,","Concentrating \[zhuan\] the vital breath \[qi\] to reach \[zhi\] suppleness/softness \[rou\],","Gathering the breath to softness, can you be like an infant?",authored
-10,4,1,能如嬰兒乎？,néng rú yīng ér hū?,can you be like \[ru\] a newborn infant \[ying er\]?,"Gathering the breath to softness, can you be like an infant?",authored
+10,3,1,專氣致柔，,"Zhuān qì zhì róu,","Concentrating \[zhuan\] the vital breath \[qi\] to reach \[zhi\] suppleness/softness \[rou\],","Gathering the breath to softness, can you be an infant?",authored
+10,4,1,能如嬰兒乎？,néng rú yīng ér hū?,can you be like \[ru\] a newborn infant \[ying er\]?,"Gathering the breath to softness, can you be an infant?",authored
 10,5,2,滌除玄覽，,"Dí chú xuán lǎn,","Washing \[di\] and clearing \[chu\] the dark/mysterious \[xuan\] mirror/vision \[lan\],","Washing and clearing the dark mirror, can you be without blemish?",authored
 10,6,2,能無疵乎？,néng wú cī hū?,can you be without \[wu\] flaw/blemish \[ci\]?,"Washing and clearing the dark mirror, can you be without blemish?",authored
 10,7,2,愛民治國，,"Ài mín zhì guó,","Loving \[ai\] the people \[min\] and governing \[zhi\] the state \[guo\],","Loving the people and governing the state, can you be unknowing?",authored
@@ -174,7 +174,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 16,3,2,萬物並作，,"Wàn wù bìng zuò,","The ten thousand \[wan\] things/entities \[wu\] simultaneously \[bing\] arise/act \[zuo\],","The countless things arise together,",authored
 16,4,2,吾以觀復。,Wú yǐ guān fù.,I \[wu\] thereby \[yi\] observe \[guan\] their return/reversion \[fu\].,"Relying upon this, I observe their return.",authored
 16,5,3,夫物芸芸，,"Fū wù yún yún,","Now these entities \[wu\], flourishing and swarming \[yun yun\],","Things come to their fullest,",authored
-16,6,3,各復歸其根。,Gè fù guī qí gēn.,Each \[ge\] reverts and returns \[fu gui\] to its \[qi\] root \[gen\].,Each returns again to its root.,authored
+16,6,3,各復歸其根。,Gè fù guī qí gēn.,Each \[ge\] reverts and returns \[fu gui\] to its \[qi\] root \[gen\].,Each returns to its root.,authored
 16,7,3,歸根曰靜，,"Guī gēn yuē jìng,","Returning to the root \[gui gen\] is called \[yue\] stillness \[jing\],",Returning to the root is called stillness.,authored
 16,8,3,是謂復命。,Shì wèi fù mìng.,This \[shi\] is called \[wei\] returning to/restoring \[fu\] destiny/the system's command \[ming\].,This is called returning to what is given.,authored
 16,9,3,復命曰常，,"Fù mìng yuē cháng,","Restoring destiny \[fu ming\] is called \[yue\] the constant/eternal \[chang\],",Returning to what is given is called the ever-present.,authored
@@ -338,15 +338,15 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 28,1,1,知其雄，守其雌，,"Zhī qí xióng, shǒu qí cí,","Knowing \[zhi\] the/its \[qi\] rooster \[xiong\], guarding/holding \[shou\] the/its \[qi\] hen \[ci\],","Know the rooster, hold to the hen,",exact-count
 28,2,1,為天下谿。,wéi tiān xià xī.,functioning as/being \[wei\] the world's \[tian xia\] ravine/funnel \[xi\].,serve as the world's ravine.,exact-count
 28,3,1,為天下谿，常德不離，,"Wéi tiān xià xī, cháng dé bù lí,","Functioning as \[wei\] the world's \[tian xia\] ravine \[xi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] leave/depart \[li\],","Serve as the world's ravine, and the ever-present integrity never leaves you.",exact-count
-28,4,1,復歸於嬰兒。,fù guī yú yīng ér.,reverting/returning \[fu gui\] to \[yu\] the infant/unformatted state \[ying er\].,Return again to the infant.,exact-count
+28,4,1,復歸於嬰兒。,fù guī yú yīng ér.,reverting/returning \[fu gui\] to \[yu\] the infant/unformatted state \[ying er\].,Return to the infant.,exact-count
 28,5,2,知其白，守其黑，,"Zhī qí bái, shǒu qí hēi,","Knowing \[zhi\] the/its \[qi\] white/light \[bai\], guarding/holding \[shou\] the/its \[qi\] black/dark \[hei\],","Know the white, hold to the black,",exact-count
 28,6,2,為天下式。,wéi tiān xià shì.,functioning as/being \[wei\] the world's \[tian xia\] model/pattern \[shi\].,serve as the world's pattern.,exact-count
 28,7,2,為天下式，常德不忒，,"Wéi tiān xià shì, cháng dé bù tè,","Functioning as \[wei\] the world's \[tian xia\] model/pattern \[shi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] deviate/err \[te\],","Serve as the world's pattern, and the ever-present integrity never varies.",exact-count
-28,8,2,復歸於無極。,fù guī yú wú jí.,reverting/returning \[fu gui\] to \[yu\] the limitless/infinite \[wu ji\].,Return again to the endless.,exact-count
+28,8,2,復歸於無極。,fù guī yú wú jí.,reverting/returning \[fu gui\] to \[yu\] the limitless/infinite \[wu ji\].,Return to the endless.,exact-count
 28,9,3,知其榮，守其辱，,"Zhī qí róng, shǒu qí rǔ,","Knowing \[zhi\] the/its \[qi\] glory/honor \[rong\], guarding/holding \[shou\] the/its \[qi\] disgrace/humility \[ru\],","Know the white, hold to the soiled,",exact-count
 28,10,3,為天下谷。,wéi tiān xià gǔ.,functioning as/being \[wei\] the world's \[tian xia\] valley/basin \[gu\].,serve as the world's valley.,exact-count
 28,11,3,為天下谷，常德乃足，,"Wéi tiān xià gǔ, cháng dé nǎi zú,","Functioning as \[wei\] the world's \[tian xia\] valley/basin \[gu\], constant/eternal \[chang\] virtue/capacity \[de\] then/thus \[nai\] is sufficient/full \[zu\],","Serve as the world's valley, and the ever-present integrity is enough at last.",exact-count
-28,12,3,復歸於樸。,fù guī yú pǔ.,reverting/returning \[fu gui\] to \[yu\] the uncarved wood \[pu\].,Return again to the uncarved wood.,exact-count
+28,12,3,復歸於樸。,fù guī yú pǔ.,reverting/returning \[fu gui\] to \[yu\] the uncarved wood \[pu\].,Return to the uncarved wood.,exact-count
 28,13,4,樸散則為器，,"Pǔ sàn zé wéi qì,","The uncarved wood \[pu\] scatters/is cut \[san\] then/thus \[ze\] functions as/becomes \[wei\] tools/instruments \[qi\],","The uncarved wood scatters, and becomes vessels.",exact-count
 28,14,4,聖人用之，則為官長，,"shèng rén yòng zhī, zé wéi guān zhǎng,","The Sage \[sheng ren\] uses \[yong\] them \[zhi\], then/thus \[ze\] functions as/becomes \[wei\] the chief administrator/executive \[guan zhang\],",The sage puts them to use and becomes chief of the officers.,exact-count
 28,15,4,故大制不割。,gù dà zhì bù gē.,therefore \[gu\] the Great \[da\] System/Administrator \[zhi\] does not \[bu\] cut/carve \[ge\].,So the great carving severs nothing.,exact-count
@@ -498,7 +498,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 41,11,4,道隱無名。,Dào yǐn wú míng.,The Tao is hidden and lacks a name/ledger.,The Tao is hidden and nameless.,authored
 41,12,4,夫唯道，善貸且成。,"Fú wéi dào, shàn dài qiě chéng.",Yet only the Tao is masterful ( Shàn ) at lending/initiating and compiling/completing ( Chéng ).,"Only the Tao is masterful at lending, and at completing.",authored
 42,1,1,道生一，一生二，二生三，三生萬物。,"Dào shēng yī, yī shēng èr, èr shēng sān, sān shēng wàn wù.","The Tao generates the One, the One generates the Two, the Two generates the Three, the Three generates the ten thousand things.","The Tao births the one, the one births the two, the two births the three, the three births the countless things.",exact-count
-42,2,1,萬物負陰而抱陽，沖氣以為和。,"Wàn wù fù yīn ér bào yáng, chōng qì yǐ wéi hé.","The ten thousand things carry Yin on their backs and embrace Yang, blending the vital breath (qi) to achieve harmony.","The countless things carry yin on their backs and embrace yang with their arms, blending the vital breath into harmony.",exact-count
+42,2,1,萬物負陰而抱陽，沖氣以為和。,"Wàn wù fù yīn ér bào yáng, chōng qì yǐ wéi hé.","The ten thousand things carry Yin on their backs and embrace Yang, blending the vital breath (qi) to achieve harmony.","The countless things carry yin on their backs and embrace yang with their arms, blending the breath into harmony.",exact-count
 42,3,2,人之所惡，唯孤、寡、不穀，,"Rén zhī suǒ wù, wéi gū, guǎ, bù gǔ,","What people despise are 'orphaned,' 'widowed,' and 'unworthy/grainless',","What most people hate is to be called orphaned, meager, or unworthy,",exact-count
 42,4,2,而王公以為稱。,ér wáng gōng yǐ wéi chēng.,yet kings and dukes use these as their titles.,Yet rulers and lords take these very descriptions for themselves.,exact-count
 42,5,3,故物或損之而益，或益之而損。,"Gù wù huò sǔn zhī ér yì, huò yì zhī ér sǔn.","Therefore, things might be diminished and yet increase, or be increased and yet diminish.","For so it is: what is decreased is thereby increased, and what is increased is thereby decreased.",exact-count
@@ -597,8 +597,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 55,3,1,骨弱筋柔而握固。,Gǔ ruò jīn róu ér wò gù.,"Bones are weak, muscles are soft, yet their grasp is firm.","Their bones are yielding and their muscles soft, yet their grip is firm.",authored
 55,4,1,未知牝牡之合而朘作，精之至也。,"Wèi zhī pìn mǔ zhī hé ér zuī zuò, jīng zhī zhì yě.","They do not yet know the union of male and female, yet their organ is aroused, this is the perfection/extreme of vital essence (jing).","They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.",authored
 55,5,1,終日號而不嗄，和之至也。,"Zhōng rì háo ér bù shà, hé zhī zhì yě.","Crying all day yet their voice does not grow hoarse, this is the perfection/extreme of harmony.",It cries all day and never goes hoarse — this is harmony at its utmost.,authored
-55,6,2,知和曰常，知常曰明。,"Zhī hé yuē cháng, zhī cháng yuē míng.","Knowing harmony is called the constant, knowing the constant is called clarity/illumination.",Knowing harmony is called the ever-present. / Knowing the ever-present is called clear-seeing.,authored
-55,7,2,益生曰祥。心使氣曰強。,Yì shēng yuē xiáng. Xīn shǐ qì yuē qiáng.,Artificially increasing life is called an ill omen. The mind directing the vital breath (qi) is called forcing/brute strength.,"To force life to increase is an ill omen. / When the heart drives the vital energy, that is called strong.",authored
+55,6,2,知和曰常，知常曰明。,"Zhī hé yuē cháng, zhī cháng yuē míng.","Knowing harmony is called the constant, knowing the constant is called clarity/illumination.",Harmony is called the ever-present. / Knowing harmony is called clear-seeing.,authored
+55,7,2,益生曰祥。心使氣曰強。,Yì shēng yuē xiáng. Xīn shǐ qì yuē qiáng.,Artificially increasing life is called an ill omen. The mind directing the vital breath (qi) is called forcing/brute strength.,"To force life to increase is an ill omen. / When the heart drives the breath, that is called strong.",authored
 55,8,2,物壯則老，謂之不道，不道早已。,"Wù zhuàng zé lǎo, wèi zhī bù dào, bù dào zǎo yǐ.","When things reach peak strength they decay, this is called not-Tao, not-Tao ends early.","When things reach their prime, they decay. / This is called not-Tao. Not-Tao comes to an early end.",authored
 56,1,1,知者不言，言者不知。,"Zhī zhě bù yán, yán zhě bù zhī.","Those who know do not speak, those who speak do not know.",Those who know do not speak. / Those who speak do not know.,authored
 56,2,1,塞其兌，閉其門，,"Sè qí duì, bì qí mén,","Block the openings, close the doors,","Block the openings, close the doors.",authored

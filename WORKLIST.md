@@ -14,7 +14,7 @@
 
 **Next, in order:**
 
-1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 反/復/歸 (*fǎn / fù / guī* — the return family, T2-44) · 名 (*míng* — name) · 氣 (*qì* — breath, T2-4) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 和 (*hé* — harmony) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
+1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 和 (*hé* — harmony, raised 2026-11-01) · 名 (*míng* — name) · 神/靈 (*shén / líng* — spirit / numinous, T2-37) · 靜 (*jìng* — stillness) · 欲 (*yù* — desire) · 智 (*zhì* — cleverness, T2-2) · 始 (*shǐ* — beginning) · 希 (*xī* — sparse) · 貴/賤 (*guì / jiàn* — prized / cheap, T2-36) · 言 (*yán* — speech) · 得 (*dé* — to get, T2-35) · 先 (*xiān* — first).
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** the two audits' findings, deepest first: R6's ch 60, then the rest of R6 and R5 (both run 2026-10-27). The form audit's losses, T3-8 → T3-18, one at a time (R4, step 4; all 81 chapters were read 2026-10-26). Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2). The em-dashes (T4-3) were settled 2026-10-25.
@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **78 item rows: 70 open · 0 done · 7 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **75 item rows: 68 open · 0 done · 6 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -40,14 +40,12 @@
 | T1-27 | ⬜ | **Ch 65 — *return* in *"They used it to return them to being guileless"* renders no character.** 將以愚之 (*jiāng yǐ yú zhī* — "would use it to make them simple") has no 反 (*fǎn* — to turn back) or 復 (*fù* — to go back) | 65 | E |
 | | | **Tier 2 · One character, many Englishes** | | |
 | T2-2 | 🔶 | **智** (*zhì* — cleverness) reads *cleverness* (18, 19), *intelligent* (27), *clever* (33, 2026-10-30) and *guile* (65); ch 3 is settled (*the knowers*). Some spread may be a licensed split, as 事's is, but this one happened by accident. *"cunning"* still wears 巧 (*qiǎo* — skill) at 19 and 57. **Take 智 with 知 (*zhī* — to know), 巧 and the locked 明 (*míng* — clear-seeing)**: the book's whole epistemology, three of the four unlocked. **聖's entry rules *wise*/*wisdom* out for 聖 (*shèng* — the sage) and cannot enforce it until 智 is settled** (shared ch 3 19 27); Guodian's 五行 (*Wǔ Xíng* — "Five Conducts") pairs them as knowing by seeing (智) and by hearing (聖). Ch 33's couplets were reset on 2026-10-30 and keep 力/強 (*lì / qiáng* — force / strong) as *has force* / *is strong* (the chapter's notes) | 3 18 19 27 33 65 | E |
-| T2-4 | 🔶 | **氣** (*qì* — breath) — *vital breath* (42) and *vital energy* (55) still split; ch 10 reads *breath* (河上公 呼吸精氣, *"breathing in the vital essence"*). No entry | 10 42 55 | E |
 | T2-7 | ⬜ | **志** (*zhì* — will) — *ambition* (3) / *will* (33). No entry | 3 33 | E |
 | T2-17 | ⬜ | **私** (*sī* — private) — *private self* (7) / *the self* (19), sheltering under 公's `covers:`. Ch 19's is arguably right in place, but 私 may want its own entry rather than a `covers:` line | 7 19 | E |
 | T2-20 | ⬜ | **巧** — *skill* (45) vs *cunning* (19, 57); the same fault as 辯, one line above it | 19 45 57 | E |
 | T2-21 | ⬜ | **厚** four ways — *thick* (38) · *heavy* (44) · *abundant* (55) · *rich* (75) | 38 44 50 55 75 | E |
 | T2-24 | 🔶 | **淵** (*yuān* — deep water) — ch 36 reads **deep water** (說文 回水也…左右，岸也: circling water, banks left and right). Open: whether ch 4's *fathomless* and ch 8's *staying deep* (心善淵) join it. *pool* rejected as chlorinated; *the depths* fails the pointing test | 4 8 | E |
 | T2-27 | ⬜ | **同謂之玄 → *Together*** — 同's fourth English, and *together* can read as *jointly they form one thing* rather than *both alike are so called* | 1 | E |
-| T2-28 | ⬜ | **復歸 split four-to-three** — the seven-line compound reads *return again* at 16 and 28 ×3, plain *return* at 14 and 52 | 14 16 28 52 | E |
 | T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57). `ming-命.md` is still `status: open` | 12 19 32 51 57 | E |
 | T2-31 | ⬜ | **客** survives once in the English (ch 15). Restored at 35 as *a passing guest*; **ch 69 still owes it** · T1-23 | 15 35 69 | E |
 | T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
@@ -58,7 +56,6 @@
 | T2-37 | ⬜ | ★ **神 and 靈 want one entry together** — both on the overlay watchlist, neither has an entry. 神 → *spirit* (6, 39, 60) · *sacred* (29); 靈 → *numinous* (39), which **fails the pointing test** and had no surviving alternative. Ch 29's *sacred vessel* (神器, *shén qì*) waits on this; the argument is in `notes/reading.md` | 6 29 39 60 | E |
 | T2-39 | 🔶 | **The 強為之▢ frame (*qiǎng wéi zhī* — "forcing a ▢ on it") takes two shapes** — *"Forcing a name on it"* at 25 (強為之名) and *"do I force a likeness"* at 15 (強為之容). 名 (*míng* — name) is the book's own heavily-worked word, 21 lines across 9 chapters, and ch 1 is built on it | 15 25 | E |
 | T2-41 | ⬜ | **沖 reads *blending* at ch 42** (沖氣以為和) where ch 4's Pass D work settled it as **empty** (道沖) · **and 沖 may not be an emptiness word at all**: 說文 (*Shuōwén*) 涌搖也, *"surging and shaking"*, read like 動 (*dòng* — to move). *Empty* depends on reading it as 盅 (*zhōng* — an empty vessel), a call `variants.yaml` has not recorded (`glossary/xu-虛.md`). If that holds, 沖 wants its own entry. Its hand gloss (*empty / blending*) only describes the verse | 4 42 45 | E |
-| T2-44 | ⬜ | **The return family — 反 · 復 · 歸 all read *return*, across 21 English lines.** 說文 keeps them distinct: 反 覆也 (overturn, on 又 a hand), 復 往來也 (going and coming, on 彳 the step radical), 歸 女嫁也 (a woman marrying in — going where one belongs). 反 → *returning* is fixed at 25 and 40; the other two are open | 14 16 25 28 34 40 52 59 65 | E |
 | T2-45 | ⬜ | **廣 two Englishes** — *boundless* at 41 (廣德若不足) and *reach far* at 67 (儀故能廣). 說文: 殿之大屋也, a great hall, on the roof radical 广. *Vast* is free now that 大 is locked. Ch 41's note still calls 廣 *broad*, against its own verse | 41 67 | E |
 | T2-47 | ⬜ | **Ch 68's 善▢者 frame has a seam.** 善為士者 is verbatim at 15 and 68, so its first line reads *"Those masterful in service are not martial"* — while its other three run *"The master fighter," "The master of overcoming enemies," "The master of using people."* Four instances of one frame, two shapes | 68 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |
@@ -104,7 +101,7 @@
 | T4-8 | ⬜ | 說文 (c. 100 CE) quotes the four-greats line as 人亦大 — six centuries before our oldest 人 witness | 25 | E |
 | T4-9 | 🔶 | **Bring the glossary to its template** (`process/skills/glossary-entry/template.md`, Shalom's ask, 2026-10-26). **The renames are done (2026-10-27):** 36 of the 62 entries that predated it now follow it, and left `NOT_YET` in `tools/tests/test_entry_shape.py`. **Left is the substance**, one entry at a time with the skill, where a section is missing its content, not just its name. 25 entries, by what each lacks: *Working register* — 保 (*bǎo* — keep safe) · 持 (*chí* — hold) · 慈 (*cí* — tenderness) · 大 (*dà* — great) · 咎 (*jiù* — fault) · 可 (*kě* — can) · 母 (*mǔ* — mother) · 強 (*qiáng* — strong) · 仁 (*rén* — humaneness) · 身 (*shēn* — body) · 守 (*shǒu* — hold to) · 尤 (*yóu* — blame) · 執 (*zhí* — grasp); *What is set aside* — 德 (*dé* — integrity) · 恃 (*shì* — rely on) · 萬物 (*wàn wù* — the countless things) · 我吾 (*wǒ wú* — I) · 一 (*yī* — one); *The graph* — 極 (*jí* — utmost) · 命 (*mìng* — the allotted course) · 虛 (*xū* — empty); *Left open* — 亂 (*luàn* — disorder) · 弱 (*ruò* — yielding) · 事 (*shì* — affairs) · 信 (*xìn* — trust). (強 (*qiáng* — strong) has a register section, but *Where it flexes* stands before its *What is set aside*: a reorder, and a heading to rename.) Start with 母 (*mǔ* — mother): 40 lines, no register, and inside the feminine-center work. 知足 (*zhī zú* — knowing enough) is done, 2026-10-30 (#68). The thin ones after it: 我吾 (*wǒ wú* — I) and 生 (*shēng* — life), which now has every heading but a paragraph or two under each: the test holds the shape, not the depth | — | E |
 | | | **Tier 5 · The harness** | | |
-| T5-3 | ⬜ | Forbidden lists thin on near-synonyms — *depletion* belongs on 殆's and *energy* on 氣's, once those entries exist (T2-64, T2-4) | — | E |
+| T5-3 | ⬜ | Forbidden lists thin on near-synonyms — *depletion* belongs on 殆's, once that entry exists (T2-64); *energy* went on 氣's when it locked, 2026-11-01 (T2-4) | — | E |
 | T5-4 | ⬜ | Run `--english` on every lock. It is the only reverse-direction check, and the only one that sees a lock's English borrowed inside a chapter that holds the lock's own character, where the evidence gate blinds `check_locks.py` | — | ongoing |
 | T5-5 | ⬜ | The false-friend `info` findings from `check_locks.py` are not being read. Almost all are ordinary English; suppress the ones that recur book-wide so the rest stay scannable | — | G |
 | T5-7 | ⬜ | `build.py` — deferred until the text stops moving | — | G |

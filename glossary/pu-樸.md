@@ -35,7 +35,7 @@ The central passage, and the reason the wood must stay wood:
 
 **器** (*qì*) is a vessel, a tool, an implement — a thing with a **function**. And here is the whole idea in one motion: the block has no function. Carve it, and you get a bowl, a wheel, a handle — each useful, each *named*, each now only one thing. What the block loses in becoming useful is **everything it might otherwise have been.**
 
-Note where this lands in the chapter's architecture. Chapter 28 is built of three parallel triads, each closing on 復歸於 — *return again to*: return to **the infant** (嬰兒), return to **the limitless** (無極), return to **the uncarved** (樸). All three name the same direction: back toward what has not yet been made particular.
+Note where this lands in the chapter's architecture. Chapter 28 is built of three parallel triads, each closing on 復歸於 — *return to*: return to **the infant** (嬰兒), return to **the limitless** (無極), return to **the uncarved** (樸). All three name the same direction: back toward what has not yet been made particular.
 
 And 器 in Chinese is not only pottery. It is also what a **person** amounts to — 成器 means *to become someone useful, to amount to something*. So 樸散則為器 reads, without strain, as a sentence about people: society takes the whole raw human and carves them into a function. A role. A job title. Useful, named, and no longer able to be anything else.
 
@@ -101,11 +101,11 @@ A tempting reading holds that 樸 is *self-contradictory by construction*: to ha
 
 **The word-family.** 樸 is 木 (wood) + the phonetic 菐. Change the material radical and you get **璞** (*pú*) — 玉 (jade) + the same 菐 — meaning **uncut jade still in the rock**, the stone as it comes out of the mountain. The shared phonetic carries the sense *raw, pre-worked*, and jade-in-the-matrix is unambiguously a natural object that no hand has touched. Whatever 菐 means, it is not "prepared stock."
 
-**The company it keeps.** Chapter 28's architecture is decisive. Three parallel triads, each closing on 復歸於 — *return again to*:
+**The company it keeps.** Chapter 28's architecture is decisive. Three parallel triads, each closing on 復歸於 — *return to*:
 
-> 復歸於**嬰兒** — return again to the **infant**
-> 復歸於**無極** — return again to the **limitless**
-> 復歸於**樸** — return again to the **uncarved**
+> 復歸於**嬰兒** — return to the **infant**
+> 復歸於**無極** — return to the **endless**
+> 復歸於**樸** — return to the **uncarved wood**
 
 Three slots, one grammar, one category. An infant is not a prepared material; neither is the limitless. 樸 sits among *original natural conditions*, not processed intermediates.
 

@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**68 entries.** Sorted by how much of the book each term touches.
+**70 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -36,6 +36,7 @@ python3 tools/build_index.py
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
 | **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
+| **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 8 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
 | **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
@@ -63,6 +64,7 @@ python3 tools/build_index.py
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |
+| **氣** | *qì* | breath | "energy", "life force", "life-force", "vital force" | 3 | **locked** | [`qi-氣.md`](qi-氣.md) |
 | **混** | *hùn* | mixed (adjective) · to mix (verb) | "chaos", "chaotic", "undifferentiated", "blend", "merge" | 3 | **locked** | [`hun-混.md`](hun-混.md) |
 | **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
@@ -71,14 +73,14 @@ python3 tools/build_index.py
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
-| **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
+| **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |
 | **復命** | *fù mìng* | returning to what is given | "returning to destiny", "restoring destiny", "returning to fate", "the mandate", "returning to what was given" | 1 | **locked** | [`fuming-復命.md`](fuming-復命.md) |
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 1 | **locked** | [`fu-父.md`](fu-父.md) |
-| **魄** | *pò* | aliveness | "soul", "spirit", "life force", "life-force", "lifeforce", "vigor" | 1 | **locked** | [`po-魄.md`](po-魄.md) |
+| **魄** | *pò* | aliveness | "soul", "spirit", "life force", "life-force", "lifeforce", "vigor", "energy" | 1 | **locked** | [`po-魄.md`](po-魄.md) |
 
 ## Secondary characters
 
@@ -97,6 +99,7 @@ python3 tools/build_index.py
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
+| **根** | root | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) — 歸 & 復 & 反 |
 | **濁** | muddy | [`qing-清.md`](qing-清.md) — 清 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **牡** | the male | [`pin-牝.md`](pin-牝.md) — 牝 |

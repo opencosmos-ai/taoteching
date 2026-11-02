@@ -116,6 +116,16 @@ We print 功遂身退，天之道 — *"the work done, the body withdraws; this 
 
 **Why both are worth having.** Our English had 無知 and 無為 **on each other's lines** (`WORKLIST` T1-1), and the fork sits on exactly those two lines — so a reader who found the old English and went looking would have had no way to tell an error from a witness. Both recorded in `sources/variants.yaml`.
 
+### Ch 10 · 能如嬰兒乎 / 能嬰兒乎 — a likeness, or the thing itself — **resolved 2026-11-01: we follow the witnesses**
+
+**Every witness we hold reads 能嬰兒乎** (*néng yīng ér hū* — "can you be an infant?"), without 如 (*rú* — like): both Mawangdui silks, the Siku Wang Bi lemma (`sources/commentaries/wangbi/010.md`, where it carries the `*` that marks a difference from our base), and Heshang Gong's lemma, 能孾兒 (*néng yīng ér* — "can be an infant"), which drops 乎 (*hū* — the question particle) as well. Guodian does not carry chapter 10. **Our base stands alone** in asking for a likeness.
+
+**Both commentators supply the likeness in their glosses**: Wang Bi 能**若**嬰兒之無所欲乎 (*"can you be **like** an infant that wants nothing?"*), Heshang Gong 能**如**孾兒 (*"can be **like** an infant"*). A gloss's word entering the text it explains is a common way a received text changes, and it may be how 如 came into ours.
+
+**The chapter's own shape argues for the witnesses.** Its other questions ask for the thing itself: 能無離乎 · 能無疵乎 · 能無知乎 · 能為雌乎 · 能無為乎 (*can you keep them from parting · be without blemish · be unknowing · be the hen · be non-doing?*). None has a 如. The verse already reads *"can you be the hen?"*, not *like the hen*.
+
+**We follow the witnesses, Shalom's call, 2026-11-01:** *"Gathering the breath to softness, can you be an infant?"* (was: *"can you be like an infant?"*). **The base text and the Source table keep 如; only the verse follows the witnesses**, the practice already used at Ch 21, 41, 42, 47 and 53. Found 2026-11-01 while writing `glossary/qi-氣.md`; `WORKLIST-CLOSED.md` T2-76. *Silk B also writes 至 (zhì — to reach) for 致 (zhì — to bring to) in the clause before, the agency fork of chapter 16 below, recorded in `sources/variants.yaml` and not meaning-bearing here: "gathering the breath to softness" reads either way.*
+
 ### Ch 28 · the stanza order is an editorial restoration
 
 Our vendored 王弼 (*Wáng Bì*) carries the Siku compilers' note on the opening block: 〔案**永樂大典此節在復歸於無極之後，據注仍宜在前**〕 — *"in the Yongle Dadian this section stands **after** 復歸於無極; on the evidence of the commentary it should still come first."* So the 雄/雌 stanza's position at the head of the chapter is **restored**, not simply transmitted, and the Ming encyclopaedia had it second.
@@ -322,6 +332,14 @@ Received: 晚成, "completed **late**." Mawangdui reads 免成, Guodian reads �
 
 Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"I take this as the father of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line. 父 (*fù* — father) is *father*, as 母 (*mǔ* — mother) is *mother*: Heshang Gong glosses it 始 (*shǐ* — beginning), and English *the father of* carries that sense without cooling the word into *origin* or *root*, which this note read until 2026-10-26, Shalom's call. And there is no possessive in the Chinese: it is "the father of learning," not "of *my* learning." The 吾 (*wú* — I) is only the one who adopts it.)
 
+### Ch 42 · 沖氣 / 中氣 — blending, or the breath in the middle — **undecided**
+
+**Silk A reads 中氣以為和** (*zhōng qì yǐ wéi hé* — "the breath in the middle makes harmony") where our base reads 沖氣以為和 (*chōng qì yǐ wéi hé* — "blending the breath into harmony"). Silk B is damaged here; Guodian does not carry chapter 42.
+
+**中 may be a word or a spelling.** 沖 (*chōng*) is 中 (*zhōng* — middle) with 氵 (water) added, and the silks often write a sound part bare, so 中 may simply spell 沖. Read as a word, the line names a third thing between yin and yang, the breath in the middle, which would make the chapter's 二生三 (*èr shēng sān* — "the two births the three") count yin, yang and that breath.
+
+**Why it is left open.** It is 沖's question (`WORKLIST.md` T2-41), and 沖 has no entry: chapter 4 reads it *empty*, chapter 42 *blending*, and the Shuowen 涌搖也 (*"surging and shaking"*). Heshang Gong's reading of chapter 42, breath passing through the hollows of things, is in `glossary/qi-氣.md`. Found 2026-11-01.
+
 ### Ch 46 · 禍莫大於不知足 — the manuscripts remember a third clause
 
 The received text gives **two** calamity-clauses: 禍莫大於不知足 (no *disaster* greater than discontent) / 咎莫大於欲得 (no *fault* greater than the desire to acquire). Mawangdui and the Fu Yi text open the run with a **third, prior** line: **罪莫大於可欲** — "there is no greater **crime** than desire" (可欲, "the desirable," the same phrase as Ch 3's 不見可欲). So the older witnesses remember a rising three-beat — **crime**/desire → **disaster**/discontent → **fault**/greed — that the received text trimmed to two. We keep the received pair, noting the manuscripts' fuller crescendo.
@@ -353,6 +371,14 @@ Received: 盜**夸** (dào kuā) — "the *swagger* / boast / extravagance of th
 **Correction, 2026-08-11:** this note previously said our base text reads 而**全**作. It does not — **our source table reads 而朘作**, the Mawangdui and Fu Yi reading, while the verse renders 全 (*"their whole being quickens with life"*). The received Wang Bi reading is indeed 全, as the Siku Quanshu printing confirms (`sources/commentaries/wangbi/055.md`). So the verse follows 全, the source table shows 朘, and the note had misdescribed both. Found by the commentary import. The rendering stands; only the account of where it came from was wrong.
 
 Received Wang Bi: 而**全**作 — 全 = *whole, complete* — "yet it quickens wholly." The older **Mawangdui** and **Fu Yi** texts read 而**朘**作, where 朘 (zuī) is specifically *the infant boy's member* — an explicit male erection. The traditional gloss takes both as the reflex erection (全 as a decorous stand-in for 朘). We keep our base text's **全** and read it in its plain sense — *the whole being quickens with life* — which preserves the point (精之至: desireless potency arising from fullness) while keeping the emblem universal, for infants of every gender. (See the paired Translation Note, and Process guide §0 on the incidental male-default.)
+
+### Ch 55 · 知和曰常，知常曰明 / 和曰常，知和曰明 — what clear-seeing knows — **resolved 2026-11-01: we follow Guodian and silk A**
+
+**Guodian and silk A read 和曰常，知和曰明** (*hé yuē cháng, zhī hé yuē míng* — "harmony is called the ever-present; knowing harmony is called clear-seeing"). Our base and silk B read 知和曰常，知常曰明 (*"knowing harmony is called the ever-present; knowing the ever-present is called clear-seeing"*); silk B has lost its opening graphs but keeps 常，知常曰明. So the oldest two witnesses split from silk B.
+
+**What turns on it.** Our base runs a chain, 和 → 常 → 明 (*harmony → the ever-present → clear-seeing*), the same chain chapter 16 ends on with 知常曰明. In Guodian and silk A, clear-seeing is knowing harmony itself, and harmony simply *is* the ever-present. The chain may be the received text bringing chapter 55 into line with chapter 16. `glossary/chang-常.md` already notes silk A's 和曰常.
+
+**We follow Guodian and silk A, Shalom's call, 2026-11-01:** *"Harmony is called the ever-present. / Knowing harmony is called clear-seeing."* (was: *"Knowing harmony is called the ever-present. / Knowing the ever-present is called clear-seeing."*). Two independent witnesses a century apart agree, and the received reading matches a famous line elsewhere, the usual mark of a copyist's harmonizing. **The base text and the Source table keep 知和曰常，知常曰明; only the verse follows the witnesses.** Found 2026-11-01 while writing `glossary/qi-氣.md`; `WORKLIST-CLOSED.md` T2-77.
 
 ### Ch 61 · 邦 / 國 — the Han name-taboo
 

@@ -83,7 +83,7 @@ His own answer to how to settle it: *"we must more deeply understand 辱."*
 
 **It brings in nothing.** No theology, no breath, no energy, no sex. The near rivals each failed one of those:
 - *Life force* and *life-energy* are the popular English for 氣, the other half.
-- *Vitality* is 精's and 氣's root in this edition.
+- *Vitality* is 精's root in this edition.
 - *Vigor* leans toward virility, which is 精's, at chapter 55.
 - *The animating part* sends it to breath, since *anima* means breath.
 

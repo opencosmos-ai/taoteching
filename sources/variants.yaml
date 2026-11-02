@@ -1864,3 +1864,67 @@
     also writes 邦 (bang - state) for 國, the Han taboo (see ch 61). Followed
     2026-10-25, Shalom's call: "whoever takes on the shame of the state."
   logged: notes/manuscript.md
+
+- chapter: 10
+  line: "專氣致柔，能如嬰兒乎"
+  base: "致"
+  witnesses: { mawangdui-b: "至" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Silk B writes 至 (zhi - to reach) for 致 (zhi - to bring to), the same
+    word, 致 being the causative of 至. In silk B's spelling the softness
+    arrives rather than being brought about; "gathering the breath to
+    softness" reads either way. Silk A is damaged at this clause. Found
+    2026-11-01, writing glossary/qi-氣.md.
+  logged: glossary/qi-氣.md
+
+- chapter: 10
+  line: "專氣致柔，能如嬰兒乎"
+  base: "能如嬰兒乎"
+  witnesses: { mawangdui-a: "能嬰兒乎", mawangdui-b: "能嬰兒乎", siku-wangbi: "能嬰兒乎", heshanggong: "能孾兒" }
+  meaning_bearing: true
+  our_call: mawangdui-a
+  note: >
+    Every witness we hold lacks 如 (ru - like): both silks, the Siku Wang Bi
+    lemma, and Heshang Gong's lemma, which also lacks 乎. They ask "can you be
+    an infant?" where our base asks "can you be like an infant?" Both
+    commentators supply a likeness in their glosses (Wang Bi 能若嬰兒,
+    Heshang Gong 能如孾兒), which may be where the base's 如 came from. None
+    of the chapter's other questions has a 如. Found 2026-11-01, writing
+    glossary/qi-氣.md. Followed 2026-11-01, Shalom's call: "can you be an
+    infant?" The base text keeps 如; only the verse follows the witnesses.
+  logged: notes/manuscript.md
+
+- chapter: 42
+  line: "萬物負陰而抱陽，沖氣以為和"
+  base: "沖"
+  witnesses: { mawangdui-a: "中" }
+  meaning_bearing: true
+  our_call: undecided
+  note: >
+    Silk A writes 中 (zhong - middle) for 沖 (chong - empty, or surging);
+    silk B is damaged here. 沖 is 中 with water added, so 中 may be a short
+    spelling of the same word. Read as a word, the line is "the breath in
+    the middle makes harmony," and the 氣 (qi - breath) becomes the third of
+    二生三 (er sheng san - "the two births the three"). Found 2026-11-01,
+    writing glossary/qi-氣.md; it belongs to 沖's open question (WORKLIST
+    T2-41).
+  logged: notes/manuscript.md
+
+- chapter: 55
+  line: "知和曰常，知常曰明"
+  base: "知和曰常，知常曰明"
+  witnesses: { guodian: "和曰常，知和曰明", mawangdui-a: "和曰常，知和曰明", mawangdui-b: "…常，知常曰明 (the opening graphs lost)" }
+  meaning_bearing: true
+  our_call: guodian
+  note: >
+    Guodian and silk A read "harmony is called the ever-present; knowing
+    harmony is called clear-seeing," where our base and silk B chain 和 (he -
+    harmony) to 常 (chang - ever-present) and 常 to 明 (ming - clear-seeing),
+    as chapter 16 does. In the two oldest witnesses, clear-seeing is knowing
+    harmony itself. Found 2026-11-01, writing glossary/qi-氣.md. Followed
+    2026-11-01, Shalom's call: "Harmony is called the ever-present. /
+    Knowing harmony is called clear-seeing." The base text keeps its reading;
+    only the verse follows the witnesses.
+  logged: notes/manuscript.md

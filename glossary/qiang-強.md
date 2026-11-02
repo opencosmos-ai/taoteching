@@ -122,4 +122,4 @@ The couplet is **plain force against achieved strength**, and it rhymes with the
 
 The temptation is to read the good instances as a different word, or as irony. 王弼 refuses that escape: 守強不強，守柔乃強也 puts both on the page at once and lets them stand. The English should be able to say the same sentence.
 
-What is genuinely unsettled is **ch 55's 心使氣曰強**, the one line where the reader most needs help and gets least. Rendered *"the heart driving the energy is called strong,"* it can be misheard as approval for exactly one beat — until 物壯則老 lands in the next line. Whether that beat is a flaw or the point is not a question the Chinese answers.
+What is genuinely unsettled is **ch 55's 心使氣曰強**, the one line where the reader most needs help and gets least. Rendered *"when the heart drives the breath, that is called strong,"* it can be misheard as approval for exactly one beat — until 物壯則老 lands in the next line. Whether that beat is a flaw or the point is not a question the Chinese answers.

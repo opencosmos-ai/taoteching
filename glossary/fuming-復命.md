@@ -21,7 +21,7 @@ This is the single most useful fact about the term, and it is easy to miss. Chap
 
 | Chinese | What it does |
 |---|---|
-| 各復歸其根 | the event: **each returns again to its root** |
+| 各復歸其根 | the event: **each returns to its root** |
 | 歸根**曰**靜 | that return **is called** 靜 (*jìng* — stillness) |
 | 是謂**復命** | it **is called** 復命 |
 | 復命**曰**常 | 復命 **is called** 常 (*cháng* — the ever-present) |

@@ -131,7 +131,7 @@ What makes the chain worth following is where it starts: 知常, *knowing the ev
 
 ### Ch 28 · The road that only runs forward — 復歸於樸
 
-Chapter 28 tells you three times to go back: 復歸於嬰兒, *return again to the infant*; 復歸於無極, *return again to the limitless*; 復歸於樸, *return again to the uncarved.* Each is impossible in the plain sense. No one becomes an infant again. And wood does not un-carve — once the log is bowls and wheels, no craft on earth makes it a log.
+Chapter 28 tells you three times to go back: 復歸於嬰兒, *return to the infant*; 復歸於無極, *return to the endless*; 復歸於樸, *return to the uncarved wood.* Each is impossible in the plain sense. No one becomes an infant again. And wood does not un-carve — once the log is bowls and wheels, no craft on earth makes it a log.
 
 Laozi never explains, and the honest reading has to sit with that. But the chapter's own closing line suggests where the answer lies: 大制不割 — *the greatest shaping does no severing.* If the great cut leaves nothing cut, then what is being asked is not the restoration of a former shape. It is the loosening of your identification with the shape you were cut into — the bowl remembering it was never only a bowl. The wood is still wood. The carving went only as deep as the form.
 

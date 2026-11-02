@@ -63,7 +63,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 長,cháng,"long, lasting / grow (10, 51) / chief",word,,,,,16,12,"2,7,9,10,22,24,28,44,51,54,59,67",2,67,3.02,
 一,yī,the one (lowercase) · plain numeral where it counts,locked,,the one (lowercase) · plain numeral where it counts,locked,the One; Oneness; the Absolute,15,8,"10,11,14,22,25,39,42,67",10,67,2.83,glossary/yi-一.md
 信,xìn,trust / trustworthy,locked,,trust / trustworthy,locked,faith; sincerity; belief,15,8,"8,17,21,23,38,49,63,81",8,81,2.83,glossary/xin-信.md
-復,Fù,return / go back / turn into (58),word,,,,,15,8,"14,16,19,28,52,58,64,80",14,80,2.83,
+復,Fù,"return, go back",locked,,"return, go back",locked,home; revert; reversion; the Return; eternal return; source,15,8,"14,16,19,28,52,58,64,80",14,80,2.83,glossary/gui-fu-fan-歸復反.md
 與,yǔ,"and / with / to give / (closes a question, 77)",grammar,,,,,15,12,"8,20,22,35,36,44,65,66,68,77,79,81",8,81,2.83,
 處,chǔ,"dwell / be placed / stand, stay",word,,,,,15,10,"2,8,24,26,30,31,38,66,76,77",2,77,2.83,
 也,yě,(closes a statement: it is so),grammar,,,,,14,9,"3,20,24,29,32,53,55,67,76",3,76,2.64,
@@ -91,7 +91,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 後,hòu,"back, rear / last, behind / after, then",word,,,,,11,8,"2,7,14,30,38,65,66,67",2,67,2.08,
 易,yì,easy / take the place of (78),word,,,,,11,5,"2,63,64,70,78",2,78,2.08,
 柔,róu,soft,locked,,soft,locked,supple; pliant; pliable; flexible; gentle; tender,11,7,"10,36,43,52,55,76,78",10,78,2.08,glossary/rou-柔.md
-歸,guī,return,word,,,,,11,8,"14,16,20,22,28,34,52,60",14,60,2.08,
+歸,guī,return,locked,,return,locked,home; revert; reversion; the Return; eternal return; source,11,8,"14,16,20,22,28,34,52,60",14,60,2.08,glossary/gui-fu-fan-歸復反.md
 久,jiǔ,endure / last long / long since (67),word,,,,,10,8,"7,16,23,33,44,58,59,67",7,67,1.89,
 乎,hū,(closes a question) / (an exclamation),grammar,,,,,10,5,"5,10,23,35,39",5,39,1.89,
 利,lì,advantage,covers,,advantage,locked,,10,9,"8,11,19,36,53,56,57,73,81",8,81,1.89,glossary/wu-you-無有.md
@@ -186,7 +186,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 愛,Ài,love / attachment (44),word,,,,,5,5,"10,13,27,44,72",10,72,0.94,
 敗,bài,ruin,word,,,,,5,2,"29,64",29,64,0.94,
 教,jiào,teaching / to teach,word,,,,,5,3,"2,42,43",2,43,0.94,
-根,gēn,root,word,,,,,5,4,"6,16,26,59",6,59,0.94,
+根,gēn,root,covers,,root,locked,,5,4,"6,16,26,59",6,59,0.94,glossary/gui-fu-fan-歸復反.md
 止,zhǐ,stop / halt,word,,,,,5,4,"20,32,35,44",20,44,0.94,
 殆,dài,danger,word,,,,,5,5,"16,25,32,44,52",16,52,0.94,
 法,fǎ,model oneself on / laws (法令),word,,,,,5,2,"25,57",25,57,0.94,
@@ -212,7 +212,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 勿,wù,do not,grammar,,,,,4,1,30,30,30,0.76,
 十,shí,ten,word,,,,,4,2,"11,50",11,50,0.76,
 及,Jí,"if, when / until (21) / reach (43)",word,,,,,4,4,"13,21,43,48",13,48,0.76,
-反,fǎn,return / turn back / opposite (78),word,,,,,4,4,"25,40,65,78",25,78,0.76,
+反,fǎn,returning,locked,,returning,locked,home; revert; reversion; the Return; eternal return; source,4,4,"25,40,65,78",25,78,0.76,glossary/gui-fu-fan-歸復反.md
 右,yòu,right,word,,,,,4,2,"31,34",31,34,0.76,
 司,sī,"keep / preside over (司殺者, 74)",word,,,,,4,2,"74,79",74,79,0.76,
 味,wèi,flavor / taste,word,,,,,4,3,"12,35,63",12,63,0.76,
@@ -299,7 +299,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 本,běn,root,word,,,,,3,2,"26,39",26,39,0.57,
 次,cì,"next (其次, the next rank)",word,,,,,3,1,17,17,17,0.57,
 歙,xì,"draw in / breathe gently (歙歙, 49)",word,,,,,3,2,"36,49",36,49,0.57,
-氣,qì,breath / vital breath,word,,,,,3,3,"10,42,55",10,55,0.57,
+氣,qì,breath,locked,,breath,locked,energy; life force; life-force; vital force,3,3,"10,42,55",10,55,0.57,glossary/qi-氣.md
 水,shuǐ,water,locked,,water,locked,element; liquid; fluid,3,2,"8,78",8,78,0.57,glossary/shui-水.md
 沖,chōng,empty / blending,word,,,,,3,3,"4,42,45",4,45,0.57,
 海,hǎi,sea,word,,,,,3,3,"20,32,66",20,66,0.57,
@@ -319,7 +319,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 私,sī,the private / the private self,covers,,the private / the private self,locked,,3,2,"7,19",7,19,0.57,glossary/gong-公.md
 積,jī,accumulate / hoard (81),word,,,,,3,2,"59,81",59,81,0.57,
 立,lì,stand / raise up (62),word,,,,,3,3,"24,25,62",24,62,0.57,
-精,jīng,vital essence / essence,locked,,vital essence / essence,locked,primordial mass; soul; spirit,3,2,"21,55",21,55,0.57,glossary/jing-精.md
+精,jīng,vital essence / essence,locked,,vital essence / essence,locked,primordial mass; soul; spirit; energy,3,2,"21,55",21,55,0.57,glossary/jing-精.md
 細,xì,slight,word,,,,,3,2,"63,67",63,67,0.57,
 缺,quē,"deficient / cunning (缺缺, 58)",word,,,,,3,2,"45,58",45,58,0.57,
 老,lǎo,decay / grow old,word,,,,,3,3,"30,55,80",30,80,0.57,
@@ -792,7 +792,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 餌,ěr,food / delicacies,word,,,,,1,1,35,35,35,0.19,
 駟,sì,team of four horses,word,,,,,1,1,62,62,62,0.19,
 驟,Zhòu,"sudden (驟雨, a downpour)",word,,,,,1,1,23,23,23,0.19,
-魄,pò,aliveness,locked,,aliveness,locked,soul; spirit; life force; life-force; lifeforce; vigor,1,1,10,10,10,0.19,glossary/po-魄.md
+魄,pò,aliveness,locked,,aliveness,locked,soul; spirit; life force; life-force; lifeforce; vigor; energy,1,1,10,10,10,0.19,glossary/po-魄.md
 魚,Yú,fish,word,,,,,1,1,36,36,36,0.19,
 鮮,xiān,"fish (小鮮, small fish)",word,,,,,1,1,60,60,60,0.19,
 鳥,niǎo,bird,word,,,,,1,1,55,55,55,0.19,

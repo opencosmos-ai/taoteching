@@ -260,7 +260,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **混 (*hùn*) had three Englishes in three chapters** — *blend* (14), *Blended* (15), *undifferentiated* (25) — and is now **mixed** in all three. 說文: 豐流也。从**水**昆聲, *"abundant flow,"* on the water radical: the mixing sense comes from a full river carrying everything along, which is exactly what muddy water is at ch 15. Ch 15's seven similes are seven **single words**, which ruled out the two-word candidates on the spot *(Shalom's call)*. Ch 25's 有物混成 → *"Something mixed and complete"*, keeping 混成's paradox: undifferentiated, and already whole.
 
-**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the vital breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41.
+**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41.
 
 ### Ch 15 · the chapter reworked whole, and 蔽 read as *covered* rather than *worn out*
 
@@ -2420,7 +2420,9 @@ Repairing the link removed three imports in one move: **create** (生 *shēng*'s
 
 **Two candidates rejected, and the reasons generalize.** ***In full leaf*** — 芸's radical is 艸 (*cǎo* — grass) and its 說文 entry quotes the 淮南子 that 芸艸可以死復生, *"the 芸 plant can die and live again,"* which is a real resonance with the chapter's subject. But **物 is general**, and an English that commits it to foliage makes all things plants; 河上公's gloss was explaining the word, not asserting the world. ***Prime*** — it is 壯 (*zhuàng*)'s word, 壯 is absent here, and **ch 30 and ch 55 both render 物壯則老 as the identical sentence**, so borrowing it would read as a quotation of a formula ch 16 does not use. *(A concept can travel between chapters when its English cannot.)*
 
-**復歸 → *returns again*, and ch 28 had already decided it.** The compound runs seven lines — 14, 16, 28 ×3, 52 — and ch 28's Pass D rewrite named *"復歸於 three shapes"* as a defect and unified them to **"Return again to X."** 歸 carries *return*, 復 carries *again*. 說文解字 keeps them apart: 復 往來也 (*"going and coming"*), 歸 女嫁也 (*"a woman marrying"* — going to the house that is now hers). ***Returns home*** was proposed and dropped: *home* does render 歸 rather than inserting anything, but it matches no other line in the formula, and consistency inside a seven-line compound outranks a better single line. *(No character reads two ways: 歸 alone stays* return *at 歸根曰靜, and* again *appears only inside the compound.)*
+**復歸 → *returns*, 2026-11-01, Shalom's call, closing T2-28.** One verb for the doubled verb: 復 (*fù*) is the going back, 歸 (*guī*) the arriving, and English *return* (*re-* back, *turn*) holds both. *Again* read 復 as the adverb, *a second time*, where Wang Bi reads *"each goes back to where it began"* (各返其所始也). Chapter 16's note has the argument; `glossary/gui-fu-fan-歸復反.md` the entry. The earlier ruling follows, superseded.
+
+~~**復歸 → *returns again*, and ch 28 had already decided it.**~~ *(Superseded 2026-11-01, above.)* The compound runs seven lines — 14, 16, 28 ×3, 52 — and ch 28's Pass D rewrite named *"復歸於 three shapes"* as a defect and unified them to **"Return again to X."** 歸 carries *return*, 復 carries *again*. 說文解字 keeps them apart: 復 往來也 (*"going and coming"*), 歸 女嫁也 (*"a woman marrying"* — going to the house that is now hers). ***Returns home*** was proposed and dropped: *home* does render 歸 rather than inserting anything, but it matches no other line in the formula, and consistency inside a seven-line compound outranks a better single line. *(No character reads two ways: 歸 alone stays* return *at 歸根曰靜, and* again *appears only inside the compound.)*
 
 **What 歸根 means, since the passage turns on it.** 根 is 說文 木株也 — **the stump**, the stock left in the ground when the visible growth is gone. Not an origin, not a source. The text then defines that state itself: 歸根曰靜, *"returning to the root is called stillness."* 王弼 (*Wáng Bì*) supplies the frame — 凡有起於虛，動起於靜。故萬物雖並動作，卒復歸於虛靜 — *"all presence arises from emptiness, all movement arises from stillness; so although the countless things all rise and act together, in the end they turn back and come home to emptiness-and-stillness."* 河上公 reads the same motion biologically: 枯落…更生, *"wither and fall… born again."*
 
@@ -2967,7 +2969,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **Refused on the way**, each for a reason:
 - *Life force* and *life-energy* are the popular English for 氣.
-- *Vitality*: *vital* is 精's and 氣's (21, 42, 55).
+- *Vitality*: *vital* is 精's (21, 55).
 - *Vigor* leans toward virility, which is 精's at ch 55. *(Shalom's objection, and the text bears it out.)*
 - *The animating part* (the atlas gloss of #29): *anima* is breath.
 - *The quick* is creedal, and ch 55 already *quickens*.
