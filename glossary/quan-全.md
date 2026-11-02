@@ -76,7 +76,7 @@ The book thinks about integrity in **objects** — jade, jars, timber. 全 belon
 
 曲 is a picture of something **bent** — the older graph is read as a curved or notched implement, a bamboo frame or bent vessel. It is the ordinary word for *crooked, curved, bent aside*.
 
-**Render it *bend*, and never *yield*.** *Yielding* is the locked English for **弱** (*ruò*), whose graph is two 弓 (*gōng* — a bow) with 彡 (fine strokes) — a bow is useful because it bends. This edition's earlier Chapter 22 read *"Yield and remain unbroken,"* which borrowed 弱's locked word for a character that is not 弱 and does not appear in that chapter. The two ideas are cousins; the two words are not interchangeable.
+**Render it *bend*, and never *yield*.** *Yielding* is the locked English for **弱** (*ruò*), which the Shuowen defines as 橈也 (*náo yě* — "to bend"). This edition's earlier Chapter 22 read *"Yield and remain unbroken,"* which borrowed 弱's locked word for a character that is not 弱 and does not appear in that chapter. The two ideas are cousins; the two words are not interchangeable.
 
 *Bend* also keeps the physical gesture the chapter needs, because the four opening lines are all bodily: bent, wronged-and-straightened, hollowed, worn out.
 

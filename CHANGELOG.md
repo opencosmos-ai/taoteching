@@ -31,6 +31,18 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-02 — 弱 is yielding, with no exceptions
+
+Shalom asked whether *weaken* was right for chapter 3's 弱其志 (*ruò qí zhì* — "make their ambition 弱"). It was not, the argument that had kept it does not hold, and it left the book.
+
+- **Ch 3: *"teaching their ambition to yield and strengthening their bones."*** *(was: "weakening their ambition.")* 弱 (*ruò* — yielding) joins the chapter's list of states that are elsewhere the sage's own. The case is in [`glossary/ruo-弱.md`](glossary/ruo-弱.md).
+- **"A stance word cannot take an object" withdrawn** as the reason for *weaken*, in the entry, in `glossary/qiang-強.md`, in `notes/translation.md` and in `process/skills/glossary-entry/SKILL.md`. Grammar decides the form, and it gives no licence for a new word.
+- **Ch 36: *"If you would have it yield, you must first strengthen it."*** *(was: "If you would weaken it.")* Lines 2 and 6 are one character, and now one English word. Han Fei's story of Yue and Wu, which holds both, is in the entry.
+- **弱 locked with no exceptions.** *Weak*, *weaken* and *weakness* are now forbidden for it, and the source tables' Literal column follows at all ten lines. Both claims are in `process/retractions.yaml`, so no copy can come back.
+- **"弱 is two bows" corrected everywhere it stood:** the Shuowen says a bending and names no bow, and the graph's origin is contested. The bow still belongs to 彊 (*qiáng* — a strong bow) and to ch 77.
+- **An overclaim corrected:** the entry said no classical reader took 弱 as a lack. The commentators do use it for plain weakness. The claim now is that what the book prizes as 弱 is never a lack.
+- **The finding is opened in [`DISCOVERIES.md`](DISCOVERIES.md) § 9.**
+
 ## 2026-11-01 — Breath, the return family, and three lines the oldest witnesses restore
 
 The 2027 calendar's twelve terms needed glossary entries behind their QR codes, and writing them sent the work back to the paleographic record and the excavated manuscripts. Shalom asked for the record, not the assumptions, and three verse lines changed on the evidence.

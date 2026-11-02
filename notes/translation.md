@@ -178,7 +178,9 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **常 → "ever," 無欲 → "desireless."** 常…無欲 is a formula this manuscript already renders **"Ever desireless"** twice, at ch 1 (of the reader) and ch 34 (of the Tao). The 常 lock licenses plain *ever / always* adverbially; it had been dropped from this line altogether, the same fault as ch 28's three 常德.
 
-**弱其志 → "ambition," not "striving."** 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* The glossary skill's own example reads the line *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
+**弱其志 → "ambition," not "striving."** *(⚠ The 弱 half was superseded on 2026-11-02; see the next note.)* 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* The glossary skill's own example reads the line *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
+
+**弱其志 → "teaching their ambition to yield."** *(Shalom's call, 2026-11-02.)* *(was: "weakening their ambition.")* *Weaken* rested on "a stance word cannot take an object," which is true of the English adjective and says nothing about the Chinese: 弱 (*ruò* — yielding) is made causative here, as 虛 (*xū* — empty), 實 (*shí* — full) and 強 (*qiáng* — strong) are, and they all keep their roots. Heshang Gong on this phrase: 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"). *Teaching* comes from his ch 42, 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding"), and from ch 2's teaching without words. **The cost:** *teaching* is not in the line. Full case in `glossary/ruo-弱.md`.
 
 **敢 applied; it had been dropped outright.** 不敢為 → **"never push to act,"** joining ch 30, 64, 67, 69, 73 and 74.
 
@@ -1919,7 +1921,7 @@ Settled 2026-08-26 at Ch 76, on Shalom's call. Full argument in `glossary/ruo-�
 
 **Not swept, and it is the real cost: ch 52.** 守柔曰強 currently reads *"To stay with the yielding is strength."* That line renders **柔**, not 弱, and under the four-word table it cannot keep *yielding*. Held for Shalom rather than swapped, because it is a rewrite and not a term-substitution.
 
-**Two lines keep *weaken*, on grammar.** ch 3 弱其志 and ch 36 將欲弱之 use 弱 transitively, with an object, meaning *to make weak*. A stance word cannot take an object. The split is marked in the Chinese, so it is checkable rather than a matter of taste.
+**Two lines keep *weaken*, on grammar.** *(⚠ Superseded at both lines on 2026-11-02, and the reasoning here withdrawn: `glossary/ruo-弱.md`.)* ch 3 弱其志 and ch 36 將欲弱之 use 弱 transitively, with an object, meaning *to make weak*. A stance word cannot take an object. The split is marked in the Chinese, so it is checkable rather than a matter of taste.
 
 ### Ch 77 · 張弓 rendered as *stringing a bow*, not drawing one
 
@@ -2179,9 +2181,9 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 **What decided it: ch 52 and ch 55 use the same frame with opposite verdicts.** 守柔曰強 ("holding to the soft is called 強") and 心使氣曰強 ("the heart driving the energy is called 強"). One is praise, one is a warning, and the next line after the second is 物壯則老. Rendering the first *strength* and the second *forcing* answers a question the text leaves standing. 王弼 puts both on one page: 守強不強，守柔乃強也.
 
-**The graph.** 強 is 蚚 — a grain weevil (說文, 虫部), borrowed for its sound from the Qin onward and displacing 彊, which is 弓有力也, "a bow having force." 弱 is two bows that bend. They are one instrument in two states, and 木強則折 (ch 76) is a bow past its give. This is the second core term in the book whose graph is an insect conscripted by rhyme; 萬 in 萬物 is a scorpion.
+**The graph.** 強 is 蚚 — a grain weevil (說文, 虫部), borrowed for its sound from the Qin onward and displacing 彊, which is 弓有力也, "a bow having force." 弱 is defined by the Shuowen as 橈也 (*náo yě* — "to bend"). *(Corrected 2026-11-02: this said 弱 is two bows.)* One is stiff and the other gives, and 木強則折 (ch 76) is wood past its give. This is the second core term in the book whose graph is an insect conscripted by rhyme; 萬 in 萬物 is a scorpion.
 
-**Three flexions, all grammatically marked.** *Strengthen* where it takes an object — ch 3 強其骨 and ch 36 必固強之, the same two lines where 弱 is licensed to read *weaken*, because it is one grammar taken twice. *Forcing* where it strains a naming — ch 15 強為之容, ch 25 強字之曰道 (河上公's text carries the fanqie 強其文反, marking the *qiǎng* reading; the phonetic notes are later editorial additions). *Force / dominance* for ch 30's three coercive uses, where *strengthen* would be simply wrong — you do not strengthen a country by invading it. Everywhere else, **strong**.
+**Three flexions, all grammatically marked.** *Strengthen* where it takes an object — ch 3 強其骨 and ch 36 必固強之, the same two lines where 弱 is made causative, because it is one grammar taken twice (*yield* at both since 2026-11-02, `glossary/ruo-弱.md`). *Forcing* where it strains a naming — ch 15 強為之容, ch 25 強字之曰道 (河上公's text carries the fanqie 強其文反, marking the *qiǎng* reading; the phonetic notes are later editorial additions). *Force / dominance* for ch 30's three coercive uses, where *strengthen* would be simply wrong — you do not strengthen a country by invading it. Everywhere else, **strong**.
 
 **力 is covered as *force*.** Ch 33's 勝人者有力，自勝者強 is plain force against achieved strength, rhyming with 智/明 in the line above. Our text had it inverted — 有力 as "aggressive power," 強 as "true strength" — while ch 68 already rendered 力 as "strength."
 
@@ -2570,12 +2572,14 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 **韓非 (*Hán Fēi*, d. 233 BCE) settles it with worked examples, which is as close to proof as this book offers.** He is the oldest commentary that exists, and on this chapter he does not gloss — he narrates:
 
 > 吳兵既勝齊人於艾陵，**張之**於江、濟，**強之**於黄池，故可制於五湖。故曰：「將欲翕之，必固張之；將欲弱之，必固強之。」
-> — *"Once Wu's army had beaten the men of Qi at Ailing, it **stretched itself out** along the Yangtze and the Ji and **made itself strong** at Huangchi, and so could be subdued at the Five Lakes. Hence it is said: 'if you would draw it in, you must first stretch it out; if you would weaken it, you must first strengthen it.'"*
+> — *"Once Wu's army had beaten the men of Qi at Ailing, it **stretched itself out** along the Yangtze and the Ji and **made itself strong** at Huangchi, and so could be subdued at the Five Lakes. Hence it is said: 'if you would draw it in, you must first stretch it out; if you would have it yield, you must first strengthen it.'"*
 
 > 晉獻公將欲襲虞，遺之以璧馬；知伯將襲仇由，遺之以廣車。故曰：「將欲取之，必固與之。」
 > — *"Duke Xian of Jin, intending to raid Yu, sent them jade and horses; Zhi Bo, about to raid Chouyou, sent them a great chariot. Hence: 'if you would take it, you must first give to it.'"*
 
 **Sequences in time, with named states as the object.** Not laws about Contraction.
+
+**將欲弱之 → "If you would have it yield."** *(Shalom's call, 2026-11-02.)* *(was: "If you would weaken it.")* Lines 2 and 6 are one character, so the English repeats it. *Have* keeps the causative without *make*'s force, near Wang Bi's 令其自戮 (*lìng qí zì lù* — "causing them to bring themselves down"). **The cost:** a word the book gives the sage stands in a calculating sentence, and *have* undersells Wu's defeat. Han Fei's whole story, with both uses in it, is in `glossary/ruo-弱.md`; what *weaken* cost is in `DISCOVERIES.md` § 9.
 
 **What the verbs actually are**, since abstraction had eaten all four: 歙 (*xì*) is 說文 縮鼻也, *"to draw in through the nose"*; 張 (*zhāng*) is 施弓弦也, *"to fit the string to a bow"* — a breath and a bowstring, both under tension. 廢 (*fèi*) is 屋頓也, *"a house collapsing."* 興 (*xīng*) is 起也。从舁从同。同力也, *"to rise; from 舁 — lifting hands — and 同; joint effort"* — many hands lifting together, and 與 (*yǔ*) carries the same 舁. 奪 (*duó*) is 手持隹失之也, *"a hand holding a bird and losing it."*
 

@@ -57,8 +57,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
-3,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,"weakening their ambition and strengthening their bones,"
-3,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"weakening their ambition and strengthening their bones,"
+3,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,"teaching their ambition to yield and strengthening their bones,"
+3,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"teaching their ambition to yield and strengthening their bones,"
 3,7,常,Cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,7,民,mín,民,the people,yes,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
@@ -637,11 +637,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 35,4,道,Dào,道,the Tao / way,yes,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),yes,1.0,exact-count,Use it. It never runs out.
 35,7,用,Yòng,無 & 有,use,yes,1.0,exact-count,Use it. It never runs out.
-36,2,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
-36,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"If you would weaken it, you must first strengthen it."
+36,2,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,"If you would have it yield, you must first strengthen it."
+36,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"If you would have it yield, you must first strengthen it."
 36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the hidden clarity.
 36,6,剛,gāng,柔,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
-36,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
+36,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot leave deep water.
@@ -741,7 +741,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,19,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"So reduce a cart to the count of its parts, and there is no cart."
 40,1,反,Fǎn,歸 & 復 & 反,returning,yes,1.0,exact-count,Returning is the Tao’s movement;
 40,1,道,dào,道,the Tao / way,yes,1.0,exact-count,Returning is the Tao’s movement;
-40,2,弱,Ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,exact-count,Yielding is the Tao’s use.
+40,2,弱,Ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,Yielding is the Tao’s use.
 40,2,用,yòng,無 & 有,use,yes,1.0,exact-count,Yielding is the Tao’s use.
 40,2,道,dào,道,the Tao / way,yes,1.0,exact-count,Yielding is the Tao’s use.
 40,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The countless things of the world are born from presence;
@@ -990,7 +990,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the world is so? By this.
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,How do I know the world is so? By this.
 55,1,德,dé,德,integrity,yes,1.0,authored,A person with abundant integrity is like a newborn.
-55,3,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
+55,3,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,3,柔,róu,柔,soft,yes,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,4,牝,pìn,牝,the female,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
 55,4,牡,mǔ,牝,the male,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
@@ -1326,7 +1326,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
 75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
 75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-76,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
+76,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,柔,róu,柔,soft,yes,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
@@ -1335,13 +1335,13 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,萬,Wàn,萬物,countless,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,So the hard and strong are followers of death.
-76,4,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
+76,4,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
 76,4,柔,Róu,柔,soft,yes,1.0,authored,The soft and yielding are followers of life.
 76,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"This is why a strong army does not win, and a strong tree snaps."
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"This is why a strong army does not win, and a strong tree snaps."
 76,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
-76,6,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
+76,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
 76,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
 76,6,柔,róu,柔,soft,yes,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
 77,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,The way of nature: is it not like stringing a bow?
@@ -1362,7 +1362,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts yet relies on nothing. The work is done, and they do not stay in it. They have no wish to appear exceptional."
 77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts yet relies on nothing. The work is done, and they do not stay in it. They have no wish to appear exceptional."
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
-78,1,弱,ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
+78,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,柔,róu,柔,soft,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,水,shuǐ,水,water,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
@@ -1370,7 +1370,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,2,能,néng,可,be able,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,3,剛,gāng,柔,unbending,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
-78,3,弱,Ruò,弱,yielding — and *weaken* only where it takes an object,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,3,弱,Ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,柔,róu,柔,soft,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,能,néng,可,be able,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."

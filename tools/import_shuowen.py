@@ -7,7 +7,7 @@
 **What this is for.** This project reads by decomposing characters to their parts
 — it is the method, not a flourish: `glossary/qiang-強.md` turns on 強 being
 蚚也，从虫弘聲 ("the grain weevil; from 虫 insect, with 弘 as phonetic"), and
-`glossary/ruo-弱.md` on 弱 being two bows. Until now every one of those readings
+`glossary/ruo-弱.md` on what 弱 depicts. Until now every one of those readings
 was looked up by hand, one character at a time, and none of it was indexed.
 
 **Why 說文解字 and not a modern character database.** Two reasons, and the second
