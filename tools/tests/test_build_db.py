@@ -116,6 +116,41 @@ class ShuowenAnalysis(unittest.TestCase):
         _, sem, _, _, _ = sw.parse_analysis("照也。从月从囧。凡朙之屬皆从朙。")
         self.assertEqual(sem, ["月", "囧"])
 
+    def test_list_comma_keeps_every_part(self):
+        """、 lists the parts of one 从 clause. Splitting on it dropped every
+        part after the first: the atlas showed 沖 as water alone (2026-11-15)."""
+        _, sem, phon, kind, _ = sw.parse_analysis("涌搖也。从水、中。讀若動。")
+        self.assertEqual(sem, ["水", "中"])
+        self.assertEqual(phon, [])
+        self.assertEqual(kind, "compound")
+        _, sem, _, _, _ = sw.parse_analysis("从人、毛、匕。言須髮變白也。")
+        self.assertEqual(sem, ["人", "毛", "匕"])
+
+    def test_list_comma_with_a_phonetic(self):
+        _, sem, phon, kind, _ = sw.parse_analysis("分極也。从八、弋，弋亦聲。")
+        self.assertEqual(sem, ["八", "弋"])
+        self.assertEqual(phon, ["弋"])
+        self.assertEqual(kind, "phonetic-compound")
+
+    def test_topic_marker_is_not_a_part(self):
+        """後 is 从彳、幺、夊者，後也: 者 introduces the gloss."""
+        _, sem, _, _, _ = sw.parse_analysis("遲也。从彳、幺、夊者，後也。")
+        self.assertEqual(sem, ["彳", "幺", "夊"])
+
+    def test_the_character_cong_as_a_part(self):
+        """从 is grammar in 从X从Y, and a character in 從: 从辵、从，从亦聲."""
+        _, sem, phon, _, _ = sw.parse_analysis("隨行也。从辵、从，从亦聲。")
+        self.assertEqual(sem, ["辵", "从"])
+        self.assertEqual(phon, ["从"])
+        _, sem, _, _, _ = sw.parse_analysis("从亼从乁。乁，古文及。")
+        self.assertEqual(sem, ["亼", "乁"])
+
+    def test_list_comma_in_prose_is_not_a_part(self):
+        """Outside a 从 clause, 、 is ordinary punctuation."""
+        _, sem, phon, _, _ = sw.parse_analysis("象形。甲、乙之屬。从一。")
+        self.assertEqual(sem, ["一"])
+        self.assertEqual(phon, [])
+
 
 class SectionSplitting(unittest.TestCase):
     def test_two_equals_header_is_matched(self):
@@ -333,7 +368,11 @@ class Baseline(unittest.TestCase):
 
     def test_components_exclude_the_analysis_vocabulary(self):
         self.assertEqual(self.q(
-            "SELECT count(*) FROM component WHERE component IN ('聲','从','省','亦')"), 0)
+            "SELECT count(*) FROM component WHERE component IN ('聲','省','亦')"), 0)
+        # 从 is grammar everywhere but 從, where it is a part: 从辵、从，从亦聲.
+        self.assertEqual(self.q(
+            "SELECT count(*) FROM component WHERE component IN ('从','從')"
+            " AND char != '從'"), 0)
 
     def test_qiang_decomposes_as_the_glossary_argues(self):
         rows = dict(self.conn.execute(
