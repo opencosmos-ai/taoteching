@@ -512,6 +512,12 @@ The second 道 (*dào*) is a verb — 可 (*kě* — can be) always takes one �
 
 **徼 (*jiào*) is a heading, not an edge:** the road radical 彳 (*chì* — a step), the *Shuowen*'s 循也 (*"to go along"*), and Heshang Gong's 所歸趣 (*"where they are heading"*). *Boundaries* rested on the later frontier sense, which no commentator we carry reads here. *Its direction* keeps the 其 + noun parallel with *its subtlety*, and names a quality watched in motion, not a product. **Cost:** Wang Bi's 歸終 (*"returning to the end"*) and his beginning-and-end pairing of 妙 and 徼 are implied, not said. Closes the back-translation audit's second ch 1 minor. Every candidate weighed, in `chapters/001.md` → Notes.
 
+#### 此兩者，同出而異名，同謂之玄 → "These two emerge together, but differ in name. / Together, they are called dark"
+
+*(Shalom's call, 2026-11-14. Was "These two have the same origin." Closes T2-27.)*
+
+**Both 同 (*tóng*) stand before a verb, as adverbs, and *together* is the English that survives both slots** (the ch 56 rule); *the same* cannot be an adverb without meaning *identical*. 出 (*chū* — to come out) is *emerge*, as at ch 50; *origin* is retired, since it nominalized a verb and blurred 出 with 始 (*shǐ* — beginning). Heshang Gong's adverb (*alike*) over Wang Bi's noun (*from the same*). Ch 23's *the same* is for 同於X and stands. Candidates weighed and the cost, in `chapters/001.md` → Notes.
+
 ### Ch 7
 
 #### 非以其無私邪？故能成其私 → "Is it not because they have no private self? / And so their private self is fulfilled"
@@ -2309,6 +2315,8 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 ### The character is the antonym of *different*, and ch 1 prints the pair
 
 **此兩者，同出而異名** — *"these two 同 emerge and 異 in name."* 同 (*tóng* — the same) stands against 異 (*yì* — different) in a single clause, and our ch 1 already renders it **same**. Then it scattered: *together* (1), *merges with* (4, 23 ×6, 56), *union* (56). **Five Englishes, and ch 23 carried the mystical one six times.**
+
+*(Updated 2026-11-14: ch 1's two 同 stand before a verb, as adverbs, and now both read* together: *"These two emerge together, but differ in name. / Together, they are called dark." English* the same *cannot serve as that adverb without meaning* identical. *It is a different slot from 同於X, so this ruling stands for chs 23, 4 and 56.* `chapters/001.md` *→ Notes; T2-27.)*
 
 **Both commentators gloss 同 with 同.** 王弼 (*Wáng Bì*): 與道**同體**, *"of one body with the Tao."* 河上公 (*Héshàng Gōng*): 所謂**與道同**也, *"what is called being the same as the Tao."* **Neither describes a process, and neither describes dissolution.**
 
