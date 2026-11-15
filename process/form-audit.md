@@ -470,7 +470,7 @@ The couplet and its sequel are one structure with two strands (§11): 善人 (*s
 
 - *Masterful / unmasterful* is the lock's English for 善 (*shàn*) of people, and what chs 49 and 62 already say. *Novice* and *master* go, *naturally* goes (it has no character), and *master* stops naming two characters.
 - 雖智大迷 (*suī zhì dà mí* — "though clever, greatly lost") keeps 迷 (*mí*) as *confusion* and folds *Even those who appear intelligent are lost* into the line it belongs to.
-- **And a lock:** 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") reads *This is the essential secret*. 妙 (*miào*) is locked to *subtle*, and *secret* is the register the lock exists to refuse, so this repairs T3-11's ch 27 and the lock at once.
+- **And a lock — done, 2026-11-14 (Shalom's call).** 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") read *This is the essential secret*, and now reads *This is called the essential subtlety*; 雖智大迷 (*suī zhì dà mí* — "though clever, greatly lost") reads *however clever, one is greatly lost*. `chapters/027.md` → Notes. The reason: 妙 (*miào*) is locked to *subtle*, and *secret* is the register the lock exists to refuse, so this repairs T3-11's ch 27 and the lock at once.
 - *The masterful* lands four times in two lines. The Chinese does exactly that, so the weight is honest.
 
 Ch 27's other member, 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw to fault"), **resolve:** *"Masterful speaking leaves no flaw."* It rejoins the *leaves no* / *uses no* frame, and answers line 1's *leaves no tracks*, as 無轍跡 / 無瑕謫 (*wú zhé jì / wú xiá zhé*) answer each other.

@@ -898,6 +898,18 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 
 **Retrofit closed.** This was the debt opened when Ch 62 settled 棄 → *abandon*; `WORKLIST.md` can drop it. The wider point is logged as a Thread in `notes/reading.md`: Wang Bi glosses this very line with 不造進向以殊**棄不肖** — *"does not create tracks of advancement that single out and discard **the unfit**"* — and 不肖 is Ch 62's 不善人.
 
+#### 是謂要妙 → "This is called the essential subtlety"
+
+*(Shalom's call, 2026-11-14. Was "This is the essential secret.")*
+
+**妙 (*miào* — subtle) keeps its lock, and 謂 (*wèi* — called) comes back.** *Secret* said a doctrine kept from outsiders, the esoteric register the 玄妙 lock refuses in *mystery*; 妙 is fineness, and Heshang Gong reads 微妙 (*wēi miào* — faint, subtle) here. The concealment in this chapter is 襲's (*xí* — worn over), not 妙's. The restored 謂 matches 是謂襲明, so both summaries share one frame (T3-11's ch 27). **Cost:** *subtlety* is the plainer closing word. Argument in `chapters/027.md` → Notes.
+
+#### 雖智大迷 → "however clever, one is greatly lost"
+
+*(Shalom's call, 2026-11-14. Was "…is a sign of great confusion. / Even those who appear intelligent are lost.")*
+
+**One sentence, said once.** 大迷 (*dà mí* — greatly lost) had been rendered twice, and *a sign of* and *appear* rendered nothing. 迷 (*mí*) takes *lost*, for its road radical 辶 (*chuò*) and Wang Bi's 於其道必失 (*"sure to lose their way"*), which answers the chapter's opening travel. Argument in `chapters/027.md` → Notes.
+
 ### Ch 29
 
 #### 天下神器 → "the world is a sacred vessel"

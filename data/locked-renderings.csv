@@ -487,8 +487,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,12,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Therefore, the masterful one naturally teaches the novice."
 27,13,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,And the novice is the raw material of the master.
 27,14,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,And the novice is the raw material of the master.
-27,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Not valuing the master and not loving their raw material is a sign of great confusion. Even those who appear intelligent are lost. This is the essential secret.
-27,18,妙,miào,玄 & 妙,subtle,NOT FOUND,1.0,authored,Even those who appear intelligent are lost. This is the essential secret.
+27,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"however clever, one is greatly lost."
+27,18,妙,miào,玄 & 妙,subtle,yes,1.0,authored,This is called the essential subtlety.
 28,1,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
 28,1,雄,xióng,雌,the rooster,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
 28,1,雌,cí,雌,the hen,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
