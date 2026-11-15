@@ -1397,9 +1397,6 @@
 - char: "己"
   pinyin: "jǐ"
   gloss: "oneself / themselves"
-- char: "沖"
-  pinyin: "chōng"
-  gloss: "empty / blending"
 #
 # Added 2026-10-24: the 84 characters seen three or more times whose card
 # still read the source tables' literal column ("Tao is empty/hollow").

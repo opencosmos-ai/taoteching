@@ -19,7 +19,9 @@ imported_by: "tools/import_shuowen.py"
 **selection**: only the characters that occur in this text, which is the corpus
 lexicon rather than the dictionary. The Chinese is Xu Shen's and is public domain
 by age; the parse into semantic and phonetic components is mechanical, from his
-own 从X / X聲 formulas, and is recorded here rather than inferred at read time.*
+own 从X / X聲 formulas, and is recorded here rather than inferred at read time.
+The few rows this edition reads otherwise are listed at the end, under "Our
+readings of the parse."*
 
 **The definitions are untranslated, deliberately.** Machine-rendering ~800
 classical Chinese definitions would manufacture scholarship nobody did. Component
@@ -446,7 +448,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 水 | 水 | exact | 水 | pictograph |  |  |  | 凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。 |
 | 汎 | 汎 | exact | 水 | phonetic-compound | 水 | 凡 |  | 浮皃。从水凡聲。 |
 | 江 | 江 | exact | 水 | phonetic-compound | 水 | 工 |  | 水。出蜀湔氐徼外崏山，入海。从水工聲。 |
-| 沖 | 沖 | exact | 水 | compound | 水中 |  |  | 涌搖也。从水、中。讀若動。 |
+| 沖 | 沖 | exact | 水 | phonetic-compound | 水 | 中 |  | 涌搖也。从水、中。讀若動。 |
 | 没 | 沒 | orthographic | 水 | compound | 水𠬸 |  |  | 沈也。从水从𠬸。 |
 | 治 | 治 | exact | 水 | phonetic-compound | 水 | 台 |  | 水。出東萊曲城陽丘山，南入海。从水台聲。 |
 | 況 | 況 | exact | 水 | phonetic-compound | 水 | 兄 |  | 寒水也。从水兄聲。 |
@@ -800,6 +802,12 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 鮮 | 鮮 | exact | 魚 | phonetic-compound | 魚 | 羴 |  | 魚名。出貉國。从魚，羴省聲。 |
 | 鳥 | 鳥 | exact | 鳥 | compound | 匕 |  |  | 長尾禽緫名也。象形。鳥之足似匕，从匕。凡鳥之屬皆从鳥。 |
 | 黑 | 黑 | exact | 黑 | compound | 炎 |  |  | 火所熏之色也。从炎，上出𡆧。𡆧，古窻字。凡黑之屬皆从黑。 |
+
+## Our readings of the parse
+
+*Rows where this edition reads a part differently from the vendored text. The definition column above is still Xu Shen's, verbatim; only the parse is ours. See `SOUND_PART_READINGS` in `tools/import_shuowen.py`.*
+
+- **沖** — 中 read as the sound part. 沖 is 涌搖也, surging water; 中 gives the sound, as Xu Shen says outright of 盅 (从皿中聲) and 忠 (从心中聲). The vendored text writes 从水、中 without 聲. Argued in glossary/chong-沖.md.
 
 ## Not matched to a 說文 entry
 

@@ -69,7 +69,6 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 高,gāo,high,semantic,glossed,4,"享,亭,至,臺"
 㞷,,,phonetic,"no gloss needed: present for sound, not meaning",3,"往,枉,狂"
 丂,kǎo,a breath pushing out past a barrier,semantic,glossed,3,"兮,可,寧"
-中,zhōng,within / center (5) / middling (41),semantic,glossed,3,"沖,用,莫"
 之,zhī,"of ('s) / it, them / (links a modifier to its noun)",phonetic,glossed,3,"事,市,志"
 乙,,,semantic,not yet glossed — see sources/component-glosses.yaml,3,"亂,尤,尺"
 乚,,,semantic,not yet glossed — see sources/component-glosses.yaml,3,"亡,直,真"
@@ -117,6 +116,8 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 丂,kǎo,a breath pushing out past a barrier,phonetic,glossed,2,"可,巧"
 三,Sān,three,semantic,glossed,2,"三,蟲"
 並,bìng,simultaneously,semantic,glossed,2,"普,棘"
+中,zhōng,within / center (5) / middling (41),phonetic,glossed,2,"忠,沖"
+中,zhōng,within / center (5) / middling (41),semantic,glossed,2,"用,莫"
 丮,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"執,孰"
 乁,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"今,市"
 乙,,,phonetic,"no gloss needed: present for sound, not meaning",2,"失,曰"
@@ -236,7 +237,6 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 与,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,與
 丘,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,虛
 丙,,,phonetic,"no gloss needed: present for sound, not meaning",1,病
-中,zhōng,within / center (5) / middling (41),phonetic,glossed,1,忠
 丯,,,phonetic,"no gloss needed: present for sound, not meaning",1,害
 丰,,,phonetic,"no gloss needed: present for sound, not meaning",1,邦
 丶,zhǔ,"a mark, a point",phonetic,glossed,1,主

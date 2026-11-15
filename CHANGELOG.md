@@ -31,6 +31,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-15 — 沖 (chōng) settled: one spelling, two words, and chapter 42 reads "the breath within"
+
+Shalom asked how 沖 could mean both *empty* (chs 4, 45) and *blending* (ch 42). The witnesses answer it: the received text spells two words alike.
+
+- **[`glossary/chong-沖.md`](glossary/chong-沖.md), locked** (Shalom's call). Chapters 4 and 45 keep *empty*, read as 盅 (*zhōng* — an empty vessel): the *Shuowen* quotes ch 4 as 道盅而用之, and Fu Yi writes 盅 at both. Closes T2-41.
+- **Chapter 42 follows silk A's 中 (*zhōng* — middle):** *"…and the breath within makes harmony."* *(was: "blending the breath into harmony.")* `sources/variants.yaml` decides the fork, which clears the last `unlogged-variant` warning, and records 盅 at chs 4 and 45. The witnesses still to confirm are T2-79.
+- **The atlas shows 中 as 沖's sound part.** The vendored *Shuowen* writes 从水、中 without 聲 (*shēng* — "for sound"); the reading is ours, kept in `SOUND_PART_READINGS` in `tools/import_shuowen.py` and listed in `sources/shuowen/entries.md`.
+
 ## 2026-11-15 — A part's written form, shown only where the character uses it
 
 Shalom read 沖's card, *"Written 氵 at the left, 氺 at the bottom,"* as saying 沖 writes water twice, and 沖 has no 氺. The rows had described each part in general; a card is read as describing its own character.

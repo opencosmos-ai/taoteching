@@ -70,6 +70,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
+4,1,沖,chōng,沖,empty,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,2,物,wù,萬物,things / something,yes,1.0,exact-count,"Fathomless, it seems to be the ancestor of the countless things."
@@ -794,10 +795,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
-42,2,氣,qì,氣,breath,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the breath into harmony."
-42,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the breath into harmony."
-42,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the breath into harmony."
-42,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, blending the breath into harmony."
+42,2,氣,qì,氣,breath,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
+42,2,沖,chōng,沖,empty,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
+42,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
+42,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
+42,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
 42,3,唯,wéi,唯,only,NOT FOUND,1.0,exact-count,"What most people hate is to be called orphaned, meager, or unworthy,"
 42,4,公,gōng,公,impartiality / impartial (the quality) · lord / minister (the office),yes,1.0,exact-count,Yet rulers and lords take these very descriptions for themselves.
 42,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Yet rulers and lords take these very descriptions for themselves.
@@ -829,6 +831,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 45,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,1,用,yòng,無 & 有,use,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,2,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
+45,2,沖,chōng,沖,empty,yes,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
 45,2,用,yòng,無 & 有,use,yes,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
 45,3,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great straightness seems crooked.
 45,4,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great skill seems clumsy.

@@ -46,14 +46,14 @@ Every witness that survives agrees on the character in all three lines. The word
 | Line | Guodian, c. 300 BCE | Mawangdui silk A, c. 200 BCE | Mawangdui silk B, c. 175 BCE | Wang Bi, received |
 |---|---|---|---|---|
 | 10 | not among the slips | lost to damage | 專氣至柔 (*zhuān qì zhì róu* — "gathering the breath, reaching softness") | 專氣致柔 (*zhuān qì zhì róu* — "gathering the breath to softness") |
-| 42 | not among the slips | 中氣以為和 (*zhōng qì yǐ wéi hé* — "the breath in the middle makes harmony") | lost to damage | 沖氣以為和 (*chōng qì yǐ wéi hé* — "blending the breath into harmony") |
+| 42 | not among the slips | 中氣以為和 (*zhōng qì yǐ wéi hé* — "the breath within makes harmony") | lost to damage | 沖氣以為和 (*chōng qì yǐ wéi hé* — "the 沖 breath makes harmony") |
 | 55 | 心使氣曰強 (*xīn shǐ qì yuē qiáng* — "when the heart drives the breath, that is called strong"), in Chu spellings | the same | the same | the same |
 
 **Chapter 55's line is the best attested 氣 (qì) in the book.** It stands in all four witnesses, and the Guodian bamboo carries it a century before the silks. It is also the hardest of the three, so the evidence is strongest where the decision matters most.
 
 **Silk B's 至 (zhì — to reach) for 致 (zhì — to bring to) in chapter 10** is one word in two spellings, 致 being the causative of 至. In silk B's spelling, the softness arrives rather than being brought about, and the English "gathering the breath to softness" reads either way.
 
-**Silk A's 中 (zhōng — middle) in chapter 42 may be a word or a spelling.** 沖 (chōng) is 中 (zhōng) with water added, and scribes of the silks often wrote a sound part bare, so 中 may be a short spelling of 沖. Read as a word, it says something different: yin, yang, and between them "the breath in the middle," which would make the chapter's 二生三 (*èr shēng sān* — "the two births the three") count yin, yang and the breath. The fork belongs to 沖 (chōng), which has no entry yet (`WORKLIST.md` T2-41), and it bears on this one: read as 中, 氣 (qì) is no longer the object of a verb in chapter 42 but the thing that makes the harmony.
+**Silk A's 中 (zhōng — middle) in chapter 42 is a word, and the verse follows it** (Shalom's call, 2026-11-15). 中 is 沖 (chōng)'s sound part and could be a short spelling of it, but silk A writes 沖 in full at chapter 45, Beida writes 中 here too, and Heshang Gong reads the received 沖 as 中. The line reads *"and the breath within makes harmony,"* so 氣 (qì) is no longer the object of a verb in chapter 42 but the thing that makes the harmony. *Within* holds both readings: yin, yang and the breath between them, the third of 二生三 (*èr shēng sān* — "the two births the three"), or the breath inside each thing. The argument is in `glossary/chong-沖.md`.
 
 ### In Laozi's century, 氣 ran from a held breath to the sky
 
@@ -107,7 +107,7 @@ Both commentators read chapter 55 this way:
 
 Heshang Gong's 專 (zhuān — to gather into one) is chapter 10's verb, so his reading of chapter 55 is chapter 10 in reverse. **And chapter 55 shows what the gathered breath does.** The infant "cries all day and never goes hoarse," and Heshang Gong gives the reason: 和氣多之所致 (*hé qì duō zhī suǒ zhì* — "it comes of abundant harmonious breath"). A voice that lasts all day is a matter of breath, and the line calls it "harmony at its utmost."
 
-In the received text, 氣 is the object of a verb all three times: gathered, 專 (zhuān — to gather, wind onto a core); blended, 沖 (chōng — empty, or blending, its English still open); driven, 使 (shǐ — to make, to drive). In chapters 10 and 55, every witness agrees: **the breath is what a body does something with.**
+In chapters 10 and 55, 氣 is the object of a verb: gathered, 專 (zhuān — to gather, wind onto a core); driven, 使 (shǐ — to make, to drive). In chapter 42 it is the subject, the breath within that makes the harmony. In chapters 10 and 55, every witness agrees: **the breath is what a body does something with.**
 
 ### Breath and vital essence, in one chapter, must stay two words
 
@@ -138,7 +138,7 @@ His 專 (zhuān) runs against the graph's spindle whorl, and the verse follows t
 > 萬物中皆有元氣，得以和柔，若胸中有藏，骨中有髓，草木中有空虛，與氣通，故得久生也。
 > *"Within each of the countless things there is the original breath, and by it they are harmonious and soft: as the chest has its organs, and the bones their marrow, and grasses and trees their hollows, open to the breath, and so they live long."* — Heshang Gong
 
-Even the plants breathe, through the hollow inside the stem. His image is bodily, like the verse's backs and arms, and it reads 沖 (chōng) as a hollow the breath passes through, which bears on that character's open question.
+Even the plants breathe, through the hollow inside the stem. His image is bodily, like the verse's backs and arms, and it reads 沖 (chōng) as 中 (zhōng — within), the reading the verse follows (`glossary/chong-沖.md`).
 
 ### What is set aside
 
@@ -165,7 +165,7 @@ Even the plants breathe, through the hollow inside the stem. His image is bodily
 | Line | English | Why |
 |---|---|---|
 | 專氣致柔 (10) | *gathering the breath to softness* | the object of 專 (zhuān — to gather) |
-| 沖氣以為和 (42) | *blending the breath into harmony* | the object of 沖 (chōng — empty, or blending), whose own English is open |
+| 沖氣以為和 (42) | *and the breath within makes harmony* | the subject, after silk A's 中 (zhōng — middle), read as *within* |
 | 心使氣曰強 (55) | *when the heart drives the breath* | the object of 使 (shǐ — to drive) |
 
 **The verb *breathe* stands once in the verse, for another character.** Chapter 49's 歙歙 (xī xī — drawing in the breath) reads *"the sage breathes gently."* 歙 (xī) is a verb of the nose and the lungs, and *breathes* is its word there.
@@ -179,7 +179,6 @@ Even the plants breathe, through the hollow inside the stem. His image is bodily
 ### Left open
 
 - **Breath is the narrowest of the word's senses in Laozi's time.** The book's contemporaries used 氣 for a held breath, for what fills the body, for the weather and for the sky, and the cosmic sense was buried in the Guodian tomb beside the oldest copy of the book. Chapters 10 and 55 sit at the body's end, where breath fits. Chapter 42 is the cosmic line, and asks the most of the English. The bet is that the plain core, carried faithfully, lets the reader feel the wider word through it, where *energy* would replace the word with an idea.
-- **Silk A's 中 (zhōng — middle) for 沖 (chōng) in chapter 42** is undecided (`sources/variants.yaml`, `WORKLIST.md` T2-41). Read as a short spelling, nothing changes here. Read as a word, the line becomes "the breath in the middle makes harmony," and 氣 becomes the third of the chapter's three.
 - **The Guodian graph should be checked against the plates.** The fire in the oldest spelling rests on the published transcription of chapter 55's slip and on a study of the tomb's roughly ten occurrences, all with 既 (jì — already) for sound. The glyph itself is the evidence, and the photographs in the 1998 edition are where to see it.
-- **The Peking University Han slips are not yet consulted** for any of the three lines.
+- **The Peking University Han slips are not yet consulted** for chapters 10 and 55. At chapter 42, a secondhand transcription reads 中 (zhōng — middle), still to be checked against the printed edition (`WORKLIST.md` T2-79).
 - **The vapor reading of the oracle-bone graph is Xu Shen's,** and the oracle-bone and bronze uses don't confirm it. The entry says *cloud* only as his reading.

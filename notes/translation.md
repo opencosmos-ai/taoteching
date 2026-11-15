@@ -262,7 +262,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **混 (*hùn*) had three Englishes in three chapters** — *blend* (14), *Blended* (15), *undifferentiated* (25) — and is now **mixed** in all three. 說文: 豐流也。从**水**昆聲, *"abundant flow,"* on the water radical: the mixing sense comes from a full river carrying everything along, which is exactly what muddy water is at ch 15. Ch 15's seven similes are seven **single words**, which ruled out the two-word candidates on the spot *(Shalom's call)*. Ch 25's 有物混成 → *"Something mixed and complete"*, keeping 混成's paradox: undifferentiated, and already whole.
 
-**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41.
+**The reverse search found a rider.** *Blend* was also doing duty for 沖 (*chōng*) at ch 42 — 沖氣以為和, *"blending the breath"* — where ch 4's Pass D work settled 沖 as **empty**. Freeing the word from 混 isolates ch 42 rather than fixing it. T2-41. *(Resolved 2026-11-15, Shalom's call: ch 42 follows silk A's 中 (*zhōng* — middle) and reads "and the breath within makes harmony"; `glossary/chong-沖.md`.)*
 
 ### Ch 15 · the chapter reworked whole, and 蔽 read as *covered* rather than *worn out*
 

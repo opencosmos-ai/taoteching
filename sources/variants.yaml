@@ -48,6 +48,24 @@
     as if it were news.
   logged: notes/manuscript.md
 
+- chapter: 4
+  line: "道沖，而用之或不盈"
+  base: "沖"
+  witnesses: { mawangdui-b: "沖", fuyi: "盅", shuowen: "盅 (Xu Shen quotes the line under 盅, 器虛也)" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    We keep the base graph and read it as 盅 (zhōng — an empty vessel), "the
+    Tao is empty." Xu Shen's own copy of the Laozi wrote the line 道盅而用之,
+    quoted under 盅：器虛也 ("盅 is a vessel's emptiness"), and Fu Yi writes
+    盅. Silk A is damaged here; silk B prints 沖, which shares 盅's sound part
+    中. Read as itself, 沖 is 涌搖也, "surging and shaking," and the line's
+    不盈 (bù yíng — never fills) asks for an emptiness, not a surge. Wang Bi
+    reads it against fullness; Heshang Gong reads it as 中 (middle), and the
+    English chooses Wang Bi. Recorded 2026-11-15; argued in
+    glossary/chong-沖.md.
+  logged: notes/manuscript.md
+
 - chapter: 8
   line: "政善治"
   base: "政"
@@ -1915,17 +1933,36 @@
 - chapter: 42
   line: "萬物負陰而抱陽，沖氣以為和"
   base: "沖"
-  witnesses: { mawangdui-a: "中" }
+  witnesses: { mawangdui-a: "中", beida: "中 (from a secondhand transcription; to confirm against the printed edition)", fuyi: "衝", fanyingyuan: "盅 (reported in a modern collation; unconfirmed)" }
   meaning_bearing: true
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
-    Silk A writes 中 (zhong - middle) for 沖 (chong - empty, or surging);
-    silk B is damaged here. 沖 is 中 with water added, so 中 may be a short
-    spelling of the same word. Read as a word, the line is "the breath in
-    the middle makes harmony," and the 氣 (qi - breath) becomes the third of
-    二生三 (er sheng san - "the two births the three"). Found 2026-11-01,
-    writing glossary/qi-氣.md; it belongs to 沖's open question (WORKLIST
-    T2-41).
+    DECIDED 2026-11-15 (Shalom's call): we follow silk A's 中 (zhōng — middle)
+    and read it as a word, "the breath within makes harmony." Silk B is
+    damaged here and Guodian lacks the chapter. Silk A writes 沖 in full at
+    ch 45, so its bare 中 here is a choice, not a habit, and Beida writes 中
+    too. Heshang Gong reads the received 沖 as 中 at both ch 4 and ch 42.
+    Fu Yi's 衝 (chōng — to rush) is the dissent, and Fan Yingyuan's 盅
+    (zhōng — empty vessel) levels ch 42 to chs 4 and 45. The two oldest
+    witnesses at this spot write ch 42's word differently from chs 4 and 45,
+    and so does Fu Yi: the received 沖 is one spelling over two words.
+    Argued in glossary/chong-沖.md.
+  logged: notes/manuscript.md
+
+- chapter: 45
+  line: "大盈若沖，其用不窮"
+  base: "沖"
+  witnesses: { guodian: "盅 or 中 (transcriptions differ; not checked against the plates)", mawangdui-a: "沖", mawangdui-b: "沖, with 如 for 若", fuyi: "盅, with 滿 for 盈" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    We keep the base graph and read it as 盅 (zhōng — an empty vessel),
+    "great fullness seems empty." Fu Yi writes 盅 outright, the Shuowen
+    defines 盅 as 器虛也 ("a vessel's emptiness"), and the line's own frame
+    needs the opposite of 盈 (yíng — full). Both silks print 沖, which 盅's
+    shared sound part 中 lets stand for it; silk B's 如 (rú — like) for 若
+    (ruò — seems) changes nothing. Recorded 2026-11-15 with ch 42; argued in
+    glossary/chong-沖.md.
   logged: notes/manuscript.md
 
 - chapter: 55
