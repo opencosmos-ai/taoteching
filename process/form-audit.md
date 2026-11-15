@@ -394,7 +394,7 @@
 | 24 | couplet, mirror of 22, refrain shared with 31 | 🔶 | T3-17 |
 | 25 | sung pause, couplet, chain ×2, series | 🔶 | T3-14 · T3-15 · T3-18 |
 | 26 | strands, ring, double sense, varied repetition | 🔶 | T3-18 |
-| 27 | series, couplet, chiasmus, strands, this is called ×2 | 🔶 | T3-18 |
+| 27 | series, couplet, chiasmus, strands, this is called ×2 | ✅ | |
 | 28 | three parallel stanzas, chain ×4 | 🔶 | T3-15 |
 | 29 | series ×2, couplet | ✅ | |
 | 30 | series, chain, refrain shared with 55 | 🔶 | T3-18 |
@@ -475,7 +475,7 @@ The couplet and its sequel are one structure with two strands (§11): 善人 (*s
 - **And a lock — done, 2026-11-14 (Shalom's call).** 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") read *This is the essential secret*, and now reads *This is called the essential subtlety*; 雖智大迷 (*suī zhì dà mí* — "though clever, greatly lost") reads *however clever, one is greatly lost*. `chapters/027.md` → Notes. The reason: 妙 (*miào*) is locked to *subtle*, and *secret* is the register the lock exists to refuse, so this repairs T3-11's ch 27 and the lock at once.
 - *The masterful* lands four times in two lines. The Chinese does exactly that, so the weight is honest.
 
-Ch 27's other member, 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw to fault"), **resolve:** *"Masterful speaking leaves no flaw."* It rejoins the *leaves no* / *uses no* frame, and answers line 1's *leaves no tracks*, as 無轍跡 / 無瑕謫 (*wú zhé jì / wú xiá zhé*) answer each other.
+Ch 27's other member, 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw to fault"), **done, 2026-11-15 (Shalom's call):** *"Masterful speaking leaves no flaw."* It rejoins the *leaves no* / *uses no* frame, and answers line 1's *leaves no tracks*, as 無轍跡 / 無瑕謫 (*wú zhé jì / wú xiá zhé*) answer each other.
 
 #### T3-13 (ch 2) and T3-17 (生而不有, *shēng ér bù yǒu*) · the formula that decides four chapters
 
@@ -524,7 +524,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 - **13 — leave.** 何謂…是謂… (*hé wèi… shì wèi…* — "what is meant by… this is what is meant by…") is a question-and-answer frame, and *What does it mean… / This is what is meant* keeps it. Record that as the reason; `chapters/013.md` records only that *this is why* was refused.
 - **14 — resolve.** *"This is called the shape of no-shape, the image of no-thing. / This is called the elusive."* The Chinese says *this is called* twice in two lines, and so should the English.
-- **27 — resolve**, under T3-16.
+- **27 — done, 2026-11-14**, under T3-16: *This is called the essential subtlety*.
 - **53 — leave.** Recorded: *exposes* is a deliberate departure (`notes/translation.md` → 是謂 (*shì wèi*) at ch 53), on grammar and force.
 - **74 — leave.** Recorded: the line was built as *a clean equation, place for place, which is what 是謂 (shì wèi) asks for* (`notes/translation.md` → *Ch 74*).
 - **78 — resolve, minimally:** *"whoever takes on the shame of the state / is called the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is called the ruler of the world."* *Is called* is the formula's own form at 59 and 65, and it keeps *whoever*.
@@ -711,7 +711,7 @@ See *Chapter 6* above. Chain kept; doubling open (T2-67). The second read confir
 **Kept:** the couplet 重為輕根，靜為躁君 (*zhòng wéi qīng gēn, jìng wéi zào jūn* — "the heavy is the root of the light, stillness is the lord of the agitated") and its ring in the closing couplet, *Lightness loses the root. / Agitation loses the ruler*, all four words in place. **Lost, an echo:** 輜重 (*zī zhòng* — the baggage train, literally "the heavy wagons") carries line 1's 重 (*zhòng* — heavy), which is why the noble does not leave it; *baggage wagons* drops the weight. `chapters/026.md`'s notes chose the English and quotes Wang Bi's 以重為本故不離 (*yǐ zhòng wéi běn gù bù lí* — "takes the heavy as the base, so does not leave it"), but does not say the echo was let go (T3-18). **Departed (§13):** 根 / 本 (*gēn / běn* — root / base) both read *root*, which Wang Bi's same gloss licenses.
 
 #### Ch 27
-**Kept:** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") ×5 in its frame, four of them *uses no* or *leaves no*; 常善救人，故無棄人 / 常善救物，故無棄物 (*cháng shàn jiù rén, gù wú qì rén / … wù* — "always masterful at rescuing people, so no one is abandoned / … things"); 是謂襲明 (*shì wèi xí míng* — "this is called clarity worn covered"), matched with ch 52. **Lost, and restored 2026-11-14:** the chiasmus 善人者，不善人之師；不善人者，善人之資 (*shàn rén zhě, bù shàn rén zhī shī; bù shàn rén zhě, shàn rén zhī zī* — "the masterful are the teachers of the unmasterful; the unmasterful are the material of the masterful"), and the next line's 師 / 資 (*shī / zī* — teacher / material) (T3-16). 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw") reads *is flawless*, the one member out of the *uses no* frame (T3-18). 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") as *This is the essential secret*: the formula slipped, and *secret* broke 妙 (*miào*)'s lock, *subtle* (T3-11, T3-16); restored 2026-11-14.
+**Kept:** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") ×5 in its frame, four of them *uses no* or *leaves no*; 常善救人，故無棄人 / 常善救物，故無棄物 (*cháng shàn jiù rén, gù wú qì rén / … wù* — "always masterful at rescuing people, so no one is abandoned / … things"); 是謂襲明 (*shì wèi xí míng* — "this is called clarity worn covered"), matched with ch 52. **Lost, and restored 2026-11-14:** the chiasmus 善人者，不善人之師；不善人者，善人之資 (*shàn rén zhě, bù shàn rén zhī shī; bù shàn rén zhě, shàn rén zhī zī* — "the masterful are the teachers of the unmasterful; the unmasterful are the material of the masterful"), and the next line's 師 / 資 (*shī / zī* — teacher / material) (T3-16). 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw") read *is flawless*, the one member out of the *uses no* frame (T3-18); restored 2026-11-15 as *leaves no flaw*. 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") as *This is the essential secret*: the formula slipped, and *secret* broke 妙 (*miào*)'s lock, *subtle* (T3-11, T3-16); restored 2026-11-14.
 
 #### Ch 28
 **Kept:** the three stanzas on one frame, 知其▢，守其▢，為天下▢ (*zhī qí ▢, shǒu qí ▢, wéi tiān xià ▢* — "know the ▢, hold to the ▢, serve as the world's ▢"), every slot in place; the chain 為天下▢。為天下▢ (*wéi tiān xià ▢. wéi tiān xià ▢* — "serve as the world's ▢. Serve as the world's ▢") ×3; 常德 (*cháng dé* — the ever-present integrity) ×3; 復歸於 (*fù guī yú* — "return again to") ×3. The third stanza's 白 (*bái* — white) for 榮 (*róng* — glory) is a text decision, `notes/manuscript.md` → *Ch 28*. **Lost:** the fourth chain, 復歸於樸。樸散則為器 (*fù guī yú pǔ. pǔ sàn zé wéi qì* — "return to the uncarved wood. The uncarved wood scatters and becomes vessels"), crosses a stanza break, and closing it would make the third stanza longer than the first two (T3-15).

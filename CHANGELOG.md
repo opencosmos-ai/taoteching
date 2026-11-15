@@ -31,6 +31,10 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-15 — Chapter 27's five masteries, one frame
+
+- **Line 2: *"Masterful speaking leaves no flaw."*** *(was: "is flawless.")* 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") now reads *leaves no* or *uses no* in all five lines, and line 2 answers line 1's *leaves no tracks*. Closes ch 27 in T3-18, and with it every form-audit departure in the chapter. Argued in [`chapters/027.md`](chapters/027.md) → Notes.
+
 ## 2026-11-14 — Chapter 27's close: the mirror kept, and 妙 keeps its lock
 
 Shalom asked whether *"This is the essential secret"* was off for 妙 (*miào* — subtle). It was, and the form audit and the accuracy audit had both said so. The last block of the chapter was revised, each line argued in [`chapters/027.md`](chapters/027.md) → Notes.

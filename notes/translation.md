@@ -898,6 +898,12 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 
 **Retrofit closed.** This was the debt opened when Ch 62 settled 棄 → *abandon*; `WORKLIST.md` can drop it. The wider point is logged as a Thread in `notes/reading.md`: Wang Bi glosses this very line with 不造進向以殊**棄不肖** — *"does not create tracks of advancement that single out and discard **the unfit**"* — and 不肖 is Ch 62's 不善人.
 
+#### 善言無瑕謫 → "Masterful speaking leaves no flaw"
+
+*(Shalom's call, 2026-11-15, T3-18. Was "Masterful speaking is flawless.")*
+
+**One frame, five times.** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") now reads *leaves no* or *uses no* in all five lines, and *leaves no flaw* answers line 1's *leaves no tracks*, as 無瑕謫 (*wú xiá zhé* — "no flaw or fault") answers 無轍跡 (*wú zhé jì* — "no ruts or tracks"). **Cost:** *flaw* keeps 瑕 (*xiá* — a flaw in jade) and lets go of 謫 (*zhé* — blame). Argument in `chapters/027.md` → Notes.
+
 #### 善人 / 不善人 and 師 / 資 → "the masterful … teachers … the unmasterful … raw material"
 
 *(Shalom's call, 2026-11-14, T3-16. Was "Therefore, the masterful one naturally teaches the novice. / And the novice is the raw material of the master.")*
