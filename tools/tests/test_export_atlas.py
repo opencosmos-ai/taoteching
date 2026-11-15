@@ -196,9 +196,16 @@ class SideForms(unittest.TestCase):
         with self.assertRaises(SystemExit):
             export_atlas.forms(self.parts - {"水"})
 
-    def test_every_form_is_in_the_main_cjk_block(self):
-        """The atlas's rare-character font does not carry the CJK Radicals
-        Supplement (⺮, ⻊); a form from there would show as an empty box."""
+    def test_every_form_is_in_a_block_the_atlas_typesets(self):
+        """The common fonts set the main CJK block; the atlas's rare-glyph font
+        carries the Radicals Supplement (⺮, ⻊) since 2026-11-15. A form from
+        any other block could show as an empty box, so it has to wait for
+        that font (chinese-atlas: atlas/fonts.py)."""
         for rows in self.f.values():
             for form, _ in rows:
-                self.assertTrue(0x4E00 <= ord(form) <= 0x9FFF, form)
+                o = ord(form)
+                self.assertTrue(0x4E00 <= o <= 0x9FFF or 0x2E80 <= o <= 0x2EFF, form)
+
+    def test_bamboo_and_foot(self):
+        self.assertIn(["⺮", "on top"], self.f["竹"])
+        self.assertIn(["⻊", "at the left"], self.f["足"])
