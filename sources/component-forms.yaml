@@ -27,8 +27,8 @@
 # waits until that font is cut again (chinese-atlas: atlas/fonts.py), and
 # tools/tests/test_export_atlas.py refuses it until then.
 #
-# Fields: char (the part, as 說文 names it) · form · where (completes "written
-# <form> …") · chars (the characters of this text that write it so). One row
+# Fields: char (the part, as 說文 names it) · form · where (completes the
+# atlas's "Written here as <form>, its form …") · chars (the characters of this text that write it so). One row
 # per form and position; a part may have several. export_atlas.py fails on a
 # listed character that is not built from the row's part.
 
