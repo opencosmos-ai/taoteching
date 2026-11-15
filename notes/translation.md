@@ -488,6 +488,36 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 The second 道 (*dào*) is a verb — 可 (*kě* — can be) always takes one — and its senses run from the noun: to tread a way, to lead along it, to tell it. **Rendered by what the name means, so the first line of the book teaches that *Tao* is *way*.** *Tao · way · Tao* carries the word all three times the Chinese prints it, which *spoken* did not. Precedent: 道 is already *way* where it is not the name — *"the way of nature"* at ch 9, 47, 73, 77, 79, 81, *"the way of people"* at 77, *"the way of the sage"* at 81. Sides with 河上公 (*Héshàng Gōng*)'s 經術政教之道 (*"the way of classical learning and political instruction"*) and 韓非 (*Hán Fēi*)'s 無定理 (*"no fixed pattern"*); **costs the speech sense**, 王弼 (*Wáng Bì*)'s 指事 (*"pointing at affairs"*), on a line where the commentators diverge. Full argument, the renderings refused, and how other translations lose the paradox, in `chapters/001.md` → Notes.
 
+#### 同謂之玄 → "Together, they are called dark"
+
+*(Shalom's call, 2026-11-14. Was "profound darkness," with a stanza break after it.)*
+
+**One character, one word, and the chain restored.** 同謂之玄。玄之又玄 (*tóng wèi zhī xuán. xuán zhī yòu xuán* — "together they are called dark. Dark, and dark again") hands 玄 (*xuán* — dark) across the line break; *profound darkness* blurred the link and a blank line cut it (T3-15). *Dark* is the register the glossary already set for 玄 standing alone and named. Wang Bi gives the reason the word is doubled: named once, 玄 would become a name, 則失之遠矣 (*"and miss by far"*). That is the chapter's mystery, carried without the word *mystery*, which stays refused. Argument and cost in `chapters/001.md` → Notes.
+
+#### 眾妙之門 → "the gate of all subtlety"
+
+*(Shalom's call, 2026-11-14. Was "the gate of all subtleties.")*
+
+**妙 (*miào* — subtle) takes two slots in ch 1, and one English survives both:** owned by 其 (*qí* — its) in line 5, *its subtlety*, and counted by 眾 (*zhòng* — the many) in line 9, *all subtlety*. The echo is now word for word. *Subtleties* leaned toward *nuances*. *Of*, not *to*, because 之 (*zhī* — 's) has no direction and the commentators face the gate opposite ways (Wang Bi: things come out; Heshang Gong: a person goes in). **Cost:** the singular softens Wang Bi's distributive 眾妙皆從同而出 (*"the many subtle things all come out from the same"*). Argument in `chapters/001.md` → Notes.
+
+#### 常無欲，以觀其妙 → "Ever desireless, you can observe its subtlety"
+
+*(Shalom's call, 2026-11-14. Was "Ever desireless, observe its subtlety; / Ever desiring, observe its boundaries.")*
+
+**A capacity, not a command:** 以 (*yǐ* — thereby), and both commentators write 可以觀 (*kě yǐ guān* — "can observe"). ***You*** is supplied, after Heshang Gong's 人 (*rén* — person). ***Ever* opens both lines**, as 常 (*cháng* — ever) does in the Chinese, so 故 (*gù* — so) is left without English, with the *Yongle Dadian*'s missing 故 as witness (`sources/variants.yaml`). **Settled**: an exception the book-wide 故 decision (T3-12) does not reopen. *Present* stays out of these lines; *ever* is the thread from line 1 and from 常無欲 at ch 34, where the same words describe the Tao. Closes the back-translation audit's first ch 1 minor. Argument, and the reader's note on 常, in `chapters/001.md` → Notes.
+
+#### 常有欲，以觀其徼 → "Ever desiring, you can observe its direction"
+
+*(Shalom's call, 2026-11-14. Was "observe its boundaries.")*
+
+**徼 (*jiào*) is a heading, not an edge:** the road radical 彳 (*chì* — a step), the *Shuowen*'s 循也 (*"to go along"*), and Heshang Gong's 所歸趣 (*"where they are heading"*). *Boundaries* rested on the later frontier sense, which no commentator we carry reads here. *Its direction* keeps the 其 + noun parallel with *its subtlety*, and names a quality watched in motion, not a product. **Cost:** Wang Bi's 歸終 (*"returning to the end"*) and his beginning-and-end pairing of 妙 and 徼 are implied, not said. Closes the back-translation audit's second ch 1 minor. Every candidate weighed, in `chapters/001.md` → Notes.
+
+#### 此兩者，同出而異名，同謂之玄 → "These two emerge together, but differ in name. / Together, they are called dark"
+
+*(Shalom's call, 2026-11-14. Was "These two have the same origin." Closes T2-27.)*
+
+**Both 同 (*tóng*) stand before a verb, as adverbs, and *together* is the English that survives both slots** (the ch 56 rule); *the same* cannot be an adverb without meaning *identical*. 出 (*chū* — to come out) is *emerge*, as at ch 50; *origin* is retired, since it nominalized a verb and blurred 出 with 始 (*shǐ* — beginning). Heshang Gong's adverb (*alike*) over Wang Bi's noun (*from the same*). Ch 23's *the same* is for 同於X and stands. Candidates weighed and the cost, in `chapters/001.md` → Notes.
+
 ### Ch 7
 
 #### 非以其無私邪？故能成其私 → "Is it not because they have no private self? / And so their private self is fulfilled"
@@ -607,7 +637,7 @@ The old rendering carried our own besetting temptation, the **mechanistic** — 
 
 **"It" and "this" had no antecedents.** 其名不去，以閱眾甫: the instrument of 以 (*yǐ* — thereby) is 其名, **the name** — Wang Bi confirms it (以無名說萬物始也, "it is by the nameless that the beginning of the countless things is explained"). Naming it in the English fixes the first pronoun. The second is fixed by repetition: **"In *this* name … By *this*"** gives 此 a visible antecedent for the first time. *Cost, on the record:* pointing 此 at the name narrows it — Wang Bi glosses 此 as 上之所云, "what was said above," meaning the whole descent through 象 / 物 / 精 / 信. **We accept the narrowing and let the bare demonstrative carry the width.** *(Revised 2026-08-30. The closing line formerly read "By this, here, now," and this paragraph argued that "here, now" widened the referent back out to the present encounter, so the line held both readings. It did not — it imported 河上公's gloss 此，今也 and picked his reading over Wang Bi's. See the cross-chapter note on 以此.)*
 
-**And "the many," not "the countless things."** 眾 (*zhòng*) is not 萬物, and 萬物 does not occur in this chapter. Borrowing the 萬物 lock here would repeat the error just corrected in Ch 23, where 信 had been given 德's locked word. Elsewhere 眾 is rendered *all* (Ch 1's "the gate of all subtleties") and *the crowd* (Ch 20), so "the many" is in register. **"I," not "we,"** because the chapter's voice is 吾 (*wú* — the self *seeing*), which the next line makes explicit.
+**And "the many," not "the countless things."** 眾 (*zhòng*) is not 萬物, and 萬物 does not occur in this chapter. Borrowing the 萬物 lock here would repeat the error just corrected in Ch 23, where 信 had been given 德's locked word. Elsewhere 眾 is rendered *all* (Ch 1's "the gate of all subtlety") and *the crowd* (Ch 20), so "the many" is in register. **"I," not "we,"** because the chapter's voice is 吾 (*wú* — the self *seeing*), which the next line makes explicit.
 
 #### 吾何以知眾甫之狀哉 → "How do I know the father of the many is so?"
 
@@ -2286,6 +2316,8 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 **此兩者，同出而異名** — *"these two 同 emerge and 異 in name."* 同 (*tóng* — the same) stands against 異 (*yì* — different) in a single clause, and our ch 1 already renders it **same**. Then it scattered: *together* (1), *merges with* (4, 23 ×6, 56), *union* (56). **Five Englishes, and ch 23 carried the mystical one six times.**
 
+*(Updated 2026-11-14: ch 1's two 同 stand before a verb, as adverbs, and now both read* together: *"These two emerge together, but differ in name. / Together, they are called dark." English* the same *cannot serve as that adverb without meaning* identical. *It is a different slot from 同於X, so this ruling stands for chs 23, 4 and 56.* `chapters/001.md` *→ Notes; T2-27.)*
+
 **Both commentators gloss 同 with 同.** 王弼 (*Wáng Bì*): 與道**同體**, *"of one body with the Tao."* 河上公 (*Héshàng Gōng*): 所謂**與道同**也, *"what is called being the same as the Tao."* **Neither describes a process, and neither describes dissolution.**
 
 **The chapter's claim is resonance, and 河上公 gives it in the 易經's own formula:** 同聲相應，雲從龍，風從虎，水流濕，火就燥 — *"like sounds answer each other: clouds follow the dragon, wind follows the tiger, water flows to the damp, fire goes to the dry."* **Four pairs. Every one is two things finding each other by kind.** 王弼 arrives independently, glossing 樂得之 with 應 (*yìng* — to answer): 故同而應之.
@@ -2863,7 +2895,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 明道若昧 (41) read *"The clear Tao seems dark"* and 其下不昧 (14) read *"a dark bottom."* Both now **murky**.
 
-**The fault is a collision, not a misreading.** 說文 gives 昧 both senses — 昧爽，旦明也 for the compound (*daybreak*) and 一曰**闇**也 for the graph alone (*shut-in dark*) — so *dark* was defensible about the character. It was unavailable anyway: **玄 (*xuán*) is locked to *dark or profound* and carries six verse lines**, among them ch 1's 玄之又玄, *"dark, and dark again, the gate of all subtleties,"* and 玄牝, *the dark female*. Neither ch 14 nor ch 41 contains 玄. So the English made a reader hear the book's signature word for the unseeable where the Chinese has only the plain antonym of 明 — **invented repetition**, the mirror of the ch 11 fault and the class `WORKLIST` T5-14 exists for. `--english "dark"` had ten lines, six backed and four not.
+**The fault is a collision, not a misreading.** 說文 gives 昧 both senses — 昧爽，旦明也 for the compound (*daybreak*) and 一曰**闇**也 for the graph alone (*shut-in dark*) — so *dark* was defensible about the character. It was unavailable anyway: **玄 (*xuán*) is locked to *dark or profound* and carries six verse lines**, among them ch 1's 玄之又玄, *"dark, and dark again, the gate of all subtlety,"* and 玄牝, *the dark female*. Neither ch 14 nor ch 41 contains 玄. So the English made a reader hear the book's signature word for the unseeable where the Chinese has only the plain antonym of 明 — **invented repetition**, the mirror of the ch 11 fault and the class `WORKLIST` T5-14 exists for. `--english "dark"` had ten lines, six backed and four not.
 
 **Everything nearer was already worn.** *Dim* is 和 (*hé*) at 和其光 (4, 56) and 冥 (*míng*) at ch 21's 窈兮冥兮; *faint* is 微 (*wēi*) at 15 and 64; *dull* is 爽 at 12 and 悶 at 20 and 58; *hidden* is 微 again at 36. Free were *murky*, *clouded*, *obscure*, *shadowed*, *veiled*. **Obscure** was declined as abstract and as carrying *unimportant*, a verdict 昧 has not.
 

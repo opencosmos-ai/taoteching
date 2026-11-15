@@ -49,21 +49,22 @@ The silks write 恒 freely; neither copy avoids it. The received text's single �
 
 ### What the oldest readers say it is
 
-**韓非 (*Hán Fēi*, d. 233 BCE), the oldest commentary we carry, defines the word at length on this very line:**
+**Han Fei (d. 233 BCE), the oldest commentary we carry, defines the word at length on this very line:**
 
 > 夫物之一存一亡，乍死乍生，初盛而後衰者，不可謂常。唯夫與天地之剖判也具生，至天地之消散也不死不衰者謂常。而常者無攸易，無定理。無定理，非在於常所，是以不可道也。
 
 *"Things that now remain and now perish, that die all at once and all at once live, that flourish first and decline after, cannot be called 常. Only what was born together with the splitting open of sky and earth, and when sky and earth disperse neither dies nor declines, is called 常. And 常 has nothing it changes into, and no fixed pattern. Having no fixed pattern, it is not in any fixed place (常所), and that is why it cannot be made a way."*
 
-Three things in this passage decide the rendering:
+Four things in this passage decide the rendering:
 
 1. **It has a birth.** 與天地之剖判也具生 — *born along with sky and earth's splitting.* The oldest reader does not make 常 beginningless. It lasts **as long as the world lasts**, without decay. That is duration, not eternity in the strict sense.
 2. **What makes it 常 is that it does not decline.** The contrast class is things that 盛 and 衰, *flourish and fade*. 常 is the thing that does not fade.
 3. **It is in no fixed place.** 非在於常所 — and Han Fei uses 常 in its everyday sense, *a fixed place*, inside his definition of the deep one. Having no fixed place means it is everywhere. This is the strongest early support for *present* in *ever-present*.
+4. **What is constant is what is not fixed.** 無定理 (*wú dìng lǐ* — "no fixed pattern") is the reason Han Fei gives for 不可道 (*bù kě dào* — "it cannot be made a way"). A way that has been made has a fixed pattern: Heshang Gong glosses the made way of line 1 as 經術政教之道 (*jīng shù zhèng jiào zhī dào* — "the way of classical learning and political instruction"), a teaching, a method, a program. Having a fixed shape, it belongs with the things that flourish and fade. The 常 Tao has no fixed shape, and so it does not fade. Wang Bi says the same from the other side: the Tao that can be made a way 指事造形，非其常也 — *"points at affairs and makes forms; it is not its constant."* **This is the paradox of the book's first line, and it decides the English more than any dictionary: a rendering of 常 that means *fixed* inverts it.** That rules out *constant*, *unchanging* and *abiding* (below).
 
-**河上公 (*Héshàng Gōng*)** glosses 非常名 as 非自然**常在**之名也 — *"not the name of what is so-of-itself and **always there**."* 常在 (*cháng zài*) is, word for word, *always present*. On the Tao line he reads 常 as 長生 (*cháng shēng* — long life), which fits his interest in longevity. At chapter 16 he reads it as a course: 道之所常行, *"what the Tao always does."*
+**Heshang Gong** glosses 非常名 as 非自然**常在**之名也 — *"not the name of what is so-of-itself and **always there**."* 常在 (*cháng zài*) is, word for word, *always present*. On the Tao line he reads 常 as 長生 (*cháng shēng* — long life), which fits his interest in longevity. At chapter 16 he reads it as a course: 道之所常行, *"what the Tao always does."*
 
-**王弼 (*Wáng Bì*)**, at chapter 16, describes it by what it lacks: 常之為物，不偏不彰，無皦昧之狀，溫涼之象 — *"as a thing, 常 leans to no side and shows no mark; it has no bright or dim look, no warm or cool feel."* At 55: 物以和為常 — *"things take harmony as their 常."* For him it is the featureless norm things settle into.
+**Wang Bi**, at chapter 16, describes it by what it lacks: 常之為物，不偏不彰，無皦昧之狀，溫涼之象 — *"as a thing, 常 leans to no side and shows no mark; it has no bright or dim look, no warm or cool feel."* At 55: 物以和為常 — *"things take harmony as their 常."* For him it is the featureless norm things settle into.
 
 None of the three puts 常 outside time. All three describe it as something that **keeps on, here.**
 
@@ -76,9 +77,9 @@ None of the three puts 常 outside time. All three describe it as something that
 *Ever-present* is the more accurate rendering here, for four reasons:
 
 - **It tracks the word the line actually used.** Line 1's word is 恒, the manner-word: *ever.* *Ever-present* is built on *ever*. *Eternal* is built on Latin *aeternus*, and through two thousand years of theology it now means either *without beginning or end* or *outside time altogether*. Han Fei denies the first, since his 常 is born with the world, and nobody in the tradition says the second.
-- **It keeps the chapter's four 常 visible as one word.** Chapter 1 prints 常 four times in six lines: 非常道, 非常名, 常無欲, 常有欲. In English that is *ever-present, ever-present, ever desireless, ever desiring.* Render line 1 *eternal* and the reader cannot see that the Tao's constancy and the observer's constant desirelessness are the same word. In the Chinese they are, and the chapter turns on it: you observe the ever-present by being ever something yourself.
+- **It keeps the chapter's four 常 visible as one word.** Chapter 1 prints 常 four times in six lines: 非常道, 非常名, 常無欲, 常有欲. In English that is *ever-present, ever-present, ever desireless, ever desiring*, and since 2026-11-14 *Ever* opens both lines 5 and 6, as 常 opens both in the Chinese (*"Ever desireless, you can observe its subtlety"*). Render line 1 *eternal* and the reader cannot see that the Tao's constancy and the observer's constant desirelessness are the same word. In the Chinese they are, and the chapter turns on it: you observe the ever-present by being ever something yourself. **And what you become is the Tao's own condition.** Everywhere else, 常 before a 無X state describes the Tao: 道常無名 (32), *"the Tao is ever nameless"*; 道常無為 (37), *"the Tao is ever non-doing"*; and 常無欲 (34), ch 1's own words, *"Ever desireless, it can be called small."* So *ever* must stay *ever* in lines 5 and 6. Carrying *present* into them (*"ever present and desireless"*) would break that match and bring in the mindfulness register of *being present*, which the line does not hold.
 - **It passes the pointing test.** Laozi could point at the moon coming back, at a river that is always there. He could not point at eternity.
-- **The commentary backs *present*.** 河上公's 常在 and 韓非's 非在於常所 both say that what is 常 is *there*, everywhere and always.
+- **The commentary backs *present*.** Heshang Gong's 常在 and Han Fei's 非在於常所 both say that what is 常 is *there*, everywhere and always.
 
 **As a glossary heading the same holds.** *The ever-present* covers the name-word of 16, 52 and 55, and its *ever* covers the manner-word of 1, 3, 32, 34 and 37. One English root spans both characters the received text merged. *Eternal* fits neither.
 
@@ -87,10 +88,12 @@ None of the three puts 常 outside time. All three describe it as something that
 - ***eternal / eternity*** — fails the hymn test outright, since *"the eternal Tao"* is at home in a sermon. It also imports a timeless beyond, which the book never names and its oldest readers contradict. Forbidden.
 - ***everlasting*** — closer, because it at least runs on in time, but it is hymn vocabulary (*everlasting arms*, *life everlasting*). It also lays stress on *lasting*, which is 長's word. Forbidden.
 - ***timeless*** — the opposite of the claim. 常 is time that does not lapse, not the absence of time. Forbidden.
-- ***constant*** — the lexicographers' word, and accurate. Set aside for two reasons. It is a label where the book wants a picture (`process/principles/perform-dont-label.md`), and in English it drifts toward *loyal* (*a constant friend*) and toward the physics of fixed quantities. Not forbidden: nothing in the manuscript uses it, and a reader's ruling is enough.
-- ***unchanging / changeless*** — *unchanging* is already spoken for: 獨立不改 (25), *"Solitary. Unchanging"*, renders 不改 (*bù gǎi* — does not alter). And Han Fei's 常 is not unchanging in the sense of static. It is what does not *decline*.
+- ***constant*** — the lexicographers' word, and right about the character. Wrong about the line. In English *constant* means *fixed, unvarying*, and line 1's whole point, on Han Fei's reading, is that the 常 Tao has 無定理, *no fixed pattern*, while the made way has one: *the constant Tao* would put the fixity on the wrong side and invert the paradox (point 4 above). It is also a label where the book wants a picture (`process/principles/perform-dont-label.md`), and it drifts toward *loyal* (*a constant friend*) and the physics of fixed quantities. Not forbidden: nothing in the manuscript uses it, and a reader's ruling is enough.
+- ***unchanging / changeless*** — *unchanging* is already spoken for: 獨立不改 (25), *"Solitary. Unchanging"*, renders 不改 (*bù gǎi* — does not alter). And Han Fei's 常 is not unchanging in the sense of static. It is what does not *decline*. 恒's moon is the picture: constant, and never the same shape two nights running.
 - ***enduring / lasting*** — already spoken for, by two different characters. **久 (*jiǔ*)** is *endure*: 天長地久 (7), *"the sky is lasting, the earth enduring"*, and 道乃久 (16), *"the Tao leads to what endures."* **長 (*cháng*)**, a false friend with the same sound, is *lasting* (說文: 久遠也, *"long and far"*). Chapter 16 sets 常 and 久 in the same chain, and they must stay two words.
-- ***the abiding*** — accurate, and once listed beside *the ever-present*. No line uses it, and a second noun for one name would split chapter 16's chain, where 常 is repeated as a subject four times.
+- ***the abiding*** — once listed beside *the ever-present*, and set aside on a closer reading. To abide is to stay put, to remain in one place: Han Fei's 常所 (*cháng suǒ* — a fixed place), the very thing he says the 常 Tao is not in. It is also hymn vocabulary (*"Abide with me"*). And a second noun for one name would split chapter 16's chain, where 常 is repeated as a subject four times.
+- ***perennial*** — weighed 2026-11-14 as the strongest challenger. It carries recurrence, which is 恒's moon and Schuessler's *again, once more*, and it passes the pointing test: you can point at a perennial in a garden. It loses twice. A perennial dies back, and Han Fei's 常 is 不死不衰 (*bù sǐ bù shuāi* — "neither dies nor declines"). And *the perennial Tao* brings in Aldous Huxley's *Perennial Philosophy* (1945), which folds the Tao into one universal mysticism: an overlay of its own.
+- ***the Tao as it ever is*** — weighed 2026-11-14. It renders the manner-word 恒 by its bare core and matches lines 5 and 6's *ever* exactly. It fails on line 2, *"not the name as it ever is,"* and *as it ever is* drifts toward *as it has always been*, which is fixity again.
 
 ### Working register
 
