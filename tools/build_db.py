@@ -1155,11 +1155,13 @@ BASELINE = {
                        "112→113 ch 46 知足之足 / 知足之為足, Guodian, 2026-10-30 (glossary/zhizu-知足.md) · "
                        "113→114 ch 33 不亡 / 不忘, the silks, 2026-10-30 (notes/manuscript.md) · "
                        "114→118 ch 10 致 / 至 and 能如嬰兒乎 / 能嬰兒乎, ch 42 沖 / 中, ch 55 知和曰常 / 和曰常, 2026-11-01 (glossary/qi-氣.md) · 118→119 ch 1 故 / no 故, the Yongle Dadian, 2026-11-14 (chapters/001.md)"),
-    "verse_line": (857, "English verse lines across chapters/*.md. "
+    "verse_line": (858, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20 · "
                         "855→857 ch 6 set one English line to each Chinese line, "
-                        "2026-10-24"),
+                        "2026-10-24 · "
+                        "857→858 ch 27's 雖智大迷 and 是謂要妙 each set as "
+                        "their own line, 2026-11-14"),
 }
 
 

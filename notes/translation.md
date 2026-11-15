@@ -898,6 +898,30 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 
 **Retrofit closed.** This was the debt opened when Ch 62 settled 棄 → *abandon*; `WORKLIST.md` can drop it. The wider point is logged as a Thread in `notes/reading.md`: Wang Bi glosses this very line with 不造進向以殊**棄不肖** — *"does not create tracks of advancement that single out and discard **the unfit**"* — and 不肖 is Ch 62's 不善人.
 
+#### 善言無瑕謫 → "Masterful speaking leaves no flaw"
+
+*(Shalom's call, 2026-11-15, T3-18. Was "Masterful speaking is flawless.")*
+
+**One frame, five times.** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") now reads *leaves no* or *uses no* in all five lines, and *leaves no flaw* answers line 1's *leaves no tracks*, as 無瑕謫 (*wú xiá zhé* — "no flaw or fault") answers 無轍跡 (*wú zhé jì* — "no ruts or tracks"). **Cost:** *flaw* keeps 瑕 (*xiá* — a flaw in jade) and lets go of 謫 (*zhé* — blame). Argument in `chapters/027.md` → Notes.
+
+#### 善人 / 不善人 and 師 / 資 → "the masterful … teachers … the unmasterful … raw material"
+
+*(Shalom's call, 2026-11-14, T3-16. Was "Therefore, the masterful one naturally teaches the novice. / And the novice is the raw material of the master.")*
+
+**The mirror kept.** 善人 (*shàn rén* — the masterful) and 不善人 (*bù shàn rén* — the unmasterful) trade places across 故善人者，不善人之師；不善人者，善人之資, and now trade places in the English too, as *masterful / unmasterful*, the book's English for 善 (*shàn*) of people (chs 49, 62, 79; ch 62's note follows this chapter, which is true again). **師 (*shī*) is *teacher* in both its slots**: *master* beside *masterful* made a pun the Chinese lacks, and *the Master* fails the hymn test. 資 (*zī*) keeps *raw material*, which holds Heshang Gong's 用 (*yòng* — use) and Wang Bi's 取 (*qǔ* — take up). 故 (*gù*) is *So*, ahead of T3-12. **Cost:** *the masterful* four times in two lines, as in the Chinese. Argument in `chapters/027.md` → Notes.
+
+#### 是謂要妙 → "This is called the essential subtlety"
+
+*(Shalom's call, 2026-11-14. Was "This is the essential secret.")*
+
+**妙 (*miào* — subtle) keeps its lock, and 謂 (*wèi* — called) comes back.** *Secret* said a doctrine kept from outsiders, the esoteric register the 玄妙 lock refuses in *mystery*; 妙 is fineness, and Heshang Gong reads 微妙 (*wēi miào* — faint, subtle) here. The concealment in this chapter is 襲's (*xí* — worn over), not 妙's. The restored 謂 matches 是謂襲明, so both summaries share one frame (T3-11's ch 27). **Cost:** *subtlety* is the plainer closing word. Argument in `chapters/027.md` → Notes.
+
+#### 雖智大迷 → "however clever, one is greatly lost"
+
+*(Shalom's call, 2026-11-14. Was "…is a sign of great confusion. / Even those who appear intelligent are lost.")*
+
+**One sentence, said once.** 大迷 (*dà mí* — greatly lost) had been rendered twice, and *a sign of* and *appear* rendered nothing. 迷 (*mí*) takes *lost*, for its road radical 辶 (*chuò*) and Wang Bi's 於其道必失 (*"sure to lose their way"*), which answers the chapter's opening travel. Argument in `chapters/027.md` → Notes.
+
 ### Ch 29
 
 #### 天下神器 → "the world is a sacred vessel"
