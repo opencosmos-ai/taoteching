@@ -173,6 +173,15 @@
   check: none
   entry: process/principles/one-question-at-a-time.md
 
+- id: part-role-is-not-the-reading
+  title: "A part's role in a character and what a witness's bare part means in a line are two facts: the card holds the first, the notes the second"
+  trigger: "a witness writes a character's sound part alone, as a word, and you are about to decide what that part does inside the character, or what the line means"
+  status: provisional
+  since: 2026-11-15
+  applies: [drafting, glossary, tooling]
+  check: none
+  entry: process/principles/part-role-is-not-the-reading.md
+
 - id: perform-dont-label
   title: "Correct an overlay by performing it, not by labelling it more accurately"
   trigger: "you have caught an imported overlay and are reaching for a more accurate abstraction to replace it"

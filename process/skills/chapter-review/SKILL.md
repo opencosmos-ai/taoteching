@@ -43,6 +43,8 @@ Read the `## Source` block in `chapters/NNN.md` before reading anyone's opinion,
 
 Decompose the contested characters to radicals. This is where the real findings come from: 萬 (*wàn*) is a **scorpion** borrowed for its sound, so "ten thousand" is a phonetic accident; 為 (*wéi*) is a **hand on an elephant**, so it is *handling*, not neutral doing; 自 (*zì*) is a **nose**, the thing you point at to mean "me".
 
+**A part there for sound is still a word of its own.** Where an older witness writes a character's sound part alone, record what the part does inside the character on the card, and what the witness's bare part means in the line in the notes, and never let one decide the other: 中 (*zhōng* — middle) is only sound in 沖 (*chōng* — surging), and silk A's bare 中 at ch 42 is still the word *within*. `process/principles/part-role-is-not-the-reading.md`.
+
 ---
 
 ## 2. Check the witnesses, then the commentaries
