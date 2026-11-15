@@ -144,7 +144,7 @@ This is the operational heart of the system. A question about one character beco
 
 | Product | Built by | From | Committed? |
 |---|---|---|---|
-| `glossary/INDEX.md` · `glossary/terms.yaml` | `build_index.py` | every entry's frontmatter, plus chapter lists recomputed from `source/chinese.md` | yes — CI fails if stale |
+| `glossary/INDEX.md` · `glossary/terms.yaml` | `build_index.py` | every entry's frontmatter, plus chapter lists recomputed from the chapters' source tables by `term_where()` in `tools/lib/corpus.py` | yes — CI fails if stale |
 | `process/principles/INDEX.md` · `process/principles.yaml` | `build_principles.py` | every principle's frontmatter | yes — **CI fails if stale, and if an `evidence:` anchor does not resolve** |
 | `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | no — gitignored; every tool that reads it rebuilds it in seconds, and the CSVs below are its reviewable form |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
@@ -197,6 +197,14 @@ This is the operational heart of the system. A question about one character beco
 - **It travels in the contract**, as the export's `forms` key: `{part: [[form, where, chars], …]}`. The build fails on a row whose part, or any of whose characters, is not in this text, so a typo cannot ship. An addition, so `contract` stays 1. The atlas merges `forms` across texts, the first text to state a part's form speaking for all, and an export without the key adds none.
 - **It is a claim about the character on the card, never about the part in general.** Each row lists the characters that write the part in that form (`chars`), judged by eye, and the atlas shows a row only on their cards; a character that writes the part whole, as 信 (*xìn* — trust) writes 言 (*yán* — speech), gets no line. *Corrected 2026-11-15:* the first version described the part in general ("written 氵 at the left, 氺 at the bottom") and argued that stayed true everywhere. It did not read that way: on 沖's card it claimed a 氺 that 沖 does not have. A reader takes a line on a card as a statement about that card's character, so the data has to be per character.
 - **Only forms the atlas can set.** Most are in Unicode's main CJK block, which every common font carries. ⺮ (竹, *zhú* — bamboo, on top) and ⻊ (足, *zú* — foot, at the left) are in the Radicals Supplement, which only the atlas's rare-glyph font carries (next paragraph); they joined the file on 2026-11-15, when the font was cut to include them. **A new rare form lands in the atlas's font before it lands in the export**, so it never shows as a box. `tools/tests/test_export_atlas.py` refuses a form from any other block until the font has it.
+
+**Where a glossary term stands is counted once, by one rule.** `term_where()` in [`tools/lib/corpus.py`](tools/lib/corpus.py) returns every line a term stands in and how often. It counts every half of a pairing, so 我 & 吾 (*wǒ / wú* — the self) stands wherever 吾 does. Each part is counted on its own, so 天 (*tiān* — sky) counts the 天 inside 天地 (*tiān dì* — sky and earth). It counts within a line, so a compound never matches across a line break. Three things come from it, and nothing else counts:
+
+- **`glossary/INDEX.md` and `terms.yaml`**, whose chapter lists `build_index.py` takes from it.
+- **The export's `entries[].where`**, `[["ch.line", n], …]`, the same shape the top-level `where` gives a character. It is an addition, so `contract` stays 1.
+- **The Library's Key Terms** on opencosmos.ai, a chapter's and the whole book's, which read that `where` and count nothing themselves.
+
+Two rules disagreed before this one existed: INDEX counted only a pairing's first half, against `source/chinese.md`, so it put 我 & 吾 in 7 chapters, where the Library, counting both halves, put it in 19 (2026-11-15). `tools/tests/test_term_where.py` pins the rule and fails when either generated file disagrees with it.
 
 **A rare character can outrun the atlas's font.** The atlas ships a subset of a rare-glyph typeface, cut to the characters it shows. An entry that names a character outside every common font, as 聖's names 𡈼 (*tǐng* — a figure standing on the ground), publishes anyway; the atlas build warns, and the glyph shows as a box until `python3 -m atlas.fonts` is run in the atlas repository. The translation is never blocked by a font.
 

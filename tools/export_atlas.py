@@ -47,6 +47,19 @@ reads none of these keys.
                                          (2026-11-15; the third element was added that day,
                                          after rows read as general claims misled on 沖)
 
+**And one key on every entry, added 2026-11-15:**
+
+    entries[].where  [["ch.line", n], …]
+                                         every line the entry's term stands in, and how
+                                         often: the same shape as the top-level `where`
+                                         gives a character. Every half of a pairing
+                                         counts (我 & 吾 stands wherever 吾 does), and
+                                         each part is counted on its own, so 天 counts
+                                         the 天 inside 天地. From term_where() in
+                                         lib/corpus.py, the one rule glossary/INDEX.md
+                                         also uses. The Library's Key Terms read it and
+                                         count nothing themselves
+
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. One thing is shaped for display: each character's English
@@ -67,7 +80,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from build_explorer import DB_PATH, payload  # noqa: E402
-from lib.corpus import GLOSSARY, ROOT, load_chapters, parse_frontmatter  # noqa: E402
+from lib.corpus import (  # noqa: E402
+    GLOSSARY, ROOT, load_chapters, parse_frontmatter, term_where,
+)
 
 OUT = ROOT / "data" / "atlas-export.json"
 BLOB = "https://github.com/opencosmos-ai/taoteching/blob/main/"
@@ -128,7 +143,8 @@ def forms(built):
     return out
 
 
-def entries():
+def entries(chapters=None):
+    chapters = load_chapters() if chapters is None else chapters
     out = []
     for path in sorted(GLOSSARY.glob("*.md")):
         if path.name in ("INDEX.md", "TRIAGE.md"):
@@ -152,6 +168,8 @@ def entries():
             "covers": [c for c, _ in fm.get("covers") or []],
             "shuowen": fm.get("shuowen", ""),
             "body": body.lstrip("\n"),
+            # Where the term stands, by the one rule (lib/corpus.term_where).
+            "where": term_where(term, chapters),
         })
     return out
 

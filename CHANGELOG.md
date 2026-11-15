@@ -31,6 +31,13 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-15 — Where a key term stands, counted once
+
+The Library began counting each chapter's key terms, and its numbers disagreed with `glossary/INDEX.md` on five pairings: INDEX had counted only a pairing's first half. Now one rule counts, here, and everything else reads what it wrote.
+
+- **`term_where()` in `tools/lib/corpus.py`** counts every half of a pairing, line by line, in the chapters' own source tables. `build_index.py` takes its chapter lists from it, so INDEX now has 無 & 有 (*wú / yǒu* — absence / presence) in 57 chapters (was 40), 我 & 吾 (*wǒ / wú* — the self) in 19 (was 7), 歸 & 復 & 反 (*guī / fù / fǎn* — return) in 16 (was 8), 玄 & 妙 (*xuán / miào* — dark / subtle) in 8 (was 7) and 父 & 甫 (*fù / fǔ* — father) in 2 (was 1).
+- **Every entry in the export carries its `where`**, every line it stands in and how often. The Library's Key Terms read it, an opencosmos.ai change that follows this one. The design is in [`ARCHITECTURE.md`](ARCHITECTURE.md) → *How the work reaches readers*.
+
 ## 2026-11-15 — 沖 (chōng) settled: one spelling, two words, and chapter 42 reads "the breath within"
 
 Shalom asked how 沖 could mean both *empty* (chs 4, 45) and *blending* (ch 42). The witnesses answer it: the received text spells two words alike.

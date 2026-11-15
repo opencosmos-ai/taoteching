@@ -13,20 +13,25 @@ Run after adding or changing a glossary entry:
 
     python3 tools/build_index.py
 
-Chapter lists are recomputed from source/chinese.md, so they cannot drift
-out of date. Everything else comes from the entry's own frontmatter.
+Chapter lists are recomputed from the chapters' Chinese by term_where() in
+lib/corpus.py, the one rule for where a term stands, so they cannot drift out
+of date and cannot disagree with the export. Everything else comes from the
+entry's own frontmatter.
 """
 
-import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from lib.corpus import parse_frontmatter  # noqa: E402  — the one frontmatter reader
+from lib.corpus import (  # noqa: E402
+    load_chapters,
+    parse_frontmatter,  # the one frontmatter reader
+    term_chapters,
+    term_where,  # the one rule for where a term stands
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 GLOSSARY = ROOT / "glossary"
-SOURCE = ROOT / "source" / "chinese.md"
 
 # Optional per-term fields, carried through to terms.yaml only when set.
 # Defaults live in lib/corpus.Term: substring / insensitive / error.
@@ -42,19 +47,8 @@ def _render_cell(e):
     return base + (" · " + " · ".join(fx) if fx else "")
 
 
-def chapters_for(term, by_chapter):
-    return [n for n in sorted(by_chapter) if term and term in by_chapter[n]]
-
-
-def load_chapters():
-    if not SOURCE.exists():
-        return {}
-    parts = re.split(r"^## Chapter (\d+)$", SOURCE.read_text(encoding="utf-8"), flags=re.M)
-    return {int(parts[i]): parts[i + 1] for i in range(1, len(parts), 2)}
-
-
 def main():
-    by_chapter = load_chapters()
+    chapters = load_chapters()
     entries = []
     for path in sorted(GLOSSARY.glob("*.md")):
         if path.name in ("INDEX.md", "TRIAGE.md"):
@@ -64,11 +58,11 @@ def main():
             print(f"  ! no frontmatter: {path.name}", file=sys.stderr)
             continue
         fm["file"] = path.name
-        # recompute chapters from the corpus where we can
-        primary = fm.get("term", "").split(" & ")[0].strip()
-        found = chapters_for(primary, by_chapter)
-        if found:
-            fm["chapters"] = [str(n) for n in found]
+        # Always recomputed, every half of a pairing counted: a chapter list
+        # kept by hand, or counted by a second rule, is how INDEX once had
+        # 我 & 吾 in 7 chapters when it stands in 19.
+        where = term_where(fm.get("term", ""), chapters)
+        fm["chapters"] = [str(n) for n in term_chapters(where)]
         entries.append(fm)
 
     # sort by breadth of reach, then by term
