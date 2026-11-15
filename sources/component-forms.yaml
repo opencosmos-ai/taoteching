@@ -15,10 +15,13 @@
 # standard positional variants of traditional typography, not in dispute.
 #
 # WHAT IS LEFT OUT. A part whose side form is still recognizably itself (言, 糸,
-# 金 at the left). And, for now, two forms outside Unicode's main CJK block,
-# which the atlas's rare-character font does not yet carry: ⺮ (竹, bamboo, on
-# top) and ⻊ (足, foot, at the left). Add them when the font subset is rebuilt
-# (chinese-atlas: atlas/fonts.py).
+# 金 at the left).
+#
+# FONTS. Most forms are in Unicode's main CJK block, which every common font
+# sets. ⺮ and ⻊ are in the Radicals Supplement, which only the atlas's
+# rare-glyph font carries (added 2026-11-15). A form from any other block
+# waits until that font is cut again (chinese-atlas: atlas/fonts.py), and
+# tools/tests/test_export_atlas.py refuses it until then.
 #
 # Fields: char (the part, as 說文 names it) · form · where (completes "written
 # <form> …"). One row per form; a part may have several.
@@ -88,4 +91,10 @@
   where: "on top"
 - char: "仌"
   form: "冫"
+  where: "at the left"
+- char: "竹"
+  form: "⺮"
+  where: "on top"
+- char: "足"
+  form: "⻊"
   where: "at the left"
