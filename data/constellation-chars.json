@@ -223,7 +223,7 @@
    "occurrences": 2,
    "construction": "compound",
    "shuowenSection": "桀",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -487,7 +487,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "人",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -597,7 +597,7 @@
    "occurrences": 8,
    "construction": "compound",
    "shuowenSection": "卩",
-   "degree": 6,
+   "degree": 7,
    "x": 0.0,
    "y": 0.0
   },
@@ -751,7 +751,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "左",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -1499,7 +1499,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "共",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -2357,7 +2357,7 @@
    "occurrences": 8,
    "construction": "compound",
    "shuowenSection": "古",
-   "degree": 8,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -2467,7 +2467,7 @@
    "occurrences": 2,
    "construction": "compound",
    "shuowenSection": "口",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -2511,7 +2511,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "口",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -2643,7 +2643,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "口",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -3765,7 +3765,7 @@
    "occurrences": 3,
    "construction": "compound",
    "shuowenSection": "女",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -3963,7 +3963,7 @@
    "occurrences": 3,
    "construction": "compound",
    "shuowenSection": "女",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -4381,7 +4381,7 @@
    "occurrences": 5,
    "construction": "compound",
    "shuowenSection": "宀",
-   "degree": 5,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -4491,7 +4491,7 @@
    "occurrences": 4,
    "construction": "compound",
    "shuowenSection": "宀",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -4953,7 +4953,7 @@
    "occurrences": 5,
    "construction": "compound",
    "shuowenSection": "左",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -5547,7 +5547,7 @@
    "occurrences": 11,
    "construction": "compound",
    "shuowenSection": "彳",
-   "degree": 10,
+   "degree": 12,
    "x": 0.0,
    "y": 0.0
   },
@@ -5677,9 +5677,9 @@
    "triageTier": null,
    "centrality": 0.0261,
    "occurrences": 3,
-   "construction": "compound",
+   "construction": "phonetic-compound",
    "shuowenSection": "从",
-   "degree": 4,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -5855,7 +5855,7 @@
    "occurrences": 14,
    "construction": "phonetic-compound",
    "shuowenSection": "八",
-   "degree": 9,
+   "degree": 10,
    "x": 0.0,
    "y": 0.0
   },
@@ -7109,7 +7109,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "攴",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -7197,7 +7197,7 @@
    "occurrences": 5,
    "construction": "compound",
    "shuowenSection": "攴",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -8891,7 +8891,7 @@
    "occurrences": 3,
    "construction": "compound",
    "shuowenSection": "水",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -9771,7 +9771,7 @@
    "occurrences": 10,
    "construction": "compound",
    "shuowenSection": "𠬪",
-   "degree": 8,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -9837,7 +9837,7 @@
    "occurrences": 2,
    "construction": "compound",
    "shuowenSection": "片",
-   "degree": 3,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -10409,7 +10409,7 @@
    "occurrences": 2,
    "construction": "phonetic-compound",
    "shuowenSection": "用",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -10475,7 +10475,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "攴",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -10651,7 +10651,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "癶",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -10717,7 +10717,7 @@
    "occurrences": 7,
    "construction": "compound",
    "shuowenSection": "𪞶",
-   "degree": 8,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -10783,7 +10783,7 @@
    "occurrences": 9,
    "construction": "compound",
    "shuowenSection": "皿",
-   "degree": 8,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -10805,7 +10805,7 @@
    "occurrences": 6,
    "construction": "compound",
    "shuowenSection": "皿",
-   "degree": 5,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -10959,7 +10959,7 @@
    "occurrences": 9,
    "construction": "compound",
    "shuowenSection": "㐺",
-   "degree": 8,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -11091,7 +11091,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "示",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -11773,7 +11773,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "素",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -12059,7 +12059,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "-{网}-",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -12081,7 +12081,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "-{网}-",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -12125,7 +12125,7 @@
    "occurrences": 5,
    "construction": "compound",
    "shuowenSection": "我",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -12191,7 +12191,7 @@
    "occurrences": 3,
    "construction": "compound",
    "shuowenSection": "老",
-   "degree": 4,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -12301,7 +12301,7 @@
    "occurrences": 2,
    "construction": "phonetic-compound",
    "shuowenSection": "耳",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -12763,7 +12763,7 @@
    "occurrences": 46,
    "construction": "compound",
    "shuowenSection": "艸",
-   "degree": 19,
+   "degree": 20,
    "x": 0.0,
    "y": 0.0
   },
@@ -13203,7 +13203,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "行",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -13423,7 +13423,7 @@
    "occurrences": 3,
    "construction": "compound",
    "shuowenSection": "見",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -13467,7 +13467,7 @@
    "occurrences": 1,
    "construction": "phonetic-compound",
    "shuowenSection": "見",
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -14325,7 +14325,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "貝",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -14369,7 +14369,7 @@
    "occurrences": 1,
    "construction": "compound",
    "shuowenSection": "走",
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -14435,7 +14435,7 @@
    "occurrences": 19,
    "construction": "compound",
    "shuowenSection": "足",
-   "degree": 14,
+   "degree": 15,
    "x": 0.0,
    "y": 0.0
   },
@@ -16635,7 +16635,7 @@
    "occurrences": 4,
    "construction": "compound",
    "shuowenSection": "高",
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -16932,7 +16932,7 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -17247,7 +17247,7 @@
    "pinyin": "zhōng",
    "gloss": "within / center (5) / middling (41)",
    "glossed": true,
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -17771,6 +17771,21 @@
    "han": "仌",
    "pinyin": "bīng",
    "gloss": "ice",
+   "glossed": true,
+   "degree": 2,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:从",
+   "tier": "synthesis",
+   "label": "从 cóng · two people, one following the other",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "从",
+   "pinyin": "cóng",
+   "gloss": "two people, one following the other",
    "glossed": true,
    "degree": 2,
    "x": 0.0,
@@ -18417,7 +18432,7 @@
    "pinyin": "bǐ",
    "gloss": "a spoon, a ladle",
    "glossed": true,
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -18477,7 +18492,7 @@
    "pinyin": "shí",
    "gloss": "ten",
    "glossed": true,
-   "degree": 7,
+   "degree": 8,
    "x": 0.0,
    "y": 0.0
   },
@@ -18552,7 +18567,7 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -18777,7 +18792,7 @@
    "pinyin": "kǒu",
    "gloss": "mouths",
    "glossed": true,
-   "degree": 22,
+   "degree": 27,
    "x": 0.0,
    "y": 0.0
   },
@@ -18867,6 +18882,21 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
+   "degree": 1,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:右",
+   "tier": "synthesis",
+   "label": "右 yòu · right",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "右",
+   "pinyin": "yòu",
+   "gloss": "right",
+   "glossed": true,
    "degree": 1,
    "x": 0.0,
    "y": 0.0
@@ -19302,7 +19332,7 @@
    "pinyin": "tǔ",
    "gloss": "dirt, earth",
    "glossed": true,
-   "degree": 16,
+   "degree": 17,
    "x": 0.0,
    "y": 0.0
   },
@@ -19457,6 +19487,21 @@
    "y": 0.0
   },
   {
+   "id": "part:夃",
+   "tier": "synthesis",
+   "label": "夃  · not yet glossed",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "夃",
+   "pinyin": null,
+   "gloss": null,
+   "glossed": false,
+   "degree": 1,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
    "id": "part:夅",
    "tier": "synthesis",
    "label": "夅  · sound only — carries no meaning",
@@ -19482,7 +19527,7 @@
    "pinyin": "suī",
    "gloss": "walking slowly, dragging the feet",
    "glossed": true,
-   "degree": 3,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -19737,7 +19782,7 @@
    "pinyin": "zǐ",
    "gloss": "child (君子, the noble; 子孫, descendants)",
    "glossed": true,
-   "degree": 7,
+   "degree": 8,
    "x": 0.0,
    "y": 0.0
   },
@@ -20112,7 +20157,7 @@
    "pinyin": "gōng",
    "gloss": "a carpenter's square — work, craft",
    "glossed": true,
-   "degree": 7,
+   "degree": 9,
    "x": 0.0,
    "y": 0.0
   },
@@ -20127,7 +20172,7 @@
    "pinyin": "jǐ",
    "gloss": "oneself / themselves",
    "glossed": true,
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -20187,7 +20232,7 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -20233,6 +20278,21 @@
    "gloss": null,
    "glossed": false,
    "degree": 3,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:幺",
+   "tier": "synthesis",
+   "label": "幺 yāo · tiny; a small twist of silk",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "幺",
+   "pinyin": "yāo",
+   "gloss": "tiny; a small twist of silk",
+   "glossed": true,
+   "degree": 1,
    "x": 0.0,
    "y": 0.0
   },
@@ -20337,7 +20397,7 @@
    "pinyin": "gǒng",
    "gloss": "two hands raised together",
    "glossed": true,
-   "degree": 5,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -20382,7 +20442,7 @@
    "pinyin": "yì",
    "gloss": "a stake; a tethered arrow",
    "glossed": true,
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -20697,7 +20757,7 @@
    "pinyin": "hù",
    "gloss": "doors",
    "glossed": true,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -21287,6 +21347,21 @@
    "y": 0.0
   },
   {
+   "id": "part:桀",
+   "tier": "synthesis",
+   "label": "桀  · not yet glossed",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "桀",
+   "pinyin": null,
+   "gloss": null,
+   "glossed": false,
+   "degree": 1,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
    "id": "part:條",
    "tier": "synthesis",
    "label": "條  · sound only — carries no meaning",
@@ -21357,7 +21432,7 @@
    "pinyin": "zhǐ",
    "gloss": "stop / halt",
    "glossed": true,
-   "degree": 5,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -21506,6 +21581,21 @@
    "han": "比",
    "pinyin": "bǐ",
    "gloss": "be like, compare to",
+   "glossed": true,
+   "degree": 1,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:毛",
+   "tier": "synthesis",
+   "label": "毛 máo · hair, fur",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "毛",
+   "pinyin": "máo",
+   "gloss": "hair, fur",
    "glossed": true,
    "degree": 1,
    "x": 0.0,
@@ -21762,7 +21852,7 @@
    "pinyin": "fù",
    "gloss": "father",
    "glossed": true,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -22017,7 +22107,7 @@
    "pinyin": "fǔ",
    "gloss": "father",
    "glossed": true,
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -22047,7 +22137,7 @@
    "pinyin": "tián",
    "gloss": "field",
    "glossed": true,
-   "degree": 2,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -22287,7 +22377,7 @@
    "pinyin": "bái",
    "gloss": "white / clarity (明白, 10)",
    "glossed": true,
-   "degree": 3,
+   "degree": 4,
    "x": 0.0,
    "y": 0.0
   },
@@ -22324,15 +22414,15 @@
   {
    "id": "part:皿",
    "tier": "synthesis",
-   "label": "皿  · not yet glossed",
+   "label": "皿 mǐn · a dish, a vessel",
    "tradition": "taoism",
    "domain": "wisdom",
    "category": "component",
    "han": "皿",
-   "pinyin": null,
-   "gloss": null,
-   "glossed": false,
-   "degree": 1,
+   "pinyin": "mǐn",
+   "gloss": "a dish, a vessel",
+   "glossed": true,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -22377,7 +22467,7 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -22392,7 +22482,7 @@
    "pinyin": "mù",
    "gloss": "eye",
    "glossed": true,
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
@@ -22407,7 +22497,7 @@
    "pinyin": "zhí",
    "gloss": "straight / straightness",
    "glossed": true,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -22557,7 +22647,22 @@
    "pinyin": "shì",
    "gloss": "show",
    "glossed": true,
-   "degree": 10,
+   "degree": 11,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:祭",
+   "tier": "synthesis",
+   "label": "祭 jì · offering (祭祀, offering sacrifices)",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "祭",
+   "pinyin": "jì",
+   "gloss": "offering (祭祀, offering sacrifices)",
+   "glossed": true,
+   "degree": 1,
    "x": 0.0,
    "y": 0.0
   },
@@ -22812,7 +22917,7 @@
    "pinyin": "yáng",
    "gloss": "a sheep",
    "glossed": true,
-   "degree": 5,
+   "degree": 6,
    "x": 0.0,
    "y": 0.0
   },
@@ -23592,22 +23697,22 @@
    "pinyin": "Gǔ",
    "gloss": "valley",
    "glossed": true,
-   "degree": 4,
+   "degree": 5,
    "x": 0.0,
    "y": 0.0
   },
   {
    "id": "part:豆",
    "tier": "synthesis",
-   "label": "豆  · sound only — carries no meaning",
+   "label": "豆 dòu · a food vessel on a tall stem",
    "tradition": "taoism",
    "domain": "wisdom",
    "category": "component",
    "han": "豆",
-   "pinyin": null,
-   "gloss": null,
-   "glossed": false,
-   "degree": 2,
+   "pinyin": "dòu",
+   "gloss": "a food vessel on a tall stem",
+   "glossed": true,
+   "degree": 3,
    "x": 0.0,
    "y": 0.0
   },
@@ -23682,7 +23787,7 @@
    "pinyin": "bèi",
    "gloss": "a cowrie shell — money, worth",
    "glossed": true,
-   "degree": 14,
+   "degree": 16,
    "x": 0.0,
    "y": 0.0
   },
@@ -23712,6 +23817,21 @@
    "pinyin": "zé",
    "gloss": "ask for / exact payment",
    "glossed": true,
+   "degree": 1,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:賏",
+   "tier": "synthesis",
+   "label": "賏  · not yet glossed",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "賏",
+   "pinyin": null,
+   "gloss": null,
+   "glossed": false,
    "degree": 1,
    "x": 0.0,
    "y": 0.0
@@ -24207,7 +24327,7 @@
    "pinyin": "fēi",
    "gloss": "is not / not / is it not?",
    "glossed": true,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -24492,7 +24612,7 @@
    "pinyin": null,
    "gloss": null,
    "glossed": false,
-   "degree": 1,
+   "degree": 2,
    "x": 0.0,
    "y": 0.0
   },
@@ -24523,6 +24643,21 @@
    "gloss": null,
    "glossed": false,
    "degree": 3,
+   "x": 0.0,
+   "y": 0.0
+  },
+  {
+   "id": "part:𠂹",
+   "tier": "synthesis",
+   "label": "𠂹  · not yet glossed",
+   "tradition": "taoism",
+   "domain": "wisdom",
+   "category": "component",
+   "han": "𠂹",
+   "pinyin": null,
+   "gloss": null,
+   "glossed": false,
+   "degree": 1,
    "x": 0.0,
    "y": 0.0
   },
@@ -26291,6 +26426,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:桀",
+   "target": "char:乘",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:乙",
    "target": "char:亂",
    "type": "builds_semantic"
@@ -26361,6 +26501,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:十",
+   "target": "char:什",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:二",
    "target": "char:仁",
    "type": "builds_semantic"
@@ -26402,6 +26547,11 @@
   },
   {
    "source": "part:亼",
+   "target": "char:令",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:卪",
    "target": "char:令",
    "type": "builds_semantic"
   },
@@ -26468,6 +26618,11 @@
   {
    "source": "part:人",
    "target": "char:似",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:工",
+   "target": "char:佐",
    "type": "builds_semantic"
   },
   {
@@ -26718,6 +26873,11 @@
   {
    "source": "part:八",
    "target": "char:六",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:廾",
+   "target": "char:共",
    "type": "builds_semantic"
   },
   {
@@ -27071,6 +27231,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:口",
+   "target": "char:古",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:刀",
    "target": "char:召",
    "type": "builds_phonetic"
@@ -27121,6 +27286,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:夊",
+   "target": "char:各",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:亼",
    "target": "char:合",
    "type": "builds_semantic"
@@ -27128,6 +27298,11 @@
   {
    "source": "part:口",
    "target": "char:合",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:口",
+   "target": "char:吉",
    "type": "builds_semantic"
   },
   {
@@ -27178,6 +27353,11 @@
   {
    "source": "part:欠",
    "target": "char:吹",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:口",
+   "target": "char:周",
    "type": "builds_semantic"
   },
   {
@@ -27656,6 +27836,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:子",
+   "target": "char:好",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:也",
    "target": "char:如",
    "type": "builds_semantic"
@@ -27732,6 +27917,11 @@
   },
   {
    "source": "part:女",
+   "target": "char:嬰",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:賏",
    "target": "char:嬰",
    "type": "builds_semantic"
   },
@@ -27946,6 +28136,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:谷",
+   "target": "char:容",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:奇",
    "target": "char:寄",
    "type": "builds_phonetic"
@@ -27987,6 +28182,11 @@
   },
   {
    "source": "part:宀",
+   "target": "char:察",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:祭",
    "target": "char:察",
    "type": "builds_semantic"
   },
@@ -28174,6 +28374,11 @@
    "source": "part:蜀",
    "target": "char:屬",
    "type": "builds_phonetic"
+  },
+  {
+   "source": "part:工",
+   "target": "char:左",
+   "type": "builds_semantic"
   },
   {
    "source": "part:𠂇",
@@ -28396,6 +28601,16 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:夊",
+   "target": "char:後",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:幺",
+   "target": "char:後",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:彳",
    "target": "char:後",
    "type": "builds_semantic"
@@ -28428,6 +28643,16 @@
   {
    "source": "part:彳",
    "target": "char:得",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:从",
+   "target": "char:從",
+   "type": "builds_phonetic"
+  },
+  {
+   "source": "part:从",
+   "target": "char:從",
    "type": "builds_semantic"
   },
   {
@@ -28509,6 +28734,11 @@
    "source": "part:弋",
    "target": "char:必",
    "type": "builds_phonetic"
+  },
+  {
+   "source": "part:弋",
+   "target": "char:必",
+   "type": "builds_semantic"
   },
   {
    "source": "part:己",
@@ -29046,6 +29276,11 @@
    "type": "builds_phonetic"
   },
   {
+   "source": "part:己",
+   "target": "char:改",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:攴",
    "target": "char:改",
    "type": "builds_semantic"
@@ -29087,6 +29322,11 @@
   },
   {
    "source": "part:攴",
+   "target": "char:敗",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:貝",
    "target": "char:敗",
    "type": "builds_semantic"
   },
@@ -29726,6 +29966,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:中",
+   "target": "char:沖",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:水",
    "target": "char:沖",
    "type": "builds_semantic"
@@ -30056,6 +30301,11 @@
    "type": "builds_phonetic"
   },
   {
+   "source": "part:𠂆",
+   "target": "char:爭",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:𠬪",
    "target": "char:爭",
    "type": "builds_semantic"
@@ -30086,7 +30336,17 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:戶",
+   "target": "char:牖",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:片",
+   "target": "char:牖",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:甫",
    "target": "char:牖",
    "type": "builds_semantic"
   },
@@ -30286,6 +30546,11 @@
    "type": "builds_phonetic"
   },
   {
+   "source": "part:父",
+   "target": "char:甫",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:用",
    "target": "char:甫",
    "type": "builds_semantic"
@@ -30322,6 +30587,11 @@
   },
   {
    "source": "part:攴",
+   "target": "char:畋",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:田",
    "target": "char:畋",
    "type": "builds_semantic"
   },
@@ -30391,6 +30661,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:豆",
+   "target": "char:登",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:弓",
    "target": "char:發",
    "type": "builds_semantic"
@@ -30421,6 +30696,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:白",
+   "target": "char:百",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:比",
    "target": "char:皆",
    "type": "builds_semantic"
@@ -30441,12 +30721,22 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:夃",
+   "target": "char:盈",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:皿",
    "target": "char:盈",
    "type": "builds_semantic"
   },
   {
    "source": "part:水",
+   "target": "char:益",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:皿",
    "target": "char:益",
    "type": "builds_semantic"
   },
@@ -30511,6 +30801,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:目",
+   "target": "char:眾",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:今",
    "target": "char:矜",
    "type": "builds_phonetic"
@@ -30543,6 +30838,11 @@
   {
    "source": "part:𠄞",
    "target": "char:示",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:土",
+   "target": "char:社",
    "type": "builds_semantic"
   },
   {
@@ -30861,6 +31161,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:𠂹",
+   "target": "char:素",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:畾",
    "target": "char:累",
    "type": "builds_phonetic"
@@ -30976,6 +31281,16 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:非",
+   "target": "char:罪",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:直",
+   "target": "char:置",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:网",
    "target": "char:置",
    "type": "builds_semantic"
@@ -30992,6 +31307,11 @@
   },
   {
    "source": "part:我",
+   "target": "char:義",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:羊",
    "target": "char:義",
    "type": "builds_semantic"
   },
@@ -31017,6 +31337,16 @@
   },
   {
    "source": "part:人",
+   "target": "char:老",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:匕",
+   "target": "char:老",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:毛",
    "target": "char:老",
    "type": "builds_semantic"
   },
@@ -31048,6 +31378,11 @@
   {
    "source": "part:耳",
    "target": "char:聲",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:㥁",
+   "target": "char:聽",
    "type": "builds_semantic"
   },
   {
@@ -31246,6 +31581,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:右",
+   "target": "char:若",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:艸",
    "target": "char:若",
    "type": "builds_semantic"
@@ -31421,6 +31761,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:帀",
+   "target": "char:衛",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:行",
    "target": "char:衛",
    "type": "builds_semantic"
@@ -31501,6 +31846,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:示",
+   "target": "char:視",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:見",
    "target": "char:視",
    "type": "builds_semantic"
@@ -31519,6 +31869,11 @@
    "source": "part:監",
    "target": "char:覽",
    "type": "builds_phonetic"
+  },
+  {
+   "source": "part:監",
+   "target": "char:覽",
+   "type": "builds_semantic"
   },
   {
    "source": "part:見",
@@ -31906,6 +32261,11 @@
    "type": "builds_semantic"
   },
   {
+   "source": "part:貝",
+   "target": "char:贅",
+   "type": "builds_semantic"
+  },
+  {
    "source": "part:大",
    "target": "char:赤",
    "type": "builds_semantic"
@@ -31917,6 +32277,11 @@
   },
   {
    "source": "part:夭",
+   "target": "char:走",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:止",
    "target": "char:走",
    "type": "builds_semantic"
   },
@@ -31938,6 +32303,11 @@
   {
    "source": "part:走",
    "target": "char:超",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:口",
+   "target": "char:足",
    "type": "builds_semantic"
   },
   {
@@ -32937,6 +33307,11 @@
   },
   {
    "source": "part:冂",
+   "target": "char:高",
+   "type": "builds_semantic"
+  },
+  {
+   "source": "part:口",
    "target": "char:高",
    "type": "builds_semantic"
   },

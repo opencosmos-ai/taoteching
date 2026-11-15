@@ -50,7 +50,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 久 | 久 | exact | 久 | pictograph |  |  |  | 以後灸之，象人兩脛後有距也。《周禮》曰：“久諸牆以觀其橈。”凡久之屬皆从久。 |
 | 之 | 之 | exact | 之 | pictograph |  |  |  | 出也。象艸過屮，枝莖益大，有所之。一者，地也。凡之之屬皆从之。 |
 | 乎 | 乎 | exact | 兮 | compound | 兮 |  |  | 語之餘也。从兮，象聲上越揚之形也。 |
-| 乘 | 椉 | old-form | 桀 | compound | 入 |  |  | 覆也。从入、桀。桀，黠也。軍法曰乘。 |
+| 乘 | 椉 | old-form | 桀 | compound | 入桀 |  |  | 覆也。从入、桀。桀，黠也。軍法曰乘。 |
 | 九 | 九 | exact | 九 | pictograph |  |  |  | 陽之變也。象其屈曲究盡之形。凡九之屬皆从九。 |
 | 也 | 也 | exact | 乁 | pictograph |  |  |  | 女陰也。象形。 |
 | 亂 | 亂 | exact | 乙 | compound | 乙𤔔 |  |  | 治也。从乙，乙，治之也；从𤔔。 |
@@ -63,12 +63,12 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 享 | 亯 | old-form | 亯 | compound | 高 |  |  | 獻也。从高省，曰象進孰物形。《孝經》曰：“祭則鬼亯之。”凡亯之屬皆从亯。 |
 | 亭 | 亭 | exact | 高 | phonetic-compound | 高 | 丁 |  | 民所安定也。亭有樓，从高省，丁聲。 |
 | 人 | 人 | exact | 人 | pictograph |  |  |  | 天地之性最貴者也。此籒文。象臂脛之形。凡人之屬皆从人。 |
-| 什 | 什 | exact | 人 | compound | 人 |  |  | 相什保也。从人、十。 |
+| 什 | 什 | exact | 人 | compound | 人十 |  |  | 相什保也。从人、十。 |
 | 仁 | 仁 | exact | 人 | compound | 人二 |  |  | 親也。从人从二。 |
 | 今 | 今 | exact | 亼 | compound | 亼乁 |  |  | 是時也。从亼从乁。乁，古文及。 |
 | 介 | 介 | exact | 八 | compound | 八人 |  |  | 畫也。从八从人。人各有介。 |
 | 代 | 代 | exact | 人 | phonetic-compound | 人 | 弋 |  | 更也。从人弋聲。 |
-| 令 | 令 | exact | 卩 | compound | 亼 |  |  | 發號也。从亼、卪。 |
+| 令 | 令 | exact | 卩 | compound | 亼卪 |  |  | 發號也。从亼、卪。 |
 | 以 | 㠯 | old-form | 巳 | compound | 反巳 |  |  | 用也。从反巳。賈侍中說：巳，意巳實也。象形。 |
 | 企 | 企 | exact | 人 | phonetic-compound | 人 | 止 |  | 舉踵也。从人止聲。 |
 | 伎 | 伎 | exact | 人 | phonetic-compound | 人 | 支 |  | 與也。从人支聲。《詩》曰：“𥷤人伎忒。” |
@@ -76,7 +76,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 伐 | 伐 | exact | 人 | compound | 人持戈 |  |  | 擊也。从人持戈。一曰敗也。 |
 | 伯 | 伯 | exact | 人 | phonetic-compound | 人 | 白 |  | 長也。从人白聲。 |
 | 似 | 佀 | old-form | 人 | phonetic-compound | 人 | 㠯 |  | 象也。从人㠯聲。 |
-| 佐 | 左 | old-form | 左 | compound | 𠂇 |  |  | 手相左助也。从𠂇、工。凡左之屬皆从左。 |
+| 佐 | 左 | old-form | 左 | compound | 𠂇工 |  |  | 手相左助也。从𠂇、工。凡左之屬皆从左。 |
 | 何 | 何 | exact | 人 | phonetic-compound | 人 | 可 |  | 儋也。从人可聲。 |
 | 作 | 作 | exact | 人 | compound | 人乍 |  |  | 起也。从人从乍。 |
 | 佳 | 佳 | exact | 人 | phonetic-compound | 人 | 圭 |  | 善也。从人圭聲。 |
@@ -111,7 +111,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 公 | 公 | exact | 八 | compound | 八厶 |  |  | 平分也。从八从厶。八猶背也。韓非曰：背厶爲公。 |
 | 六 | 六 | exact | 六 | compound | 入八 |  |  | 《易》之數，陰變於六，正於八。从入从八。凡六之屬皆从六。 |
 | 兮 | 兮 | exact | 兮 | compound | 丂 |  |  | 語所稽也。从丂，八象气越亏也。凡兮之屬皆从兮。 |
-| 共 | 共 | exact | 共 | compound | 廿 |  |  | 同也。从廿、廾。凡共之屬皆从共。 |
+| 共 | 共 | exact | 共 | compound | 廿廾 |  |  | 同也。从廿、廾。凡共之屬皆从共。 |
 | 兵 | 兵 | exact | 𠬞 | compound | 廾持斤 |  |  | 械也。从廾持斤，并力之皃。 |
 | 兼 | 兼 | exact | 秝 | compound | 又持秝 |  |  | 并也。从又持秝。兼持二禾，秉持一禾。 |
 | 冥 | 冥 | exact | 冥 | phonetic-compound | 日六 | 冖 |  | 幽也。从日从六，冖聲。日數十。十六日而月始虧幽也。凡冥之屬皆从冥。 |
@@ -152,21 +152,21 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 取 | 取 | exact | 又 | compound | 又耳 |  |  | 捕取也。从又从耳。《周禮》：“獲者取左耳。”《司馬法》曰：“載獻聝。”聝者，耳也。 |
 | 受 | 受 | exact | 𠬪 | phonetic-compound | 𠬪 | 舟 |  | 相付也。从𠬪，舟省聲。 |
 | 口 | 口 | exact | 口 | pictograph |  |  |  | 人所以言食也。象形。凡口之屬皆从口。 |
-| 古 | 古 | exact | 古 | compound | 十 |  |  | 故也。从十、口。識前言者也。凡古之屬皆从古。 |
+| 古 | 古 | exact | 古 | compound | 十口 |  |  | 故也。从十、口。識前言者也。凡古之屬皆从古。 |
 | 召 | 召 | exact | 口 | phonetic-compound | 口 | 刀 |  | 𧦝也。从口刀聲。 |
 | 可 | 可 | exact | 可 | phonetic-compound | 口丂 | 丂 |  | 𦘫也。从口丂，丂亦聲。凡可之屬皆从可。 |
 | 右 | 右 | exact | 口 | compound | 口又 |  |  | 助也。从口从又。 |
 | 司 | 司 | exact | 司 | compound | 反后 |  |  | 臣司事於外者。从反后。凡司之屬皆从司。 |
-| 各 | 各 | exact | 口 | compound | 口 |  |  | 異辭也。从口、夊。夊者，有行而止之，不相聽也。 |
+| 各 | 各 | exact | 口 | compound | 口夊 |  |  | 異辭也。从口、夊。夊者，有行而止之，不相聽也。 |
 | 合 | 合 | exact | 亼 | compound | 亼口 |  |  | 合口也。从亼从口。 |
-| 吉 | 吉 | exact | 口 | compound | 士 |  |  | 善也。从士、口。 |
+| 吉 | 吉 | exact | 口 | compound | 士口 |  |  | 善也。从士、口。 |
 | 同 | 同 | exact | 𠔼 | compound | 𠔼口 |  |  | 合會也。从𠔼从口。 |
 | 名 | 名 | exact | 口 | compound | 口夕 |  |  | 自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。 |
 | 君 | 君 | exact | 口 | compound | 尹 |  |  | 尊也。从尹。發號，故从口。 |
 | 含 | 含 | exact | 口 | phonetic-compound | 口 | 今 |  | 嗛也。从口今聲。 |
 | 吹 | 吹 | exact | 口 | compound | 口欠 |  |  | 噓也。从口从欠。 |
 | 吾 | 吾 | exact | 口 | phonetic-compound | 口 | 五 |  | 我，自稱也。从口五聲。 |
-| 周 | 周 | exact | 口 | compound | 用 |  |  | 密也。从用、口。 |
+| 周 | 周 | exact | 口 | compound | 用口 |  |  | 密也。从用、口。 |
 | 味 | 味 | exact | 口 | phonetic-compound | 口 | 未 |  | 滋味也。从口未聲。 |
 | 命 | 命 | exact | 口 | compound | 口令 |  |  | 使也。从口从令。 |
 | 和 | 和 | exact | 口 | phonetic-compound | 口 | 禾 |  | 相譍也。从口禾聲。 |
@@ -217,14 +217,14 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 奢 | 奢 | exact | 奢 | phonetic-compound | 大 | 者 |  | 張也。从大者聲。凡奢之屬皆从奢。 |
 | 奧 | 奧 | exact | 宀 | phonetic-compound | 宀 | 𢍏 |  | 宛也。室之西南隅。从宀𢍏聲。 |
 | 奪 | 奪 | exact | 奞 | compound | 又奞 |  |  | 手持隹失之也。从又从奞。 |
-| 好 | 好 | exact | 女 | compound | 女 |  |  | 美也。从女、子。 |
+| 好 | 好 | exact | 女 | compound | 女子 |  |  | 美也。从女、子。 |
 | 如 | 如 | exact | 女 | compound | 隨也女口 |  |  | 从隨也。从女从口。 |
 | 妄 | 妄 | exact | 女 | phonetic-compound | 女 | 亡 |  | 亂也。从女亡聲。 |
 | 妨 | 妨 | exact | 女 | phonetic-compound | 女 | 方 |  | 害也。从女方聲。 |
 | 始 | 始 | exact | 女 | phonetic-compound | 女 | 台 |  | 女之初也。从女台聲。 |
 | 姓 | 姓 | exact | 女 | phonetic-compound | 女生 | 生 |  | 人所生也。古之神聖母，感天而生子，故稱天子。从女从生，生亦聲。《春秋傳》曰：“天子因生以賜姓。” |
 | 威 | 威 | exact | 女 | compound | 女戌 |  |  | 姑也。从女从戌。漢律曰：“婦告威姑。” |
-| 嬰 | 嬰 | exact | 女 | compound | 女 |  |  | 頸飾也。从女、賏。賏，其連也。 |
+| 嬰 | 嬰 | exact | 女 | compound | 女賏 |  |  | 頸飾也。从女、賏。賏，其連也。 |
 | 子 | 子 | exact | 子 | pictograph |  |  |  | 十一月，陽气動，萬物滋，人以爲偁。象形。凡子之屬皆从子。 |
 | 孔 | 孔 | exact | 𠃉 | compound | 𠃉子 |  |  | 通也。从𠃉从子。𠃉，請子之候鳥也。𠃉至而得子，嘉美之也。古人名嘉字子孔。 |
 | 字 | 字 | exact | 子 | phonetic-compound | 子在宀下 | 子 |  | 乳也。从子在宀下，子亦聲。 |
@@ -245,11 +245,11 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 宰 | 宰 | exact | 宀 | compound | 宀辛 |  |  | 辠人在屋下執事者。从宀从辛。辛，辠也。 |
 | 害 | 害 | exact | 宀 | phonetic-compound | 宀口 | 丯 |  | 傷也。从宀从口。宀、口，言从家起也。丯聲。 |
 | 家 | 家 | exact | 宀 | phonetic-compound | 宀 | 豭 |  | 居也。从宀，豭省聲。 |
-| 容 | 容 | exact | 宀 | compound | 宀 |  |  | 盛也。从宀、谷。 |
+| 容 | 容 | exact | 宀 | compound | 宀谷 |  |  | 盛也。从宀、谷。 |
 | 寄 | 寄 | exact | 宀 | phonetic-compound | 宀 | 奇 |  | 託也。从宀奇聲。 |
 | 富 | 富 | exact | 宀 | phonetic-compound | 宀 | 畐 |  | 備也。一曰厚也。从宀畐聲。 |
 | 寒 | 寒 | exact | 宀 | compound | 人在宀下 |  |  | 凍也。从人在宀下，以茻薦覆之，下有仌。 |
-| 察 | 察 | exact | 宀 | compound | 宀 |  |  | 覆也。从宀、祭。 |
+| 察 | 察 | exact | 宀 | compound | 宀祭 |  |  | 覆也。从宀、祭。 |
 | 寡 | 寡 | exact | 宀 | compound | 宀頒 |  |  | 少也。从宀从頒。頒，分賦也，故爲少。 |
 | 實 | 實 | exact | 宀 | compound | 宀貫 |  |  | 富也。从宀从貫。貫，貨貝也。 |
 | 寧 | 寧 | exact | 丂 | phonetic-compound | 丂 | 寍 |  | 願詞也。从丂寍聲。 |
@@ -269,7 +269,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 層 | 層 | exact | -{尸}- | phonetic-compound | 尸 | 曾 |  | 重屋也。从尸曾聲。 |
 | 屬 | 屬 | exact | 尾 | phonetic-compound | 尾 | 蜀 |  | 連也。从尾蜀聲。 |
 | 川 | 川 | exact | 川 | unanalysed |  |  |  | 貫穿通流水也。《虞書》曰：“濬𡿨巜，距川。”言深𡿨巜之水會爲川也。凡川之屬皆从川。 |
-| 左 | 左 | exact | 左 | compound | 𠂇 |  |  | 手相左助也。从𠂇、工。凡左之屬皆从左。 |
+| 左 | 左 | exact | 左 | compound | 𠂇工 |  |  | 手相左助也。从𠂇、工。凡左之屬皆从左。 |
 | 巧 | 巧 | exact | 工 | phonetic-compound | 工 | 丂 |  | 技也。从工丂聲。 |
 | 己 | 己 | exact | 己 | pictograph |  |  |  | 中宮也。象萬物辟藏詘形也。己承戊，象人腹。凡己之屬皆从己。 |
 | 已 | 巳 | orthographic | 巳 | pictograph |  |  |  | 巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。凡巳之屬皆从巳。 |
@@ -297,11 +297,11 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 彰 | 彰 | exact | 彡 | phonetic-compound | 彡章 | 章 |  | 文彰也。从彡从章，章亦聲。 |
 | 彼 | 彼 | exact | 彳 | phonetic-compound | 彳 | 皮 |  | 往，有所加也。从彳皮聲。 |
 | 往 | 往 | exact | 彳 | phonetic-compound | 彳 | 㞷 |  | 之也。从彳㞷聲。 |
-| 後 | 後 | exact | 彳 | compound | 彳 |  |  | 遲也。从彳、幺、夊者，後也。 |
+| 後 | 後 | exact | 彳 | compound | 彳幺夊 |  |  | 遲也。从彳、幺、夊者，後也。 |
 | 徐 | 徐 | exact | 彳 | phonetic-compound | 彳 | 余 |  | 安行也。从彳余聲。 |
 | 徑 | 徑 | exact | 彳 | phonetic-compound | 彳 | 巠 |  | 步道也。从彳巠聲。 |
 | 得 | 得 | exact | 彳 | phonetic-compound | 彳 | 㝵 |  | 行有所得也。从彳㝵聲。 |
-| 從 | 從 | exact | 从 | compound | 辵 |  |  | 隨行也。从辵、从，从亦聲。 |
+| 從 | 從 | exact | 从 | phonetic-compound | 辵从 | 从 |  | 隨行也。从辵、从，从亦聲。 |
 | 御 | 御 | exact | 彳 | compound | 彳卸 |  |  | 使馬也。从彳从卸。 |
 | 復 | 復 | exact | 彳 | phonetic-compound | 彳 | 复 |  | 往來也。从彳复聲。 |
 | 微 | 微 | exact | 彳 | phonetic-compound | 彳 | 𢼸 |  | 隱行也。从彳𢼸聲。春秋傳曰：“白公其徒微之。” |
@@ -309,7 +309,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 徹 | 徹 | exact | 攴 | compound | 彳攴育 |  |  | 通也。从彳从攴从育。 |
 | 徼 | 徼 | exact | 彳 | phonetic-compound | 彳 | 敫 |  | 循也。从彳敫聲。 |
 | 心 | 心 | exact | 心 | pictograph |  |  |  | 人心，土藏，在身之中。象形。博士說以爲火藏。凡心之屬皆从心。 |
-| 必 | 必 | exact | 八 | phonetic-compound | 八 | 弋 |  | 分極也。从八、弋，弋亦聲。 |
+| 必 | 必 | exact | 八 | phonetic-compound | 八弋 | 弋 |  | 分極也。从八、弋，弋亦聲。 |
 | 忌 | 忌 | exact | 心 | phonetic-compound | 心 | 己 |  | 憎惡也。从心己聲。 |
 | 忒 | 忒 | exact | 心 | phonetic-compound | 心 | 弋 |  | 更也。从心弋聲。 |
 | 志 | 志 | exact | 心 | phonetic-compound | 心 | 之 |  | 意也。从心之聲。 |
@@ -366,12 +366,12 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 攘 | 攘 | exact | 手 | phonetic-compound | 手 | 襄 |  | 推也。从手襄聲。 |
 | 攝 | 攝 | exact | 手 | phonetic-compound | 手 | 聶 |  | 引持也。从手聶聲。 |
 | 攫 | 攫 | exact | 手 | phonetic-compound | 手 | 矍 |  | 扟也。从手矍聲。 |
-| 改 | 改 | exact | 攴 | compound | 攴 |  |  | 更也。从攴、己。李陽冰曰：“已有過，攴之卽改。” |
+| 改 | 改 | exact | 攴 | compound | 攴己 |  |  | 更也。从攴、己。李陽冰曰：“已有過，攴之卽改。” |
 | 攻 | 攻 | exact | 攴 | phonetic-compound | 攴 | 工 |  | 擊也。从攴工聲。 |
 | 政 | 政 | exact | 攴 | phonetic-compound | 攴正 | 正 |  | 正也。从攴从正，正亦聲。 |
 | 故 | 故 | exact | 攴 | phonetic-compound | 攴 | 古 |  | 使爲之也。从攴古聲。 |
 | 救 | 救 | exact | 攴 | phonetic-compound | 攴 | 求 |  | 止也。从攴求聲。 |
-| 敗 | 敗 | exact | 攴 | compound | 攴 |  |  | 毀也。从攴、貝。敗、賊皆从貝，會意。 |
+| 敗 | 敗 | exact | 攴 | compound | 攴貝 |  |  | 毀也。从攴、貝。敗、賊皆从貝，會意。 |
 | 教 | 教 | exact | 教 | compound | 攴孝 |  |  | 上所施下所效也。从攴从孝。凡教之屬皆从教。 |
 | 敝 | 敝 | exact | 㡀 | phonetic-compound | 攴㡀 | 㡀 |  | 帗也。一曰敗衣。从攴从㡀，㡀亦聲。 |
 | 敦 | 敦 | exact | 攴 | phonetic-compound | 攴 | 𦎫 |  | 怒也。詆也。一曰誰何也。从攴𦎫聲。 |
@@ -393,7 +393,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 春 | 萅 | old-form | 艸 | phonetic-compound | 艸日 | 屯 |  | 推也。从艸从日，艸春時生也；屯聲。 |
 | 昧 | 昧 | exact | 日 | phonetic-compound | 日 | 未 |  | 爽，旦明也。从日未聲。一曰闇也。 |
 | 昭 | 昭 | exact | 日 | phonetic-compound | 日 | 召 |  | 日明也。从日召聲。 |
-| 是 | 是 | exact | 是 | compound | 日 |  |  | 直也。从日、正。凡是之屬皆从是。 |
+| 是 | 是 | exact | 是 | compound | 日正 |  |  | 直也。从日、正。凡是之屬皆从是。 |
 | 時 | 時 | exact | 日 | phonetic-compound | 日 | 寺 |  | 四時也。从日寺聲。 |
 | 晚 | 晚 | exact | 日 | phonetic-compound | 日 | 免 |  | 莫也。从日免聲。 |
 | 普 | 普 | exact | 日 | compound | 日並 |  |  | 日無色也。从日从並。 |
@@ -446,7 +446,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 水 | 水 | exact | 水 | pictograph |  |  |  | 凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。 |
 | 汎 | 汎 | exact | 水 | phonetic-compound | 水 | 凡 |  | 浮皃。从水凡聲。 |
 | 江 | 江 | exact | 水 | phonetic-compound | 水 | 工 |  | 水。出蜀湔氐徼外崏山，入海。从水工聲。 |
-| 沖 | 沖 | exact | 水 | compound | 水 |  |  | 涌搖也。从水、中。讀若動。 |
+| 沖 | 沖 | exact | 水 | compound | 水中 |  |  | 涌搖也。从水、中。讀若動。 |
 | 没 | 沒 | orthographic | 水 | compound | 水𠬸 |  |  | 沈也。从水从𠬸。 |
 | 治 | 治 | exact | 水 | phonetic-compound | 水 | 台 |  | 水。出東萊曲城陽丘山，南入海。从水台聲。 |
 | 況 | 況 | exact | 水 | phonetic-compound | 水 | 兄 |  | 寒水也。从水兄聲。 |
@@ -483,10 +483,10 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 燕 | 燕 | exact | 燕 | pictograph |  |  |  | 玄鳥也。籋口，布翄，枝尾。象形。凡燕之屬皆从燕。 |
 | 營 | 營 | exact | 宮 | phonetic-compound | 宮 | 熒 |  | 市居也。从宮，熒省聲。 |
 | 爪 | 爪 | exact | 爪 | pictograph |  |  |  | 丮也。覆手曰爪。象形。凡爪之屬皆从爪。 |
-| 爭 | 爭 | exact | 𠬪 | compound | 𠬪 |  |  | 引也。从𠬪、𠂆。 |
+| 爭 | 爭 | exact | 𠬪 | compound | 𠬪𠂆 |  |  | 引也。从𠬪、𠂆。 |
 | 父 | 父 | exact | 又 | compound | 又舉杖 |  |  | 矩也。家長率教者。从又舉杖。 |
 | 爽 | 爽 | exact | 㸚 | compound | 㸚大 |  |  | 明也。从㸚从大。 |
-| 牖 | 牖 | exact | 片 | compound | 片 |  |  | 穿壁以木爲交窻也。从片、戶、甫。譚長以爲：甫上日也，非戶也。牖，所以見日。 |
+| 牖 | 牖 | exact | 片 | compound | 片戶甫 |  |  | 穿壁以木爲交窻也。从片、戶、甫。譚長以爲：甫上日也，非戶也。牖，所以見日。 |
 | 牝 | 牝 | exact | 牛 | phonetic-compound | 牛 | 匕 |  | 畜母也。从牛匕聲。易曰：“畜牝牛，吉。” |
 | 牡 | 牡 | exact | 牛 | phonetic-compound | 牛 | 土 |  | 畜父也。从牛土聲。 |
 | 牢 | 牢 | exact | 牛 | compound | 牛 |  |  | 閑，養牛馬圈也。从牛，冬省。取其四周帀也。 |
@@ -510,10 +510,10 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 甚 | 甚 | exact | 甘 | compound | 甘匹耦也 |  |  | 尤安樂也。从甘，从匹耦也。 |
 | 生 | 生 | exact | 生 | pictograph |  |  |  | 進也。象艸木生出土上。凡生之屬皆从生。 |
 | 用 | 用 | exact | 用 | compound | 卜中 |  |  | 可施行也。从卜从中。衞宏說。凡用之屬皆从用。 |
-| 甫 | 甫 | exact | 用 | phonetic-compound | 用 | 父 |  | 男子美稱也。从用、父，父亦聲。 |
+| 甫 | 甫 | exact | 用 | phonetic-compound | 用父 | 父 |  | 男子美稱也。从用、父，父亦聲。 |
 | 田 | 田 | exact | 田 | pictograph |  |  |  | 陳也。樹穀曰田。象四囗。十，阡陌之制也。凡田之屬皆从田。 |
 | 甲 | 甲 | exact | 甲 | compound | 木戴孚甲之象 |  |  | 東方之孟，陽气萌動，从木戴孚甲之象。一曰人頭宐爲甲，甲象人頭。凡甲之屬皆从甲。 |
-| 畋 | 畋 | exact | 攴 | compound | 攴 |  |  | 平田也。从攴、田。《周書》曰：“畋尒田。” |
+| 畋 | 畋 | exact | 攴 | compound | 攴田 |  |  | 平田也。从攴、田。《周書》曰：“畋尒田。” |
 | 畏 | 畏 | exact | 甶 | compound | 甶 |  |  | 惡也。从甶，虎省。鬼頭而虎爪，可畏也。 |
 | 畜 | 畜 | exact | 田 | unanalysed |  |  |  | 田畜也。《淮南子》曰：“玄田爲畜。” |
 | 異 | 異 | exact | 異 | compound | 廾畀 |  |  | 分也。从廾从畀。畀，予也。凡異之屬皆从異。 |
@@ -521,28 +521,28 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 疏 | 疏 | exact | 𠫓 | phonetic-compound | 𡿮疋 | 疋 |  | 通也。从𡿮从疋，疋亦聲。 |
 | 疵 | 疵 | exact | 疒 | phonetic-compound | 疒 | 此 |  | 病也。从疒此聲。 |
 | 病 | 病 | exact | 疒 | phonetic-compound | 疒 | 丙 |  | 疾加也。从疒丙聲。 |
-| 登 | 登 | exact | 癶 | compound | 癶 |  |  | 上車也。从癶、豆。象登車形。 |
+| 登 | 登 | exact | 癶 | compound | 癶豆 |  |  | 上車也。从癶、豆。象登車形。 |
 | 發 | 發 | exact | 弓 | phonetic-compound | 弓 | 癹 |  | 䠶發也。从弓癹聲。 |
 | 白 | 白 | exact | 白 | compound | 入合二 |  |  | 西方色也。陰用事，物色白。从入合二。二，陰數。凡白之屬皆从白。 |
-| 百 | 百 | exact | 𪞶 | compound | 一 |  |  | 十十也。从一、白。數，十百爲一貫。相章也。 |
+| 百 | 百 | exact | 𪞶 | compound | 一白 |  |  | 十十也。从一、白。數，十百爲一貫。相章也。 |
 | 皆 | 皆 | exact | 𪞶 | compound | 比𪞶 |  |  | 俱詞也。从比从𪞶。 |
 | 皦 | 皦 | exact | 白 | phonetic-compound | 白 | 敫 |  | 玉石之白也。从白敫聲。 |
-| 盈 | 盈 | exact | 皿 | compound | 皿 |  |  | 滿器也。从皿、夃。 |
-| 益 | 益 | exact | 皿 | compound | 水 |  |  | 饒也。从水、皿。皿，益之意也。 |
+| 盈 | 盈 | exact | 皿 | compound | 皿夃 |  |  | 滿器也。从皿、夃。 |
+| 益 | 益 | exact | 皿 | compound | 水皿 |  |  | 饒也。从水、皿。皿，益之意也。 |
 | 盜 | 盜 | exact | 㳄 | compound | 㳄 |  |  | 私利物也。从㳄，㳄欲皿者。 |
 | 目 | 目 | exact | 目 | pictograph |  |  |  | 人眼。象形。重童子也。凡目之屬皆从目。 |
 | 盲 | 盲 | exact | 目 | phonetic-compound | 目 | 亡 |  | 目無牟子。从目亡聲。 |
 | 直 | 直 | exact | 乚 | compound | 乚十目 |  |  | 正見也。从乚从十从目。 |
 | 相 | 相 | exact | 目 | compound | 目木 |  |  | 省視也。从目从木。《易》曰：“地可觀者，莫可觀於木。”《詩》曰：“相鼠有皮。” |
 | 真 | 眞 | old-form | 𠤎 | compound | 𠤎目乚 |  |  | 僊人變形而登天也。从𠤎从目从乚；八，所乘載也。 |
-| 眾 | 眾 | exact | 㐺 | compound | 乑 |  |  | 多也。从乑、目，衆意。 |
+| 眾 | 眾 | exact | 㐺 | compound | 乑目 |  |  | 多也。从乑、目，衆意。 |
 | 矜 | 矜 | exact | 矛 | phonetic-compound | 矛 | 今 |  | 矛柄也。从矛今聲。 |
 | 矣 | 矣 | exact | 矢 | phonetic-compound | 矢 | 以 |  | 語已詞也。从矢以聲。 |
 | 知 | 知 | exact | 矢 | compound | 口矢 |  |  | 詞也。从口从矢。 |
 | 短 | 短 | exact | 矢 | phonetic-compound | 矢 | 豆 |  | 有所長短，以矢爲正。从矢豆聲。 |
 | 石 | 石 | exact | 石 | pictograph |  |  |  | 山石也。在厂之下；囗，象形。凡石之屬皆从石。 |
 | 示 | 示 | exact | 示 | compound | 𠄞 |  |  | 天垂象，見吉凶，所以示人也。从𠄞， |
-| 社 | 社 | exact | 示 | compound | 示 |  | 常者切 | 地主也。从示、土。《春秋傳》曰：「共工之子句龍爲社神。」周禮，二十五家爲社，各樹其土所宜之木。 |
+| 社 | 社 | exact | 示 | compound | 示土 |  | 常者切 | 地主也。从示、土。《春秋傳》曰：「共工之子句龍爲社神。」周禮，二十五家爲社，各樹其土所宜之木。 |
 | 祀 | 祀 | exact | 示 | phonetic-compound | 示 | 巳 | 詳里切 | 祭無已也。从示，巳聲。 |
 | 神 | 神 | exact | 示 | phonetic-compound | 示 | 申 | 食鄰切 | 天神，引出萬物者也。从示，申聲。 |
 | 祥 | 祥 | exact | 示 | phonetic-compound | 示 | 羊 | 似羊切 | 福也。从示，羊聲。一云善。 |
@@ -572,7 +572,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 紀 | 紀 | exact | 糸 | phonetic-compound | 糸 | 己 |  | 絲別也。从糸己聲。 |
 | 約 | 約 | exact | 糸 | phonetic-compound | 糸 | 勺 |  | 纏束也。从糸勺聲。 |
 | 紛 | 紛 | exact | 糸 | phonetic-compound | 糸 | 分 |  | 馬尾韜也。从糸分聲。 |
-| 素 | 素 | exact | 素 | compound | 糸 |  |  | 白緻繒也。从糸、𠂹，取其澤也。凡素之屬皆从素。 |
+| 素 | 素 | exact | 素 | compound | 糸𠂹 |  |  | 白緻繒也。从糸、𠂹，取其澤也。凡素之屬皆从素。 |
 | 累 | 纍 | old-form | 糸 | phonetic-compound | 糸 | 畾 |  | 綴得理也。一曰大索也。从糸畾聲。 |
 | 細 | 細 | exact | 糸 | phonetic-compound | 糸 | 囟 |  | 微也。从糸囟聲。 |
 | 終 | 終 | exact | 糸 | phonetic-compound | 糸 | 冬 |  | 絿絲也。从糸冬聲。 |
@@ -584,20 +584,20 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 繩 | 繩 | exact | 糸 | phonetic-compound | 糸 | 蠅 |  | 索也。从糸，蠅省聲。 |
 | 纇 | 纇 | exact | 糸 | phonetic-compound | 糸 | 頪 |  | 絲節也。从糸頪聲。 |
 | 缺 | 缺 | exact | 缶 | phonetic-compound | 缶 | 決 |  | 器破也。从缶，決省聲。 |
-| 罪 | 罪 | exact | -{网}- | compound | 网 |  |  | 捕魚竹网。从网、非。秦以罪爲辠字。 |
-| 置 | 置 | exact | -{网}- | compound | 网 |  |  | 赦也。从网、直。 |
+| 罪 | 罪 | exact | -{网}- | compound | 网非 |  |  | 捕魚竹网。从网、非。秦以罪爲辠字。 |
+| 置 | 置 | exact | -{网}- | compound | 网直 |  |  | 赦也。从网、直。 |
 | 美 | 美 | exact | 羊 | compound | 羊大 |  |  | 甘也。从羊从大。羊在六畜主給膳也。美與善同意。 |
-| 義 | 義 | exact | 我 | compound | 我 |  |  | 己之威儀也。從我、羊。 |
+| 義 | 義 | exact | 我 | compound | 我羊 |  |  | 己之威儀也。從我、羊。 |
 | 羸 | 羸 | exact | 羊 | phonetic-compound | 羊 | 𣎆 |  | 瘦也。从羊𣎆聲。 |
 | 耀 | 燿 | old-form | 火 | phonetic-compound | 火 | 翟 |  | 照也。从火翟聲。 |
-| 老 | 老 | exact | 老 | compound | 人 |  |  | 考也。七十曰老。从人、毛、匕。言須髮變白也。凡老之屬皆从老。 |
+| 老 | 老 | exact | 老 | compound | 人毛匕 |  |  | 考也。七十曰老。从人、毛、匕。言須髮變白也。凡老之屬皆从老。 |
 | 者 | 者 | exact | 𪞶 | phonetic-compound | 𪞶 | 𣥐 |  | 別事詞也。从𪞶𣥐聲。𣥐，古文旅字。 |
 | 而 | 而 | exact | 而 | pictograph |  |  |  | 頰毛也。象毛之形。《周禮》曰：“作其鱗之而。”凡而之屬皆从而。 |
 | 耳 | 耳 | exact | 耳 | pictograph |  |  |  | 主聽也。象形。凡耳之屬皆从耳。 |
 | 聖 | 聖 | exact | 耳 | phonetic-compound | 耳 | 呈 |  | 通也。从耳呈聲。 |
 | 聞 | 聞 | exact | 耳 | phonetic-compound | 耳 | 門 |  | 知聞也。从耳門聲。 |
 | 聲 | 聲 | exact | 耳 | phonetic-compound | 耳 | 殸 |  | 音也。从耳殸聲。殸，籒文磬。 |
-| 聽 | 聽 | exact | 耳 | phonetic-compound | 耳 | 壬 |  | 聆也。从耳、㥁，壬聲。 |
+| 聽 | 聽 | exact | 耳 | phonetic-compound | 耳㥁 | 壬 |  | 聆也。从耳、㥁，壬聲。 |
 | 聾 | 聾 | exact | 耳 | phonetic-compound | 耳 | 龍 |  | 無聞也。从耳龍聲。 |
 | 肆 | 𨽸 | old-form | 長 | phonetic-compound | 長 | 隶 |  | 極、陳也。从長隶聲。 |
 | 肖 | 肖 | exact | 肉 | phonetic-compound | 肉 | 小 |  | 骨肉相似也。从肉小聲。不似其先，故曰“不肖”也。 |
@@ -619,7 +619,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 色 | 色 | exact | 色 | compound | 人卪 |  |  | 顔气也。从人从卪。凡色之屬皆从色。 |
 | 芸 | 芸 | exact | 艸 | phonetic-compound | 艸 | 云 |  | 艸也。似目宿。从艸云聲。《淮南子》說：「芸艸可以死復生。」 |
 | 芻 | 芻 | exact | 艸 | pictograph |  |  |  | 刈艸也。象包束艸之形。 |
-| 若 | 若 | exact | 艸 | compound | 艸 |  |  | 擇菜也。从艸、右。右，手也。一曰杜若，香艸。 |
+| 若 | 若 | exact | 艸 | compound | 艸右 |  |  | 擇菜也。从艸、右。右，手也。一曰杜若，香艸。 |
 | 草 | 草 | exact | 艸 | phonetic-compound | 艸 | 早 |  | 草斗，櫟實也。一曰象斗子。从艸早聲。 |
 | 荊 | 荊 | exact | 艸 | phonetic-compound | 艸 | 刑 |  | 楚木也。从艸刑聲。 |
 | 荒 | 荒 | exact | 艸 | phonetic-compound | 艸 | 㠩 |  | 蕪也。从艸㠩聲。一曰艸淹地也。 |
@@ -638,7 +638,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 螫 | 螫 | exact | 虫 | phonetic-compound | 虫 | 赦 |  | 蟲行毒也。从虫赦聲。 |
 | 蟲 | 蟲 | exact | 蟲 | compound | 三虫 |  |  | 有足謂之蟲，無足謂之豸。从三虫。凡蟲之屬皆从蟲。 |
 | 行 | 行 | exact | 行 | compound | 彳亍 |  |  | 人之步趨也。从彳从亍。凡行之屬皆从行。 |
-| 衛 | 衞 | old-form | 行 | compound | 韋行 |  |  | 宿衞也。从韋、帀，从行。行，列衞也。 |
+| 衛 | 衞 | old-form | 行 | compound | 韋帀行 |  |  | 宿衞也。从韋、帀，从行。行，列衞也。 |
 | 衣 | 衣 | exact | 衣 | pictograph |  |  |  | 依也。上曰衣，下曰裳。象覆二人之形。凡衣之屬皆从衣。 |
 | 被 | 被 | exact | 衣 | phonetic-compound | 衣 | 皮 |  | 𡪢衣，長一身有半。从衣皮聲。 |
 | 裂 | 裂 | exact | 衣 | phonetic-compound | 衣 | 𠛱 |  | 繒餘也。从衣𠛱聲。 |
@@ -648,9 +648,9 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 要 | 要 | exact | 𦥑 | phonetic-compound | 𦥑 | 交 |  | 身中也。象人要自𦥑之形。从𦥑，交省聲。 |
 | 覆 | 覆 | exact | 襾 | phonetic-compound | 襾 | 復 |  | 覂也。一曰蓋也。从襾復聲。 |
 | 見 | 見 | exact | 見 | unanalysed |  |  |  | 視也。从-{儿}-从目。凡見之屬皆从見。 |
-| 視 | 視 | exact | 見 | compound | 見 |  |  | 瞻也。从見、示。 |
+| 視 | 視 | exact | 見 | compound | 見示 |  |  | 瞻也。从見、示。 |
 | 親 | 親 | exact | 見 | phonetic-compound | 見 | 亲 |  | 至也。从見亲聲。 |
-| 覽 | 覽 | exact | 見 | phonetic-compound | 見 | 監 |  | 觀也。从見、監，監亦聲。 |
+| 覽 | 覽 | exact | 見 | phonetic-compound | 見監 | 監 |  | 觀也。从見、監，監亦聲。 |
 | 觀 | 觀 | exact | 見 | phonetic-compound | 見 | 雚 |  | 諦視也。从見雚聲。 |
 | 角 | 角 | exact | 角 | pictograph |  |  |  | 獸角也。象形，角與刀、魚相似。凡角之屬皆从角。 |
 | 解 | 解 | exact | 角 | compound | 刀判牛角 |  |  | 判也。从刀判牛角。一曰解𢊁，獸也。 |
@@ -690,12 +690,12 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 賢 | 賢 | exact | 貝 | phonetic-compound | 貝 | 臤 |  | 多才也。从貝臤聲。 |
 | 賤 | 賤 | exact | 貝 | phonetic-compound | 貝 | 戔 |  | 賈少也。从貝戔聲。 |
 | 質 | 質 | exact | 貝 | compound | 貝斦 |  |  | 以物相贅。从貝从斦。闕。 |
-| 贅 | 贅 | exact | 貝 | compound | 敖 |  |  | 以物質錢。从敖、貝。敖者，猶放；貝，當復取之也。 |
+| 贅 | 贅 | exact | 貝 | compound | 敖貝 |  |  | 以物質錢。从敖、貝。敖者，猶放；貝，當復取之也。 |
 | 赤 | 赤 | exact | 赤 | compound | 大火 |  |  | 南方色也。从大从火。凡赤之屬皆从赤。 |
-| 走 | 走 | exact | 走 | compound | 夭 |  |  | 趨也。从夭、止。夭止者，屈也。凡走之屬皆从走。 |
+| 走 | 走 | exact | 走 | compound | 夭止 |  |  | 趨也。从夭、止。夭止者，屈也。凡走之屬皆从走。 |
 | 起 | 起 | exact | 走 | phonetic-compound | 走 | 巳 |  | 能立也。从走巳聲。 |
 | 超 | 超 | exact | 走 | phonetic-compound | 走 | 召 |  | 跳也。从走召聲。 |
-| 足 | 足 | exact | 足 | compound | 止 |  |  | 人之足也。在下。从止、口。凡足之屬皆从足。 |
+| 足 | 足 | exact | 足 | compound | 止口 |  |  | 人之足也。在下。从止、口。凡足之屬皆从足。 |
 | 跡 | 迹 | old-form | 辵 | phonetic-only |  | 辵 |  | 步處也。从辵亦聲。 |
 | 跨 | 跨 | exact | 足 | phonetic-compound | 足 | 夸 |  | 渡也。从足夸聲。 |
 | 蹶 | 蹶 | exact | 足 | phonetic-compound | 足 | 厥 |  | 僵也。从足厥聲。一曰跳也。亦讀若橜。 |
@@ -793,7 +793,7 @@ Middle Chinese spelling, where the transcription carries one) · `definition`
 | 驚 | 驚 | exact | 馬 | phonetic-compound | 馬 | 敬 |  | 馬駭也。从馬敬聲。 |
 | 驟 | 驟 | exact | 馬 | phonetic-compound | 馬 | 聚 |  | 馬疾步也。从馬聚聲。 |
 | 骨 | 骨 | exact | 骨 | compound | 冎有肉 |  |  | 肉之覈也。从冎有肉。凡骨之屬皆从骨。 |
-| 高 | 高 | exact | 高 | compound | 冂 |  |  | 崇也。象臺觀高之形。从冂、口。與倉、舍同意。凡高之屬皆从高。 |
+| 高 | 高 | exact | 高 | compound | 冂口 |  |  | 崇也。象臺觀高之形。从冂、口。與倉、舍同意。凡高之屬皆从高。 |
 | 鬼 | 鬼 | exact | 鬼 | compound | 人厶 |  |  | 人所歸爲鬼。从人，象鬼頭。鬼陰气賊害，从厶。凡鬼之屬皆从鬼。 |
 | 魄 | 魄 | exact | 鬼 | phonetic-compound | 鬼 | 白 |  | 陰神也。从鬼白聲。 |
 | 魚 | 魚 | exact | 魚 | pictograph |  |  |  | 水蟲也。象形。魚尾與燕尾相似。凡魚之屬皆从魚。 |

@@ -207,25 +207,60 @@ def parse_analysis(text):
     #   从示，申聲    a bare X聲 clause is phonetic alone
     #   从水，𢊁省聲   省 marks an abbreviated graph; drop the marker, keep the part
     #   史亦聲        亦 = "also": already semantic, and phonetic too
+    #   从水、中      、 lists the parts of ONE 从 clause: 水 and 中 both semantic
     semantic, phonetic = [], []
 
-    def add(target, ch):
+    def add(target, ch, cong_ok=False):
         # Guard on the CJK range as well as the grammar words. Rare graphs arrive
         # as numeric character references (&#135591;) and any that survive
         # un-decoded would otherwise enter the component list one ASCII digit at
         # a time — an early run had "3" as the single most common component in
         # the book, 49 times.
-        if (ch and ch not in target and ch not in "省聲亦从從"
+        #
+        # 从 is refused because inside 从X从Y it is grammar. It is also a
+        # character: 從 is 从辵、从，从亦聲, "from 辵 (walking) and 从 (two people
+        # following), 从 also phonetic". Where the grammar puts 从 in a part's
+        # slot, the caller says so with cong_ok.
+        grammar = "省聲亦" if cong_ok else "省聲亦从從"
+        if (ch and ch not in target and ch not in grammar
                 and re.fullmatch(CJK, ch)):
             target.append(ch)
 
-    for clause in re.split(r"[，。；、：]", analysis):
+    def clauses(analysis):
+        # 、 is a list comma. Inside a 从 clause it separates the parts of one
+        # analysis — 沖 is 从水、中, "from 水 water and 中 middle" — and must not
+        # end the clause. An earlier version split on it, and every part after
+        # the first 、 was silently dropped: 45 characters lost a part, 中 from
+        # 沖 and 正 from 是 among them (found 2026-11-15, from the atlas card for
+        # 沖). Outside a 从 clause 、 is prose punctuation and still splits.
+        for clause in re.split(r"[，。；：]", analysis):
+            clause = clause.strip()
+            if not (re.match(r"[从從]", clause) and "、" in clause):
+                yield from clause.split("、")
+                continue
+            first, *rest = clause.split("、")
+            yield first
+            for item in rest:
+                # 後 is 从彳、幺、夊者，後也: 者 marks the topic of the gloss
+                # that follows, and is not a part.
+                item = re.sub(r"者$", "", item.strip())
+                if item in ("从", "從"):
+                    yield "\0" + item       # the character 从, as a part
+                elif re.match(r"[从從]", item) or item.endswith("聲"):
+                    yield item
+                elif item:
+                    yield "从" + item
+
+    for clause in clauses(analysis):
         clause = clause.strip()
         if not clause:
             continue
+        if clause.startswith("\0"):
+            add(semantic, clause[1:], cong_ok=True)
+            continue
         m2 = re.fullmatch(rf"({CJK})省?亦?聲", clause)
         if m2:
-            add(phonetic, m2.group(1))
+            add(phonetic, m2.group(1), cong_ok=True)
             continue
         m3 = re.fullmatch(rf"[从從]((?:{CJK})+)", clause)
         if not m3:
