@@ -46,7 +46,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 此,Cǐ,this / here,,此,exact,此,compound,,"止 (zhǐ = stop / halt) + 匕 (bǐ = a spoon, a ladle)",,16,,0.1219,止也。从止从匕。匕，相比次也。凡此之屬皆从此。,
 成,chéng,complete / be done / accomplish,,成,exact,戊,phonetic-compound,,戊 (? = not yet glossed),丁 (? = not yet glossed),17,,0.1201,就也。从戊丁聲。,
 國,guó,state,,國,exact,囗,compound,,"囗 (wéi = an enclosure, a boundary) + 或 (huò = some / sometimes / perhaps)",,25,,0.1197,邦也。从囗从或。,
-名,míng,"name / to name, call / reputation (44)",,名,exact,口,compound,,口 (kǒu = mouths) + 夕 (xī = evening — the moon half shown),,24,Tier 3,0.1194,自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。,
+名,míng,name,name,名,exact,口,compound,,口 (kǒu = mouths) + 夕 (xī = evening — the moon half shown),,24,Tier 3,0.1194,自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。,"To name oneself. From 口 (kǒu — mouth) and 夕 (xī — dusk). Dusk means the dark: in the dark people cannot see one another, so they name themselves with the mouth."
 身,shēn,body,body,身,exact,身,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𠂆 (? = not yet glossed),23,locked,0.1194,躳也。象人之身。从人𠂆聲。凡身之屬皆从身。,
 足,zú,enough / foot (64),,足,exact,足,compound,,止 (zhǐ = stop / halt) + 口 (kǒu = mouths),,19,,0.1178,人之足也。在下。从止、口。凡足之屬皆从足。,
 上,Shàng,highest / above / those over (75),,上,exact,丄,unanalysed,時掌切,,,19,,0.1139,高也。此古文上，指事也。凡丄之屬皆从丄。,

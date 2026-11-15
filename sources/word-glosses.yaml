@@ -5,8 +5,8 @@
 # never glossed in a form the harvester could align, and 85 it glossed so many
 # ways that no English won a majority. Most are content words the glossary will
 # never give a full entry — 楗 (a door bar), 兕 (a rhino), 籌 (a tally stick) —
-# and a few are words the glossary still owes one (知 to know, 欲 desire, 名
-# name). Each now has a short gloss, so its atlas card says something true.
+# and a few are words the glossary still owes one (知 to know, 欲 desire).
+# Each now has a short gloss, so its atlas card says something true.
 #
 # WHAT A GLOSS HERE IS. The senses the character carries IN THIS BOOK, read from
 # every line it stands in, most frequent first, slash-separated. A reader
@@ -38,9 +38,6 @@
 - char: "兩"
   pinyin: "liǎng"
   gloss: "two / both (61)"
-- char: "名"
-  pinyin: "míng"
-  gloss: "name / to name, call / reputation (44)"
 - char: "徼"
   pinyin: "jiào"
   gloss: "direction / heading, where it goes (later: a frontier)"

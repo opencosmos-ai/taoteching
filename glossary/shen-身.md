@@ -50,7 +50,7 @@ This is why the English is a plain word rather than a careful one. *The lived pe
 
 ### What 身 is weighed against
 
-Across the nine chapters, 身 is weighed against 名 (*míng* — reputation) and 貨 (*huò* — goods) at chapter 44, against 功 (*gōng* — merit and office) at chapter 9, and against 大患 (*dà huàn* — great trouble) at chapter 13. **The class is everything a person could acquire — and 天下 (*tiān xià* — all under the sky, the world) is simply the maximum of that class.**
+Across the nine chapters, 身 is weighed against 名 (*míng* — name) and 貨 (*huò* — goods) at chapter 44, against 功 (*gōng* — merit and office) at chapter 9, and against 大患 (*dà huàn* — great trouble) at chapter 13. **The class is everything a person could acquire — and 天下 (*tiān xià* — all under the sky, the world) is simply the maximum of that class.**
 
 | chapter | set against | the line |
 |---|---|---|
@@ -58,7 +58,7 @@ Across the nine chapters, 身 is weighed against 名 (*míng* — reputation) an
 | 13 | 大患 — great trouble | 為吾有**身** — *because I have a body* |
 | 13 | 天下 — the world, twice | 貴以**身**為天下 · 愛以**身**為天下 |
 | 26 | 天下 — the world | 而以**身**輕天下 — *and make their body light in the world* |
-| 44 | 名 — reputation | 名與**身**孰親 — *your name or your body, which is dearer* |
+| 44 | 名 — name | 名與**身**孰親 — *your name or your body, which is dearer* |
 | 44 | 貨 — goods | **身**與貨孰多 — *your body or goods, which is worth more* |
 | 54 | 天下 — the world, as the far end of a ladder | 修之於**身** … 修之於天下 |
 

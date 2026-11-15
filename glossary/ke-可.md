@@ -50,7 +50,7 @@ The line can be checked by swapping the forms: 道可以道 would mean *the Tao 
 
 | Construction | Voice | English | Example |
 |---|---|---|---|
-| 可 + verb | the subject receives | **can be** | 道可道 (1), 可名為大 (34) → *"it can be called great"* |
+| 可 + verb | the subject receives | **can be** | 道可道 (1), 可名為大 (34) → *"it can be named great"* |
 | 不可 + verb | the subject receives | **cannot be** | 不可名 (14) → *"it cannot be named"*; 不可為也 (29) → *"it cannot be handled"* |
 | 可以 + verb | the subject acts | **can** | 可以長久 (44) → *"you can last long"* |
 | 可欲 | a fixed noun | **the desirable** | 不見可欲 (3) → *"by not displaying the desirable"* |

@@ -61,7 +61,7 @@ English *great* reaches all four — great size, the great square, great trouble
 
 小 (*xiǎo* — small) shadows 大 through the book: 大小多少 (*dà xiǎo duō shǎo* — "great or small, many or few," 63), 治大國若烹小鮮 ("governing a large state is like cooking a small fish," 60), the large and small states of 61, and 小國寡民 ("a small state, few people," 80).
 
-**Chapter 34 gives the Tao both names in three lines** — 常無欲，可名於**小** (*"ever desireless, it can be called small"*) and 萬物歸焉而不為主，可名為**大** (*"the countless things return to it, and without acting as their master, it can be called great"*). Both fit. Neither holds. That is the same joke Chapter 25 tells at length, and it is why 大 is a *name* in this book rather than a description.
+**Chapter 34 gives the Tao both names in three lines** — 常無欲，可名於**小** (*"ever desireless, it can be named small"*) and 萬物歸焉而不為主，可名為**大** (*"the countless things return to it, and without acting as their master, it can be called great"*). Both fit. Neither holds. That is the same joke Chapter 25 tells at length, and it is why 大 is a *name* in this book rather than a description.
 
 ### Chapter 25 — the word is chosen because it fails
 

@@ -5,9 +5,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
 1,1,道,dào,道,the Tao / way,yes,1.0,exact-count,The Tao that can be made a way is not the ever-present Tao.
 1,2,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The name that can be named is not the ever-present name.
+1,2,名,míng,名,name,yes,1.0,exact-count,The name that can be named is not the ever-present name.
+1,2,名,míng,名,name,yes,1.0,exact-count,The name that can be named is not the ever-present name.
+1,2,名,míng,名,name,yes,1.0,exact-count,The name that can be named is not the ever-present name.
 1,2,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,The name that can be named is not the ever-present name.
+1,3,名,míng,名,name,yes,1.0,exact-count,The nameless is the beginning of sky and earth.
 1,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,The nameless is the beginning of sky and earth.
 1,3,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The nameless is the beginning of sky and earth.
+1,4,名,míng,名,name,yes,1.0,exact-count,The named is the mother of the countless things.
 1,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,The named is the mother of the countless things.
 1,4,母,mǔ,母,mother,yes,1.0,exact-count,The named is the mother of the countless things.
 1,4,物,wù,萬物,things / something,yes,1.0,exact-count,The named is the mother of the countless things.
@@ -17,6 +22,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 1,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Ever desireless, you can observe its subtlety;"
 1,6,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Ever desiring, you can observe its direction."
 1,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Ever desiring, you can observe its direction."
+1,7,名,míng,名,name,yes,1.0,exact-count,"These two emerge together, but differ in name."
 1,8,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"Together, they are called dark."
 1,9,妙,miào,玄 & 妙,subtle,yes,1.0,exact-count,"Dark, and dark again, the gate of all subtlety."
 1,9,玄,Xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,"Dark, and dark again, the gate of all subtlety."
@@ -232,11 +238,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 13,15,身,shēn,身,body,yes,1.0,authored,One who loves their body as a way to serve the world can be trusted with it.
 13,16,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,One who loves their body as a way to serve the world can be trusted with it.
 13,16,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,One who loves their body as a way to serve the world can be trusted with it.
+14,2,名,míng,名,name,yes,1.0,authored,"Look, but you cannot see it — its name is the invisible."
+14,4,名,míng,名,name,yes,1.0,authored,"Listen, but you cannot hear it — its name is the inaudible."
+14,6,名,míng,名,name,yes,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
 14,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,These three defy comprehension.
 14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Therefore, they mix into one."
 14,8,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,"Therefore, they mix into one."
 14,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Therefore, they mix into one."
 14,11,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Continuously flowing, it cannot be named"
+14,11,名,míng,名,name,yes,1.0,authored,"Continuously flowing, it cannot be named"
 14,12,復,Fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,And returns to no-thing.
 14,12,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,And returns to no-thing.
 14,12,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,And returns to no-thing.
@@ -373,6 +383,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 21,8,信,xìn,信,trust / trustworthy,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,精,jīng,精,vital essence / essence,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
+21,9,名,míng,名,name,yes,1.0,authored,"From ancient times until today, the Tao's name has never been erased."
 21,10,甫,fǔ,父 & 甫,father,yes,1.0,authored,"In this name, I observe the father of the many."
 21,10,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"In this name, I observe the father of the many."
 21,11,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the father of the many is so? By this.
@@ -430,9 +441,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,and can be taken as the mother of the world.
 25,6,母,mǔ,母,mother,yes,1.0,authored,and can be taken as the mother of the world.
 25,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,and can be taken as the mother of the world.
+25,7,名,míng,名,name,yes,1.0,authored,I do not know its name.
 25,7,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,I do not know its name.
 25,8,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Forcing a label on it, I call it the Tao."
 25,8,道,dào,道,the Tao / way,yes,1.0,authored,"Forcing a label on it, I call it the Tao."
+25,9,名,míng,名,name,yes,1.0,authored,"Forcing a name on it, I call it great."
 25,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
 25,9,強,Qiǎng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
 25,9,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Forcing a name on it, I call it great."
@@ -577,6 +590,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,17,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"For the crowd of people killed, weep with sorrow and grief."
+32,1,名,míng,名,name,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,道,Dào,道,the Tao / way,yes,1.0,authored,"The Tao is ever nameless, uncarved."
@@ -592,7 +606,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,3,萬,wàn,萬物,countless,yes,1.0,authored,"If rulers are able to hold to this, the countless things will submit of themselves."
 32,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Sky and earth join together to send down sweet dew.
 32,5,民,Mín,民,the people,yes,1.0,authored,"No one commands the people, and they even out of themselves."
+32,6,名,míng,名,name,yes,1.0,authored,"When the carving begins, there are names."
 32,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"When the carving begins, there are names."
+32,7,名,Míng,名,name,yes,1.0,authored,"Since names already exist, one must know when to stop."
 32,7,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Since names already exist, one must know when to stop."
 32,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Knowing when to stop, you come to no danger."
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
@@ -612,21 +628,24 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
-34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,It works without claiming to be the owner.
-34,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it claims no ownership."
-34,4,物,wù,萬物,things / something,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it claims no ownership."
-34,4,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it claims no ownership."
-34,5,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"Ever desireless, it can be called small."
-34,5,小,xiǎo,大,small,yes,1.0,exact-count,"Ever desireless, it can be called small."
-34,5,常,Cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Ever desireless, it can be called small."
-34,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Ever desireless, it can be called small."
-34,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
-34,6,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things return to it. Without acting as their master, it can be called great."
+34,3,名,míng,名,name,yes,1.0,exact-count,"The work is done, and it does not name it its own."
+34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is done, and it does not name it its own."
+34,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
+34,4,物,wù,萬物,things / something,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
+34,4,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
+34,5,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"Ever desireless, it can be named small."
+34,5,名,míng,名,name,yes,1.0,exact-count,"Ever desireless, it can be named small."
+34,5,小,xiǎo,大,small,yes,1.0,exact-count,"Ever desireless, it can be named small."
+34,5,常,Cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Ever desireless, it can be named small."
+34,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Ever desireless, it can be named small."
+34,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,名,míng,名,name,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
+34,6,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
 34,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,and so completes its greatness.
@@ -661,9 +680,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 37,2,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,exact-count,"If rulers are able to hold to this, the countless things will transform of themselves."
 37,2,能,néng,可,be able,NOT FOUND,1.0,exact-count,"If rulers are able to hold to this, the countless things will transform of themselves."
 37,2,萬,wàn,萬物,countless,yes,1.0,exact-count,"If rulers are able to hold to this, the countless things will transform of themselves."
+37,3,名,míng,名,name,yes,1.0,exact-count,"When the countless things urge action, I will stabilize them with the nameless uncarved wood."
 37,3,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,"When the countless things urge action, I will stabilize them with the nameless uncarved wood."
 37,3,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"When the countless things urge action, I will stabilize them with the nameless uncarved wood."
 37,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"When the countless things urge action, I will stabilize them with the nameless uncarved wood."
+37,4,名,míng,名,name,yes,1.0,exact-count,The nameless uncarved wood is without desire.
 37,4,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,The nameless uncarved wood is without desire.
 37,4,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The nameless uncarved wood is without desire.
 37,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The nameless uncarved wood is without desire.
@@ -781,6 +802,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
 41,10,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
 41,10,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
+41,11,名,míng,名,name,yes,1.0,authored,The Tao is hidden and nameless.
 41,11,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The Tao is hidden and nameless.
 41,11,道,Dào,道,the Tao / way,yes,1.0,authored,The Tao is hidden and nameless.
 41,12,唯,wéi,唯,only,yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
@@ -823,7 +845,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 43,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
 43,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
 43,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,few ever reach this.
-44,1,身,shēn,身,body,yes,1.0,exact-count,Reputation or your body — which is dearer?
+44,1,名,Míng,名,name,yes,1.0,exact-count,Your name or your body — which is dearer?
+44,1,身,shēn,身,body,yes,1.0,exact-count,Your name or your body — which is dearer?
 44,2,貨,huò,貨,goods,yes,1.0,exact-count,Your body or goods — which is worth more?
 44,2,身,Shēn,身,body,yes,1.0,exact-count,Your body or goods — which is worth more?
 44,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Therefore, extreme attachment inevitably brings great cost"
@@ -855,6 +878,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,2,道,dào,道,the Tao / way,yes,1.0,authored,"Without looking out the window, you see the way of nature."
 47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage knows without venturing,"
 47,4,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"Therefore, the sage knows without venturing,"
+47,5,名,míng,名,name,yes,1.0,authored,"names without seeing, and accomplishes without acting."
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"names without seeing, and accomplishes without acting."
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."

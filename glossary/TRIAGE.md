@@ -80,7 +80,7 @@
 
 | # | Term | Chapters | Old state | Note |
 |---|---|---|---|---|
-| 10 | **名** (Míng) | 9 | 51L, 10 marks | Ch 1 and 32. Pairs conceptually with 無名/有名. |
+| ~~10~~ | ~~**名** (Míng) — "name"~~ | 10 | 51L, 10 marks | ✅ **DONE & LOCKED** → `ming-名.md`, 2026-11-15. See queue row 4. |
 | 11 | **始** (Shǐ) | 7 | 47L | Consider as a **pairing with 母** — beginning vs. mother, the two halves of Ch 1's second couplet. |
 | ~~12~~ | ~~**信** (Xìn) — "trust"~~ | 8 | 42L | ✅ **DONE & LOCKED** → `xin-信.md`. 人 beside 言 — a person by their word — and also a **split tally** (符契), so 信 is *correspondence that can be checked*, not an inner feeling. That is why "sincerity" and "faith" both fail. Kept being given 德's word: fixed in Ch 23 and Ch 38. Ch 49's 德信 puts both characters in one compound and settles it. 忠 (loyalty) absorbed here. Ch 81's 信言 left open until that chapter is drafted. |
 | ~~13~~ | ~~**王** (Wáng)~~ | 8 | 41L, 11 marks | ✅ **Done — see row 20.** *(This row was left open after the entry was written.)* **Raised in priority** on a premise later corrected: every excavated witness reads 王 (king) in Ch 25's four greats, and 人 (human) is the reading of 傅奕 and 范應元. See `DISCOVERIES.md` §1 — this entry now has a real argument to make. |
@@ -118,9 +118,14 @@
 | ~~2~~ | ~~**混** (hùn) — mixed~~ | ✅ 2026-10-19 | Its own entry; 清 written beside it (`qing-清.md`, 濁 covered) | `hun-混.md` |
 | ~~3~~ | ~~**反 / 復 / 歸** (fǎn / fù / guī) — return~~ | ✅ **DONE & LOCKED** → `gui-fu-fan-歸復反.md`, 2026-11-01 | One English for one movement; the three pictures live in the entry | — |
 | 3b | **和** (hé) — harmony | No entry. **Raised 2026-11-01, Shalom's call** | Ch 55 now follows Guodian and silk A, 和曰常，知和曰明: harmony is the ever-present, and clear-seeing is knowing it (`WORKLIST-CLOSED.md` T2-77). A runner-up for the 2027 calendar. Also ch 2, 18, 42, 79; *dims* at 4/56 hides the character | Entry |
-| 4 | **名** (míng) — name | Open (row 10 above) | Ch 1 and 32 argue with it; *label* (25), *be called* (34), *reputation* (44) | Entry; pair with 無名/有名 |
+| ~~4~~ | ~~**名** (míng) — name~~ | ✅ **DONE & LOCKED** → `ming-名.md`, 2026-11-15 | **說文: a mouth calling out at dusk**, 冥不相見，故以口自名, *"in the dark people cannot see one another, so they name themselves with the mouth"*, and the book does that twice: ch 14's 視之不見，名曰夷 and ch 47's 不見而名. *Name* in all 22 lines, noun and verb. Ch 34's 可名 → *can be named* (*called* is 謂's), its 不名有 → *does not name it its own* (*claim* is 伐's), and its two 不為主 now read alike, closing T3-18's ch 34. Ch 44 → *your name*, not *reputation*: 32 and 44 both set names beside 知止不殆, and 河上公 reads ch 1's first 名 as worldly standing, so one English keeps both. *Label* (25) was never 名's: it is 字's | — |
 | ~~5~~ | ~~**氣** (qì) — breath~~ | ✅ **DONE & LOCKED** → `qi-氣.md`, 2026-11-01 | 精's entry argues by contrast with it; *breath / vital breath / vital energy* in three lines | Entry; overlay risk *energy* |
-| 6 | **神 / 靈** (shén / líng) — spirit / numinous | Owed (`WORKLIST.md` T2-37) | Both on the overlay watchlist; ch 29's *sacred vessel* waits on it; *numinous* fails the pointing test | One entry for the pair |
+| 6 | **神 / 靈** (shén / líng) — spirit / numinous | Owed (`WORKLIST.md` T2-37) | Both on the overlay watchlist; ch 29's *sacred vessel* waits on it; *numinous* fails the pointing test. **Cover 鬼** (*guǐ* — ghost) here: on the watchlist ("demons"), once, in ch 60 beside 神 | One entry for the pair |
+| 6b | **儉** (jiǎn) — frugality | No entry. **Raised 2026-11-15, Shalom's call** | **The missing third treasure.** Ch 67 names three: 慈 (*cí* — tenderness) is locked, 先 is queued (18), 儉 has nothing. One chapter, three occurrences, and the chapter's whole argument, the 全 lesson again | Entry |
+| 6c | **義** (yì) — duty | No entry. **Raised 2026-11-15, Shalom's call** | **On the overlay watchlist** ("righteousness"), and 仁 (*rén* — humaneness), its partner in 仁義 at 18, 19 and 38, is locked. Three chapters, five occurrences | Entry, or a `covers:` inside `ren-仁.md` |
+| 6d | **福 / 禍** (fú / huò) — fortune / disaster | No entry. **Raised 2026-11-15, Shalom's call** | **福 is on the overlay watchlist** ("blessing"). Ch 58's 禍兮福之所倚 (*huò xī fú zhī suǒ yǐ* — "disaster is what fortune leans on") argues through the pair; also 46, 65, 69. **Cover 罪** (*zuì* — crime, the watchlist's "sin"), once, in ch 62 | One entry for the pair |
+| 6e | **成** (chéng) — complete | No entry. **Raised 2026-11-15, Shalom's call** | Fourteen chapters. Rejected only as the old "Compiled" draft (Tier 0), whose etymology was kept for later: 戊, the battleaxe's decisive strike. `quan-全.md` already assigns *complete* to it, and ch 41's 大器晚成 (*dà qì wǎn chéng* — "the great vessel is late to be finished") shows the book distrusting completion | Entry |
+| 6f | **勝** (shèng) — overcome | No entry. **Raised 2026-11-15, Shalom's call** | Eleven chapters, three Englishes: *overcome*, *win*, *victory*. `zheng-爭.md` was decided against it (不爭而善勝) without 勝 getting a ruling of its own | Entry |
 | ~~7~~ | ~~**聖** (shèng) — the sage~~ | ✅ **DONE & LOCKED** → `sheng-聖.md`, 2026-10-17 | 聖人 → *the sage*, 聖 alone (ch 19) → *sagehood*. The oracle-bone graph is a person with an ear beside a mouth, and 說文's 呈 for sound is a later reanalysis. Guodian's 五行 (same tomb as the oldest Laozi) defines 聖 as knowing by hearing against 智 knowing by seeing, which is the pair ch 19 cuts. Mawangdui A writes the sage 聲人. *Master* and *wise* are ruled out but cannot be forbidden (善, 師, 智 share chapters). Left open: the ear in a book that distrusts the senses, and whether the sage is a rank (T4-7). | — |
 | 8 | **靜** (jìng) — still | No entry | Against 躁 (agitation), toward 動; overlay *meditation* | Entry |
 | 9 | **欲** (yù) — desire | No entry | Eight Englishes; the 將欲 grammar use must stay apart | Entry |
@@ -135,6 +140,9 @@
 | 16 | **言** (yán) — speech | No entry | 不言之教; ch 81's 信言/美言 | Entry |
 | 17 | **得** (dé) — get | Owed (`WORKLIST.md` T2-35) | 19 chapters, no entry | Entry |
 | 18 | **先** (xiān) — first | Open (row 14 above) | One of ch 67's three treasures; five Englishes | Entry |
+| 19 | **死** (sǐ) — death | No entry. **Raised 2026-11-15, Shalom's call** | Nine chapters. 生 (*shēng* — give birth to) is locked, and 50 and 74–76 argue life against death; *death* against *die* is unruled | Entry, read against `sheng-生.md` |
+| 20 | **長** (cháng / zhǎng) — long / grow / chief | No entry. **Raised 2026-11-15, Shalom's call** | Twelve chapters, three senses split by reading, which a reader of the English cannot see: 長生 (*cháng shēng* — lasting life, 7), 長而不宰 (*zhǎng ér bù zǎi* — "raises them and does not rule", 10, 51), 器長 (*qì zhǎng* — chief of the vessels, 67) | Entry |
+| 21 | **國** (guó) — state | No entry. **Raised 2026-11-15, Shalom's call** | Ten chapters, 25 occurrences, beside 邦 (*bāng* — country) and 天下 (*tiān xià* — the world); unruled, *state*, *nation* and *country* can drift | Entry, with 邦 |
 
 ## Tier 4 — Stubs needing commission
 
