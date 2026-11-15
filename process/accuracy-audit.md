@@ -101,7 +101,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **13 · Ch 27 · 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") → *"This is the essential secret."***
 **Shift, against a lock**, and **lost:** 謂 (*wèi* — called). 妙 (*miào* — subtle) is locked to *subtle*. `glossary/xuan-miao-玄妙.md` names this very line *"the essential subtlety"* and refuses *mystery*. *Secret* carries the same esoteric charge by another word.
-**Proposed:** *"This is called the essential subtlety."*
+**Proposed:** *"This is called the essential subtlety."* **Done, 2026-11-14 (Shalom's call).**
 
 **14 · Ch 45 · 躁勝寒 (*zào shèng hán* — "agitation overcomes cold") → *"Movement overcomes cold."***
 **Shift.** 躁 (*zào* — agitation, restlessness) reads *agitated* and *agitation* at ch 26, in the same pair: 靜為躁君 (*jìng wéi zào jūn* — "stillness is the ruler of the agitated"). *Movement* turns a fault into a neutral fact and breaks the 靜 / 躁 (*jìng / zào* — still / agitated) pair between the two chapters. Not logged.
@@ -109,7 +109,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **15 · Ch 27 · 不貴其師，不愛其資，雖智大迷 (*bù guì qí shī, bù ài qí zī, suī zhì dà mí* — "not to value the teacher, not to love the material: though clever, greatly lost") → *"Not valuing the master and not loving their raw material is a sign of great confusion. / Even those who appear intelligent are lost."***
 **Added:** *is a sign of*, *appear*. **Doubled:** 大迷 (*dà mí* — greatly lost) is rendered twice, once as *great confusion* and once as *lost*. The Chinese is one sentence: whoever fails both ways is greatly lost, however clever.
-**Proposed:** *"Not to value the master, not to love the raw material — / however clever, this is to be greatly lost."*
+**Proposed:** *"Not to value the master, not to love the raw material — / however clever, this is to be greatly lost."* **Done, 2026-11-14 (Shalom's call),** as *"Not to value the teacher, not to love the raw material: / however clever, one is greatly lost."* (*master* became *teacher* the same day, with T3-16.) `chapters/027.md` → Notes.
 
 **16 · Ch 79 · 而不責於人 (*ér bù zé yú rén* — "and makes no demand on people") → *"and never asks for the other."***
 **Lost:** 人 (*rén* — people). The object moves from people to the tally's other half. The chapter's notes leave the left tally's side open on purpose, and say *"the English renders the character"*. It renders 責 (*zé* — to demand payment) but not 人 (*rén* — people), and the claim is about how the sage treats people.
