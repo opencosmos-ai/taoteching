@@ -504,7 +504,7 @@ The second 道 (*dào*) is a verb — 可 (*kě* — can be) always takes one �
 
 *(Shalom's call, 2026-11-14. Was "Ever desireless, observe its subtlety; / Ever desiring, observe its boundaries.")*
 
-**A capacity, not a command:** 以 (*yǐ* — thereby), and both commentators write 可以觀 (*kě yǐ guān* — "can observe"). ***You*** is supplied, after Heshang Gong's 人 (*rén* — person). ***Ever* opens both lines**, as 常 (*cháng* — ever) does in the Chinese, so 故 (*gù* — so) is left without English, with the *Yongle Dadian*'s missing 故 as witness (`sources/variants.yaml`; weigh it at T3-12). *Present* stays out of these lines; *ever* is the thread from line 1 and from 常無欲 at ch 34, where the same words describe the Tao. Closes the back-translation audit's first ch 1 minor. Argument, and the reader's note on 常, in `chapters/001.md` → Notes.
+**A capacity, not a command:** 以 (*yǐ* — thereby), and both commentators write 可以觀 (*kě yǐ guān* — "can observe"). ***You*** is supplied, after Heshang Gong's 人 (*rén* — person). ***Ever* opens both lines**, as 常 (*cháng* — ever) does in the Chinese, so 故 (*gù* — so) is left without English, with the *Yongle Dadian*'s missing 故 as witness (`sources/variants.yaml`). **Settled**: an exception the book-wide 故 decision (T3-12) does not reopen. *Present* stays out of these lines; *ever* is the thread from line 1 and from 常無欲 at ch 34, where the same words describe the Tao. Closes the back-translation audit's first ch 1 minor. Argument, and the reader's note on 常, in `chapters/001.md` → Notes.
 
 #### 常有欲，以觀其徼 → "Ever desiring, you can observe its direction"
 

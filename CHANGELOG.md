@@ -39,7 +39,7 @@ Shalom asked whether chapter 1 had lost its mystery by refusing the word *myster
 - **Line 9: *"the gate of all subtlety."*** *(was: "all subtleties.")* 妙 (*miào* — subtle) takes one English in both its slots, line 5's *its subtlety* and line 9's *all subtlety*; the plural leaned toward *nuances*.
 - **Lines 5–6: *"Ever desireless, you can observe its subtlety; / Ever desiring, you can observe its direction."*** *(was: "observe its subtlety … observe its boundaries.")* A capacity, as both commentators read 以 (*yǐ* — thereby); *Ever* leads both lines, as 常 (*cháng* — ever) does; and 徼 (*jiào*) is a heading, not an edge, after Heshang Gong. Closes ch 1's two minors in R6.
 - **A reader's note on 常**, written to be shared: the moon that always comes back, and Han Fei's paradox that what is constant is what is not fixed. [`glossary/chang-常.md`](glossary/chang-常.md) gains that argument, the ch 34 link, and *perennial* and *abiding* set aside.
-- **One fact recorded:** the *Yongle Dadian* prints no 故 (*gù* — so) at line 5 ([`sources/variants.yaml`](sources/variants.yaml)), for T3-12 to weigh. The 玄妙 (*xuán miào* — dark and subtle) entry's drift fixed: *mysterious female*, *profound union* and *gateway* are gone.
+- **One fact recorded, one exception settled:** the *Yongle Dadian* prints no 故 (*gù* — so) at line 5 ([`sources/variants.yaml`](sources/variants.yaml)), and ch 1's 故 stays without English whatever T3-12 decides book-wide. The 玄妙 (*xuán miào* — dark and subtle) entry's drift fixed: *mysterious female*, *profound union* and *gateway* are gone.
 
 ## 2026-11-02 — 弱 is yielding, with no exceptions
 
