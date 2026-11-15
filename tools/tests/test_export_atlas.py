@@ -173,8 +173,10 @@ class EntryCard(unittest.TestCase):
 
 
 class SideForms(unittest.TestCase):
-    """`forms` tells the atlas how a part is written by position. 沖's card said
-    "built from 水" and a reader could not find water in 沖 (2026-11-15)."""
+    """`forms` tells the atlas how a part is written, and in which characters.
+    沖's card said "built from 水" and a reader could not find water in 沖; then
+    it said "written 氵 at the left, 氺 at the bottom", and 沖 has no 氺
+    (2026-11-15). A row is shown only on the cards of its own characters."""
 
     @classmethod
     def setUpClass(cls):
@@ -183,18 +185,35 @@ class SideForms(unittest.TestCase):
         from build_explorer import payload
         data = payload(conn)
         conn.close()
-        cls.parts = {p for c in data["chars"] for p in c["sem"] + c["pho"]}
-        cls.f = export_atlas.forms(cls.parts)
+        cls.built = {}
+        for c in data["chars"]:
+            for p in c["sem"] + c["pho"]:
+                cls.built.setdefault(p, set()).add(c["c"])
+        cls.f = export_atlas.forms(cls.built)
 
-    def test_water_at_the_left(self):
-        self.assertIn(["氵", "at the left"], self.f["水"])
+    def rows_for(self, part, char):
+        return [r[:2] for r in self.f.get(part, []) if char in r[2]]
 
-    def test_only_parts_of_this_text(self):
-        self.assertTrue(set(self.f) <= self.parts)
+    def test_chong_is_water_at_the_left_and_nothing_else(self):
+        self.assertEqual(self.rows_for("水", "沖"), [["氵", "at the left"]])
 
-    def test_a_part_not_in_the_text_fails(self):
+    def test_tai_is_water_at_the_bottom(self):
+        self.assertEqual(self.rows_for("水", "泰"), [["氺", "at the bottom"]])
+
+    def test_a_character_writing_the_part_otherwise_gets_no_line(self):
+        self.assertEqual(self.rows_for("水", "益"), [])
+        self.assertEqual(self.rows_for("心", "志"), [])
+
+    def test_every_listed_character_is_built_from_its_part(self):
+        for part, rows in self.f.items():
+            for _, _, chars in rows:
+                self.assertTrue(set(chars) <= self.built[part], (part, chars))
+
+    def test_a_stray_character_fails(self):
+        built = {k: set(v) for k, v in self.built.items()}
+        built["水"].discard("沖")
         with self.assertRaises(SystemExit):
-            export_atlas.forms(self.parts - {"水"})
+            export_atlas.forms(built)
 
     def test_every_form_is_in_a_block_the_atlas_typesets(self):
         """The common fonts set the main CJK block; the atlas's rare-glyph font
@@ -202,10 +221,10 @@ class SideForms(unittest.TestCase):
         any other block could show as an empty box, so it has to wait for
         that font (chinese-atlas: atlas/fonts.py)."""
         for rows in self.f.values():
-            for form, _ in rows:
+            for form, _, _ in rows:
                 o = ord(form)
                 self.assertTrue(0x4E00 <= o <= 0x9FFF or 0x2E80 <= o <= 0x2EFF, form)
 
     def test_bamboo_and_foot(self):
-        self.assertIn(["⺮", "on top"], self.f["竹"])
-        self.assertIn(["⻊", "at the left"], self.f["足"])
+        self.assertEqual(self.rows_for("竹", "策"), [["⺮", "on top"]])
+        self.assertEqual(self.rows_for("足", "跨"), [["⻊", "at the left"]])

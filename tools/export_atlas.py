@@ -38,12 +38,14 @@ reads none of these keys.
 
 **And one key the atlas reads, added 2026-11-15:**
 
-    forms    {part: [[form, where], …]}  how a part is written by position: 水 → 氵
-                                         "at the left". From sources/component-forms.yaml,
-                                         only for parts this text's characters are built
-                                         from. A fact about the script, not about any one
-                                         character, so a reader can say "written 氵 at the
-                                         left" under 沖's 水 and stay true under 信's 言
+    forms    {part: [[form, where, chars], …]}
+                                         how a part is written, and in which characters:
+                                         水 → 氵 "at the left" in 沖, 治, 法 …; 氺 "at the
+                                         bottom" in 泰 alone. From sources/component-forms.yaml.
+                                         Show a row only on the cards of its `chars`: a
+                                         character that writes the part whole is on no row
+                                         (2026-11-15; the third element was added that day,
+                                         after rows read as general claims misled on 沖)
 
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
@@ -93,10 +95,12 @@ TEXT = {
 FORMS = ROOT / "sources" / "component-forms.yaml"
 
 
-def forms(parts):
-    """{part: [[form, where], …]} from sources/component-forms.yaml, for the
-    parts in `parts`. A listed part that no character is built from is a typo or
-    a stale row, and fails the build rather than shipping silently."""
+def forms(built):
+    """{part: [[form, where, chars], …]} from sources/component-forms.yaml.
+    `built` maps each part to the characters built from it. `chars` names the
+    characters that write the part in this form, so a reader shows the line
+    only on their cards. A row whose part, or one of whose characters, is not
+    in `built` is a typo or a stale row, and fails the build."""
     rows, cur = [], {}
     for line in FORMS.read_text(encoding="utf-8").split("\n"):
         s = line.strip()
@@ -112,10 +116,15 @@ def forms(parts):
         rows.append(cur)
     out = {}
     for r in rows:
-        if r["char"] not in parts:
+        if r["char"] not in built:
             raise SystemExit(f"  component-forms.yaml: {r['char']} is not a part "
                              f"of any character in this text")
-        out.setdefault(r["char"], []).append([r["form"], r["where"]])
+        stray = [c for c in r.get("chars", "") if c not in built[r["char"]]]
+        if not r.get("chars") or stray:
+            raise SystemExit(f"  component-forms.yaml: {r['char']} → {r['form']}: "
+                             f"{''.join(stray) or 'no chars'} — each listed character "
+                             f"must be built from {r['char']}")
+        out.setdefault(r["char"], []).append([r["form"], r["where"], r["chars"]])
     return out
 
 
@@ -267,9 +276,12 @@ def main():
             v[1] = card_english(v[1])
     TEXT["witness"]["carries"] = sum(1 for ch in data["chapters"].values() if ch[3])
 
-    parts = {p for c in data["chars"] for p in c["sem"] + c["pho"]}
+    built = {}
+    for c in data["chars"]:
+        for p in c["sem"] + c["pho"]:
+            built.setdefault(p, set()).add(c["c"])
     out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents,
-           "forms": forms(parts)}
+           "forms": forms(built)}
     # Indented, so a glossary edit shows up as a readable diff here too.
     OUT.write_text(json.dumps(out, ensure_ascii=False, sort_keys=True,
                               indent=1) + "\n", encoding="utf-8")
