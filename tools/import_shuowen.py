@@ -180,6 +180,8 @@ SHUOWEN_VARIANTS = {
 # entries.md lists every move under "Our readings of the parse" so a reader can
 # see which analyses are his and which are ours. Add a row only with evidence
 # from the dictionary itself, and only where the reading is argued in an entry.
+# A part's role here is a separate fact from what a witness means by writing
+# the part alone in a line: process/principles/part-role-is-not-the-reading.md.
 SOUND_PART_READINGS = {
     # 沖 is 涌搖也, "surging and shaking": nothing of 中 (zhōng — middle) is in
     # the meaning. The Sibu Congkan text writes 从水、中 with no 聲, but the same
