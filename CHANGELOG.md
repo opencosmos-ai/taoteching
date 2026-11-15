@@ -31,6 +31,13 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-15 — A part's written form, shown only where the character uses it
+
+Shalom read 沖's card, *"Written 氵 at the left, 氺 at the bottom,"* as saying 沖 writes water twice, and 沖 has no 氺. The rows had described each part in general; a card is read as describing its own character.
+
+- **`sources/component-forms.yaml` now lists, for each form, the characters that write it** (`chars`), judged by eye: 氵 in 31 characters, 氺 in 泰 (*tài* — great) alone, and none in 益 (*yì* — to increase), which lays water sideways on top. 肉 (*ròu* — flesh) splits into *at the left* and *at the bottom*, and 邑 (*yì* — city) gains *at the left* for 隣 (*lín* — neighbour). 26 rows, 191 character listings.
+- **The export carries them as a third element**, `[form, where, chars]`, and fails on a character not built from its row's part. `ARCHITECTURE.md` → *How the work reaches readers* is corrected in place.
+
 ## 2026-11-15 — The atlas's rare-glyph font, cut again: bamboo, foot, and 𨳲 (bì — to close)
 
 - **⺮ (竹, *zhú* — bamboo, on top) and ⻊ (足, *zú* — foot, at the left) join `sources/component-forms.yaml`**, now that the atlas's HanaMin subset carries the Radicals Supplement. Every positional form the file set out to hold is in it: 24 forms for 23 parts.

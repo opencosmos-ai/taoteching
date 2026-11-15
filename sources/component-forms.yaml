@@ -8,11 +8,15 @@
 # part goes and what it looks like there, and the export carries it to the
 # atlas as `forms`.
 #
-# WHAT IT CLAIMS. How a part is written in a given position, as a fact about
-# the script, the same in every character. It does not claim that any one
-# character uses the form: 信 (xìn — trust) writes 言 whole, and the card's
-# wording ("written 氵 at the left") stays true there too. The forms are the
-# standard positional variants of traditional typography, not in dispute.
+# WHAT IT CLAIMS. How a part is written in the characters listed against it,
+# and only there. Each row names the characters of this text that write the
+# part in that form, judged by eye in a standard traditional typeface. A
+# character that writes the part whole, or reshapes it past recognition, is on
+# no row, and its card says nothing: 信 (xìn — trust) writes 言 whole; 益 (yì —
+# to increase) lays 水 sideways on top; 春 (chūn — spring) keeps none of 艸.
+# Until 2026-11-15 the rows described the part in general, and the card read
+# them as a claim about its own character: 沖's said "written 氵 at the left, 氺
+# at the bottom", and 沖 has no 氺. Shalom caught it.
 #
 # WHAT IS LEFT OUT. A part whose side form is still recognizably itself (言, 糸,
 # 金 at the left).
@@ -23,78 +27,112 @@
 # waits until that font is cut again (chinese-atlas: atlas/fonts.py), and
 # tools/tests/test_export_atlas.py refuses it until then.
 #
-# Fields: char (the part, as 說文 names it) · form · where (completes "written
-# <form> …"). One row per form; a part may have several.
+# Fields: char (the part, as 說文 names it) · form · where (completes the
+# atlas's "Written here as <form>, its form …") · chars (the characters of this text that write it so). One row
+# per form and position; a part may have several. export_atlas.py fails on a
+# listed character that is not built from the row's part.
 
 - char: "人"
   form: "亻"
   where: "at the left"
+  chars: "何使仁作似侯傷保代伐俗儉化傫什伎伏伯佳侮倍倚偏偽儼信"
 - char: "水"
   form: "氵"
   where: "at the left"
+  chars: "治法清沖海深淵混滋江没淡淳濁汎況泣注泮活渙渝渾湛滅滌滿澹濟梁"
 - char: "水"
   form: "氺"
   where: "at the bottom"
+  chars: "泰"
 - char: "心"
   form: "忄"
   where: "at the left"
+  chars: "恃恍惚惟恢恬慎懷懼"
 - char: "手"
   form: "扌"
   where: "at the left"
+  chars: "損抱持挫捨扔搏攘投抗拔拙拱推握揣據攝攫"
 - char: "辵"
   form: "辶"
   where: "running under the character from the left"
+  chars: "道遠過進遺隨迷逝遂迎通遇達還"
 - char: "攴"
   form: "攵"
   where: "at the right"
+  chars: "故敗教救敵政數徹改攻敝敦畋"
 - char: "艸"
   form: "艹"
   where: "on top"
+  chars: "若芸華薄草荊荒蓋蔽蕪"
 - char: "犬"
   form: "犭"
   where: "at the left"
+  chars: "獨猶狗狂狎猛獵"
 - char: "肉"
   form: "月"
-  where: "at the left or the bottom, the same shape as 月 (yuè — moon)"
+  where: "at the left, the same shape as 月 (yuè — moon)"
+  chars: "能脆脫腹筋"
+- char: "肉"
+  form: "月"
+  where: "at the bottom, the same shape as 月 (yuè — moon)"
+  chars: "肖臂育骨"
 - char: "示"
   form: "礻"
   where: "at the left"
+  chars: "神禮祥禍福視社祀"
 - char: "刀"
   form: "刂"
   where: "at the right"
+  chars: "則利制剛割劌"
 - char: "火"
   form: "灬"
   where: "at the bottom"
+  chars: "然熙熱"
 - char: "邑"
   form: "阝"
   where: "at the right"
+  chars: "邦邪郊鄙鄰"
+- char: "邑"
+  form: "阝"
+  where: "at the left"
+  chars: "隣"
 - char: "𨸏"
   form: "阝"
   where: "at the left"
+  chars: "除阿降陰陳陸陽隅隱隳"
 - char: "衣"
   form: "衤"
   where: "at the left"
+  chars: "被補褐"
 - char: "牛"
   form: "牜"
   where: "at the left"
+  chars: "物牝牡"
 - char: "食"
   form: "飠"
   where: "at the left"
+  chars: "餘飢"
 - char: "玉"
   form: "王"
   where: "at the left, without its dot, the same shape as 王 (wáng — king)"
+  chars: "瑕"
 - char: "老"
   form: "耂"
   where: "on top"
+  chars: "孝"
 - char: "网"
   form: "罒"
   where: "on top"
+  chars: "罪置"
 - char: "仌"
   form: "冫"
   where: "at the left"
+  chars: "冰"
 - char: "竹"
   form: "⺮"
   where: "on top"
+  chars: "筋策篤籌籥"
 - char: "足"
   form: "⻊"
   where: "at the left"
+  chars: "跨蹶"
