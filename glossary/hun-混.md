@@ -51,7 +51,7 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 
 **"undifferentiated"** is a philosopher's word for a river's word, and it names an absence: *un-*, the differences missing. 豐流 names a presence, the flow full of everything. It also fails the pointing test. Laozi could point at a flooded river, not at the undifferentiated.
 
-**"blend"** is something someone does on purpose, a cook's word or a tea merchant's. 混 happens of itself, the way a flood mixes. *Blend* also reads 沖 (*chōng*) at ch 42, which is under review on its own (`WORKLIST.md` T2-41).
+**"blend"** is something someone does on purpose, a cook's word or a tea merchant's. 混 happens of itself, the way a flood mixes. *Blend* is set aside for 沖 (*chōng*) at ch 42 too, for want of any witness behind it (`glossary/chong-沖.md`).
 
 **"merge"** fits ch 14, where three become one, and nothing else: at ch 15 and ch 25 there is nothing being merged into anything. It also loses the water.
 

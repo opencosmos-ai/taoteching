@@ -175,6 +175,22 @@ SHUOWEN_VARIANTS = {
 }
 
 
+# Parts this edition reads differently from the vendored text, and why. Xu Shen's
+# definition stays verbatim in the `definition` column; only the parse moves, and
+# entries.md lists every move under "Our readings of the parse" so a reader can
+# see which analyses are his and which are ours. Add a row only with evidence
+# from the dictionary itself, and only where the reading is argued in an entry.
+SOUND_PART_READINGS = {
+    # 沖 is 涌搖也, "surging and shaking": nothing of 中 (zhōng — middle) is in
+    # the meaning. The Sibu Congkan text writes 从水、中 with no 聲, but the same
+    # dictionary marks 中 as the sound part of its siblings 盅 (从皿中聲) and 忠
+    # (从心中聲). Argued in glossary/chong-沖.md (2026-11-15).
+    "沖": ("中", "沖 is 涌搖也, surging water; 中 gives the sound, as Xu Shen "
+                 "says outright of 盅 (从皿中聲) and 忠 (从心中聲). The vendored "
+                 "text writes 从水、中 without 聲. Argued in glossary/chong-沖.md"),
+}
+
+
 def parse_analysis(text):
     """Split a 說文 entry into gloss, semantic parts, phonetic parts, and kind.
 
@@ -372,6 +388,12 @@ def build(corpus_chars):
         g, sem, phon, kind, head = parse_analysis(e["definition"])
         e.update(gloss=g, semantic=sem, phonetic=phon, kind=kind,
                  section_head=head)
+    for c, (part, _why) in SOUND_PART_READINGS.items():
+        e = hits.get(c)
+        if e and part in e["semantic"]:
+            e["semantic"] = [x for x in e["semantic"] if x != part]
+            e["phonetic"] = e["phonetic"] + [part]
+            e["kind"] = "phonetic-compound" if e["semantic"] else "phonetic-only"
     return entries, hits
 
 
@@ -396,7 +418,9 @@ imported_by: "tools/import_shuowen.py"
 **selection**: only the characters that occur in this text, which is the corpus
 lexicon rather than the dictionary. The Chinese is Xu Shen's and is public domain
 by age; the parse into semantic and phonetic components is mechanical, from his
-own 从X / X聲 formulas, and is recorded here rather than inferred at read time.*
+own 从X / X聲 formulas, and is recorded here rather than inferred at read time.
+The few rows this edition reads otherwise are listed at the end, under "Our
+readings of the parse."*
 
 **The definitions are untranslated, deliberately.** Machine-rendering ~800
 classical Chinese definitions would manufacture scholarship nobody did. Component
@@ -425,6 +449,18 @@ def write(hits, missing):
             f"{e['kind']} | {''.join(e['semantic'])} | {''.join(e['phonetic'])} | "
             f"{e['fanqie']} | {e['definition']} |"
         )
+    moved = [c for c in sorted(SOUND_PART_READINGS) if c in hits]
+    if moved:
+        lines.append(
+            "\n## Our readings of the parse\n\n"
+            "*Rows where this edition reads a part differently from the vendored "
+            "text. The definition column above is still Xu Shen's, verbatim; only "
+            "the parse is ours. See `SOUND_PART_READINGS` in "
+            "`tools/import_shuowen.py`.*\n"
+        )
+        for c in moved:
+            part, why = SOUND_PART_READINGS[c]
+            lines.append(f"- **{c}** — {part} read as the sound part. {why}.")
     if missing:
         lines.append(
             "\n## Not matched to a 說文 entry\n\n"

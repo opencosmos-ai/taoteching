@@ -8875,21 +8875,21 @@
   },
   {
    "id": "char:沖",
-   "tier": "section",
-   "label": "沖 chōng · empty / blending",
+   "tier": "quote",
+   "label": "沖 chōng · empty",
    "parent": "work:tao-te-ching-ormsby",
    "tradition": "taoism",
    "domain": "wisdom",
    "category": "character",
    "han": "沖",
    "pinyin": "chōng",
-   "gloss": "empty / blending",
-   "ourRender": null,
-   "locked": false,
-   "triageTier": null,
+   "gloss": "empty",
+   "ourRender": "empty",
+   "locked": true,
+   "triageTier": "locked",
    "centrality": 0.025,
    "occurrences": 3,
-   "construction": "compound",
+   "construction": "phonetic-compound",
    "shuowenSection": "水",
    "degree": 5,
    "x": 0.0,
@@ -29968,7 +29968,7 @@
   {
    "source": "part:中",
    "target": "char:沖",
-   "type": "builds_semantic"
+   "type": "builds_phonetic"
   },
   {
    "source": "part:水",

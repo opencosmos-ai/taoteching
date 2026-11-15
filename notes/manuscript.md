@@ -170,6 +170,12 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 河上公's lemma reads 似**若**存, and the Siku edition of 王弼 carries the collation note 〔案或一作若〕 — *"for 或, one edition reads 若."* 或 (*huò* — perhaps) and 若 (*ruò* — as if) are hedges of the same force, so **nothing turns on it**: the line carries a doubled hedge, 似 plus one of them, under either reading. Recorded so it is not rediscovered later as if it were news, since the line was rewritten on 2026-08-31. *(Ch 4 is **not attested at Guodian**; it rests on the silks and later.)*
 
+### Ch 4 · 道沖 / 道盅 — the empty-vessel word, spelled with water
+
+**Xu Shen's copy of the Laozi wrote this line with 盅 (*zhōng* — an empty vessel).** The *Shuowen* quotes it under that character: 盅：器虛也……《老子》曰：「道盅而用之。」 (*"盅 is a vessel's emptiness… the Laozi says: 'the Tao is 盅, and using it…'"*). Fu Yi writes 盅 too. Silk A is damaged here; silk B prints 沖 (*chōng*), like our base.
+
+**We keep the base graph and read it as 盅**, so the line stays *"The Tao is empty, and using it, it never fills."* Read as itself, 沖 is 涌搖也, *"surging and shaking"*, and the line's own 不盈 (*bù yíng* — never fills) asks for an emptiness. The two words share 中 (*zhōng*) as their sound part, which is how one could be written for the other. Heshang Gong reads the word as 中 (*middle*) here, and the English chooses Wang Bi's reading against fullness instead. Recorded 2026-11-15; the argument is in `glossary/chong-沖.md`.
+
 ### Ch 8 · 政善治 / 正善治 — and 說文 defines one as the other
 
 **Found 2026-09-02, reviewing the chapter.** Our base text (王弼, *Wáng Bì*) prints 政善治 with 政 (*zhèng* — government, administration); 河上公 (*Héshàng Gōng*)'s lemma prints **正**善治 with 正 (*zhèng* — straight, on the mark). His gloss fits the graph he prints: 无有不洗，清且平也 — *"there is nothing it does not wash; clean and **level**,"* where 平 (*píng* — level) answers 正 rather than 政.
@@ -332,13 +338,21 @@ Received: 晚成, "completed **late**." Mawangdui reads 免成, Guodian reads �
 
 Received: 教父, "father of **teaching**." Mawangdui reads 學父, "father of **learning**." We follow 學父 — *"I take this as the father of learning"* — the bolder reading, and the older one in the silk. (Two further points on this line. 父 (*fù* — father) is *father*, as 母 (*mǔ* — mother) is *mother*: Heshang Gong glosses it 始 (*shǐ* — beginning), and English *the father of* carries that sense without cooling the word into *origin* or *root*, which this note read until 2026-10-26, Shalom's call. And there is no possessive in the Chinese: it is "the father of learning," not "of *my* learning." The 吾 (*wú* — I) is only the one who adopts it.)
 
-### Ch 42 · 沖氣 / 中氣 — blending, or the breath in the middle — **undecided**
+### Ch 42 · 沖氣 / 中氣 — the breath within
 
-**Silk A reads 中氣以為和** (*zhōng qì yǐ wéi hé* — "the breath in the middle makes harmony") where our base reads 沖氣以為和 (*chōng qì yǐ wéi hé* — "blending the breath into harmony"). Silk B is damaged here; Guodian does not carry chapter 42.
+**Silk A reads 中氣以為和** (*zhōng qì yǐ wéi hé* — "the breath within makes harmony") where our base reads 沖氣以為和. Silk B is damaged here; Guodian does not carry the chapter. Beida also writes 中, on a secondhand transcription still to be checked against the printed edition. Fu Yi writes 衝 (*chōng* — to rush, to charge), and Fan Yingyuan is reported to write 盅 (*zhōng* — an empty vessel).
 
-**中 may be a word or a spelling.** 沖 (*chōng*) is 中 (*zhōng* — middle) with 氵 (water) added, and the silks often write a sound part bare, so 中 may simply spell 沖. Read as a word, the line names a third thing between yin and yang, the breath in the middle, which would make the chapter's 二生三 (*èr shēng sān* — "the two births the three") count yin, yang and that breath.
+**We follow silk A, and read 中 as a word** (Shalom's call, 2026-11-15). The verse reads *"…and the breath within makes harmony."* 中 is 沖's sound part, so on its own it could be a short spelling of 沖. Three things say it is not:
 
-**Why it is left open.** It is 沖's question (`WORKLIST.md` T2-41), and 沖 has no entry: chapter 4 reads it *empty*, chapter 42 *blending*, and the Shuowen 涌搖也 (*"surging and shaking"*). Heshang Gong's reading of chapter 42, breath passing through the hollows of things, is in `glossary/qi-氣.md`. Found 2026-11-01.
+- Silk A writes 沖 in full at ch 45, so its scribe had the longer graph and did not use it here.
+- Beida, a separate copy, writes 中 at the same spot.
+- Heshang Gong reads the received 沖 as 中 at both chs 4 and 42: 萬物中皆有元氣 (*"within all the countless things is the original breath"*).
+
+**Every witness that tells the three places apart sets ch 42 against chs 4 and 45**: silk A writes 中 here and 沖 at ch 45, and Fu Yi writes 衝 here and 盅 at chs 4 and 45. The received 沖 is one spelling over two words. *Within* is bare on purpose: it holds the breath between yin and yang, the third of 二生三 (*èr shēng sān* — "the two births the three"), and Heshang Gong's breath inside each thing. The argument, and what it costs, is in `glossary/chong-沖.md`.
+
+### Ch 45 · 大盈若沖 / 大滿若盅 — the empty vessel again
+
+Fu Yi writes 大滿若盅, with 盅 (*zhōng* — an empty vessel) for 沖 and 滿 (*mǎn* — full) for 盈 (*yíng* — full). Both silks print 沖, silk B with 如 (*rú* — like) for 若 (*ruò* — seems). The Guodian slips carry the chapter, and their published transcriptions differ between 盅 and 中 at this graph; it has not been checked against the plates. **We keep the base graph and read it as 盅**, as at ch 4: the frame 大X若Y (*dà X ruò Y* — "great X seems Y") sets each quality against its opposite, and the opposite of full is empty. Recorded 2026-11-15.
 
 ### Ch 46 · 禍莫大於不知足 — the manuscripts remember a third clause
 

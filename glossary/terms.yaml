@@ -487,6 +487,16 @@
   status: locked
   entry: glossary/qi-氣.md
 
+- term: "沖"
+  pinyin: "chōng"
+  render: "empty"
+  forbidden: ["the void", "emptiness", "vacuity", "vacuous"]
+  chapters: [4, 42, 45]
+  status: locked
+  entry: glossary/chong-沖.md
+  flexions:
+    - { english: "within", chapters: [42], why: "the older copies write 中 (zhōng — middle) here, a different word, and the verse follows them" }
+
 - term: "混"
   pinyin: "hùn"
   render: "mixed (adjective) · to mix (verb)"
