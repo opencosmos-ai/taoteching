@@ -400,6 +400,45 @@ def load_base_text():
     return {int(parts[i]): parts[i + 1] for i in range(1, len(parts), 2)}
 
 
+# ---------------------------------------------- where a glossary term stands
+#
+# The one rule for where a glossary term stands in the text and how often.
+# glossary/INDEX.md's chapter lists, terms.yaml's, and the `where` of every
+# entry in data/atlas-export.json all come from term_where(), and the Library
+# on opencosmos.ai reads that `where` rather than counting for itself. Two
+# copies of this rule disagreed once: INDEX counted only the first half of a
+# pairing, so 我 & 吾 stood in 7 chapters there and 19 in the Library
+# (2026-11-15). Count nowhere else.
+
+def term_parts(term):
+    """What a glossary term names: "無 & 有" → ["無", "有"], "天地" → ["天地"]."""
+    return [p.strip() for p in term.split("&") if p.strip()]
+
+
+def term_where(term, chapters):
+    """[["ch.line", n], …]: every line of the Chinese a term stands in, and how often.
+
+    `chapters` is load_chapters(). A line is a source row, numbered from 1 as
+    the export's `lines` are. Every half of a pairing counts, so 我 & 吾 stands
+    wherever 吾 does. Each part is counted on its own, without overlaps, so 天
+    counts the 天 inside 天地. Counting within a line means a compound never
+    matches across a line break.
+    """
+    parts = term_parts(term)
+    out = []
+    for n in sorted(chapters):
+        for i, row in enumerate(chapters[n].source_rows, 1):
+            k = sum(row.chinese.count(p) for p in parts)
+            if k:
+                out.append([f"{n}.{i}", k])
+    return out
+
+
+def term_chapters(where):
+    """The chapters a term_where() result stands in, in order."""
+    return sorted({int(k.split(".")[0]) for k, _ in where})
+
+
 # ----------------------------------------------------------------------- terms
 
 @dataclass
@@ -438,7 +477,7 @@ class Term:
     @property
     def characters(self):
         """The characters this lock governs. "無 & 有" governs both."""
-        return [p.strip() for p in self.term.split("&") if p.strip()]
+        return term_parts(self.term)
 
 
 def load_terms():

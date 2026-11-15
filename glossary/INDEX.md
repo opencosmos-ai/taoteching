@@ -11,18 +11,20 @@ python3 tools/build_index.py
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
+| **無 & 有** | *wú / yǒu* | absence / presence | "Being", "Non-Being", "existence", "the Void", "nothingness" | 57 | **locked** | [`wu-you-無有.md`](wu-you-無有.md) |
 | **為** | *wéi* | do / handle / serve as | "execute", "function as" | 48 | **locked** | [`wei-為.md`](wei-為.md) |
 | **天** | *tiān* | sky (as a tier) · nature / the natural (as an agent) | "Heaven", "Providence", "the Almighty", "the Cosmos" | 46 | **locked** | [`tian-天.md`](tian-天.md) |
-| **無 & 有** | *wú / yǒu* | absence / presence | "Being", "Non-Being", "existence", "the Void", "nothingness" | 40 | **locked** | [`wu-you-無有.md`](wu-you-無有.md) |
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
+| **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 19 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
 | **生** | *shēng* | give birth to / bear / bring forth | "generate", "produce", "manufacture", "create" | 19 | **locked** | [`sheng-生.md`](sheng-生.md) |
 | **善** | *shàn* | masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category) | "virtuous", "righteous", "saintly", "benevolent" | 18 | **locked** | [`shan-善.md`](shan-善.md) |
 | **行** | *xíng* | go / carry out / conduct · *follow* (ch 70, 78) · *ranks* (ch 69) | "action", "execute" | 17 | open — not yet a lock | [`xing-行.md`](xing-行.md) |
 | **德** | *dé* | integrity | "virtue", "moral excellence", "power" | 16 | **locked** | [`de-德.md`](de-德.md) |
+| **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 16 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **唯** | *wéi* | only · *yes* (ch 20) | "precisely" | 15 | **locked** | [`wei-唯.md`](wei-唯.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
@@ -36,15 +38,13 @@ python3 tools/build_index.py
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
 | **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
-| **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 8 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
+| **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 8 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
 | **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
 | **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
-| **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 7 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
 | **敢** | *gǎn* | push / venture — the forward press to take | "dare", "dares", "dared", "daring" | 7 | **locked** | [`gan-敢.md`](gan-敢.md) |
 | **柔** | *róu* | soft | "supple", "pliant", "pliable", "flexible", "gentle", "tender" | 7 | **locked** | [`rou-柔.md`](rou-柔.md) |
 | **爭** | *zhēng* | contend / contention | "compete", "competes", "competing", "competition" | 7 | **locked** | [`zheng-爭.md`](zheng-爭.md) |
-| **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 7 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
 | **谷** | *gǔ* | valley | "reservoir", "basin", "hollow", "the void", "emptiness", "nourish" | 7 | **locked** · binds taoteching only | [`gu-谷.md`](gu-谷.md) |
 | **弱** | *ruò* | yielding — and the verb *yield* where it makes something so | "weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
@@ -74,13 +74,13 @@ python3 tools/build_index.py
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
+| **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |
 | **復命** | *fù mìng* | returning to what is given | "returning to destiny", "restoring destiny", "returning to fate", "the mandate", "returning to what was given" | 1 | **locked** | [`fuming-復命.md`](fuming-復命.md) |
-| **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 1 | **locked** | [`fu-父.md`](fu-父.md) |
 | **魄** | *pò* | aliveness | "soul", "spirit", "life force", "life-force", "lifeforce", "vigor", "energy" | 1 | **locked** | [`po-魄.md`](po-魄.md) |
 
 ## Secondary characters
