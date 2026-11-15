@@ -27,29 +27,29 @@ The distinction is not our invention; Laozi uses both in a single four-character
 
 ### What each one does across the book
 
-**玄** is almost always a **naming of depth**, and it attaches to the greatest things: 玄牝, the *dark female* whose gate is the root of heaven and earth (6); 玄覽, the *dark mirror* to be wiped clean (10); 玄德, *profound integrity* — the book's highest praise, the bearing-without-possessing refrain (10, 51, 65: 玄德深矣，遠矣, "profound integrity is deep, is far"); 玄同, the *profound union* into which the sage dissolves (56). Nine appearances, all of them vertical: down, in, far.
+**玄** is almost always a **naming of depth**, and it attaches to the greatest things: 玄牝, the *dark female* whose gate is the root of heaven and earth (6); 玄覽, the *dark mirror* to be wiped clean (10); 玄德, *profound integrity* — the book's highest praise, the bearing-without-possessing refrain (10, 51, 65: 玄德深矣，遠矣, "profound integrity is deep, is far"); 玄同, *profound sameness*, being the same as the dust (56). Every appearance is vertical: down, in, far.
 
 **妙** is rarer and always **perceptual** — a quality noticed by a refined attention: 觀其妙 and 眾妙 in Chapter 1, 微妙 in 15, and 要妙 in 27, "the essential subtlety." It is what the finest seeing catches, and only the finest.
 
 ### How they meet in Chapter 1
 
-Now the architecture. Chapter 1 sets its two modes of attention side by side: 常無欲，以觀其**妙**；常有欲，以觀其**徼** — *ever desireless, observe its subtlety; ever desiring, observe its boundaries.* The still, wanting-nothing gaze perceives the fine inner grain (妙); the wanting gaze sees only edges and outcomes (徼). Then both modes, both names, are gathered: 同謂之**玄** — *together they are called dark.* And the last line: 玄之又玄，眾**妙**之門 — *dark, and dark again — the gate of all subtleties.*
+Now the architecture. Chapter 1 sets its two modes of attention side by side: 常無欲，以觀其**妙**；常有欲，以觀其**徼** — *ever desireless, you can observe its subtlety; ever desiring, you can observe its direction.* The still, wanting-nothing gaze perceives the fine grain where things begin (妙); the wanting gaze reads which way they are heading (徼). Neither is ranked: the next line gives both the same origin. Then both modes, both names, are gathered: 同謂之**玄** — *together they are called dark.* And the last line: 玄之又玄，眾**妙**之門 — *dark, and dark again — the gate of all subtlety.*
 
 Read with the words kept apart, the line is not a tautology but a *structure*: **the unfathomable dark is the gate; the countless fine wonders are what come through it.** One darkness, ten-thousand delicacies. Note the grammar proving it — 妙 takes 眾, "the many": subtleties are **plural and countable**. 玄 never pluralizes; it only deepens, by repetition (玄之又玄). Fineness spreads out; darkness goes down. And note the practical stake: 妙 is the object of 觀, *to observe.* It is something you can actually **see** — barely, and only when desire quiets. Call it "mystery" and you have told the reader that what Laozi just instructed them to look at cannot be looked at. The instruction dissolves into fog.
 
 ### What is set aside
 
-**"Mystery" for either word, and above all for both.** It is the single most common flattening in the English tradition, and it costs the chapter its shape. We also set aside "the occult" and "the arcane" for 玄 — imports from Western esotericism, secret societies and hidden doctrines, where Laozi has only a dye vat and a night sky. And we set aside the fused phrase **"profound mystery,"** which welds the two words into one blur (this is why 玄同 in Chapter 56 is *the profound union*, not "the profound mystery" — 同 is the sameness one merges into, and 玄 only says how deep it goes).
+**"Mystery" for either word, and above all for both.** It is the single most common flattening in the English tradition, and it costs the chapter its shape. We also set aside "the occult" and "the arcane" for 玄 — imports from Western esotericism, secret societies and hidden doctrines, where Laozi has only a dye vat and a night sky. And we set aside the fused phrase **"profound mystery,"** which welds the two words into one blur (this is why 玄同 in Chapter 56 is *profound sameness*, not "the profound mystery" — 同 is the sameness, and 玄 only says how deep it goes).
 
 ### Working register
 
 **玄** flexes by position, and we let it, within one image — *darkness that is depth*:
 
-- bound in a compound → **profound** (玄德 *profound integrity*; 玄同 *profound union*; 玄通 *dark-penetrating*)
+- bound in a compound → **profound** (玄德 *profound integrity*; 玄同 *profound sameness*; 玄通 *dark-penetrating*)
 - standing alone and being *named*, as in Chapter 1 → **dark** (同謂之玄, "together they are called dark"; 玄之又玄, "dark, and dark again"), because here the color-image is doing the work and "profound" abstracts it away
-- as an attribute of the feminine → **dark / mysterious female** for 玄牝 (6), keeping the womb-dark literal
+- as an attribute of the feminine → **dark female** for 玄牝 (6), keeping the womb-dark literal (*mysterious* is refused, below and in the frontmatter)
 
-**妙** holds one root — **subtle / subtlety** — with *wonder, marvel* available where the astonishment, not the fineness, is the point. In Chapter 1 we keep the **echo**: "observe its subtlety" … "the gateway of all subtleties." "The gate of all wonders" is the more beautiful English, and we give it up on purpose — 妙 sounds twice in twenty-odd characters, and the second use must be recognizably the first: *what you glimpsed in your stillness is what the gate is the gate of.*
+**妙** holds one root — **subtle / subtlety** — with *wonder, marvel* available where the astonishment, not the fineness, is the point. In Chapter 1 we keep the **echo** word for word: "observe its subtlety" … "the gate of all subtlety." The two 妙 stand in different slots, owned by 其 (*qí* — its) in line 5 and counted by 眾 (*zhòng* — the many) in line 9, and one English has to survive both; *subtlety* does, with *all* carrying 眾. The plural *subtleties* was the earlier rendering and was let go on 2026-11-14 (Shalom's call): in English it leans toward *nuances*, fine points of an argument, and it broke the echo. What the singular softens is Wang Bi's distributive reading, 眾妙皆從同而出 (*"the many subtle things all come out from the same"*); *all* keeps the many in it. "The gate of all wonders" is the more beautiful English, and we give it up on purpose — 妙 sounds twice in twenty-odd characters, and the second use must be recognizably the first: *what you glimpsed in your stillness is what the gate is the gate of.*
 
 ### Left open
 

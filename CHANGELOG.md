@@ -31,6 +31,16 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-14 — Chapter 1's second half, revised for sharing
+
+Shalom asked whether chapter 1 had lost its mystery by refusing the word *mystery*. The answer was that the mystery lives in 玄 (*xuán* — dark), as Wang Bi reads it, and the English had been weakening 玄 right where the Chinese doubles it. Five lines changed, each argued in [`chapters/001.md`](chapters/001.md) → Notes.
+
+- **Line 8: *"Together, they are called dark."*** *(was: "profound darkness.")* One character, one word, and the stanza break removed, so the chain 同謂之玄。玄之又玄 (*"…called dark. / Dark, and dark again"*) passes 玄 across the line as the Chinese does. Closes ch 1 in `WORKLIST.md` T3-15.
+- **Line 9: *"the gate of all subtlety."*** *(was: "all subtleties.")* 妙 (*miào* — subtle) takes one English in both its slots, line 5's *its subtlety* and line 9's *all subtlety*; the plural leaned toward *nuances*.
+- **Lines 5–6: *"Ever desireless, you can observe its subtlety; / Ever desiring, you can observe its direction."*** *(was: "observe its subtlety … observe its boundaries.")* A capacity, as both commentators read 以 (*yǐ* — thereby); *Ever* leads both lines, as 常 (*cháng* — ever) does; and 徼 (*jiào*) is a heading, not an edge, after Heshang Gong. Closes ch 1's two minors in R6.
+- **A reader's note on 常**, written to be shared: the moon that always comes back, and Han Fei's paradox that what is constant is what is not fixed. [`glossary/chang-常.md`](glossary/chang-常.md) gains that argument, the ch 34 link, and *perennial* and *abiding* set aside.
+- **One fact recorded:** the *Yongle Dadian* prints no 故 (*gù* — so) at line 5 ([`sources/variants.yaml`](sources/variants.yaml)), for T3-12 to weigh. The 玄妙 (*xuán miào* — dark and subtle) entry's drift fixed: *mysterious female*, *profound union* and *gateway* are gone.
+
 ## 2026-11-02 — 弱 is yielding, with no exceptions
 
 Shalom asked whether *weaken* was right for chapter 3's 弱其志 (*ruò qí zhì* — "make their ambition 弱"). It was not, the argument that had kept it does not hold, and it left the book.
