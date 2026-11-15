@@ -36,6 +36,15 @@ chapter — opencosmos ADR 0020), so it carries four keys the atlas ignores:
 Additions only, so `contract` stays 1: the atlas refuses any other number, and
 reads none of these keys.
 
+**And one key the atlas reads, added 2026-11-15:**
+
+    forms    {part: [[form, where], …]}  how a part is written by position: 水 → 氵
+                                         "at the left". From sources/component-forms.yaml,
+                                         only for parts this text's characters are built
+                                         from. A fact about the script, not about any one
+                                         character, so a reader can say "written 氵 at the
+                                         left" under 沖's 水 and stay true under 信's 言
+
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. One thing is shaped for display: each character's English
@@ -79,6 +88,35 @@ TEXT = {
     # that says so.
     "witness": {"name": "Guodian", "date": "c. 300 BCE"},
 }
+
+
+FORMS = ROOT / "sources" / "component-forms.yaml"
+
+
+def forms(parts):
+    """{part: [[form, where], …]} from sources/component-forms.yaml, for the
+    parts in `parts`. A listed part that no character is built from is a typo or
+    a stale row, and fails the build rather than shipping silently."""
+    rows, cur = [], {}
+    for line in FORMS.read_text(encoding="utf-8").split("\n"):
+        s = line.strip()
+        if s.startswith("#") or not s:
+            continue
+        if s.startswith("- "):
+            if cur:
+                rows.append(cur)
+            cur, s = {}, s[2:]
+        k, v = s.split(":", 1)
+        cur[k.strip()] = v.strip().strip('"')
+    if cur:
+        rows.append(cur)
+    out = {}
+    for r in rows:
+        if r["char"] not in parts:
+            raise SystemExit(f"  component-forms.yaml: {r['char']} is not a part "
+                             f"of any character in this text")
+        out.setdefault(r["char"], []).append([r["form"], r["where"]])
+    return out
 
 
 def entries():
@@ -229,7 +267,9 @@ def main():
             v[1] = card_english(v[1])
     TEXT["witness"]["carries"] = sum(1 for ch in data["chapters"].values() if ch[3])
 
-    out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents}
+    parts = {p for c in data["chars"] for p in c["sem"] + c["pho"]}
+    out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents,
+           "forms": forms(parts)}
     # Indented, so a glossary edit shows up as a readable diff here too.
     OUT.write_text(json.dumps(out, ensure_ascii=False, sort_keys=True,
                               indent=1) + "\n", encoding="utf-8")

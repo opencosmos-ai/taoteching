@@ -1,0 +1,91 @@
+# Character components — the forms they take inside a character
+#
+# WHY THIS FILE EXISTS. A part changes shape with its place. 水 (shuǐ — water)
+# standing alone is 水; at the left of a character it is squeezed into three
+# strokes, 氵, which is how 沖 (chōng — empty, surging) writes it. 說文 names the
+# part, so the atlas's card for 沖 said "built from 水", and a reader looking at
+# 沖 could not find water anywhere in it (2026-11-15). This file says where each
+# part goes and what it looks like there, and the export carries it to the
+# atlas as `forms`.
+#
+# WHAT IT CLAIMS. How a part is written in a given position, as a fact about
+# the script, the same in every character. It does not claim that any one
+# character uses the form: 信 (xìn — trust) writes 言 whole, and the card's
+# wording ("written 氵 at the left") stays true there too. The forms are the
+# standard positional variants of traditional typography, not in dispute.
+#
+# WHAT IS LEFT OUT. A part whose side form is still recognizably itself (言, 糸,
+# 金 at the left). And, for now, two forms outside Unicode's main CJK block,
+# which the atlas's rare-character font does not yet carry: ⺮ (竹, bamboo, on
+# top) and ⻊ (足, foot, at the left). Add them when the font subset is rebuilt
+# (chinese-atlas: atlas/fonts.py).
+#
+# Fields: char (the part, as 說文 names it) · form · where (completes "written
+# <form> …"). One row per form; a part may have several.
+
+- char: "人"
+  form: "亻"
+  where: "at the left"
+- char: "水"
+  form: "氵"
+  where: "at the left"
+- char: "水"
+  form: "氺"
+  where: "at the bottom"
+- char: "心"
+  form: "忄"
+  where: "at the left"
+- char: "手"
+  form: "扌"
+  where: "at the left"
+- char: "辵"
+  form: "辶"
+  where: "running under the character from the left"
+- char: "攴"
+  form: "攵"
+  where: "at the right"
+- char: "艸"
+  form: "艹"
+  where: "on top"
+- char: "犬"
+  form: "犭"
+  where: "at the left"
+- char: "肉"
+  form: "月"
+  where: "at the left or the bottom, the same shape as 月 (yuè — moon)"
+- char: "示"
+  form: "礻"
+  where: "at the left"
+- char: "刀"
+  form: "刂"
+  where: "at the right"
+- char: "火"
+  form: "灬"
+  where: "at the bottom"
+- char: "邑"
+  form: "阝"
+  where: "at the right"
+- char: "𨸏"
+  form: "阝"
+  where: "at the left"
+- char: "衣"
+  form: "衤"
+  where: "at the left"
+- char: "牛"
+  form: "牜"
+  where: "at the left"
+- char: "食"
+  form: "飠"
+  where: "at the left"
+- char: "玉"
+  form: "王"
+  where: "at the left, without its dot, the same shape as 王 (wáng — king)"
+- char: "老"
+  form: "耂"
+  where: "on top"
+- char: "网"
+  form: "罒"
+  where: "on top"
+- char: "仌"
+  form: "冫"
+  where: "at the left"
