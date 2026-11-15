@@ -34,7 +34,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 ## 2026-11-15 — The atlas's rare-glyph font, cut again: bamboo and foot, and 𨳲
 
 - **⺮ (竹, *zhú* — bamboo, on top) and ⻊ (足, *zú* — foot, at the left) join `sources/component-forms.yaml`**, now that the atlas's HanaMin subset carries the Radicals Supplement. Every positional form the file set out to hold is in it: 24 forms for 23 parts.
-- **𨳲 no longer shows as an empty box** on the atlas. It had been missing from the subset, and every atlas build had warned about it. One run of the atlas's `atlas/fonts.py` closed both gaps.
+- **𨳲 (*bì* — an old form of 閉, *bì* — to close) no longer shows as an empty box** on the atlas, in Heshang Gong's 𨳲口不妄言 (*bì kǒu bù wàng yán* — "closes the mouth from speaking wildly"), quoted in the 勤 (*qín* — strain) entry. It had been missing from the subset, and every atlas build had warned about it. One run of the atlas's `atlas/fonts.py` closed both gaps.
 
 ## 2026-11-15 — The atlas shows how a part is written, and every 說文 part comes through
 
