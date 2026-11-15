@@ -56,6 +56,15 @@ class EntryShape(unittest.TestCase):
         done = sorted(s for s in NOT_YET if s in stems and not missing(GLOSSARY / f"{s}.md"))
         self.assertEqual(done, [], "these now follow the template: take them off NOT_YET")
 
+    def test_no_entry_uses_a_markdown_link(self):
+        # The character atlas renders every entry as written, and its renderer
+        # links code-span paths (`glossary/rou-柔.md`, `process/principles/x.md`)
+        # but not [text](url). One Markdown link in ruo-弱 failed every atlas
+        # build from 2026-11-02 to 2026-11-15, so the live atlas stood still.
+        bad = sorted(p.stem for p in entries()
+                     if re.search(r"\]\(", p.read_text(encoding="utf-8")))
+        self.assertEqual(bad, [], "write a path as a code span, `like/this.md`, not [text](url)")
+
 
 if __name__ == "__main__":
     unittest.main()
