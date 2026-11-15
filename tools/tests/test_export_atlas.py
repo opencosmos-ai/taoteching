@@ -170,3 +170,35 @@ class EntryCard(unittest.TestCase):
     def test_without_one_the_ruling_is_followed_by_its_flexions(self):
         e = {"card": "", "render": "strain", "flexions": [{"english": "labor"}]}
         self.assertEqual(export_atlas.entry_card(e), "strain · labor")
+
+
+class SideForms(unittest.TestCase):
+    """`forms` tells the atlas how a part is written by position. 沖's card said
+    "built from 水" and a reader could not find water in 沖 (2026-11-15)."""
+
+    @classmethod
+    def setUpClass(cls):
+        conn = sqlite3.connect(":memory:")
+        build_db.build(conn)
+        from build_explorer import payload
+        data = payload(conn)
+        conn.close()
+        cls.parts = {p for c in data["chars"] for p in c["sem"] + c["pho"]}
+        cls.f = export_atlas.forms(cls.parts)
+
+    def test_water_at_the_left(self):
+        self.assertIn(["氵", "at the left"], self.f["水"])
+
+    def test_only_parts_of_this_text(self):
+        self.assertTrue(set(self.f) <= self.parts)
+
+    def test_a_part_not_in_the_text_fails(self):
+        with self.assertRaises(SystemExit):
+            export_atlas.forms(self.parts - {"水"})
+
+    def test_every_form_is_in_the_main_cjk_block(self):
+        """The atlas's rare-character font does not carry the CJK Radicals
+        Supplement (⺮, ⻊); a form from there would show as an empty box."""
+        for rows in self.f.values():
+            for form, _ in rows:
+                self.assertTrue(0x4E00 <= ord(form) <= 0x9FFF, form)

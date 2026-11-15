@@ -25,6 +25,7 @@ Five things, and the first is the one to remember:
   │     notes, frontmatter        (render, flexions,         component-glosses │
   │                                forbidden)                grammar-glosses   │
   │                                                          word-glosses      │
+  │                                                          component-forms   │
   └────────┬───────────────────────────┬──────────────────────────┬────────────┘
            │                           │                          │
            ├───────────────────────────┼──────────────────────────┤
@@ -58,7 +59,9 @@ Five things, and the first is the one to remember:
   rebuilds it; delete chapters/ and the translation is gone.
 
   data/atlas-export.json is the one file anything outside this repository
-  reads. See "How the work reaches readers" below.
+  reads. See "How the work reaches readers" below. export_atlas.py also reads
+  sources/component-forms.yaml directly, without the sqlite: how each part is
+  written in place.
 ```
 
 ---
@@ -94,7 +97,7 @@ Five things, and the first is the one to remember:
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
 | **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | One file per term, plus the secondary characters each absorbs through `covers:` — [`glossary/INDEX.md`](glossary/INDEX.md) counts and lists them |
-| **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `grammar-glosses.yaml`, `word-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
+| **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `component-forms.yaml`, `grammar-glosses.yaml`, `word-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
 
@@ -146,7 +149,7 @@ This is the operational heart of the system. A question about one character beco
 | `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | no — gitignored; every tool that reads it rebuilds it in seconds, and the CSVs below are its reviewable form |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
 | `data/explorer.html` | `build_explorer.py` | the sqlite | no — gitignored; a local, self-contained preview. The public atlas is built from `atlas-export.json` |
-| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim, plus each chapter's `## Notes` | yes — **CI fails if stale**. The contract two readers build from, and nothing else in this repo is read by either: the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas), and opencosmos.ai's Library and Cosmo, which also read its `verse`, `notes`, `literal` and `align` keys ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). A change on `main` signals all three: `notify-atlas.yml` and `notify-opencosmos.yml` |
+| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim, plus each chapter's `## Notes`, plus `sources/component-forms.yaml` | yes — **CI fails if stale**. The contract two readers build from, and nothing else in this repo is read by either: the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas), and opencosmos.ai's Library and Cosmo, which also read its `verse`, `notes`, `literal` and `align` keys ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). A change on `main` signals all three: `notify-atlas.yml` and `notify-opencosmos.yml` |
 | `data/constellation-*.json` | `build_graph.py` | the sqlite | yes — **CI fails if stale** |
 | `sources/commentaries/*/` | `import_commentary.py` | cached wikitext (gitignored) | yes — re-runnable to byte-identical output |
 | `sources/shuowen/entries.md` | `import_shuowen.py` | cached wikitext | yes |
@@ -181,12 +184,19 @@ This is the operational heart of the system. A question about one character beco
 ```
 
 - **[The Character Atlas & Glossary](https://chinese-atlas.opencosmos.ai/)** ([opencosmos-ai/chinese-atlas](https://github.com/opencosmos-ai/chinese-atlas)) serves every OpenCosmos Chinese translation from one site.
-  - **The atlas** is a page per character: its parts, its 說文 analysis, every line it stands in, and each translation's rendering, taken from the gloss tiers below.
+  - **The atlas** is a page per character: its parts and how each is written in place, its 說文 analysis, every line it stands in, and each translation's rendering, taken from the gloss tiers below.
   - **The glossary** publishes every `glossary/*.md` entry rendered as written. An entry is edited here and never there; the site is rebuilt within a minute or two of the merge, and an hourly rebuild catches a missed dispatch.
   - Its *Suggest an edit* buttons carry the same prompts as [`CONTRIBUTING.md`](CONTRIBUTING.md), which hand a reader's suggestion to the `suggest-edit` and `contribute` skills here.
 - **[The Library](https://opencosmos.ai/library/sources/taoism-tao-te-ching)** on opencosmos.ai reads the export's `verse`, `notes`, `literal` and `align` keys, a chapter to a page, and Cosmo's copy of the text is regenerated from the same file ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)).
 
 **Each signal needs a secret, and skips with a notice without one**: `ATLAS_DISPATCH_TOKEN` for the atlas, `VERCEL_DEPLOY_HOOK` and `KNOWLEDGE_DISPATCH_TOKEN` for opencosmos.ai. A skipped dispatch is not an error, because each reader also rebuilds on its own.
+
+**A part's written form is a fact about the script, held once.** 說文 names a part in its full form, and a part changes shape with its place: 水 (*shuǐ* — water) is written 氵 at a character's left, 肉 (*ròu* — flesh) as 月 (*yuè* — moon). So the atlas's card for 沖 (*chōng*) said "built from 水", and a reader looking at 沖 could not find water in it (2026-11-15). The fix is shaped by four decisions:
+
+- **The fact lives here**, in [`sources/component-forms.yaml`](sources/component-forms.yaml), one row per part, form and position, beside the parts' English in `component-glosses.yaml`. It is not the atlas's to keep, because the atlas has no content of its own.
+- **It travels in the contract**, as the export's `forms` key: `{part: [[form, where], …]}`, only for parts this text's characters are built from, and the build fails on a row naming any other part, so a typo cannot ship. An addition, so `contract` stays 1. The atlas merges `forms` across texts, the first text to state a part's form speaking for all, and an export without the key adds none.
+- **It is a claim about the part, never about one character.** "Written 氵 at the left" stays true under 信 (*xìn* — trust), which writes 言 (*yán* — speech) whole. A per-character claim would need a decomposition database this repository does not carry, and the general one answers the reader's question without it.
+- **Only forms in Unicode's main CJK block, for now.** ⺮ (竹, *zhú* — bamboo, on top) and ⻊ (足, *zú* — foot, at the left) sit in the Radicals Supplement, which the atlas's rare-glyph font does not yet carry (next paragraph). They join the file when that font is rebuilt, and `tools/tests/test_export_atlas.py` holds the line until then.
 
 **A rare character can outrun the atlas's font.** The atlas ships a subset of a rare-glyph typeface, cut to the characters it shows. An entry that names a character outside every common font, as 聖's names 𡈼 (*tǐng* — a figure standing on the ground), publishes anyway; the atlas build warns, and the glyph shows as a box until `python3 -m atlas.fonts` is run in the atlas repository. The translation is never blocked by a font.
 

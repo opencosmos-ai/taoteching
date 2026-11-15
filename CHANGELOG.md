@@ -31,6 +31,13 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-15 — The atlas shows how a part is written, and every 說文 part comes through
+
+Shalom opened the atlas card for 沖 (*chōng* — empty, or surging) to look up the ch 42 variant, and could not find its parts in the character. Two causes, two fixes.
+
+- **Every part a 說文 analysis lists now reaches the card.** The parser treated 、, the list comma, as the end of an analysis, so 从水、中 (*cóng shuǐ, zhōng* — "from water and middle") lost 中. Forty-five characters had lost a part this way, among them 是 (*shì* — this), 眾 (*zhòng* — the many) and 義 (*yì* — duty). Fixed in `tools/import_shuowen.py`, and five common radicals that came back were glossed in `sources/component-glosses.yaml` (PR #75).
+- **The atlas says how a part is written in place.** Under 沖's 水 (*shuǐ* — water) the card now reads *"Written 氵 at the left, 氺 at the bottom."* The fact lives in the new [`sources/component-forms.yaml`](sources/component-forms.yaml), 22 forms for 21 parts, and reaches the atlas as the export's `forms` key; contract 1 is unchanged. The design and its limits are in [`ARCHITECTURE.md`](ARCHITECTURE.md) → *How the work reaches readers*.
+
 ## 2026-11-15 — Chapter 27's five masteries, one frame
 
 - **Line 2: *"Masterful speaking leaves no flaw."*** *(was: "is flawless.")* 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") now reads *leaves no* or *uses no* in all five lines, and line 2 answers line 1's *leaves no tracks*. Closes ch 27 in T3-18, and with it every form-audit departure in the chapter. Argued in [`chapters/027.md`](chapters/027.md) → Notes.
