@@ -31,6 +31,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-14 — Chapter 27's close: the mirror kept, and 妙 keeps its lock
+
+Shalom asked whether *"This is the essential secret"* was off for 妙 (*miào* — subtle). It was, and the form audit and the accuracy audit had both said so. The last block of the chapter was revised, each line argued in [`chapters/027.md`](chapters/027.md) → Notes.
+
+- **Line 13: *"This is called the essential subtlety."*** *(was: "This is the essential secret.")* 妙 is locked to *subtle*, and *secret* carried the esoteric register the lock refuses; 謂 (*wèi* — called) is restored, so 是謂襲明 and 是謂要妙 share one frame. Closes accuracy-audit finding 13 and T3-11's ch 27.
+- **Lines 11–12: *"Not to value the teacher, not to love the raw material: / however clever, one is greatly lost."*** *(was: "…is a sign of great confusion. / Even those who appear intelligent are lost.")* 大迷 (*dà mí* — greatly lost) said once, not twice, and *a sign of* and *appear* gone. Closes accuracy-audit finding 15.
+- **Lines 9–10: *"So the masterful are the teachers of the unmasterful; / the unmasterful are the raw material of the masterful."*** *(was: "the masterful one naturally teaches the novice. / And the novice is the raw material of the master.")* The mirror on 善人 (*shàn rén* — the masterful) is restored, *masterful / unmasterful* matches chs 49, 62 and 79, and 師 (*shī*) is *teacher* in both its slots, so *master* no longer names two characters. Closes T3-16.
+
 ## 2026-11-14 — Chapter 1's second half, revised for sharing
 
 Shalom asked whether chapter 1 had lost its mystery by refusing the word *mystery*. The answer was that the mystery lives in 玄 (*xuán* — dark), as Wang Bi reads it, and the English had been weakening 玄 right where the Chinese doubles it. Six lines changed, each argued in [`chapters/001.md`](chapters/001.md) → Notes.

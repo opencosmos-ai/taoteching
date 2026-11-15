@@ -231,7 +231,7 @@
 |---|---|---|
 | 13 | 寵辱若驚 (*chǒng rǔ ruò jīng* — "favor and disgrace are both a shock") and 貴大患若身 (*guì dà huàn ruò shēn* — "prize great trouble as your body"), each asked about in turn with 何謂 (*hé wèi* — "what does it mean") | **Kept** |
 | 26 | 重 / 輕 (*zhòng / qīng* — heavy / light) and 靜 / 躁 (*jìng / zào* — still / agitated), closed by 輕則失本，躁則失君 (*qīng zé shī běn, zào zé shī jūn* — "lightness loses the root, agitation loses the lord") | **Kept** |
-| 27 | 善人 (*shàn rén* — the masterful) with 師 (*shī* — teacher), and 不善人 (*bù shàn rén* — the unmasterful) with 資 (*zī* — material) | **Lost**: *master* crosses from strand b's partner to strand a (T3-16) |
+| 27 | 善人 (*shàn rén* — the masterful) with 師 (*shī* — teacher), and 不善人 (*bù shàn rén* — the unmasterful) with 資 (*zī* — material) | **Kept**, since 2026-11-14: *teachers · raw material · teacher · raw material* (T3-16, closed) |
 | 29 | 為 (*wéi* — handle) and 執 (*zhí* — grasp): 不可為也，不可執也 / 為者敗之，執者失之 (*bù kě wéi yě, bù kě zhí yě / wéi zhě bài zhī, zhí zhě shī zhī*) | **Kept**: *handled · grasped · handle · grasp* |
 | 44 | 名 / 身 (*míng / shēn* — reputation / body) with 甚愛 (*shèn ài* — great attachment), and 貨 (*huò* — goods) with 多藏 (*duō cáng* — much hoarding), both closed on 亡 (*wáng* — loss) | **Kept** |
 | 46 | 禍…不知足 (*huò… bù zhī zú* — "disaster… not knowing enough") and 咎…欲得 (*jiù… yù dé* — "fault… craving to get"), strand a closed by 知足之足 (*zhī zú zhī zú* — "the enough of knowing enough") | **Lost**: strand a reads *discontent*, then *knowing you have enough* (T3-18) |
@@ -356,7 +356,7 @@
 **What the full read changed.** Steps 1–3 are done for every chapter. Step 4 is the work now owed: the losses are filed in `WORKLIST.md`, and no line of the translation was changed by this pass. Four patterns came out of the whole book that no single chapter shows:
 
 - **A chain cut by a stanza break.** Five chapters hand a chain's words from one line to the next across a blank line, which this file's own rule 3 forbids: 1, 25, 28, 55 and 65. `WORKLIST.md` T3-15.
-- **Ch 27's mirror, and a word doing two jobs.** 善人 (*shàn rén* — the masterful person) and 不善人 (*bù shàn rén* — the unmasterful person) trade places in a chiasmus, and the English renders them *the masterful one*, *the novice* and *the master*, while 師 (*shī* — teacher) reads *teaches* and then *the master*. So *master* names two characters in adjacent lines, and the mirror is gone. T3-16.
+- **Ch 27's mirror, and a word doing two jobs.** 善人 (*shàn rén* — the masterful person) and 不善人 (*bù shàn rén* — the unmasterful person) trade places in a chiasmus, and the English renders them *the masterful one*, *the novice* and *the master*, while 師 (*shī* — teacher) reads *teaches* and then *the master*. So *master* names two characters in adjacent lines, and the mirror is gone. T3-16, **closed 2026-11-14**: the mirror is kept, and 師 is *teacher*.
 - **Formulas that drift between chapters.** The seed scan read repeats inside a chapter well. Across chapters, a dozen verbatim phrases wear two Englishes, and in one case, ch 69, the note says the English was matched to ch 46 on purpose while the page no longer matches. T3-17.
 - **A cross-chapter formula and a within-chapter series can pull in opposite directions.** 為而不恃 (*wéi ér bù shì* — "acts, yet does not rely on it") reads *acts, yet relies on nothing* or *acting yet relying on nothing* at 2, 10, 51 and 77, one English every time. That consistency is exactly what breaks the 而不 (*ér bù* — "and does not") series inside ch 2, 10 and 51. Whoever decides T3-13's ch 2 decides all four chapters.
 
@@ -394,7 +394,7 @@
 | 24 | couplet, mirror of 22, refrain shared with 31 | 🔶 | T3-17 |
 | 25 | sung pause, couplet, chain ×2, series | 🔶 | T3-14 · T3-15 · T3-18 |
 | 26 | strands, ring, double sense, varied repetition | 🔶 | T3-18 |
-| 27 | series, couplet, chiasmus, strands, this is called ×2 | 🔶 | T3-11 · T3-16 · T3-18 |
+| 27 | series, couplet, chiasmus, strands, this is called ×2 | 🔶 | T3-18 |
 | 28 | three parallel stanzas, chain ×4 | 🔶 | T3-15 |
 | 29 | series ×2, couplet | ✅ | |
 | 30 | series, chain, refrain shared with 55 | 🔶 | T3-18 |
@@ -458,15 +458,17 @@
 
 **The order to take them in.** Deepest first: **T3-16** (ch 27, where the mirror and a lock both break), then **T3-13's ch 2 / T3-17's 為而不恃** (*wéi ér bù shì* — "acts, yet does not rely on it"), which decides four chapters at once, then **T3-12** (the connectives, book-wide), then the rest by row.
 
-#### T3-16 · Ch 27 — the mirror on the masterful
+#### T3-16 · Ch 27 — the mirror on the masterful — done, 2026-11-14 (Shalom's call)
 
 The couplet and its sequel are one structure with two strands (§11): 善人 (*shàn rén* — the masterful) goes with 師 (*shī* — teacher), and 不善人 (*bù shàn rén* — the unmasterful) goes with 資 (*zī* — material). **Resolve.**
 
-> So the masterful are the teachers of the unmasterful.  
-> The unmasterful are the raw material of the masterful.  
-> Not to value the teacher, not to love the raw material,  
-> even for the clever, is great confusion.  
+> So the masterful are the teachers of the unmasterful;  
+> the unmasterful are the raw material of the masterful.  
+> Not to value the teacher, not to love the raw material:  
+> however clever, one is greatly lost.  
 > This is called the essential subtlety.
+
+*As applied, 2026-11-14. The proposal read "…even for the clever, is great confusion"; 雖智大迷 (*suī zhì dà mí* — "though clever, greatly lost") took the accuracy audit's line instead (finding 15). `chapters/027.md` → Notes.*
 
 - *Masterful / unmasterful* is the lock's English for 善 (*shàn*) of people, and what chs 49 and 62 already say. *Novice* and *master* go, *naturally* goes (it has no character), and *master* stops naming two characters.
 - 雖智大迷 (*suī zhì dà mí* — "though clever, greatly lost") keeps 迷 (*mí*) as *confusion* and folds *Even those who appear intelligent are lost* into the line it belongs to.
@@ -709,7 +711,7 @@ See *Chapter 6* above. Chain kept; doubling open (T2-67). The second read confir
 **Kept:** the couplet 重為輕根，靜為躁君 (*zhòng wéi qīng gēn, jìng wéi zào jūn* — "the heavy is the root of the light, stillness is the lord of the agitated") and its ring in the closing couplet, *Lightness loses the root. / Agitation loses the ruler*, all four words in place. **Lost, an echo:** 輜重 (*zī zhòng* — the baggage train, literally "the heavy wagons") carries line 1's 重 (*zhòng* — heavy), which is why the noble does not leave it; *baggage wagons* drops the weight. `chapters/026.md`'s notes chose the English and quotes Wang Bi's 以重為本故不離 (*yǐ zhòng wéi běn gù bù lí* — "takes the heavy as the base, so does not leave it"), but does not say the echo was let go (T3-18). **Departed (§13):** 根 / 本 (*gēn / běn* — root / base) both read *root*, which Wang Bi's same gloss licenses.
 
 #### Ch 27
-**Kept:** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") ×5 in its frame, four of them *uses no* or *leaves no*; 常善救人，故無棄人 / 常善救物，故無棄物 (*cháng shàn jiù rén, gù wú qì rén / … wù* — "always masterful at rescuing people, so no one is abandoned / … things"); 是謂襲明 (*shì wèi xí míng* — "this is called clarity worn covered"), matched with ch 52. **Lost:** the chiasmus 善人者，不善人之師；不善人者，善人之資 (*shàn rén zhě, bù shàn rén zhī shī; bù shàn rén zhě, shàn rén zhī zī* — "the masterful are the teachers of the unmasterful; the unmasterful are the material of the masterful"), and the next line's 師 / 資 (*shī / zī* — teacher / material) (T3-16). 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw") reads *is flawless*, the one member out of the *uses no* frame (T3-18). 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") as *This is the essential secret*: the formula slips, and *secret* breaks 妙 (*miào*)'s lock, *subtle* (T3-11, T3-16).
+**Kept:** 善▢無▢ (*shàn ▢ wú ▢* — "masterful ▢ has no ▢") ×5 in its frame, four of them *uses no* or *leaves no*; 常善救人，故無棄人 / 常善救物，故無棄物 (*cháng shàn jiù rén, gù wú qì rén / … wù* — "always masterful at rescuing people, so no one is abandoned / … things"); 是謂襲明 (*shì wèi xí míng* — "this is called clarity worn covered"), matched with ch 52. **Lost, and restored 2026-11-14:** the chiasmus 善人者，不善人之師；不善人者，善人之資 (*shàn rén zhě, bù shàn rén zhī shī; bù shàn rén zhě, shàn rén zhī zī* — "the masterful are the teachers of the unmasterful; the unmasterful are the material of the masterful"), and the next line's 師 / 資 (*shī / zī* — teacher / material) (T3-16). 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful speech has no flaw") reads *is flawless*, the one member out of the *uses no* frame (T3-18). 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") as *This is the essential secret*: the formula slipped, and *secret* broke 妙 (*miào*)'s lock, *subtle* (T3-11, T3-16); restored 2026-11-14.
 
 #### Ch 28
 **Kept:** the three stanzas on one frame, 知其▢，守其▢，為天下▢ (*zhī qí ▢, shǒu qí ▢, wéi tiān xià ▢* — "know the ▢, hold to the ▢, serve as the world's ▢"), every slot in place; the chain 為天下▢。為天下▢ (*wéi tiān xià ▢. wéi tiān xià ▢* — "serve as the world's ▢. Serve as the world's ▢") ×3; 常德 (*cháng dé* — the ever-present integrity) ×3; 復歸於 (*fù guī yú* — "return again to") ×3. The third stanza's 白 (*bái* — white) for 榮 (*róng* — glory) is a text decision, `notes/manuscript.md` → *Ch 28*. **Lost:** the fourth chain, 復歸於樸。樸散則為器 (*fù guī yú pǔ. pǔ sàn zé wéi qì* — "return to the uncarved wood. The uncarved wood scatters and becomes vessels"), crosses a stanza break, and closing it would make the third stanza longer than the first two (T3-15).
