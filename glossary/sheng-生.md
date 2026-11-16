@@ -19,7 +19,7 @@ pairing: false
 
 ### What 生 does in the Daodejing — the mother
 
-Follow 生 through the text and you are following the mother. Laozi's cosmos is not built, forged, or commanded into being; it is *born*. The Tao is **萬物之母**, the mother of the countless things (1); **天下母**, the mother of the world (25, 52). Its generative source is **玄牝** — the *mysterious female*, whose gate is called the root of heaven and earth (6): a cosmic womb, "continuous, barely there, inexhaustible." The sage is told to *keep to the female* (守其雌, 28), to *play the female* at the gate of heaven (為雌, 10), to become the **valley** (谷) — low, empty, receptive, and therefore endlessly giving. And the fruit of all this bearing is the **newborn** (嬰兒, 赤子), Laozi's image of intact and undissipated life (10, 20, 28, 55). 母, 牝, 雌, 谷, 嬰兒 — the whole web is feminine, and 生 is its verb. When the Tao 生s the world, it is *gestating* it, not engineering it.
+Follow 生 through the text and you are following the mother. Laozi's cosmos is not built, forged, or commanded into being; it is *born*. The Tao is **萬物之母**, the mother of the countless things (1); **天下母**, the mother of the world (25, 52). Its generative source is **玄牝** — the *dark female*, whose gate is called the root of sky and earth (6): a cosmic womb, "unceasing yet barely perceptible." The sage is told to *hold to the hen* (守其雌, 28), to *be the hen* when the gate of the sky opens and closes (為雌, 10), to become the **valley** (谷) — low, empty, receptive, and therefore endlessly giving. And the fruit of all this bearing is the **newborn** (嬰兒, 赤子), Laozi's image of intact and undissipated life (10, 20, 28, 55). 母, 牝, 雌, 谷, 嬰兒 — the whole web is feminine, and 生 is its verb. When the Tao 生s the world, it is *gestating* it, not engineering it.
 
 ### The releasing — 生而不有
 
@@ -35,7 +35,7 @@ So we set aside **"generate"** — it hums with the mechanical and the electrica
 
 - transitive and generative → **gives birth to / bears / brings forth** (道生之 → "the Tao gives birth to them"; 生而不有 → "gives birth without possessing")
 - as a noun → **life / the living** (出生入死; 善攝生者)
-- intransitive → **arises / comes forth / is born** (有生於無 → "being is born from non-being")
+- intransitive → **arises / comes forth / is born** (有生於無 → "Presence is born from absence")
 
 One register — sprouting, bearing, alive — and one standing prohibition: **never "manufacture," never "generate."** The word must stay warm.
 
