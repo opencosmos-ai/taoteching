@@ -57,7 +57,7 @@ There is a deeper reason the word belongs to *this* translation in particular. O
 
 ### Working register
 
-**德 = "integrity," everywhere.** One word, no exceptions, even in the rare line where 德 is a thing's own nature acting upon it (*"integrity rears them"*, 51). Retire *virtue*, *power*, and *lifeforce*. For 玄德, use **"hidden integrity"** or **"profound integrity."**
+**德 = "integrity," everywhere.** One word, no exceptions, even in the rare line where 德 is a thing's own nature acting upon it (*"integrity rears them"*, 51). Retire *virtue*, *power*, and *lifeforce*. For 玄德, use **"profound integrity,"** as the 玄 lock rules (`glossary/xuan-miao-玄妙.md`).
 
 Hear it in the hard places:
 
