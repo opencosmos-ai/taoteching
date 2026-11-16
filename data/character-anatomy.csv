@@ -402,7 +402,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 雌,cí,the hen,the hen,雌,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),此 (Cǐ = this / here),2,locked,0.0163,鳥母也。从隹此聲。,"The mother among birds. From 隹 (zhuī — a short-tailed bird), with 此 (cǐ) as its sound."
 驕,jiāo,arrogant / arrogance,,驕,exact,馬,phonetic-compound,,馬 (mǎ = horse),喬 (? = not yet glossed),2,,0.0163,馬高六尺爲驕。从馬喬聲。《詩》曰：“我馬唯驕。”一曰野馬。,
 勿,wù,do not,,勿,exact,勿,pictograph,,,,4,,0.0159,州里所建旗。象其柄，有三游。雜帛，幅半異。所以趣民，故遽，稱勿勿。凡勿之屬皆从勿。,
-儉,jiǎn,frugality,frugality,儉,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",僉 (? = not yet glossed),3,,0.0157,約也。从人僉聲。,"To bind. From 人 (rén — person), with 僉 (qiān) for sound."
+儉,jiǎn,frugality,frugality,儉,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",僉 (? = not yet glossed),3,locked,0.0157,約也。从人僉聲。,"To bind. From 人 (rén — person), with 僉 (qiān) for sound."
 兌,duì,opening,,兌,exact,-{儿}-,unanalysed,,,,3,,0.0154,說也。从-{儿}-㕣聲。,
 室,shì,room,,室,exact,宀,compound,,"宀 (mián = a roof; under a house) + 至 (zhì = reach / utmost, most / come (72))",,2,,0.0154,實也。从宀从至。至，所止也。,
 己,jǐ,oneself / themselves,,己,exact,己,pictograph,,,,2,,0.0154,中宮也。象萬物辟藏詘形也。己承戊，象人腹。凡己之屬皆从己。,

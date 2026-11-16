@@ -5,7 +5,7 @@ render: "frugality"
 forbidden: ["economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation"]
 shuowen: "To bind. From 人 (rén — person), with 僉 (qiān) for sound."
 chapters: [67]
-status: open
+status: locked
 pairing: false
 ---
 
@@ -13,7 +13,7 @@ pairing: false
 
 *Say "jyen," dipping. Three times in eighty-one chapters, all of them in chapter 67, where it is the second of the book's three treasures. Too small for any count to find, and half of the chapter's argument.*
 
-**Recommended: 儉 → "frugality," in all three lines.** *(Not "economy," which now names a nation's markets. Not "thrift," which saves and puts by, the granary's work and 嗇's (sè — conserving). Not "austerity," which spends nothing and so can reach nowhere. Not "simplicity," which is forbidden for 樸 (pǔ — the uncarved) and names a style of life, not a way of spending. Not "moderation" or "restraint," which hold back an impulse where 儉 holds back an outlay. Not "conservation," whose verb is 嗇's at chapter 59.)*
+**Locked: 儉 → "frugality," in all three lines.** *(Shalom's call, 2026-11-15.)* *(Not "economy," which now names a nation's markets. Not "thrift," which saves and puts by, the granary's work and 嗇's (sè — conserving). Not "austerity," which spends nothing and so can reach nowhere. Not "simplicity," which is forbidden for 樸 (pǔ — the uncarved) and names a style of life, not a way of spending. Not "moderation" or "restraint," which hold back an impulse where 儉 holds back an outlay. Not "conservation," whose verb is 嗇's at chapter 59.)*
 
 ### The graph: a person, and a cord wound round
 

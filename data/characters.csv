@@ -254,7 +254,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 代,dài,take the place of,word,,,,,3,1,74,74,74,0.57,
 伐,fá,claim credit (自伐) / brag (30),word,,,,,3,3,"22,24,30",22,30,0.57,
 俗,Sú,worldly (俗人) / ways (80),word,,,,,3,2,"20,80",20,80,0.57,
-儉,jiǎn,frugality,open,,frugality,open,economy; thrift; austerity; simplicity; moderation; restraint; conservation,3,1,67,67,67,0.57,glossary/jian-儉.md
+儉,jiǎn,frugality,locked,,frugality,locked,economy; thrift; austerity; simplicity; moderation; restraint; conservation,3,1,67,67,67,0.57,glossary/jian-儉.md
 兌,duì,opening,word,,,,,3,2,"52,56",52,56,0.57,
 兒,ér,"child (嬰兒, infant)",word,,,,,3,3,"10,20,28",10,28,0.57,
 全,quán,whole · stay whole · keep whole (transitive),locked,,whole · stay whole · keep whole (transitive),locked,complete; perfect; flawless; restore; made whole,3,1,22,22,22,0.57,glossary/quan-全.md

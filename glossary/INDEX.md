@@ -78,7 +78,7 @@ python3 tools/build_index.py
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
-| **儉** | *jiǎn* | frugality | "economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation" | 1 | open — not yet a lock | [`jian-儉.md`](jian-儉.md) |
+| **儉** | *jiǎn* | frugality | "economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation" | 1 | **locked** | [`jian-儉.md`](jian-儉.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |

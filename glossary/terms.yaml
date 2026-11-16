@@ -607,7 +607,7 @@
   render: "frugality"
   forbidden: ["economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation"]
   chapters: [67]
-  status: open
+  status: locked
   entry: glossary/jian-儉.md
 
 - term: "全"
