@@ -1458,7 +1458,7 @@ The objection is that it sounds passive, in a chapter that claims this treasure 
 
 ### Ch 67 · 儉 → "frugality", and 且 → "grab at"
 
-**儉 (*jiǎn*)** appears only in this chapter, and it is economic rather than ascetic. 王弼: 節儉愛費，天下不匱 — *"sparing, and careful of expenditure, so the world does not run short."* 河上公 makes it fiscal: 賦儉若取之於己也 — *"taxing sparingly, as if taking from one's own."* Hence **frugality**, and the paradox stands as the Chinese has it: 儉故能廣, *spend little and your reach is wide.*
+**儉 (*jiǎn*)** appears only in this chapter, and it is economic rather than ascetic. 王弼: 節儉愛費，天下不匱 — *"sparing, and careful of expenditure, so the world does not run short."* 河上公 makes it fiscal: 賦儉若取之於己也 — *"taxing sparingly, as if taking from one's own."* Hence **frugality**, and the paradox stands as the Chinese has it: 儉故能廣, *spend little and your reach is wide.* The full argument, with Han Fei's winter and 嗇 (*sè* — conserving) at ch 59 beside it, is in `glossary/jian-儉.md`.
 
 **且 (*qiě*)** in 今捨慈且勇 is usually read as a bland conjunction, *and*. 王弼 says otherwise, in three characters: 且猶取也 — ***"且 is like 取 (to grab, to take)."*** So the line is not "abandon tenderness and be brave" but **"abandon tenderness and grab at courage."** The grabbing is what makes the triple an indictment rather than a description, and it is why the verdict is 死矣, *that is death*.
 

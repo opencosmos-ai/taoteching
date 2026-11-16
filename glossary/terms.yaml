@@ -602,6 +602,14 @@
   binds: [taoteching]
   # covers 雄 -> the rooster
 
+- term: "儉"
+  pinyin: "jiǎn"
+  render: "frugality"
+  forbidden: ["economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation"]
+  chapters: [67]
+  status: open
+  entry: glossary/jian-儉.md
+
 - term: "全"
   pinyin: "quán"
   render: "whole · stay whole · keep whole (transitive)"

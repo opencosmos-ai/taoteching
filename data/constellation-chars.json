@@ -1153,7 +1153,7 @@
   },
   {
    "id": "char:儉",
-   "tier": "section",
+   "tier": "quote",
    "label": "儉 jiǎn · frugality",
    "parent": "work:tao-te-ching-ormsby",
    "tradition": "taoism",
@@ -1162,7 +1162,7 @@
    "han": "儉",
    "pinyin": "jiǎn",
    "gloss": "frugality",
-   "ourRender": null,
+   "ourRender": "frugality",
    "locked": false,
    "triageTier": null,
    "centrality": 0.0157,
