@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**73 entries.** Sorted by how much of the book each term touches.
+**74 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -74,6 +74,7 @@ python3 tools/build_index.py
 | **知足** | *zhī zú* | knowing you have enough / contentment · *discontent* (ch 46) | "sufficiency", "fulfilled", "satisfaction" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
+| **廣** | *guǎng* | broad · breadth (as a noun) | "boundless", "limitless", "vast", "expansive", "reach far" | 2 | **locked** | [`guang-廣.md`](guang-廣.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |

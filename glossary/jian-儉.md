@@ -13,7 +13,7 @@ pairing: false
 
 *Say "jyen," dipping. Three times in eighty-one chapters, all of them in chapter 67, where it is the second of the book's three treasures. Too small for any count to find, and half of the chapter's argument.*
 
-**Locked: 儉 → "frugality," in all three lines.** *(Shalom's call, 2026-11-15.)* *(Not "economy," which now names a nation's markets. Not "thrift," which saves and puts by, the granary's work and 嗇's (sè — conserving). Not "austerity," which spends nothing and so can reach nowhere. Not "simplicity," which is forbidden for 樸 (pǔ — the uncarved) and names a style of life, not a way of spending. Not "moderation" or "restraint," which hold back an impulse where 儉 holds back an outlay. Not "conservation," whose verb is 嗇's at chapter 59.)*
+**Locked: 儉 → "frugality," in all three lines.** *(Shalom's call, 2026-11-15.)* *(Not "economy," which now names a nation's markets. Not "thrift," which saves and puts by, the granary's work and 嗇's (sè — conserving). Not "austerity," which spends nothing and so can broaden nothing. Not "simplicity," which is forbidden for 樸 (pǔ — the uncarved) and names a style of life, not a way of spending. Not "moderation" or "restraint," which hold back an impulse where 儉 holds back an outlay. Not "conservation," whose verb is 嗇's at chapter 59.)*
 
 ### The graph: a person, and a cord wound round
 
@@ -27,7 +27,7 @@ pairing: false
 
 **Where the picture stops.** The graph itself pictures only the person. 僉 (*qiān* — "all, together") is its sound, on the Shuowen's account, and reading *gathering everything in* out of it would be making a meaning from a sound part. The cord is in the definition, not in the character.
 
-### Three lines, and in each one frugality buys reach
+### Three lines, and in each one frugality buys breadth
 
 > *I have three treasures. I hold them and keep them safe.*
 > *The first is tenderness.*
@@ -42,7 +42,7 @@ pairing: false
 > — chapter 67
 
 > *Tenderness, and so you can be brave.*
-> *Frugality, and so you can reach far.*
+> *Frugality, and so you can be broad.*
 > *Never pushing to be first in the world, and so you can become chief of the vessels.*
 >
 > 慈故能勇；
@@ -52,7 +52,7 @@ pairing: false
 > — chapter 67
 
 > *Now: to abandon tenderness and grab at courage,*
-> *to abandon frugality and grab at reach,*
+> *to abandon frugality and grab at breadth,*
 > *to abandon the rear and grab at the front.*
 > *That is death.*
 >
@@ -67,7 +67,7 @@ pairing: false
 
 ### The middle treasure: a small thing that buys a wide one
 
-**The three treasures share one shape, and 儉 is what shows it is a shape.** Each is a small thing that yields a large one: tenderness yields courage, frugality yields reach, staying behind yields leadership. Each failure is the same failure: grabbing the large thing directly. 慈 (*cí* — tenderness) and 勇 (*yǒng* — courage) could be read as a paradox about the heart, and 先 (*xiān* — first) and 後 (*hòu* — behind) as a paradox about rank. **With 儉 and 廣 (*guǎng* — broad) between them, it is plainly arithmetic.** Spend little, and what you have goes far. The middle term makes the other two legible as one claim.
+**The three treasures share one shape, and 儉 is what shows it is a shape.** Each is a small thing that yields a large one: tenderness yields courage, frugality yields breadth, staying behind yields leadership. Each failure is the same failure: grabbing the large thing directly. 慈 (*cí* — tenderness) and 勇 (*yǒng* — courage) could be read as a paradox about the heart, and 先 (*xiān* — first) and 後 (*hòu* — behind) as a paradox about rank. **With 儉 and 廣 (*guǎng* — broad) between them, it is plainly arithmetic.** Spend little, and what you have goes far. The middle term makes the other two legible as one claim.
 
 That is why an entry for 慈 alone left the chapter half-argued. Three occurrences put 儉 below every frequency threshold, the same way three occurrences hid 全 (*quán* — whole) until it turned out to be chapter 22's whole argument (`quan-全.md`).
 
@@ -127,8 +127,8 @@ The family has a third member, and it is a different kind of word. 知足 (*zhī
 ### What is set aside
 
 - **"Economy."** Once exact: the Greek word is the management of a household, which is Wang Bi's reading. In English now it names a nation's markets, and *"the second is economy"* reads as fiscal policy.
-- **"Thrift."** The root is good (*thrift* is what makes you *thrive*), but the word saves and puts by: the savings bank, the thrift society, the self-improvement sermon. Putting by is the granary's work, which is 嗇's. 儉 in chapter 67 is not a reserve. It is a way of spending that makes what is spent reach far.
-- **"Austerity."** Self-denial for its own sake, the hair shirt and the budget cut. It fails the hardest line outright: austerity spends nothing, so it can reach nowhere, and 儉故能廣 says frugality is how you reach. All three commentators read 儉 as economy, never as a discipline of the body.
+- **"Thrift."** The root is good (*thrift* is what makes you *thrive*), but the word saves and puts by: the savings bank, the thrift society, the self-improvement sermon. Putting by is the granary's work, which is 嗇's. 儉 in chapter 67 is not a reserve. It is a way of spending that makes what is spent go far.
+- **"Austerity."** Self-denial for its own sake, the hair shirt and the budget cut. It fails the hardest line outright: austerity spends nothing, so it can broaden nothing, and 儉故能廣 says frugality is how you become broad. All three commentators read 儉 as economy, never as a discipline of the body.
 - **"Simplicity."** Forbidden for 樸 (*pǔ* — the uncarved), whose plainness the book argues in its own chapters. And simplicity is a style of life, where 儉 is a way of spending.
 - **"Moderation."** The mean between too much and too little, a Greek doctrine. 儉 is not a midpoint: it leans toward less, and the chapter sets it against grabbing, not against having too little.
 - **"Restraint."** The nearest English to the Shuowen's cord: to restrain is to hold back with a tie. In English, though, restraint holds back an *impulse*, which makes it a moral self-control and a sermon word, and it drops the purse all three commentators find. 儉 holds back an *outlay*.
@@ -142,13 +142,13 @@ The family has a third member, and it is a different kind of word. 知足 (*zhī
 | Where 儉 stands | English | Why |
 |---|---|---|
 | 二曰儉 | *The second is frugality.* | the name of a treasure, counted as a noun |
-| 儉故能廣 | *Frugality, and so you can reach far.* | the condition, standing as topic, as 慈 does in the line before it |
-| 捨儉且廣 | *to abandon frugality and grab at reach* | the object of 捨 (*shě* — to let go of) |
+| 儉故能廣 | *Frugality, and so you can be broad.* | the condition, standing as topic, as 慈 does in the line before it |
+| 捨儉且廣 | *to abandon frugality and grab at breadth* | the object of 捨 (*shě* — to let go of) |
 
 One English, a noun every time. The three treasures stand in parallel three times over, and the English repeats as the Chinese does, so nothing goes in `flexions:`. **It is never *be frugal*:** an imperative would turn a treasure the speaker holds into advice to the reader, and the chapter never advises.
 
 ### Left open
 
-- **Whose reach.** All three of the oldest readings put the breadth on *other people*: Han Fei's household grows rich and his state broad with people, Wang Bi's world never runs short, and Heshang Gong's people have broad daily means. *"And so you can reach far"* puts it on the frugal one's own range. The grammar allows it, since 能 (*néng* — can) has the frugal one as subject, but the English drops what every commentator saw: frugality's breadth goes outward, and in Heshang Gong it is the powerful sparing what they take. The question is 廣's, which has no entry and two Englishes, *reach* here and *boundless* at chapter 41 (`WORKLIST.md` T2-81).
+- **Whose breadth.** All three of the oldest readings put the breadth on *other people*: Han Fei's household grows rich and his state broad with people, Wang Bi's world never runs short, and Heshang Gong's people have broad daily means. *"And so you can be broad"* keeps the frugal one as subject, as 能 (*néng* — can) does in the Chinese. It no longer turns the breadth into the frugal one's own range, but it does not say what every commentator saw: frugality's breadth goes outward, and in Heshang Gong it is the powerful sparing what they take (`guang-廣.md`).
 - **The oldest graphs, and the silks.** The oracle-bone and bronze record for 儉 has not been checked for this entry. Chinese Wikisource's collated text of the Mawangdui silks reads 二曰檢 (*èr yuē jiǎn*), writing 儉's sound part with 木 (*mù* — wood) in place of 人, and 茲 (*zī*) for 慈. Neither reading is confirmed against a printed edition or recorded in `sources/variants.yaml`, so nothing here rests on them (`WORKLIST.md` T2-80).
 - **嗇 has no entry.** Its English, *conserving*, holds in chapter 59 by the verse alone. A `covers:` line here would lock it beside 儉, and that is a ruling for Shalom, not for this entry (`glossary/TRIAGE.md`).
