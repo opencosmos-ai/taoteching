@@ -41,7 +41,7 @@ See how steadily he uses it:
 
 - *道生之，德畜之* (Ch 51) — the Tao gives them life; their **德** rears them. De is the Tao's care operating from *inside* each creature.
 - *孔德之容，惟道是從* (Ch 21) — the form of great **德** follows the Tao alone. De is what the Tao looks like once it takes a body.
-- *含德之厚，比於赤子* (Ch 55) — one whose **德** runs deep is like a newborn. Not a saint — an *infant*: maximally whole, nothing yet spent, nothing yet divided.
+- *含德之厚，比於赤子* (Ch 55) — a person with abundant **德** is like a newborn. Not a saint — an *infant*: maximally whole, nothing yet spent, nothing yet divided.
 - *玄德* (Ch 10, 51, 65) — "dark," hidden **德**: the power to give birth, nourish, and lead *without possessing or controlling*. Potency with the ego removed.
 
 And notice, just as carefully, what 德 is **not**. It is not social morality — Laozi keeps it a rung above the moral virtues and unconscious of itself. It is not 氣 (qì), the breath — that is fuel, the thermodynamics of a living body; 德 is the *intactness and rightness of the whole*, not its energy. And it is not generic "power" — it never slides into force or strength (力, 強), which Laozi distrusts. 德 is quieter than any of these: **the uncontrived, un-fragmented capacity to be exactly and fully what you are.**
@@ -57,14 +57,14 @@ There is a deeper reason the word belongs to *this* translation in particular. O
 
 ### Working register
 
-**德 = "integrity," everywhere.** One word, no exceptions — and let the possessive do the quiet work in the rare line where 德 is a thing's own nature acting upon it (*"their integrity rears them"*). Retire *virtue*, *power*, and *lifeforce*. For 玄德, use **"hidden integrity"** or **"profound integrity."**
+**德 = "integrity," everywhere.** One word, no exceptions, even in the rare line where 德 is a thing's own nature acting upon it (*"integrity rears them"*, 51). Retire *virtue*, *power*, and *lifeforce*. For 玄德, use **"hidden integrity"** or **"profound integrity."**
 
 Hear it in the hard places:
 
-- Ch 38 — *上德不德，是以有德* → **"The highest integrity isn't concerned with integrity — and so it holds."**
-- Ch 41 — *上德若谷* → **"The highest integrity seems like a valley."**
-- Ch 51 — *道生之，德畜之* → **"The Tao gives them life; their integrity nurtures them."**
-- Ch 55 — *含德之厚* → **"One whose integrity runs deep…"**
+- Ch 38 — *上德不德，是以有德* → **"The highest integrity does not do integrity, and so it has integrity."**
+- Ch 41 — *上德若谷* → **"The highest integrity seems a valley."**
+- Ch 51 — *道生之，德畜之* → **"The Tao gives birth to the countless things, integrity rears them."**
+- Ch 55 — *含德之厚* → **"A person with abundant integrity is like a newborn."**
 
 ### Left open
 
