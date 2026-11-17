@@ -1338,18 +1338,24 @@ And Heshang Gong supplies the obstruction reading himself, in the same breath: �
 
 ### Ch 65 · 明 → "clever" — a licensed departure from the lock, on Wang Bi's authority
 
+*⚠ Superseded 2026-11-16, by Shalom's call: 明 holds its lock in ch 65, which reads* "did not use it to make the people see clearly" *(`glossary/ming-明.md`). Every witness reads 明 and nothing in the line qualifies it, so the second sense below was Wang Bi's gloss, not the line. Kept as the record of the departure.*
+
 明 (*míng*) is locked to **clear-seeing / clarity**, never "enlightenment" or "brilliance." **Ch 65 departs from it**, rendering 非以明民 as *"did not use it to make the people clever."* The departure is deliberate and is the only one in the book.
 
 **Wang Bi defines the word himself, in this chapter, and defines it against the lock:**
 
 > 明謂多見巧詐，蔽其樸也 — *"明 here means seeing much and artful deceit, screening over their uncarved."*
-> 愚謂無知守真，順自然也 — *"愚 here means without cunning, holding fast to the true, following what is so of itself."*
+> 愚謂無知守真，順自然也 — *"愚 here means unknowing, holding fast to the true, following what is so of itself."* *(Corrected 2026-11-16: 無知 (wú zhī) is* unknowing*, as the book renders it at ch 3 and 10; this line once read* without cunning*.)*
 
 That is not the 明 of Ch 33 (自知者明 — *"to know oneself is clear-seeing"*) or Ch 52. Here 明 is transitive and causative — 明民, *to make the people 明* — and what it produces, on Wang Bi's reading, is **巧詐** (*qiǎo zhà* — artifice and deceit). Heshang Gong reads it identically: 不以道教民明知巧詐也, *"does not use the Tao to teach the people bright-knowing and artful deceit."*
 
 **So the lock is not broken; the character is being used in a second sense, and both classical commentators say so in as many words.** Rendering "clear-seeing" here would produce the opposite of the chapter: it would have the ancients withholding clarity from the people, which is precisely the authoritarian misreading this chapter has suffered for a century.
 
 *This is the case `CLAUDE.md` anticipates — "departures require a logged reason." The reason is above.*
+
+### Ch 65 · 明 holds its lock: "did not use it to make the people see clearly" — 2026-11-16
+
+*(Shalom's call, 2026-11-16: "We shouldn't gloss over this actual usage of 明 for the sake of an easier translation, or because this usage may create some discomfort.")* *(was: "make the people clever.")* **No witness and no grammar licenses a second sense.** Wang Bi's text, Heshang Gong's and silk A read 明民; silk B reads 明 and is damaged after it. 非以明民 and 將以愚之 are parallel causatives sharing one object, and no word qualifies 明. *Clever* came from Wang Bi's 明謂多見巧詐 (*míng wèi duō jiàn qiǎo zhà* — "明 means seeing much, craft and deceit"), a gloss and not a rendering, and it put 明 and 智 (*zhì* — cleverness) under one English. **The cost:** read alone, the line says the masters did not make the people see clearly, the sentence quoted to call Laozi an authoritarian. The edition prints it, and `notes/reading.md` → *Ch 65* carries the reading.
 
 ### Ch 65 · 愚 → "guileless", not "ignorant"
 
@@ -1394,6 +1400,8 @@ Drafted first as **"the great accord"** and caught by Shalom as vague. It was, i
 **Two facts raise the stakes.** 順 appears **exactly once in the whole book**, this line; 逆 never appears at all. It is a hapax at a chapter's final word, so it gets one shot and no consistency constraint. Rendered **"and only then runs with the great current"** — one verb, two prepositions, so the English performs the reversal the Chinese performs. *Current* keeps the water without taking 流's *flow* at Ch 61's 下流.
 
 ### Ch 65 · 智 → "guile", and why not "clever" or "cunning"
+
+*⚠ Superseded 2026-11-16, by Shalom's call: 智 reads* cleverness *in ch 65, as everywhere (`glossary/zhi-智.md`). The pairing below rested on a mistranslation of Wang Bi's 無知 (wú zhī — unknowing) as "without cunning," and the commentators make artifice the result of 智, not its meaning. Kept as the record of how* guile *was reached.*
 
 **The draft collapsed two characters into one word.** 明民 read *"make the people clever"* and 以其智多 read *"they are too clever"* — 明 (*míng*) and 智 (*zhì*), four lines apart, both *clever*. The same fault as 眾人/俗人 in Ch 20, and the checker cannot see it for the same reason.
 

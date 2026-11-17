@@ -2,10 +2,9 @@
 term: "明"
 pinyin: "míng"
 render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
-card: "clear-seeing · clarity · clear · clever"
+card: "clear-seeing · clarity · clear"
 flexions:
   - { english: "clear-seeing", chapters: [33], why: "ch 33 sets its six bare predicates as *is* + one word, and 明 stands among them; the chapter's shape is the licence (Shalom's call, 2026-10-30)" }
-  - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 forbidden: ["enlightenment", "illumination", "brilliance"]
 chapters: [10, 16, 22, 24, 27, 33, 36, 41, 47, 52, 55, 65]
 status: locked
@@ -67,7 +66,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems murky) directly.
 
-**"Wisdom"** belongs to a different character — 智 (*zhì*), which Chapter 33 explicitly ranks *below* 明.
+**"Wisdom"** is the conventional English of a different character, 智 (*zhì* — cleverness), which Chapter 33 explicitly ranks *below* 明. This edition uses it for neither (`glossary/zhi-智.md`).
 
 ### Working register
 
@@ -88,10 +87,12 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 One chapter uses 明 against everything above, and honesty requires flagging it rather than smoothing it.
 
-**Chapter 65**: 古之善為道者，非以明民，將以愚之 — *those anciently good at the Tao did not use it to make the people 明, but to keep them 愚 (simple, uncarved).* Here 明 is not a virtue to be sought but something done **to** a populace, and the text is against it — the opposite pole from 愚 (*yú*), the useful simplicity Laozi elsewhere praises in himself (20).
+**Chapter 65**: 古之善為道者，非以明民，將以愚之 — *those anciently masterful at the Tao did not use it to make the people 明, but meant to make them 愚 (yú — the fool's simplicity).* Here 明 is not sought but done **to** a populace, and the masters decline to do it.
 
-Two readings are available. Either 明 here means something different — *clever, sophisticated, knowing-too-much*, the acquired brightness that makes people hard to govern and quick to scheme — or Laozi is being deliberately provocative, using the same word for a good thing (seeing clearly for yourself) and a bad one (being made bright by someone else). The second reading is sharper, and consistent with a book that says *the straight turns crooked* (58): even clarity curdles when it is administered rather than arrived at.
+**The lock holds here, and the verse reads *"did not use it to make the people see clearly."*** *(Shalom's call, 2026-11-16: "We shouldn't gloss over this actual usage of 明 for the sake of an easier translation, or because this usage may create some discomfort.")* It reverses the call of 2026-09-24, under which ch 65 read *clever*. Every witness that has the line reads 明 — Wang Bi's text, Heshang Gong's, silk A, and silk B before its damage — and nothing in the line qualifies it: 非以明民 and 將以愚之 are two causatives in parallel, sharing one object. *Clever* came from Wang Bi's gloss, 明謂多見巧詐蔽其樸也 — *"明 here means seeing too much, craft and deceit, which covers over their simplicity"* — and a gloss is evidence for a reading, never a word for the line (`process/principles/commentary-is-not-a-rendering.md`). It also put two characters under one English, since 智 (*zhì* — cleverness) follows four lines later.
 
-**We chose the first, and ch 65 reads *clever*.** *(Shalom's call, 2026-09-24. `WORKLIST.md` T1-17.)* This entry used to say *"we do not choose between them"* while the verse had already chosen, and nothing recorded that. It was the first declared exception to this lock (chapter 33's *is clear-seeing* is the second), a `flexions:` entry scoped to ch 65, so `concordance.py --english` reports it as licensed instead of passing it in silence. **Three reasons.** 王弼 (*Wáng Bì*) glosses the line outright: 明謂多見巧詐蔽其樸也, *"明 here means seeing too much, craft and deceit, which covers over their simplicity."* The chapter's own next lines put it among 智 (*zhì* — knowing, guile) as what makes a people 難治 (*nán zhì* — hard to govern). And the lock's English fails a test this project keeps: *"did not use it to make the people clear-seeing"* would say, in English, that the sages kept people from seeing clearly. That contradicts ch 16, 33, 52 and 55, where seeing clearly is the goal. A reading the Chinese permits but that lands as a different claim in English has not been translated. **The cost:** the provocation is gone from the verse, so this paragraph is where a reader finds it. *Clever* also sits close to 智's *cleverness* at ch 18 and 19, which `WORKLIST.md` T2-2 must weigh when 智 is settled.
+**What the line says, read by the book's own grammar.** Everywhere else 明 is arrived at by oneself: 自知者明 (33), 不自見，故明 (22), 見小曰明 (52), 知常曰明 (16). Chapter 65 is the one place anyone sets out to make others 明, and the masters do not. Clear-seeing that is administered is not the clear-seeing of chapter 33, and what administering produces is the next line's cleverness. The book uses one word for a thing found and the same thing imposed, as a book that says *the straight turns crooked* (58) would: even clarity curdles when it is administered rather than arrived at.
+
+**The cost, stated.** Read alone, the line says the ancient masters did not make the people see clearly, and that is the sentence quoted to call Laozi an authoritarian. The edition prints it rather than translating around it. `notes/reading.md` → *Ch 65* is where a reader finds the case against that reading, and 愚's English, still owed (`WORKLIST.md` T1-27), decides how hard the pair lands.
 
 Either way the entry's core holds. 明 is what you see with when nothing is in the way — including, in Chapter 65, the well-meaning hand of someone trying to enlighten you.

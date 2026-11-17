@@ -114,7 +114,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 和,hé,harmony / harmonize / dim (和其光) / settle (79),,和,exact,口,phonetic-compound,,口 (kǒu = mouths),禾 (hé = standing grain),8,,0.061,相譍也。从口禾聲。,
 甚,shèn,very / excess (29) / extreme (44),,甚,exact,甘,compound,,甘 (gān = sweet) + 匹 (? = not yet glossed) + 耦 (? = not yet glossed) + 也 (yě = (closes a statement: it is so)),,9,,0.0606,尤安樂也。从甘，从匹耦也。,
 眾,zhòng,the crowd / the many,the crowd / the many,眾,exact,㐺,compound,,乑 (? = not yet glossed) + 目 (mù = eye),,9,Tier 1,0.0604,多也。从乑、目，衆意。,
-智,zhì,cleverness / intelligence / guile (65),,𥏼,old-form,𪞶,compound,,𪞶 (? = not yet glossed) + 亏 (? = not yet glossed) + 知 (zhī = know / knowing / knowledge (53)),,8,,0.0602,識詞也。从𪞶从亏从知。,
+智,zhì,cleverness / clever,cleverness / clever,𥏼,old-form,𪞶,compound,,𪞶 (? = not yet glossed) + 亏 (? = not yet glossed) + 知 (zhī = know / knowing / knowledge (53)),,8,locked,0.0602,識詞也。从𪞶从亏从知。,"A word for recognizing. From 白 (here the breath of speech), 亏 (yú — breath going out) and 知 (zhī — to know). Xu Shen files it under its old form, 𥏼."
 哉,zāi,(an exclamation) / how…!,,哉,exact,口,phonetic-compound,,口 (kǒu = mouths),𢦔 (? = not yet glossed),7,,0.0599,言之閒也。从口𢦔聲。,
 重,Zhòng,heavy / weigh down / baggage (輜重),,重,exact,重,phonetic-compound,,壬 (? = not yet glossed),東 (? = not yet glossed),6,,0.059,厚也。从壬東聲。凡重之屬皆从重。,
 抱,bào,embrace / arms' span (64),,捊,old-form,手,phonetic-compound,,手 (shǒu = hand),孚 (? = not yet glossed),6,,0.0586,引取也。从手孚聲。,

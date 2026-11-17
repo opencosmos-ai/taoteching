@@ -115,7 +115,7 @@ Both classical commentators say which sagehood is meant. 河上公: 絕聖制作
 
 ### What no rule can enforce
 
-***"master"* and *"wise"* are ruled out for 聖 in the verse, and neither can go on the `forbidden:` list.** `check_locks.py` fires on a forbidden word wherever its character stands in that chapter's Chinese. **Master** is 善's English (*masterful*), and 善 shares eight chapters with 聖, among them 27, 49 and 79; it is also 師's in chapter 27. **Wise** and **wisdom** may yet be 智's: its entry is owed (`WORKLIST.md` T2-2), and it shares chapters 3, 19 and 27 with 聖. A bare *wise* would also fire inside *otherwise*. So the build holds *holy*, *saint* and the rest, and only this entry holds *master* and *wise*.
+***"master"* and *"wise"* are ruled out for 聖 in the verse, and neither can go on the `forbidden:` list.** `check_locks.py` fires on a forbidden word wherever its character stands in that chapter's Chinese. **Master** is 善's English (*masterful*), and 善 shares eight chapters with 聖, among them 27, 49 and 79; it is also 師's in chapter 27. **Wise** and **wisdom** are on the forbidden list of 智 (*zhì* — cleverness), which shares chapters 3, 19 and 27 with 聖, so the build holds them there through `glossary/zhi-智.md`; in 聖's other chapters only this entry holds them. A bare *wise* would also fire inside *otherwise*. So the build holds *holy*, *saint* and the rest, and only this entry holds *master*, and *wise* outside those three chapters.
 
 **The capital is held, by a different rule.** *Sage* and *Master* capitalised mid-sentence are caught by the `devotional-capitalization` rule, which maps both to 聖. That is why *"the Sage"* and *"the Master"* are not repeated on this list.
 

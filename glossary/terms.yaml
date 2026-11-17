@@ -185,7 +185,6 @@
   entry: glossary/ming-明.md
   flexions:
     - { english: "clear-seeing", chapters: [33], why: "ch 33 sets its six bare predicates as *is* + one word, and 明 stands among them; the chapter's shape is the licence (Shalom's call, 2026-10-30)" }
-    - { english: "clever", chapters: [65], why: "明 done TO a populace by its rulers — 王弼: seeing too much, craft and deceit, covering their simplicity; the lock's English would make the sages keep people from seeing clearly" }
 
 - term: "名"
   pinyin: "míng"
@@ -350,6 +349,16 @@
   status: locked
   entry: glossary/xin-心.md
   # covers 腹 -> belly
+
+- term: "智"
+  pinyin: "zhì"
+  render: "cleverness / clever"
+  forbidden: ["wisdom", "wise", "intelligence", "intelligent"]
+  chapters: [3, 18, 19, 27, 33, 65]
+  status: locked
+  entry: glossary/zhi-智.md
+  flexions:
+    - { english: "the knowers", chapters: [3], why: "智者 (zhì zhě — the clever ones) stands where Heshang Gong's text writes 知者 (zhī zhě — those who know) and reads it as chapter 56's approving knower; the bare nominalization holds both readings, where *the clever* would settle the fork on Wang Bi's side (Shalom's word, 2026-08-31)" }
 
 - term: "樸"
   pinyin: "pǔ"

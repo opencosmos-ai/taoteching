@@ -128,7 +128,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 固,gù,firm / indeed / at first (36),word,,,,,8,5,"36,55,58,59,67",36,67,1.51,
 始,shǐ,beginning / begin / origin (52),word,,,,,8,7,"1,2,14,32,38,52,64",1,64,1.51,
 損,sǔn,"decrease / take from, draw off (77)",word,,,,,8,3,"42,48,77",42,77,1.51,
-智,zhì,cleverness / intelligence / guile (65),word,,,,,8,6,"3,18,19,27,33,65",3,65,1.51,
+智,zhì,cleverness / clever,locked,,cleverness / clever,locked,wisdom; wise; intelligence; intelligent,8,6,"3,18,19,27,33,65",3,65,1.51,glossary/zhi-智.md
 樂,lè,"gladly / delight in / pleasure / music (35, yuè)",word,,,,,8,5,"23,31,35,66,80",23,80,1.51,
 樸,pǔ,uncarved wood / the uncarved,locked,,uncarved wood / the uncarved,locked,uncarved block; simplicity; purity,8,6,"15,19,28,32,37,57",15,57,1.51,glossary/pu-樸.md
 畏,wèi,fear / wary of (15),word,,,,,8,6,"15,17,20,53,72,74",15,74,1.51,

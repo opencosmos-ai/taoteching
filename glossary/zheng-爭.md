@@ -73,7 +73,7 @@ So the book draws a line, and the line falls between **爭** and **勝**. Prevai
 
 爭 is not a constant of human nature in this book. It is **manufactured**, and the mechanism is named: 尚 (*shàng* — to exalt, to raise up). Rank one thing above another and hands begin to reach for it. Remove the ranking and the reaching stops, because there is no longer a single object in the middle.
 
-This is the same shape as Chapter 65, where the ruler's own guile produces the guile they then have to govern. The problem is upstream of the people every time.
+This is the same shape as Chapter 65, where the ruler's own cleverness produces the cleverness they then have to govern. The problem is upstream of the people every time.
 
 ### Chapter 68 defines it by what it is not
 

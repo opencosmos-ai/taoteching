@@ -129,7 +129,7 @@
 | ~~7~~ | ~~**聖** (shèng) — the sage~~ | ✅ **DONE & LOCKED** → `sheng-聖.md`, 2026-10-17 | 聖人 → *the sage*, 聖 alone (ch 19) → *sagehood*. The oracle-bone graph is a person with an ear beside a mouth, and 說文's 呈 for sound is a later reanalysis. Guodian's 五行 (same tomb as the oldest Laozi) defines 聖 as knowing by hearing against 智 knowing by seeing, which is the pair ch 19 cuts. Mawangdui A writes the sage 聲人. *Master* and *wise* are ruled out but cannot be forbidden (善, 師, 智 share chapters). Left open: the ear in a book that distrusts the senses, and whether the sage is a rank (T4-7). | — |
 | 8 | **靜** (jìng) — still | No entry | Against 躁 (agitation), toward 動; overlay *meditation* | Entry |
 | 9 | **欲** (yù) — desire | No entry | Eight Englishes; the 將欲 grammar use must stay apart | Entry |
-| 10 | **智** (zhì) — cleverness | 🔶 (`WORKLIST.md` T2-2) | Praised at 33, condemned at 19 and 65: one word or two? | Entry, with 知 |
+| ~~10~~ | ~~**智** (zhì) — cleverness~~ | ✅ **DONE & LOCKED** → `zhi-智.md`, 2026-11-16 | 智 → *cleverness* / *clever* everywhere, *the knowers* at ch 3. One word, judged by where it points: no early witness separates it from 知 (to know) in ink | Done |
 | 11 | **始** (shǐ) — beginning | Open (row 11 above) | Pairs with locked 母 in ch 1 and 52 | Entry or pairing with 母 |
 | 12 | **希** (xī) — sparse | Open (row 14b above) | One sense, six Englishes; ch 23 and 70 are the same word | Entry; *rare* is spent on 貨 |
 | 13 | **貴 / 賤** (guì / jiàn) — prized / cheap | Owed (`WORKLIST.md` T2-36) | 22 lines; *precious* collides with 貨 | Entry for the pair |

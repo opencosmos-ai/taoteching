@@ -157,10 +157,15 @@
 - chapter: 3
   line: "使夫智者不敢為也"
   base: "智者"
-  witnesses: { heshanggong: "知者" }
+  witnesses: { heshanggong: "知者", mawangdui-b: "知 (no 者)" }
   meaning_bearing: true
   our_call: base
   note: >
+    Silk B also writes 知, with no 者, as the silks write 知 for 智 in all six
+    of 智's chapters (silk A is damaged here; added 2026-11-16 from the
+    Wikisource silk text, after the Jicheng edition; confirm against a printed
+    edition, as T2-74 asks). Its line also runs on differently after 不敢,
+    which is not recorded here and is owed a look with the rest of ch 3's close.
     Heshang Gong's text writes 知 and appends a phonetic note, 知音智 — "知 is
     read zhi (as 智)" — attached only here, not to the 無知 two lines above, so
     the tradition reads two words in consecutive lines even where one graph is
@@ -805,6 +810,24 @@
     governing self and state.
   logged: notes/manuscript.md
 
+- chapter: 65
+  line: "故以智治國，國之賊；不以智治國，國之福"
+  base: "以智治國 … 國之福"
+  witnesses: { mawangdui-a: "以知知邦 … 德 (damaged before 德)", mawangdui-b: "以知知國 … 國之德" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Both silks write 知 (zhī — to know, also to preside over) for 治 (zhì — to
+    govern) as well as for 智 (zhì — cleverness), so the line reads "to know the
+    state by knowing is the state's robber; to know it by not-knowing is the
+    state's 德 (dé — integrity)," with 德 where our base has 福 (fú — good
+    fortune). Wang Bi's own note on the line opens 智猶治也, "智 is like 治,"
+    so the pun he hears stands in the silks' ink. Our base keeps 治 and 福,
+    which both commentators read. Recorded 2026-11-16 from the Wikisource silk
+    text, after the Jicheng edition; confirm against a printed edition, as
+    T2-74 asks of the other recent rows.
+  logged: notes/manuscript.md
+
 - chapter: 67
   line: "天下皆謂我道大，似不肖"
   base: "我道大"
@@ -986,6 +1009,24 @@
     73, 74), and because 河上公 takes his 人 in a different direction from
     王弼: 器謂農人之器 — the tools are the *farmers'*, and 不用 means the state
     does not requisition them (不徵召奪人良時也).
+  logged: notes/manuscript.md
+
+- chapter: 18
+  line: "智慧出，有大偽"
+  base: "智慧出，有大偽"
+  witnesses: { guodian: "line absent", mawangdui-a: "知快出 (知 for 智, 快 for 慧)", mawangdui-b: "知慧出 (知 for 智)" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Guodian slips (bundle C) carry Ch 18 complete, run on from Ch 17, with
+    three couplets rather than four: the line on 智慧 (zhì huì — cleverness and
+    quick wit) and 大偽 (dà wěi — great artifice) is not there, so in the oldest
+    witness cleverness is not among what appears when the great Tao is lost.
+    Both silks have the line, writing 知 (zhī — to know) for 智 as they do
+    throughout. Our base keeps it, as it keeps its other received readings.
+    Recorded 2026-11-16 as a fact about which lines are present, from secondary
+    transcriptions of the slips and the silks; confirm against a printed
+    edition, as T2-74 asks of the other recent rows.
   logged: notes/manuscript.md
 
 # --- Ch 19 · the Guodian fork, recorded 2026-08-28 (EDITING-PASS Pass B / PLAN G1) ---
