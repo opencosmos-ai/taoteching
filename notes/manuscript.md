@@ -398,6 +398,10 @@ Received Wang Bi: 而**全**作 — 全 = *whole, complete* — "yet it quickens
 
 **We follow Guodian and silk A, Shalom's call, 2026-11-01:** *"Harmony is called the ever-present. / Knowing harmony is called clear-seeing."* (was: *"Knowing harmony is called the ever-present. / Knowing the ever-present is called clear-seeing."*). Two independent witnesses a century apart agree, and the received reading matches a famous line elsewhere, the usual mark of a copyist's harmonizing. **The base text and the Source table keep 知和曰常，知常曰明; only the verse follows the witnesses.** Found 2026-11-01 while writing `glossary/qi-氣.md`; `WORKLIST-CLOSED.md` T2-77.
 
+### Ch 38 · 愚之始 / 愚之首 — the head of folly, in the silks and Han Fei
+
+Our base reads 前識者，道之華，而愚之始 (*qián shí zhě, dào zhī huá, ér yú zhī shǐ* — "knowing in advance is the blossom of the Tao, and the beginning of foolishness"). Both silks and Han Fei's lemma read 首 (*shǒu* — head) for 始 (*shǐ* — beginning), so the line pairs with the one before it, 而亂之首 (*ér luàn zhī shǒu* — "and the head of disorder"). **We keep the base**, and the English keeps *head* and *beginning* apart, as the chapter's notes argue. Han Fei tells his story of the diviner and the foolish child on this line: `glossary/yu-愚.md`. *(2026-11-16, from the Wikisource silk text and our vendored Han Fei; confirm the silks against a printed edition, as `WORKLIST.md` T2-74 asks.)*
+
 ### Ch 61 · 邦 / 國 — the Han name-taboo
 
 Where our received base reads 國 (*guó* — state) nine times in this chapter, Mawangdui silk A reads 邦 (*bāng* — state) wherever the graph survives. This is the systematic Han substitution avoiding the personal name of the founding emperor Liu Bang (劉邦), and it runs through the received text wherever 邦 stood. **Silk B already writes 國**: it was copied under the taboo, and observing it is part of how the two silks are dated. Meaning-neutral, logged once here rather than at every occurrence. *(Corrected 2026-10-26: this said both silks read 邦, and counted seven 國. Read in Wikisource's transcriptions of the 2014 Mawangdui edition: `WORKLIST` T2-74.)*

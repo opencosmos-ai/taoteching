@@ -277,17 +277,45 @@ One argument, made three times, in three registers, and the book never names it 
 
 The through-line is 下 — *below* as an action you take. Read together they say the same thing about power that Ch 64 says about timing: the effective move is the one that costs nothing because it goes with what already happens. And all three end in the same place, which is Ch 66's last line and Ch 22's: **because they do not compete, no one can compete with them.**
 
-### Ch 65 · the chapter that gets Laozi called an authoritarian
+### Ch 65 · the chapter that gets Laozi called an authoritarian, and the fool it is about
 
-This is the chapter people quote to show that the Tao Te Ching is a manual for keeping subjects docile — *"the ancients did not enlighten the people but kept them ignorant."* Four things are wrong with that sentence, and three of them are in the Chinese.
+> *The ancients who were masterful at the Tao*
+> *did not use it to make the people see clearly,*
+> *but to make them fools.*
+>
+> 古之善為道者，
+> 非以明民，
+> 將以愚之。
+>
+> — chapter 65
 
-**1. 明 here is clear-seeing, and this is the one place anyone sets out to give it.** Everywhere else in the book 明 (*míng*) is arrived at by oneself: 自知者明 — *"one who knows themselves is clear-seeing"* (Ch 33); 不自見，故明 — *"not displaying themselves, they see clearly"* (Ch 22). Here the masters decline to make the people 明, and the next lines say what making people see produces instead: cleverness, handed down from the top. Wang Bi names what administered seeing turns into: 明謂多見巧詐，蔽其樸也 — *"明 means seeing much and artful deceit, screening over their uncarved."* Nobody is withholding the clarity of Ch 33, because that clarity cannot be handed to anyone. *(The verse once read* clever *here; Shalom's call of 2026-11-16 restored* see clearly*, so the word in the line is the word the book uses everywhere.)*
+**The charge first, in its strongest form.** This is the line quoted to show that the Tao Te Ching is a manual for ruling a docile people, and the charge has history behind it, not only suspicion. The verb is the one Chinese uses for exactly that policy. Jia Yi, writing early in the Han about the fall of Qin, says the First Emperor 焚百家之言，以愚黔首 — *"burned the writings of the hundred schools, to make the black-headed people fools"* (黔首, *qián shǒu*, the common people). It is the same 愚 (*yú*), done to a people, by a ruler. Qin governed by the Legalist teaching that Han Fei gave its fullest form, and Han Fei is also the oldest commentator on this book. A reader who sets chapter 65 beside Jia Yi's sentence is not inventing the likeness. **And the line does say it:** the masters did not set out to make the people see clearly; they set out to make them fools. This edition prints that plainly, because a softer English would be answering the charge by hiding the evidence.
 
-**2. 愚 is what the sage claims for themselves.** Ch 20: 我愚人之心也哉 — *"I have the heart of a fool!"* — said as a boast. The ruler here is not pushing the people below themselves; they are bringing everyone to where the sage already stands.
+**What turns the line is who the fool is.** 愚 was an insult in its own time, the plain opposite of knowing. This book takes the insult for its own, and it takes it for the sage first.
 
-**3. The chapter's target is the ruler's cleverness, not the people's.** This is the part that gets missed, and Wang Bi spells out the mechanism as an escalation spiral: 以智術動民，邪心既動，復以巧術防民之偽，民知其術防，隨而避之 — *"use clever technique on the people and their crooked hearts stir; once stirred, you use more artifice to guard against their deceit; the people learn the technique and evade it in turn."* Each round of official cleverness manufactures the popular cleverness it was meant to contain. 以智治國，國之賊 — **the thief of the state is the clever ruler.** The people are hard to govern because they have been taught to be.
+**1. The sage is the fool before anyone else is.** In chapter 20, amid the crowd's feast, the speaker says it as a boast:
 
-**4. And the honest caveat.** Strip all three and something still stands: 非以明民 does say the masters did not make the people see clearly, and the chapter nowhere distinguishes manipulation from learning in general. Laozi is genuinely suspicious of sophistication as such — Ch 19's 絕聖棄智 and Ch 48's *"in pursuit of learning you increase daily"* say the same thing without the political framing. **This edition does not rescue that.** What it declines to do is translate a suspicion of cleverness as a policy of enforced ignorance, when both classical commentators read it the other way and the sage applies the word to themselves.
+> *The crowd all have more than enough.*
+> *I alone seem to have missed out.*
+> *I have the heart of a fool!*
+>
+> 眾人皆有餘，
+> 而我獨若遺。
+> 我愚人之心也哉！
+>
+> — chapter 20
+
+Wang Bi says what that heart is: 心無所別析，意無所好欲 — *"the heart divides and parses nothing, the mind likes and wants nothing."* Heshang Gong: 不與俗人相隨，守一不移 — *"not following the worldly, keeping to the one without moving."* At chapter 67 Heshang Gong has Laozi say 我則佯愚 — *"so I feign foolishness."* The masters of chapter 65 are not pushing the people down beneath themselves. They are bringing the people to where the sage already stands, and the English now uses one word for both, so a reader can see it: *a fool* in chapter 20, *fools* in chapter 65.
+
+**2. The fool sees what the clever strain for.** Han Fei tells the story on chapter 38. The diviner Zhan He hears an ox low at the gate and labours to name its colours; a foolish child of five feet goes and looks, and sees the same thing: a black ox, with cloth wrapped round its horns. The diviner's art, Han Fei says, is "the head of folly," and the foolish child simply sees. The fool of this book is not the one who cannot see. It is the one who looks without first deciding what is there.
+
+**3. The chapter forbids the ruler cleverness too, and there it parts from Qin.** Qin made the people fools so that the state could stay clever, by law, by officials and by watching. Chapter 65 goes straight on: *"The people are hard to govern / because they have too much cleverness. / So to govern a state with cleverness robs the state."* The clever one in this chapter is the government, and the chapter calls it the robber. Wang Bi traces the mechanism as a spiral: 以智術動民，邪心既動，復以巧術防民之偽，民知其術防，隨而避之 — *"stir the people with clever techniques, and their crooked hearts stir; guard against their falsity with craftier ones, and the people learn the techniques and the guards, and slip round them."* The people's cleverness was taught from above. A ruler who wanted subjects to be fools while staying clever would find this chapter against them.
+
+**4. And clear-seeing cannot be handed to anyone.** Everywhere else in the book 明 (*míng* — clear-seeing) is arrived at by oneself: 自知者明 — *"one who knows themselves is clear-seeing"* (Ch 33); 不自見，故明 — *"not displaying themselves, they see clearly"* (Ch 22). Chapter 65 is the one place anyone sets out to make others see clearly, and the masters decline. Seeing that is administered is not the seeing of chapter 33, and what administering produces is the next line's cleverness. Wang Bi names what it turns into: 明謂多見巧詐，蔽其樸也 — *"明 here means seeing much, craft and deceit, which covers over their uncarved."*
+
+**5. The chapter ends by naming the fool's condition.** *"Profound integrity is deep, and far, / and turns back together with things, / and only then runs with the great current."* A chapter of the Zhuangzi joins the same words in the same order: 若愚若昏，是謂玄德，同乎大順 — *"as if foolish, as if dim: this is called profound integrity, at one with the great current."* Read beside it, chapter 65 closes where it opened. The fools of its first line are the profound integrity of its last.
+
+**6. And the honest caveat.** Strip all of this and something still stands. Laozi is suspicious of sophistication as such: chapter 19 says to abandon cleverness, chapter 48 sets learning against the Tao, and chapter 65 nowhere tells manipulation apart from learning in general. A ruler who quoted the first lines and stopped would have the words on their side. **This edition does not rescue the book from that.** What it declines to do is translate a suspicion of cleverness as a policy of enforced ignorance, when the book gives the fool's word first to the sage and condemns the clever ruler in the same breath. Whether the fools of chapter 65 are the fool of chapter 20 is the reader's to decide. The English now lets them ask.
 
 ### Ch 20 · the loneliest chapter, and it opens with a joke
 

@@ -353,7 +353,7 @@
 - term: "智"
   pinyin: "zhì"
   render: "cleverness / clever"
-  forbidden: ["wisdom", "wise", "intelligence", "intelligent"]
+  forbidden: ["wisdom", "wise", "intelligence", "intelligent", "guile"]
   chapters: [3, 18, 19, 27, 33, 65]
   status: locked
   entry: glossary/zhi-智.md
@@ -478,6 +478,14 @@
   chapters: [15, 41, 68]
   status: locked
   entry: glossary/shi-士.md
+
+- term: "愚"
+  pinyin: "yú"
+  render: "a fool / foolishness / foolish"
+  forbidden: ["guileless", "ignorant", "ignorance", "stupid", "make fools of"]
+  chapters: [20, 38, 65]
+  status: locked
+  entry: glossary/yu-愚.md
 
 - term: "慈"
   pinyin: "cí"

@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**73 entries.** Sorted by how much of the book each term touches.
+**74 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -49,7 +49,7 @@ python3 tools/build_index.py
 | **谷** | *gǔ* | valley | "reservoir", "basin", "hollow", "the void", "emptiness", "nourish" | 7 | **locked** · binds taoteching only | [`gu-谷.md`](gu-谷.md) |
 | **弱** | *ruò* | yielding — and the verb *yield* where it makes something so | "weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
-| **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
+| **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent", "guile" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
@@ -64,6 +64,7 @@ python3 tools/build_index.py
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
+| **愚** | *yú* | a fool / foolishness / foolish | "guileless", "ignorant", "ignorance", "stupid", "make fools of" | 3 | **locked** | [`yu-愚.md`](yu-愚.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |
 | **氣** | *qì* | breath | "energy", "life force", "life-force", "vital force" | 3 | **locked** | [`qi-氣.md`](qi-氣.md) |

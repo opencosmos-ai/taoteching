@@ -148,7 +148,7 @@
 
 Each is 6–14 lines; these are seeds, not drafts.
 
-~~**事**~~ *(entry written 2026-08-12 — `shi-事.md`; a hand holding the badge of office, the second hand beside 為's elephant. 無事 left open)* · **容** (4) · **愚** (3) · ~~**命**~~ *(entry written — `ming-命.md`, open: a recommendation, not yet a lock)* · ~~**腹**~~ *(absorbed into `xin-心.md`)* · **敦** (1) · **芻狗** (1) · **上善** (1) · **大制** (1)
+~~**事**~~ *(entry written 2026-08-12 — `shi-事.md`; a hand holding the badge of office, the second hand beside 為's elephant. 無事 left open)* · **容** (4) · ~~**愚**~~ *(✅ locked 2026-11-16 — `yu-愚.md`; a fool / foolishness / foolish, and ch 65 reads* but to make them fools*)* · ~~**命**~~ *(entry written — `ming-命.md`, open: a recommendation, not yet a lock)* · ~~**腹**~~ *(absorbed into `xin-心.md`)* · **敦** (1) · **芻狗** (1) · **上善** (1) · **大制** (1)
 
 ---
 

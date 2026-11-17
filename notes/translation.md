@@ -1357,7 +1357,13 @@ That is not the 明 of Ch 33 (自知者明 — *"to know oneself is clear-seeing
 
 *(Shalom's call, 2026-11-16: "We shouldn't gloss over this actual usage of 明 for the sake of an easier translation, or because this usage may create some discomfort.")* *(was: "make the people clever.")* **No witness and no grammar licenses a second sense.** Wang Bi's text, Heshang Gong's and silk A read 明民; silk B reads 明 and is damaged after it. 非以明民 and 將以愚之 are parallel causatives sharing one object, and no word qualifies 明. *Clever* came from Wang Bi's 明謂多見巧詐 (*míng wèi duō jiàn qiǎo zhà* — "明 means seeing much, craft and deceit"), a gloss and not a rendering, and it put 明 and 智 (*zhì* — cleverness) under one English. **The cost:** read alone, the line says the masters did not make the people see clearly, the sentence quoted to call Laozi an authoritarian. The edition prints it, and `notes/reading.md` → *Ch 65* carries the reading.
 
+### Ch 65 · 愚 → "fools", and the supplied *return* gone — 2026-11-16
+
+*(Shalom's call. was: "They used it to return them to being guileless.")* **愚 (*yú*) is an insult in its own language**, the opposite of knowing (Xunzi: 非是是非謂之愚, *"calling right wrong and wrong right is foolishness"*), and the book takes it for the sage at ch 20. *Guileless* made it a compliment, came from Heshang Gong's 不詐偽 (*bù zhà wěi* — "without deceit or falsity"), rested on the withdrawn reading of Wang Bi's 無知 (*wú zhī* — unknowing), and fails at ch 38. **Fools over foolish**, on Shalom's intuition: the bare 愚 names people in the Analects' 下愚 (*xià yú* — "the lowest fools"), the noun repeats ch 20's *fool*, and it keeps the fool's two sides where *foolish* settles toward blame. **Not *the fool*:** no figure is marked in the Chinese, and the English idiom means a dupe. **將 → *but*:** 非以明民，將以愚之 is the frame *not X, but rather Y*, and nothing turns back, so *return* goes (T1-27). Argument: `glossary/yu-愚.md`.
+
 ### Ch 65 · 愚 → "guileless", not "ignorant"
+
+*⚠ Superseded 2026-11-16 by the note above: 愚 reads* fools*. Kept as the record of how* guileless *was reached.*
 
 愚 (*yú*) is the word that makes this chapter look like a programme for keeping subjects stupid. It is not, and the evidence is internal.
 

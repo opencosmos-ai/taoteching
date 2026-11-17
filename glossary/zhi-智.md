@@ -4,7 +4,7 @@ pinyin: "zhì"
 render: "cleverness / clever"
 flexions:
   - { english: "the knowers", chapters: [3], why: "智者 (zhì zhě — the clever ones) stands where Heshang Gong's text writes 知者 (zhī zhě — those who know) and reads it as chapter 56's approving knower; the bare nominalization holds both readings, where *the clever* would settle the fork on Wang Bi's side (Shalom's word, 2026-08-31)" }
-forbidden: ["wisdom", "wise", "intelligence", "intelligent"]
+forbidden: ["wisdom", "wise", "intelligence", "intelligent", "guile"]
 chapters: [3, 18, 19, 27, 33, 65]
 status: locked
 pairing: false
@@ -147,13 +147,11 @@ Noun takes *cleverness*, adjective and predicate take *clever*, as the grammar a
 
 **Cunning is ruled out for 智 and cannot go on `forbidden:`.** 巧 (qiǎo — craft) shares chapter 19 and prints *cunning* there, and the checker gates on the chapter, not the line. Only this entry holds it.
 
-**Guile is ruled out and cannot be forbidden yet.** 愚 (yú) reads *guileless* in chapter 65, and the checker matches substrings, so a forbidden *guile* would fire on it. Once 愚 is settled (`WORKLIST.md` T1-27), *guile* can go on the list.
-
 **Wise is matched as a bare string**, so it would also fire inside *otherwise* or *likewise* in these six chapters. None prints either today. If one ever does, a `lock-ok` waiver in that chapter's notes is the remedy, not a narrower list.
 
 ### Left open
 
-**Chapter 65's 愚 (yú) still reads *guileless*, a word chosen to mirror the *guile* this entry removed.** Wang Bi glosses it 無知 (wú zhī — unknowing), and chapter 20 renders the same character *fool*, in the sage's boast about themselves. Which English the line takes is Shalom's call, owed in `WORKLIST.md` T1-27 with the line's supplied *return*. And no English can carry the silks' pun of 知 (zhī — to know) for 治 (zhì — to govern).
+**No English can carry the silks' pun at chapter 65,** 知 (zhī — to know) written for 治 (zhì — to govern). *To know the state by knowing* and *to govern a state with cleverness* are one phrase in the silks' ink and two in any English.
 
 **慧 (huì) beside it at chapter 18 reads *erudition*, and 慧 is not learning.** The Shuowen: 慧，儇也 — *"慧 is nimbleness,"* quickness of mind. Learning is 學 (xué — study), a word of its own at chapters 20 and 48. 智慧 (zhì huì) reads more like *cleverness and quick wits*. That is a change to a verse line, so it is Shalom's call, and it is owed in `WORKLIST.md` T2-2.
 
