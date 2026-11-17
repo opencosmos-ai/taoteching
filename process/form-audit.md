@@ -557,7 +557,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*.
 - **功成** (*gōng chéng* — "the work done"), 2 · 34 · 77 — **resolve** with ch 34, under T3-18.
 - **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has.
-- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always to know the pattern — / this is called profound integrity."* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
+- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"To always know the pattern — / this is called profound integrity."* *(Word order updated 2026-11-16, Shalom's call.)* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
 - **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image.
 
 #### T3-18 · One member out of step
