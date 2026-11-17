@@ -1029,6 +1029,36 @@
     edition, as T2-74 asks of the other recent rows.
   logged: notes/manuscript.md
 
+- chapter: 38
+  line: "前識者，道之華，而愚之始"
+  base: "愚之始"
+  witnesses: { mawangdui-a: "愚之首", mawangdui-b: "愚之首", hanfeizi: "愚之首" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Both silks and Han Fei's 解老 lemma read 首 (shǒu — head) for 始 (shǐ —
+    beginning): "the head of folly," which pairs the line with the one before
+    it, 亂之首 (luàn zhī shǒu — "the head of disorder"). Our base keeps 始, and
+    the chapter keeps head and beginning apart (chapters/038.md). Han Fei's
+    story of the diviner and the foolish child is told on this line, ending
+    是以曰「愚之首也」. Recorded 2026-11-16 from the Wikisource silk text and
+    our vendored Han Fei; confirm the silks against a printed edition, as
+    T2-74 asks.
+  logged: notes/manuscript.md
+
+- chapter: 20
+  line: "我愚人之心也哉"
+  base: "愚"
+  witnesses: { mawangdui-a: "禺", mawangdui-b: "愚" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Silk A writes 禺 (yú), the lower part of 愚, alone. The silks borrow 禺 for
+    its sound elsewhere (silk B's 大方無禺 at ch 41, for 隅, corner), so this is
+    the same word spelled by ear, not a monkey; glossary/yu-愚.md. Recorded
+    2026-11-16 from the Wikisource silk text.
+  logged: glossary/yu-愚.md
+
 # --- Ch 19 · the Guodian fork, recorded 2026-08-28 (EDITING-PASS Pass B / PLAN G1) ---
 # The best-known meaning-bearing divergence in the whole Guodian Laozi. Recorded as
 # facts about which characters are present, not as a transcription: the Guodian

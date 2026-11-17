@@ -173,7 +173,7 @@
 | 16 · 5 | 芸芸 (*yún yún* — teeming, flourishing) | *"Things come to their fullest,"* | no |
 | 20 · 6 | 熙熙 (*xī xī* — merry, bustling) | *"The crowd is merry, as if at a great feast,"* | no |
 | 20 · 11 | 傫傫 (*léi léi* — weary, drooping) | *"listless, as if with nowhere to return."* | no |
-| 20 · 15 | 沌沌 (*dùn dùn* — muddled, unformed) | *"How muddled!"* | no; the exclamation carries the intensity |
+| 20 · 15 | 沌沌 (*dùn dùn* — fluid, undivided) | *"How fluid!"* (was *"How muddled!"* until 2026-11-16) | no; the exclamation carries the intensity |
 | 20 · 16–17 | 昭昭 / 昏昏 (*zhāo zhāo / hūn hūn* — bright / dim) | *"The worldly are bright. I alone am clouded."* | no |
 | 20 · 18–19 | 察察 / 悶悶 (*chá chá / mèn mèn* — sharp / dull) | *"The worldly are sharp. I alone am dull."* | no |
 | 39 · 20–21 | 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming like jade / rough like stone) | *"Do not want to be gleaming like jade, / or common like stone."* | no |
@@ -557,7 +557,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*.
 - **功成** (*gōng chéng* — "the work done"), 2 · 34 · 77 — **resolve** with ch 34, under T3-18.
 - **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has.
-- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always to know the pattern — / this is called profound integrity."* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
+- **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always knowing the pattern — / this is called profound integrity."* *(Wording updated 2026-11-16, Shalom's call: the verse now reads "Always knowing the pattern / is called profound integrity.")* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
 - **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image.
 
 #### T3-18 · One member out of step
@@ -616,7 +616,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 | 6 | 綿綿 (*mián mián* — unbroken, like a drawn thread) | **Resolve:** *"Unbroken and fine, it seems to be here, / use it, and there is no strain."* *Fine* is in the graph (the Shuowen's 聯微也 (*lián wēi yě*), *"joined and fine"*), and *seems to be here* is ch 4's English for 似或存 (*sì huò cún* — "seems perhaps to be here"), beside this line's 若存 (*ruò cún* — "seems to be here") |
 | 14 | 繩繩 (*shéng shéng* — cord upon cord) | **Resolve:** *"Strand upon strand, it cannot be named"*. *Flowing* has no water in it; the doubled cord is the image |
 | 16 | 芸芸 (*yún yún* — teeming) | **Resolve:** *"Things teem and flourish, / each returns again to its root."* *Come to their fullest* was 盈 (*yíng* — full)'s word, and 盈 (*yíng*) is not here |
-| 20 | 熙熙, 傫傫, 沌沌 (*xī xī, lěi lěi, dùn dùn* — merry, drooping, muddled) | **Leave.** Single words, carried by the similes and by *How muddled!* |
+| 20 | 熙熙, 傫傫, 沌沌 (*xī xī, lěi lěi, dùn dùn* — merry, drooping, fluid) | **Leave.** Single words, carried by the similes and by *How fluid!* (was *How muddled!* until 2026-11-16) |
 | 20 · 58 | 昭昭 / 昏昏, 察察 / 悶悶 (*zhāo zhāo / hūn hūn, chá chá / mèn mèn* — bright / clouded, sharp / dull) | **Leave ch 20; resolve ch 58 to match it,** so 察察 (*chá chá*) and 悶悶 (*mèn mèn*) read *sharp* and *dull* in both: *"When the government is dull, the people are simple. / When the government is sharp, the people are wanting."* 淳淳 (*chún chún* — simple) and 缺缺 (*quē quē* — lacking) then read alike too, and *turn cunning*, which no character says, goes |
 | 39 | 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming / rough) | **Leave.** *Gleaming like jade / common like stone* gives each its simile |
 | 49 | 歙歙 (*xī xī* — drawing in) | **Leave.** *Breathes gently* is the drawing-in |

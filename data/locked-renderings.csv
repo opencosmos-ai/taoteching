@@ -361,6 +361,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,12,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,The crowd all have more than enough.
 20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem to have missed out.
 20,14,心,xīn,心,heart,yes,1.0,authored,I have the heart of a fool!
+20,14,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,I have the heart of a fool!
 20,14,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I have the heart of a fool!
 20,17,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,The worldly are bright. I alone am clouded.
 20,19,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,The worldly are sharp. I alone am dull.
@@ -728,6 +729,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 38,13,忠,zhōng,信,loyalty,yes,1.0,authored,"Ritual is the thinning of loyalty and trust, and the head of disorder."
 38,14,亂,luàn,亂,disorder,yes,1.0,authored,"Ritual is the thinning of loyalty and trust, and the head of disorder."
 38,15,道,dào,道,the Tao / way,yes,1.0,authored,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness."
+38,16,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness."
 38,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"This is why the great person dwells in the thick, not the thin,"
 39,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,These received the one long ago:
 39,2,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Sky received the one, and so became clear."
@@ -1203,11 +1205,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,物,wù,萬物,things / something,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,萬,wàn,萬物,countless,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
-65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
-65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
-65,1,民,mín,民,the people,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
-65,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
-65,1,道,dào,道,the Tao / way,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
+65,1,愚,yú,愚,a fool / foolishness / foolish,NOT FOUND,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
+65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
+65,1,民,mín,民,the people,yes,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
+65,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
+65,1,道,dào,道,the Tao / way,yes,1.0,authored,"The ancients who were masterful at the Tao did not use it to make the people see clearly, but to make them fools."
 65,2,智,zhì,智,cleverness / clever,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,民,Mín,民,the people,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
@@ -1215,9 +1218,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,4,智,zhì,智,cleverness / clever,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
-65,6,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,Always to know the pattern is called profound integrity.
-65,6,德,dé,德,integrity,yes,1.0,authored,Always to know the pattern is called profound integrity.
-65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,Always to know the pattern is called profound integrity.
+65,6,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,Always knowing the pattern is called profound integrity.
+65,6,德,dé,德,integrity,yes,1.0,authored,Always knowing the pattern is called profound integrity.
+65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,Always knowing the pattern is called profound integrity.
 65,7,反,fǎn,歸 & 復 & 反,returning,NOT FOUND,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
 65,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
 65,7,德,dé,德,integrity,yes,1.0,authored,"Profound integrity is deep, and far, and turns back together with things, and only then runs with the great current."
