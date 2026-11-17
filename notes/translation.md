@@ -244,7 +244,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **建 (*jiàn*) takes two Englishes in one chapter, deliberately** — *"the **established** sayings"* (建言) and *"**Sturdy** integrity"* (建德). They were unified to *established* first and the unification was undone: in English *"established integrity"* collapses into **long-standing**, a reputation, which is the opposite of the line. **The grammar licenses the split** — 建言 is a fixed compound (a received body of maxims), 建德 is 建 modifying a noun — the same pattern as 事 and 弱. The cost is that a reader cannot see the shared character; the chapter notes carry it.
 
-**廣 → "boundless."** *Broad* stated a width without implying abundance, so *broad → not enough* was no paradox. 說文 廣: 殿之大屋也, *"a great hall of a palace,"* on 广 (a roof); 王弼: 廓然無形，**不可滿也**. **Boundless says why it seems insufficient — there is no edge to arrive at.** 廣 still reads *reach far* at ch 67; two chapters, two Englishes, `WORKLIST.md` T2-45.
+**廣 → "boundless."** *(Superseded 2026-11-15, Shalom's call: 廣 is *broad* at 41 and 67, `glossary/guang-廣.md`.)* *Broad* stated a width without implying abundance, so *broad → not enough* was no paradox. 說文 廣: 殿之大屋也, *"a great hall of a palace,"* on 广 (a roof); 王弼: 廓然無形，**不可滿也**. **Boundless says why it seems insufficient — there is no edge to arrive at.** 廣 still reads *reach far* at ch 67; two chapters, two Englishes, `WORKLIST.md` T2-45.
 
 **Also: 夷 → level** (王弼: 不執平以割物, tying it to ch 28's 大制不割); **不足 → not enough**, carrying ch 35's settled rendering; **質真 → substantial truth**, the superlative in *"the most solid truth"* being invented.
 
@@ -1466,7 +1466,7 @@ The objection is that it sounds passive, in a chapter that claims this treasure 
 
 ### Ch 67 · 儉 → "frugality", and 且 → "grab at"
 
-**儉 (*jiǎn*)** appears only in this chapter, and it is economic rather than ascetic. 王弼: 節儉愛費，天下不匱 — *"sparing, and careful of expenditure, so the world does not run short."* 河上公 makes it fiscal: 賦儉若取之於己也 — *"taxing sparingly, as if taking from one's own."* Hence **frugality**, and the paradox stands as the Chinese has it: 儉故能廣, *spend little and your reach is wide.*
+**儉 (*jiǎn*)** appears only in this chapter, and it is economic rather than ascetic. 王弼: 節儉愛費，天下不匱 — *"sparing, and careful of expenditure, so the world does not run short."* 河上公 makes it fiscal: 賦儉若取之於己也 — *"taxing sparingly, as if taking from one's own."* Hence **frugality**, and the paradox stands as the Chinese has it: 儉故能廣, *spend little and you can be broad.* The full argument, with Han Fei's winter and 嗇 (*sè* — conserving) at ch 59 beside it, is in `glossary/jian-儉.md`.
 
 **且 (*qiě*)** in 今捨慈且勇 is usually read as a bland conjunction, *and*. 王弼 says otherwise, in three characters: 且猶取也 — ***"且 is like 取 (to grab, to take)."*** So the line is not "abandon tenderness and be brave" but **"abandon tenderness and grab at courage."** The grabbing is what makes the triple an indictment rather than a description, and it is why the verdict is 死矣, *that is death*.
 
