@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**74 entries.** Sorted by how much of the book each term touches.
+**76 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -76,10 +76,12 @@ python3 tools/build_index.py
 | **知足** | *zhī zú* | knowing you have enough / contentment · *discontent* (ch 46) | "sufficiency", "fulfilled", "satisfaction" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
+| **廣** | *guǎng* | broad · breadth (as a noun) | "boundless", "limitless", "vast", "expansive", "reach far" | 2 | **locked** | [`guang-廣.md`](guang-廣.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
+| **儉** | *jiǎn* | frugality | "economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation" | 1 | **locked** | [`jian-儉.md`](jian-儉.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |
 | **尤** | *yóu* | blame | "fault", "blameless" | 1 | **locked** · binds taoteching only | [`you-尤.md`](you-尤.md) |
 | **帝** | *dì* | god — *any god* at its one occurrence | "God", "the Lord", "Creator", "heaven", "emperor", "the high god" | 1 | **locked** | [`di-帝.md`](di-帝.md) |

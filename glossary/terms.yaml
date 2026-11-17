@@ -584,6 +584,14 @@
   entry: glossary/jiu-咎.md
   binds: [taoteching]
 
+- term: "廣"
+  pinyin: "guǎng"
+  render: "broad · breadth (as a noun)"
+  forbidden: ["boundless", "limitless", "vast", "expansive", "reach far"]
+  chapters: [41, 67]
+  status: locked
+  entry: glossary/guang-廣.md
+
 - term: "水"
   pinyin: "shuǐ"
   render: "water"
@@ -618,6 +626,14 @@
   entry: glossary/ci-雌.md
   binds: [taoteching]
   # covers 雄 -> the rooster
+
+- term: "儉"
+  pinyin: "jiǎn"
+  render: "frugality"
+  forbidden: ["economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation"]
+  chapters: [67]
+  status: locked
+  entry: glossary/jian-儉.md
 
 - term: "全"
   pinyin: "quán"

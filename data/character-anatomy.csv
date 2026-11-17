@@ -300,7 +300,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 耳,ěr,ears,,耳,exact,耳,pictograph,,,,2,,0.0228,主聽也。象形。凡耳之屬皆从耳。,
 脆,cuì,fragile,,膬,old-form,肉,phonetic-compound,,肉 (ròu = flesh),毳 (? = not yet glossed),2,,0.0228,耎易破也。从肉毳聲。,
 賊,zéi,thieves (盜賊) / rob (65),,賊,exact,戈,phonetic-compound,,戈 (gē = a dagger-axe),則 (zé = then / and so),3,,0.0228,敗也。从戈則聲。,
-廣,Guǎng,reach far / boundless (41),,廣,exact,广,phonetic-compound,,广 (yǎn = a shelter built against a bank),黃 (? = not yet glossed),3,,0.0219,殿之大屋也。从广黃聲。,
+廣,Guǎng,broad · breadth (as a noun),broad · breadth (as a noun),廣,exact,广,phonetic-compound,,广 (yǎn = a shelter built against a bank),黃 (? = not yet glossed),3,locked,0.0219,殿之大屋也。从广黃聲。,"The great hall of a palace. From 广 (yǎn — a roof), with 黃 (huáng) for sound."
 割,gē,cut/carve,,割,exact,刀,phonetic-compound,,刀 (dāo = a knife),害 (hài = harm / hinder (66)),2,,0.0217,剥也。从刀害聲。,
 各,Gè,each,,各,exact,口,compound,,"口 (kǒu = mouths) + 夊 (suī = walking slowly, dragging the feet)",,2,,0.0217,異辭也。从口、夊。夊者，有行而止之，不相聽也。,
 方,fāng,square,,方,exact,方,pictograph,,,,2,,0.0217,併船也。象兩舟省、緫頭形。凡方之屬皆从方。,
@@ -402,7 +402,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 雌,cí,the hen,the hen,雌,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),此 (Cǐ = this / here),2,locked,0.0163,鳥母也。从隹此聲。,"The mother among birds. From 隹 (zhuī — a short-tailed bird), with 此 (cǐ) as its sound."
 驕,jiāo,arrogant / arrogance,,驕,exact,馬,phonetic-compound,,馬 (mǎ = horse),喬 (? = not yet glossed),2,,0.0163,馬高六尺爲驕。从馬喬聲。《詩》曰：“我馬唯驕。”一曰野馬。,
 勿,wù,do not,,勿,exact,勿,pictograph,,,,4,,0.0159,州里所建旗。象其柄，有三游。雜帛，幅半異。所以趣民，故遽，稱勿勿。凡勿之屬皆从勿。,
-儉,jiǎn,frugality,,儉,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",僉 (? = not yet glossed),3,,0.0157,約也。从人僉聲。,
+儉,jiǎn,frugality,frugality,儉,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",僉 (? = not yet glossed),3,locked,0.0157,約也。从人僉聲。,"To bind. From 人 (rén — person), with 僉 (qiān) for sound."
 兌,duì,opening,,兌,exact,-{儿}-,unanalysed,,,,3,,0.0154,說也。从-{儿}-㕣聲。,
 室,shì,room,,室,exact,宀,compound,,"宀 (mián = a roof; under a house) + 至 (zhì = reach / utmost, most / come (72))",,2,,0.0154,實也。从宀从至。至，所止也。,
 己,jǐ,oneself / themselves,,己,exact,己,pictograph,,,,2,,0.0154,中宮也。象萬物辟藏詘形也。己承戊，象人腹。凡己之屬皆从己。,
@@ -563,7 +563,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 改,gǎi,changing/altering,,改,exact,攴,compound,,攴 (pū = a hand striking — action done to something) + 己 (jǐ = oneself / themselves),,1,,0.0098,更也。从攴、己。李陽冰曰：“已有過，攴之卽改。”,
 敦,Dūn,Solid/genuine,,敦,exact,攴,phonetic-compound,,攴 (pū = a hand striking — action done to something),𦎫 (? = not yet glossed),1,,0.0098,怒也。詆也。一曰誰何也。从攴𦎫聲。,
 昔,Xī,long ago,,昔,exact,日,compound,,殘 (? = not yet glossed) + 肉 (ròu = flesh),,1,,0.0098,乾肉也。从殘肉，日以晞之。與俎同意。,
-曠,Kuàng,Broad/expansive,,曠,exact,日,phonetic-compound,,日 (rì = day / daily / all day (終日)),廣 (Guǎng = reach far / boundless (41)),1,,0.0098,明也。从日廣聲。,
+曠,Kuàng,Broad/expansive,,曠,exact,日,phonetic-compound,,日 (rì = day / daily / all day (終日)),廣 (Guǎng = broad · breadth (as a noun)),1,,0.0098,明也。从日廣聲。,
 枯,kū,withered,,枯,exact,木,phonetic-compound,,木 (mù = tree),古 (gǔ = ancient / the ancients),1,,0.0098,槀也。从木古聲。《夏書》曰：“唯箘輅枯。”木名也。,
 槁,gǎo,dry / dried out,,槀,old-form,木,phonetic-compound,,木 (mù = tree),高 (gāo = high),1,,0.0098,木枯也。从木高聲。,
 橐,tuó,"bag (橐籥, bellows)",,橐,exact,㯻,phonetic-compound,,㯻 (? = not yet glossed),石 (shí = stone),1,,0.0098,囊也。从㯻省，石聲。,

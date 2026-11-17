@@ -800,8 +800,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,7,德,dé,德,integrity,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,7,谷,gǔ,谷,valley,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
-41,8,德,dé,德,integrity,yes,1.0,authored,Boundless integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
-41,8,德,dé,德,integrity,yes,1.0,authored,Boundless integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
+41,8,廣,Guǎng,廣,broad · breadth (as a noun),yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
+41,8,德,dé,德,integrity,yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
+41,8,德,dé,德,integrity,yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
 41,9,器,qì,器,vessel / tool / implement,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
@@ -1256,19 +1257,24 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,4,持,chí,持,hold,yes,1.0,authored,I have three treasures. I hold them and keep them safe.
 67,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,I have three treasures. I hold them and keep them safe.
 67,5,一,Yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
+67,5,儉,jiǎn,儉,frugality,yes,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
 67,5,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
 67,5,慈,cí,慈,tenderness,yes,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
 67,5,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
 67,5,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The first is tenderness. The second is frugality. The third is never pushing to be first in the world.
 67,6,慈,Cí,慈,tenderness,yes,1.0,authored,"Tenderness, and so you can be brave."
 67,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Tenderness, and so you can be brave."
-67,7,能,néng,可,be able,NOT FOUND,1.0,authored,"Frugality, and so you can reach far."
+67,7,儉,Jiǎn,儉,frugality,yes,1.0,authored,"Frugality, and so you can be broad."
+67,7,廣,guǎng,廣,broad · breadth (as a noun),yes,1.0,authored,"Frugality, and so you can be broad."
+67,7,能,néng,可,be able,NOT FOUND,1.0,authored,"Frugality, and so you can be broad."
 67,8,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
 67,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
 67,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
 67,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
 67,8,能,néng,可,be able,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,9,慈,cí,慈,tenderness,yes,1.0,authored,"Now: to abandon tenderness and grab at courage, to abandon frugality and grab at reach, to abandon the rear and grab at the front. That is death."
+67,9,儉,jiǎn,儉,frugality,yes,1.0,authored,"Now: to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon the rear and grab at the front. That is death."
+67,9,廣,guǎng,廣,broad · breadth (as a noun),NOT FOUND,1.0,authored,"Now: to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon the rear and grab at the front. That is death."
+67,9,慈,cí,慈,tenderness,yes,1.0,authored,"Now: to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon the rear and grab at the front. That is death."
 67,10,守,shǒu,守,hold to,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,慈,cí,慈,tenderness,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,11,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"When nature would rescue someone, it shields them with tenderness."

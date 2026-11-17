@@ -153,7 +153,7 @@ Noun takes *cleverness*, adjective and predicate take *clever*, as the grammar a
 
 **No English can carry the silks' pun at chapter 65,** 知 (zhī — to know) written for 治 (zhì — to govern). *To know the state by knowing* and *to govern a state with cleverness* are one phrase in the silks' ink and two in any English.
 
-**慧 (huì) beside it at chapter 18 reads *erudition*, and 慧 is not learning.** The Shuowen: 慧，儇也 — *"慧 is nimbleness,"* quickness of mind. Learning is 學 (xué — study), a word of its own at chapters 20 and 48. 智慧 (zhì huì) reads more like *cleverness and quick wits*. That is a change to a verse line, so it is Shalom's call, and it is owed in `WORKLIST.md` T2-2.
+**慧 (huì) beside it at chapter 18 reads *erudition*, and 慧 is not learning.** The Shuowen: 慧，儇也 — *"慧 is nimbleness,"* quickness of mind. Learning is 學 (xué — study), a word of its own at chapters 20 and 48. 智慧 (zhì huì) reads more like *cleverness and quick wits*. That is a change to a verse line, so it is Shalom's call, and it is owed in `WORKLIST.md` T2-83.
 
 **Chapter 3's *knowers* keep a fork open on purpose.** Wang Bi's text writes 智者 (zhì zhě — the clever ones) and reads the operators the line restrains. Heshang Gong's writes 知者 (zhī zhě — those who know) and reads deep, quiet knowers, close to chapter 56's. The English does not choose (`notes/manuscript.md`).
 

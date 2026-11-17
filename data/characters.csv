@@ -254,7 +254,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 代,dài,take the place of,word,,,,,3,1,74,74,74,0.57,
 伐,fá,claim credit (自伐) / brag (30),word,,,,,3,3,"22,24,30",22,30,0.57,
 俗,Sú,worldly (俗人) / ways (80),word,,,,,3,2,"20,80",20,80,0.57,
-儉,jiǎn,frugality,word,,,,,3,1,67,67,67,0.57,
+儉,jiǎn,frugality,locked,,frugality,locked,economy; thrift; austerity; simplicity; moderation; restraint; conservation,3,1,67,67,67,0.57,glossary/jian-儉.md
 兌,duì,opening,word,,,,,3,2,"52,56",52,56,0.57,
 兒,ér,"child (嬰兒, infant)",word,,,,,3,3,"10,20,28",10,28,0.57,
 全,quán,whole · stay whole · keep whole (transitive),locked,,whole · stay whole · keep whole (transitive),locked,complete; perfect; flawless; restore; made whole,3,1,22,22,22,0.57,glossary/quan-全.md
@@ -277,7 +277,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 尊,zūn,revere / honor (62),word,,,,,3,2,"51,62",51,62,0.57,
 巧,qiǎo,cunning / skill,word,,,,,3,3,"19,45,57",19,57,0.57,
 師,shī,"teacher, master / armies (30)",word,,,,,3,2,"27,30",27,30,0.57,
-廣,Guǎng,reach far / boundless (41),word,,,,,3,2,"41,67",41,67,0.57,
+廣,Guǎng,broad · breadth (as a noun),locked,,broad · breadth (as a noun),locked,boundless; limitless; vast; expansive; reach far,3,2,"41,67",41,67,0.57,glossary/guang-廣.md
 建,jiàn,established / sturdy (41) / plant (54),word,,,,,3,2,"41,54",41,54,0.57,
 彌,mí,the more / the further (47),word,,,,,3,2,"47,57",47,57,0.57,
 形,xíng,form / give form / measure against (2),word,,,,,3,3,"2,41,51",2,51,0.57,
