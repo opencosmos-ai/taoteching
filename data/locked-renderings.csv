@@ -70,6 +70,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,exact-count,and the knowers never push to act.
+3,8,智,zhì,智,cleverness / clever,yes,1.0,exact-count,and the knowers never push to act.
 3,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and the knowers never push to act.
 3,9,治,zhì,治,govern,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
 3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
@@ -324,6 +325,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
+18,2,智,Zhì,智,cleverness / clever,yes,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
 18,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
 18,3,孝,xiào,慈,devotion,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
@@ -332,6 +334,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
+19,1,智,zhì,智,cleverness / clever,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,民,mín,民,the people,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,2,仁,rén,仁,humaneness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
@@ -502,6 +505,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 27,13,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,the unmasterful are the raw material of the masterful.
 27,14,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,the unmasterful are the raw material of the masterful.
 27,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"however clever, one is greatly lost."
+27,17,智,zhì,智,cleverness / clever,yes,1.0,authored,"however clever, one is greatly lost."
 27,18,妙,miào,玄 & 妙,subtle,yes,1.0,authored,This is called the essential subtlety.
 28,1,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
 28,1,雄,xióng,雌,the rooster,yes,1.0,exact-count,"Know the rooster, hold to the hen,"
@@ -614,6 +618,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 32,10,谷,gǔ,谷,valley,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
+33,1,智,zhì,智,cleverness / clever,yes,1.0,exact-count,One who knows others is clever.
 33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,exact-count,One who knows themselves is clear-seeing.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
@@ -1197,15 +1202,18 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,物,wù,萬物,things / something,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,萬,wàn,萬物,countless,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
-65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.
-65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.
-65,1,民,mín,民,the people,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.
-65,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.
-65,1,道,dào,道,the Tao / way,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people clever. They used it to return them to being guileless.
-65,2,民,Mín,民,the people,yes,1.0,authored,The people are hard to govern because they have too much guile.
-65,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because they have too much guile.
-65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with guile robs the state.
-65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with guile is the state's good fortune.
+65,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,1,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,1,民,mín,民,the people,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,1,道,dào,道,the Tao / way,yes,1.0,authored,The ancients who were masterful at the Tao did not use it to make the people see clearly. They used it to return them to being guileless.
+65,2,智,zhì,智,cleverness / clever,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
+65,2,民,Mín,民,the people,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
+65,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
+65,3,智,zhì,智,cleverness / clever,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,4,智,zhì,智,cleverness / clever,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
+65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,6,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,Always to know the pattern is called profound integrity.
 65,6,德,dé,德,integrity,yes,1.0,authored,Always to know the pattern is called profound integrity.
 65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,Always to know the pattern is called profound integrity.

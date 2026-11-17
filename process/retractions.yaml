@@ -218,3 +218,26 @@
     The Shuowen defines 弱 as 橈也, "to bend," and names no bow. The modern form
     only looks like two bows, and the graph's origin is contested.
   see: "glossary/ruo-弱.md"
+
+- id: wangbi-yu-wuzhi-is-not-without-cunning
+  retracted: 2026-11-16
+  claim: >
+    Wang Bi's gloss on 愚 (yú) at ch 65, 愚謂無知守真, means "without cunning,"
+    so 愚 is guilelessness and 智 (zhì) its opposite, guile.
+  match: ["愚 here means without cunning", "means without cunning, holding fast"]
+  correction: >
+    無知 (wú zhī) is "unknowing," the book's own phrase at ch 3 and 10. Wang Bi
+    reads 愚 as unknowing, and ch 65's 智 reads "cleverness," as everywhere.
+  see: "glossary/zhi-智.md"
+
+- id: ming-ch65-is-not-a-second-sense
+  retracted: 2026-11-16
+  claim: >
+    明 (míng) at ch 65, 非以明民, is used in a second sense, cunning or
+    cleverness, and so the line reads "make the people clever."
+  match: ["明 here is not clarity", "the character is being used in a second sense"]
+  correction: >
+    Every witness reads 明 and nothing in the line qualifies it; the second
+    sense was Wang Bi's gloss. The lock holds, and ch 65 reads "did not use it
+    to make the people see clearly" (Shalom's call, 2026-11-16).
+  see: "glossary/ming-明.md"

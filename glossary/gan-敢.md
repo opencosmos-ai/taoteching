@@ -51,7 +51,7 @@ So what 敢 does to 先 (*xiān* — the front) is **grab at it**. 不敢 is not
 
 | Chapter | Chinese | Reading |
 |---|---|---|
-| 3 | 使夫智者**不敢**為也 | so the guileful will not push to act |
+| 3 | 使夫智者**不敢**為也 | and the knowers never push to act |
 | 30 | **不敢**以取強 | never pushes on to seize dominance |
 | 64 | 而**不敢**為 | and never pushes them |
 | 67 | **不敢**為天下先 ×2 | never pushing to be first in the world |

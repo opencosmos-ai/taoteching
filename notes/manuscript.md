@@ -232,6 +232,10 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **4. 故 at 故飄風不終朝 — our base is the only witness that has it, and the English does not render it.** The Siku 王弼 carries 〔案**河上公注本及各本俱無故字**〕 — *"the Heshang Gong commentary edition and **all editions** lack the character 故 (gù — therefore)."* **Our vendored 河上公 confirms it**: his lemma is 飄風不終朝驟雨不終日, with no 故. So our base text is a **singleton reading** here, by its own editors' account. **We print it and leave it unrendered** *(Shalom's call, 2026-09-04)*: the verse sets the three statements side by side, as every other witness has them, and does not assert in English an inference our base alone claims. **This is not an emendation** — the 原文 table still prints 故, and a reader can see both the character and the decision. 說文 makes 故 unambiguously causal (使爲之也, *"to cause something to be done"*), so it could not have been softened into a comparison instead; *likewise* was proposed and declined. The reader-facing half of the decision is in `notes/reading.md`.
 
+### Ch 18 · 智慧出，有大偽 — the oldest witness has no cleverness in the chapter
+
+Our base has four couplets. The Guodian slips (bundle C) carry the chapter complete, run on from Ch 17, with three: the line 智慧出，有大偽 (*zhì huì chū, yǒu dà wěi* — "cleverness and quick wit arise, and there is great artifice") is not there. In the oldest witness, when the great Tao is lost, humaneness and duty appear, then devotion and tenderness, then ministers, and cleverness is not on the list. Both silks have the line, writing 知 (*zhī* — to know) for 智 (*zhì* — cleverness) as they do throughout. **We keep the base**, as we keep the received readings elsewhere. The same slips keep 智 in Ch 19 (絕智棄辯, *jué zhì qì biàn* — "cut off cleverness, abandon disputation"), so the oldest copy drops cleverness from the chapter that blames it for decline and keeps it in the one that says to let it go: `glossary/zhi-智.md`. *(2026-11-16, from secondary transcriptions; confirm against a printed edition, as `WORKLIST.md` T2-74 asks.)*
+
 ### Ch 19 · 絕聖棄智 / 絕仁棄義 — the oldest witness does not attack the Confucians
 
 **The best-known meaning-bearing divergence in the whole Guodian Laozi, and it sits in a chapter we drafted with the apparatus silent.** Recorded 2026-08-28; this closes `PLAN.md` → G1.
@@ -479,6 +483,10 @@ Our base reads 人多利器 (*rén duō lì qì*), with 人 (*rén* — a person
 Our Wang Bi base reads 稽式 (*jī shì*), Heshang Gong's text reads 楷式 (*kǎi shì*), and the Siku compilers note it in the margin themselves: 〔案河上公注本稽作楷下同〕 — *"in the Heshang Gong recension 稽 is written 楷, and likewise below."* Both compounds name a standard or model, so nothing in the English turns on it.
 
 **What does turn on it is the gloss, and there the two commentators part.** Wang Bi reads 稽 as 同 (*tóng* — held in common): 今古之所同則不可廢, *"what past and present hold in common cannot be discarded."* The standard is what does not change across time. Heshang Gong reads 楷式 as 法式 — the working pattern for governing self and state, a template you apply. Metaphysical against practical, from one graph. **We keep the base text and render 式 as "pattern",** which is already Ch 28's word for 為天下式.
+
+### Ch 65 · 以智治國 / 以知知邦 — the silks write the pun Wang Bi hears
+
+Our base reads 故以智治國，國之賊；不以智治國，國之福 (*gù yǐ zhì zhì guó, guó zhī zéi; bù yǐ zhì zhì guó, guó zhī fú* — "so to govern a state with cleverness robs the state; not to govern it with cleverness is the state's good fortune"). Both silks write 知 (*zhī* — to know, also to preside over) for 治 (*zhì* — to govern) as well as for 智 (*zhì* — cleverness): *to know the state by knowing is the state's robber*. And they close on 德 (*dé* — integrity) where our base has 福 (*fú* — good fortune). Silk A writes 邦 (*bāng* — state), the word the Han taboo later replaced with 國 (see Ch 61). Wang Bi's note on the line opens 智猶治也 — *"智 is like 治"* — so the pun he hears is in the silks' ink. **We keep the base**, which both commentators read; the English, *guile* and *good fortune*, cannot carry the pun either way: `glossary/zhi-智.md`. *(2026-11-16, from the Wikisource silk text; confirm against a printed edition, as `WORKLIST.md` T2-74 asks.)*
 
 ### Ch 67 · 我道大 or 我大 — **resolved 2026-08-19: the chapter is about Laozi**
 
