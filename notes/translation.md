@@ -583,6 +583,12 @@ Two decisions in one line. **First, it stays "sky."** Ch 16 and Ch 25 share this
 
 公 is the direct opposite of 私 (*sī* — private, selfish): the public, the common, what belongs to no one. Equanimity is inner calm and sends rung two back inside the person, stalling an ascent whose whole motion is *outward*. With "impartiality," the ladder reads as one continuous widening of the circle beyond the self. *(See the Ch 16 Reading Note. This is the rendering Ch 42 and Ch 62 will have to answer to when 公 is given a glossary entry — see `WORKLIST.md`.)*
 
+### Ch 20
+
+#### 沌沌兮 → "How fluid!"
+
+*(Shalom's call, 2026-11-16. was: "How muddled!")* 沌 (*dùn*) names the whole before it divides (Guodian's word for 混 (*hùn* — mixed) at ch 15; Heshang Gong's 混沌 for the Tao at ch 25), and both commentators gloss 沌沌 as making no distinctions. *Muddled* was a verdict of confusion the Chinese does not make; *undivided* was an absence. *Fluid* keeps the water radical and the movement of the silks' 蠢蠢 (*chǔn chǔn* — stirring), cannot be cut, and stands against the worldly being *sharp*. The murk belongs to 濁 (*zhuó* — muddy), which ch 15 only likens 沌 to. **Seeking to understand 沌沌 is what opened the meaning of the fool** (`glossary/yu-愚.md`). Argument in `chapters/020.md` → Notes.
+
 ### Ch 21
 
 #### 道之為物 → "Whatever the Tao is, it is only vague, only elusive"

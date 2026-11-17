@@ -173,7 +173,7 @@
 | 16 · 5 | 芸芸 (*yún yún* — teeming, flourishing) | *"Things come to their fullest,"* | no |
 | 20 · 6 | 熙熙 (*xī xī* — merry, bustling) | *"The crowd is merry, as if at a great feast,"* | no |
 | 20 · 11 | 傫傫 (*léi léi* — weary, drooping) | *"listless, as if with nowhere to return."* | no |
-| 20 · 15 | 沌沌 (*dùn dùn* — muddled, unformed) | *"How muddled!"* | no; the exclamation carries the intensity |
+| 20 · 15 | 沌沌 (*dùn dùn* — fluid, undivided) | *"How fluid!"* (was *"How muddled!"* until 2026-11-16) | no; the exclamation carries the intensity |
 | 20 · 16–17 | 昭昭 / 昏昏 (*zhāo zhāo / hūn hūn* — bright / dim) | *"The worldly are bright. I alone am clouded."* | no |
 | 20 · 18–19 | 察察 / 悶悶 (*chá chá / mèn mèn* — sharp / dull) | *"The worldly are sharp. I alone am dull."* | no |
 | 39 · 20–21 | 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming like jade / rough like stone) | *"Do not want to be gleaming like jade, / or common like stone."* | no |
@@ -616,7 +616,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 | 6 | 綿綿 (*mián mián* — unbroken, like a drawn thread) | **Resolve:** *"Unbroken and fine, it seems to be here, / use it, and there is no strain."* *Fine* is in the graph (the Shuowen's 聯微也 (*lián wēi yě*), *"joined and fine"*), and *seems to be here* is ch 4's English for 似或存 (*sì huò cún* — "seems perhaps to be here"), beside this line's 若存 (*ruò cún* — "seems to be here") |
 | 14 | 繩繩 (*shéng shéng* — cord upon cord) | **Resolve:** *"Strand upon strand, it cannot be named"*. *Flowing* has no water in it; the doubled cord is the image |
 | 16 | 芸芸 (*yún yún* — teeming) | **Resolve:** *"Things teem and flourish, / each returns again to its root."* *Come to their fullest* was 盈 (*yíng* — full)'s word, and 盈 (*yíng*) is not here |
-| 20 | 熙熙, 傫傫, 沌沌 (*xī xī, lěi lěi, dùn dùn* — merry, drooping, muddled) | **Leave.** Single words, carried by the similes and by *How muddled!* |
+| 20 | 熙熙, 傫傫, 沌沌 (*xī xī, lěi lěi, dùn dùn* — merry, drooping, fluid) | **Leave.** Single words, carried by the similes and by *How fluid!* (was *How muddled!* until 2026-11-16) |
 | 20 · 58 | 昭昭 / 昏昏, 察察 / 悶悶 (*zhāo zhāo / hūn hūn, chá chá / mèn mèn* — bright / clouded, sharp / dull) | **Leave ch 20; resolve ch 58 to match it,** so 察察 (*chá chá*) and 悶悶 (*mèn mèn*) read *sharp* and *dull* in both: *"When the government is dull, the people are simple. / When the government is sharp, the people are wanting."* 淳淳 (*chún chún* — simple) and 缺缺 (*quē quē* — lacking) then read alike too, and *turn cunning*, which no character says, goes |
 | 39 | 琭琭 / 珞珞 (*lù lù / luò luò* — gleaming / rough) | **Leave.** *Gleaming like jade / common like stone* gives each its simile |
 | 49 | 歙歙 (*xī xī* — drawing in) | **Leave.** *Breathes gently* is the drawing-in |

@@ -33,7 +33,7 @@ The silks bear this out. At chapter 20 silk A writes only 禺 where silk B and o
 > *The crowd all have more than enough.*
 > *I alone seem to have missed out.*
 > *I have the heart of a fool!*
-> *How muddled!*
+> *How fluid!*
 >
 > 眾人皆有餘，
 > 而我獨若遺。
@@ -74,6 +74,12 @@ The book did not choose a gentle word. In the writing of its time 愚 is the pla
 - Zhuangzi: 衆人役役，聖人愚芚 — *"the crowd toil and bustle; the sage is foolish and dull."*
 
 The praise lands only because the word is still an insult. Turn 愚 into a virtue word in English and there is nothing left to reverse.
+
+### Chapter 20 says what the fool's heart is
+
+**The two lines in chapter 20 are a turn, and the second answers the first.** 我愚人之心也哉！沌沌兮！ — *"I have the heart of a fool! How fluid!"* The first is the insult, what the bright and sharp world calls this heart. The second says what the heart is. 沌沌 (dùn dùn) is not a word of contempt: it is the book's word for the whole before it divides, which Guodian writes for the ancients' bearing in chapter 15, and which Heshang Gong, as 混沌 (hùn dùn), uses for the Tao at chapter 25. Wang Bi glosses it 無所別析 (*"it divides and parses nothing"*), Heshang Gong 无所分別 (*"it makes no distinctions"*).
+
+**So the fool of this book is not the one who is confused. It is the one who has not cut the world into pieces.** The worldly are 察察 (chá chá — sharp, scrutinizing), the edge that sorts; the fool's heart is fluid, and water cannot be cut. This is what 愚 means wherever the book claims it, and it is what the masters of chapter 65 bring the people to. *(The meaning opened when Shalom pressed on 沌沌, 2026-11-16: seeking to understand that one word, rather than letting* muddled *stand beside* fool*, unlocked the deeper meaning of the fool. `chapters/020.md` → Notes.)*
 
 ### Chapter 65 ends where Zhuangzi puts the fool
 

@@ -298,14 +298,16 @@ The through-line is 下 — *below* as an action you take. Read together they sa
 > *The crowd all have more than enough.*
 > *I alone seem to have missed out.*
 > *I have the heart of a fool!*
+> *How fluid!*
 >
 > 眾人皆有餘，
 > 而我獨若遺。
 > 我愚人之心也哉！
+> 沌沌兮！
 >
 > — chapter 20
 
-Wang Bi says what that heart is: 心無所別析，意無所好欲 — *"the heart divides and parses nothing, the mind likes and wants nothing."* Heshang Gong: 不與俗人相隨，守一不移 — *"not following the worldly, keeping to the one without moving."* At chapter 67 Heshang Gong has Laozi say 我則佯愚 — *"so I feign foolishness."* The masters of chapter 65 are not pushing the people down beneath themselves. They are bringing the people to where the sage already stands, and the English now uses one word for both, so a reader can see it: *a fool* in chapter 20, *fools* in chapter 65.
+The second line says what that heart is. 沌沌 (*dùn dùn*) is not an insult: it is the book's word for the whole before it divides, which Guodian writes for the ancients in Ch 15 and Heshang Gong, as 混沌 (*hùn dùn*), uses for the Tao in Ch 25. The fool's heart is fluid, uncut, and the fool of this book is not the one who is confused but the one who has not cut the world into pieces. Wang Bi: 心無所別析，意無所好欲 — *"the heart divides and parses nothing, the mind likes and wants nothing."* Heshang Gong: 不與俗人相隨，守一不移 — *"not following the worldly, keeping to the one without moving."* At chapter 67 Heshang Gong has Laozi say 我則佯愚 — *"so I feign foolishness."* The masters of chapter 65 are not pushing the people down beneath themselves. They are bringing the people to where the sage already stands, and the English now uses one word for both, so a reader can see it: *a fool* in chapter 20, *fools* in chapter 65.
 
 **2. The fool sees what the clever strain for.** Han Fei tells the story on chapter 38. The diviner Zhan He hears an ox low at the gate and labours to name its colours; a foolish child of five feet goes and looks, and sees the same thing: a black ox, with cloth wrapped round its horns. The diviner's art, Han Fei says, is "the head of folly," and the foolish child simply sees. The fool of this book is not the one who cannot see. It is the one who looks without first deciding what is there.
 
@@ -327,7 +329,7 @@ Chapter 20 is the one place the book sounds like a person rather than a position
 
 **Then the chapter refuses its own consolation.** 人之所畏，不可不畏 — *what people fear must be feared*. Wang Bi does not soften it: 故人之所畏，吾亦畏焉 — *"what people fear, I fear too."* The speaker has seen through the distinctions and is **still afraid**, and says so before saying anything else about their own state. No enlightenment is claimed. That single line is what keeps the rest of the chapter from being a boast.
 
-**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker has missed out. The worldly are bright and sharp; the speaker is dark and dull. Muddled. Stubborn. Coarse.
+**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker has missed out. The worldly are bright and sharp; the speaker is clouded and dull. Stubborn. Coarse. **One word in the descent is not an insult.** Straight after *"I have the heart of a fool!"* comes 沌沌兮, *"How fluid!"*: the book's word for the whole before it divides, the heart that makes no distinctions. The descent is what the crowd sees. 沌沌 is what is there. *(Seeking to understand that word is what opened the meaning of the fool: Ch 65 below, and `glossary/yu-愚.md`.)*
 
 The last word is where it resolves, and it resolves without arguing: 而貴食母 — *I prize feeding from the mother.* Everyone else is at the great feast, 太牢, the ox-sacrifice. The speaker is at the breast. Not a lesser meal — the **first** one, the one that comes before food is something you choose. 王弼: 食母，生之本也, *"the feeding mother is the root of what lives."*
 

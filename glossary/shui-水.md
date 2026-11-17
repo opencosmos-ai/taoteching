@@ -92,7 +92,7 @@ This is the yielding that the 柔 (*róu* — soft) and 弱 (*ruò* — yielding
 
 **"element," "the water element."** The five phases are Han cosmology, and the Shuowen's 北方之行 is where they enter. The book has no 五行 (*wǔ xíng* — five agents), and an English *element* reads that system back into it.
 
-**"liquid," "fluid."** These name a state of matter, the vocabulary of physics. They label water where the line points at it, and the pointing test fails. Water can be drunk, and a liquid is a category.
+**"liquid," "fluid."** These name a state of matter, the vocabulary of physics. They label water where the line points at it, and the pointing test fails. Water can be drunk, and a liquid is a category. The refusal is of *fluid* as the name of the substance. As a description it is free: chapter 20 renders 沌沌 (dùn dùn — the whole before it divides) *"How fluid!"*, of a heart (Shalom's call, 2026-11-16), and 水 does not stand there, so this list does not reach it.
 
 **"the Water."** A capital turns the image into a principle. Only the Tao keeps one.
 
