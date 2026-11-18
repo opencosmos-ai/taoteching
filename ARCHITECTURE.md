@@ -191,6 +191,24 @@ This is the operational heart of the system. A question about one character beco
 
 **Each signal needs a secret, and skips with a notice without one**: `ATLAS_DISPATCH_TOKEN` for the atlas, `VERCEL_DEPLOY_HOOK` and `KNOWLEDGE_DISPATCH_TOKEN` for opencosmos.ai. A skipped dispatch is not an error, because each reader also rebuilds on its own.
 
+### Source registry contract
+
+[`sources/SOURCES.md`](sources/SOURCES.md) is generated for readers on GitHub. `build_sources.py` and `build_db.py` both validate the authored catalogue, individual readings, citations, inventory, and importer bindings through `tools/lib/source_registry.py`. The SQLite projections feed the CSVs and `export_atlas.py`. The Library builds its Sources page and chapter disclosures from the export. The Atlas links glossary citations to the Library's source anchors. The source catalogue and apparatus are the places to edit bibliographic facts and reading evidence, respectively. Glossary citations live beside the passages in the entries.
+
+The export stays on contract 1. Existing chapter tuples and verse, alignment, notes, character cards, entry bodies, and entry fields retain their shape. These fields extend it. A `?` marks a field that can be omitted.
+
+| Field | Shape and semantics |
+|---|---|
+| `sources.records[]` | `{id, name, kind, use, short_name?, date?, author_dates?, years?, found?, url?, scan?, rights?, via?, chain, policy, holds, editions, coverage, forks, chapters, entries, citation_debt?, pending_print, pending_via, confirmed_print}`. IDs and display labels are strings. `years` is an ascending pair of signed years. `kind` is `base`, `excavated`, `transmitted`, `commentary`, `dictionary`, `context`, `translation`, or `reference`. `use` is `stored`, `facts`, or `consulted`. `chain` lists intermediary IDs from the immediate one onward. `policy` and `holds[]` are repository-relative paths. `coverage` has `chapters: number[]`, optional `total: number`, and optional `items: number` for a stored selection. `forks` lists fork IDs, `chapters` lists their distinct chapter numbers, and `entries` lists glossary slugs. The three print counts describe readings of the source, readings acquired through it as immediate intermediary, and confirmed readings of it. |
+| `sources.records[].editions[]` | `{id, title, publisher?, year?, date?, url?}`. Edition IDs are scoped to each source. `year` is a number. `date` retains the edition dates written in importer metadata. |
+| `sources.totals` | Integer fields `sources`, `stored`, `facts`, `readings`, `pending_print`, `confirmed_print`, `entries`, `incomplete_entries`, and `citation_debt`. The print totals count individual readings and `citation_debt` counts exceptional source records. |
+| `chapter_sources[chapter]` | `{attestation, forks, commentary}` for every chapter. `attestation` is `{source: "guodian", present: boolean, extent, bundles: string[], units: string[]}`. `extent` is `complete`, `opening`, `middle`, `end`, `split`, or `null` for an absent inventory record. `commentary` is an array of `{source, path}` pointing to stored chapter files. |
+| `chapter_sources[chapter].forks[]` | `{id: number, base: pairing, our_call: string, meaning_bearing: boolean, readings: reading[]}`. Choices are `base`, `punctuation`, `undecided`, or an ID among that fork's readings. A pairing is `{text, pinyin?, english, gloss}`. `gloss` is `authored` or `derived`. Pinyin is required with Han text. |
+| Reading | A pairing plus `{source, chain, cards, annotation?, via?, edition?, locator?, url?, verification, confirm?, confirmed_edition?, confirmed_locator?, confirmed_on?, confirmation?}`. `cards` lists only ideographs that have actual Atlas cards. `source` is a catalogue ID or `various` or `wangbi_collation`, two editorial evidence labels. `verification` is `unassessed`, `pending-print`, or `confirmed-print`. Pending records retain their acquisition locator and worklist row. Confirmed records identify the edition and exact location in print, ISO date, and outcome. |
+| `entries[].refs`, `entries[].refs_status` | `refs` is an array of `{source, via?, chain, edition?, locator?, url?, at?}` with a precise locator or passage URL. `at` points to a heading in the entry. `refs_status` is `incomplete` or `complete`. The exported references and counts cover recorded citations. |
+
+The source gate runs offline and checks every displayed pairing, source and edition reference, active print check, stored metadata projection, and the generated catalogue. The weekly external-link check uses the export to track repeated failures in one issue.
+
 **A part's written form is a fact about each character, held once.** 說文 names a part in its full form, and a part changes shape with its place: 水 (*shuǐ* — water) is written 氵 at a character's left, 肉 (*ròu* — flesh) as 月 (*yuè* — moon). So the atlas's card for 沖 (*chōng*) said "built from 水", and a reader looking at 沖 could not find water in it (2026-11-15). The fix is shaped by four decisions:
 
 - **The fact lives here**, in [`sources/component-forms.yaml`](sources/component-forms.yaml), one row per part, form and position, beside the parts' English in `component-glosses.yaml`. It is not the atlas's to keep, because the atlas has no content of its own.
@@ -347,17 +365,7 @@ Unsuppressable rules get disabled wholesale; free suppression rots. So both hatc
 
 The repository is **CC0, with no exceptions**, and a companion volume must be able to draw on it commercially. That constrains what may be vendored, and the constraint is architectural rather than incidental.
 
-| Material | Call | Why |
-|---|---|---|
-| 王弼 · 河上公 · 韓非 commentaries | **vendor** | pre-1929 printings exist; public domain by age |
-| The Laozi base text | **vendor** | ancient; provenanced to four named pre-1929 printings |
-| 說文解字 (*Shuōwén Jiězì*) | **vendor** | c. 100 CE |
-| **Mawangdui** (excavated 1973) · **Guodian** (1993) | **never vendor** | every transcription is modern, and reconstructing damaged graphs is living scholarship |
-| Modern critical apparatus, annotations, translations | **never vendor** | in copyright |
-
-**For the excavated witnesses, record the fact rather than the text.** *"Mawangdui A and B read 自今及古 (*zì jīn jí gǔ* — from now back to antiquity) where Wang Bi reads 自古及今 (*zì gǔ jí jīn* — from antiquity until now)"* is a fact about a text, and facts are not copyrightable. That is what `sources/variants.yaml` is: an apparatus of facts, never transcriptions. `sources/guodian-inventory.yaml` answers only *does the oldest witness carry this chapter at all* — it carries <!-- count: guodian-chapters -->31 of 81.
-
-Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to `sources/`.
+The [generated catalogue](sources/SOURCES.md) lists the sources, editions, stored materials, and recorded evidence. The [admission rules](sources/PROVENANCE.md#the-admission-rules) govern who can add material and on what evidence. For the currently excluded excavated reconstructions, the apparatus records individual reading facts and the Guodian inventory records passage extent. A qualifying transcription can be admitted under the existing [excavated-source policy](sources/PROVENANCE.md#excavated).
 
 **A separate rule governs consultation, not vendoring:** sources are consulted for **meaning, never for phrasing**, and only pre-1931 public-domain translations may be consulted at all. There are no English translations in this repository.
 
@@ -447,6 +455,7 @@ python3 tools/check_locks.py --rule em-dash     # one rule
 python3 tools/check_locks.py --severity error   # what CI blocks on
 python3 -m unittest discover -s tools/tests
 python3 tools/check_counts.py                   # the counts the docs claim (--list for every name)
+python3 tools/build_sources.py --check           # validate the source graph and generated catalogue
 python3 tools/check_retractions.py              # no copy of a withdrawn claim survives (--list for the register)
 
 # after editing any chapter's verse
@@ -455,6 +464,7 @@ python3 tools/fix-linebreaks.py                 # restore hard breaks (--check t
 # after editing chapters (verse, Chinese or notes), glossary or sources — rebuild
 # everything under data/, in this order; CI fails a PR whose data/ is stale.
 # A glossary edit runs build_index.py first: build_db.py reads terms.yaml.
+python3 tools/build_sources.py
 python3 tools/build_db.py && python3 tools/export.py \
   && python3 tools/build_graph.py && python3 tools/export_atlas.py
 python3 tools/build_explorer.py                 # optional: the local preview, gitignored

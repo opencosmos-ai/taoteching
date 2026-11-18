@@ -8,6 +8,7 @@ forbidden: ["embrace", "attune", "stay with", "cleave to", "preserve", "abide in
 chapters: [5, 9, 16, 28, 32, 37, 52, 67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 守 (Shǒu) — To Hold To

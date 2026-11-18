@@ -8,6 +8,13 @@ chapters: [2, 3, 5, 7, 12, 19, 22, 27, 28, 29, 47, 49, 57, 58, 60, 63, 64, 66, 7
 status: locked
 pairing: false
 shuowen: "Getting through. From 耳 (ěr — the ear), with 呈 (chéng) for sound."
+refs_status: incomplete
+refs:
+  - { source: duan-yucai, locator: "Shuowen commentary on sheng (sage)" }
+  - { source: fengsu-tongyi, via: duan-yucai, locator: "The definition of sheng (sage) by sheng (sound)" }
+  - { source: baihu-tong, locator: "The three glosses on sheng (sage) as getting through, the way and sound" }
+  - { source: analects, locator: "2.4, 9.6 and 7.34" }
+  - { source: mencius, locator: "4A.2, the sage as the summit of human relations" }
 ---
 
 ## 聖 (Shèng) — The Sage

@@ -144,6 +144,10 @@ covers:
 | `covers` | secondary characters treated inside this entry |
 | `binds` | the books this lock holds in, e.g. `[taoteching]`. **Omit it** and the lock holds in every book that vendors `terms.yaml` — the I Ching does, as its own lock table. Set it only where another book has ruled the character differently on purpose, and say why in the entry's prose (`jiu-咎.md`, `you-尤.md`) |
 | `shuowen` | Xu Shen's 說文 line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer and `data/` exports; omit it rather than guess |
+| `refs` | A block of flat mappings with a catalogue `source` id and a passage `locator` or `url`. Use `via` for an intermediary that provided the evidence, `edition` for a catalogue edition id, and `at` for an entry heading anchor. |
+| `refs_status` | `incomplete` while citations are still being recovered. Use `complete` after checking the entry's citations. |
+
+Keep bibliographic names and editions in the [sources catalogue](../../../sources/SOURCES.md). Keep the passage locator with the entry that uses it.
 
 **Flexions go in `flexions:`, never in a sentence inside `render:`.**
 

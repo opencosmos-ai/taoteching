@@ -10,6 +10,7 @@ pairing: false
 binds: [taoteching]
 covers:
   - { char: "雄", render: "the rooster" }
+refs_status: incomplete
 ---
 
 ## 雌 (Cí) — The Hen

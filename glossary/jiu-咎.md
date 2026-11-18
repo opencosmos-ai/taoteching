@@ -8,6 +8,7 @@ status: locked
 pairing: false
 binds: [taoteching]
 shuowen: "Disaster. From 人 (rén — a person) and 各 (gè — each, apart); 各 means being at odds."
+refs_status: incomplete
 ---
 
 ## 咎 (Jiù) — Fault

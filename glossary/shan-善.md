@@ -7,6 +7,7 @@ forbidden: ["virtuous", "righteous", "saintly", "benevolent"]
 chapters: [2, 8, 15, 20, 27, 30, 41, 49, 50, 54, 58, 62, 65, 66, 68, 73, 79, 81]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 善 (Shàn) — Masterful
 

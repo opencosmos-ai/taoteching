@@ -49,7 +49,7 @@ Decompose the contested characters to radicals. This is where the real findings 
 
 ## 2. Check the witnesses, then the commentaries
 
-Wang Bi is the base text. Check Mawangdui, Guodian, Fu Yi, and Beida for **meaning-bearing** forks only — orthographic variants are not findings. Then the commentaries — **`concordance.py --commentary N`, from `sources/`, not from memory.** 王弼 (d. 249), 河上公 (Han, all 81 chapters), and 韓非 (d. 233 BCE, the oldest, in `sources/commentaries/hanfeizi/` for the 17 chapters he discusses).
+Check the [textual witnesses](../../../sources/SOURCES.md#the-text-and-its-copies) for **meaning-bearing** forks. Then read the stored [commentaries](../../../sources/SOURCES.md#commentaries) with **`concordance.py --commentary N`**.
 
 **Record what you find in `sources/variants.yaml`** — as *facts*, never as transcriptions, and never by copying anyone's reconstruction of a damaged graph. `sources/PROVENANCE.md` explains why, and it is a licensing rule, not a preference. Once recorded, `check_locks.py`'s `unlogged-variant` rule will fail the build if a meaning-bearing fork has no logged decision, so the apparatus and `notes/manuscript.md` cannot drift apart.
 

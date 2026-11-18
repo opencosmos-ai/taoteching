@@ -7,6 +7,7 @@ shuowen: "To bind. From 人 (rén — person), with 僉 (qiān) for sound."
 chapters: [67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 儉 (Jiǎn) — Frugality

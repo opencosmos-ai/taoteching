@@ -1,0 +1,58 @@
+[
+  {
+    "chapter": 4,
+    "raw": "{ mawangdui-b: \"沖\", fuyi: \"盅\", shuowen: \"盅 (Xu Shen quotes the line under 盅, 器虛也)\" }",
+    "readings": {
+      "mawangdui-b": "沖",
+      "fuyi": "盅",
+      "shuowen": "盅 (Xu Shen quotes the line under 盅, 器虛也)"
+    }
+  },
+  {
+    "chapter": 33,
+    "raw": "{ mawangdui-a: \"死不忘者壽 (忘, no 而)\", mawangdui-b: \"死而不忘者壽 (忘)\" }",
+    "readings": {
+      "mawangdui-a": "死不忘者壽 (忘, no 而)",
+      "mawangdui-b": "死而不忘者壽 (忘)"
+    }
+  },
+  {
+    "chapter": 46,
+    "raw": "{ mawangdui-a: \"罪莫大於可欲 (a third, prior clause)\", fuyi: \"罪莫大於可欲\" }",
+    "readings": {
+      "mawangdui-a": "罪莫大於可欲 (a third, prior clause)",
+      "fuyi": "罪莫大於可欲"
+    }
+  },
+  {
+    "chapter": 62,
+    "raw": "{ mawangdui-a: \"市 | 尊行\", mawangdui-b: \"市 | 尊行\", wangbi: \"市 | 尊行 (in the commentary, not the transmitted text)\", heshanggong: \"市 | 尊行\", fuyi: \"于市 | 尊言\", huainanzi: \"市尊 | 美行 (quoted twice)\" }",
+    "readings": {
+      "mawangdui-a": "市 | 尊行",
+      "mawangdui-b": "市 | 尊行",
+      "wangbi": "市 | 尊行 (in the commentary, not the transmitted text)",
+      "heshanggong": "市 | 尊行",
+      "fuyi": "于市 | 尊言",
+      "huainanzi": "市尊 | 美行 (quoted twice)"
+    }
+  },
+  {
+    "chapter": 18,
+    "raw": "{ guodian: \"line absent\", mawangdui-a: \"知快出 (知 for 智, 快 for 慧)\", mawangdui-b: \"知慧出 (知 for 智)\" }",
+    "readings": {
+      "guodian": "line absent",
+      "mawangdui-a": "知快出 (知 for 智, 快 for 慧)",
+      "mawangdui-b": "知慧出 (知 for 智)"
+    }
+  },
+  {
+    "chapter": 45,
+    "raw": "{ guodian: \"盅 or 中 (transcriptions differ; not checked against the plates)\", mawangdui-a: \"沖\", mawangdui-b: \"沖, with 如 for 若\", fuyi: \"盅, with 滿 for 盈\" }",
+    "readings": {
+      "guodian": "盅 or 中 (transcriptions differ; not checked against the plates)",
+      "mawangdui-a": "沖",
+      "mawangdui-b": "沖, with 如 for 若",
+      "fuyi": "盅, with 滿 for 盈"
+    }
+  }
+]

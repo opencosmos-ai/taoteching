@@ -6,6 +6,7 @@ forbidden: ["the masses", "the multitude", "the people"]
 chapters: [1, 8, 20, 21, 31, 64]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 眾 (Zhòng) — The Crowd
 

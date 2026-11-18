@@ -53,6 +53,9 @@ jobs:
             exit 1
           }
 
+      - name: source register and generated catalogue are current
+        run: python3 tools/build_sources.py --check
+
       # data/constellation-chars.json sat in the repo for weeks carrying glosses
       # that data/characters.csv had already withdrawn: two generated files
       # publishing different things, because nothing rebuilt the second one.

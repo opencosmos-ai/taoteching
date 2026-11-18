@@ -60,6 +60,12 @@ reads none of these keys.
                                          also uses. The Library's Key Terms read it and
                                          count nothing themselves
 
+**Source registry fields.** `sources` contains `records` (source IDs, display
+metadata, coverage, editions and recorded uses) and `totals`. `chapter_sources`
+is keyed by chapter number and carries attestation, commentary links, and the
+paired readings and per-reading evidence for each recorded fork. Each entry
+carries `refs` and `refs_status`. See ARCHITECTURE.md for the object contract.
+
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. One thing is shaped for display: each character's English
@@ -83,9 +89,10 @@ from build_explorer import DB_PATH, payload  # noqa: E402
 from lib.corpus import (  # noqa: E402
     GLOSSARY, ROOT, load_chapters, parse_frontmatter, term_where,
 )
+from lib.source_registry import BLOB
+from lib.source_tables import published_chapters, published_citations, published_sources
 
 OUT = ROOT / "data" / "atlas-export.json"
-BLOB = "https://github.com/opencosmos-ai/taoteching/blob/main/"
 
 # Bumped when the shape changes in a way a reader must know about.
 CONTRACT = 1
@@ -99,11 +106,6 @@ TEXT = {
     "abbr": "CH",
     "units": 81,
     "cols": 9,
-    # The oldest witness, for the map's second view. chapters[n][3] says
-    # whether it carries chapter n, and main() counts `carries` from those same
-    # rows — it was a typed 31 once, true but kept by hand beside the data
-    # that says so.
-    "witness": {"name": "Guodian", "date": "c. 300 BCE"},
 }
 
 
@@ -271,9 +273,14 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     data = payload(conn)
     read = reader(conn)
+    sources = published_sources(conn)
+    refs = published_citations(conn)
+    chapter_sources = published_chapters(conn, {c["c"] for c in data["chars"]}, data["chapters"])
     conn.close()
 
     ents = entries()
+    for entry in ents:
+        entry.update(refs[entry["slug"]])
     # Every entry a character belongs to: its own, a compound it stands in, and
     # any entry that covers it as a secondary character.
     member = {}
@@ -292,14 +299,17 @@ def main():
     for g, v in data["glyphs"].items():
         if v[1]:
             v[1] = card_english(v[1])
-    TEXT["witness"]["carries"] = sum(1 for ch in data["chapters"].values() if ch[3])
+    guodian = next(record for record in sources["records"] if record["id"] == "guodian")
+    witness = {"name": guodian["short_name"], "date": guodian["date"],
+               "carries": len(guodian["coverage"]["chapters"])}
 
     built = {}
     for c in data["chars"]:
         for p in c["sem"] + c["pho"]:
             built.setdefault(p, set()).add(c["c"])
-    out = {"contract": CONTRACT, "text": TEXT, **data, **read, "entries": ents,
-           "forms": forms(built)}
+    out = {"contract": CONTRACT, "text": {**TEXT, "witness": witness}, **data, **read,
+           "entries": ents, "forms": forms(built), "sources": sources,
+           "chapter_sources": chapter_sources}
     # Indented, so a glossary edit shows up as a readable diff here too.
     OUT.write_text(json.dumps(out, ensure_ascii=False, sort_keys=True,
                               indent=1) + "\n", encoding="utf-8")

@@ -11,6 +11,7 @@ status: locked
 pairing: false
 covers:
   - { char: "侯", render: "ruler (inside 侯王)" }
+refs_status: incomplete
 ---
 
 ## 王 (Wáng) — Ruler

@@ -7,6 +7,7 @@ shuowen: "To name oneself. From 口 (kǒu — mouth) and 夕 (xī — dusk). Dus
 chapters: [1, 14, 21, 25, 32, 34, 37, 41, 44, 47]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 名 (Míng) — Name

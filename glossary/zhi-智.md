@@ -9,6 +9,9 @@ chapters: [3, 18, 19, 27, 33, 65]
 status: locked
 pairing: false
 shuowen: "A word for recognizing. From 白 (here the breath of speech), 亏 (yú — breath going out) and 知 (zhī — to know). Xu Shen files it under its old form, 𥏼."
+refs_status: incomplete
+refs:
+  - { source: baxter-sagart, locator: "Reconstructions for zhi (to know) and zhi (knowing)" }
 ---
 
 ## 智 (Zhì) — Cleverness

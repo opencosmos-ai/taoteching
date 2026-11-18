@@ -10,6 +10,9 @@ pairing: false
 binds: [taoteching]
 covers:
   - { char: "牡", render: "the male" }
+refs_status: incomplete
+refs:
+  - { source: i-ching, locator: "Hexagram 2, Judgment, the mare" }
 ---
 
 ## 牝 (Pìn) — The Female

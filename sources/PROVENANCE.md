@@ -40,7 +40,7 @@ The ancient texts are free. The Laozi is roughly 2,400 years old; Wang Bi died i
 3. **Its frontmatter names that source exactly** — work, author, edition, dates, host, and URL.
 4. **Any modern editorial layer is either absent, excluded, or marked.** Punctuation especially.
 
-**And one category is excluded outright, on grounds unrelated to licence text.**
+## Excavated
 
 **No transcriptions of the excavated manuscripts.** The **Mawangdui** silks were excavated in 1973 and the **Guodian** slips in 1993. Reconstructing their damaged and missing graphs — the brackets, the □ marks, the conjectural readings — is **genuine editorial work by living scholars**, not faithful transcription of anything. Reproducing a reconstruction reproduces the scholarship.
 
@@ -72,24 +72,15 @@ And a fourth blocker that would stand even if all three fell: the page's content
 
 ## What is here
 
-| Path | Contents | Coverage |
-|---|---|---|
-| `variants.yaml` | The variant apparatus, as **facts** | <!-- count: variants -->125 forks |
-| `guodian-inventory.yaml` | What the **oldest witness** contains, as facts — never a text | 31 chapters, 3 bundles |
-| `commentaries/wangbi/` | 王弼 (d. 249 CE) on the Laozi, lemma by lemma | **all 81 chapters** *(71 until 2026-09-24)* |
-| `commentaries/heshanggong/` | 河上公章句 (Han), lemma by lemma, with his own chapter titles | **81 of 81 chapters** |
-| `commentaries/hanfeizi/` | 韓非子 解老 / 喻老 — the oldest commentary on the Laozi | **the 17 chapters he discusses** |
-| `.cache/` | The fetched wikitext the import ran from | gitignored |
+The [generated sources catalogue](SOURCES.md) links to the stored files, editions, and recorded uses. Importer caches live under the gitignored `.cache/`.
 
-### `commentaries/wangbi/` — 老子道徳經注
+### Wang Bi
 
-**Source:** 欽定四庫全書 (Siku Quanshu), 子部十四 · 道家類 — imperially commissioned 1773, completed 1782. Transcribed on Chinese Wikisource in mainspace, tagged `{{PD-old}}`, at [老子道徳經 (四庫全書本)](https://zh.wikisource.org/zh-hant/老子道徳經_(四庫全書本)). A scan of the same edition, digitised by Zhejiang University Library, is at [archive.org/details/06049303.cn](https://archive.org/details/06049303.cn).
+[Source and edition](SOURCES.md#wangbi)
 
 **Punctuation: none.** The transcription's own editorial policy excludes it — the wikitext opens *請根據四庫全書掃描版校對本頁 … 加標點請另外建立頁面* ("proofread against the Siku Quanshu scan … to add punctuation, create a separate page"). So the vendored text is the authorial layer only, which is both the cleanest rights position and the more faithful one.
 
 **Imported by `tools/import_commentary.py`**, which is the point: the vendoring is **reproducible**, and it **verifies itself**. The source interleaves Laozi lemmas with Wang Bi's comment on each, so every lemma is matched against our own `source/chinese.md`:
-
-**Coverage: 81 of 81 chapters, complete.** <!-- count: lemmas-exact:wangbi -->362 lemma lines match our base text exactly and <!-- count: lemmas-variant:wangbi -->37 differ, across <!-- count: comment-blocks:wangbi -->425 commentary blocks. Counted from the vendored files, where every lemma that differs carries its `*`.
 
 A lemma that matches is direct evidence the transcription was carried across intact at that point. Lemmas that differ are **reported, never normalized away** — Siku glyph forms go in the importer's `ORTHOGRAPHIC` map, and genuine forks go in `variants.yaml`.
 
@@ -97,37 +88,31 @@ A lemma that matches is direct evidence the transcription was carried across int
 
 **Preserved from the edition:** the Siku compilers' own collation notes, marked 〔…〕. They are 18th-century editorial matter, public domain by age, and immediately useful — the note at Ch 21, 〔案狀各本俱作然〕 ("for 狀, all editions read 然"), reopened a decision we had already made. **□** marks a glyph the transcribers could not encode; a gap is never passed off as text.
 
-### `commentaries/heshanggong/` — 老子道德經 河上公章句
+### Heshang Gong
 
-**Source:** *Sibu congkan* volume 0532, whose own colophon reads **景常熟瞿氏鐵琴銅劍樓藏宋刊本** — a photo-reproduction of the **Song** printed edition held in the Qu family's Iron-Qin-Copper-Sword Tower at Changshu. The commentary itself is Han. Transcribed on Chinese Wikisource in the `Page:` namespace against the djvu scan.
+[Source and edition](SOURCES.md#heshanggong)
 
 **Assembled from 77 scan pages.** Unlike the Wang Bi text, this one is not a single page: it is transcluded page by page from `Sibu Congkan0532-河上公-老子道德經-1-1.djvu`, pages 16–51 (卷上) and 52–92 (卷下). `tools/import_commentary.py --source heshanggong --fetch` retrieves them with a 0.4s pause between requests, caches them, and concatenates **in order before parsing** — because the text runs across page boundaries and a lemma or an annotation column can be cut in half by the end of a page.
 
 **How the commentary is marked.** In the woodblock, Heshang Gong's notes are printed as **two columns of small type inline** with the main text. The transcription encodes each as `{{雙行註文|right|left}}` — "double-line annotation" — where the `|` is the column break, so the two halves join in reading order. Consecutive templates continue one note.
 
-**Coverage: 81 of 81 chapters, complete.** <!-- count: lemmas-exact:heshanggong -->754 lemma lines match our base text exactly and <!-- count: lemmas-variant:heshanggong -->80 differ, across <!-- count: comment-blocks:heshanggong -->1052 commentary blocks.
-
 **A bonus the edition carries: Heshang Gong titles every chapter himself** — 體道第一 (*"Embodying the Tao"*), 養身第二 (*"Nourishing the self"*), 安民第三 (*"Settling the people"*). These are preserved in each file's `chapter_title:` frontmatter. They are the oldest chapter names the text has, and they are interpretations in miniature.
 
-### `commentaries/hanfeizi/` — 韓非子 解老 / 喻老
+### Han Fei
 
-**The oldest surviving commentary on the Laozi**, by Han Fei (d. 233 BCE) — earlier than Heshang Gong and five centuries before Wang Bi. Chapters 20 (解老, *"Explaining Laozi"*) and 21 (喻老, *"Illustrating Laozi"*) of the 韓非子.
+[Source and edition](SOURCES.md#hanfeizi)
 
 **A different shape, and so a different importer.** Han Feizi does not gloss the text lemma by lemma; he **argues, and quotes**. The quotations sit in 「」, usually introduced by 故曰 (*"therefore it is said"*). So the chapter a passage belongs to is discovered by **matching each quotation against our own base text** — the same fidelity check the other two importers use, doing double duty here as the only way to index the essays at all.
 
-**Coverage: the 17 chapters he discusses** — 1, 14, 26, 27, 36, 38, 41, 46, 47, 50, 54, 58, 59, 60, 63, 64, 67 — with <!-- count: lemmas:hanfeizi -->53 quotations. **<!-- count: lemmas-exact:hanfeizi -->18 match our base text exactly and <!-- count: lemmas-variant:hanfeizi -->35 do not** — each of those is marked `*`, and since he is the oldest witness there is, each is evidence about the text he read rather than noise. *(This said "all 53 matching" until 2026-10-15: the importer once wrote every quotation as an exact lemma without testing it, which `check_locks.py`'s `unmarked-lemma` rule now prevents.)* "Missing chapters" is the wrong frame for this source: he never set out to cover the book. The coverage is found by quotation, so a passage he paraphrases without quoting will not appear.
+The importer records coverage by quotation. It can miss a passage that Han Fei paraphrases.
 
 **Punctuation: present, and retained.** This is the one vendored source that carries modern editorial punctuation, and the admission rules permit *marked* as well as absent or excluded. These are prose essays rather than lemma lists and are close to unreadable without it, so the punctuation stays and the frontmatter says so.
 
 **What he is worth having.** 解老 is a systematic philosophical reading — it opens on Ch 38's 上德不德 and works through it clause by clause. 喻老 is the opposite: **anecdote**. The great arises from the small, 千丈之堤，以螻蟻之穴潰 (*"a thousand-foot dyke is breached by a mole-cricket's hole"*), and then the story of Bian Que and the Duke of Cai, who would not treat an illness while it was still shallow. He is the only commentator in this collection who argues by narrative, and on Ch 63 he supplies a reading of 大小多少 — 大必起於小 (*"the great must arise from the small"*) — that neither Wang Bi nor the modern discussion offers.
 
-### Nothing is owed
+### Further work
 
-All three classical commentaries named in `process/method.md` §3 are now in the repository. **Every chapter has at least two**: 王弼 and 河上公 both cover all 81.
-
-What could still be added, in rough order of value: the **Fu Yi** (傅奕) recension, which is a *received* text and therefore admissible in full where the excavated manuscripts are not; and a **Guodian / Mawangdui variant sweep** for the chapters not yet in `variants.yaml`, recorded as facts.
-
-**The Guodian sweep is now the highest-value item on that list**, and `guodian-inventory.yaml` says where to point it. Two chapters were flagged as owing work, and both are now recorded: **Ch 19**, the best-known divergence in the entire Guodian Laozi (logged 2026-08-28), and **Ch 25**, where Guodian, consulted on 2026-08-20, reads 王 like every other excavated witness and overturned the claim `DISCOVERIES.md` §1 had rested on the silks.
+The [worklist](../WORKLIST.md) tracks candidate additions and variant sweeps. Evaluate any candidate edition against the [admission rules](#the-admission-rules).
 
 ---
 
@@ -135,16 +120,17 @@ What could still be added, in rough order of value: the **Fu Yi** (傅奕) recen
 
 ```yaml
 ---
-work: "老子道德經注"          # the commentary's own title
-author: "王弼"                # 226-249 CE
+work: "Title as printed in the source"
+author: "Author as named in the source"
+author_dates: "Dates as documented for this author"
 chapter: 21
-edition: "四部叢刊 初編"       # the exact printing transcribed from
-publisher: "商務印書館"
-year: 1919
-obtained: "https://archive.org/details/…"   # or: "physical copy, <library>"
-punctuation: "editorial, present"           # or "none in source"
-rights: "public domain by age; printing predates 1929"
-transcribed: 2026-08-11
+edition: "The exact printing transcribed"
+edition_dates: "Dates of the printing"
+transcription: "Source and namespace of the transcription"
+obtained: "https://example.org/edition-transcription"
+punctuation: "Modern editorial punctuation, present and retained"
+rights: "Public domain by age"
+imported_by: "tools/import_commentary.py"
 ---
 ```
 

@@ -9,6 +9,7 @@ pairing: true
 covers:
   - { char: "根", render: "root" }
 shuowen: "歸: a woman marrying. From 止 (zhǐ — a foot), from an abbreviated 婦 (fù — wife), with 𠂤 (duī) as its sound."
+refs_status: incomplete
 ---
 
 ## 歸 · 復 · 反 (Guī · Fù · Fǎn) — Return

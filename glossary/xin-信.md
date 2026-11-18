@@ -8,6 +8,7 @@ status: locked
 pairing: false
 covers:
   - { char: "忠", render: "loyalty" }
+refs_status: incomplete
 ---
 ## 信 (Xìn) — Trust
 

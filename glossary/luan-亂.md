@@ -6,6 +6,7 @@ forbidden: ["chaos", "chaotic"]
 chapters: [3, 18, 38, 64]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 亂 (Luàn) — Disorder

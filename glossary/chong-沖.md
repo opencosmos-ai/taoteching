@@ -9,6 +9,13 @@ chapters: [4, 42, 45]
 status: locked
 pairing: false
 shuowen: "Surging and shaking. From 水 (shuǐ — water) and 中 (zhōng — middle). Read like 動 (dòng — to move)."
+refs_status: incomplete
+refs:
+  - { source: mawangdui-a, via: biaodianfu, locator: "Silk A, chapter 42, parallel manuscript table" }
+  - { source: beida, via: sina, locator: "Chapter 42, secondhand transcription" }
+  - { source: fanyingyuan, via: zhu-qianzhi, locator: "Chapter 42, reported in the collation" }
+  - { source: guodian, via: ctext, locator: "Chapter 45, one of the two reported readings" }
+  - { source: fuyi, via: wikisource, locator: "Chapters 4, 42 and 45" }
 ---
 
 ## 沖 (Chōng) — Empty

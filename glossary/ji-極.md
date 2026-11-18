@@ -9,6 +9,7 @@ forbidden: ["limitless", "absolute", "ultimate", "infinite", "extreme", "utmost"
 chapters: [16, 28, 58, 59, 68]
 status: open
 pairing: false
+refs_status: incomplete
 ---
 ## 極 (Jí) — The Far End
 

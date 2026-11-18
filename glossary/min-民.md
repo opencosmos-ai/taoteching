@@ -10,6 +10,7 @@ shuowen: "The many sprouts. From the shape of its ancient form."
 chapters: [3, 10, 19, 32, 57, 58, 64, 65, 66, 72, 74, 75, 80]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 民 (Mín) — The People
 

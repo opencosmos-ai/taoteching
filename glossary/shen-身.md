@@ -9,6 +9,9 @@ forbidden: ["spirit", "soul", "the ego", "the separate self"]
 chapters: [7, 9, 13, 16, 26, 44, 52, 54, 66]
 status: locked
 pairing: false
+refs_status: incomplete
+refs:
+  - { source: book-of-odes, locator: "Greater Odes, Da Ming, the stanza on Da Ren carrying King Wen" }
 ---
 
 ## 身 (Shēn) — The Body

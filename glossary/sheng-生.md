@@ -6,6 +6,7 @@ forbidden: ["generate", "produce", "manufacture", "create"]
 chapters: [2, 7, 10, 15, 25, 30, 34, 39, 40, 42, 46, 50, 51, 55, 59, 64, 72, 75, 76]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 生 (Shēng) — To Give Birth / To Live
 

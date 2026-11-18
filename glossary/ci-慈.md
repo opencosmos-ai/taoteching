@@ -8,6 +8,7 @@ status: locked
 pairing: false
 covers:
   - { char: "孝", render: "devotion" }
+refs_status: incomplete
 ---
 
 ## 慈 (Cí) — Tenderness

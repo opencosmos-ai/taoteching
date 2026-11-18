@@ -6,6 +6,7 @@ forbidden: ["student", "scholar", "warrior", "knight", "gentleman", "officer", "
 chapters: [15, 41, 68]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 士 (Shì) — In Service
 

@@ -7,6 +7,7 @@ forbidden: ["mandate", "destiny", "fate", "decree"]
 chapters: [16, 51]
 status: open
 pairing: false
+refs_status: incomplete
 ---
 ## 命 (Mìng) — What You Were Sent With
 

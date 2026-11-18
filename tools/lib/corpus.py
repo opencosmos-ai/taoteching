@@ -26,6 +26,8 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from .flat_yaml import inline_map, records, scalar
+
 ROOT = Path(__file__).resolve().parent.parent.parent
 CHAPTERS = ROOT / "chapters"
 GLOSSARY = ROOT / "glossary"
@@ -44,12 +46,12 @@ UNTRANSLATED_MARKER = "*(untranslated)*"
 
 # ---------------------------------------------------------------- frontmatter
 
-def parse_frontmatter(text):
+def parse_frontmatter(text, path="frontmatter"):
     """Read the YAML frontmatter of a markdown file. Returns None if absent.
 
     Deliberately minimal rather than a real YAML parser — the frontmatter in
-    this repo is a flat map of scalars and inline lists, plus two lists of
-    inline mappings: the glossary's `covers:` and `flexions:`. Anything richer
+    this repo is a flat map of scalars and inline lists, plus lists of
+    inline mappings for glossary coverage, flexions, and references. Anything richer
     should be reconsidered rather than parsed.
     """
     m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
@@ -57,7 +59,28 @@ def parse_frontmatter(text):
         return None
     data, covers, flexions = {}, [], []
     block = None
-    for line in m.group(1).split("\n"):
+    for number, line in enumerate(m.group(1).split("\n"), 2):
+        location = f"{path}:{number}"
+        if line.startswith("refs:"):
+            if "refs" in data or line[5:].strip() not in ("", "[]"):
+                raise ValueError(f"{location}: refs requires a single block of mappings")
+            data["refs"] = []
+            block = "refs" if not line[5:].strip() else "empty_refs"
+            continue
+        if block in {"refs", "empty_refs"} and line.startswith(" "):
+            if not line.strip() or line.lstrip().startswith("#"):
+                continue
+            if block == "empty_refs" or not line.startswith("  - "):
+                raise ValueError(f"{location}: expected a refs mapping")
+            data["refs"].append(inline_map(line[4:], location,
+                {"source", "via", "edition", "locator", "url", "at"}))
+            continue
+        if line.startswith("refs_status:"):
+            if "refs_status" in data:
+                raise ValueError(f"{location}: duplicate refs_status")
+            data["refs_status"] = scalar(line.split(":", 1)[1], location)
+            block = None
+            continue
         # Both blocks are read only in their block form. Anything else used to
         # parse to an empty list without a word: `covers: ["柔"]` in ruo-弱.md
         # dropped 柔's lock on the floor from 2026-08-26 until 2026-10-14, while
@@ -614,6 +637,25 @@ def load_calls():
 
 # -------------------------------------------------------------------- variants
 
+@dataclass(frozen=True)
+class Reading:
+    source: str
+    text: str
+    pinyin: str = ""
+    english: str = ""
+    annotation: str = ""
+    via: str = ""
+    edition: str = ""
+    locator: str = ""
+    url: str = ""
+    verification: str = "unassessed"
+    confirm: str = ""
+    confirmed_edition: str = ""
+    confirmed_locator: str = ""
+    confirmed_on: str = ""
+    confirmation: str = ""
+
+
 @dataclass
 class Variant:
     """One divergence between our base text and an older witness.
@@ -629,6 +671,11 @@ class Variant:
     our_call: str
     note: str
     logged: str
+    readings: list = field(default_factory=list)
+    base_pinyin: str = ""
+    base_english: str = ""
+    location: str = ""
+    legacy: bool = False
 
     @property
     def followed_a_witness(self):
@@ -643,56 +690,36 @@ def load_variants(chapter=None):
     """Parse sources/variants.yaml. Hand-rolled, like everything else here."""
     if not VARIANTS.exists():
         return []
-    out, cur = [], None
-
-    def flush():
-        if not cur:
-            return
+    out = []
+    required = {"chapter", "line", "base", "meaning_bearing", "our_call", "note", "logged"}
+    fields = required | {"witnesses", "readings", "base_pinyin", "base_english"}
+    for location, cur in records(VARIANTS, fields, maps={"witnesses"}, folded={"note"},
+                                 blocks={"readings": Reading.__dataclass_fields__}):
+        legacy = "witnesses" in cur
+        if not required <= cur.keys() or legacy == ("readings" in cur):
+            raise ValueError(f"{location}: expected all variant fields and exactly one reading form")
+        if not cur["chapter"].isdigit() or not 1 <= int(cur["chapter"]) <= 81:
+            raise ValueError(f"{location}: expected a chapter from 1 to 81")
+        if cur["meaning_bearing"] not in {"true", "false"}:
+            raise ValueError(f"{location}: meaning_bearing must be true or false")
+        readings = []
+        for reading in cur.get("readings", []):
+            if not {"source", "text"} <= reading.keys():
+                raise ValueError(f"{location}: each reading needs a source and text")
+            readings.append(Reading(**reading))
+        witnesses = cur.get("witnesses", {r.source: r.text for r in readings})
+        if len(witnesses) != len(readings) and not legacy:
+            raise ValueError(f"{location}: duplicate source in readings")
         out.append(Variant(
-            chapter=int(cur.get("chapter", 0)),
-            line=cur.get("line", ""),
-            base=cur.get("base", ""),
-            witnesses=cur.get("witnesses", {}),
-            meaning_bearing=str(cur.get("meaning_bearing", "")).lower() == "true",
-            our_call=cur.get("our_call", ""),
-            note=" ".join(cur.get("note", "").split()),
-            logged=cur.get("logged", ""),
+            chapter=int(cur["chapter"]), line=cur["line"], base=cur["base"], witnesses=witnesses,
+            meaning_bearing=cur["meaning_bearing"] == "true", our_call=cur["our_call"],
+            note=" ".join(cur["note"].split()), logged=cur["logged"], readings=readings,
+            base_pinyin=cur.get("base_pinyin", ""), base_english=cur.get("base_english", ""),
+            location=location, legacy=legacy,
         ))
-
-    key = None
-    for raw in VARIANTS.read_text(encoding="utf-8").split("\n"):
-        if raw.lstrip().startswith("#"):
-            continue
-        if raw.startswith("- "):
-            flush()
-            cur = {}
-            raw = "  " + raw[2:]
-        if cur is None:
-            continue
-        m = re.match(r"^\s{2}(\w+):\s*(.*)$", raw)
-        if m:
-            key, val = m.group(1), m.group(2).strip()
-            if key == "witnesses":
-                cur[key] = dict(
-                    (k.strip(), v.strip().strip('"'))
-                    for k, v in (p.split(":", 1) for p in _split_inline(val))
-                ) if val.strip("{} ") else {}
-            elif val == ">":
-                cur[key] = ""
-            else:
-                cur[key] = val.strip('"')
-        elif key and raw.strip():
-            cur[key] = (cur.get(key, "") + " " + raw.strip()).strip()
-    flush()
     if chapter is not None:
         out = [v for v in out if v.chapter == chapter]
     return out
-
-
-def _split_inline(val):
-    """Split `{a: x, b: y}` on commas that are not inside a reading."""
-    inner = val.strip().lstrip("{").rstrip("}").strip()
-    return [p for p in (s.strip() for s in inner.split(",")) if p and ":" in p]
 
 
 # --------------------------------------------------------------------- guodian

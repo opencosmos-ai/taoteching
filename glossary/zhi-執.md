@@ -8,6 +8,7 @@ forbidden: ["cling", "clinging", "attachment", "embody", "control", "possess"]
 chapters: [14, 29, 35, 64, 69, 74, 79]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 執 (Zhí) — To Grasp

@@ -6,6 +6,7 @@ forbidden: ["compete", "competes", "competing", "competition"]
 chapters: [3, 8, 22, 66, 68, 73, 81]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 爭 (Zhēng) — Contend

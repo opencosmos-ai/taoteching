@@ -14,6 +14,7 @@ status: locked
 pairing: false
 covers:
   - { char: "能", render: "be able" }
+refs_status: incomplete
 ---
 ## 可 (Kě) — Can Be
 

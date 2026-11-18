@@ -6,6 +6,7 @@ forbidden: ["primordial mass", "soul", "spirit", "energy"]
 chapters: [21, 55]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 精 (Jīng) — Vital Essence
 

@@ -92,4 +92,4 @@ in `glossary/terms.yaml`.
 馬王堆 (*Mǎwángduī*) and 北大 (*Běidà*) appear only in `variants.csv`, as recorded
 disagreements with citations. `sources/PROVENANCE.md` explains why: reconstructing
 damaged graphs is living scholarship, and this repository is CC0 with no
-exceptions. `witnesses.csv` marks them `FACTS ONLY` in the rights column.
+exceptions. `witnesses.csv` links to the source admission policy in the rights column.

@@ -7,6 +7,12 @@ chapters: [20, 38, 65]
 status: locked
 pairing: false
 shuowen: "Dull-witted. From 心 (xīn — heart) and 禺 (yú — a monkey). 禺 is a kind of monkey, the most foolish of beasts."
+refs_status: incomplete
+refs:
+  - { source: xunzi, locator: "2, Cultivating the Self, calling right right and wrong wrong" }
+  - { source: analects, locator: "17.3 and 5.21" }
+  - { source: zhuangzi, locator: "2, Discussion on Making All Things Equal, the fool who believes they are awake and the foolish sage" }
+  - { source: zhuangzi, locator: "12, Heaven and Earth, profound integrity in accord with the great current" }
 ---
 
 ## 愚 (Yú) — Foolish

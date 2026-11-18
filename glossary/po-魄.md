@@ -9,6 +9,7 @@ pairing: false
 covers:
   - { char: "營", render: "housing" }
 shuowen: "The yin spirit. From 鬼 (guǐ — a ghost), with 白 (bái — white) for sound."
+refs_status: incomplete
 ---
 
 ## 魄 (Pò) — Aliveness

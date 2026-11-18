@@ -31,6 +31,10 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-18 — One record of sources
+
+The [source catalogue](sources/SOURCES.md) now brings together the printings, stored sources, and recorded evidence. Individual variant readings carry their own glosses and print-check provenance. Glossary citations carry their own locators and indicate incomplete recovery. The export carries the same information for the Library and Character Atlas, including the extent of each Guodian attestation. See the [export contract](ARCHITECTURE.md#source-registry-contract).
+
 ## 2026-11-18 — 和 (hé) settled: harmony throughout, and chapters 4 and 56 stop dimming the light
 
 和 had no entry, and two of its eight lines rendered a commentator's word in place of the character.

@@ -172,6 +172,11 @@ class Sources:
 # name -> (what it counts, how). A name may take one argument after a colon:
 # `gloss:word`, `lemmas-exact:wangbi`.
 COUNTS = {
+    "sources": ("catalogued sources", lambda s, _: s.one("SELECT count FROM source_total WHERE id='sources'")),
+    "sources-stored": ("sources stored in the repository", lambda s, _: s.one("SELECT count FROM source_total WHERE id='stored'")),
+    "sources-facts": ("sources represented as evidence", lambda s, _: s.one("SELECT count FROM source_total WHERE id='facts'")),
+    "sources-pending-print": ("recorded readings awaiting print confirmation", lambda s, _: s.one("SELECT count FROM source_total WHERE id='pending_print'")),
+    "sources-citation-debt": ("sources with incomplete citation migration", lambda s, _: s.one("SELECT count FROM source_total WHERE id='citation_debt'")),
     "characters": (
         "distinct characters in the book",
         lambda s, _: s.one("SELECT count(*) FROM character")),

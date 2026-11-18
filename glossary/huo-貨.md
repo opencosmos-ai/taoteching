@@ -6,6 +6,7 @@ forbidden: ["treasure", "precious", "scarce", "riches"]
 chapters: [3, 12, 44, 53, 64]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 貨 (Huò) — Goods

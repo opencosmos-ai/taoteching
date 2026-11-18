@@ -1,0 +1,113 @@
+"""Source evidence travels through the database without losing its context."""
+
+from dataclasses import replace
+from pathlib import Path
+import sqlite3
+import sys
+import unittest
+from unittest.mock import patch
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from build_db import build
+from build_explorer import payload
+from build_sources import render
+from lib.corpus import load_variants, parse_frontmatter
+from lib.source_registry import han, pairing, resolve
+from lib.source_tables import published_chapters, published_citations, published_sources
+
+
+class PublishedRegistry(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        with sqlite3.connect(":memory:") as db:
+            build(db)
+            legacy = payload(db)
+            cls.cards = {c["c"] for c in legacy["chars"]}
+            cls.chapters = published_chapters(db, cls.cards, legacy["chapters"])
+            cls.sources = published_sources(db)
+            cls.citations = published_citations(db)
+        cls.records = {r["id"]: r for r in cls.sources["records"]}
+
+    def test_guodian_coverage_describes_which_passages_survive(self):
+        self.assertEqual(list(self.chapters), list(range(1, 82)))
+        self.assertEqual(self.chapters[5]["attestation"]["extent"], "middle")
+        self.assertEqual(self.chapters[16]["attestation"]["extent"], "opening")
+        self.assertEqual(self.chapters[64]["attestation"]["extent"], "split")
+        self.assertEqual(self.chapters[1]["attestation"], {
+            "source": "guodian", "present": False, "extent": None, "bundles": [], "units": [],
+        })
+
+    def test_print_status_belongs_to_the_reading(self):
+        fork = next(f for f in self.chapters[3]["forks"]
+                    if {r["source"] for r in f["readings"]} == {"heshanggong", "mawangdui-b"})
+        readings = {r["source"]: r for r in fork["readings"]}
+        self.assertEqual(readings["heshanggong"]["verification"], "unassessed")
+        self.assertNotIn("confirm", readings["heshanggong"])
+        self.assertEqual(readings["mawangdui-b"]["verification"], "pending-print")
+        self.assertEqual(readings["mawangdui-b"]["confirm"], "T2-74")
+
+    def test_wang_bi_identity_and_indirect_evidence(self):
+        self.assertNotIn("siku-wangbi", self.records)
+        self.assertEqual(self.records["yongle-dadian"]["chain"], ["wangbi"])
+        self.assertTrue(any(f["our_call"] == "wangbi" for f in self.chapters[73]["forks"]))
+        reading = next(r for f in self.chapters[62]["forks"] for r in f["readings"]
+                       if r["source"] == "wangbi")
+        self.assertIn("not the transmitted text", reading["annotation"])
+
+    def test_card_links_resolve_and_missing_cards_keep_their_pairing(self):
+        missing = []
+        for chapter in self.chapters.values():
+            for fork in chapter["forks"]:
+                for reading in fork["readings"]:
+                    self.assertTrue(set(reading["cards"]) <= self.cards)
+                    if any(han(c) and c not in self.cards for c in reading["text"]):
+                        missing.append(reading)
+        self.assertTrue(missing)
+        self.assertTrue(all(r["pinyin"] and r["english"] for r in missing))
+
+    def test_incomplete_glossary_keeps_passage_citations(self):
+        self.assertEqual(len(self.citations), self.sources["totals"]["entries"])
+        self.assertEqual(self.citations["ruo-\u5f31"]["refs_status"], "incomplete")
+        refs = {r["source"]: r for r in self.citations["ruo-\u5f31"]["refs"]}
+        self.assertTrue(all("locator" in r or "url" in r for r in refs.values()))
+        self.assertEqual(refs["schuessler"]["chain"], ["wiktionary"])
+
+    def test_generated_catalogue_spells_out_conditional_admission(self):
+        page = render(resolve())
+        self.assertIn("A qualifying transcription can be admitted", page)
+        self.assertIn('name="guodian"', page)
+        self.assertNotIn("siku-wangbi", page)
+
+
+class RegistryValidation(unittest.TestCase):
+    def test_supplementary_character_needs_its_own_gloss(self):
+        # U+29840 is an old head graph, pronounced shǒu.
+        with self.assertRaisesRegex(ValueError, "tone-marked pinyin"):
+            pairing("\U00029840", "", "head", {}, "fixture")
+        self.assertEqual(pairing("\U00029840", "shǒu", "head", {}, "fixture")["english"], "head")
+
+    def test_pending_check_cannot_lose_its_worklist_reference(self):
+        variants = load_variants()
+        fork = next(v for v in variants if any(r.verification == "pending-print" for r in v.readings))
+        fork.readings = [replace(r, confirm="") if r.verification == "pending-print" else r
+                         for r in fork.readings]
+        with patch("lib.source_registry.load_variants", return_value=variants):
+            with self.assertRaisesRegex(ValueError, "relevant open row"):
+                resolve()
+
+    def test_confirmation_requires_actual_print_evidence(self):
+        variants = load_variants()
+        fork = variants[0]
+        fork.readings = [replace(r, verification="confirmed-print") for r in fork.readings]
+        with patch("lib.source_registry.load_variants", return_value=variants):
+            with self.assertRaisesRegex(ValueError, "needs edition, locator, ISO date, and outcome"):
+                resolve()
+
+    def test_glossary_citation_shape_cannot_silently_drop_fields(self):
+        for content in (
+            'refs: []\n  - { source: guodian }',
+            'refs:\n  - { source: guodian, source: wangbi }',
+            'refs:\n  - { source: guodian, place: chapter }',
+        ):
+            with self.subTest(content=content), self.assertRaisesRegex(ValueError, "entry.md:3:"):
+                parse_frontmatter(f"---\n{content}\n---\n", "entry.md")

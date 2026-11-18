@@ -9,6 +9,7 @@ status: locked
 pairing: false
 covers:
   - { char: "曲", render: "bend / bent" }
+refs_status: incomplete
 ---
 ## 全 (Quán) — Whole
 

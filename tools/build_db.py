@@ -14,9 +14,8 @@ Two design commitments are load-bearing.
 **The addressable unit is a coordinate, not a text.** Every character in the book
 has an address `(chapter, line_seq, char_pos)`. Witnesses attach to those
 addresses — as full text where their edition is admissible, and as typed variant
-facts where it is not. `sources/PROVENANCE.md` excludes transcriptions of the
-excavated manuscripts outright and says a `shaloms-call` cannot reach it, so this
-is not a preference the schema can be talked out of later.
+facts otherwise. The admission rules and the current treatment of excavated
+reconstructions live in `sources/PROVENANCE.md`.
 
 **No row carries a Chinese character without pinyin and English beside it.**
 `CLAUDE.md` the gloss rule, made mechanical. A `characters.csv` that opens as a
@@ -27,18 +26,23 @@ Stdlib only — a fresh clone runs it with nothing installed.
 """
 
 import argparse
+import json
 import re
 import sqlite3
 import sys
 from collections import Counter
 from pathlib import Path
+from tempfile import TemporaryDirectory
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from lib.corpus import (  # noqa: E402
     CHAPTERS, GLOSSARY, ROOT, alignment_errors, load_chapters, load_guodian,
-    load_terms, load_variants, parse_frontmatter,
+    load_terms, parse_frontmatter,
 )
+
+from lib.source_registry import resolve
+from lib.source_tables import SCHEMA as SOURCE_SCHEMA, store as store_sources
 
 DB_PATH = ROOT / "data" / "taoteching.sqlite"
 COMMENTARIES = ROOT / "sources" / "commentaries"
@@ -102,6 +106,7 @@ CREATE TABLE chapter (
     guodian_attested INTEGER NOT NULL DEFAULT 0,
     guodian_extent   TEXT,
     guodian_bundles  TEXT,
+    guodian_units    TEXT NOT NULL DEFAULT '[]',
     status           TEXT,
     han_chars        INTEGER,
     english_words    INTEGER
@@ -241,8 +246,26 @@ CREATE TABLE variant (
     chapter         INTEGER NOT NULL,
     line            TEXT,
     base_reading    TEXT,
+    base_pinyin     TEXT,
+    base_english    TEXT NOT NULL,
+    base_gloss      TEXT NOT NULL,
     witness_id      TEXT,
     witness_reading TEXT,
+    witness_pinyin  TEXT,
+    witness_english TEXT,
+    witness_gloss   TEXT,
+    chain           TEXT,
+    annotation      TEXT,
+    via             TEXT,
+    edition         TEXT,
+    locator         TEXT,
+    url             TEXT,
+    verification    TEXT,
+    confirm         TEXT,
+    confirmed_edition TEXT,
+    confirmed_locator TEXT,
+    confirmed_on    TEXT,
+    confirmation    TEXT,
     meaning_bearing INTEGER NOT NULL DEFAULT 0,
     our_call        TEXT,
     followed        TEXT,
@@ -558,11 +581,11 @@ def split_render(term_chars, render):
 # ------------------------------------------------------------------- the build
 
 def build(conn, report=False):
-    cur = conn.cursor()
-    cur.executescript(SCHEMA)
-
     chapters = load_chapters()
     guodian = load_guodian()
+    sources = resolve(chapters, guodian)
+    cur = conn.cursor()
+    cur.executescript(SCHEMA + SOURCE_SCHEMA)
     terms = load_terms()
     stats = {"pinyin_ok": 0, "pinyin_fail": 0, "unaligned": []}
 
@@ -575,9 +598,9 @@ def build(conn, report=False):
         g = guodian.get(n)
         cur.execute(
             "INSERT INTO chapter (n, guodian_attested, guodian_extent, guodian_bundles,"
-            " status) VALUES (?,?,?,?,?)",
+            " guodian_units, status) VALUES (?,?,?,?,?,?)",
             (n, 1 if g else 0, g.extent if g else None,
-             ", ".join(g.bundles) if g else None, ch.status),
+             ", ".join(g.bundles) if g else None, json.dumps(g.units if g else []), ch.status),
         )
         chapter_han = []
         for seq, row in enumerate(ch.source_rows, 1):
@@ -921,65 +944,7 @@ def build(conn, report=False):
                     (n, seq, c, pin, joined, term, expected, honored, conf, method),
                 )
 
-    # ---- witnesses ---------------------------------------------------------
-    # The coverage figures are counted, not typed: Wang Bi's read "71 of 81"
-    # for three weeks after the ten missing chapters were recovered, and
-    # data/witnesses.csv published it.
-    wb, _ = _vendored("wangbi")
-    hsg, _ = _vendored("heshanggong")
-    hf, hf_quotes = _vendored("hanfeizi")
-    gd = cur.execute("SELECT count(*) FROM chapter WHERE guodian_attested").fetchone()[0]
-    for w in [
-        ("wangbi", "王弼", "Wáng Bì", "Wang Bi received recension", "received",
-         226, 249, "欽定四庫全書, 1782", "public domain by age", 0,
-         f"base text of this edition; commentary covers {wb} of 81 chapters"),
-        ("heshanggong", "河上公", "Héshàng Gōng", "Heshang Gong", "received",
-         -206, 220, "四部叢刊 0532, Song woodblock", "public domain by age", 0,
-         f"commentary {'complete at' if hsg == 81 else 'covers'} {hsg} of 81, "
-         "with his own chapter titles"),
-        ("hanfeizi", "韓非", "Hán Fēi", "Han Feizi, 解老 / 喻老", "quotation",
-         -280, -233, "韓非子, ch. 20–21", "public domain by age", 0,
-         f"the oldest commentary; {hf_quotes} quotations across the {hf} chapters "
-         "he discusses"),
-        ("fuyi", "傅奕", "Fù Yì", "Fu Yi ancient text", "received",
-         555, 639, "not yet vendored", "public domain by age; edition unverified", 0,
-         "PROVENANCE names it admissible and owed; Phase 4"),
-        ("guodian", "郭店", "Guōdiàn", "Guodian bamboo slips", "excavated",
-         -320, -300, "excavated 1993", "FACTS ONLY — no transcription admissible", 0,
-         f"{gd} of 81 chapters attested; recorded as variant facts, never as text"),
-        ("mawangdui-a", "馬王堆甲", "Mǎwángduī jiǎ", "Mawangdui silk A", "excavated",
-         -206, -195, "excavated 1973", "FACTS ONLY — no transcription admissible", 0,
-         "德 before 道; recorded as variant facts, never as text"),
-        ("mawangdui-b", "馬王堆乙", "Mǎwángduī yǐ", "Mawangdui silk B", "excavated",
-         -206, -168, "excavated 1973", "FACTS ONLY — no transcription admissible", 0,
-         "德 before 道; recorded as variant facts, never as text"),
-        ("beida", "北大", "Běidà", "Peking University Han bamboo", "excavated",
-         -206, -100, "published 2012", "FACTS ONLY — no transcription admissible", 0,
-         "recorded as variant facts, never as text"),
-        ("fanyingyuan", "范應元", "Fàn Yìngyuán", "Fan Yingyuan", "received",
-         1200, 1275, "not vendored", "public domain by age", 0, "cited in variants"),
-    ]:
-        cur.execute(
-            "INSERT INTO witness (id, name_zh, name_pinyin, name_en, kind, date_low,"
-            " date_high, edition, rights, is_full_text, coverage_note)"
-            " VALUES (?,?,?,?,?,?,?,?,?,?,?)", w)
-
-    # ---- the variant apparatus --------------------------------------------
-    # One row per (entry, witness). Entries with no witness reading at all — a
-    # punctuation fork at ch 32, an editorial one at ch 61 — still get a row with
-    # a null witness. Dropping them would lose two real decisions, and it is the
-    # kind of loss nothing downstream would ever notice.
-    for group, v in enumerate(load_variants(), 1):
-        readings = list((v.witnesses or {}).items()) or [(None, None)]
-        for wid, reading in readings:
-            cur.execute(
-                "INSERT INTO variant (variant_group, chapter, line, base_reading,"
-                " witness_id, witness_reading, meaning_bearing, our_call, followed,"
-                " note, logged) VALUES (?,?,?,?,?,?,?,?,?,?,?)",
-                (group, v.chapter, v.line, v.base, wid, reading,
-                 1 if v.meaning_bearing else 0, v.our_call,
-                 "witness" if v.followed_a_witness else "base", v.note, v.logged),
-            )
+    store_sources(cur, sources)
 
     # ---- commentary --------------------------------------------------------
     # A lemma is a slice of the base text, so our own English for the lines it
@@ -1212,17 +1177,21 @@ def main():
 
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    if out.exists():
-        out.unlink()
-
-    conn = sqlite3.connect(out)
-    stats, align_stats = build(conn, report=args.report or args.verify)
-    rc = 0
-    if args.verify and not verify(conn.cursor()):
-        rc = 1
-    conn.close()
+    with TemporaryDirectory(dir=out.parent) as directory:
+        pending = Path(directory) / out.name
+        conn = sqlite3.connect(pending)
+        try:
+            build(conn, report=args.report or args.verify)
+            if args.verify and not verify(conn.cursor()):
+                return 1
+        except ValueError as exc:
+            print(exc, file=sys.stderr)
+            return 1
+        finally:
+            conn.close()
+        pending.replace(out)
     print(f"\n  → {out.relative_to(ROOT) if out.is_relative_to(ROOT) else out}")
-    return rc
+    return 0
 
 
 if __name__ == "__main__":

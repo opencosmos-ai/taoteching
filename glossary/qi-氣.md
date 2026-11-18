@@ -7,6 +7,15 @@ chapters: [10, 42, 55]
 status: locked
 pairing: false
 shuowen: "Fodder and grain presented to guests. From 米 (mǐ — rice), with 气 (qì — cloud vapor) as its sound."
+refs_status: incomplete
+refs:
+  - { source: duan-yucai, locator: "Shuowen commentary on qi (cloud vapor)" }
+  - { source: shuowen, locator: "Entries for qi (cloud vapor) and qi (provisions)" }
+  - { source: analects, locator: "10.4, entering the duke's gate" }
+  - { source: mencius, locator: "2A.2, the conversation on the flood-like vital energy" }
+  - { source: zhuangzi, locator: "4, In the World of People, the fasting of the heart" }
+  - { source: taiyi-sheng-shui, locator: "Cosmological sequence, the clause that calls the upper vapor sky" }
+  - { source: xing-zi-ming-chu, locator: "Opening passage on nature, the clause on joy, anger, grief and sorrow" }
 ---
 
 ## 氣 (Qì) — Breath

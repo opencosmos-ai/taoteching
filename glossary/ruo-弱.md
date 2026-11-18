@@ -7,6 +7,14 @@ forbidden: ["weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powe
 chapters: [3, 36, 40, 55, 76, 78]
 status: locked
 pairing: true
+refs_status: incomplete
+refs:
+  - { source: shuowen, locator: "Entry for ruo (yielding)" }
+  - { source: dong-chinese, locator: "Entry for ruo (yielding), graph history", url: "https://www.dong-chinese.com/wiki/%E5%BC%B1" }
+  - { source: ji-xusheng, via: dong-chinese, locator: "Ruo (yielding), graph history in Dong Chinese's bibliography" }
+  - { source: wiktionary, locator: "Entry for ruo (yielding), Etymology", url: "https://en.wiktionary.org/wiki/%E5%BC%B1#Etymology" }
+  - { source: stedt, via: wiktionary, locator: "Cognacy of ruo (yielding) and rou (soft), reported in Wiktionary's etymology" }
+  - { source: schuessler, via: wiktionary, locator: "Tibetan comparison for ruo (yielding), reported in Wiktionary's etymology" }
 ---
 
 ## 弱 (Ruò) — Yielding

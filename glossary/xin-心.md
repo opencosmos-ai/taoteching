@@ -8,6 +8,7 @@ status: locked
 pairing: false
 covers:
   - { char: "腹", render: "belly" }
+refs_status: incomplete
 ---
 ## 心 (Xīn) — The Heart
 
