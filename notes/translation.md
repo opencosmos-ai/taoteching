@@ -1322,26 +1322,6 @@ Two closing decisions, both about resisting a smoother English.
 
 *A limit of the harness, recorded because it will recur:* **"force" cannot be forbidden for 為 mechanically.** Six chapters carry both 為 and 強 (*qiáng* — strong, to force), and Ch 25's *"Forcing a label upon it"* renders 強 legitimately. The checker's evidence gate cannot say *right for that character, wrong for this one, same chapter*. So this stays a judgment call, and the Ch 29 debt in `WORKLIST.md` has to be argued rather than swept.
 
-### Ch 66 · 處前而民不害 → "the people are not hindered" — and the reading we did not take
-
-***Superseded 2026-10-20 (Shalom's call): now "the people are not harmed."*** *Hinder* went to 妨 (*fáng* — to hinder) at ch 12, the character whose ordinary sense it is; this note had borrowed it through the compound 妨害 (*fáng hài*). 害 now reads *harm* in all five of its chapters (35, 56, 66, 73, 81). The argument below for the people's **experience** over their intent stands unchanged; what the line gives up is the hint of obstruction beside *weighed down*. `chapters/012.md` → *令人行妨*.
-
-害 (*hài*) is *harm*, and the line is genuinely double.
-
-**河上公 reads it as the people's intent:** 民親之若父母，無有欲害之心也 — *"the people are close to them as to father and mother, and have no heart wishing to harm them."* On that reading, 不害 describes what the people do **not want to do to the leader**.
-
-**We read it as the people's experience**, on the parallel. The couplet is built as 處**上**而民不**重** / 處**前**而民不**害** — position, then consequence, twice. Above produces weight; in front produces obstruction. Reading the second half as a shift from the people's burden to the people's intent breaks a parallel the Chinese builds carefully.
-
-And Heshang Gong supplies the obstruction reading himself, in the same breath: 不以光明蔽後 — *"does not use their brilliance to **eclipse** those behind."* 蔽 (*bì*) is to screen or cover over. That is the harm of standing in front, and 害 carries *hinder* within its range (cf. 妨害). **Settled as "the people are not hindered."** The alternative is real and is recorded here rather than dissolved.
-
-### Ch 66 · 爭 → "compete", carried forward — but the term is owed an entry now
-
-爭 (*zhēng*) is two hands, 爪 above and 又 below, pulling at one object between them: a tug of war. Rendered **"compete"** here to match the three drafted chapters that already use it — ch 3 (使民不爭), ch 8 (twice), and ch 22, which shares this chapter's closing formula 故天下莫能與之爭 verbatim and reads *"no one in the world can compete with them."*
-
-**But "compete" is not obviously right, and the decision is about to get expensive.** 爭 is elemental grabbing, not rule-governed rivalry; modern English "compete" carries sport and markets. *Contend* is closer to the two hands. Three undrafted chapters are queued on this word — **68** (不爭之德, "the integrity of not-爭"), **73** (不爭而善勝), and **81** (為而不爭) — and 68's line in particular reads very differently as *the integrity of not contending*.
-
-**Recommendation: settle 爭 with a glossary entry before drafting 68.** Deciding it now costs one entry; deciding it after 68, 73 and 81 costs a four-chapter retrofit on a term that appears in seven.
-
 ### Ch 65 · 明 → "clever" — a licensed departure from the lock, on Wang Bi's authority
 
 *⚠ Superseded 2026-11-16, by Shalom's call: 明 holds its lock in ch 65, which reads* "did not use it to make the people see clearly" *(`glossary/ming-明.md`). Every witness reads 明 and nothing in the line qualifies it, so the second sense below was Wang Bi's gloss, not the line. Kept as the record of the departure.*
@@ -1365,7 +1345,7 @@ That is not the 明 of Ch 33 (自知者明 — *"to know oneself is clear-seeing
 
 ### Ch 65 · 愚 → "fools", and the supplied *return* gone — 2026-11-16
 
-*(Shalom's call. was: "They used it to return them to being guileless.")* **愚 (*yú*) is an insult in its own language**, the opposite of knowing (Xunzi: 非是是非謂之愚, *"calling right wrong and wrong right is foolishness"*), and the book takes it for the sage at ch 20. *Guileless* made it a compliment, came from Heshang Gong's 不詐偽 (*bù zhà wěi* — "without deceit or falsity"), rested on the withdrawn reading of Wang Bi's 無知 (*wú zhī* — unknowing), and fails at ch 38. **Fools over foolish**, on Shalom's intuition: the bare 愚 names people in the Analects' 下愚 (*xià yú* — "the lowest fools"), the noun repeats ch 20's *fool*, and it keeps the fool's two sides where *foolish* settles toward blame. **Not *the fool*:** no figure is marked in the Chinese, and the English idiom means a dupe. **將 → *but*:** 非以明民，將以愚之 is the frame *not X, but rather Y*, and nothing turns back, so *return* goes (T1-27). Argument: `glossary/yu-愚.md`.
+*(Shalom's call. was: "They used it to return them to being guileless.")* **愚 (*yú*) is an insult in its own language**, the opposite of knowing (Xunzi: 非是是非謂之愚, *"calling right wrong and wrong right is foolishness"*), and the book takes it for the sage at ch 20. *Guileless* made it a compliment, came from Heshang Gong's 不詐偽 (*bù zhà wěi* — "without deceit or falsity"), rested on the withdrawn reading of Wang Bi's 無知 (*wú zhī* — unknowing), and fails at ch 38. **Fools over foolish**, on Shalom's intuition: the bare 愚 names people in the Analects' 下愚 (*xià yú* — "the lowest fools"), the noun repeats ch 20's *fool*, and it keeps the fool's two sides where *foolish* settles toward blame. **Not *the fool*:** no figure is marked in the Chinese, and the English idiom means a dupe. **將 → *but*:** 非以明民，將以愚之 is the frame *not X, but rather Y*, and nothing turns back, so *return* goes (T1-27). Argument: `glossary/yu-愚.md`. **將 (*jiāng*) is an intention, not a return** (2026-11-17): the chapter's return is 反 (*fǎn*) in 與物反矣, and Wang Bi's 守真 (*shǒu zhēn* — keeping to the genuine) and 反其真 (*fǎn qí zhēn* — returning to the genuine) join it to line 1's fools. Do not re-supply *return* in line 1 (`chapters/065.md` → Notes).
 
 ### Ch 65 · 愚 → "guileless", not "ignorant"
 
@@ -1378,6 +1358,20 @@ That is not the 明 of Ch 33 (自知者明 — *"to know oneself is clear-seeing
 **And both commentators gloss 愚 with this edition's own locked terms.** Wang Bi: 無知守真，**順自然**也 — following what is **so of itself**. Heshang Gong: 使**朴質**不詐偽 — making them **plain and uncarved**, not deceitful. 愚 is the uncarved state, not a deprivation.
 
 **"Guileless" over "simple" or "ignorant".** *Simple* is ambiguous in English and slides toward *simple-minded*; *ignorant* imports exactly the deprivation the Chinese does not have. *Guileless* says what both commentaries say — **without 巧詐, artifice** — and is unambiguously a virtue. The cost: it loses the verbal link to Ch 20's *fool*, which the Reading Notes carry instead.
+
+### Ch 65 · 智 → "guile", and why not "clever" or "cunning"
+
+*⚠ Superseded 2026-11-16, by Shalom's call: 智 reads* cleverness *in ch 65, as everywhere (`glossary/zhi-智.md`). The pairing below rested on a mistranslation of Wang Bi's 無知 (wú zhī — unknowing) as "without cunning," and the commentators make artifice the result of 智, not its meaning. Kept as the record of how* guile *was reached.*
+
+**The draft collapsed two characters into one word.** 明民 read *"make the people clever"* and 以其智多 read *"they are too clever"* — 明 (*míng*) and 智 (*zhì*), four lines apart, both *clever*. The same fault as 眾人/俗人 in Ch 20, and the checker cannot see it for the same reason.
+
+**"Cunning" was the obvious repair and is already spoken for three times over:** ch 3 uses it for **知** (無知無欲) *and* for **智** (使夫智者) in adjacent lines, ch 57 for **巧** (人多伎巧), and ch 58 once more. A fourth character would make it useless.
+
+**愚 and 智 are this chapter's own antonym pair** — 將以**愚**之 against 以其**智**多 — and 愚 is already rendered *guileless*. So 智 takes **guile**, and the English pair mirrors the Chinese pair exactly, in the same proportion: 愚 once and 智 three times, *guileless* once and *guile* three times.
+
+**It is also what the commentators say.** 王弼: 多**智巧詐** — *"much 智, artful deceit."* 河上公: 以其**智**多，故為**巧偽** — *"because their 智 is much, they practise artifice and falsity."* Neither reads 智 here as innocent intelligence.
+
+*The cost, stated:* 智 is a Confucian **virtue** — one of 仁義禮智 (humaneness, duty, ritual, wisdom) — so a neutral English word keeps Laozi's polemic sharp, attacking a thing everyone admires. *Guile* pre-loads the verdict. **We accept that here and not elsewhere:** the polemic lives in Ch 19's 絕聖棄智, which keeps *cleverness*. In Ch 65 both commentators say 智 has already curdled into artifice. A licensed split by chapter, like 無事.
 
 ### Ch 65 · 福 → "good fortune", never "blessing"
 
@@ -1411,20 +1405,6 @@ Drafted first as **"the great accord"** and caught by Shalom as vague. It was, i
 
 **Two facts raise the stakes.** 順 appears **exactly once in the whole book**, this line; 逆 never appears at all. It is a hapax at a chapter's final word, so it gets one shot and no consistency constraint. Rendered **"and only then runs with the great current"** — one verb, two prepositions, so the English performs the reversal the Chinese performs. *Current* keeps the water without taking 流's *flow* at Ch 61's 下流.
 
-### Ch 65 · 智 → "guile", and why not "clever" or "cunning"
-
-*⚠ Superseded 2026-11-16, by Shalom's call: 智 reads* cleverness *in ch 65, as everywhere (`glossary/zhi-智.md`). The pairing below rested on a mistranslation of Wang Bi's 無知 (wú zhī — unknowing) as "without cunning," and the commentators make artifice the result of 智, not its meaning. Kept as the record of how* guile *was reached.*
-
-**The draft collapsed two characters into one word.** 明民 read *"make the people clever"* and 以其智多 read *"they are too clever"* — 明 (*míng*) and 智 (*zhì*), four lines apart, both *clever*. The same fault as 眾人/俗人 in Ch 20, and the checker cannot see it for the same reason.
-
-**"Cunning" was the obvious repair and is already spoken for three times over:** ch 3 uses it for **知** (無知無欲) *and* for **智** (使夫智者) in adjacent lines, ch 57 for **巧** (人多伎巧), and ch 58 once more. A fourth character would make it useless.
-
-**愚 and 智 are this chapter's own antonym pair** — 將以**愚**之 against 以其**智**多 — and 愚 is already rendered *guileless*. So 智 takes **guile**, and the English pair mirrors the Chinese pair exactly, in the same proportion: 愚 once and 智 three times, *guileless* once and *guile* three times.
-
-**It is also what the commentators say.** 王弼: 多**智巧詐** — *"much 智, artful deceit."* 河上公: 以其**智**多，故為**巧偽** — *"because their 智 is much, they practise artifice and falsity."* Neither reads 智 here as innocent intelligence.
-
-*The cost, stated:* 智 is a Confucian **virtue** — one of 仁義禮智 (humaneness, duty, ritual, wisdom) — so a neutral English word keeps Laozi's polemic sharp, attacking a thing everyone admires. *Guile* pre-loads the verdict. **We accept that here and not elsewhere:** the polemic lives in Ch 19's 絕聖棄智, which keeps *cleverness*. In Ch 65 both commentators say 智 has already curdled into artifice. A licensed split by chapter, like 無事.
-
 ### 王 → "ruler / sovereign / to rule", never "king" — swept 2026-08-19
 
 The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The rendering decisions, chapter by chapter:
@@ -1455,6 +1435,26 @@ Two further reasons beyond the gender, both about this chapter specifically.
 **The referent is water.** 百谷王 is said of rivers and seas. There is no monarch in the sentence to be male or female, so standing rule 1's *note the seam* does not apply — there is no seam in the Chinese to note, only one we would be making.
 
 **And the chapter is arguing against the throne's own metaphor.** 以其善下之 — the sea rules the valleys *because it is masterful at staying below them*. Every English monarch-word encodes elevation, which is precisely the spatial claim being inverted. 河上公 keeps the water in view: 江海以卑故眾流歸之 — *"rivers and seas, being low, so the many streams come home to them."*
+
+### Ch 66 · 處前而民不害 → "the people are not hindered" — and the reading we did not take
+
+***Superseded 2026-10-20 (Shalom's call): now "the people are not harmed."*** *Hinder* went to 妨 (*fáng* — to hinder) at ch 12, the character whose ordinary sense it is; this note had borrowed it through the compound 妨害 (*fáng hài*). 害 now reads *harm* in all five of its chapters (35, 56, 66, 73, 81). The argument below for the people's **experience** over their intent stands unchanged; what the line gives up is the hint of obstruction beside *weighed down*. `chapters/012.md` → *令人行妨*.
+
+害 (*hài*) is *harm*, and the line is genuinely double.
+
+**河上公 reads it as the people's intent:** 民親之若父母，無有欲害之心也 — *"the people are close to them as to father and mother, and have no heart wishing to harm them."* On that reading, 不害 describes what the people do **not want to do to the leader**.
+
+**We read it as the people's experience**, on the parallel. The couplet is built as 處**上**而民不**重** / 處**前**而民不**害** — position, then consequence, twice. Above produces weight; in front produces obstruction. Reading the second half as a shift from the people's burden to the people's intent breaks a parallel the Chinese builds carefully.
+
+And Heshang Gong supplies the obstruction reading himself, in the same breath: 不以光明蔽後 — *"does not use their brilliance to **eclipse** those behind."* 蔽 (*bì*) is to screen or cover over. That is the harm of standing in front, and 害 carries *hinder* within its range (cf. 妨害). **Settled as "the people are not hindered."** The alternative is real and is recorded here rather than dissolved.
+
+### Ch 66 · 爭 → "compete", carried forward — but the term is owed an entry now
+
+爭 (*zhēng*) is two hands, 爪 above and 又 below, pulling at one object between them: a tug of war. Rendered **"compete"** here to match the three drafted chapters that already use it — ch 3 (使民不爭), ch 8 (twice), and ch 22, which shares this chapter's closing formula 故天下莫能與之爭 verbatim and reads *"no one in the world can compete with them."*
+
+**But "compete" is not obviously right, and the decision is about to get expensive.** 爭 is elemental grabbing, not rule-governed rivalry; modern English "compete" carries sport and markets. *Contend* is closer to the two hands. Three undrafted chapters are queued on this word — **68** (不爭之德, "the integrity of not-爭"), **73** (不爭而善勝), and **81** (為而不爭) — and 68's line in particular reads very differently as *the integrity of not contending*.
+
+**Recommendation: settle 爭 with a glossary entry before drafting 68.** Deciding it now costs one entry; deciding it after 68, 73 and 81 costs a four-chapter retrofit on a term that appears in seven.
 
 ### Ch 67 · 慈 → "tenderness", never "compassion" or "mercy"
 
