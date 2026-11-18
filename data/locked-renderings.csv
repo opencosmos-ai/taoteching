@@ -37,6 +37,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,3,有,yǒu,無 & 有,presence,yes,1.0,authored,"Therefore presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,無,wú,無 & 有,absence,yes,1.0,authored,"Therefore presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,生,shēng,生,give birth to / bear / bring forth,yes,1.0,authored,"Therefore presence and absence give birth to each other, Difficult and easy complete each other,"
+2,5,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,"Sound and tone harmonize each other, Front and back follow each other."
 2,6,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Therefore the sage dwells in the work of non-doing
@@ -82,6 +83,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 4,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,2,物,wù,萬物,things / something,yes,1.0,exact-count,"Fathomless, it seems to be the ancestor of the countless things."
 4,2,萬,wàn,萬物,countless,yes,1.0,exact-count,"Fathomless, it seems to be the ancestor of the countless things."
+4,4,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,exact-count,"harmonizes its light, is the same as the dust."
 4,6,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,I do not know whose child it is.
 4,7,帝,dì,帝,god — *any god* at its one occurrence,NOT FOUND,1.0,exact-count,It seems older than any god.
 5,1,仁,rén,仁,humaneness,yes,1.0,authored,Sky and earth are not concerned with humaneness: they treat the countless things as straw dogs.
@@ -327,6 +329,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
 18,2,智,Zhì,智,cleverness / clever,yes,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
 18,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When cleverness and erudition arise, great hypocrisy appears."
+18,3,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,孝,xiào,慈,devotion,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
@@ -825,6 +828,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
+42,2,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
 42,2,氣,qì,氣,breath,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
 42,2,沖,chōng,沖,empty,yes,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
 42,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony."
@@ -1030,6 +1034,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,4,牝,pìn,牝,the female,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
 55,4,牡,mǔ,牝,the male,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
 55,4,精,jīng,精,vital essence / essence,yes,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."
+55,5,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,It cries all day and never goes hoarse — this is harmony at its utmost.
+55,6,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
 55,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
@@ -1040,6 +1046,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,8,物,Wù,萬物,things / something,yes,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
 55,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
 55,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
+56,4,和,Hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,"Harmonize your light, be the same as the dust."
 56,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,This is called profound sameness.
 56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
 56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
@@ -1424,6 +1431,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
 78,5,反,fǎn,歸 & 復 & 反,returning,NOT FOUND,1.0,authored,Words on the mark seem like their opposite.
 79,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
+79,1,和,Hé,和,harmony (noun) · harmonize (verb),yes,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?

@@ -372,6 +372,12 @@ Four verbatim lines — 挫其銳，解其紛，和其光，同其塵 (*cuò qí
 
 **What was lost, on the record.** *"Is one with every grain of dust"* was the prettiest line in ch 4 and it is gone. *Every grain* is not in 同其塵, and the extra beat was doing what *"here, now"* and *"precisely"* were doing elsewhere in this pass — expanding where the Chinese points.
 
+### Ch 4, 56 · 和其光 → "harmonize its light," not "dim your own light"
+
+**和 (*hé* — harmony) → *harmonize* at ch 4 and 56.** *(Shalom's call, 2026-11-18. Closes `WORKLIST.md` T2-84.)* *(was: ch 4 "dims its own light," ch 56 "Dim your own light.")* Ch 4 now reads *"harmonizes its light, is the same as the dust,"* and ch 56 *"Harmonize your light, be the same as the dust."*
+
+*Dim* was Heshang Gong's word, and his gloss shows how it got into the verse: 當和之使闇昧 (*dāng hé zhī shǐ àn mèi* — "one should harmonize it, making it dark and dim"). He keeps 和 as the verb and gives the dimming as its result. The English kept the result and dropped the verb. Wang Bi dims nothing: 和光而不汙其體 (*hé guāng ér bù wū qí tǐ* — "it harmonizes with the light and does not soil its substance"). **Decided against so that a commentator's result clause does not stand in for the character.** *Dim* also put a verdict on the light that 和 does not, hid the 和/同 (*hé / tóng* — harmony / sameness) pair the next three words complete, and set ch 55's *"knowing harmony is called clear-seeing"* against an order to go dark one chapter later. *Own* goes with *dim*, which it was there to steer. **The cost:** a long Latinate verb beside *blunt* and *untangle*, and the plain instruction, do not outshine, is now implied rather than said. Full argument in `glossary/he-和.md`, which is locked with *dim* on its `forbidden:` list.
+
 ### Ch 3, 12, 44, 64 · 難得之貨 → "rare goods" — and 貨 locked to *goods*
 
 *(2026-08-30, Pass C. `WORKLIST.md` T2-14, first of three. Full argument in `glossary/huo-貨.md`; this is the thin record.)*
@@ -2420,11 +2426,11 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 ***"Share the dust"* was the better English and lost anyway.** Short, idiomatic, free in the reverse check, and it fits both grammars. It fails because **it gives no noun for 玄同** — 同其塵 and 玄同 would come apart again two lines later. **When one character appears twice in a chapter in different grammatical slots, the rendering must survive both slots; the more elegant word that survives only one is the wrong word.** That is the reverse check's structural cousin: not *is this English backed by its character*, but *does this English still work at the character's next appearance*.
 
-**The cost, paid openly:** *is the same as the dust* is the one stative verb in ch 4's run of actions — *blunts, untangles, dims, is*. Accepted for one English on one character across ch 4, 23 and 56.
+**The cost, paid openly:** *is the same as the dust* is the one stative verb in ch 4's run of actions — *blunts, untangles, harmonizes, is* (*dims* until 2026-11-18). Accepted for one English on one character across ch 4, 23 and 56.
 
 ### Left standing, and named
 
-**和其光 → *"dim your own light"* is the commentator's word, not the text's.** 說文 makes 和 **相譍也**, *"to answer one another"* — the same 應 (*yìng* — to answer) as 河上公's 同聲相應 at ch 23 — and *dim* comes from his 當和之使闇昧. `glossary/ming-明.md` glosses ch 4 and ch 56 together this way, so it is settled rather than sloppy. **But 和 and 同 are a pair and only one of them has been repaired**, and the pair is a resonance pair in both commentators.
+**和其光 → *"dim your own light"* is the commentator's word, not the text's.** 說文 makes 和 **相譍也**, *"to answer one another"* — the same 應 (*yìng* — to answer) as 河上公's 同聲相應 at ch 23 — and *dim* comes from his 當和之使闇昧. `glossary/ming-明.md` glosses ch 4 and ch 56 together this way, so it is settled rather than sloppy. **But 和 and 同 are a pair and only one of them has been repaired**, and the pair is a resonance pair in both commentators. *(Repaired 2026-11-18, Shalom's call: 和其光 → *harmonize*. See* Ch 4, 56 · 和其光 *above, and `glossary/he-和.md`.)*
 
 **ch 1's 同謂之玄 still reads *"Together."*** 同's fourth English, and *together* can be heard as *jointly they form one thing* rather than *both alike are so called*. Opened as T2-27.
 

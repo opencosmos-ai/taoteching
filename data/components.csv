@@ -328,7 +328,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 向,,,phonetic,"no gloss needed: present for sound, not meaning",1,尚
 呈,,,phonetic,"no gloss needed: present for sound, not meaning",1,聖
 咅,,,phonetic,"no gloss needed: present for sound, not meaning",1,倍
-和,hé,harmony / harmonize / dim (和其光) / settle (79),semantic,glossed,1,利
+和,hé,harmony (noun) · harmonize (verb),semantic,glossed,1,利
 員,,,phonetic,"no gloss needed: present for sound, not meaning",1,損
 哭,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,喪
 唯,wéi,only,phonetic,glossed,1,雖

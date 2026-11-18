@@ -4,7 +4,7 @@ pinyin: "chōng"
 render: "empty"
 flexions:
   - { english: "within", chapters: [42], why: "the older copies write 中 (zhōng — middle) here, a different word, and the verse follows them" }
-forbidden: ["the void", "emptiness", "vacuity", "vacuous"]
+forbidden: ["the void", "emptiness", "vacuity", "vacuous", "blend"]
 chapters: [4, 42, 45]
 status: locked
 pairing: false
@@ -15,7 +15,7 @@ shuowen: "Surging and shaking. From 水 (shuǐ — water) and 中 (zhōng — mi
 
 *Say "chong," level. Three appearances, one in each of three chapters. One written character standing for two words: an empty vessel in chapters 4 and 45, and in chapter 42 a word the older copies write 中 (zhōng — middle).*
 
-**Locked: 沖 → "empty" at chapters 4 and 45, and "within" at chapter 42.** *(Shalom's call, 2026-11-15.)* *(Not "blending," which no witness and no commentator supports, and which 和 (hé — harmony) may print in these chapters, see the last section but one. Not "surging," the graph's own sense, which neither of its empty lines can bear. Not "emptiness" or "the void," nouns that turn a quality of the Tao into a doctrine of it.)*
+**Locked: 沖 → "empty" at chapters 4 and 45, and "within" at chapter 42.** *(Shalom's call, 2026-11-15.)* *(Not "blending," which no witness and no commentator supports, and which 和 (hé — harmony), beside it in chapters 4 and 42, rules out too. Not "surging," the graph's own sense, which neither of its empty lines can bear. Not "emptiness" or "the void," nouns that turn a quality of the Tao into a doctrine of it.)*
 
 ### The graph: water, and a sound
 
@@ -120,10 +120,6 @@ At chapter 42 he says only 雖有萬形，沖氣一焉 (*suī yǒu wàn xíng, c
 | 沖氣以為和 (42) | *and the breath within makes harmony* | follows silk A's 中 (zhōng — middle); recorded as a flexion |
 
 **Empty is also 虛's (xū) English**, in five chapters. Neither chapter 4 nor chapter 45 has 虛 in it, so the two never meet in a line, and the dictionary links them: it defines 盅 by 虛, a vessel's emptiness. A reader who sees *empty* in English cannot tell which character stands behind it, and the atlas can.
-
-### What no rule can enforce
-
-**"Blend" and "blending" are ruled out for 沖 and cannot go on the `forbidden:` list.** 和 (hé — to harmonize) stands in chapters 4 and 42 beside 沖, and *blend* is a fair English for it in another line. Chapter 4's 和其光 (*hé qí guāng*) now reads *"dims its own light."* A forbidden *blend* would fire on a line that may one day print it rightly for 和. The checker keys on which characters are in a chapter, and cannot tell the two apart (`process/principles/ruling-and-enforcement-are-two-facts.md`).
 
 ### Left open
 

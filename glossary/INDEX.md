@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**76 entries.** Sorted by how much of the book each term touches.
+**77 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -41,6 +41,7 @@ python3 tools/build_index.py
 | **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
 | **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 8 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
 | **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
+| **和** | *hé* | harmony (noun) · harmonize (verb) · *settle* (ch 79) | "dim", "peace", "balance", "concord", "reconcile", "reconciliation", "blend" | 7 | **locked** | [`he-和.md`](he-和.md) |
 | **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
 | **敢** | *gǎn* | push / venture — the forward press to take | "dare", "dares", "dared", "daring" | 7 | **locked** | [`gan-敢.md`](gan-敢.md) |
@@ -68,7 +69,7 @@ python3 tools/build_index.py
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |
 | **氣** | *qì* | breath | "energy", "life force", "life-force", "vital force" | 3 | **locked** | [`qi-氣.md`](qi-氣.md) |
-| **沖** | *chōng* | empty · *within* (ch 42) | "the void", "emptiness", "vacuity", "vacuous" | 3 | **locked** | [`chong-沖.md`](chong-沖.md) |
+| **沖** | *chōng* | empty · *within* (ch 42) | "the void", "emptiness", "vacuity", "vacuous", "blend" | 3 | **locked** | [`chong-沖.md`](chong-沖.md) |
 | **混** | *hùn* | mixed (adjective) · to mix (verb) | "chaos", "chaotic", "undifferentiated", "blend", "merge" | 3 | **locked** | [`hun-混.md`](hun-混.md) |
 | **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
