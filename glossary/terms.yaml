@@ -278,6 +278,16 @@
     - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
   # covers 侯 -> ruler (inside 侯王)
 
+- term: "和"
+  pinyin: "hé"
+  render: "harmony (noun) · harmonize (verb)"
+  forbidden: ["dim", "peace", "balance", "concord", "reconcile", "reconciliation", "blend"]
+  chapters: [2, 4, 18, 42, 55, 56, 79]
+  status: locked
+  entry: glossary/he-和.md
+  flexions:
+    - { english: "settle", chapters: [79], why: "the chapter is one ledger, grudge to surplus to tally to score, and settle is the verb for 和 that stays inside it" }
+
 - term: "執"
   pinyin: "zhí"
   render: "grasp"
@@ -515,7 +525,7 @@
 - term: "沖"
   pinyin: "chōng"
   render: "empty"
-  forbidden: ["the void", "emptiness", "vacuity", "vacuous"]
+  forbidden: ["the void", "emptiness", "vacuity", "vacuous", "blend"]
   chapters: [4, 42, 45]
   status: locked
   entry: glossary/chong-沖.md

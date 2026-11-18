@@ -35,7 +35,7 @@ The decisive evidence sits in a single line:
 > 用其光，復歸其明
 > *Use its light; return to its clarity.*
 
-**光** (*guāng*) is outward light — radiance, glare, the light a thing **emits**. It is what the sage is told to soften in Chapters 4 and 56 (和其光 — *dim your light*) and to hold without dazzling in Chapter 58 (光而不耀 — *bright but not dazzling*). **明** is what you **return** to.
+**光** (*guāng*) is outward light — radiance, glare, the light a thing **emits**. It is the light chapters 4 and 56 bring into harmony (和其光 — *harmonize its light*, `glossary/he-和.md`) and to hold without dazzling in Chapter 58 (光而不耀 — *bright but not dazzling*). **明** is what you **return** to.
 
 If 明 meant "illumination," this line reads *"use its light, return to its light"* — a tautology. The chapter is drawing a distinction and the translation must keep it: 光 is **emission**, 明 is **reception**. One is the light you shine; the other is the seeing you come home to. "Illumination" names the wrong half.
 
@@ -64,7 +64,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 
 **"Illumination"** fails on the evidence: Chapter 52 sets 光 and 明 side by side, and "illumination" collapses them. It also names emission where the text names reception.
 
-**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps telling us to dim. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems murky) directly.
+**"Brilliance," "brightness," "radiance"** — all three describe how a thing *appears to others*, which is precisely the 光 that Laozi keeps from standing apart: harmonized in chapters 4 and 56, bright but not dazzling in chapter 58. And they contradict 微明 (subtle clarity) and 明道若昧 (the clear Tao seems murky) directly.
 
 **"Wisdom"** is the conventional English of a different character, 智 (*zhì* — cleverness), which Chapter 33 explicitly ranks *below* 明. This edition uses it for neither (`glossary/zhi-智.md`).
 

@@ -31,6 +31,14 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-18 — 和 (hé) settled: harmony throughout, and chapters 4 and 56 stop dimming the light
+
+和 had no entry, and two of its eight lines rendered a commentator's word in place of the character.
+
+- **[`glossary/he-和.md`](glossary/he-和.md), locked** (Shalom's call): *harmony / harmonize*, with *settle* at ch 79. Three graphs wrote one word: 龢 (pan-pipes, "to tune"), 盉 (a mixing vessel, "to blend flavors"), and the book's 和, a mouth ("to answer one another"). Closes T2-84.
+- **Chapters 4 and 56 read *harmonize*:** *"harmonizes its light, is the same as the dust"* (4), *"Harmonize your light, be the same as the dust"* (56). *(was: "dims its own light," "Dim your own light.")* *Dim* was Heshang Gong's result clause, 當和之使闇昧 (*dāng hé zhī shǐ àn mèi* — "harmonize it, making it dark and dim"), with his verb dropped; Wang Bi dims nothing. *Dim* is now forbidden for 和.
+- **Swept the same day:** `glossary/ming-明.md`'s gloss of 和其光, and `glossary/chong-沖.md`, which now forbids *blend* itself, since 和 no longer might print it. `notes/translation.md` → *Ch 4, 56 · 和其光*.
+
 ## 2026-11-15 — Where a key term stands, counted once
 
 The Library began counting each chapter's key terms, and its numbers disagreed with `glossary/INDEX.md` on five pairings: INDEX had counted only a pairing's first half. Now one rule counts, here, and everything else reads what it wrote.

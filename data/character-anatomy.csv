@@ -74,7 +74,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 相,xiāng,each other / together (32),,相,exact,目,compound,,目 (mù = eye) + 木 (mù = tree),,14,,0.0876,省視也。从目从木。《易》曰：“地可觀者，莫可觀於木。”《詩》曰：“相鼠有皮。”,
 兵,bīng,weapons / armies / military force (30),,兵,exact,𠬞,compound,,廾 (gǒng = two hands raised together) + 持 (Chí = hold) + 斤 (jīn = an axe),,12,,0.0826,械也。从廾持斤，并力之皃。,
 必,bì,must / surely,,必,exact,八,phonetic-compound,,"八 (bā = eight; to divide, to part) + 弋 (yì = a stake; a tethered arrow)",弋 (yì = a stake; a tethered arrow),14,,0.0822,分極也。从八、弋，弋亦聲。,
-利,lì,advantage,advantage,利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony / harmonize / dim (和其光) / settle (79)),,10,locked,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,
+利,lì,advantage,advantage,利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony (noun) · harmonize (verb)),,10,locked,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,
 後,hòu,"back, rear / last, behind / after, then",,後,exact,彳,compound,,"彳 (chì = a step taken; going) + 幺 (yāo = tiny; a small twist of silk) + 夊 (suī = walking slowly, dragging the feet)",,11,,0.0799,遲也。从彳、幺、夊者，後也。,
 或,huò,some / sometimes / perhaps,,或,exact,戈,compound,,"囗 (wéi = an enclosure, a boundary) + 戈 (gē = a dagger-axe)",,18,,0.0797,邦也。从囗从戈，以守一。一，地也。,
 柔,róu,soft,soft,柔,exact,木,phonetic-compound,,木 (mù = tree),矛 (? = not yet glossed),11,locked,0.0791,木曲直也。从木矛聲。,"Wood that bends and straightens. From 木 (mù — wood), with 矛 (máo — a spear) for sound."
@@ -111,7 +111,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 玄,xuán,dark or profound,dark or profound,玄,exact,玄,pictograph,,,,12,locked,0.062,幽遠也。黑而有赤色者爲玄。象幽而入覆之也。凡玄之屬皆从玄。,
 去,qù,let go of / leave / apart (20),,去,exact,去,phonetic-compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",𠙴 (? = not yet glossed),10,,0.0615,人相違也。从大𠙴聲。凡去之屬皆从去。,
 至,zhì,"reach / utmost, most / come (72)",,至,exact,至,compound,,"高 (gāo = high) + 下 (xià = below / low, lowest (天下, the world)) + 至 (zhì = reach / utmost, most / come (72)) + 地 (dì = earth / ground) + 也 (yě = (closes a statement: it is so)) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,8,,0.0612,鳥飛从高下至地也。从一，一猶地也。象形。不，上去；而至，下來也。凡至之屬皆从至。,
-和,hé,harmony / harmonize / dim (和其光) / settle (79),,和,exact,口,phonetic-compound,,口 (kǒu = mouths),禾 (hé = standing grain),8,,0.061,相譍也。从口禾聲。,
+和,hé,harmony (noun) · harmonize (verb),harmony (noun) · harmonize (verb),和,exact,口,phonetic-compound,,口 (kǒu = mouths),禾 (hé = standing grain),8,locked,0.061,相譍也。从口禾聲。,"To answer one another. From 口 (kǒu — mouth), with 禾 (hé — grain) for sound."
 甚,shèn,very / excess (29) / extreme (44),,甚,exact,甘,compound,,甘 (gān = sweet) + 匹 (? = not yet glossed) + 耦 (? = not yet glossed) + 也 (yě = (closes a statement: it is so)),,9,,0.0606,尤安樂也。从甘，从匹耦也。,
 眾,zhòng,the crowd / the many,the crowd / the many,眾,exact,㐺,compound,,乑 (? = not yet glossed) + 目 (mù = eye),,9,Tier 1,0.0604,多也。从乑、目，衆意。,
 智,zhì,cleverness / clever,cleverness / clever,𥏼,old-form,𪞶,compound,,𪞶 (? = not yet glossed) + 亏 (? = not yet glossed) + 知 (zhī = know / knowing / knowledge (53)),,8,locked,0.0602,識詞也。从𪞶从亏从知。,"A word for recognizing. From 白 (here the breath of speech), 亏 (yú — breath going out) and 知 (zhī — to know). Xu Shen files it under its old form, 𥏼."
