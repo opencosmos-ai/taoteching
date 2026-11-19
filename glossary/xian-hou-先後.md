@@ -6,8 +6,8 @@ flexions:
   - { english: "older", chapters: [4], why: "象帝之先, before 帝 in time, read as 帝's locked phrase: older than any god" }
   - { english: "back", chapters: [2, 14], why: "the back of a thing, a noun, against 前's front" }
   - { english: "then", chapters: [38, 65], why: "而後 and 然後, after-that as a conjunction" }
-  - { english: "last", chapters: [7], why: "Shalom's call, 2026-11-19: the snap of last and first is kept, and its echo of Matthew 20:16 is a known cost" }
-  - { english: "first", chapters: [7], why: "Shalom's call, 2026-11-19, with last" }
+  - { english: "last", chapters: [7, 67], why: "Shalom's call, 2026-11-19: the snap of last and first is kept, and its echo of Matthew 20:16 is a known cost" }
+  - { english: "first", chapters: [7, 67], why: "Shalom's call, 2026-11-19, with last: ch 7's move, and ch 67's third treasure and its undoing" }
 forbidden: ["precede", "superior", "inferior", "humility"]
 chapters: [2, 4, 7, 14, 25, 30, 38, 62, 65, 66, 67]
 status: open
@@ -64,7 +64,7 @@ refs:
 >
 > — chapter 67
 
-> *to abandon the rear and grab at the front.*
+> *to abandon being last and grab at being first.*
 >
 > 捨後且先，
 >
@@ -132,8 +132,8 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 |---|---|---|
 | 後其身而身先 (7) | a position, the move | *puts their body last… comes first* — flexion, Shalom's call |
 | 欲先民，必以身後之 (66) | a position, the move | *go ahead of… put your body behind them* (Shalom's call, 2026-11-19) |
-| 不敢為天下先 (67) ×2 | a position, the move | *never pushing to get ahead in the world* (recommended) |
-| 捨後且先 (67) | a position, the move | *abandon staying behind and grab at getting ahead* (recommended) |
+| 不敢為天下先 (67) ×2 | a rank | *never pushing to be first in the world* — flexion, with ch 7 |
+| 捨後且先 (67) | a rank | *abandon being last and grab at being first* — flexion, Shalom's call |
 | 拱璧以先駟馬 (62) | a position, a verb, *xiàn* | *go ahead of* (Shalom's call, 2026-11-19) |
 | 先天地生 (25) | time | *born before* |
 | 象帝之先 (4) | time | *older than any god* — flexion, 帝's phrase |
@@ -151,7 +151,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 ### Left open
 
-**Chapter 7 is decided: it keeps *last / first*** (Shalom's call, 2026-11-19). *"The sage puts their body last, and their body comes first"* stays for its snap, and the echo of Matthew 20:16 is a known cost, recorded here so no later pass removes it as an oversight. **That leaves chapters 66 and 67 to read again in its light.** With chapter 7 on *last / first*, chapter 67's *first in the world* already matches it, and its *the rear / the front* may now want *last / first* rather than *behind / ahead*; chapter 66 took *if you want to go ahead of the people, you must put your body behind them* on 2026-11-19. Chapter 62 took *go ahead of* on 2026-11-19.
+**Chapter 7 is decided: it keeps *last / first*** (Shalom's call, 2026-11-19). *"The sage puts their body last, and their body comes first"* stays for its snap, and the echo of Matthew 20:16 is a known cost, recorded here so no later pass removes it as an oversight. **Chapters 66 and 67 were read again in its light** (2026-11-19). Chapter 67 follows chapter 7: its third treasure keeps *first in the world*, and 捨後且先 reads *being last / being first*. Chapter 66 keeps *ahead / behind*, because there 先 takes *the people* as its object and is answered by *put your body behind them*. So the entry's English is now split by use: *last / first* where the pair is a rank (7, 67), *ahead / behind* where it is a place in a line or a procession (62, 66).
 
 ***Comes first* was weighed against *ends up ahead*, and kept.** *Ends up ahead* would have given the move one pair of words in all four lines and dropped the Gospel cadence; *comes first* keeps the line readers remember. Shalom's call.
 

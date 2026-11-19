@@ -232,8 +232,8 @@
     - { english: "older", chapters: [4], why: "象帝之先, before 帝 in time, read as 帝's locked phrase: older than any god" }
     - { english: "back", chapters: [2, 14], why: "the back of a thing, a noun, against 前's front" }
     - { english: "then", chapters: [38, 65], why: "而後 and 然後, after-that as a conjunction" }
-    - { english: "last", chapters: [7], why: "Shalom's call, 2026-11-19: the snap of last and first is kept, and its echo of Matthew 20:16 is a known cost" }
-    - { english: "first", chapters: [7], why: "Shalom's call, 2026-11-19, with last" }
+    - { english: "last", chapters: [7, 67], why: "Shalom's call, 2026-11-19: the snap of last and first is kept, and its echo of Matthew 20:16 is a known cost" }
+    - { english: "first", chapters: [7, 67], why: "Shalom's call, 2026-11-19, with last: ch 7's move, and ch 67's third treasure and its undoing" }
   # covers 前 -> front
 
 - term: "明"
