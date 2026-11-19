@@ -67,7 +67,7 @@ Both graphs stand on 示 (*shì* — the altar), the radical of everything done 
 > — chapter 46
 
 > *Disaster is what fortune leans on;*
-> *fortune is where disaster hides.*
+> *fortune is where disaster crouches.*
 > *Who knows where it ends? It has no fixed norm —*
 >
 > 禍兮福之所倚，
@@ -84,7 +84,7 @@ Both graphs stand on 示 (*shì* — the altar), the radical of everything done 
 >
 > — chapter 65
 
-> *There is no disaster greater than making light of the enemy.*
+> *There is no greater disaster than making light of the enemy.*
 > *Making light of the enemy nearly costs me my treasures.*
 >
 > 禍莫大於輕敵，
@@ -94,11 +94,11 @@ Both graphs stand on 示 (*shì* — the altar), the radical of everything done 
 
 **In every line, 禍 and 福 follow from what someone does.** Not knowing you have enough, making light of an enemy, governing with cleverness or without it. Where no one is acting, at ch 58, they come from each other. The book takes the dictionary's two altar words and empties the altar. The English has to be words that can stand in an empty room: *disaster* and *fortune* name what happens and imply nobody behind it.
 
-**禍 takes a superlative frame twice, and the frame is identical.** 禍莫大於 (*huò mò dà yú* — "no disaster is greater than") opens ch 46 and ch 69 word for word, and `concordance.py --formulas` holds it as one formula. Where the Chinese repeats itself, the English should too (`WORKLIST.md` T3-17).
+**禍 takes a superlative frame twice, and the frame is identical.** 禍莫大於 (*huò mò dà yú* — "no disaster is greater than") opens ch 46 and ch 69 word for word, and `concordance.py --formulas` holds it as one formula. Where the Chinese repeats itself, the English does too: *"There is no greater disaster than…"* in both.
 
 ### Chapter 58 is the hardest line, and two old readers argue it from opposite ends
 
-禍兮福之所倚 (*huò xī fú zhī suǒ yǐ* — "disaster: what fortune leans on") and 福兮禍之所伏 (*fú xī huò zhī suǒ fú* — "fortune: where disaster lies in wait") are one mirror. The two verbs are both bodies:
+禍兮福之所倚 (*huò xī fú zhī suǒ yǐ* — "disaster: what fortune leans on") and 福兮禍之所伏 (*fú xī huò zhī suǒ fú* — "fortune: where disaster crouches") are one mirror. The two verbs are both bodies:
 
 > 倚，依也。从人，奇聲。
 > *"倚: to lean on. From 人 (rén — a person), with 奇 (qí) for the sound."* — Shuowen
@@ -106,7 +106,7 @@ Both graphs stand on 示 (*shì* — the altar), the radical of everything done 
 > 伏，司也。从人从犬。
 > *"伏: to watch (司 (sī), standing for 伺 (sì — to lie in wait)). From 人 (rén — a person) and 犬 (quǎn — a dog)."* — Shuowen
 
-A person leaning, and a dog crouched beside a person, watching. One rests its weight; the other waits. *Leans on* keeps the first exactly, and 倚 holds *lean* in this book for that reason: `glossary/shi-恃.md` gave 恃 (*shì* — to rely on) *rely on* so that *lean* could stay here. *Hides* keeps the second's concealment, which is Heshang Gong's reading, and drops the dog's waiting, which is the graph's.
+A person leaning, and a dog crouched beside a person, watching. One rests its weight; the other waits. *Leans on* keeps the first exactly, and 倚 holds *lean* in this book for that reason: `glossary/shi-恃.md` gave 恃 (*shì* — to rely on) *rely on* so that *lean* could stay here. *Crouches* keeps the second, the dog's body (Shalom's call, 2026-11-19). The concealment is Heshang Gong's, 伏匿 (*fú nì* — "lies hidden"), and the waiting is implied by the crouch, as Han Fei's chain spells out below. *Hides*, the conventional English, has the concealment without the body, and *lies in wait* has everything at three words' length.
 
 **Han Fei derives both halves from conduct, and never from luck.** On the first:
 
@@ -190,9 +190,9 @@ And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求�
 |---|---|---|---|
 | 46 | 禍莫大於不知足 | *There is no greater disaster than not knowing you have enough* | the formula; 禍 against 咎's *fault* in the next line |
 | 58 | 禍兮福之所倚 | *Disaster is what fortune leans on* | the mirror's first half; 倚 holds *lean* |
-| 58 | 福兮禍之所伏 | *fortune is where disaster hides* | the mirror's second half |
+| 58 | 福兮禍之所伏 | *fortune is where disaster crouches* | the mirror's second half; 伏 is the Shuowen's crouching dog |
 | 65 | 國之福 | *the state's good fortune* | alone, *the state's fortune* reads as its treasury: *good* is supplied so the English keeps what befalls and loses the money |
-| 69 | 禍莫大於輕敵 | *There is no disaster greater than making light of the enemy* | the formula again |
+| 69 | 禍莫大於輕敵 | *There is no greater disaster than making light of the enemy* | the formula again, in ch 46's English (Shalom's call, 2026-11-19) |
 | 62 | 有罪以免 | *have a crime held against you, and you are spared* | 有 (*yǒu* — to have) makes 罪 a charge one stands under; *held* is supplied, and leaves open whose crime it was, as the Chinese does |
 
 *Fortune* at 58 needs no *good*: *disaster* beside it settles which sense of the English word is meant. At 65 nothing does, so the line takes *good fortune*. Both are the one rendering, and `concordance.py --english "fortune"` reads both as 福's.
@@ -204,10 +204,6 @@ And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求�
 ***Sin* is ruled out for 罪, and nothing here can forbid it.** A `covers:` character carries a rendering and no `forbidden:` list, and ch 62, 罪's only chapter, holds neither 禍 nor 福, so the gate this entry opens never fires there. (*Sin* as a bare string would also catch *since* and *single*.)
 
 ### Left open
-
-**Chapter 58's *hides* keeps Heshang Gong's concealment and drops the Shuowen's dog, watching.** *Lies in wait* would make the mirror two postures, a body leaning and a body crouched. It costs the line its brevity.
-
-**Chapter 69 departs from chapter 46 in a formula the Chinese repeats word for word.** Ch 46 changed on 2026-11-19 to *"There is no greater disaster than…"*; ch 69 still reads *"There is no disaster greater than…"* (`WORKLIST.md` T3-17).
 
 **The English *fortune* carries a goddess the Chinese never had.** *Fortuna* turned her wheel in Rome; the word kept her wheel and lost her name. It is the lightest personification English offers for 福, lighter than *blessing* by the whole width of a church, but it is not none. The graph has a full jar at an altar, and the book has neither.
 

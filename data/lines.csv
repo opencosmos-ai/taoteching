@@ -625,7 +625,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 58,1,1,其政悶悶，其民淳淳；,"Qí zhèng mèn mèn, qí mín chún chún;","When the government is dull/unobtrusive, the people are pure/honest;","When the government is dull and undiscerning, the people are pure and honest.",exact-count
 58,2,1,其政察察，其民缺缺。,"Qí zhèng chá chá, qí mín quē quē.","When the government is sharp/scrutinizing, the people are lacking/crafty.","When the government is sharp and prying, the people turn cunning.",exact-count
 58,3,2,禍兮福之所倚，,"Huò xī fú zhī suǒ yǐ,","Disaster is what fortune leans on,",Disaster is what fortune leans on;,exact-count
-58,4,2,福兮禍之所伏。,Fú xī huò zhī suǒ fú.,Fortune is where disaster hides.,fortune is where disaster hides.,exact-count
+58,4,2,福兮禍之所伏。,Fú xī huò zhī suǒ fú.,Fortune is where disaster hides.,fortune is where disaster crouches.,exact-count
 58,5,2,孰知其極？其無正。,Shú zhī qí jí? Qí wú zhèng.,Who knows the limit/endpoint? There is no fixed norm/correctness.,Who knows where it ends? It has no fixed norm —,exact-count
 58,6,2,正復為奇，善復為妖。,"Zhèng fù wéi qí, shàn fù wéi yāo.","The orthodox reverts to the unorthodox, the good reverts to the monstrous.","The straight turns crooked, the good turns monstrous.",exact-count
 58,7,2,人之迷，其日固久。,"Rén zhī mí, qí rì gù jiǔ.",The delusion of people has lasted for a very long time.,People have been lost in this for a very long time.,exact-count
@@ -726,7 +726,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 69,5,2,攘無臂，,"Rǎng wú bì,","Rolling up sleeves without arms,","baring an arm where there is no arm,",exact-count
 69,6,2,扔無敵，,"Rēng wú dí,","Grasping without an enemy,","hauling where there is no enemy,",exact-count
 69,7,2,執無兵。,Zhí wú bīng.,Holding without weapons.,grasping where there is no weapon.,exact-count
-69,8,3,禍莫大於輕敵，,"Huò mò dà yú qīng dí,",There is no disaster greater than treating the enemy as weightless/light;,There is no disaster greater than making light of the enemy.,exact-count
+69,8,3,禍莫大於輕敵，,"Huò mò dà yú qīng dí,",There is no disaster greater than treating the enemy as weightless/light;,There is no greater disaster than making light of the enemy.,exact-count
 69,9,3,輕敵幾喪吾寶。,Qīng dí jī sàng wú bǎo.,Treating the enemy as weightless almost destroys my treasures.,Making light of the enemy nearly costs me my treasures.,exact-count
 69,10,3,故抗兵相若，哀者勝矣。,"Gù kàng bīng xiāng ruò, āi zhě shèng yǐ.","Therefore when opposing troops meet/match, the grieving/sorrowful one wins.","Therefore, when the armies are evenly matched, the side that grieves wins.",exact-count
 70,1,1,吾言甚易知，甚易行。,"Wú yán shèn yì zhī, shèn yì xíng.","My words are very easy to understand, very easy to execute.","My words are very easy to know, / very easy to follow.",authored
