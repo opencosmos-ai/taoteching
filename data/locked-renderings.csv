@@ -830,10 +830,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,2,清,qīng,清,clear,yes,1.0,exact-count,"Sky received the one, and so became clear."
 39,3,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Earth received the one, and so became settled."
 39,3,得,dé,得 & 失,get,yes,1.0,exact-count,"Earth received the one, and so became settled."
-39,4,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Spirit received the one, and so became numinous."
-39,4,得,dé,得 & 失,get,yes,1.0,exact-count,"Spirit received the one, and so became numinous."
-39,4,神,Shén,神 & 靈,spirit,yes,1.0,exact-count,"Spirit received the one, and so became numinous."
-39,4,靈,líng,神 & 靈,potent,NOT FOUND,1.0,exact-count,"Spirit received the one, and so became numinous."
+39,4,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Spirit received the one, and so became potent."
+39,4,得,dé,得 & 失,get,yes,1.0,exact-count,"Spirit received the one, and so became potent."
+39,4,神,Shén,神 & 靈,spirit,yes,1.0,exact-count,"Spirit received the one, and so became potent."
+39,4,靈,líng,神 & 靈,potent,yes,1.0,exact-count,"Spirit received the one, and so became potent."
 39,5,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The valley received the one, and so became full."
 39,5,得,dé,得 & 失,get,yes,1.0,exact-count,"The valley received the one, and so became full."
 39,5,谷,Gǔ,谷,valley,yes,1.0,exact-count,"The valley received the one, and so became full."
@@ -852,9 +852,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 39,9,清,qīng,清,clear,yes,1.0,exact-count,Sky with no way to be clear is likely to split.
 39,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Sky with no way to be clear is likely to split.
 39,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Earth with no way to be settled is likely to burst.
-39,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Spirit with no way to be numinous is likely to cease.
-39,11,神,Shén,神 & 靈,spirit,yes,1.0,exact-count,Spirit with no way to be numinous is likely to cease.
-39,11,靈,líng,神 & 靈,potent,NOT FOUND,1.0,exact-count,Spirit with no way to be numinous is likely to cease.
+39,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Spirit with no way to be potent is likely to cease.
+39,11,神,Shén,神 & 靈,spirit,yes,1.0,exact-count,Spirit with no way to be potent is likely to cease.
+39,11,靈,líng,神 & 靈,potent,yes,1.0,exact-count,Spirit with no way to be potent is likely to cease.
 39,12,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The valley with no way to be full is likely to run dry.
 39,12,谷,Gǔ,谷,valley,yes,1.0,exact-count,The valley with no way to be full is likely to run dry.
 39,13,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The countless things with no way to live are likely to die out.

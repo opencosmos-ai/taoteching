@@ -4,7 +4,7 @@ pinyin: "shén / líng"
 render: "spirit / potent"
 flexions:
   - { english: "sacred", chapters: [29], why: "神 qualifies a made thing: a 神器 is a vessel for the spirits, a ritual bronze" }
-forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil"]
+forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous"]
 chapters: [6, 29, 39, 60]
 status: open
 pairing: true
@@ -40,7 +40,7 @@ refs:
 
 *Say "shun," rising, and "ling," rising. 神 stands eight times in seven lines across four chapters; 靈 twice, both in chapter 39, and both times as what 神 becomes. Neither is ever a god.*
 
-**Recommended: 神 → "spirit" · 靈 → "potent."** *(Not "God," "the divine" or "deity," which the missionaries put into 神. Not "holy," which is 聖 (shèng — the sage)'s overlay. Not "soul," which leaves the body. Not "numinous," a theologian's word for the holy that no one could point at.)* **One flexion:** *sacred* at chapter 29, where 神 qualifies a made thing. **Covered here:** 鬼 (guǐ — ghost) → *ghost*, its partner at chapter 60.
+**Recommended: 神 → "spirit" · Settled: 靈 → "potent"** (Shalom's call, 2026-11-19, at chapter 39). *(Not "God," "the divine" or "deity," which the missionaries put into 神. Not "holy," which is 聖 (shèng — the sage)'s overlay. Not "soul," which leaves the body. Not "numinous," a theologian's word for the holy that no one could point at.)* **One flexion:** *sacred* at chapter 29, where 神 qualifies a made thing. **Covered here:** 鬼 (guǐ — ghost) → *ghost*, its partner at chapter 60.
 
 ### The graph: lightning at an altar, and a shaman wearing jade
 
@@ -90,13 +90,13 @@ The Shuowen gives the graph. The word is older, and its early uses, gathered in 
 >
 > — chapter 29
 
-> *Spirit received the one, and so became numinous.*
+> *Spirit received the one, and so became potent.*
 >
 > 神得一以靈；
 >
 > — chapter 39
 
-> *Spirit with no way to be numinous is likely to cease.*
+> *Spirit with no way to be potent is likely to cease.*
 >
 > 神無以靈，將恐歇；
 >
@@ -209,7 +209,7 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 
 **"Soul."** The thing that leaves the body. Heshang Gong does put 神 in the body, 心藏神, *"the heart stores the spirit,"* one of his five organ-spirits at chapter 6, but even there it is housed and nourished, never a separable immortal self. Already forbidden for 精 (*jīng* — vital essence) and 魄 (*pò* — aliveness).
 
-**"Numinous," for 靈.** Latin *numen*, a nod of the head, the assent of a god, and then a god's power. Rudolf Otto made *the numinous* the word for the holy as it is felt, in *Das Heilige* (1917), translated as *The Idea of the Holy* (1923). It fails both tests at once. It is a theologian's word for the holy, and no one could point at it. It cannot go on `forbidden:` until chapter 39 has its new English.
+**"Numinous," for 靈.** Latin *numen*, a nod of the head, the assent of a god, and then a god's power. Rudolf Otto made *the numinous* the word for the holy as it is felt, in *Das Heilige* (1917), translated as *The Idea of the Holy* (1923). It fails both tests at once. It is a theologian's word for the holy, and no one could point at it. Forbidden since chapter 39 took *potent*.
 
 **"Alive," "come alive," "living."** Three reasons, and the first is the etymology. **靈 is not life.** It belongs to the dead as readily as to the living: the posthumous 靈 who shows spirit-power after death, the straw 靈 in the grave, the spirit tablet. *Alive* would deny it to half the beings it names. **Second, chapter 39 needs *alive* for another word.** Its list gives six things six qualities, and Wang Bi names them as six, 清寧靈盈生貞; 靈 and 生 (*shēng* — to live) are two of them, two lines apart. *Spirit… became alive* above *the countless things… came to life* would make spirit and the countless things receive the same gift, and erase the difference the list exists to make. **Third, the word is spoken for twice over:** 生 prints *live* and *alive* in nine lines (7, 33, 34, 39, 50, 73, 75), and 魄 (*pò*) holds *aliveness* at chapter 10 (`glossary/po-魄.md`).
 
@@ -239,8 +239,8 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 |---|---|---|
 | 谷神不死 (6) | 神, noun, the valley's | *the spirit of the valley* |
 | 天下神器 (29) | 神, qualifying a made thing | *a sacred vessel* — the declared flexion |
-| 神得一以靈 (39) | 神, subject in the list · 靈, its quality | *spirit… potent* (recommended) |
-| 神無以靈，將恐歇 (39) | the same, negated | *spirit with no way to be potent* (recommended) |
+| 神得一以靈 (39) | 神, subject in the list · 靈, its quality | *spirit… potent* |
+| 神無以靈，將恐歇 (39) | the same, negated | *spirit with no way to be potent* |
 | 其鬼不神 (60) | 神, a verb: the ghosts do not act as spirits | *spirit*, carried by a verb the line supplies (recommended) |
 | 其神不傷人 (60), ×2 | 神, noun, the ghosts' or a spirit's own | *their spirit* (recommended) |
 | 其鬼 (60), ×2 | 鬼, noun | *ghosts* |
@@ -263,6 +263,6 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 
 **Chapter 39's *spirit* is singular and capitalized, by position.** Both 神 lines open their sentence, so *Spirit* takes a capital the edition otherwise refuses, and a capital-S *Spirit* is Hegel's or the creed's. The Shuowen's 天神 (*tiān shén* — the spirits of the sky) is plural beings, and *The spirits received the one* would end the capital and match the Shuowen. The cost: the list's other members are a sky, an earth and a valley, and the chapter's rhythm is singular nouns. Undecided.
 
-***Potent* keeps the effect and loses the descent.** Wang Yi's 靈 is a spirit that has *come down* into a dancer; *potent* says it works, not that it has arrived. The rite's half of the word, the shaman, has no English in the verse and lives only here. The word also has a sexual edge in English, *potent* against *impotent*, which a spirit should not carry; it is faint next to *spirit*, and worth a reader's ear before it locks.
+***Potent* keeps the effect and loses the descent.** Wang Yi's 靈 is a spirit that has *come down* into a dancer; *potent* says it works, not that it has arrived. The rite's half of the word, the shaman, has no English in the verse and lives only here. The word also has a sexual edge in English, *potent* against *impotent*, which a spirit should not carry; it is faint next to *spirit*, and it was weighed before *potent* was chosen (Shalom's call, 2026-11-19).
 
 **Heshang Gong's organ-spirits are lost at chapter 6.** His 谷神 is the spirit nourished in the body's five organs, and the verse follows Wang Bi's valley. That cost is recorded in `glossary/gu-谷.md`, where the valley was chosen.

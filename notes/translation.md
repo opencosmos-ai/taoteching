@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 39 · 神得一以靈 → "and so became potent," not "numinous"
+
+*(2026-11-19, Shalom's call.)* *Numinous* failed the pointing test. The early uses of 靈 say spirit where it takes effect and shows (the Odes' good rain, the Qiu pan's good end, Wang Yi's descended spirit), and *potent* is that effect; its failure is the line's 歇. *Alive* (生's, and 靈 belongs to the dead too) and *vital* (精's, and it also means *essential*) were set aside. The argument: `glossary/shen-ling-神靈.md`.
+
 ### Ch 26, 45 · 躁 → "restless," not "agitated" or "movement"
 
 *(2026-11-19, Shalom's call.)* One word for 躁 (*zào*) in its three lines. *Agitate* either stirs something, and 躁 moves itself, or names a mood, and the early texts' 躁 is impatience: speaking before one's turn (Analects 16.6), too many words (the Xici), rushing about (the Monthly Ordinances). *Restless* is *still*'s plain antonym. The argument: `glossary/jing-靜.md` → 躁.

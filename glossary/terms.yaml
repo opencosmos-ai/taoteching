@@ -543,7 +543,7 @@
 - term: "神 & 靈"
   pinyin: "shén / líng"
   render: "spirit / potent"
-  forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil"]
+  forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous"]
   chapters: [6, 29, 39, 60]
   status: open
   entry: glossary/shen-ling-神靈.md
