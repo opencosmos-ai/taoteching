@@ -151,7 +151,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 | 寡欲 (19) | a state | *diminish desire* |
 | 不欲以靜 (37) | a state, no verb after | *not desiring* (recommended) |
 | 可欲 (3) | 可 + 欲, a fixed noun | *the desirable* — 可's flexion |
-| 不欲盈 (15) · 不欲琭琭 (39) · 不欲見賢 (77) | 欲 + verb, negated | *do not want to…* (15 and 77 recommended) |
+| 不欲盈 (15) · 不欲琭琭 (39) · 不欲見賢 (77) | 欲 + verb, negated | *do not want to…* (77 recommended; 15 Shalom's call, 2026-11-19) |
 | 欲作 (37) · 欲得 (46) · 欲兼畜人 · 欲入事人 (61) · 欲上民 · 欲先民 (66) | 欲 + verb | *want to…* (37, 46, 66 recommended) |
 | 所欲 (61) | 所 + 欲, what is wanted | *what they want* |
 | 欲不欲 (64) | the reflexive formula | *wants the not-wanting* — one verb on both sides, as at chapter 63 |
@@ -169,7 +169,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 ### Left open
 
-**Seven lines need new English, and each is Shalom's call.** Chapter 15's *have no wish to be full*, 46's *craving to acquire*, 77's *have no wish to appear exceptional*, 37's three (*urge action*, *without desire*, *relinquishing desire*), and 66's two, where *to rise above* and *to walk ahead* drop 欲 altogether and lose the frame chapter 66 shares with chapter 36: 欲X，必Y (*yù X, bì Y* — "if you want to X, you must Y"). Chapter 37's first line rides with `WORKLIST.md` T3-8, the lost chain through 化 (*huà* — transform).
+**Six lines need new English, and each is Shalom's call.** (Chapter 15's *do not want to be full* was taken on 2026-11-19.) Chapter 46's *craving to acquire*, 77's *have no wish to appear exceptional*, 37's three (*urge action*, *without desire*, *relinquishing desire*), and 66's two, where *to rise above* and *to walk ahead* drop 欲 altogether and lose the frame chapter 66 shares with chapter 36: 欲X，必Y (*yù X, bì Y* — "if you want to X, you must Y"). Chapter 37's first line rides with `WORKLIST.md` T3-8, the lost chain through 化 (*huà* — transform).
 
 **The silks have two readings our base does not, and neither is yet recorded per silk.** Chapter 57's 我欲不欲 and chapter 37's 不辱 were read in Wikisource's collated silk text, which does not say which silk prints which. Both want rows in `sources/variants.yaml` once checked against each silk. The base and both commentaries print 我無欲 and 無欲 / 不欲, and we keep them.
 

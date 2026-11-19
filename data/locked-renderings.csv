@@ -310,9 +310,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,13,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,exact-count,"Who can be muddy, and by stilling it slowly come clear?"
 15,14,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Who can be at rest, and by moving it slowly come to life?"
 15,14,能,néng,可,be able,NOT FOUND,1.0,exact-count,"Who can be at rest, and by moving it slowly come to life?"
-15,15,保,Bǎo,保,keep safe,NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
-15,15,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
-15,15,道,dào,道,the Tao / way,yes,1.0,exact-count,Those who keep the Tao safe like this have no wish to be full.
+15,15,保,Bǎo,保,keep safe,NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
+15,15,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
+15,15,道,dào,道,the Tao / way,yes,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,16,唯,wéi,唯,only,yes,1.0,exact-count,Only because they are never full
 15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly made."
 16,1,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,authored,Go totally empty.

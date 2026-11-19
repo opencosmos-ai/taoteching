@@ -70,7 +70,7 @@ refs_status: incomplete
 > 德行廣大之人若愚須不足也。
 > *"A person whose conduct of integrity is broad and great seems foolish, as though they had too little."* — Heshang Gong
 
-**Wang Bi's paradox is a matter of capacity.** What is broad cannot be filled, and so it seems not enough. 不盈 (*bù yíng* — not full) is the valley's and the vessel's word in this book: chapter 4's 用之或不盈 (*yòng zhī huò bù yíng* — "used, it never fills") and chapter 15's 保此道者不欲盈 (*bǎo cǐ dào zhě bù yù yíng* — "those who keep the Tao safe like this have no wish to be full"). The Shuowen makes 盈 a full vessel (`gu-谷.md`).
+**Wang Bi's paradox is a matter of capacity.** What is broad cannot be filled, and so it seems not enough. 不盈 (*bù yíng* — not full) is the valley's and the vessel's word in this book: chapter 4's 用之或不盈 (*yòng zhī huò bù yíng* — "used, it never fills") and chapter 15's 保此道者不欲盈 (*bǎo cǐ dào zhě bù yù yíng* — "those who keep the Tao safe like this do not want to be full"). The Shuowen makes 盈 a full vessel (`gu-谷.md`).
 
 **The saying stands beside one that builds.** The next line is 建德若偷 (*jiàn dé ruò tōu* — "sturdy integrity seems slack"), and 建 (*jiàn*) is to erect. `chapters/041.md` sets the two side by side: the span of a hall, and the setting-up of a structure. Each saying pairs a thing with the look of its own lack. *Broad* keeps the hall. *Boundless* gave the line a reason for the paradox, but it had to remove the walls to do it, and the building went with them.
 
