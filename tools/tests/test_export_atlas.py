@@ -102,7 +102,9 @@ class ReaderKeys(unittest.TestCase):
 
     def test_empty_notes_are_empty_not_missing(self):
         self.assertTrue(self.r["notes"]["1"])
-        self.assertEqual(self.r["notes"]["7"], "")
+        # A chapter with no notes yet. This was ch 7 until its first note
+        # (2026-11-19); pick another empty one if ch 40 gains notes.
+        self.assertEqual(self.r["notes"]["40"], "")
         self.assertFalse(self.r["notes"]["1"].startswith("## "))
 
     def test_a_waiver_is_not_a_note(self):

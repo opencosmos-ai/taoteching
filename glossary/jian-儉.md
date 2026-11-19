@@ -52,10 +52,10 @@ refs_status: incomplete
 >
 > — chapter 67
 
-> *Now: to abandon tenderness and grab at courage,*
+> *Now, to abandon tenderness and grab at courage,*
 > *to abandon frugality and grab at breadth,*
-> *to abandon the rear and grab at the front.*
-> *That is death.*
+> *to abandon being last and grab at being first,*
+> *that is death.*
 >
 > 今捨慈且勇，
 > 捨儉且廣，

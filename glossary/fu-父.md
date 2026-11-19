@@ -13,7 +13,7 @@ refs_status: incomplete
 
 *Say "foo," falling, for 父; "foo," dipping and then lifting, for 甫. One word in two spellings, three appearances across two chapters. The book's father: named far less often than its mother, and named all the same.*
 
-**Locked: 父 (*fù*) and 甫 (*fǔ*) → "father," in every line.** *(Not "origin," which is 始's (shǐ — beginning). Not "root," which is 根's (gēn — root). Shalom's call, 2026-10-26: ch 42 first, then ch 21, the same day.)*
+**Locked: 父 (*fù*) and 甫 (*fǔ*) → "father," in every line.** *(Not "origin," a word with no body, the father's version of *the Source*. Not "root," which is 根's (gēn — root). Shalom's call, 2026-10-26: ch 42 first, then ch 21, the same day.)*
 
 ### The graph: a hand that holds a tool, and a seedling in a field
 
@@ -103,7 +103,7 @@ The book does not say whether these are one beginning seen from two sides or two
 
 ### What is set aside
 
-- **"origin"**, the English of ch 21 until 2026-10-26. It is spoken for: ch 52's *"The world has an origin"* renders 始 (*shǐ* — beginning), so a reader comparing the chapters would take 甫 for 始, which is Heshang Gong's gloss and not the text. It is also a word with no body, the father's version of *the Source* (`process/principles/already-spoken-for.md`).
+- **"origin"**, the English of ch 21 until 2026-10-26. It was then 始 (*shǐ* — beginning)'s English at ch 52, so a reader comparing the chapters would have taken 甫 for 始, which is Heshang Gong's gloss and not the text. Ch 52 reads *beginning* since 2026-11-19 (`glossary/mu-母.md`). What still rules it out: it is a word with no body, the father's version of *the Source* (`process/principles/already-spoken-for.md`).
 - **"root"**, the English of ch 42 until 2026-10-26. It is spoken for by 根 (*gēn* — root), the book's root of the plant, in chapters 6, 16, 26 and 59, and by 本 (*běn* — root, trunk) in ch 39. It turns a person into a plant, and it was a gloss.
 - **"the Source," "the progenitor," "the first cause."** Each cools the father into an abstraction, the same flinch the mother's entry refuses. *First cause* is also Aristotle's and the schoolmen's, a theology the book never touches.
 - **"patriarch."** It adds rule: a father who governs a household. The Shuowen's family head leads and teaches, but neither chapter gives the father any power over anyone (`process/principles/no-verdict-the-chinese-lacks.md`).

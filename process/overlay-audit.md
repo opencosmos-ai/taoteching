@@ -36,8 +36,8 @@ Each is a place the overlay will try to enter; chapter locations are given so th
 The character is a picture of **hearing**: an oversized ear (耳) beside a mouth (口), on a standing figure. The *Shuowen* glosses it 通也 — *penetrating*. A 聖人 is one whose perception goes all the way through: **the acute listener**, not the sanctified one. The capture is easy to demonstrate — in modern Chinese, Bible translation has made 聖 the word for *holy*: 聖經 (holy classic = Bible), 聖靈 (Holy Spirit), 聖徒 (saint). **Our reading: "the sage" is sound; keep it, and never let "holy," "saintly," or "blessed" near it.** Note also that 聖 is not uniformly positive in this book — Chapter 19 says 絕聖棄智, *cut off sagehood*, which no translator of a "Holy Man" can easily explain.
 → **Locked:** *the sage*; *sagehood* where 聖 stands alone (ch 19). `glossary/sheng-聖.md`, 2026-10-17.
 
-**神 — "God," "the divine," "spirit"** *(6, 29, 39, 60)*
-The literal casualty of the Term Question. In Laozi it is **numinous potency** — a quality, not a being. Chapter 60's 其鬼不神 ("the ghosts lose their potency") already applies this correctly. Watch 谷神不死 (6, *the valley's undying power/spirit*), 天下神器 (29, the world as a *numinous vessel*), 神得一以靈 (39). **Never "God." Never "the divine."**
+**神 — "God," "the divine"** *(6, 29, 39, 60)*
+The literal casualty of the Term Question. In Laozi it is **spirit**: a force met at the altar, and in every line something in the world, never above it. At chapter 39 it needs the one, as the sky and the valley do; at chapter 60 Wang Bi sets it beside the sage. What spirit is when it works is its partner 靈 (*líng*), **potent** (39). Watch 谷神不死 (6, *the spirit of the valley*), 天下神器 (29, *a sacred vessel*, the ritual bronze), 神得一以靈 (39). **Never "God." Never "the divine."** Chapter 60 reads *spirit* too, since its repair on 2026-11-19. The argument: `glossary/shen-ling-神靈.md`.
 
 **鬼 — "demons," "devils"** *(60 only)*
 Christian demonology imported wholesale. 鬼 are **the dead, ghosts, ancestral spirits** — not agents of evil. "Ghosts" ✓ (already our reading).
@@ -97,6 +97,6 @@ Before accepting any rendering, run both:
 
 Two cautions, so this does not become its own dogma.
 
-**Not everything churchy-sounding is an import.** The Tao Te Ching *is* a religious text in a real sense — awed, devotional, concerned with ultimate things. Stripping every solemn word would falsify it as badly as importing Heaven does. The target is **imported doctrine**, not reverence. 福 really does have an altar in its radical; 神 really is numinous. We remove what the Chinese does not contain — not everything that sounds sacred.
+**Not everything churchy-sounding is an import.** The Tao Te Ching *is* a religious text in a real sense — awed, devotional, concerned with ultimate things. Stripping every solemn word would falsify it as badly as importing Heaven does. The target is **imported doctrine**, not reverence. 福 really does have an altar in its radical; 神 really does name the spirits. We remove what the Chinese does not contain — not everything that sounds sacred.
 
 **And the danger runs both ways.** A translation that flinches from every word touched by Christianity would be shaped by that religion just as surely as one that borrows from it — merely in the negative. The goal is not to translate *against* the missionaries. It is to translate as though they had never come, and to read what the character actually shows.

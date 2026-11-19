@@ -14,7 +14,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,4,1,長短相形，高下相盈，,"cháng duǎn xiāng xíng, gāo xià xiāng yíng,",long and short contrast each other; high and low incline toward each other;,"Long and short measure each other, / High and low depend on each other,",authored
 2,5,1,音聲相和，前後相隨。,"yīn shēng xiāng hé, qián hòu xiāng suí.",sound and silence harmonize each other; front and back follow each other.,"Sound and tone harmonize each other, / Front and back follow each other.",authored
 2,6,2,是以聖人處無為之事，,"Shì yǐ shèng rén chǔ wú wéi zhī shì,",Therefore the Sage acts through non-action,Therefore the sage dwells in the work of non-doing,authored
-2,7,2,行不言之教。,xíng bù yán zhī jiào.,and teaches through non-speech.,and carries out the teaching without words.,authored
+2,7,2,行不言之教。,xíng bù yán zhī jiào.,and teaches through non-speech.,and carries out the unspoken teaching.,authored
 2,8,2,萬物作而弗始，,"Wàn wù zuò ér fú shǐ,",The ten thousand things arise and the Sage does not initiate;,"The countless things arise, and the sage does not begin them.",authored
 2,9,2,生而弗有，,"shēng ér fú yǒu,",they are born and the Sage does not possess;,"They are born, and the sage does not possess them.",authored
 2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"The sage acts, yet relies on nothing.",authored
@@ -166,7 +166,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 15,12,2,混兮其若濁。,Hùn xī qí ruò zhuó.,Blended/undifferentiated \[hun\] oh \[xi\]\! Like \[ruo\] murky/muddy water \[zhuo\].,"Mixed, like muddy water.",exact-count
 15,13,3,孰能濁以靜之徐清？,Shú néng zhuó yǐ jìng zhī xú qīng?,Who \[shu\] can \[neng\] take the murky \[zhuo\] and by \[yi\] stilling \[jing\] it \[zhi\] slowly \[xu\] make it clear \[qing\]?,"Who can be muddy, and by stilling it slowly come clear?",exact-count
 15,14,3,孰能安以動之徐生？,Shú néng ān yǐ dòng zhī xú shēng?,Who \[shu\] can \[neng\] take the calm/at rest \[an\] and by \[yi\] moving/stirring \[dong\] it \[zhi\] slowly \[xu\] bring it to life/generate \[sheng\]?,"Who can be at rest, and by moving it slowly come to life?",exact-count
-15,15,4,保此道者不欲盈。,Bǎo cǐ dào zhě bù yù yíng.,Those who guard/preserve \[bao\] this \[ci\] Tao \[dao\] do not \[bu\] desire \[yu\] to be full/overflowing \[ying\].,Those who keep the Tao safe like this have no wish to be full.,exact-count
+15,15,4,保此道者不欲盈。,Bǎo cǐ dào zhě bù yù yíng.,Those who guard/preserve \[bao\] this \[ci\] Tao \[dao\] do not \[bu\] desire \[yu\] to be full/overflowing \[ying\].,Those who keep the Tao safe like this do not want to be full.,exact-count
 15,16,4,夫唯不盈，,"Fú wéi bù yíng,","Now precisely because \[fu wei\] they are not \[bu\] full \[ying\],",Only because they are never full,exact-count
 15,17,4,故能蔽而不新成。,Gù néng bì ér bù xīn chéng.,Therefore \[gu\] they can \[neng\] be worn out/concealed \[bi\] and \[er\] not \[bu\] newly \[xin\] compiled/completed \[cheng\].,"can they stay covered, and never newly made.",exact-count
 16,1,1,致虛極，,"Zhì xū jí,","Reach/attain \[zhi\] the extreme/limit \[ji\] of emptiness/void \[xu\],",Go totally empty.,authored
@@ -193,7 +193,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 17,3,1,其次，畏之；,"Qí cì, wèi zhī;","The next \[qi ci\], fear \[wei\] them \[zhi\];",Poor leaders are feared.,exact-count
 17,4,1,其次，侮之。,"Qí cì, wǔ zhī.","The next \[qi ci\], despise/insult \[wu\] them \[zhi\].",The worst leaders are despised by all.,exact-count
 17,5,2,信不足焉，有不信焉。,"Xìn bù zú yān, yǒu bù xìn yān.","Trust/reliability \[xin\] is not \[bu\] sufficient \[zu\] here \[yan\], there is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].","Where trust runs short, there is no trust.",exact-count
-17,6,3,悠兮其貴言。,Yōu xī qí guì yán.,Distant/careful \[you\] oh \[xi\] their \[qi\] valuing/sparing \[gui\] of words \[yan\].,The greatest leaders speak sparingly.,exact-count
+17,6,3,悠兮其貴言。,Yōu xī qí guì yán.,Hesitant/anxiously careful \[you\] oh \[xi\] they \[qi\] prize \[gui\] words \[yan\].,"Hesitant, they prize their words.",exact-count
 17,7,3,功成事遂，,"Gōng chéng shì suì,","Work/merit \[gong\] completed \[cheng\], affairs/tasks \[shi\] accomplished \[sui\],","When their work is done,",exact-count
 17,8,3,百姓皆謂：「我自然」。,"Bǎi xìng jiē wèi: ""Wǒ zì rán"".","The hundred \[bai\] surnames/people \[xing\] all \[jie\] say \[wei\]: ""We \[wo\] are naturally so/spontaneous \[zi ran\]"".","Everyone says, “We did this by ourselves.”",exact-count
 18,1,0,大道廢，有仁義；,"Dà dào fèi, yǒu rén yì;","The Great \[da\] Tao \[dao\] is abandoned/abolished \[fei\], there is \[you\] benevolence \[ren\] and righteousness \[yi\];","When the great Tao is discarded, humaneness and duty appear.",exact-count
@@ -248,8 +248,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 22,2,1,枉則直，,"Wǎng zé zhí,","Wronged/bent \[wang\] then/thus \[ze\] straight \[zhi\],","Bend, and stay whole. Be wronged, and be made straight.",authored
 22,3,1,窪則盈，,"Wā zé yíng,","Hollow/low \[wa\] then/thus \[ze\] filled/full \[ying\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
 22,4,1,敝則新，,"Bì zé xīn,","Worn out/old \[bi\] then/thus \[ze\] new/renewed \[xin\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
-22,5,1,少則得，,"Shǎo zé dé,","Few/little \[shao\] then/thus \[ze\] obtain/gain \[de\],",Hold little and gain. Hold much and be confused.,authored
-22,6,1,多則惑。,Duō zé huò.,Many/much \[duo\] then/thus \[ze\] confused/deluded \[huo\].,Hold little and gain. Hold much and be confused.,authored
+22,5,1,少則得，,"Shǎo zé dé,","Few/little \[shao\] then/thus \[ze\] obtain/gain \[de\],",Hold little and receive. Hold much and be confused.,authored
+22,6,1,多則惑。,Duō zé huò.,Many/much \[duo\] then/thus \[ze\] confused/deluded \[huo\].,Hold little and receive. Hold much and be confused.,authored
 22,7,2,是以聖人抱一,Shì yǐ shèng rén bào yī,Therefore \[shi yi\] the Sage \[sheng ren\] embraces/holds \[bao\] the One \[yi\],Therefore the sage embraces one thing and serves as the world's pattern.,authored
 22,8,2,為天下式。,wéi tiān xià shì.,to function as/be \[wei\] the world's \[tian xia\] model/pattern \[shi\].,Therefore the sage embraces one thing and serves as the world's pattern.,authored
 22,9,3,不自見，故明；,"Bù zì jiàn, gù míng;","Does not \[bu\] self \[zi\] display/see \[jian\], therefore \[gu\] is bright/luminous \[ming\];","They do not show themselves off, and so they see clearly.",authored
@@ -309,14 +309,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 25,18,5,天法道，,"Tiān fǎ dào,","Heaven \[tian\] models/follows the law of \[fa\] the Tao \[dao\],","The sky models itself on the Tao,",authored
 25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,authored
 26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,authored
-26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness/silence \[jing\] functions as/is \[wei\] the master/ruler \[jun\] of the restless/agitated \[zao\].,Stillness is the ruler of the agitated.,authored
+26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness \[jing\] functions as/is \[wei\] the ruler \[jun\] of the restless \[zao\].,Stillness is the ruler of the restless.,authored
 26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the baggage wagons.",authored
 26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,"Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",How can the lord of ten thousand chariots,authored
 26,7,3,而以身輕天下？,Ér yǐ shēn qīng tiān xià?,And/yet \[er\] use \[yi\] their body/person \[shen\] lightly \[qing\] in the world \[tian xia\]?,make their own body light in the world?,authored
 26,8,4,輕則失本，,"Qīng zé shī běn,","Light/weightless \[qing\] then/thus \[ze\] loses \[shi\] the root/foundation \[ben\],",Lightness loses the root.,authored
-26,9,4,躁則失君。,Zào zé shī jūn.,Restless/agitated \[zao\] then/thus \[ze\] loses \[shi\] the master/ruler \[jun\].,Agitation loses the ruler.,authored
+26,9,4,躁則失君。,Zào zé shī jūn.,Restlessness \[zao\] then/thus \[ze\] loses \[shi\] the ruler \[jun\].,Restlessness loses the ruler.,authored
 27,1,1,善行無轍跡，,"Shàn xíng wú zhé jì,","Expert/masterful \[shan\] traveling/executing \[xing\] has no \[wu\] ruts/tracks \[zhe ji\],",Masterful traveling leaves no tracks.,authored
 27,2,1,善言無瑕謫，,"Shàn yán wú xiá zhé,","Expert/masterful \[shan\] speaking/words \[yan\] has no \[wu\] flaws/blemishes \[xia\] or blame \[zhe\],",Masterful speaking leaves no flaw.,authored
 27,3,1,善計不用籌策，,"Shàn jì bù yòng chóu cè,","Expert/masterful \[shan\] calculating/planning \[ji\] does not \[bu\] use \[yong\] counting rods/tallies \[chou ce\],",Masterful calculating uses no counting rods.,authored
@@ -331,8 +331,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 27,12,3,不善人之師；,bù shàn rén zhī shī;,is the un-masterful \[bu shan\] person's \[ren zhi\] teacher/master \[shi\];,So the masterful are the teachers of the unmasterful;,authored
 27,13,3,不善人者，,"Bù shàn rén zhě,","The un-masterful \[bu shan\] person \[ren\] those \[zhe\],",the unmasterful are the raw material of the masterful.,authored
 27,14,3,善人之資。,shàn rén zhī zī.,is the masterful \[shan\] person's \[ren zhi\] raw material/resource \[zi\].,the unmasterful are the raw material of the masterful.,authored
-27,15,4,不貴其師，,"Bù guì qí shī,","Not \[bu\] valuing/honoring \[gui\] their \[qi\] teacher/master \[shi\],","Not to value the teacher, not to love the raw material:",authored
-27,16,4,不愛其資，,"bù ài qí zī,","not \[bu\] loving/cherishing \[ai\] their \[qi\] raw material/resource \[zi\],","Not to value the teacher, not to love the raw material:",authored
+27,15,4,不貴其師，,"Bù guì qí shī,","Not \[bu\] valuing/honoring \[gui\] their \[qi\] teacher/master \[shi\],","Not to prize the teacher, not to love the raw material:",authored
+27,16,4,不愛其資，,"bù ài qí zī,","not \[bu\] loving/cherishing \[ai\] their \[qi\] raw material/resource \[zi\],","Not to prize the teacher, not to love the raw material:",authored
 27,17,4,雖智大迷，,"suī zhì dà mí,","Even if \[sui\] intelligent/clever \[zhi\] they are massively/greatly \[da\] confused/lost \[mi\],","however clever, one is greatly lost.",authored
 27,18,4,是謂要妙。,shì wèi yào miào.,this \[shi\] is called \[wei\] the crucial/essential \[yao\] subtle/fine \[miao\].,This is called the essential subtlety.,authored
 28,1,1,知其雄，守其雌，,"Zhī qí xióng, shǒu qí cí,","Knowing \[zhi\] the/its \[qi\] rooster \[xiong\], guarding/holding \[shou\] the/its \[qi\] hen \[ci\],","Know the rooster, hold to the hen,",exact-count
@@ -351,7 +351,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 28,14,4,聖人用之，則為官長，,"shèng rén yòng zhī, zé wéi guān zhǎng,","The Sage \[sheng ren\] uses \[yong\] them \[zhi\], then/thus \[ze\] functions as/becomes \[wei\] the chief administrator/executive \[guan zhang\],",The sage puts them to use and becomes chief of the officers.,exact-count
 28,15,4,故大制不割。,gù dà zhì bù gē.,therefore \[gu\] the Great \[da\] System/Administrator \[zhi\] does not \[bu\] cut/carve \[ge\].,So the great carving severs nothing.,exact-count
 29,1,1,將欲取天下而為之，,"Jiāng yù qǔ tiān xià ér wéi zhī,","About to/wishing to \[jiang yu\] take/seize \[qu\] the world \[tian xia\] and \[er\] act upon/force \[wei\] it \[zhi\],","Those who would take the world and handle it,",authored
-29,2,1,吾見其不得已。,wú jiàn qí bù dé yǐ.,I \[wu\] see \[jian\] it \[qi\] cannot be done/succeed \[bu de yi\].,I see they will not succeed.,authored
+29,2,1,吾見其不得已。,wú jiàn qí bù dé yǐ.,I \[wu\] see \[jian\] it \[qi\] cannot be done/succeed \[bu de yi\].,I see they will not get it.,authored
 29,3,1,天下神器，,"Tiān xià shén qì,","The world \[tian xia\] is a divine/sacred \[shen\] vessel/system \[qi\],",The world is a sacred vessel. It cannot be handled. It cannot be grasped.,authored
 29,4,1,不可為也，不可執也。,"bù kě wéi yě, bù kě zhí yě.","it cannot \[bu ke\] be forced/acted upon \[wei\] particle \[ye\], it cannot \[bu ke\] be grasped/held \[zhi\] particle \[ye\].",The world is a sacred vessel. It cannot be handled. It cannot be grasped.,authored
 29,5,1,為者敗之，執者失之。,"Wéi zhě bài zhī, zhí zhě shī zhī.","Those who force/act \[wei zhe\] ruin \[bai\] it \[zhi\], those who grasp/hold \[zhi zhe\] lose \[shi\] it \[zhi\].",Those who handle it ruin it. Those who grasp it lose it.,authored
@@ -437,9 +437,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's tools of advantage cannot be shown.,exact-count
 37,1,1,道常無為而無不為。,Dào cháng wú wéi ér wú bù wéi.,"Tao constantly takes no action, yet nothing is left undone.","The Tao is ever non-doing, yet nothing is left undone.",exact-count
 37,2,1,侯王若能守之，萬物將自化。,"Hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì huà.","Marquises and kings, if able to maintain this, the ten thousand things will autonomously transform","If rulers are able to hold to this, the countless things will transform of themselves.",exact-count
-37,3,2,化而欲作，吾將鎮之以無名之樸。,"Huà ér yù zuò, wú jiāng zhèn zhī yǐ wú míng zhī pǔ.","Transforming and desiring to act, I will stabilize them with the nameless uncarved wood","When the countless things urge action, I will stabilize them with the nameless uncarved wood.",exact-count
-37,4,2,無名之樸，夫亦將無欲。,"Wú míng zhī pǔ, fū yì jiāng wú yù.","The nameless uncarved wood, indeed also will be without desire.",The nameless uncarved wood is without desire.,exact-count
-37,5,3,不欲以靜，天下將自正。,"Bù yù yǐ jìng, tiān xià jiāng zì zhèng.","Not desiring so as to be still, all under heaven will autonomously align.","Relinquishing desire, being still, the world rights itself.",exact-count
+37,3,2,化而欲作，吾將鎮之以無名之樸。,"Huà ér yù zuò, wú jiāng zhèn zhī yǐ wú míng zhī pǔ.","Transforming and desiring to act, I will stabilize them with the nameless uncarved wood","Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.",exact-count
+37,4,2,無名之樸，夫亦將無欲。,"Wú míng zhī pǔ, fū yì jiāng wú yù.","The nameless uncarved wood, indeed also will be without desire.","With the nameless uncarved wood, they too will be desireless.",exact-count
+37,5,3,不欲以靜，天下將自正。,"Bù yù yǐ jìng, tiān xià jiāng zì zhèng.","Not desiring so as to be still, all under heaven will autonomously align.","Not desiring, and so still, the world will right itself.",exact-count
 38,1,1,上德不德，是以有德；,"Shàng dé bù dé, shì yǐ yǒu dé;","Highest virtue does not act virtuous, therefore it has virtue.","The highest integrity does not do integrity, and so it has integrity.",authored
 38,2,1,下德不失德，是以無德。,"Xià dé bù shī dé, shì yǐ wú dé.","Lowest virtue does not lose sight of virtue, therefore it lacks virtue.","The lowest integrity does not lose integrity, and so it has none.",authored
 38,3,1,上德無為而無以為；,Shàng dé wú wéi ér wú yǐ wéi;,Highest virtue takes no action and has no intentional motive.,"The highest integrity is non-doing, and has nothing it acts for.",authored
@@ -463,14 +463,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 39,1,1,昔之得一者：,Xī zhī dé yī zhě,"Of old (in the beginning), these are the things that obtained/connected to the One (一):",These received the one long ago:,exact-count
 39,2,1,天得一以清；,Tiān dé yī yǐ qīng,"Heaven obtained the One, and by it became clear/pure/transparent.","Sky received the one, and so became clear.",exact-count
 39,3,1,地得一以寧；,Dì dé yī yǐ níng,"Earth obtained the One, and by it became tranquil/solid/stable.","Earth received the one, and so became settled.",exact-count
-39,4,1,神得一以靈；,Shén dé yī yǐ líng,"The spirits (invisible forces) obtained the One, and by it became numinous/active/alive.","Spirit received the one, and so became numinous.",exact-count
+39,4,1,神得一以靈；,Shén dé yī yǐ líng,"The spirits (invisible forces) obtained the One, and by it became potent.","Spirit received the one, and so became potent.",exact-count
 39,5,1,谷得一以盈；,Gǔ dé yī yǐ yíng,"The valleys obtained the One, and by it became full/replenished.","The valley received the one, and so became full.",exact-count
 39,6,1,萬物得一以生；,Wàn wù dé yī yǐ shēng,"The ten thousand things obtained the One, and by it came to life/were born.","The countless things received the one, and so came to life.",exact-count
 39,7,1,侯王得一以為天下貞。,Hóu wáng dé yī yǐ wéi tiān xià zhēn,"Sovereigns and kings obtained the One, and by it became the true standard/anchor for the world.","Rulers received the one, and so serve as the world's standard.",exact-count
 39,8,2,其致之。,Qí zhì zhī,Pushing this to its logical conclusion:,Follow it through:,exact-count
 39,9,2,天無以清，將恐裂；,"Tiān wú yǐ qīng, jiāng kǒng liè","If heaven lacked clarity, it would shatter/tear.",Sky with no way to be clear is likely to split.,exact-count
 39,10,2,地無以寧，將恐發；,"Dì wú yǐ níng, jiāng kǒng fā","If earth lacked stability, it would quake/crumble.",Earth with no way to be settled is likely to burst.,exact-count
-39,11,2,神無以靈，將恐歇；,"Shén wú yǐ líng, jiāng kǒng xiē","If spirits lacked numinosity, they would dissipate/fade away.",Spirit with no way to be numinous is likely to cease.,exact-count
+39,11,2,神無以靈，將恐歇；,"Shén wú yǐ líng, jiāng kǒng xiē","If spirits had no way to be potent, they would cease.",Spirit with no way to be potent is likely to cease.,exact-count
 39,12,2,谷無以盈，將恐竭；,"Gǔ wú yǐ yíng, jiāng kǒng jié","If valleys lacked fullness, they would dry up/exhaust.",The valley with no way to be full is likely to run dry.,exact-count
 39,13,2,萬物無以生，將恐滅；,"Wàn wù wú yǐ shēng, jiāng kǒng miè","If the ten thousand things lacked life, they would go extinct.",The countless things with no way to live are likely to die out.,exact-count
 39,14,2,侯王無以貴高，將恐蹶。,"Hóu wáng wú yǐ guì gāo, jiāng kǒng jué","If sovereigns lacked nobility and height (from the root), they would topple/fall.",Rulers with no way to be prized and high are likely to topple.,exact-count
@@ -508,11 +508,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 43,1,1,天下之至柔，馳騁天下之至堅。,"Tiān xià zhī zhì róu, chí chěng tiān xià zhī zhì jiān.",The softest thing in the world dashes/gallops through the hardest thing in the world.,The softest thing in the world gallops over the hardest thing in the world.,exact-count
 43,2,1,無有入無間，,"Wú yǒu rù wú jiàn,","That which has no physical presence (wu you) enters where there is no space/gap (wu jian),",The formless enters the seamless.,exact-count
 43,3,1,吾是以知無為之有益。,Wú shì yǐ zhī wú wéi zhī yǒu yì.,Therefore I know the benefit/advantage of zero-friction execution (wu wei).,This is how I know the benefit of non-doing.,exact-count
-43,4,2,不言之教，無為之益，,"Bù yán zhī jiào, wú wéi zhī yì,","The teaching without words, the benefit of zero-friction execution,","The wordless teaching, the benefit of non-doing —",exact-count
+43,4,2,不言之教，無為之益，,"Bù yán zhī jiào, wú wéi zhī yì,","The unspoken teaching, the benefit of non-doing,","The unspoken teaching, the benefit of non-doing —",exact-count
 43,5,2,天下希及之。,Tiān xià xī jí zhī.,few in the world can reach/match it.,few ever reach this.,exact-count
 44,1,1,名與身孰親？,Míng yǔ shēn shú qīn?,"Fame/Name or the body/self, which is closer/dearer?",Your name or your body — which is dearer?,exact-count
 44,2,1,身與貨孰多？,Shēn yǔ huò shú duō?,"The body/self or wealth/goods, which is more/worth more?",Your body or goods — which is worth more?,exact-count
-44,3,1,得與亡孰病？,Dé yǔ wáng shú bìng?,"Gaining or losing, which is the disease/harm?",Gain or loss — which does more harm?,exact-count
+44,3,1,得與亡孰病？,Dé yǔ wáng shú bìng?,"Gaining or losing, which is the disease/harm?",Gain or loss — which sickens more?,exact-count
 44,4,2,是故甚愛必大費，,"Shì gù shèn ài bì dà fèi,","Therefore, extreme love/attachment must lead to great expenditure/waste,","Therefore, extreme attachment inevitably brings great cost",exact-count
 44,5,2,多藏必厚亡。,Duō cáng bì hòu wáng.,Heavy hoarding must lead to massive loss.,And hoarding inevitably brings heavy loss.,exact-count
 44,6,3,知足不辱，,"Zhī zú bù rǔ,","Knowing sufficiency/enough, one avoids disgrace,","Know when you have enough, and you are never disgraced.",exact-count
@@ -523,12 +523,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 45,3,2,大直若屈，,"Dà zhí ruò qū,","Great straightness seems bent/crooked,",Great straightness seems crooked.,exact-count
 45,4,2,大巧若拙，,"Dà qiǎo ruò zhuō,","Great skill seems clumsy/clunky,",Great skill seems clumsy.,exact-count
 45,5,2,大辯若訥。,Dà biàn ruò nè.,Great eloquence seems stuttering/awkward.,Great argument seems halting.,exact-count
-45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Agitation/Movement overcomes cold, stillness overcomes heat.",Movement overcomes cold; stillness overcomes heat.,exact-count
+45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Restlessness overcomes cold, stillness overcomes heat.",Restlessness overcomes cold; stillness overcomes heat.,exact-count
 45,7,3,清靜為天下正。,Qīng jìng wéi tiān xià zhèng.,Clarity and stillness function as the standard/ruler for the world.,Clear stillness brings order to the world.,exact-count
 46,1,1,天下有道，卻走馬以糞。,"Tiān xià yǒu dào, què zǒu mǎ yǐ fèn.","When the world has the Tao, swift horses are retired to fertilize fields with their dung.","When the world embraces the Tao, swift horses are retired to work the fields.",exact-count
 46,2,1,天下無道，戎馬生於郊。,"Tiān xià wú dào, róng mǎ shēng yú jiāo.","When the world lacks the Tao, war horses are bred in the suburbs/borders.","When the world lacks the Tao, war horses are bred in the borderlands.",exact-count
-46,3,2,禍莫大於不知足；,Huò mò dà yú bù zhī zú;,There is no disaster greater than not knowing sufficiency.,"There is no greater disaster than discontent,",exact-count
-46,4,2,咎莫大於欲得。,Jiù mò dà yú yù dé.,There is no fault/flaw greater than the desire to acquire.,No greater fault than craving to acquire.,exact-count
+46,3,2,禍莫大於不知足；,Huò mò dà yú bù zhī zú;,There is no disaster greater than not knowing sufficiency.,"There is no greater disaster than not knowing you have enough,",exact-count
+46,4,2,咎莫大於欲得。,Jiù mò dà yú yù dé.,There is no fault/flaw greater than the desire to acquire.,no greater fault than wanting to get.,exact-count
 46,5,2,故知足之足，常足矣。,"Gù zhī zú zhī zú, cháng zú yǐ.","Therefore, the sufficiency of knowing sufficiency is eternally sufficient.",And so the contentment of knowing you have enough is ever-present contentment.,exact-count
 47,1,1,不出戶，知天下；,"Bù chū hù, zhī tiān xià;","Without going out the door, one can know the world;","Without leaving home, you know the whole world.",authored
 47,2,1,不闚牖，見天道。,"Bù kuī yǒu, jiàn tiān dào.","Without looking through the window, one can see the Tao of heaven.","Without looking out the window, you see the way of nature.",authored
@@ -563,14 +563,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 50,12,2,夫何故？以其無死地。,Fú hé gù? Yǐ qí wú sǐ dì.,For what reason? Because in them there is no realm of death (no fatal vulnerability).,Why? Because they give death no foothold.,exact-count
 51,1,1,道生之，德畜之，,"Dào shēng zhī, dé xù zhī,","The Tao generates them, the Te/Virtue nourishes them,","The Tao gives birth to the countless things, integrity rears them,",authored
 51,2,1,物形之，勢成之。,"Wù xíng zhī, shì chéng zhī.","Matter/Physical entities give them form, momentum/circumstance completes/compiles them.","matter forms them, circumstance completes them.",authored
-51,3,1,是以萬物莫不尊道而貴德。,Shì yǐ wàn wù mò bù zūn dào ér guì dé.,Therefore the ten thousand things cannot but revere the Tao and value the Te.,"Therefore the countless things, without exception, revere the Tao and value integrity.",authored
-51,4,1,道之尊，德之貴，,"Dào zhī zūn, dé zhī guì,","The reverence for the Tao, the valuing of the Te,","This reverence for the Tao, this valuing of integrity — no one commands it.",authored
-51,5,1,夫莫之命而常自然。,Fú mò zhī mìng ér cháng zì rán.,"Is not commanded/ordered by anyone, but is eternally spontaneous/autonomous (zi ran).","This reverence for the Tao, this valuing of integrity — no one commands it. / It is always so, of itself.",authored
+51,3,1,是以萬物莫不尊道而貴德。,Shì yǐ wàn wù mò bù zūn dào ér guì dé.,Therefore the ten thousand things cannot but revere the Tao and value the Te.,"Therefore the countless things, without exception, honor the Tao and prize integrity.",authored
+51,4,1,道之尊，德之貴，,"Dào zhī zūn, dé zhī guì,","The reverence for the Tao, the valuing of the Te,","This honoring of the Tao, this prizing of integrity — no one commands it.",authored
+51,5,1,夫莫之命而常自然。,Fú mò zhī mìng ér cháng zì rán.,"Is not commanded/ordered by anyone, but is eternally spontaneous/autonomous (zi ran).","This honoring of the Tao, this prizing of integrity — no one commands it. / It is always so, of itself.",authored
 51,6,2,故道生之，德畜之；,"Gù dào shēng zhī, dé xù zhī;","Therefore the Tao generates them, the Te nourishes them;","Thus, the Tao births the countless things and integrity rears them,",authored
 51,7,2,長之育之；亭之毒之；養之覆之。,Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.,"Grows them, rears them; shapes them, matures them; sustains them, covers/protects them.","grows and raises them, settles and matures them, nourishes and protects them.",authored
 51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting yet relying on nothing, / growing them without ruling them —",authored
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,authored
-52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has an origin, which serves as the mother of the world.",authored
+52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has a beginning, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
 52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","Know her children, return and hold fast to our mother, / and to the end of your days, no danger will find you.",authored
 52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not strain.","Block the openings, close the doors, and to the end of your days you will not strain.",authored
@@ -607,8 +607,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 56,5,1,是謂玄同。,Shì wèi xuán tóng.,This is called Profound/Mysterious Identity (Xuan Tong).,This is called profound sameness.,authored
 56,6,2,故不可得而親，不可得而疏；,"Gù bù kě dé ér qīn, bù kě dé ér shū;","Therefore, one cannot get close to it/them, nor can one get distant from it/them;","You cannot draw them near nor hold them off,",authored
 56,7,2,不可得而利，不可得而害；,"Bù kě dé ér lì, bù kě dé ér hài;","One cannot benefit it/them, nor can one harm it/them;","neither benefit nor harm them,",authored
-56,8,2,不可得而貴，不可得而賤。,"Bù kě dé ér guì, bù kě dé ér jiàn.","One cannot value/ennoble it/them, nor can one debase it/them.",neither honor nor debase them.,authored
-56,9,2,故為天下貴。,Gù wéi tiān xià guì.,Therefore they become the most valued under heaven.,"And so, they become the most honored in the world.",authored
+56,8,2,不可得而貴，不可得而賤。,"Bù kě dé ér guì, bù kě dé ér jiàn.","One cannot value/ennoble it/them, nor can one debase it/them.",neither prize nor cheapen them.,authored
+56,9,2,故為天下貴。,Gù wéi tiān xià guì.,Therefore they become the most valued under heaven.,"And so, they become the most prized in the world.",authored
 57,1,1,以正治國，,"Yǐ zhèng zhì guó,","Use correctness/orthodox to govern the state,","Govern the state with uprightness,",exact-count
 57,2,1,以奇用兵，,"yǐ qí yòng bīng,","use surprise/unorthodox to deploy the military,","wage war with surprise,",exact-count
 57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win the world by not meddling.,exact-count
@@ -642,9 +642,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 59,7,1,有國之母，可以長久。,"Yǒu guó zhī mǔ, kě yǐ cháng jiǔ.","Possessing the mother of the state, one can endure long.","Have the mother of the state, and you can last long.",exact-count
 59,8,2,是謂深根固柢，長生久視之道。,"Shì wèi shēn gēn gù dǐ, cháng shēng jiǔ shì zhī dào.","This is called the Tao of deep roots and firm base, of long life and enduring vision.","This is called the Tao of deep roots, firm base, long life, and enduring vision.",exact-count
 60,1,1,治大國，若烹小鮮。,"Zhì dà guó, ruò pēng xiǎo xiān.",Governing a large state is like cooking a small fish.,Governing a large state is like cooking a small fish.,exact-count
-60,2,2,以道莅天下，其鬼不神；,"Yǐ dào lì tiān xià, qí guǐ bù shén;","Approaching the world with the Tao, its ghosts do not manifest their spirit/numinosity;","Oversee the world with the Tao, and the ghosts lose their potency,",exact-count
-60,3,2,非其鬼不神，其神不傷人；,"Fēi qí guǐ bù shén, qí shén bù shāng rén;","Not only do the ghosts not manifest their spirit, their spirit does not harm people;","not only do ghosts lose their potency, their potency causes no harm to people,",exact-count
-60,4,2,非其神不傷人，聖人亦不傷人。,"Fēi qí shén bù shāng rén, shèng rén yì bù shāng rén.","Not only does their spirit not harm people, the Sage also does not harm people.","not only does their potency do no harm, the sage, too, does no harm to people.",exact-count
+60,2,2,以道莅天下，其鬼不神；,"Yǐ dào lì tiān xià, qí guǐ bù shén;","Approaching the world with the Tao, its ghosts do not show their spirit;","Oversee the world with the Tao, and its ghosts do not show their spirit.",exact-count
+60,3,2,非其鬼不神，其神不傷人；,"Fēi qí guǐ bù shén, qí shén bù shāng rén;",It is not that its ghosts are not spirits; their spirit does not harm people;,It is not that its ghosts have no spirit; their spirit does no harm to people.,exact-count
+60,4,2,非其神不傷人，聖人亦不傷人。,"Fēi qí shén bù shāng rén, shèng rén yì bù shāng rén.","Not only does their spirit not harm people, the sage also does not harm people.","Not only does their spirit do no harm to people, the sage, too, does no harm to people.",exact-count
 60,5,3,夫兩不相傷，故德交歸焉。,"Fú liǎng bù xiāng shāng, gù dé jiāo guī yān.","Now then, since the two do not harm each other, their Virtue/Power converges and returns to them.","And since the two do no harm to each other, their integrity converges and returns.",exact-count
 61,1,1,大國者下流，,"Dà guó zhě xià liú,","A large state is the lower current, the downstream,","The large state is the downstream flow,",authored
 61,2,1,天下之交，天下之牝。,"tiān xià zhī jiāo, tiān xià zhī pìn.","the confluence of the world, the female of the world.","the confluence of the world, the female of the world.",authored
@@ -660,11 +660,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 62,3,2,美言可以市尊，美行可以加人。,"Měi yán kě yǐ shì zūn, měi xíng kě yǐ jiā rén.","Fine words can buy (shi — market, trade for) honor; fine conduct can raise a person above others. (The silks and both commentators split after 市 — see notes/manuscript.md.)",Fine words can buy honor. / Fine conduct can raise a person above others.,authored
 62,4,2,人之不善，何棄之有？,"Rén zhī bù shàn, hé qì zhī yǒu?","As for a person's being unmasterful — what abandoning (qi) of them is there? (he...zhi you: a fixed idiom, ""what X is there?"" = there is none.)","So when a person is unmasterful, why abandon them?",authored
 62,5,3,故立天子，置三公，,"Gù lì tiān zǐ, zhì sān gōng,","So when they raise up (li — to stand a thing upright) a child of the sky (tian zi) and install the three gong,","When they raise up a child of the sky and install the three ministers,",authored
-62,6,3,雖有拱璧以先駟馬，,"Suī yǒu gǒng bì yǐ xiān sì mǎ,","though there are jade discs too wide for one pair of arms, borne ahead of a team of four horses,","though jade discs go before teams of four horses,",authored
+62,6,3,雖有拱璧以先駟馬，,"Suī yǒu gǒng bì yǐ xiān sì mǎ,","though there are jade discs too wide for one pair of arms, borne ahead of a team of four horses,","though jade discs go ahead of teams of four horses,",authored
 62,7,3,不如坐進此道。,Bù rú zuò jìn cǐ dào.,it is not as good as sitting still and offering this Tao.,better to sit where you are and offer this Tao.,authored
-62,8,4,古之所以貴此道者何？,Gǔ zhī suǒ yǐ guì cǐ dào zhě hé?,What made the ancients honor this Tao?,What made the ancients honor this Tao?,authored
+62,8,4,古之所以貴此道者何？,Gǔ zhī suǒ yǐ guì cǐ dào zhě hé?,What made the ancients honor this Tao?,What made the ancients prize this Tao?,authored
 62,9,4,不曰：求以得，有罪以免邪？,"Bù yuē: qiú yǐ dé, yǒu zuì yǐ miǎn xié?","Did they not say: seek, and you find; have a crime (zui) against you, and you are spared?","Did they not say: seek, and you find; / commit a crime, and you are spared?",authored
-62,10,4,故為天下貴。,Gù wéi tiān xià guì.,And so it is the most honored in the world.,And so it is the most honored in the world.,authored
+62,10,4,故為天下貴。,Gù wéi tiān xià guì.,And so it is the most honored in the world.,And so it becomes the most prized in the world.,authored
 63,1,1,為無為，事無事，味無味。,"Wéi wú wéi, shì wú shì, wèi wú wèi.","Do the not-doing, serve the not-serving, taste the flavorless. (Each beat is one character twice, with wu — no — between.)","Do the not-doing, / serve the not-serving, / taste the flavorless.",authored
 63,2,1,大小多少，報怨以德。,"Dà xiǎo duō shǎo, bào yuàn yǐ dé.","Great, small, many, few; repay resentment with integrity (de).","Great or small, many or few, / repay resentment with integrity.",authored
 63,3,2,圖難於其易，為大於其細。,"Tú nán yú qí yì, wéi dà yú qí xì.",Map out the difficult while it is easy; do the great while it is slight (xi — thread-fine).,Map out the difficult while it is easy. / Do the great while it is slight.,authored
@@ -695,8 +695,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 65,7,3,玄德深矣，遠矣，與物反矣，然後乃至大順。,"Xuán dé shēn yǐ, yuǎn yǐ, yǔ wù fǎn yǐ, rán hòu nǎi zhì dà shùn.","Profound Virtue is deep, is far-reaching, it reverts/returns with physical entities (wu), and only then reaches the Great Harmony/Smoothness.","Profound integrity is deep, and far, / and turns back together with things, / and only then runs with the great current.",authored
 66,1,1,江海所以能為百谷王者，,"Jiāng hǎi suǒ yǐ néng wéi bǎi gǔ wáng zhě,","The reason rivers and seas can function as the kings of the hundred valleys,",Rivers and seas can rule the hundred valleys,authored
 66,2,1,以其善下之，故能為百谷王。,"Yǐ qí shàn xià zhī, gù néng wéi bǎi gǔ wáng.","Is because they are masterful at positioning themselves lower than them, thus they can function as the kings of the hundred valleys.",because they are masterful at staying below them. / That is how they come to rule the hundred valleys.,authored
-66,3,2,是以欲上民，必以言下之；,"Shì yǐ yù shàng mín, bì yǐ yán xià zhī;","Therefore, wishing to be above the people, one must by words position oneself below them;","So to rise above the people, you must speak from below them.",authored
-66,4,2,欲先民，必以身後之。,"Yù xiān mín, bì yǐ shēn hòu zhī.","Wishing to be ahead of the people, one must put one's person/body behind them.","To walk ahead of the people, you must put your body behind them.",authored
+66,3,2,是以欲上民，必以言下之；,"Shì yǐ yù shàng mín, bì yǐ yán xià zhī;","Therefore, wishing to be above the people, one must by words position oneself below them;","So if you want to rise above the people, you must speak from below them.",authored
+66,4,2,欲先民，必以身後之。,"Yù xiān mín, bì yǐ shēn hòu zhī.","Wishing to be ahead of the people, one must put one's person/body behind them.","If you want to go ahead of the people, you must put your body behind them.",authored
 66,5,3,是以聖人處上而民不重，,"Shì yǐ shèng rén chǔ shàng ér mín bù zhòng,",Therefore the Sage dwells above and the people do not feel heavy/burdened;,"The sage stands above, and the people are not weighed down,",authored
 66,6,3,處前而民不害。,Chǔ qián ér mín bù hài.,Dwells in front and the people do not feel harmed/obstructed.,"stands in front, and the people are not harmed.",authored
 66,7,4,是以天下樂推而不厭。,Shì yǐ tiān xià lè tuī ér bù yàn.,Therefore the world gladly pushes them forward and does not tire of them.,So the world gladly pushes them forward and never tires of them.,authored
@@ -709,7 +709,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 67,6,3,慈故能勇；,Cí gù néng yǒng;,"Compassion, thus able to be brave;","Tenderness, and so you can be brave.",authored
 67,7,3,儉故能廣；,Jiǎn gù néng guǎng;,"Frugality, thus able to be broad/expansive;","Frugality, and so you can be broad.",authored
 67,8,3,不敢為天下先，故能成器長。,"Bù gǎn wéi tiān xià xiān, gù néng chéng qì zhǎng.","Not daring to be first in the world, thus able to compile/complete as the chief of tools/vessels.","Never pushing to be first in the world, and so you can become chief of the vessels.",authored
-67,9,4,今捨慈且勇，捨儉且廣，捨後且先，死矣！,"Jīn shě cí qiě yǒng, shě jiǎn qiě guǎng, shě hòu qiě xiān, sǐ yǐ\!","Now to abandon compassion and just be brave, to abandon frugality and just be expansive, to abandon the rear and just be first, is death\!","Now: to abandon tenderness and grab at courage, / to abandon frugality and grab at breadth, / to abandon the rear and grab at the front. / That is death.",authored
+67,9,4,今捨慈且勇，捨儉且廣，捨後且先，死矣！,"Jīn shě cí qiě yǒng, shě jiǎn qiě guǎng, shě hòu qiě xiān, sǐ yǐ\!","Now to abandon compassion and just be brave, to abandon frugality and just be expansive, to abandon the rear and just be first, is death\!","Now, to abandon tenderness and grab at courage, / to abandon frugality and grab at breadth, / to abandon being last and grab at being first, / that is death.",authored
 67,10,4,夫慈，以戰則勝，以守則固。,"Fú cí, yǐ zhàn zé shèng, yǐ shǒu zé gù.","Now compassion, used in battle it wins, used in defense it is solid/firm.","Tenderness. Fight with it and you win, guard with it and you stand firm.",authored
 67,11,4,天將救之，以慈衛之。,"Tiān jiāng jiù zhī, yǐ cí wèi zhī.","Heaven will save/rescue them, using compassion to guard them.","When nature would rescue someone, it shields them with tenderness.",authored
 68,1,1,善為士者，不武；,"Shàn wéi shì zhě, bù wǔ;",A masterful warrior/scholar is not martial/violent;,Those masterful in service are not martial.,exact-count
@@ -733,7 +733,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 70,2,1,天下莫能知，莫能行。,"Tiān xià mò néng zhī, mò néng xíng.","No one in the world can understand them, no one can execute them.","In all the world, no one can know them. / No one can follow them.",authored
 70,3,2,言有宗，事有君。,"Yán yǒu zōng, shì yǒu jūn.","Words have an ancestor/root, affairs have a sovereign/master.",Words have an ancestor. / Affairs have a ruler.,authored
 70,4,2,夫唯無知，是以不我知。,"Fú wéi wú zhī, shì yǐ bù wǒ zhī.","Precisely because they lack understanding, therefore they do not understand me.",Only because there is no knowing it / do they not know me.,authored
-70,5,3,知我者希，則我者貴。,"Zhī wǒ zhě xī, zé wǒ zhě guì.","Those who understand me are rare, those who follow/model me are valued.",Those who know me are few. / Those who pattern themselves on me are precious.,authored
+70,5,3,知我者希，則我者貴。,"Zhī wǒ zhě xī, zé wǒ zhě guì.","Those who understand me are rare, those who follow/model me are valued.",Those who know me are few. / Those who pattern themselves on me are prized.,authored
 70,6,3,是以聖人被褐而懷玉。,Shì yǐ shèng rén pī hè ér huái yù.,Therefore the Sage wears coarse clothes but carries jade in their bosom.,"Therefore, the sage wears coarse cloth, but carries jade against their chest.",authored
 71,1,0,知不知，上；,"Zhī bù zhī, shàng;","Knowing that one does not know, is superior/highest;",To know you do not know is highest.,exact-count
 71,2,0,不知知，病。,"Bù zhī zhī, bìng.","Not knowing yet thinking one knows, is a disease/flaw.",To not know yet claim to know is sickness.,exact-count
@@ -743,7 +743,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 72,2,1,無狎其所居，無厭其所生。,"Wú xiá qí suǒ jū, wú yàn qí suǒ shēng.","Do not crowd/harass their place of residence, do not oppress/weary their livelihood.",Do not crowd people in their homes. / Do not oppress their livelihoods.,authored
 72,3,1,夫唯不厭，是以不厭。,"Fú wéi bù yàn, shì yǐ bù yàn.","Precisely because one does not oppress them, therefore they do not find it oppressive.",Only because you do not oppress them do they not tire of you.,authored
 72,4,2,是以聖人自知，不自見；,"Shì yǐ shèng rén zì zhī, bù zì jiàn;","Therefore the Sage knows self, but does not display self;","And so the sage knows themselves and does not display themselves,",authored
-72,5,2,自愛，不自貴。,"Zì ài, bù zì guì.","Loves self, but does not esteem/exalt self.",loves themselves and does not hold themselves precious.,authored
+72,5,2,自愛，不自貴。,"Zì ài, bù zì guì.","Loves self, but does not esteem/exalt self.",loves themselves and does not prize themselves.,authored
 72,6,2,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore discard that and choose this.,They let go of what is out there and take what is here.,authored
 73,1,1,勇於敢則殺，,"Yǒng yú gǎn zé shā,","Brave in daring, then (one) gets killed;",Bravery in pushing gets you killed.,authored
 73,2,1,勇於不敢則活。,Yǒng yú bù gǎn zé huó.,"Brave in not daring, then (one) lives.",Bravery in not pushing keeps you alive.,authored
@@ -754,7 +754,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 73,7,2,不言而善應，,"Bù yán ér shàn yìng,","Does not speak yet masterfully responds,","It does not speak, yet is masterful at answering.",authored
 73,8,2,不召而自來，,"Bù zhào ér zì lái,","Does not summon yet it comes by itself,","It does not summon, yet things come of themselves.",authored
 73,9,2,繟然而善謀。,Chǎn rán ér shàn móu.,It is loose/spacious yet masterfully plans.,"It is unhurried, yet masterful at planning.",authored
-73,10,3,天網恢恢，疏而不失。,"Tiān wǎng huī huī, shū ér bù shī.","Heaven's net is vast/broad, wide-meshed yet nothing escapes.","Nature's net is vast. / Its mesh is wide, and nothing slips through.",authored
+73,10,3,天網恢恢，疏而不失。,"Tiān wǎng huī huī, shū ér bù shī.","Heaven's net is vast/broad, wide-meshed yet nothing escapes.","Nature's net is vast. / Its mesh is wide, yet it loses nothing.",authored
 74,1,1,民不畏死，奈何以死懼之？,"Mín bù wèi sǐ, nài hé yǐ sǐ jù zhī?","When the people do not fear death, why use death to threaten them?","When the people do not fear death, / why try to frighten them with death?",authored
 74,2,1,若使民常畏死，而為奇者，吾得執而殺之，孰敢？,"Ruò shǐ mín cháng wèi sǐ, ér wéi qí zhě, wú dé zhí ér shā zhī, shú gǎn?","If you make the people constantly fear death, and those who perform odd/illegal acts, I can seize and kill them—who would dare?","Suppose the people always feared death, / and I could seize whoever steps out of line and kill them. / Who would still push?",authored
 74,3,2,常有司殺者殺。,Cháng yǒu sī shā zhě shā.,There is always a Master of Killing who kills.,There is always one who does the killing.,authored
@@ -763,7 +763,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 75,1,1,民之飢，以其上食稅之多，是以飢。,"Mín zhī jī, yǐ qí shàng shí shuì zhī duō, shì yǐ jī.","The hunger of the people, because their superiors consume taxes in such quantity, therefore they are hungry.",The people go hungry / because those over them eat up so much in taxes.,authored
 75,2,2,民之難治，以其上之有為，是以難治。,"Mín zhī nán zhì, yǐ qí shàng zhī yǒu wéi, shì yǐ nán zhì.","The people are difficult to govern, because their superiors have ""doing"" (interference), therefore they are difficult to govern.",The people are hard to govern / because those over them will not stop doing.,authored
 75,3,2,民之輕死，以其上求生之厚，是以輕死。,"Mín zhī qīng sǐ, yǐ qí shàng qiú shēng zhī hòu, shì yǐ qīng sǐ.","The people treat death lightly, because their superiors seek ""life"" (luxury) with such thickness/profuseness, therefore they treat death lightly.",The people make light of death / because those over them want their own lives so rich.,authored
-75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Only those who don't use living for doing / are worthier than those who hold life precious.,authored
+75,4,2,夫唯無以生為者，是賢於貴生。,"Fú wéi wú yǐ shēng wéi zhě, shì xián yú guì shēng.","Only those who do not use ""living"" as a ""doing,"" are worthier than those who value/prize life.",Only those who don't use living for doing / are worthier than those who prize life.,authored
 76,1,1,人之生也柔弱，其死也堅強。,"Rén zhī shēng yě róu ruò, qí sǐ yě jiān qiáng.",Human life is supple/soft and yielding; at death it is rigid and hard/strong.,"In life a person is soft and yielding. / In death, hard and strong.",authored
 76,2,1,萬物草木之生也柔脆，其死也枯槁。,"Wàn wù cǎo mù zhī shēng yě róu cuì, qí sǐ yě kū gǎo.",The ten thousand things—grass and trees—are in life supple and fragile; at death they are withered and dried.,"In life the countless things, the grasses and trees, are soft and fragile. / In death, withered and dry.",authored
 76,3,2,故堅強者死之徒，,"Gù jiān qiáng zhě sǐ zhī tú,","Therefore the rigid and hard/strong are the disciples/company of death,",So the hard and strong are followers of death.,authored
@@ -776,7 +776,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 77,4,2,天之道，損有餘而補不足。,"Tiān zhī dào, sǔn yǒu yú ér bǔ bù zú.",The Tao of Heaven: diminishes those who have excess and supplements those who are insufficient.,The way of nature / takes from where there is too much / and mends where there is too little.,authored
 77,5,2,人之道，則不然，損不足以奉有餘。,"Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",The Tao of humanity is not like this: it diminishes those who are insufficient to serve those who have excess.,The way of people is not like this. / It takes from those who have too little / and offers it up to those who have too much.,authored
 77,6,3,孰能有餘以奉天下？唯有道者。,Shú néng yǒu yú yǐ fèng tiān xià? Wéi yǒu dào zhě.,Who can have excess to serve the world? Only the one who has the Tao.,"Who has more than enough, / and offers it up to the world? / Only those who are with the Tao.",authored
-77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts yet relies on nothing. / The work is done, and they do not stay in it. / They have no wish to appear exceptional.",authored
+77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts yet relies on nothing. / The work is done, and they do not stay in it. / They do not want to appear exceptional.",authored
 78,1,1,天下莫柔弱於水，,"Tiān xià mò róu ruò yú shuǐ,","In the world, nothing is more supple and yielding than water,","In all the world nothing is softer and more yielding than water,",authored
 78,2,1,而攻堅強者莫之能勝，以其無以易之。,"Ér gōng jiān qiáng zhě mò zhī néng shèng, yǐ qí wú yǐ yì zhī.","Yet in attacking the hard and strong, nothing can surpass it, because nothing can replace it.","yet at attacking the hard and the strong nothing overcomes it, / for nothing can take its place.",authored
 78,3,2,弱之勝強，柔之勝剛，天下莫不知，莫能行。,"Ruò zhī shèng qiáng, róu zhī shèng gāng, tiān xià mò bù zhī, mò néng xíng.","That the yielding conquers the strong, the supple conquers the hard/rigid—the world knows this, but no one can practice it.","The yielding overcomes the strong. / The soft overcomes the unbending. / No one in the world fails to know this, / yet no one can follow it.",authored

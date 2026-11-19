@@ -84,7 +84,7 @@ Four characters sit close enough to this one to cause real trouble, and two of t
 
 | | sound | is | not to be confused with 身 because |
 |---|---|---|---|
-| **神** | *shén*, rising | spirit, numinous potency (6, 29, 39, 60) | **one tone apart from 身, and its opposite number.** 神 is what is nourished *in* the 身 |
+| **神** | *shén*, rising | spirit (6, 39, 60), sacred (29) | **one tone apart from 身, and its opposite number.** 神 is what is nourished *in* the 身 |
 | **精** | *jīng*, level | vital essence (21, 55) | its entry already forbids *spirit* for the same collision — `jing-精.md` |
 | **私** | *sī*, level | private interest, grain withheld for oneself (7, 19) | **stands with 身 in chapter 7**, and the two are the chapter's argument |
 | **我 / 吾** | *wǒ / wú* | I, me — the self seen and the self seeing | *self* is theirs — `wo-wu-我吾.md`, which names 吾/身 as its cousin-pair |

@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**77 entries.** Sorted by how much of the book each term touches.
+**85 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -17,19 +17,24 @@ python3 tools/build_index.py
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
+| **得 & 失** | *dé / shī* | get / lose · *received* (ch 22, 39) · *receive* (ch 22) · *unavoidable* (ch 30, 31) · *gain* (ch 44) · *touch* (ch 14) · *find* (ch 62) | "attain", "obtain", "forfeit", "acquire" | 23 | **locked** | [`de-shi-得失.md`](de-shi-得失.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 19 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
 | **生** | *shēng* | give birth to / bear / bring forth | "generate", "produce", "manufacture", "create" | 19 | **locked** | [`sheng-生.md`](sheng-生.md) |
 | **善** | *shàn* | masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category) | "virtuous", "righteous", "saintly", "benevolent" | 18 | **locked** | [`shan-善.md`](shan-善.md) |
+| **言** | *yán* | words, speech (a noun) / speak (a verb) · *saying* (ch 41, 69) · *say* (ch 31) | "utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word", "wordless", "without words" | 18 | **locked** | [`yan-言.md`](yan-言.md) |
 | **行** | *xíng* | go / carry out / conduct · *follow* (ch 70, 78) · *ranks* (ch 69) | "action", "execute" | 17 | open — not yet a lock | [`xing-行.md`](xing-行.md) |
 | **德** | *dé* | integrity | "virtue", "moral excellence", "power" | 16 | **locked** | [`de-德.md`](de-德.md) |
 | **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 16 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **唯** | *wéi* | only · *yes* (ch 20) | "precisely" | 15 | **locked** | [`wei-唯.md`](wei-唯.md) |
+| **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving", "wish" | 15 | **locked** | [`yu-欲.md`](yu-欲.md) |
+| **貴 & 賤** | *guì / jiàn* | prize (verb), prized (a state) / cheap, cheapen · *status* (ch 9) | "humble", "lowly", "esteem", "value", "revere", "debase", "precious" | 15 | **locked** | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
+| **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
 | **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
@@ -48,12 +53,14 @@ python3 tools/build_index.py
 | **柔** | *róu* | soft | "supple", "pliant", "pliable", "flexible", "gentle", "tender" | 7 | **locked** | [`rou-柔.md`](rou-柔.md) |
 | **爭** | *zhēng* | contend / contention | "compete", "competes", "competing", "competition" | 7 | **locked** | [`zheng-爭.md`](zheng-爭.md) |
 | **谷** | *gǔ* | valley | "reservoir", "basin", "hollow", "the void", "emptiness", "nourish" | 7 | **locked** · binds taoteching only | [`gu-谷.md`](gu-谷.md) |
+| **靜** | *jìng* | still, stillness (a state) / still (a verb, to make still) | "tranquil", "serene", "serenity", "meditat", "quietude", "passive", "inert", "agitat" | 7 | **locked** | [`jing-靜.md`](jing-靜.md) |
+| **希** | *xī* | few (of a count) / barely heard (of a sound) · *inaudible* (ch 14) · *brevity* (ch 23) | "rare", "scarce", "seldom", "whisper" | 6 | **locked** | [`xi-希.md`](xi-希.md) |
 | **弱** | *ruò* | yielding — and the verb *yield* where it makes something so | "weak", "weaken", "weakness", "frail", "feeble", "feebleness", "powerless" | 6 | **locked** | [`ruo-弱.md`](ruo-弱.md) |
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent", "guile" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
-| **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
+| **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "dependency" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
 | **極** | *jí* | the far end — where a thing runs out · *the endless* (ch 28) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
 | **母** | *mǔ* | mother | "the Source", "the Origin", "the Ground of Being" | 5 | **locked** | [`mu-母.md`](mu-母.md) |
@@ -62,6 +69,7 @@ python3 tools/build_index.py
 | **貨** | *huò* | goods | "treasure", "precious", "scarce", "riches" | 5 | **locked** | [`huo-貨.md`](huo-貨.md) |
 | **亂** | *luàn* | disorder | "chaos", "chaotic" | 4 | **locked** | [`luan-亂.md`](luan-亂.md) |
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
+| **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
@@ -74,7 +82,7 @@ python3 tools/build_index.py
 | **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
 | **百姓** | *bǎi xìng* | everyone | "the people", "the hundred families", "the hundred surnames", "the masses", "the common people" | 3 | **locked** | [`baixing-百姓.md`](baixing-百姓.md) |
-| **知足** | *zhī zú* | knowing you have enough / contentment · *discontent* (ch 46) | "sufficiency", "fulfilled", "satisfaction" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
+| **知足** | *zhī zú* | knowing you have enough / contentment | "sufficiency", "fulfilled", "satisfaction", "discontent" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
 | **廣** | *guǎng* | broad · breadth (as a noun) | "boundless", "limitless", "vast", "expansive", "reach far" | 2 | **locked** | [`guang-廣.md`](guang-廣.md) |
@@ -97,11 +105,14 @@ python3 tools/build_index.py
 |---|---|---|
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
+| **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |
 | **剛** | unbending | [`rou-柔.md`](rou-柔.md) — 柔 |
 | **力** | force | [`qiang-強.md`](qiang-強.md) — 強 |
 | **天** | nature (as ordering principle) | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
 | **天下** | the world | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
+| **始** | beginning | [`mu-母.md`](mu-母.md) — 母 |
 | **孝** | devotion | [`ci-慈.md`](ci-慈.md) — 慈 |
+| **尊** | honor | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) — 貴 & 賤 |
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
@@ -113,11 +124,14 @@ python3 tools/build_index.py
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
+| **義** | duty | [`ren-仁.md`](ren-仁.md) — 仁 |
 | **能** | be able | [`ke-可.md`](ke-可.md) — 可 |
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **谿** | ravine | [`gu-谷.md`](gu-谷.md) — 谷 |
+| **躁** | restless, restlessness | [`jing-靜.md`](jing-靜.md) — 靜 |
 | **雄** | the rooster | [`ci-雌.md`](ci-雌.md) — 雌 |
+| **鬼** | ghost | [`shen-ling-神靈.md`](shen-ling-神靈.md) — 神 & 靈 |
 
 ## Still open
 

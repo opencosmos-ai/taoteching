@@ -27,13 +27,13 @@ The graph holds two things: **a person at odds, and the disaster that follows.**
 ### Two lines, both self-inflicted
 
 - **Ch 9** — 富貴而驕，自遺其咎 (*fù guì ér jiāo, zì yí qí jiù* — "wealthy, high and arrogant, one leaves oneself one's own 咎") → *Grow arrogant with wealth and status, and you leave yourself the fault.*
-- **Ch 46** — 咎莫大於欲得 (*jiù mò dà yú yù dé* — "no 咎 greater than wanting to get") → *No greater fault than craving to acquire.*
+- **Ch 46** — 咎莫大於欲得 (*jiù mò dà yú yù dé* — "no 咎 greater than wanting to get") → *no greater fault than wanting to get.*
 
 **自遺 (*zì yí* — to leave to oneself) is the character's grammar.** Nobody hands you 咎. The arrogant leave it to themselves at ch 9, and at ch 46 it is the craving's own. 河上公 (*Héshàng Gōng*) on ch 9 names what is left: 而反驕恣，必被禍患也 — *"if instead they are arrogant and unrestrained, they will surely suffer disaster and trouble."* 王弼 (*Wáng Bì*) gives it a time limit: 不可長保也 — *"it cannot be kept long."*
 
 ### What is set aside
 
-**"disaster"** is 說文's own word, and the book will not let 咎 have it. Ch 46 sets two characters in a parallel couplet, 禍莫大於不知足 / 咎莫大於欲得 (*"no greater disaster than discontent / no greater fault than craving to acquire"*), and the couplet only reads if the two differ. 禍 (*huò*) takes *disaster*.
+**"disaster"** is 說文's own word, and the book will not let 咎 have it. Ch 46 sets two characters in a parallel couplet, 禍莫大於不知足 / 咎莫大於欲得 (*"no greater disaster than not knowing you have enough / no greater fault than wanting to get"*), and the couplet only reads if the two differ. 禍 (*huò*) takes *disaster*.
 
 **"calamity"** belongs to 殃 (*yāng*), at ch 52's 無遺身殃 (*"leave no calamity for the body"*). 說文 makes the two near-twins, defining 殃 as 咎也. The same verb, 遺 (*yí* — to leave behind), stands in both lines: at ch 9 you leave yourself 咎, at ch 52 you leave the body no 殃. The English keeps the verb the same and the nouns apart.
 

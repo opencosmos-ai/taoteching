@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 126
+# next-fork-id: 127
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -119,6 +119,28 @@
     losing. We keep the base text on the parallel, which is the harder thing to
     break than to keep.
   logged: notes/manuscript.md
+
+- chapter: 17
+  id: 126
+  line: "悠兮其貴言"
+  base: "悠"
+  base_pinyin: "yōu"
+  base_english: "anxious care"
+  readings:
+    - { source: "heshanggong", text: "猶", pinyin: "yóu", english: "hesitant" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    The Siku Wang Bi carries its own collation note, 〔案悠河上公注本及各本俱作猶〕,
+    "the Heshang Gong commentary edition and all editions read 猶", so our base
+    is a singleton here, as at ch 23's 故. The collated Mawangdui text on
+    Wikisource also reads 猶 (猶呵); which silk prints it is not yet checked
+    (WORKLIST T2-80). We print the base and the English follows every other
+    witness, "Hesitant, they prize their words" (Shalom's call, 2026-11-19),
+    which the base also supports: the Shuowen defines 悠 as 憂也, anxious care.
+    The echo is ch 15's 猶兮若畏四鄰, "Hesitant, like someone wary of the
+    neighbors."
+  logged: chapters/017.md
 
 - chapter: 23
   id: 6
@@ -1983,7 +2005,7 @@
   note: >
     The oldest witness reads 聖人亦不傷民 where our base reads 傷人 — and the
     first half of the couplet has 人 in both. So 韓非's text distinguishes the
-    two clauses: the numinous does not harm PEOPLE, the sage does not harm THE
+    two clauses: the spirit does not harm PEOPLE, the sage does not harm THE
     PEOPLE as governed. We keep the base (decided with the 民 lock,
     2026-10-14): both transmitted commentators read 人 twice, and 王弼 builds
     the next line, 兩不相傷, on the couplet's symmetry, which needs the same

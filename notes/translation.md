@@ -180,7 +180,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **弱其志 → "ambition," not "striving."** *(⚠ The 弱 half was superseded on 2026-11-02; see the next note.)* 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* The glossary skill's own example reads the line *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
 
-**弱其志 → "teaching their ambition to yield."** *(Shalom's call, 2026-11-02.)* *(was: "weakening their ambition.")* *Weaken* rested on "a stance word cannot take an object," which is true of the English adjective and says nothing about the Chinese: 弱 (*ruò* — yielding) is made causative here, as 虛 (*xū* — empty), 實 (*shí* — full) and 強 (*qiáng* — strong) are, and they all keep their roots. Heshang Gong on this phrase: 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"). *Teaching* comes from his ch 42, 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding"), and from ch 2's teaching without words. **The cost:** *teaching* is not in the line. Full case in `glossary/ruo-弱.md`.
+**弱其志 → "teaching their ambition to yield."** *(Shalom's call, 2026-11-02.)* *(was: "weakening their ambition.")* *Weaken* rested on "a stance word cannot take an object," which is true of the English adjective and says nothing about the Chinese: 弱 (*ruò* — yielding) is made causative here, as 虛 (*xū* — empty), 實 (*shí* — full) and 強 (*qiáng* — strong) are, and they all keep their roots. Heshang Gong on this phrase: 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"). *Teaching* comes from his ch 42, 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding"), and from ch 2's unspoken teaching. **The cost:** *teaching* is not in the line. Full case in `glossary/ruo-弱.md`.
 
 **敢 applied; it had been dropped outright.** 不敢為 → **"never push to act,"** joining ch 30, 64, 67, 69, 73 and 74.
 
@@ -396,7 +396,7 @@ Four verbatim lines — 挫其銳，解其紛，和其光，同其塵 (*cuò qí
 
 **The Chinese triad is deliberately lopsided and our English had flattened it.** Ch 3's three objects are 賢 (*xián* — the talented, 1 character), 難得之貨 (4), 可欲 (*kě yù* — what can be desired, 2). *"The exceptional / the precious / the desirable"* imposed a neat symmetry by shrinking the longest object to two words. The middle line is now the heaviest again, as it is in the Chinese.
 
-**Left open in the entry, and it is real:** ch 70's couplet 知我者希，則我者貴 (*"those who know me are few; those who pattern themselves on me are precious"*) has 河上公 (*Héshàng Gōng*) deriving value **from** scarcity — 希，少也…故為貴也 — which is the very inference ch 3 and ch 64 tell a ruler to break. Same commentator, opposite direction. The book does not say where the line falls.
+**Left open in the entry, and it is real:** ch 70's couplet 知我者希，則我者貴 (*"those who know me are few; those who pattern themselves on me are prized"*) has 河上公 (*Héshàng Gōng*) deriving value **from** scarcity — 希，少也…故為貴也 — which is the very inference ch 3 and ch 64 tell a ruler to break. Same commentator, opposite direction. The book does not say where the line falls.
 
 ### Ch 12, 38, 72 · 故去彼取此 → "They let go of what is out there and take what is here."
 
@@ -1552,7 +1552,7 @@ So 敢 in this chapter is not chasing a quarry. It is **pressing forward to act 
 
 **天網恢恢，疏而不失 must not become surveillance.** 河上公 reads it morally — 司察人善惡，無有所失, *"it watches over human good and evil, and nothing is lost"* — and that reading is the seed of every later use of 天網恢恢 as a slogan about divine justice catching criminals.
 
-**We decline it.** There is no watcher in the Chinese, only a net; 失 (*shī*) is *to lose*, not *to convict*. Rendered **"Nature's net is vast. Its mesh is wide, and nothing slips through."** That is a statement about how consequence works — loosely, at a distance, without haste, and completely — not about anyone keeping a ledger. The naturalistic razor applies here as much as to 天 itself, and the moral reading is exactly the overlay this edition strips.
+**We decline it.** There is no watcher in the Chinese, only a net; 失 (*shī*) is *to lose*, not *to convict*. Rendered **"Nature's net is vast. Its mesh is wide, and nothing slips through."** *(Superseded 2026-11-19: "yet it loses nothing.")* That is a statement about how consequence works — loosely, at a distance, without haste, and completely — not about anyone keeping a ledger. The naturalistic razor applies here as much as to 天 itself, and the moral reading is exactly the overlay this edition strips.
 
 **天之所惡 stays agentive, and is flagged.** *What nature hates* has nature doing something, as 天將救之 does at Ch 67. Both commentators read it that way and neither softens it. Kept, and named here rather than dissolved — the same strain case, now in a second chapter.
 
@@ -1875,6 +1875,8 @@ A pass through the last line rendered both as *wear*: *"wears coarse cloth, but 
 
 ### Ch 72 · "loves themselves and does not hold themselves precious"
 
+*(Superseded 2026-11-19: "does not prize themselves"; see the entry above, Ch 72, 75.)*
+
 自愛，不自貴 turns on a distinction English usually blurs. 貴 (*guì*) sits on 貝, a **cowrie shell** — it means *costly* before it means *honoured*, and ch 70 already renders it *precious*. **You can love a thing without pricing it.** That is the line, and it is the answer to the chapter's first half: a ruler who has set their own price high has to keep collecting on it, which is what the crowding is.
 
 *Not "exalt" — ch 3 already spends that word on 尚 (尚賢, "exalting the exceptional"). 河上公 splits the pair cleanly: 自愛其身以保精氣也 (bodily — preserving vital essence and energy) against 不自貴高榮名於世 (social — glory and fame).*
@@ -1949,7 +1951,7 @@ Ch 75 closes each of its three charges by repeating the word it opened on: 民�
 
 ### Ch 75 · 賢 against 貴 — merit against standing, and why "noble" cannot be used
 
-是賢於貴生 (*shì xián yú guì shēng*) → **"are worthier than those who hold life precious."**
+是賢於貴生 (*shì xián yú guì shēng*) → **"are worthier than those who hold life precious."** *(Superseded 2026-11-19: "those who prize life.")*
 
 **The line judges a person.** 無以生為者 carries 者 (*zhě* — the one who), and 河上公 glosses the whole payoff as a person's condition: 天子不得臣，諸侯不得使 — *"the Son of Heaven cannot make them a subject; the feudal lords cannot employ them."* A draft rendered it *"value life more than those who prize it"* and thereby turned a claim about persons into a theory of value. Caught by Shalom, 2026-08-26.
 
@@ -1967,7 +1969,7 @@ Ch 75 closes each of its three charges by repeating the word it opened on: 民�
 
 ### Ch 75 · 貴生 and the ch 72 echo
 
-貴生 (*guì shēng*) → **"a life held precious."** 貴 (*guì* — to prize, to hold dear) is the same character as ch 72's 自愛，不自貴 (*zì ài, bù zì guì*), rendered there as *"loves themselves and does not hold themselves precious."* Keeping one English across the two makes the thread audible: ch 72 tells you not to hold **yourself** precious, and ch 75 names holding your **life** precious as the reason the people go hungry. See the 72 → 74 → 75 thread in `notes/reading.md`.
+貴生 (*guì shēng*) → **"a life held precious."** *(Superseded 2026-11-19: "prize.")* 貴 (*guì* — to prize, to hold dear) is the same character as ch 72's 自愛，不自貴 (*zì ài, bù zì guì*), rendered there as *"loves themselves and does not hold themselves precious."* Keeping one English across the two makes the thread audible: ch 72 tells you not to hold **yourself** precious, and ch 75 names holding your **life** precious as the reason the people go hungry. See the 72 → 74 → 75 thread in `notes/reading.md`.
 
 ### Ch 76 · 強 stays *strong* in all five places — the chapter is an ambush on the word
 
@@ -2056,6 +2058,86 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 60 · *show*, *it is not that*, *not only*
+
+*(2026-11-19, Shalom's call, refining the entry below.)* Line 1 *"do not show their spirit"* (Heshang Gong's 見), so line 2 corrects showing with having; line 3 *"Not only does their spirit do no harm to people, the sage, too…"*, reading 亦 with Wang Bi as an addition, which sets up *the two*. `chapters/060.md`.
+
+### Ch 60 · the ghosts' stanza: "It is not that its ghosts have no spirit; their spirit does no harm to people"
+
+*(2026-11-19, Shalom's call, closing R6's ch 60 item and T3-18's.)* 非 is *it is not that*, so the chapter corrects itself instead of contradicting itself; 神 is *spirit* in all three uses; 不傷人 ×3 repeats exactly; semicolons carry the corrections. `chapters/060.md`.
+
+### Ch 77 · 其不欲見賢 → "They do not want to appear exceptional"
+
+*(2026-11-19, Shalom's call.)* 欲 with a verb after it reads *want*, as at ch 15 and 39. `glossary/yu-欲.md`.
+
+### Ch 73 · 疏而不失 → "yet it loses nothing"
+
+*(2026-11-19, Shalom's call.)* 失 keeps *lose*, answering ch 29 and 64's grasper; *slips through* rendered the later proverb's 漏. `glossary/de-shi-得失.md`.
+
+### Ch 72, 75 · 不自貴 / 貴生 → "does not prize themselves" / "those who prize life"
+
+*(2026-11-19, Shalom's call.)* One verb for the 貴 that links the chapters; *precious* now forbidden for 貴. `glossary/gui-jian-貴賤.md`.
+
+### Ch 70 · 則我者貴 → "are prized"
+
+*(2026-11-19, Shalom's call.)* 貴's price word; *precious* is 貨's forbidden word, and the couplet prices the few by their scarcity. `glossary/gui-jian-貴賤.md`.
+
+### Ch 67 · "to abandon being last and grab at being first"
+
+*(2026-11-19, Shalom's call.)* With ch 7's *last / first*, ch 67's third treasure keeps *first in the world* and 捨後且先 takes the same pair; *the rear / the front* retired. *Now,* takes a comma, not a colon. `glossary/xian-hou-先後.md`.
+
+### Ch 66 · "if you want to rise above … if you want to go ahead of"
+
+*(2026-11-19, Shalom's call.)* 欲 restored twice, and with it ch 36's frame, *if you want to X, you must Y*; 先 with an object is *go ahead of*, against *put your body behind them*. `chapters/066.md`.
+
+### Ch 62 · "prize this Tao … the most prized in the world"
+
+*(2026-11-19, Shalom's call.)* *Honor* is 尊's in this chapter (*buy honor*); 貴 takes *prize* twice, and 故為天下貴 now matches ch 56 verbatim. 先 → *go ahead of*. `chapters/062.md`.
+
+### Ch 56 · "neither prize nor cheapen them"
+
+*(2026-11-19, Shalom's call.)* 貴 and 賤 are one price scale (Wang Bi: 可得而貴則可得而賤也), so both sides take price words, and 為天下貴 reads *the most prized in the world*. *Debase* retired and forbidden. `glossary/gui-jian-貴賤.md`.
+
+### Ch 51 · 尊道而貴德 → "honor the Tao and prize integrity"
+
+*(2026-11-19, Shalom's call.)* 尊 is the wine vessel raised in both hands, *honor*; 貴 is a price, *prize*. *Revere* and *value* retired and forbidden for the pair. `glossary/gui-jian-貴賤.md`.
+
+### Ch 46 · the couplet: "not knowing you have enough … wanting to get"
+
+*(2026-11-19, Shalom's call, closing T3-18's ch 46 item and accuracy-audit finding 10.)* 不知足 reads in 知足's own words, so the close answers it; the 知足 entry's *discontent* flexion retired. 欲得 is plain *wanting to get*: *craving* carried a verdict, *acquire* a purchase. `chapters/046.md`.
+
+### Ch 44 · 得與亡孰病 → "Gain or loss — which sickens more?"
+
+*(2026-11-19, Shalom's call.)* 病 is illness grown heavy (說文 疾加也), not 害's *harm*; *ailment* is too light and would split 病 from ch 71's *sickness*. The verb keeps the chapter's comparatives and Heshang Gong's 病於行. *Gain* kept as 得's flexion in the ledger chapter. `chapters/044.md`.
+
+### Ch 2, 43 · 不言之教 → "the unspoken teaching"
+
+*(2026-11-19, Shalom's call.)* One English for the verbatim formula. 不 negates a verb, so 不言 is *not speaking* (as at 56 and 73), not *no words*, which would be 無言; *unspoken* keeps the verb. Heshang Gong: they teach with their own body, in silence. `glossary/yan-言.md`.
+
+### Ch 37 · the chain through 化, and 欲's one root
+
+*(2026-11-19, Shalom's call, closing T3-8 and accuracy-audit finding 7.)* *"Transforming, if they want to act, I will stabilize them with the nameless uncarved wood. / With the nameless uncarved wood, they too will be desireless. / Not desiring, and so still, the world will right itself."* 化 links the stanzas; 欲 reads *want* with a verb after it and *desire* with none; Heshang Gong makes the people the ones who become desireless; 亦 and 將 restored. `chapters/037.md`.
+
+### Ch 22 · 少則得 → "Hold little and receive"
+
+*(2026-11-19, Shalom's call.)* *Gain* is a ledger word; *get* needs an object English cannot give here. Wang Bi: 少則得其本, and on 抱一, 一，少之極也: what holding little gets is the one, as at ch 39's *received*. `glossary/de-shi-得失.md`.
+
+### Ch 17 · 悠兮其貴言 → "Hesitant, they prize their words"
+
+*(2026-11-19, Shalom's call.)* The old line rendered neither 貴 nor 言. The base alone prints 悠; every other witness prints 猶 (*hesitant*), and the English follows them, as at ch 23's 故; the base's 悠 (說文 憂也, anxious care) points the same way. Variants fork 126; `glossary/yan-言.md`.
+
+### Ch 39 · 神得一以靈 → "and so became potent," not "numinous"
+
+*(2026-11-19, Shalom's call.)* *Numinous* failed the pointing test. The early uses of 靈 say spirit where it takes effect and shows (the Odes' good rain, the Qiu pan's good end, Wang Yi's descended spirit), and *potent* is that effect; its failure is the line's 歇. *Alive* (生's, and 靈 belongs to the dead too) and *vital* (精's, and it also means *essential*) were set aside. The argument: `glossary/shen-ling-神靈.md`.
+
+### Ch 26, 45 · 躁 → "restless," not "agitated" or "movement"
+
+*(2026-11-19, Shalom's call.)* One word for 躁 (*zào*) in its three lines. *Agitate* either stirs something, and 躁 moves itself, or names a mood, and the early texts' 躁 is impatience: speaking before one's turn (Analects 16.6), too many words (the Xici), rushing about (the Monthly Ordinances). *Restless* is *still*'s plain antonym. The argument: `glossary/jing-靜.md` → 躁.
+
+### Ch 52 · 天下有始 → "The world has a beginning," not "an origin"
+
+*(2026-11-19, Shalom's call.)* 始 (*shǐ*) reads *beginning* everywhere else in the book, and *origin* was the cooling the mother's entry refuses, in the line where the beginning becomes her. Now the line echoes ch 1's 天地之始 / 萬物之母. The argument: `glossary/mu-母.md` → 始.
 
 ### Ch 6 · 谷神 → "the spirit of the valley," and the valley stays a noun
 
@@ -2183,7 +2265,7 @@ Two drafts failed first, both by leaving the destination unnamed. *cross between
 
 *respect / honour / be humble before death* (proposed). All three make death an **object of reverence**, a power one stands before — and every one of them would sit in a sermon without a ripple. 重死 is a disposition toward one's own life ending, not a posture toward Death. 王弼: 惟身是寶, *"they treasure only their own bodies."*
 
-**And the plainest English of all is a trap: *loath to die* / *unwilling to die* renders 貴生, not 重死** — and Ch 75 **criticises** 貴生, which we render *"those who hold life precious."* The book distinguishes a life that has weight to you (重死, approved here) from clutching at it (貴生, warned against there). A rendering that collapses them would make Ch 80 recommend what Ch 75 rejects. This is the argument that decided the line. (Shalom flagged *hold* and then *make much of* as incongruous, 2026-08-26; both flags were right.)
+**And the plainest English of all is a trap: *loath to die* / *unwilling to die* renders 貴生, not 重死** — and Ch 75 **criticises** 貴生, which we render *"those who prize life."* The book distinguishes a life that has weight to you (重死, approved here) from clutching at it (貴生, warned against there). A rendering that collapses them would make Ch 80 recommend what Ch 75 rejects. This is the argument that decided the line. (Shalom flagged *hold* and then *make much of* as incongruous, 2026-08-26; both flags were right.)
 
 ### Ch 81 · 美 → *pretty*, and why "fine" was the near miss
 
@@ -2743,7 +2825,7 @@ A single 不欲 governs both clauses; there is no 而 and no 寧 (*nìng* — "r
 
 **A strain, named rather than smoothed.** 琭琭 (*lù lù*) and 珞珞 (*luò luò*) have **no 說文 entries**, and their exact sense is not recoverable from anything in `sources/`. *Gleaming* and *common* come from what the two stones **stand for** in both commentaries, not from the graphs; 河上公's edition reads 落落 (*"scattered, lying about in numbers"*) for the second, which supports *common*. Both words are otherwise unused in the manuscript.
 
-**A second strain: 靈 → *numinous* fails the pointing test**, and no candidate survived. *Alive* is 生's, two lines down; *vital* drifts toward 氣 (*qì*). **神 (*shén*) and 靈 (*líng*) both sit in the overlay watchlist's semantic field and neither has an entry** — they want one together, not a decision inside a chapter (T2-37).
+**A second strain: 靈 → *numinous* fails the pointing test**, and no candidate survived. *Alive* is 生's, two lines down; *vital* drifts toward 氣 (*qì*). **神 (*shén*) and 靈 (*líng*) both sit in the overlay watchlist's semantic field and neither has an entry** — they want one together, not a decision inside a chapter (T2-37). *(Resolved 2026-11-19, Shalom's call: 靈 → *potent*, and 神 is glossed *spirit*; `glossary/shen-ling-神靈.md`.)*
 
 ## Ch 13 · one word per character, and the chapter's argument appears
 

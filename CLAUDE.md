@@ -106,7 +106,7 @@ Two intentions, both sacred:
 
 The English Tao Te Ching was largely built by missionaries, and the standard renderings are theology sedimented into words. Full audit: `process/overlay-audit.md`.
 
-Flag on sight: **聖** ("holy" — it means *acute hearing*) · **神** ("God" — *numinous potency*) · **鬼** ("demons" — *ghosts, the dead*) · **罪** ("sin" — *crime*) · **義** ("righteousness" — *duty*) · **仁** ("benevolence" — *humaneness*) · **精/魄** ("soul" — *vital essence* / the *corporeal* soul) · **一** ("the One" — Neoplatonism) · **福** ("blessing" — *good fortune*) · **善** ("good" — often *skilled*) · **道法自然** (never "the Tao follows Nature" — that inverts the chapter).
+Flag on sight: **聖** ("holy" — it means *acute hearing*) · **神** ("God" — *spirit*) · **鬼** ("demons" — *ghosts, the dead*) · **罪** ("sin" — *crime*) · **義** ("righteousness" — *duty*) · **仁** ("benevolence" — *humaneness*) · **精/魄** ("soul" — *vital essence* / the *corporeal* soul) · **一** ("the One" — Neoplatonism) · **福** ("blessing" — *good fortune*) · **善** ("good" — often *skilled*) · **道法自然** (never "the Tao follows Nature" — that inverts the chapter).
 
 Watch **register** too: KJV cadence, devotional capitals, abstraction drift — and our own besetting temptation, the **mechanistic** ("operating system", "source code", "generate"). **Two tests:** *the hymn test* — would this line sit in a sermon? *The pointing test* — could Laozi have pointed at it?
 

@@ -510,7 +510,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-8 · Ch 37 — the chain through 化 (*huà* — transform)
 
-**Resolve.** *"…the countless things will transform of themselves. / Transforming, if they desire to act, / I will stabilize them with the nameless uncarved wood."* This restores the link, and it also restores a second chain the old line hid: 欲 (*yù* — desire) runs 化而欲作 · 將無欲 · 不欲以靜 (*huà ér yù zuò · jiāng wú yù · bù yù yǐ jìng* — "transforming, they desire to act · will be without desire · not desiring, by stillness"), and *urge* was the one place it did not read *desire*.
+**Resolve.** *"…the countless things will transform of themselves. / Transforming, if they desire to act, / I will stabilize them with the nameless uncarved wood."* This restores the link, and it also restores a second chain the old line hid: 欲 (*yù* — desire) runs 化而欲作 · 將無欲 · 不欲以靜 (*huà ér yù zuò · jiāng wú yù · bù yù yǐ jìng* — "transforming, they desire to act · will be without desire · not desiring, by stillness"), and *urge* was the one place it did not read *desire*. **Done, 2026-11-19 (Shalom's call),** with 欲's grammar: *"Transforming, if they want to act, I will stabilize them…"* (`chapters/037.md`).
 
 #### T3-9 · Ch 64 — the strands of doing and grasping
 
@@ -587,13 +587,13 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 > The countless things return to it, yet it does not act as their master: it can be called great.
 
   The two 為主 (*wéi zhǔ*) read alike, *owner* and *ownership* stop falling on two characters, and 功成 (*gōng chéng*) reads as at 2 and 77. **Done 2026-11-15, with the 名 (*míng* — name) entry:** 不名有 (*bù míng yǒu*) reads *"it does not name it its own"* rather than *claim to own it*, since *claim* is 伐's (*fá*), and 可名 reads *can be named*, as at 1 and 14 (`chapters/034.md` → Notes).
-- **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it.
+- **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it. **Done, 2026-11-19 (Shalom's call),** with 欲得 → *wanting to get*.
 - **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."*
 - **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again.
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
 - **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line.
 - **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19.
-- **60, 不傷人 (*bù shāng rén* — "does not harm people") ×3 — resolve:** *"their potency does no harm to people, / not only does their potency do no harm to people, the sage, too, does no harm to people."* The chain then repeats word for word, as the Chinese does.
+- **60, 不傷人 (*bù shāng rén* — "does not harm people") ×3 — resolve:** *"their potency does no harm to people, / not only does their potency do no harm to people, the sage, too, does no harm to people."* The chain then repeats word for word, as the Chinese does. **Done, 2026-11-19 (Shalom's call),** with R6's 非 and 神 → *spirit*: *does no harm to people* ×3 (`chapters/060.md`).
 - **65, 國之賊 / 國之福 (*guó zhī zéi / guó zhī fú*) — leave.** Recorded (`notes/translation.md` → *Ch 65*): *robs the state / is the state's good fortune* was built deliberately as the pair, on the way out of the overlay *blessing* for 福 (*fú* — good fortune).
 - **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs.
 - **80, 相 (*xiāng* — each other) ×3 — leave.** Recorded at length (`notes/translation.md` → 不相往來 (*bù xiāng wǎng lái* — "do not go to and fro")): *never once go next door* names the motion and its destination, which *visit one another* did not.

@@ -30,7 +30,7 @@ So while 持 (*chí*) grips, 執 (*zhí*) takes into custody and 守 (*shǒu*) k
 
 At chapters 15 and 67 a person keeps something safe:
 
-> **保**此道者不欲盈 (15) — *"those who keep the Tao safe like this have no wish to be full."*
+> **保**此道者不欲盈 (15) — *"those who keep the Tao safe like this do not want to be full."*
 > 我有三寶，持而**保**之 (67) — *"I have three treasures. I hold them and keep them safe."*
 
 At chapter 62 the Tao keeps a person safe:

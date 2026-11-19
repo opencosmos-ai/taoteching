@@ -86,7 +86,7 @@ The `--english` direction is the one that catches what the Chinese cannot: a ren
 - **The hymn test.** Would this line sit in a sermon? Then go back and check the character.
 - **The pointing test.** Could Laozi have pointed at it? "Sky" passes. "Heaven" does not. "Source code" does not.
 
-Flag on sight: 聖 (*shèng* — *acute hearing*, not "holy") · 神 (*shén* — *numinous potency*, not "God") · 鬼 (*guǐ* — *ghosts/the dead*, not "demons") · 罪 (*zuì* — *crime*, not "sin") · 義 (*yì* — *duty*, not "righteousness") · 仁 (*rén* — *humaneness*, not "benevolence") · 一 (*yī* — "one", not "the One").
+Flag on sight: 聖 (*shèng* — *acute hearing*, not "holy") · 神 (*shén* — *spirit*, not "God") · 鬼 (*guǐ* — *ghosts/the dead*, not "demons") · 罪 (*zuì* — *crime*, not "sin") · 義 (*yì* — *duty*, not "righteousness") · 仁 (*rén* — *humaneness*, not "benevolence") · 一 (*yī* — "one", not "the One").
 
 And our own besetting temptation, the **mechanistic**: "operating system", "source code", "generate", "system", "function". `check_locks.py` catches these, but catch them first.
 
