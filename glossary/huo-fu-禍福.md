@@ -145,12 +145,22 @@ Both Mawangdui silks read 國之德 (*guó zhī dé* — "the state's integrity"
 
 **The word is a legal one, from its first graph to its last.** 辠 is a breach of the law, and the net that replaced it catches what it is set against. Nothing in either graph is an offense against a god. That is why 罪 is on the overlay watchlist: *sin* puts a deity where the Shuowen puts a statute.
 
+> *What made the ancients prize this Tao?*
+> *Did they not say: seek, and you find;*
+> *have a crime held against you, and you are spared?*
+>
+> 古之所以貴此道者何？
+> 不曰：求以得，
+> 有罪以免邪？
+>
+> — chapter 62
+
 **The line, 有罪以免 (*yǒu zuì yǐ miǎn* — "having a crime, by it to be spared"), is about jeopardy, not guilt.** Heshang Gong gives the situation in full:
 
 > 有罪謂遭亂世闇君妄行刑誅，修道則可以解死免於衆耶也。
 > *"'Having a crime' means meeting a chaotic age and a benighted ruler who inflicts punishments and executions at random; cultivating the Tao, one can be released from death and escape from the crowd."* — Heshang Gong, ch 62
 
-And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求則得求，以免則得免 (*yǐ qiú zé dé qiú, yǐ miǎn zé dé miǎn* — "use it to seek and you get what you seek; use it to escape and you escape"). **Han Fei uses the same two words in the same sense, on ch 46:** 胥靡有免，死罪時活 (*xū mí yǒu miǎn, sǐ zuì shí huó* — "convicts are sometimes released; those condemned to death sometimes live"). 罪 is the charge you stand under, and 免 (*miǎn*) is release from its penalty. Whether the crime was yours, the line does not say, and Heshang Gong's random punishments suggest it need not have been.
+And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求則得求，以免則得免 (*yǐ qiú zé dé qiú, yǐ miǎn zé dé miǎn* — "use it to seek and you get what you seek; use it to escape and you escape"). **Han Fei uses the same two words in the same sense, on ch 46:** 胥靡有免，死罪時活 (*xū mí yǒu miǎn, sǐ zuì shí huó* — "convicts are sometimes released; those condemned to death sometimes live"). 罪 is the charge you stand under, and 免 (*miǎn*) is release from its penalty. Whether the crime was yours, the line does not say, and Heshang Gong's random punishments suggest it need not have been. **So the English says *held against you***: the legal idiom, someone with the power to punish counting it against you, justly or not. *Commit a crime* would make the reader the offender, and *have a crime against you* reads in English as being a crime's victim. *Held* is supplied (Shalom's call, 2026-11-19).
 
 **The chapter's English depends on keeping that sense.** Ch 62 opens on 奧 (*ào* — the sanctuary), and `notes/translation.md` → *Ch 62 · 奧* argues *sanctuary* precisely because English keeps its older legal sense: the right of the pursued not to be seized. The chapter ends where its first word pointed. Read 罪 as wrongdoing confessed and forgiven, and 善 / 不善 (*shàn / bù shàn* — masterful / unmasterful) slides into *good* and *bad*, and the chapter becomes the doctrine of grace that `glossary/shan-善.md` refuses.
 
@@ -183,7 +193,7 @@ And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求�
 | 58 | 福兮禍之所伏 | *fortune is where disaster hides* | the mirror's second half |
 | 65 | 國之福 | *the state's good fortune* | alone, *the state's fortune* reads as its treasury: *good* is supplied so the English keeps what befalls and loses the money |
 | 69 | 禍莫大於輕敵 | *There is no disaster greater than making light of the enemy* | the formula again |
-| 62 | 有罪以免 | 罪 → *crime* | a charge one stands under, and release from it |
+| 62 | 有罪以免 | *have a crime held against you, and you are spared* | 有 (*yǒu* — to have) makes 罪 a charge one stands under; *held* is supplied, and leaves open whose crime it was, as the Chinese does |
 
 *Fortune* at 58 needs no *good*: *disaster* beside it settles which sense of the English word is meant. At 65 nothing does, so the line takes *good fortune*. Both are the one rendering, and `concordance.py --english "fortune"` reads both as 福's.
 
@@ -194,8 +204,6 @@ And Wang Bi makes 以 (*yǐ* — by it) the hinge, the Tao as the means: 以求�
 ***Sin* is ruled out for 罪, and nothing here can forbid it.** A `covers:` character carries a rendering and no `forbidden:` list, and ch 62, 罪's only chapter, holds neither 禍 nor 福, so the gate this entry opens never fires there. (*Sin* as a bare string would also catch *since* and *single*.)
 
 ### Left open
-
-**Chapter 62's line still says *commit a crime*.** The English makes the reader the offender, where the line, its notes, and both commentators read a charge one stands under. `process/back-translation-audit.md` (finding 2) and `WORKLIST.md` R6 owe the repair; *seek, and you find* is settled and kept (`chapters/062.md` → Notes).
 
 **Chapter 58's *hides* keeps Heshang Gong's concealment and drops the Shuowen's dog, watching.** *Lies in wait* would make the mirror two postures, a body leaning and a body crouched. It costs the line its brevity.
 

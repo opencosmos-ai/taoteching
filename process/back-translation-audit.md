@@ -62,14 +62,14 @@ The Chinese corrects itself twice. The English adds instead, and so says the gho
 
 > 不曰：求以得，有罪以免邪？ (*bù yuē: qiú yǐ dé, yǒu zuì yǐ miǎn xié?* — "is it not said: seeking, by it you find; having an offense, by it you are spared?")
 
-The English: *"Did they not say: seek, and you find; / commit a crime, and you are spared?"* There are two moves here, and they compound.
+The English *(was, until 2026-11-19)*: *"Did they not say: seek, and you find; / commit a crime, and you are spared?"* There are two moves here, and they compound.
 
 - **有罪 (*yǒu zuì* — "to have an offense against you") became *commit a crime*.** The chapter's source table, `notes/translation.md` → *Ch 62 · 奧* (*ào* — the inner corner) and `notes/reading.md` → *Ch 62* all read *"have a crime against you,"* and the *sanctuary* argument rests on that legal sense. Heshang Gong: 有罪謂遭亂世闇君妄行刑誅，修道則可以解死 (*yǒu zuì wèi zāo luàn shì àn jūn wàng xíng xíng zhū, xiū dào zé kě yǐ jiě sǐ* — "'having an offense' means meeting a chaotic age and a benighted ruler who punishes and executes at random; cultivating the Tao, one can be released from death").
 - **以 (*yǐ* — by it) is dropped from both halves.** Wang Bi makes it the hinge: 以求則得求，以免則得免 (*yǐ qiú zé dé qiú, yǐ miǎn zé dé miǎn* — "use it to seek and you get what you seek; use it to escape and you escape"). Without it, *seek, and you find* is an unconditional promise in the Gospel's cadence, and it fails the hymn test.
 
 Together, the two lines rebuild what `notes/translation.md` → *善 / 不善* (*shàn / bù shàn* — masterful / unmasterful) says this chapter was rendered to avoid: *"a doctrine of grace."*
 
-**Logged?** The legal reading is logged, and the verse contradicts it. Dropping 以 (*yǐ* — by it) is not discussed. **Proposed:** *"Did they not say: seek by it, and you find; / have a crime against you, and by it you are spared?"*
+**Logged?** The legal reading is logged, and the verse contradicts it. Dropping 以 (*yǐ* — by it) is not discussed. **Proposed:** *"Did they not say: seek by it, and you find; / have a crime against you, and by it you are spared?"* **Done, 2026-11-19 (Shalom's call),** in two halves: *seek, and you find* is kept, its echo of Matthew recorded as a known cost (`chapters/062.md`), and the second half reads *"have a crime held against you, and you are spared?"*, so 以 goes unrendered in both. *Have a crime against you* was set aside because English hears it as being a crime's victim (`glossary/huo-fu-禍福.md` → *罪*).
 
 **3 · Ch 53 · 唯施是畏 (*wéi shī shì wèi* — "only acting is what I would fear") → *"my only fear would be to stray from it."***
 
@@ -202,7 +202,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 **Ch 60 first.** It is the only finding where the English says something the Chinese contradicts, and the fix keeps the form. One chapter, no lock touched.
 
-**Ch 62 next**, because the verse disagrees with its own notes. Bringing it back is a correction, not a new call. Register the withdrawn wording in `process/retractions.yaml` when it lands.
+**Ch 62 next**, because the verse disagrees with its own notes. Bringing it back is a correction, not a new call. Register the withdrawn wording in `process/retractions.yaml` when it lands. *(Done 2026-11-19: `ch62-commit-a-crime`.)*
 
 **Ch 53 and 30 are records owed before they are rewrites.** Each takes a reading against both commentators, and each may be right. Write down the choice and its evidence, then decide whether the line moves.
 

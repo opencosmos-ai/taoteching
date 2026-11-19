@@ -1315,9 +1315,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 62,7,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,better to sit where you are and offer this Tao.
 62,8,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,What made the ancients prize this Tao?
 62,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,What made the ancients prize this Tao?
-62,9,得,dé,得 & 失,get,yes,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
-62,9,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
-62,9,罪,zuì,禍 & 福,crime,yes,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
+62,9,得,dé,得 & 失,get,yes,1.0,authored,"Did they not say: seek, and you find; have a crime held against you, and you are spared?"
+62,9,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Did they not say: seek, and you find; have a crime held against you, and you are spared?"
+62,9,罪,zuì,禍 & 福,crime,yes,1.0,authored,"Did they not say: seek, and you find; have a crime held against you, and you are spared?"
 62,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And so it becomes the most prized in the world.
 62,10,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,And so it becomes the most prized in the world.
 62,10,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,And so it becomes the most prized in the world.

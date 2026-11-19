@@ -2059,6 +2059,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 62 · 有罪以免 → "have a crime held against you, and you are spared?"
+
+*(2026-11-19, Shalom's call; R6, the back-translation audit's finding 2.)* *(was: "commit a crime, and you are spared?")* The verse now agrees with its own notes: 有罪 (*yǒu zuì* — to have a crime) is a charge one stands under, as Heshang Gong's random punishments and Han Fei's 死罪時活 (*"the condemned sometimes live"*) read it, and *commit* had made the line an absolution. *Held against you* keeps 有 and 罪 and, like the Chinese, leaves open whose crime it was; *have a crime against you* would read as being its victim. *Seek, and you find* stays (Shalom's call, same day), so 以 (*yǐ* — by it) goes unrendered in both halves. 罪 → *crime*, covered in `glossary/huo-fu-禍福.md`.
+
 ### Ch 60 · *show*, *it is not that*, *not only*
 
 *(2026-11-19, Shalom's call, refining the entry below.)* Line 1 *"do not show their spirit"* (Heshang Gong's 見), so line 2 corrects showing with having; line 3 *"Not only does their spirit do no harm to people, the sage, too…"*, reading 亦 with Wang Bi as an addition, which sets up *the two*. `chapters/060.md`.
