@@ -612,8 +612,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 29,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Those who would take the world and handle it,"
 29,1,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Those who would take the world and handle it,"
 29,1,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Those who would take the world and handle it,"
-29,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,I see they will not succeed.
-29,2,得,dé,得 & 失,get,NOT FOUND,1.0,authored,I see they will not succeed.
+29,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,I see they will not get it.
+29,2,得,dé,得 & 失,get,yes,1.0,authored,I see they will not get it.
 29,3,器,qì,器,vessel / tool / implement,yes,1.0,authored,The world is a sacred vessel. It cannot be handled. It cannot be grasped.
 29,3,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The world is a sacred vessel. It cannot be handled. It cannot be grasped.
 29,3,神,shén,神 & 靈,spirit,yes,1.0,authored,The world is a sacred vessel. It cannot be handled. It cannot be grasped.

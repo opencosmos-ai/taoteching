@@ -84,7 +84,7 @@ refs:
 
 **不得其死 (*bù dé qí sǐ* — "not get their death") at chapter 42 is an idiom**, dying before one's span. Heshang Gong: 不得以壽命死也, *"they do not get to die of their allotted years."* *Do not die a natural death* renders it.
 
-**不得已 has two parses, and the English must keep them apart.** At chapters 30 and 31 it is the idiom *it cannot be helped*: force used only when there is no other way. At chapter 29, 吾見其不得已 (*wú jiàn qí bù dé yǐ*), Heshang Gong reads 不得 plus a closing 已: 我見其不得天道人心已明矣, *"I see they do not get the Tao of nature or the people's hearts; that is clear."* So chapter 29's *they will not succeed* is a getting, and the flexion *unavoidable* is scoped to 30 and 31 only.
+**不得已 has two parses, and the English must keep them apart.** At chapters 30 and 31 it is the idiom *it cannot be helped*: force used only when there is no other way. At chapter 29, 吾見其不得已 (*wú jiàn qí bù dé yǐ*), Heshang Gong reads 不得 plus a closing 已: 我見其不得天道人心已明矣, *"I see they do not get the Tao of nature or the people's hearts; that is clear."* So chapter 29 is a getting, *"I see they will not get it"* (Shalom's call, 2026-11-19), and the flexion *unavoidable* is scoped to 30 and 31 only.
 
 **難得之貨 is 貨 (huò — goods)'s fixed phrase**, *rare goods* (3, 12, 64), and 得 is absorbed in it (`glossary/huo-貨.md`).
 
@@ -118,7 +118,7 @@ refs:
 | 求以得 (62) | a verb | *find* — flexion, Shalom's call |
 | 天得一 ×7 (39) | a verb, the one | *received* — flexion |
 | 不得已 (30, 31) | an idiom | *unavoidable* — flexion |
-| 吾見其不得已 (29) | 不得 + a closing 已 | *will not get it* (recommended) |
+| 吾見其不得已 (29) | 不得 + a closing 已 | *will not get it* |
 | 搏之不得 (14) | a modal, the third sense | *cannot touch* — flexion, Shalom's call |
 | 吾得執 (74) | a modal | *could* |
 | 不可得而 (56) ×6 | a modal, inside 可's *cannot* | *you cannot* |
@@ -136,7 +136,7 @@ refs:
 
 ### Left open
 
-**Four lines would change, and each is Shalom's call.** 29 (*will not succeed* → *will not get it*), 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
+**Three lines would change, and each is Shalom's call.** 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
 
 **Chapter 52's *find*.** *Find our mother, and you know her children* is good English, and Wang Bi's 得本以知末 (*"get the root to know the branches"*) is a getting. *Find* suggests she was lost, which chapter 52 does not say; *get* sounds like taking possession of a mother. Left as it stands until the line is read again.
 
