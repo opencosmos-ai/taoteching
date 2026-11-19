@@ -134,6 +134,28 @@ class ReaderKeys(unittest.TestCase):
             for target in re.findall(r"\]\(([^)]+)\)", md):
                 self.assertRegex(target, r"^(https?:|#)", f"ch {n}: {target}")
 
+    def test_shuowen_pronunciation_belongs_to_its_dictionary_sense(self):
+        from build_explorer import payload
+
+        cards = payload(self.conn)["chars"]
+        # 埏 (shān — knead clay in chapter 11, yán — the far reaches in Shuowen).
+        card = next(card for card in cards if card["c"] == "\u57cf")
+        self.assertEqual(card["p"].lower(), "shān")
+        self.assertEqual(export_atlas.shuowen_readings(cards)[card["c"]],
+                         {"pinyin": "yán", "english": "The far reaches of the earth."})
+
+    def test_shuowen_reuses_english_without_shipping_raw_prose_for_display(self):
+        from build_explorer import payload
+        from lib.source_registry import han
+
+        cards = payload(self.conn)["chars"]
+        readings = export_atlas.shuowen_readings(cards)
+        # 和 (hé — harmony); its hand-translated definition includes graph analysis.
+        self.assertEqual(readings["\u548c"], {"english": "To answer one another."})
+        self.assertTrue(all(not han(reading["english"]) for reading in readings.values()))
+        # 一 (yī — one) has a stored definition awaiting an authored English gloss.
+        self.assertNotIn("\u4e00", readings)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -66,6 +66,12 @@ is keyed by chapter number and carries attestation, commentary links, and the
 paired readings and per-reading evidence for each recorded fork. Each entry
 carries `refs` and `refs_status`. See ARCHITECTURE.md for the object contract.
 
+**Reader-ready dictionary glosses.** When present, `chars[].shuowen` carries
+an `english` gloss and optional `pinyin` specific to the dictionary sense.
+These glosses come from authored readings or the English sentences of an
+existing glossary translation. The dictionary pronunciation is supplied
+explicitly. The chapter-based `p` field carries the text's pronunciation.
+
 **Nothing here is authored.** The characters come from the database, which
 comes from the manuscript; the entries are `glossary/*.md`, frontmatter and
 body, verbatim. One thing is shaped for display: each character's English
@@ -89,7 +95,8 @@ from build_explorer import DB_PATH, payload  # noqa: E402
 from lib.corpus import (  # noqa: E402
     GLOSSARY, ROOT, load_chapters, parse_frontmatter, term_where,
 )
-from lib.source_registry import BLOB
+from lib.flat_yaml import records
+from lib.source_registry import BLOB, han, pairing
 from lib.source_tables import published_chapters, published_citations, published_sources
 
 OUT = ROOT / "data" / "atlas-export.json"
@@ -110,6 +117,7 @@ TEXT = {
 
 
 FORMS = ROOT / "sources" / "component-forms.yaml"
+SHUOWEN_READINGS = ROOT / "sources" / "shuowen-readings.yaml"
 
 
 def forms(built):
@@ -266,6 +274,27 @@ def entry_card(e):
     return " · ".join(out)
 
 
+def shuowen_readings(chars):
+    """Project English-only definitions and separately attested pronunciations."""
+    cards = {card["c"]: card for card in chars if card.get("def")}
+    readings = {}
+    for char, card in cards.items():
+        # Existing translations can include graph analysis. Keep their complete
+        # English sentences here. The Atlas already shows the parsed parts.
+        sentences = re.split(r"(?<=[.!?])\s+", (card.get("defen") or "").strip())
+        english = " ".join(sentence for sentence in sentences if sentence and not han(sentence))
+        if english:
+            readings[char] = {"english": english}
+
+    for location, row in records(SHUOWEN_READINGS, {"char", "pinyin", "english"}):
+        char = row.get("char")
+        if char not in cards or char in readings:
+            raise ValueError(f"{location}: expected a unique character with a stored Shuowen definition")
+        gloss = pairing(char, row.get("pinyin", ""), row.get("english", ""), location)
+        readings[char] = {"english": gloss["english"], "pinyin": gloss["pinyin"]}
+    return readings
+
+
 def main():
     if not DB_PATH.exists():
         print("  no database — run: python3 tools/build_db.py")
@@ -288,8 +317,11 @@ def main():
         for c in set(e["chars"]) | set(e["covers"]):
             member.setdefault(c, []).append(e["slug"])
     own = {e["term"]: e for e in ents if len(e["term"]) == 1}
+    dictionary_glosses = shuowen_readings(data["chars"])
     for c in data["chars"]:
         c["entries"] = sorted(member.get(c["c"], []))
+        if c["c"] in dictionary_glosses:
+            c["shuowen"] = dictionary_glosses[c["c"]]
         if c["c"] in own and c.get("g"):
             c["g"] = c["r"] = entry_card(own[c["c"]])
             continue

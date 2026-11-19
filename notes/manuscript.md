@@ -680,9 +680,9 @@ Our base reads 用之不可既 (*yòng zhī bù kě jì*). **Our vendored 王弼
 
 Our base reads 埏埴以為器 (*shān zhí yǐ wéi qì* — "work the clay to make a vessel"). The Siku editors note in Wang Bi's text that all other editions write 埏 (*shān* — knead), while Lu Deming's *Jingdian Shiwen* (c. 583) writes 挻 (*shān* — knead).
 
-Each reading means *work the clay*. The Shuowen glosses 埏 (*yán* — the far reaches of the earth) as 八方之地也 (*bā fāng zhī dì yě* — "the land of the eight directions"). The Guangyun records the working sense under 挻 (*shān* — knead) as 柔也，和也 (*róu yě, hé yě* — "to soften, to mix"). [Ministry of Education dictionary of variant characters](https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1)
+Each reading means *work the clay*. The Shuowen glosses 埏 (*yán* — the far reaches of the earth) as 八方之地也 (*bā fāng zhī dì yě* — "the land of the eight directions"). The [Dictionary of Chinese Character Variants](../sources/SOURCES.md#moe-character-variants) quotes the [Guangyun](../sources/SOURCES.md#guangyun) on the working sense of 挻 (*shān* — knead) as 柔也，和也 (*róu yě, hé yě* — "to soften, to mix").
 
-Heshang Gong gives the received graph the working sense in 埏，和也 (*shān, hé yě* — "shān means to blend"). His pronunciation note supports *shān*, the reading the Ministry of Education dictionary also gives for the clay-working compound. We keep the received graph and render it *knead*. [Heshang Gong on chapter 11](../sources/commentaries/heshanggong/011.md), [Ministry of Education dictionary](https://dict.revised.moe.edu.tw/dictView.jsp?ID=130859&la=1&powerMode=0)
+Heshang Gong gives the received graph the working sense in 埏，和也 (*shān, hé yě* — "shān means to blend"). His pronunciation note supports *shān*, the reading the [Revised Mandarin Chinese Dictionary](../sources/SOURCES.md#moe-revised-mandarin) also gives for the clay-working compound. We keep the received graph and render it *knead*. [Heshang Gong on chapter 11](../sources/commentaries/heshanggong/011.md)
 
 *A second Siku note on this chapter — 〔案永樂大典無也字〕, "the 永樂大典 (Yǒnglè Dàdiǎn) lacks the character 也" — is orthographic and is not recorded.*
 

@@ -1,4 +1,4 @@
-"""Resolve authored source identities, manuscript evidence, and glossary citations."""
+"""Resolve authored source identities, manuscript evidence, and citations."""
 
 from collections import Counter, defaultdict
 from dataclasses import asdict, dataclass
@@ -299,6 +299,20 @@ def resolve(chapters=None, guodian=None):
             usages[source].add("citation" if not editorial else "apparatus")
         return result
 
+    def resolve_citations(citations, location, *, entry_path=None):
+        seen, result = set(), []
+        for citation in citations:
+            if not (citation.get("locator") or citation.get("url")):
+                fail(location, "citation needs a locator or passage URL")
+            if entry_path and citation.get("at"):
+                check_path(entry_path, location, citation["at"])
+            key = tuple(sorted(citation.items()))
+            if key in seen:
+                fail(location, "duplicate citation")
+            seen.add(key)
+            result.append(reference(citation, location))
+        return sorted(result, key=lambda ref: (ref["source"], ref.get("locator", ""), ref.get("url", "")))
+
     for ident, source in sources.items():
         source["chain"] = chain(ident, None, locations[ident])
 
@@ -307,24 +321,13 @@ def resolve(chapters=None, guodian=None):
         if path.name in {"INDEX.md", "TRIAGE.md"}:
             continue
         fm = parse_frontmatter(path.read_text(encoding="utf-8"), path) or {}
-        status, refs = fm.get("refs_status", "incomplete"), []
+        status = fm.get("refs_status", "incomplete")
         if status not in {"incomplete", "complete"}:
             fail(path, "invalid refs_status")
-        seen = set()
-        for citation in fm.get("refs", []):
-            if not (citation.get("locator") or citation.get("url")):
-                fail(path, "citation needs a locator or passage URL")
-            if citation.get("at"):
-                check_path(path.relative_to(ROOT).as_posix(), path, citation["at"])
-            key = tuple(sorted(citation.items()))
-            if key in seen:
-                fail(path, "duplicate glossary citation")
-            seen.add(key)
-            record = reference(citation, path)
+        refs = resolve_citations(fm.get("refs", []), path, entry_path=path.relative_to(ROOT).as_posix())
+        for record in refs:
             entry_ids[record["source"]].add(path.stem)
-            refs.append(record)
-        entries[path.stem] = {"refs_status": status, "refs": sorted(
-            refs, key=lambda ref: (ref["source"], ref.get("locator", ""), ref.get("url", "")))}
+        entries[path.stem] = {"refs_status": status, "refs": refs}
 
     chapter_data, forks = {}, {}
     if set(guodian) - chapters.keys():
@@ -385,8 +388,12 @@ def resolve(chapters=None, guodian=None):
                 chapter_ids[reading.source].add(v.chapter)
             resolved.append({**paired, **record})
             readings_count += 1
+        refs = resolve_citations(v.refs, v.location)
+        for citation in refs:
+            fork_ids[citation["source"]].add(ident)
+            chapter_ids[citation["source"]].add(v.chapter)
         forks[ident] = {"chapter": v.chapter, "base": base, "our_call": v.our_call,
-                       "meaning_bearing": v.meaning_bearing, "readings": resolved,
+                       "meaning_bearing": v.meaning_bearing, "readings": resolved, "refs": refs,
                        "line": v.line, "note": v.note, "logged": v.logged,
                        "followed": "witness" if v.followed_a_witness else "base"}
 

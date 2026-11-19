@@ -7,7 +7,9 @@
 #   python3 tools/check_locks.py --rule unlogged-variant
 #
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
-# Each fork has a permanent numeric ID. Assign a fresh ID to each new fork.
+# Each fork has a permanent numeric ID. Use the counter's current value for a
+# new fork, then advance it. Deleting or moving a fork leaves the counter alone.
+# next-fork-id: 126
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -1535,6 +1537,11 @@
   base_english: "knead"
   readings:
     - { source: "shiwen", text: "挻", pinyin: "shān", english: "knead" }
+  refs:
+    - { source: "guangyun", via: "moe-character-variants", locator: "Volume 2, Xian rhyme in the level tone, shān entry on kneading and mixing", url: "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1" }
+    - { source: "moe-character-variants", locator: "Entry B01329, shān pronunciation and historical dictionary forms", url: "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1" }
+    - { source: "moe-revised-mandarin", locator: "Shān zhí, first sense, kneading clay for pottery", url: "https://dict.revised.moe.edu.tw/dictView.jsp?ID=130859&la=1&powerMode=0" }
+    - { source: "moe-revised-mandarin", locator: "Yán, first sense, the far reaches of the earth", url: "https://dict.revised.moe.edu.tw/dictView.jsp?ID=10990&la=0&powerMode=0" }
   meaning_bearing: false
   our_call: base
   note: >

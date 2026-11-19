@@ -71,13 +71,15 @@ def inline_map(value, location, allowed=None):
     return result
 
 
-def records(path, fields, *, blocks=None, lists=(), maps=(), folded=()):
+def records(path, fields, *, text=None, blocks=None, lists=(), maps=(), folded=()):
     """Yield each top-level record with its authored location."""
     blocks = blocks or {}
     record = None
     key = None
     block = is_folded = False
-    for line, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+    if text is None:
+        text = path.read_text(encoding="utf-8")
+    for line, raw in enumerate(text.splitlines(), 1):
         if not raw.strip() or raw.lstrip().startswith("#"):
             continue
         location = f"{path}:{line}"

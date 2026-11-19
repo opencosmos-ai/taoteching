@@ -14152,6 +14152,35 @@
        "text": "挻",
        "verification": "unassessed"
       }
+     ],
+     "refs": [
+      {
+       "chain": [
+        "moe-character-variants"
+       ],
+       "locator": "Volume 2, Xian rhyme in the level tone, shān entry on kneading and mixing",
+       "source": "guangyun",
+       "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1",
+       "via": "moe-character-variants"
+      },
+      {
+       "chain": [],
+       "locator": "Entry B01329, shān pronunciation and historical dictionary forms",
+       "source": "moe-character-variants",
+       "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1"
+      },
+      {
+       "chain": [],
+       "locator": "Shān zhí, first sense, kneading clay for pottery",
+       "source": "moe-revised-mandarin",
+       "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=130859&la=1&powerMode=0"
+      },
+      {
+       "chain": [],
+       "locator": "Yán, first sense, the far reaches of the earth",
+       "source": "moe-revised-mandarin",
+       "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=10990&la=0&powerMode=0"
+      }
      ]
     }
    ]
@@ -21460,6 +21489,9 @@
     "辵",
     "𩠐"
    ],
+   "shuowen": {
+    "english": "The road that is walked."
+   },
    "tier": "locked"
   },
   {
@@ -22047,6 +22079,9 @@
     "口",
     "丂"
    ],
+   "shuowen": {
+    "english": "To consent."
+   },
    "tier": "locked"
   },
   {
@@ -22325,6 +22360,9 @@
     "之",
     "象"
    ],
+   "shuowen": {
+    "english": "The many sprouts. From the shape of its ancient form."
+   },
    "tier": "Tier 3"
   },
   {
@@ -22381,6 +22419,9 @@
    "sem": [
     "耳"
    ],
+   "shuowen": {
+    "english": "Getting through."
+   },
    "tier": "locked"
   },
   {
@@ -22479,6 +22520,9 @@
    "sem": [
     "巾"
    ],
+   "shuowen": {
+    "english": "A lower skirt."
+   },
    "tier": "locked"
   },
   {
@@ -22679,6 +22723,9 @@
     "口",
     "夕"
    ],
+   "shuowen": {
+    "english": "To name oneself. Dusk means the dark: in the dark people cannot see one another, so they name themselves with the mouth."
+   },
    "tier": "Tier 3"
   },
   {
@@ -23187,6 +23234,9 @@
     "彳",
     "亍"
    ],
+   "shuowen": {
+    "english": "A person's walking and hurrying."
+   },
    "tier": "Tier 3"
   },
   {
@@ -23570,6 +23620,9 @@
    "sem": [
     "口"
    ],
+   "shuowen": {
+    "english": "A yes, the word of assent."
+   },
    "tier": "locked"
   },
   {
@@ -24707,6 +24760,9 @@
    "sem": [
     "木"
    ],
+   "shuowen": {
+    "english": "Wood that bends and straightens."
+   },
    "tier": "locked"
   },
   {
@@ -25228,6 +25284,9 @@
     "半",
     "見"
    ],
+   "shuowen": {
+    "english": "Where a spring comes out and runs through to a river is a valley."
+   },
    "tier": "locked"
   },
   {
@@ -25856,6 +25915,9 @@
    "sem": [
     "口"
    ],
+   "shuowen": {
+    "english": "To answer one another."
+   },
    "tier": "locked"
   },
   {
@@ -25991,6 +26053,9 @@
     "亏",
     "知"
    ],
+   "shuowen": {
+    "english": "A word for recognizing."
+   },
    "tier": "locked"
   },
   {
@@ -27963,6 +28028,9 @@
    "sem": [
     "牛"
    ],
+   "shuowen": {
+    "english": "The mother among livestock. The Changes says: 'Rearing a cow brings good fortune.'"
+   },
    "tier": "locked"
   },
   {
@@ -29440,6 +29508,9 @@
    "sem": [
     "水"
    ],
+   "shuowen": {
+    "english": "Bright. The look of water that has settled."
+   },
    "tier": "locked"
   },
   {
@@ -29918,6 +29989,9 @@
    "sem": [
     "人"
    ],
+   "shuowen": {
+    "english": "To bind."
+   },
    "tier": "locked"
   },
   {
@@ -30093,6 +30167,9 @@
    "sem": [
     "力"
    ],
+   "shuowen": {
+    "english": "Labor."
+   },
    "tier": "locked"
   },
   {
@@ -30607,6 +30684,9 @@
    "sem": [
     "广"
    ],
+   "shuowen": {
+    "english": "The great hall of a palace."
+   },
    "tier": "locked"
   },
   {
@@ -30972,6 +31052,9 @@
     "心",
     "禺"
    ],
+   "shuowen": {
+    "english": "Dull-witted."
+   },
    "tier": "locked"
   },
   {
@@ -31275,6 +31358,9 @@
    "sem": [
     "米"
    ],
+   "shuowen": {
+    "english": "Fodder and grain presented to guests."
+   },
    "tier": "Tier 3"
   },
   {
@@ -31303,6 +31389,9 @@
    "r": "water",
    "rad": "水",
    "sem": [],
+   "shuowen": {
+    "english": "Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
+   },
    "tier": "locked"
   },
   {
@@ -31336,6 +31425,9 @@
    "sem": [
     "水"
    ],
+   "shuowen": {
+    "english": "Surging and shaking."
+   },
    "tier": "locked"
   },
   {
@@ -31460,6 +31552,9 @@
    "sem": [
     "水"
    ],
+   "shuowen": {
+    "english": "An abundant flow."
+   },
    "tier": "Tier 3"
   },
   {
@@ -33229,6 +33324,9 @@
     "人",
     "各"
    ],
+   "shuowen": {
+    "english": "Disaster."
+   },
    "tier": "locked"
   },
   {
@@ -35990,6 +36088,9 @@
    "sem": [
     "隹"
    ],
+   "shuowen": {
+    "english": "The mother among birds."
+   },
    "tier": "locked"
   },
   {
@@ -37577,6 +37678,10 @@
    "sem": [
     "土"
    ],
+   "shuowen": {
+    "english": "The far reaches of the earth.",
+    "pinyin": "yán"
+   },
    "tier": null
   },
   {
@@ -38347,6 +38452,9 @@
    "sem": [
     "乙"
    ],
+   "shuowen": {
+    "english": "Out of the ordinary."
+   },
    "tier": "locked"
   },
   {
@@ -45437,6 +45545,9 @@
    "sem": [
     "鬼"
    ],
+   "shuowen": {
+    "english": "The yin spirit."
+   },
    "tier": "locked"
   },
   {
@@ -62998,6 +63109,35 @@
    {
     "chain": [],
     "chapters": [
+     11
+    ],
+    "confirmed_print": 0,
+    "coverage": {
+     "chapters": []
+    },
+    "date": "1008 CE",
+    "editions": [],
+    "entries": [],
+    "forks": [
+     74
+    ],
+    "holds": [],
+    "id": "guangyun",
+    "kind": "dictionary",
+    "name": "Guangyun (Broad Rhymes)",
+    "pending_print": 0,
+    "pending_via": 0,
+    "policy": "sources/PROVENANCE.md#the-admission-rules",
+    "url": "https://zh.wikisource.org/wiki/%E5%BB%A3%E9%9F%BB_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B72",
+    "use": "facts",
+    "years": [
+     1008,
+     1008
+    ]
+   },
+   {
+    "chain": [],
+    "chapters": [
      18,
      19,
      25,
@@ -63854,6 +63994,54 @@
    },
    {
     "chain": [],
+    "chapters": [
+     11
+    ],
+    "confirmed_print": 0,
+    "coverage": {
+     "chapters": []
+    },
+    "editions": [],
+    "entries": [],
+    "forks": [
+     74
+    ],
+    "holds": [],
+    "id": "moe-character-variants",
+    "kind": "dictionary",
+    "name": "Dictionary of Chinese Character Variants, Taiwan Ministry of Education",
+    "pending_print": 0,
+    "pending_via": 0,
+    "policy": "sources/PROVENANCE.md#the-admission-rules",
+    "url": "https://dict.variants.moe.edu.tw/",
+    "use": "facts"
+   },
+   {
+    "chain": [],
+    "chapters": [
+     11
+    ],
+    "confirmed_print": 0,
+    "coverage": {
+     "chapters": []
+    },
+    "editions": [],
+    "entries": [],
+    "forks": [
+     74
+    ],
+    "holds": [],
+    "id": "moe-revised-mandarin",
+    "kind": "dictionary",
+    "name": "Revised Mandarin Chinese Dictionary, Taiwan Ministry of Education",
+    "pending_print": 0,
+    "pending_via": 0,
+    "policy": "sources/PROVENANCE.md#the-admission-rules",
+    "url": "https://dict.revised.moe.edu.tw/",
+    "use": "facts"
+   },
+   {
+    "chain": [],
     "chapters": [],
     "confirmed_print": 0,
     "coverage": {
@@ -64498,11 +64686,11 @@
    "citation_debt": 0,
    "confirmed_print": 0,
    "entries": 77,
-   "facts": 40,
+   "facts": 43,
    "incomplete_entries": 77,
    "pending_print": 36,
    "readings": 229,
-   "sources": 54,
+   "sources": 57,
    "stored": 5
   }
  },

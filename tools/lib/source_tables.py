@@ -26,6 +26,13 @@ CREATE TABLE source_citation (
     record TEXT NOT NULL,
     PRIMARY KEY (slug, seq)
 );
+CREATE TABLE source_fork_citation (
+    variant_group INTEGER NOT NULL,
+    seq INTEGER NOT NULL,
+    source TEXT NOT NULL REFERENCES source(id),
+    record TEXT NOT NULL,
+    PRIMARY KEY (variant_group, seq)
+);
 CREATE TABLE source_chapter_commentary (
     chapter INTEGER NOT NULL REFERENCES chapter(n),
     source TEXT NOT NULL REFERENCES source(id),
@@ -61,13 +68,17 @@ def store(cur, registry):
     cur.executemany("INSERT INTO source_citation VALUES (?, ?, ?, ?)", [
         (slug, index, ref["source"], encode(ref)) for slug, entry in registry.entries.items()
         for index, ref in enumerate(entry["refs"])])
+    cur.executemany("INSERT INTO source_fork_citation VALUES (?, ?, ?, ?)", [
+        (group, index, ref["source"], encode(ref)) for group, fork in registry.forks.items()
+        for index, ref in enumerate(fork["refs"])])
     cur.executemany("INSERT INTO source_chapter_commentary VALUES (?, ?, ?)", [
         (chapter, item["source"], item["path"]) for chapter, data in registry.chapters.items()
         for item in data["commentary"]])
     cur.executemany("INSERT INTO source_total VALUES (?, ?)", sorted(registry.totals.items()))
     cur.executemany("INSERT INTO source_editorial_label VALUES (?, ?)", sorted(EDITORIAL.items()))
+    witness_ids = {reading["source"] for fork in registry.forks.values() for reading in fork["readings"]}
     for ident, source in registry.records.items():
-        if source["kind"] not in {"base", "commentary", "excavated", "transmitted"} and not source["forks"]:
+        if source["kind"] not in {"base", "commentary", "excavated", "transmitted"} and ident not in witness_ids:
             continue
         coverage = source["coverage"]
         covered, total = len(coverage["chapters"]), coverage.get("total")
@@ -161,4 +172,8 @@ def published_chapters(conn, cards, legacy_chapters):
                 record["pinyin"] = rpin
             record.update({k: v for k, v in zip(EVIDENCE, evidence) if v is not None})
             forks[group]["readings"].append(record)
+    for group, record in conn.execute(
+        "SELECT variant_group, record FROM source_fork_citation ORDER BY variant_group, seq"
+    ):
+        forks[group].setdefault("refs", []).append(json.loads(record))
     return chapters

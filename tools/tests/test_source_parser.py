@@ -29,6 +29,7 @@ class SourceParserTests(unittest.TestCase):
         self.assertTrue(all(v.note == "First line second line" for v in parsed))
 
     def test_structured_fork_ids_are_required_and_unique(self):
+        header = "# next-fork-id: 126\n"
         fork = ("- chapter: 4\n{id_field}  line: example\n  base: example\n"
                 "  readings: []\n  meaning_bearing: false\n  our_call: base\n"
                 "  note: Example\n  logged: false\n")
@@ -42,7 +43,7 @@ class SourceParserTests(unittest.TestCase):
                     (valid + valid, "duplicate fork id 1"),
                 ):
                     with self.subTest(message=message, text=text):
-                        path.write_text(text, encoding="utf-8")
+                        path.write_text(header + text, encoding="utf-8")
                         with self.assertRaisesRegex(ValueError, message):
                             corpus.load_variants()
 

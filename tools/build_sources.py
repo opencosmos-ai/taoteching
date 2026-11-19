@@ -26,6 +26,12 @@ def local(path):
     return "../" + quote(path, safe="/#")
 
 
+def passage(ref):
+    label = ref.get("locator", "Passage citation")
+    url = ref.get("url")
+    return link(label, url if "://" in url else local(url)) if url else label
+
+
 def render(registry):
     totals = registry.totals
     out = [
@@ -95,12 +101,15 @@ def render(registry):
                     if ref["source"] != ident:
                         continue
                     anchor = f"#{ref['at']}" if ref.get("at") else ""
-                    label = ref.get("locator", "Passage citation")
                     term = slug.split("-")
                     entry_label = "-".join(part for part in term if part.isascii()) or "entry"
                     out.append("- " + link(f"Glossary · {entry_label}", local(f"glossary/{slug}.md{anchor}"))
-                               + " · " + (link(label, ref["url"] if "://" in ref["url"] else local(ref["url"]))
-                                          if "url" in ref else label))
+                               + " · " + passage(ref))
+            for fork_id in source["forks"]:
+                fork = registry.forks[fork_id]
+                for ref in fork["refs"]:
+                    if ref["source"] == ident:
+                        out.append(f"- Chapter {fork['chapter']} evidence · " + passage(ref))
             if source["chapters"]:
                 out.append("- Apparatus chapters " + ", ".join(
                     link(str(n), local(f"chapters/{n:03}.md")) for n in source["chapters"])

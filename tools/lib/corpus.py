@@ -43,6 +43,7 @@ _HEADER_CELL = "原文"
 _RULE_CHARS = set("|: -")
 
 UNTRANSLATED_MARKER = "*(untranslated)*"
+CITATION_FIELDS = {"source", "via", "edition", "locator", "url"}
 
 
 # ---------------------------------------------------------------- frontmatter
@@ -73,8 +74,7 @@ def parse_frontmatter(text, path="frontmatter"):
                 continue
             if block == "empty_refs" or not line.startswith("  - "):
                 raise ValueError(f"{location}: expected a refs mapping")
-            data["refs"].append(inline_map(line[4:], location,
-                {"source", "via", "edition", "locator", "url", "at"}))
+            data["refs"].append(inline_map(line[4:], location, CITATION_FIELDS | {"at"}))
             continue
         if line.startswith("refs_status:"):
             if "refs_status" in data:
@@ -678,6 +678,7 @@ class Variant:
     location: str = ""
     legacy: bool = False
     id: Optional[int] = None
+    refs: list = field(default_factory=list)
 
     @property
     def followed_a_witness(self):
@@ -692,21 +693,47 @@ def load_variants(chapter=None):
     """Parse sources/variants.yaml. Hand-rolled, like everything else here."""
     if not VARIANTS.exists():
         return []
+    _, out = parse_variants(VARIANTS.read_text(encoding="utf-8"), VARIANTS)
+    if chapter is not None:
+        out = [v for v in out if v.chapter == chapter]
+    return out
+
+
+def fork_number(value, field, location):
+    if not re.fullmatch(r"[1-9][0-9]{0,15}", value) or int(value) >= 2**53:
+        raise ValueError(f"{location}: {field} must be a positive safe integer")
+    return int(value)
+
+
+def parse_variants(text, path, *, require_counter=True):
+    """Read the counter and records from an apparatus snapshot."""
+    next_id, counter_at = None, str(path)
+    in_header = True
+    for line, raw in enumerate(text.splitlines(), 1):
+        if raw.startswith("- "):
+            in_header = False
+        if not re.match(r"^# next-fork-id\b", raw):
+            continue
+        counter_at = f"{path}:{line}"
+        label, separator, value = raw.partition(":")
+        if label != "# next-fork-id" or not separator or not in_header:
+            raise ValueError(f"{counter_at}: expected '# next-fork-id: N' in the apparatus header")
+        if next_id is not None:
+            raise ValueError(f"{counter_at}: duplicate next-fork-id")
+        next_id = fork_number(value.strip(), "next-fork-id", counter_at)
+
     out = []
     seen_ids = set()
     required = {"chapter", "line", "base", "meaning_bearing", "our_call", "note", "logged"}
-    fields = required | {"id", "witnesses", "readings", "base_pinyin", "base_english"}
-    for location, cur in records(VARIANTS, fields, maps={"witnesses"}, folded={"note"},
-                                 blocks={"readings": Reading.__dataclass_fields__}):
+    fields = required | {"id", "witnesses", "readings", "refs", "base_pinyin", "base_english"}
+    for location, cur in records(path, fields, text=text, maps={"witnesses"}, folded={"note"},
+                                 blocks={"readings": Reading.__dataclass_fields__, "refs": CITATION_FIELDS}):
         legacy = "witnesses" in cur
         if not required <= cur.keys() or legacy == ("readings" in cur):
             raise ValueError(f"{location}: expected all variant fields and exactly one reading form")
         ident = None
         if not legacy or "id" in cur:
-            value = cur.get("id", "")
-            if not re.fullmatch(r"[1-9][0-9]{0,15}", value) or int(value) >= 2**53:
-                raise ValueError(f"{location}: fork id must be a positive safe integer")
-            ident = int(value)
+            ident = fork_number(cur.get("id", ""), "fork id", location)
             if ident in seen_ids:
                 raise ValueError(f"{location}: duplicate fork id {ident}")
             seen_ids.add(ident)
@@ -726,12 +753,15 @@ def load_variants(chapter=None):
             chapter=int(cur["chapter"]), line=cur["line"], base=cur["base"], witnesses=witnesses,
             meaning_bearing=cur["meaning_bearing"] == "true", our_call=cur["our_call"],
             note=" ".join(cur["note"].split()), logged=cur["logged"], readings=readings,
+            refs=cur.get("refs", []),
             base_pinyin=cur.get("base_pinyin", ""), base_english=cur.get("base_english", ""),
             location=location, legacy=legacy, id=ident,
         ))
-    if chapter is not None:
-        out = [v for v in out if v.chapter == chapter]
-    return out
+    if next_id is None and require_counter and (not out or any(not v.legacy for v in out)):
+        raise ValueError(f"{path}: missing next-fork-id")
+    if next_id is not None and next_id <= max(seen_ids, default=0):
+        raise ValueError(f"{counter_at}: next-fork-id must exceed every assigned fork ID")
+    return next_id, out
 
 
 # --------------------------------------------------------------------- guodian

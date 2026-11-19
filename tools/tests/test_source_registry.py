@@ -12,6 +12,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from build_db import build
 from build_explorer import payload
 from build_sources import render
+from check_source_links import source_urls
 from lib.corpus import load_chapters, load_variants, parse_frontmatter
 from lib.source_registry import han, pairing, resolve
 from lib.source_tables import published_chapters, published_citations, published_sources
@@ -27,6 +28,7 @@ class PublishedRegistry(unittest.TestCase):
             cls.chapters = published_chapters(db, cls.cards, legacy["chapters"])
             cls.sources = published_sources(db)
             cls.citations = published_citations(db)
+            cls.witness_ids = {ident for (ident,) in db.execute("SELECT id FROM witness")}
         cls.records = {r["id"]: r for r in cls.sources["records"]}
 
     def test_guodian_coverage_describes_which_passages_survive(self):
@@ -61,6 +63,25 @@ class PublishedRegistry(unittest.TestCase):
         self.assertEqual(reading["chain"], ["zhu-qianzhi"])
         self.assertIn("Dunhuang Xin manuscript", reading["locator"])
         self.assertIn("url", reading)
+
+    def test_chapter_11_dictionaries_reach_catalogue_and_link_check(self):
+        fork = next(f for f in self.chapters[11]["forks"] if f["id"] == 74)
+        ids = {"guangyun", "moe-character-variants", "moe-revised-mandarin"}
+        self.assertEqual({ref["source"] for ref in fork["refs"]}, ids)
+        guangyun = next(ref for ref in fork["refs"] if ref["source"] == "guangyun")
+        self.assertEqual(guangyun["chain"], ["moe-character-variants"])
+        self.assertTrue(ids.isdisjoint(self.witness_ids))
+        page = render(resolve())
+        for ident in ids:
+            self.assertEqual(self.records[ident]["forks"], [74])
+            self.assertEqual(self.records[ident]["chapters"], [11])
+            section = page.split(f'<a name="{ident}"></a>', 1)[1].split('<a name="', 1)[0]
+            self.assertIn("Chapter 11 evidence", section)
+        urls = source_urls({"sources": self.sources, "chapter_sources": self.chapters, "entries": []})
+        for ref in fork["refs"]:
+            self.assertIn(ref["url"], urls)
+        for ident in ids:
+            self.assertIn(self.records[ident]["url"], urls)
 
     def test_base_editions_are_chronological_in_markdown_and_export(self):
         self.assertEqual([edition["year"] for edition in self.records["base"]["editions"]],
