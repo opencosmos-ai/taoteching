@@ -7,6 +7,7 @@ forbidden: ["God", "the Lord", "Creator", "heaven", "emperor", "the high god"]
 chapters: [4]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 帝 (Dì) — A God, and the One That Was Deposed

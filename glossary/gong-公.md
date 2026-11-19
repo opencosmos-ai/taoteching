@@ -9,6 +9,7 @@ status: locked
 pairing: false
 covers:
   - { char: "私", render: "the private / the private self" }
+refs_status: incomplete
 ---
 ## 公 (Gōng) — Impartiality
 

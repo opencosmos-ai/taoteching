@@ -6,6 +6,7 @@ forbidden: ["system", "mechanism", "machine", "utensil"]
 chapters: [11, 28, 29, 31, 36, 41, 57, 67, 80]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 器 (Qì) — Vessel
 

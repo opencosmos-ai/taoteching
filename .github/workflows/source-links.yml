@@ -1,0 +1,51 @@
+name: source links
+
+on:
+  schedule:
+    - cron: "24 16 * * 1"
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+  issues: write
+
+concurrency:
+  group: source-link-report-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    if: github.event_name == 'schedule' || github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # An artifact holds the first failure. The issue is created only when a
+      # URL fails twice, and then retains its own history as well.
+      - name: Restore previous link history
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          run_id=$(gh api --method GET \
+            "repos/$GITHUB_REPOSITORY/actions/workflows/source-links.yml/runs" \
+            -f "branch=$GITHUB_REF_NAME" -f status=success -F per_page=1 \
+            --jq '.workflow_runs[0].id // empty')
+          if [ -n "$run_id" ]; then
+            artifact=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$run_id/artifacts" \
+              --jq '.artifacts[] | select(.name == "source-link-history" and (.expired | not)) | .id')
+            if [ -n "$artifact" ]; then
+              gh run download "$run_id" --name source-link-history --dir "$RUNNER_TEMP/source-link-history"
+            fi
+          fi
+      - run: python3 tools/check_source_links.py --history "$RUNNER_TEMP/source-link-history/history.json"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-link-history
+          path: ${{ runner.temp }}/source-link-history/history.json
+          if-no-files-found: error

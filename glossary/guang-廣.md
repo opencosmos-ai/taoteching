@@ -8,6 +8,7 @@ shuowen: "The great hall of a palace. From 广 (yǎn — a roof), with 黃 (huá
 chapters: [41, 67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 廣 (Guǎng) — Broad

@@ -1,0 +1,359 @@
+# Bibliographic facts absent from the manuscript or imported frontmatter.
+# Coverage, paths of imported files, and recorded uses come from the build.
+
+- id: base
+  name: "The received Laozi, Wang Bi recension"
+  kind: base
+  editions:
+    - { id: zhengtong-1445, title: "Zhengtong Daozang", year: 1445 }
+    - { id: siku-1782, title: "Siku Quanshu", year: 1782 }
+    - { id: ershier-1875, title: "Ershi'er zi", publisher: "Zhejiang Book Company", year: 1875 }
+    - { id: sibu-1919, title: "Sibu congkan, first series", publisher: "Commercial Press", year: 1919 }
+
+- id: wangbi
+  name: "Wang Bi's commentary on the Laozi"
+  display_edition: "Siku Quanshu, Masters Division 14, Daoist works"
+  scan: https://archive.org/details/06049303.cn
+
+- id: heshanggong
+  name: "Heshang Gong's commentary on the Laozi"
+  display_edition: "Sibu congkan 0532, facsimile of the Qu family's Song woodblock edition"
+
+- id: hanfeizi
+  name: "Han Fei's Explaining Laozi and Illustrating Laozi"
+  display_edition: "Han Feizi, chapters 20 (Explaining Laozi) and 21 (Illustrating Laozi)"
+
+- id: shuowen
+  date: "c. 100 CE"
+  display_edition: "Sibu congkan, first series, facsimile"
+
+- id: guodian
+  name: "Guodian bamboo slips"
+  short_name: Guodian
+  kind: excavated
+  use: facts
+  date: "c. 300 BCE"
+  years: [-320, -300]
+  found: "1993, Guodian, Jingmen, Hubei"
+  holds: [sources/guodian-inventory.yaml]
+  editions:
+    - { id: jingmen-1998, title: "Guodian Chu mu zhujian", publisher: "Wenwu", year: 1998 }
+  why_not_stored: excavated
+
+- id: mawangdui-a
+  name: "Mawangdui silk A"
+  kind: excavated
+  use: facts
+  date: "c. 200 BCE"
+  found: "1973, Mawangdui, Changsha, Hunan"
+  editions:
+    - { id: wenwu-1980, title: "Mawangdui Han mu boshu, volume 1", publisher: "Wenwu", year: 1980 }
+    - { id: gao-1996, title: "Gao Ming, Collation of the Silk Laozi", year: 1996 }
+    - { id: collected-2014, title: "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs", year: 2014 }
+  why_not_stored: excavated
+
+- id: mawangdui-b
+  name: "Mawangdui silk B"
+  kind: excavated
+  use: facts
+  date: "c. 175 BCE"
+  found: "1973, Mawangdui, Changsha, Hunan"
+  editions:
+    - { id: wenwu-1980, title: "Mawangdui Han mu boshu, volume 1", publisher: "Wenwu", year: 1980 }
+    - { id: gao-1996, title: "Gao Ming, Collation of the Silk Laozi", year: 1996 }
+    - { id: collected-2014, title: "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs", year: 2014 }
+  why_not_stored: excavated
+
+- id: beida
+  name: "Peking University Han bamboo slips"
+  kind: excavated
+  use: facts
+  date: "Western Han"
+  editions:
+    - { id: peking-2012, title: "Western Han Bamboo Texts in the Peking University Collection, volume 2", publisher: "Shanghai Guji Chubanshe", year: 2012 }
+  why_not_stored: excavated
+
+- id: mawangdui-parallel-transcription
+  name: "Online Mawangdui comparison (unidentified in the notes)"
+  kind: reference
+  use: facts
+
+- id: guodian-secondary-transcription
+  name: "Secondary Guodian transcription (unidentified in the notes)"
+  kind: reference
+  use: facts
+
+- id: fuyi
+  name: "Fu Yi's ancient Laozi text"
+  kind: transmitted
+  use: facts
+  date: "Tang recension"
+  via: wikisource
+  editions:
+    - { id: zhengtong-1445, title: "Daodejing, the Ancient Text, in the Zhengtong Daozang", year: 1445, url: "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%E5%8F%A4%E6%9C%AC%E7%AF%87" }
+
+- id: fanyingyuan
+  name: "Fan Yingyuan's Laozi recension"
+  kind: transmitted
+  use: facts
+  date: "Song"
+
+- id: yongle-dadian
+  name: "Yongle Dadian (the Yongle Encyclopedia)"
+  kind: transmitted
+  use: facts
+  date: "Ming"
+  via: wangbi
+
+- id: shiwen
+  name: "Jingdian Shiwen (Explications of the Classics)"
+  kind: transmitted
+  use: facts
+  via: wangbi
+
+- id: kaiyuan
+  name: "Kaiyuan edition of the Laozi"
+  kind: transmitted
+  use: facts
+  date: "Tang"
+  via: wangbi
+
+- id: dunhuang
+  name: "Dunhuang Laozi manuscripts"
+  kind: transmitted
+  use: facts
+
+- id: huainanzi
+  name: "Huainanzi"
+  kind: context
+  use: facts
+
+- id: analects
+  name: "Analects"
+  kind: context
+  use: facts
+
+- id: baihu-tong
+  name: "Baihu tong"
+  kind: context
+  use: facts
+  date: "79 CE"
+
+- id: book-of-odes
+  name: "Book of Odes"
+  kind: context
+  use: facts
+
+- id: fengsu-tongyi
+  name: "Fengsu tongyi"
+  kind: context
+  use: facts
+  date: "2nd century CE"
+
+- id: i-ching
+  name: "I Ching"
+  kind: context
+  use: facts
+
+- id: mencius
+  name: "Mencius"
+  kind: context
+  use: facts
+
+- id: rites-of-zhou
+  name: "Rites of Zhou"
+  kind: context
+  use: facts
+
+- id: taiyi-sheng-shui
+  name: "Taiyi Sheng Shui (The Great One Gives Birth to Water)"
+  kind: context
+  use: facts
+  why_not_stored: excavated
+
+- id: xing-zi-ming-chu
+  name: "Xing Zi Ming Chu (Nature Comes from the Mandate)"
+  kind: context
+  use: facts
+  why_not_stored: excavated
+
+- id: xunzi
+  name: "Xunzi"
+  kind: context
+  use: facts
+
+- id: zhuangzi
+  name: "Zhuangzi"
+  kind: context
+  use: facts
+
+- id: zuozhuan
+  name: "Zuozhuan"
+  kind: context
+  use: facts
+
+- id: baxter-sagart
+  name: "Baxter and Sagart's Old Chinese reconstructions"
+  kind: reference
+  use: facts
+
+- id: dong-chinese
+  name: "Dong Chinese"
+  kind: reference
+  use: facts
+  url: https://www.dong-chinese.com/
+
+- id: duan-yucai
+  name: "Duan Yucai's annotated Shuowen"
+  kind: reference
+  use: facts
+  date: "1815"
+
+- id: ji-xusheng
+  name: "Ji Xusheng's Shuowen xinzheng"
+  kind: reference
+  use: facts
+
+- id: kangxi
+  name: "Kangxi Dictionary"
+  kind: dictionary
+  use: consulted
+  date: "1716"
+
+- id: guangyun
+  name: "Guangyun (Broad Rhymes)"
+  kind: dictionary
+  use: facts
+  date: "1008 CE"
+  url: https://zh.wikisource.org/wiki/%E5%BB%A3%E9%9F%BB_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B72
+
+- id: moe-character-variants
+  name: "Dictionary of Chinese Character Variants, Taiwan Ministry of Education"
+  kind: dictionary
+  use: facts
+  url: https://dict.variants.moe.edu.tw/
+
+- id: moe-revised-mandarin
+  name: "Revised Mandarin Chinese Dictionary, Taiwan Ministry of Education"
+  kind: dictionary
+  use: facts
+  url: https://dict.revised.moe.edu.tw/
+
+- id: schuessler
+  name: "Axel Schuessler's Old Chinese etymological work"
+  kind: reference
+  use: facts
+
+- id: stedt
+  name: "Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT)"
+  kind: reference
+  use: facts
+  url: https://stedt.berkeley.edu/
+
+- id: wiktionary
+  name: "Wiktionary"
+  kind: reference
+  use: facts
+  url: https://en.wiktionary.org/
+
+- id: zdic
+  name: "Handian (zdic)"
+  kind: reference
+  use: facts
+  url: https://www.zdic.net/
+
+- id: ctext
+  name: "Chinese Text Project"
+  kind: reference
+  use: facts
+  url: https://ctext.org/
+
+- id: shidian-guji
+  name: "Shidian guji"
+  kind: reference
+  use: facts
+  url: https://www.shidianguji.com/
+
+- id: six-dsy
+  name: "6dsy manuscript comparison"
+  kind: reference
+  use: facts
+  url: https://6dsy.cn/
+
+- id: wikisource
+  name: "Chinese Wikisource"
+  kind: reference
+  use: facts
+  url: https://zh.wikisource.org/
+
+- id: biaodianfu
+  name: "Biaodianfu's parallel Laozi table"
+  kind: reference
+  use: facts
+  url: https://www.biaodianfu.com/
+
+- id: sina
+  name: "Sina Blog transcription"
+  kind: reference
+  use: facts
+
+- id: zhu-qianzhi
+  name: "Zhu Qianzhi's Laozi jiaoshi (The Laozi Collated and Explained)"
+  kind: reference
+  use: facts
+
+- id: balfour
+  name: "Taoist Texts (Frederic H. Balfour)"
+  kind: translation
+  use: consulted
+  date: "1884"
+  url: https://archive.org/details/taoisttextsethic00balf
+
+- id: carus
+  name: "Lao-Tze's Tao-Teh-King (Paul Carus)"
+  kind: translation
+  use: consulted
+  date: "1898"
+  url: https://www.loc.gov/item/34009062/
+
+- id: giles
+  name: "The Sayings of Lao-Tzu (Lionel Giles)"
+  kind: translation
+  use: consulted
+  date: "1905"
+  url: https://original.sacred-texts.com/tao/salt/index.htm
+
+- id: goddard
+  name: "Tao Teh King in Laotzu's Tao and Wu Wei (Dwight Goddard)"
+  kind: translation
+  use: consulted
+  date: "1919"
+  url: https://original.sacred-texts.com/tao/ltw/index.htm
+
+- id: legge
+  name: "The Tao Teh King in The Texts of Taoism, Part I (James Legge)"
+  kind: translation
+  use: consulted
+  date: "1891"
+  url: https://www.gutenberg.org/ebooks/216
+
+- id: mears
+  name: "Tao Teh King (Isabella Mears)"
+  kind: translation
+  use: consulted
+  date: "1922"
+  url: https://books.google.com/books?id=x4RMAQAAMAAJ
+
+- id: old
+  name: "The Book of the Simple Way of Laotze (Walter Gorn Old)"
+  kind: translation
+  use: consulted
+  date: "1904"
+  url: https://wellcomecollection.org/works/zsxjc3jj
+
+- id: suzuki-carus
+  name: "The Canon of Reason and Virtue (D. T. Suzuki and Paul Carus)"
+  kind: translation
+  use: consulted
+  date: "1913"
+  url: https://original.sacred-texts.com/tao/crv/index.htm

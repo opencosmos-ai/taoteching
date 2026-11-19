@@ -1,0 +1,8 @@
+# Reader-ready dictionary readings for graphs without a translated glossary
+# entry. The spelling comes from the stored Shuowen. This pinyin belongs to
+# its dictionary sense and may differ from the pronunciation in our text.
+# The chapter 11 manuscript note records the distinction and its evidence.
+
+- char: "埏"
+  pinyin: "yán"
+  english: "The far reaches of the earth."

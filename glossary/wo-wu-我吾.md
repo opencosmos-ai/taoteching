@@ -6,6 +6,9 @@ forbidden: []
 chapters: [4, 13, 16, 21, 25, 29, 37, 42, 43, 49, 54, 57, 69, 70, 74]
 status: locked
 pairing: true
+refs_status: incomplete
+refs:
+  - { source: zhuangzi, locator: "2, Discussion on Making All Things Equal, opening exchange about losing the self" }
 ---
 ## 我 / 吾 (Wǒ / Wú) — The Self Seen and the Self Seeing
 

@@ -7,6 +7,7 @@ forbidden: ["emptiness", "the void", "vacuity", "nothingness"]
 chapters: [3, 5, 16, 22, 53]
 status: open
 pairing: false
+refs_status: incomplete
 ---
 ## 虛 (Xū) — Empty
 

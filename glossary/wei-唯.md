@@ -11,6 +11,7 @@ pairing: false
 covers:
   - { char: "惟", render: "only" }
 shuowen: "A yes, the word of assent. From 口 (kǒu — mouth), with 隹 (zhuī — a short-tailed bird) for sound."
+refs_status: incomplete
 ---
 
 ## 唯 (Wéi) — Only

@@ -6,37 +6,21 @@
 #   python3 tools/concordance.py --witnesses 21
 #   python3 tools/check_locks.py --rule unlogged-variant
 #
-# WHY FACTS AND NOT TRANSCRIPTIONS. The Mawangdui silks were excavated in 1973
-# and the Guodian slips in 1993. Every transcription of them is modern, and
-# reconstructing the damaged graphs is genuine editorial work by living
-# scholars. "Mawangdui A and B read 自今及古 where Wang Bi reads 自古及今" is a
-# fact about a text, and facts are not copyrightable. See PROVENANCE.md.
-#
-# Witness ids: wangbi (our base) · mawangdui-a (甲本, c. 200 BCE) ·
-# mawangdui-b (乙本, c. 175 BCE) · guodian (~300 BCE) · beida (early Han) ·
-# fuyi (Tang) · fanyingyuan (范應元, Song) · heshanggong ·
-# hanfeizi (解老 / 喻老, oldest commentary)
-#
-# EXCAVATED vs TRANSMITTED. guodian, mawangdui-a/b and beida came out of the
-# ground; fuyi, fanyingyuan, heshanggong and wangbi came down by copying. A
-# transmitted edition may still preserve an old reading — but "the oldest
-# witness" means the excavated ones, and an entry that follows a transmitted
-# reading against all of them must say so in its note. See ch 25.
-#
-# Fields:
-#   chapter          int
-#   line             the base-text line the fork sits in
-#   base             our reading (the contested characters only)
-#   witnesses        {witness-id: reading}
-#   meaning_bearing  true when the fork changes what the line says
-#   our_call         base | <witness-id> | punctuation | undecided
-#   note             one sentence on what turns on it
-#   logged           where the reasoning lives, or false
+# See SOURCES.md for source identities and PROVENANCE.md for admission rules.
+# Each fork has a permanent numeric ID. Use the counter's current value for a
+# new fork, then advance it. Deleting or moving a fork leaves the counter alone.
+# next-fork-id: 126
+# Each reading carries its evidence and its own gloss.
+# A print check is tracked on the individual reading and linked to WORKLIST.md.
 
 - chapter: 4
+  id: 1
   line: "湛兮，似或存"
   base: "或"
-  witnesses: { heshanggong: "若" }
+  base_pinyin: "huò"
+  base_english: "perhaps"
+  readings:
+    - { source: "heshanggong", text: "若", pinyin: "ruò", english: "as if" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -49,9 +33,15 @@
   logged: notes/manuscript.md
 
 - chapter: 4
+  id: 2
   line: "道沖，而用之或不盈"
   base: "沖"
-  witnesses: { mawangdui-b: "沖", fuyi: "盅", shuowen: "盅 (Xu Shen quotes the line under 盅, 器虛也)" }
+  base_pinyin: "chōng"
+  base_english: "empty, in this context"
+  readings:
+    - { source: "mawangdui-b", text: "沖", pinyin: "chōng", english: "empty, in this context" }
+    - { source: "fuyi", text: "盅", pinyin: "zhōng", english: "an empty vessel" }
+    - { source: "shuowen", text: "盅", pinyin: "zhōng", english: "an empty vessel", annotation: "Xu Shen quotes the line under the empty-vessel graph, defined there as the emptiness inside a vessel.", locator: "Entry for the empty-vessel graph, under the vessel radical" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -67,9 +57,15 @@
   logged: notes/manuscript.md
 
 - chapter: 8
+  id: 3
   line: "政善治"
   base: "政"
-  witnesses: { heshanggong: "正", siku-wangbi: "正", yongle-dadian: "政" }
+  base_pinyin: "zhèng"
+  base_english: "governing"
+  readings:
+    - { source: "heshanggong", text: "正", pinyin: "zhèng", english: "straight or correct" }
+    - { source: "wangbi", text: "正", pinyin: "zhèng", english: "straight or correct" }
+    - { source: "yongle-dadian", text: "政", pinyin: "zhèng", english: "governing" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -86,9 +82,13 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 4
   line: "故從事於道者，同於道"
   base: "同於道"
-  witnesses: { wangbi: "道者同於道" }
+  base_pinyin: "tóng yú dào"
+  base_english: "be one with the Tao"
+  readings:
+    - { source: "wangbi", text: "道者同於道", pinyin: "dào zhě tóng yú dào", english: "those of the Tao are one with the Tao" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -102,9 +102,13 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 5
   line: "同於失者，失亦樂得之"
   base: "得"
-  witnesses: { heshanggong: "失" }
+  base_pinyin: "dé"
+  base_english: "get"
+  readings:
+    - { source: "heshanggong", text: "失", pinyin: "shī", english: "lose" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -117,9 +121,13 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 6
   line: "故飄風不終朝"
   base: "故"
-  witnesses: { heshanggong: "—" }
+  base_pinyin: "gù"
+  base_english: "therefore"
+  readings:
+    - { source: "heshanggong", text: "—", english: "The connective is absent." }
   meaning_bearing: false
   our_call: base
   note: >
@@ -135,9 +143,15 @@
   logged: notes/manuscript.md
 
 - chapter: 52
+  id: 7
   line: "是謂襲常"
   base: "襲"
-  witnesses: { wangbi: "習", heshanggong: "習", mawangdui-a: "襲" }
+  base_pinyin: "xí"
+  base_english: "continue or carry on"
+  readings:
+    - { source: "wangbi", text: "習", pinyin: "xí", english: "practice" }
+    - { source: "heshanggong", text: "習", pinyin: "xí", english: "practice" }
+    - { source: "mawangdui-a", text: "襲", pinyin: "xí", english: "continue or carry on" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -155,9 +169,14 @@
   logged: notes/manuscript.md
 
 - chapter: 3
+  id: 8
   line: "使夫智者不敢為也"
   base: "智者"
-  witnesses: { heshanggong: "知者", mawangdui-b: "知 (no 者)" }
+  base_pinyin: "zhì zhě"
+  base_english: "the knowers"
+  readings:
+    - { source: "heshanggong", text: "知者", pinyin: "zhì zhě", english: "the knowers" }
+    - { source: "mawangdui-b", text: "知", pinyin: "zhì", english: "knowing, written with the graph for to know", annotation: "The marker for a person who does something is absent.", via: "wikisource", locator: "Silk B, Chapter 3 (received numbering), the line closing the injunction about the knowers", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#3_-_%E7%AB%A0%E4%B8%89", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -179,9 +198,13 @@
   logged: notes/manuscript.md
 
 - chapter: 3
+  id: 9
   line: "不見可欲，使民心不亂"
   base: "民"
-  witnesses: { heshanggong: "使心不亂" }
+  base_pinyin: "mín"
+  base_english: "the people"
+  readings:
+    - { source: "heshanggong", text: "使心不亂", pinyin: "shǐ xīn bù luàn", english: "keep the heart from being disturbed" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -196,9 +219,13 @@
   logged: notes/manuscript.md
 
 - chapter: 38
+  id: 10
   line: "則攘臂而扔之"
   base: "扔"
-  witnesses: { heshanggong: "仍" }
+  base_pinyin: "rēng"
+  base_english: "pull or drag"
+  readings:
+    - { source: "heshanggong", text: "仍", pinyin: "réng", english: "draw along" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -212,9 +239,13 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 11
   line: "天門開闔，能為雌乎"
   base: "為"
-  witnesses: { heshanggong: "無" }
+  base_pinyin: "wéi"
+  base_english: "do"
+  readings:
+    - { source: "heshanggong", text: "無", pinyin: "wú", english: "be without" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -229,9 +260,13 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 12
   line: "明白四達，能無為乎"
   base: "無為"
-  witnesses: { heshanggong: "無知" }
+  base_pinyin: "wú wéi"
+  base_english: "non-doing"
+  readings:
+    - { source: "heshanggong", text: "無知", pinyin: "wú zhī", english: "without knowing" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -245,9 +280,14 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 13
   line: "道之為物，惟恍惟惚"
   base: "道之為物"
-  witnesses: { mawangdui-a: "道之物", mawangdui-b: "道之物" }
+  base_pinyin: "dào zhī wéi wù"
+  base_english: "the Tao as a thing"
+  readings:
+    - { source: "mawangdui-a", text: "道之物", pinyin: "dào zhī wù", english: "the thing that is the Tao" }
+    - { source: "mawangdui-b", text: "道之物", pinyin: "dào zhī wù", english: "the thing that is the Tao" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -258,9 +298,14 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 14
   line: "自古及今，其名不去"
   base: "自古及今"
-  witnesses: { mawangdui-a: "自今及古", mawangdui-b: "自今及古" }
+  base_pinyin: "zì gǔ jí jīn"
+  base_english: "from ancient times to now"
+  readings:
+    - { source: "mawangdui-a", text: "自今及古", pinyin: "zì jīn jí gǔ", english: "from now back to ancient times" }
+    - { source: "mawangdui-b", text: "自今及古", pinyin: "zì jīn jí gǔ", english: "from now back to ancient times" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -270,9 +315,14 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 15
   line: "以閱眾甫"
   base: "閱"
-  witnesses: { mawangdui-a: "順", mawangdui-b: "順" }
+  base_pinyin: "yuè"
+  base_english: "survey"
+  readings:
+    - { source: "mawangdui-a", text: "順", pinyin: "shùn", english: "follow" }
+    - { source: "mawangdui-b", text: "順", pinyin: "shùn", english: "follow" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -281,9 +331,14 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 16
   line: "以閱眾甫"
   base: "甫"
-  witnesses: { mawangdui-a: "父", mawangdui-b: "父" }
+  base_pinyin: "fǔ"
+  base_english: "father, as read here"
+  readings:
+    - { source: "mawangdui-a", text: "父", pinyin: "fù", english: "father" }
+    - { source: "mawangdui-b", text: "父", pinyin: "fù", english: "father" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -294,9 +349,16 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 17
   line: "吾何以知眾甫之狀哉"
   base: "狀"
-  witnesses: { mawangdui-a: "然", mawangdui-b: "然", heshanggong: "然", siku-wangbi: "狀 〔案狀各本俱作然〕" }
+  base_pinyin: "zhuàng"
+  base_english: "form or shape"
+  readings:
+    - { source: "mawangdui-a", text: "然", pinyin: "rán", english: "so" }
+    - { source: "mawangdui-b", text: "然", pinyin: "rán", english: "so" }
+    - { source: "heshanggong", text: "然", pinyin: "rán", english: "so" }
+    - { source: "wangbi", text: "狀", pinyin: "zhuàng", english: "form or shape", annotation: "The Siku editors report that all other editions read “so” in place of “form.”" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -313,9 +375,17 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 18
   line: "故道大，天大，地大，王亦大"
   base: "王"
-  witnesses: { guodian: "王", mawangdui-a: "王", mawangdui-b: "王", beida: "王", fuyi: "人" }
+  base_pinyin: "wáng"
+  base_english: "king"
+  readings:
+    - { source: "guodian", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "mawangdui-a", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "mawangdui-b", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "beida", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "fuyi", text: "人", pinyin: "rén", english: "person or people" }
   meaning_bearing: true
   our_call: fuyi
   note: >
@@ -328,9 +398,17 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 19
   line: "域中有四大，而王居其一焉"
   base: "王"
-  witnesses: { guodian: "王", mawangdui-a: "王", mawangdui-b: "王", beida: "王", fanyingyuan: "人" }
+  base_pinyin: "wáng"
+  base_english: "king"
+  readings:
+    - { source: "guodian", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "mawangdui-a", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "mawangdui-b", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "beida", text: "王", pinyin: "wáng", english: "king" }
+    - { source: "fanyingyuan", text: "人", pinyin: "rén", english: "person or people" }
   meaning_bearing: true
   our_call: fanyingyuan
   note: >
@@ -342,9 +420,16 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 20
   line: "域中有四大"
   base: "域"
-  witnesses: { guodian: "國", mawangdui-a: "國", mawangdui-b: "國", beida: "國" }
+  base_pinyin: "yù"
+  base_english: "domain"
+  readings:
+    - { source: "guodian", text: "國", pinyin: "guó", english: "state" }
+    - { source: "mawangdui-a", text: "國", pinyin: "guó", english: "state" }
+    - { source: "mawangdui-b", text: "國", pinyin: "guó", english: "state" }
+    - { source: "beida", text: "國", pinyin: "guó", english: "state" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -356,18 +441,27 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 21
   line: "有物混成"
   base: "混"
-  witnesses: { mawangdui-a: "昆", mawangdui-b: "昆" }
+  base_pinyin: "hùn"
+  base_english: "mixed together"
+  readings:
+    - { source: "mawangdui-a", text: "昆", pinyin: "kūn", english: "together, in this reading" }
+    - { source: "mawangdui-b", text: "昆", pinyin: "kūn", english: "together, in this reading" }
   meaning_bearing: false
   our_call: base
   note: "Graphic variant only; both read as merged, undifferentiated."
   logged: notes/manuscript.md
 
 - chapter: 2
+  id: 22
   line: "長短相形，高下相盈"
   base: "相形 … 相盈"
-  witnesses: { siku-wangbi: "相較 … 相傾" }
+  base_pinyin: "xiāng xíng … xiāng yíng"
+  base_english: "shape each other … fill each other"
+  readings:
+    - { source: "wangbi", text: "相較 … 相傾", pinyin: "xiāng jiào … xiāng qīng", english: "compare with each other … incline toward each other" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -378,9 +472,13 @@
   logged: notes/manuscript.md
 
 - chapter: 9
+  id: 23
   line: "揣而銳之，不可長保"
   base: "銳"
-  witnesses: { siku-wangbi: "梲" }
+  base_pinyin: "ruì"
+  base_english: "a sharpened point"
+  readings:
+    - { source: "wangbi", text: "梲", pinyin: "zhuó", english: "a beam or mallet head" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -390,9 +488,14 @@
   logged: notes/manuscript.md
 
 - chapter: 9
+  id: 24
   line: "功遂身退，天之道"
   base: "功遂"
-  witnesses: { siku-wangbi: "功成名遂", heshanggong: "功成名遂" }
+  base_pinyin: "gōng suì"
+  base_english: "the work is accomplished"
+  readings:
+    - { source: "wangbi", text: "功成名遂", pinyin: "gōng chéng míng suì", english: "the work is done and the name established" }
+    - { source: "heshanggong", text: "功成名遂", pinyin: "gōng chéng míng suì", english: "the work is done and the name established" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -408,9 +511,13 @@
   logged: notes/manuscript.md
 
 - chapter: 20
+  id: 25
   line: "俗人昭昭，我獨昏昏"
   base: "昏昏"
-  witnesses: { heshanggong: "若昏" }
+  base_pinyin: "hūn hūn"
+  base_english: "dim and muddled"
+  readings:
+    - { source: "heshanggong", text: "若昏", pinyin: "ruò hūn", english: "as if muddled" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -424,9 +531,16 @@
   logged: notes/manuscript.md
 
 - chapter: 26
+  id: 26
   line: "君子終日行不離輜重"
   base: "君子"
-  witnesses: { siku-wangbi: "聖人", heshanggong: "聖人", mawangdui-a: "君子", mawangdui-b: "君子" }
+  base_pinyin: "jūn zǐ"
+  base_english: "a person of standing"
+  readings:
+    - { source: "wangbi", text: "聖人", pinyin: "shèng rén", english: "the sage" }
+    - { source: "heshanggong", text: "聖人", pinyin: "shèng rén", english: "the sage" }
+    - { source: "mawangdui-a", text: "君子", pinyin: "jūn zǐ", english: "a person of standing" }
+    - { source: "mawangdui-b", text: "君子", pinyin: "jūn zǐ", english: "a person of standing" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -441,9 +555,14 @@
   logged: notes/manuscript.md
 
 - chapter: 26
+  id: 27
   line: "輕則失本，躁則失君"
   base: "失本"
-  witnesses: { heshanggong: "失臣", yongle-dadian: "失根" }
+  base_pinyin: "shī běn"
+  base_english: "lose the root"
+  readings:
+    - { source: "heshanggong", text: "失臣", pinyin: "shī chén", english: "lose one's ministers" }
+    - { source: "yongle-dadian", text: "失根", pinyin: "shī gēn", english: "lose the root" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -454,9 +573,15 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 28
   line: "未知牝牡之合而朘作"
   base: "朘"
-  witnesses: { siku-wangbi: "全", mawangdui-a: "朘", fuyi: "朘" }
+  base_pinyin: "zuī"
+  base_english: "an infant boy's penis"
+  readings:
+    - { source: "wangbi", text: "全", pinyin: "quán", english: "wholeness" }
+    - { source: "mawangdui-a", text: "朘", pinyin: "zuī", english: "an infant boy's penis" }
+    - { source: "fuyi", text: "朘", pinyin: "zuī", english: "an infant boy's penis" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -469,9 +594,12 @@
   logged: notes/manuscript.md
 
 - chapter: 32
+  id: 29
   line: "道常無名。樸雖小"
   base: "道常無名。樸雖小"
-  witnesses: {}
+  base_pinyin: "dào cháng wú míng. pǔ suī xiǎo"
+  base_english: "the Tao is ever nameless. Although the uncarved wood is small"
+  readings: []
   meaning_bearing: true
   our_call: punctuation
   note: >
@@ -482,9 +610,14 @@
   logged: notes/manuscript.md
 
 - chapter: 41
+  id: 30
   line: "大器晚成"
   base: "晚成"
-  witnesses: { mawangdui-a: "免成", guodian: "曼成" }
+  base_pinyin: "wǎn chéng"
+  base_english: "takes shape late"
+  readings:
+    - { source: "mawangdui-a", text: "免成", pinyin: "miǎn chéng", english: "escapes completion" }
+    - { source: "guodian", text: "曼成", pinyin: "màn chéng", english: "takes a long time to form" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -494,9 +627,13 @@
   logged: notes/manuscript.md
 
 - chapter: 42
+  id: 31
   line: "吾將以為教父"
   base: "教父"
-  witnesses: { mawangdui-a: "學父" }
+  base_pinyin: "jiào fù"
+  base_english: "father of the teaching"
+  readings:
+    - { source: "mawangdui-a", text: "學父", pinyin: "xué fù", english: "father of learning" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -506,9 +643,14 @@
   logged: notes/manuscript.md
 
 - chapter: 33
+  id: 32
   line: "死而不亡者壽"
   base: "亡"
-  witnesses: { mawangdui-a: "死不忘者壽 (忘, no 而)", mawangdui-b: "死而不忘者壽 (忘)" }
+  base_pinyin: "wáng"
+  base_english: "to be gone"
+  readings:
+    - { source: "mawangdui-a", text: "死不忘者壽", pinyin: "sǐ bù wàng zhě shòu", english: "one who dies and is not forgotten lives long", annotation: "It writes “forgotten”; the conjunction is absent." }
+    - { source: "mawangdui-b", text: "死而不忘者壽", pinyin: "sǐ ér bù wàng zhě shòu", english: "one who dies and is not forgotten lives long", annotation: "It writes “forgotten.”" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -520,9 +662,13 @@
   logged: notes/manuscript.md
 
 - chapter: 46
+  id: 33
   line: "禍莫大於不知足"
   base: "(two calamity clauses)"
-  witnesses: { mawangdui-a: "罪莫大於可欲 (a third, prior clause)", fuyi: "罪莫大於可欲" }
+  base_english: "two calamity clauses"
+  readings:
+    - { source: "mawangdui-a", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire", annotation: "A third, earlier clause in the sequence of calamities." }
+    - { source: "fuyi", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -532,9 +678,13 @@
   logged: notes/manuscript.md
 
 - chapter: 46
+  id: 34
   line: "故知足之足，常足矣"
   base: "知足之足，常足"
-  witnesses: { guodian: "知足之為足，此恒足矣" }
+  base_pinyin: "zhī zú zhī zú, cháng zú"
+  base_english: "the enough of knowing enough is ever enough"
+  readings:
+    - { source: "guodian", text: "知足之為足，此恒足矣", pinyin: "zhī zú zhī wéi zú, cǐ héng zú yǐ", english: "knowing that enough is enough is ever enough" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -546,9 +696,15 @@
   logged: notes/manuscript.md
 
 - chapter: 47
+  id: 35
   line: "不見而名"
   base: "名"
-  witnesses: { mawangdui-a: "明", siku-wangbi: "名", heshanggong: "名" }
+  base_pinyin: "míng"
+  base_english: "name"
+  readings:
+    - { source: "mawangdui-a", text: "明", pinyin: "míng", english: "clear-seeing" }
+    - { source: "wangbi", text: "名", pinyin: "míng", english: "name" }
+    - { source: "heshanggong", text: "名", pinyin: "míng", english: "name" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -560,9 +716,13 @@
   logged: notes/manuscript.md
 
 - chapter: 51
+  id: 36
   line: "長之育之，亭之毒之"
   base: "亭之毒之"
-  witnesses: { heshanggong: "成之熟之" }
+  base_pinyin: "tíng zhī dú zhī"
+  base_english: "bring them to maturity and nourish them"
+  readings:
+    - { source: "heshanggong", text: "成之熟之", pinyin: "chéng zhī shú zhī", english: "bring them to completion and ripeness" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -573,9 +733,15 @@
   logged: notes/manuscript.md
 
 - chapter: 53
+  id: 37
   line: "是謂盜夸"
   base: "夸"
-  witnesses: { mawangdui-a: "竽", mawangdui-b: "竽", hanfeizi: "竽" }
+  base_pinyin: "kuā"
+  base_english: "boasting"
+  readings:
+    - { source: "mawangdui-a", text: "竽", pinyin: "yú", english: "a large mouth organ" }
+    - { source: "mawangdui-b", text: "竽", pinyin: "yú", english: "a large mouth organ" }
+    - { source: "hanfeizi", text: "竽", pinyin: "yú", english: "a large mouth organ" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -585,9 +751,14 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 38
   line: "未知牝牡之合而全作"
   base: "全"
-  witnesses: { mawangdui-a: "朘", fuyi: "朘" }
+  base_pinyin: "quán"
+  base_english: "wholeness"
+  readings:
+    - { source: "mawangdui-a", text: "朘", pinyin: "zuī", english: "an infant boy's penis" }
+    - { source: "fuyi", text: "朘", pinyin: "zuī", english: "an infant boy's penis" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -597,9 +768,14 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 39
   line: "大國者下流 … (國 ×9)"
   base: "國"
-  witnesses: { mawangdui-a: "邦", mawangdui-b: "國" }
+  base_pinyin: "guó"
+  base_english: "state"
+  readings:
+    - { source: "mawangdui-a", text: "邦", pinyin: "bāng", english: "state" }
+    - { source: "mawangdui-b", text: "國", pinyin: "guó", english: "state" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -611,9 +787,14 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 40
   line: "天下之交，天下之牝"
   base: "天下之交，天下之牝"
-  witnesses: { mawangdui-a: "天下之牝，天下之郊也", mawangdui-b: "…牝也，天下之交也 (the opening graphs lost)" }
+  base_pinyin: "tiān xià zhī jiāo, tiān xià zhī pìn"
+  base_english: "the world's confluence, the female of the world"
+  readings:
+    - { source: "mawangdui-a", text: "天下之牝，天下之郊也", pinyin: "tiān xià zhī pìn, tiān xià zhī jiāo yě", english: "the female of the world, the world's confluence" }
+    - { source: "mawangdui-b", text: "…牝也，天下之交也", pinyin: "… pìn yě, tiān xià zhī jiāo yě", english: "… the female, the world's confluence", annotation: "The opening graphs are lost." }
   meaning_bearing: false
   our_call: undecided
   note: >
@@ -627,9 +808,12 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 41
   line: "小國以下大國，則取大國"
   base: "則取大國"
-  witnesses: { }
+  base_pinyin: "zé qǔ dà guó"
+  base_english: "then gains the large state"
+  readings: []
   meaning_bearing: true
   our_call: base
   note: >
@@ -644,9 +828,14 @@
 # see WORKLIST T2-74.
 
 - chapter: 61
+  id: 42
   line: "牝常以靜勝牡，以靜為下"
   base: "以靜為下"
-  witnesses: { mawangdui-a: "為其靜…宜為下 (two graphs lost; 靚 for 靜)", mawangdui-b: "為其靜也，故宜為下也" }
+  base_pinyin: "yǐ jìng wéi xià"
+  base_english: "by stillness she is underneath"
+  readings:
+    - { source: "mawangdui-a", text: "為其靜…宜為下", pinyin: "wèi qí jìng … yí wéi xià", english: "because she is still … it is fitting that she be underneath", annotation: "Two graphs are lost; the graph for stillness is written with a variant form.", via: "wikisource", locator: "Silk A, Chapter 61 (received numbering), the lines on stillness and being underneath", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#61_-_%E7%AB%A0%E5%85%AD%E5%8D%81%E4%B8%80", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "為其靜也，故宜為下也", pinyin: "wèi qí jìng yě, gù yí wéi xià yě", english: "because she is still, therefore it is fitting that she be underneath", via: "wikisource", locator: "Silk B, Chapter 61 (received numbering), the lines on stillness and being underneath", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#61_-_%E7%AB%A0%E5%85%AD%E5%8D%81%E4%B8%80", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -660,9 +849,13 @@
   logged: notes/manuscript.md
 
 - chapter: 63
+  id: 43
   line: "大小多少，報怨以德"
   base: "報怨以德"
-  witnesses: { mawangdui-a: "報怨以德" }
+  base_pinyin: "bào yuàn yǐ dé"
+  base_english: "answer resentment with integrity"
+  readings:
+    - { source: "mawangdui-a", text: "報怨以德", pinyin: "bào yuàn yǐ dé", english: "answer resentment with integrity" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -674,9 +867,13 @@
   logged: notes/manuscript.md
 
 - chapter: 63
+  id: 44
   line: "夫輕諾必寡信"
   base: "輕諾必寡信"
-  witnesses: { mawangdui-b: "damaged — two graphs illegible in the 輕…信 span" }
+  base_pinyin: "qīng nuò bì guǎ xìn"
+  base_english: "easy promises are sure to inspire little trust"
+  readings:
+    - { source: "mawangdui-b", text: "Two graphs in the passage about easy promises and trust are illegible.", english: "Two graphs in the passage about easy promises and trust are illegible." }
   meaning_bearing: false
   our_call: base
   note: >
@@ -686,9 +883,18 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 45
   line: "美言可以市尊，美行可以加人"
   base: "市尊，美行"
-  witnesses: { mawangdui-a: "市 | 尊行", mawangdui-b: "市 | 尊行", wangbi: "市 | 尊行 (in the commentary, not the transmitted text)", heshanggong: "市 | 尊行", fuyi: "于市 | 尊言", huainanzi: "市尊 | 美行 (quoted twice)" }
+  base_pinyin: "shì zūn, měi xíng"
+  base_english: "esteem in the market, admirable conduct"
+  readings:
+    - { source: "mawangdui-a", text: "市 | 尊行", pinyin: "shì / zūn xíng", english: "market / honorable conduct" }
+    - { source: "mawangdui-b", text: "市 | 尊行", pinyin: "shì / zūn xíng", english: "market / honorable conduct" }
+    - { source: "wangbi", text: "市 | 尊行", pinyin: "shì / zūn xíng", english: "market / honorable conduct", annotation: "This is the reading in Wang Bi’s commentary, not the transmitted text printed above it.", locator: "Chapter 62, Wang Bi’s comment on market and admirable conduct" }
+    - { source: "heshanggong", text: "市 | 尊行", pinyin: "shì / zūn xíng", english: "market / honorable conduct" }
+    - { source: "fuyi", text: "于市 | 尊言", pinyin: "yú shì / zūn yán", english: "in the market / honorable speech" }
+    - { source: "huainanzi", text: "市尊 | 美行", pinyin: "shì zūn / měi xíng", english: "esteem in the market / admirable conduct", annotation: "Quoted twice, in Lessons of the Human World and Responses of the Tao.", locator: "Lessons of the Human World and Responses of the Tao, the quotation on the market and admirable conduct" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -706,9 +912,14 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 46
   line: "道者萬物之奧"
   base: "奧"
-  witnesses: { mawangdui-a: "注", mawangdui-b: "注" }
+  base_pinyin: "ào"
+  base_english: "an inner recess or refuge"
+  readings:
+    - { source: "mawangdui-a", text: "注", pinyin: "zhù", english: "pour into, or read as master" }
+    - { source: "mawangdui-b", text: "注", pinyin: "zhù", english: "pour into, or read as master" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -724,9 +935,14 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 47
   line: "故立天子，置三公"
   base: "三公"
-  witnesses: { mawangdui-a: "三鄉 (read by editors as 三卿)", mawangdui-b: "三鄉 (read by editors as 三卿)" }
+  base_pinyin: "sān gōng"
+  base_english: "the three ministers"
+  readings:
+    - { source: "mawangdui-a", text: "三鄉", pinyin: "sān xiāng", english: "the three high ministers, as read by editors", annotation: "The editors read the written graph as a phonetic loan for “high minister.”" }
+    - { source: "mawangdui-b", text: "三鄉", pinyin: "sān xiāng", english: "the three high ministers, as read by editors", annotation: "The editors read the written graph as a phonetic loan for “high minister.”" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -739,9 +955,15 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 48
   line: "善人之寶，不善人之所保"
   base: "寶 … 保"
-  witnesses: { mawangdui-a: "one graph used in both positions", mawangdui-b: "one graph used in both positions", dunhuang: "所不保" }
+  base_pinyin: "bǎo … bǎo"
+  base_english: "treasure … keep safe"
+  readings:
+    - { source: "mawangdui-a", text: "one graph used in both positions", english: "one graph used in both positions" }
+    - { source: "mawangdui-b", text: "one graph used in both positions", english: "one graph used in both positions" }
+    - { source: "dunhuang", text: "所不保", pinyin: "suǒ bù bǎo", english: "what one fails to keep safe", via: "zhu-qianzhi", locator: "Chapter 62, Luo Zhenyu’s collation note on the Dunhuang Xin manuscript", url: "https://dao.time.actor/laozi-jiaoshi#1796", annotation: "This collation corroborates the reading recorded in the original notes. The original consultation path is undocumented." }
   meaning_bearing: true
   our_call: base
   note: >
@@ -758,9 +980,13 @@
 
 
 - chapter: 64
+  id: 49
   line: "其脆易泮，其微易散"
   base: "泮"
-  witnesses: { heshanggong: "破" }
+  base_pinyin: "pàn"
+  base_english: "split apart"
+  readings:
+    - { source: "heshanggong", text: "破", pinyin: "pò", english: "break" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -774,9 +1000,12 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 50
   line: "whole chapter"
   base: "one continuous chapter"
-  witnesses: { guodian: "halves separated; second half copied twice" }
+  base_english: "one continuous chapter"
+  readings:
+    - { source: "guodian", text: "halves separated; second half copied twice", english: "halves separated; second half copied twice" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -793,9 +1022,13 @@
   logged: notes/manuscript.md
 
 - chapter: 65
+  id: 51
   line: "知此兩者亦稽式"
   base: "稽"
-  witnesses: { heshanggong: "楷" }
+  base_pinyin: "jī"
+  base_english: "check or corroborate"
+  readings:
+    - { source: "heshanggong", text: "楷", pinyin: "kǎi", english: "a model" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -811,9 +1044,14 @@
   logged: notes/manuscript.md
 
 - chapter: 65
+  id: 52
   line: "故以智治國，國之賊；不以智治國，國之福"
   base: "以智治國 … 國之福"
-  witnesses: { mawangdui-a: "以知知邦 … 德 (damaged before 德)", mawangdui-b: "以知知國 … 國之德" }
+  base_pinyin: "yǐ zhì zhì guó … guó zhī fú"
+  base_english: "governing the state by cleverness … the state's good fortune"
+  readings:
+    - { source: "mawangdui-a", text: "以知知邦 … 德", pinyin: "yǐ zhī zhī bāng … dé", english: "to know the state by knowing … integrity", annotation: "The silk is damaged before the final word “integrity.”", via: "wikisource", locator: "Silk A, Chapter 65 (received numbering), the contrast between governing the state by cleverness and without it", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#65_-_%E7%AB%A0%E5%85%AD%E5%8D%81%E4%BA%94", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "以知知國 … 國之德", pinyin: "yǐ zhī zhī guó … guó zhī dé", english: "to know the state by knowing … the state's integrity", via: "wikisource", locator: "Silk B, Chapter 65 (received numbering), the contrast between governing the state by cleverness and without it", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#65_-_%E7%AB%A0%E5%85%AD%E5%8D%81%E4%BA%94", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -829,9 +1067,13 @@
   logged: notes/manuscript.md
 
 - chapter: 67
+  id: 53
   line: "天下皆謂我道大，似不肖"
   base: "我道大"
-  witnesses: { heshanggong: "我大" }
+  base_pinyin: "wǒ dào dà"
+  base_english: "my Tao is great"
+  readings:
+    - { source: "heshanggong", text: "我大", pinyin: "wǒ dà", english: "I am great" }
   meaning_bearing: true
   our_call: heshanggong
   note: >
@@ -851,9 +1093,13 @@
   logged: notes/manuscript.md
 
 - chapter: 67
+  id: 54
   line: "不敢為天下先，故能成器長"
   base: "器"
-  witnesses: { hanfeizi: "事" }
+  base_pinyin: "qì"
+  base_english: "vessel"
+  readings:
+    - { source: "hanfeizi", text: "事", pinyin: "shì", english: "affair or undertaking" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -868,9 +1114,14 @@
   logged: notes/manuscript.md
 
 - chapter: 73
+  id: 55
   line: "天之所惡，孰知其故？"
   base: "line absent"
-  witnesses: { wangbi: "是以聖人猶難之", heshanggong: "是以聖人猶難之", mawangdui-b: "line absent" }
+  base_english: "line absent"
+  readings:
+    - { source: "wangbi", text: "是以聖人猶難之", pinyin: "shì yǐ shèng rén yóu nán zhī", english: "therefore even the sage finds it difficult" }
+    - { source: "heshanggong", text: "是以聖人猶難之", pinyin: "shì yǐ shèng rén yóu nán zhī", english: "therefore even the sage finds it difficult" }
+    - { source: "mawangdui-b", text: "line absent", english: "line absent" }
   meaning_bearing: true
   our_call: wangbi
   note: >
@@ -893,9 +1144,13 @@
   logged: notes/manuscript.md
 
 - chapter: 68
+  id: 56
   line: "善勝敵者，不與"
   base: "敵"
-  witnesses: { heshanggong: "戰" }
+  base_pinyin: "dí"
+  base_english: "oppose or engage an opponent"
+  readings:
+    - { source: "heshanggong", text: "戰", pinyin: "zhàn", english: "fight" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -909,9 +1164,14 @@
   logged: notes/manuscript.md
 
 - chapter: 69
+  id: 57
   line: "故抗兵相若，哀者勝矣"
   base: "相若"
-  witnesses: { wangbi: "相加", heshanggong: "相加" }
+  base_pinyin: "xiāng ruò"
+  base_english: "be evenly matched"
+  readings:
+    - { source: "wangbi", text: "相加", pinyin: "xiāng jiā", english: "advance against each other" }
+    - { source: "heshanggong", text: "相加", pinyin: "xiāng jiā", english: "advance against each other" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -925,9 +1185,13 @@
   logged: notes/manuscript.md
 
 - chapter: 72
+  id: 58
   line: "無狎其所居"
   base: "狎"
-  witnesses: { heshanggong: "狹" }
+  base_pinyin: "xiá"
+  base_english: "treat with undue familiarity"
+  readings:
+    - { source: "heshanggong", text: "狹", pinyin: "xiá", english: "constrict" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -941,9 +1205,13 @@
   logged: notes/manuscript.md
 
 - chapter: 74
+  id: 59
   line: "夫代司殺者殺，是謂代大匠斫"
   base: "代司殺者殺"
-  witnesses: { heshanggong: "代司殺者" }
+  base_pinyin: "dài sī shā zhě shā"
+  base_english: "kill in place of the one in charge of killing"
+  readings:
+    - { source: "heshanggong", text: "代司殺者", pinyin: "dài sī shā zhě", english: "take the place of the one in charge of killing" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -958,9 +1226,14 @@
   logged: notes/manuscript.md
 
 - chapter: 75
+  id: 60
   line: "民之輕死，以其上求生之厚，是以輕死"
   base: "以其上求生之厚"
-  witnesses: { wangbi: "以其求生之厚", heshanggong: "以其求生之厚" }
+  base_pinyin: "yǐ qí shàng qiú shēng zhī hòu"
+  base_english: "because those above them seek too rich a living"
+  readings:
+    - { source: "wangbi", text: "以其求生之厚", pinyin: "yǐ qí qiú shēng zhī hòu", english: "because they seek too rich a living" }
+    - { source: "heshanggong", text: "以其求生之厚", pinyin: "yǐ qí qiú shēng zhī hòu", english: "because they seek too rich a living" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -973,9 +1246,14 @@
   logged: notes/manuscript.md
 
 - chapter: 76
+  id: 61
   line: "是以兵強則不勝，木強則折"
   base: "木強則折"
-  witnesses: { wangbi: "木強則兵", heshanggong: "木強則共" }
+  base_pinyin: "mù qiáng zé zhé"
+  base_english: "when a tree is strong it snaps"
+  readings:
+    - { source: "wangbi", text: "木強則兵", pinyin: "mù qiáng zé bīng", english: "when a tree is strong it draws the axe" }
+    - { source: "heshanggong", text: "木強則共", pinyin: "mù qiáng zé gòng", english: "when a tree is strong, the branches grow together above it" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -992,9 +1270,13 @@
   logged: notes/manuscript.md
 
 - chapter: 80
+  id: 62
   line: "使有什伯之器而不用"
   base: "什伯之器"
-  witnesses: { heshanggong: "什伯人之器" }
+  base_pinyin: "shí bǎi zhī qì"
+  base_english: "tools with the capacity of tens or hundreds"
+  readings:
+    - { source: "heshanggong", text: "什伯人之器", pinyin: "shí bǎi rén zhī qì", english: "tools with the capacity of tens or hundreds of people" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1012,9 +1294,15 @@
   logged: notes/manuscript.md
 
 - chapter: 18
+  id: 63
   line: "智慧出，有大偽"
   base: "智慧出，有大偽"
-  witnesses: { guodian: "line absent", mawangdui-a: "知快出 (知 for 智, 快 for 慧)", mawangdui-b: "知慧出 (知 for 智)" }
+  base_pinyin: "zhì huì chū, yǒu dà wěi"
+  base_english: "cleverness and quick wit arise, and there is great artifice"
+  readings:
+    - { source: "guodian", text: "line absent", english: "line absent", via: "guodian-secondary-transcription", locator: "Bundle C, chapter 18, between the couplets on the loss of the great Tao and on devotion", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-a", text: "知快出", pinyin: "zhī kuài chū", english: "cleverness and quick wit arise", annotation: "The silk writes the graph for “to know” for “cleverness” and the graph for “quick” for “wit.”", via: "wikisource", locator: "Silk A, Chapter 18 · apparatus fork 63 (received numbering)" }
+    - { source: "mawangdui-b", text: "知慧出", pinyin: "zhī huì chū", english: "cleverness and quick wit arise", annotation: "The silk writes the graph for “to know” for “cleverness.”", via: "wikisource", locator: "Silk B, Chapter 18 · apparatus fork 63 (received numbering)" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1030,9 +1318,15 @@
   logged: notes/manuscript.md
 
 - chapter: 38
+  id: 64
   line: "前識者，道之華，而愚之始"
   base: "愚之始"
-  witnesses: { mawangdui-a: "愚之首", mawangdui-b: "愚之首", hanfeizi: "愚之首" }
+  base_pinyin: "yú zhī shǐ"
+  base_english: "the beginning of folly"
+  readings:
+    - { source: "mawangdui-a", text: "愚之首", pinyin: "yú zhī shǒu", english: "the head or beginning of folly" }
+    - { source: "mawangdui-b", text: "愚之首", pinyin: "yú zhī shǒu", english: "the head or beginning of folly" }
+    - { source: "hanfeizi", text: "愚之首", pinyin: "yú zhī shǒu", english: "the head or beginning of folly" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1047,9 +1341,14 @@
   logged: notes/manuscript.md
 
 - chapter: 20
+  id: 65
   line: "我愚人之心也哉"
   base: "愚"
-  witnesses: { mawangdui-a: "禺", mawangdui-b: "愚" }
+  base_pinyin: "yú"
+  base_english: "folly"
+  readings:
+    - { source: "mawangdui-a", text: "禺", pinyin: "yú", english: "folly, written with a sound loan", via: "wikisource", locator: "Silk A, Chapter 20 · apparatus fork 65 (received numbering)" }
+    - { source: "mawangdui-b", text: "愚", pinyin: "yú", english: "folly", via: "wikisource", locator: "Silk B, Chapter 20 · apparatus fork 65 (received numbering)" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1065,9 +1364,13 @@
 # 釋文 is 1998 living scholarship. See PROVENANCE.md.
 
 - chapter: 19
+  id: 66
   line: "絕聖棄智，民利百倍"
   base: "絕聖棄智"
-  witnesses: { guodian: "絕智棄辯" }
+  base_pinyin: "jué shèng qì zhì"
+  base_english: "cut off sagehood and discard cleverness"
+  readings:
+    - { source: "guodian", text: "絕智棄辯", pinyin: "jué zhì qì biàn", english: "cut off cleverness and discard disputation" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1076,9 +1379,13 @@
   logged: notes/manuscript.md
 
 - chapter: 19
+  id: 67
   line: "絕仁棄義，民復孝慈"
   base: "絕仁棄義"
-  witnesses: { guodian: "絕偽棄慮" }
+  base_pinyin: "jué rén qì yì"
+  base_english: "cut off humaneness and discard duty"
+  readings:
+    - { source: "guodian", text: "絕偽棄慮", pinyin: "jué wěi qì lǜ", english: "cut off artifice and discard calculating thought" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1089,9 +1396,13 @@
   logged: notes/manuscript.md
 
 - chapter: 19
+  id: 68
   line: "絕巧棄利，盜賊無有"
   base: "絕巧棄利"
-  witnesses: { guodian: "絕巧棄利" }
+  base_pinyin: "jué qiǎo qì lì"
+  base_english: "cut off ingenuity and discard profit"
+  readings:
+    - { source: "guodian", text: "絕巧棄利", pinyin: "jué qiǎo qì lì", english: "cut off ingenuity and discard profit" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1101,9 +1412,13 @@
   logged: notes/manuscript.md
 
 - chapter: 16
+  id: 69
   line: "致虛極"
   base: "致"
-  witnesses: { heshanggong: "至" }
+  base_pinyin: "zhì"
+  base_english: "bring to"
+  readings:
+    - { source: "heshanggong", text: "至", pinyin: "zhì", english: "reach" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1120,9 +1435,13 @@
   logged: notes/manuscript.md
 
 - chapter: 16
+  id: 70
   line: "吾以觀復"
   base: "觀復"
-  witnesses: { heshanggong: "觀其復" }
+  base_pinyin: "guān fù"
+  base_english: "watch the returning"
+  readings:
+    - { source: "heshanggong", text: "觀其復", pinyin: "guān qí fù", english: "watch their returning" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1137,9 +1456,13 @@
   logged: notes/manuscript.md
 
 - chapter: 51
+  id: 71
   line: "夫莫之命而常自然"
   base: "命"
-  witnesses: { wangbi_collation: "爵" }
+  base_pinyin: "mìng"
+  base_english: "command"
+  readings:
+    - { source: "wangbi_collation", text: "爵", pinyin: "jué", english: "confer a noble rank", annotation: "The Siku editors attribute this to a collation gloss with unidentified editions.", via: "wangbi", locator: "Chapter 51, Siku collation note" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1156,9 +1479,14 @@
   logged: notes/manuscript.md
 
 - chapter: 35
+  id: 72
   line: "往而不害，安平太"
   base: "安平太"
-  witnesses: { heshanggong: "安太平", yongle-dadian: "安平泰" }
+  base_pinyin: "ān píng tài"
+  base_english: "safe, level and at peace"
+  readings:
+    - { source: "heshanggong", text: "安太平", pinyin: "ān tài píng", english: "safe and in great peace" }
+    - { source: "yongle-dadian", text: "安平泰", pinyin: "ān píng tài", english: "safe, level and at peace" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1178,9 +1506,13 @@
   logged: notes/manuscript.md
 
 - chapter: 35
+  id: 73
   line: "用之不可既"
   base: "不可既"
-  witnesses: { siku-wangbi: "不足既" }
+  base_pinyin: "bù kě jì"
+  base_english: "cannot be exhausted"
+  readings:
+    - { source: "wangbi", text: "不足既", pinyin: "bù zú jì", english: "cannot be exhausted" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1198,26 +1530,38 @@
   logged: notes/manuscript.md
 
 - chapter: 11
+  id: 74
   line: "埏埴以為器"
   base: "埏"
-  witnesses: { shiwen: "挻" }
+  base_pinyin: "shān"
+  base_english: "knead"
+  readings:
+    - { source: "shiwen", text: "挻", pinyin: "shān", english: "knead" }
+  refs:
+    - { source: "guangyun", via: "moe-character-variants", locator: "Volume 2, Xian rhyme in the level tone, shān entry on kneading and mixing", url: "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1" }
+    - { source: "moe-character-variants", locator: "Entry B01329, shān pronunciation and historical dictionary forms", url: "https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1" }
+    - { source: "moe-revised-mandarin", locator: "Shān zhí, first sense, kneading clay for pottery", url: "https://dict.revised.moe.edu.tw/dictView.jsp?ID=130859&la=1&powerMode=0" }
+    - { source: "moe-revised-mandarin", locator: "Yán, first sense, the far reaches of the earth", url: "https://dict.revised.moe.edu.tw/dictView.jsp?ID=10990&la=0&powerMode=0" }
   meaning_bearing: false
   our_call: base
   note: >
     The Siku editors note inside our Wang Bi text: 〔案埏各本俱作埏惟釋文作挻〕 -
     "all editions write 埏; only the Shiwen (Lu Deming's Jingdian Shiwen, c. 583)
     writes 挻." Not meaning-bearing, since every reading gives "work the clay."
-    Recorded because the Shuowen sides with the minority: 埏 is glossed
-    八方之地也, "the land of the eight directions" - the far reaches of the earth,
-    not kneading at all - while 挻 (shan) is the graph that carries the working
-    sense. Heshang Gong takes the sense on the majority graph anyway: 埏，和也,
-    "埏 means to blend." We keep the base and render "knead."
+    The Shuowen glosses the received graph as "the land of the eight directions"
+    and the Shiwen graph as "long." The Guangyun gives the Shiwen graph the
+    kneading sense. Heshang Gong glosses the received graph as "to blend."
+    His pronunciation note supports shān. We keep the base and render "knead."
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 75
   line: "國之利器不可以示人"
   base: "國"
-  witnesses: { hanfeizi: "邦" }
+  base_pinyin: "guó"
+  base_english: "state"
+  readings:
+    - { source: "hanfeizi", text: "邦", pinyin: "bāng", english: "state" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1231,9 +1575,13 @@
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 76
   line: "將欲廢之，必固興之"
   base: "將欲廢之，必固興之"
-  witnesses: { hanfeizi: "absent" }
+  base_pinyin: "jiāng yù fèi zhī, bì gù xīng zhī"
+  base_english: "to do away with it, first raise it up"
+  readings:
+    - { source: "hanfeizi", text: "absent", english: "absent" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1249,9 +1597,14 @@
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 77
   line: "柔弱勝剛強"
   base: "柔弱勝剛強"
-  witnesses: { yongle-dadian: "柔勝剛，弱勝強", hanfeizi: "弱勝強" }
+  base_pinyin: "róu ruò shèng gāng qiáng"
+  base_english: "the soft and yielding overcome the unbending and strong"
+  readings:
+    - { source: "yongle-dadian", text: "柔勝剛，弱勝強", pinyin: "róu shèng gāng, ruò shèng qiáng", english: "the soft overcomes the unbending, the yielding overcomes the strong" }
+    - { source: "hanfeizi", text: "弱勝強", pinyin: "ruò shèng qiáng", english: "the yielding overcomes the strong" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1267,11 +1620,17 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 78
   line: "故致數譽無譽"
   base: "譽"
-  witnesses: { siku-wangbi: "輿", shiwen: "輿", heshanggong: "車" }
+  base_pinyin: "yù"
+  base_english: "praise or renown"
+  readings:
+    - { source: "wangbi", text: "輿", pinyin: "yú", english: "carriage" }
+    - { source: "shiwen", text: "輿", pinyin: "yú", english: "carriage" }
+    - { source: "heshanggong", text: "車", pinyin: "chē", english: "cart" }
   meaning_bearing: true
-  our_call: siku-wangbi
+  our_call: wangbi
   note: >
     We depart from the base. Our vendored Wang Bi prints 故致數輿無輿 and the
     Siku editors say why: 〔案兩輿字河上公注本作車釋文作輿原本誤作譽今據釋文校改〕 -
@@ -1290,9 +1649,14 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 79
   line: "其致之"
   base: "其致之"
-  witnesses: { various: "其致之一也", kaiyuan: "其致之" }
+  base_pinyin: "qí zhì zhī"
+  base_english: "what brings this about"
+  readings:
+    - { source: "various", text: "其致之一也", pinyin: "qí zhì zhī yī yě", english: "what brings this about is the one", annotation: "The Siku editors report this reading for the other editions collectively.", via: "wangbi", locator: "Chapter 39, Siku collation note" }
+    - { source: "kaiyuan", text: "其致之", pinyin: "qí zhì zhī", english: "what brings this about" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1306,9 +1670,13 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 80
   line: "侯王無以貴高，將恐蹶"
   base: "貴高"
-  witnesses: { various: "貞貴高" }
+  base_pinyin: "guì gāo"
+  base_english: "prized and high"
+  readings:
+    - { source: "various", text: "貞貴高", pinyin: "zhēn guì gāo", english: "steadfast, prized and high", annotation: "The Siku editors report the extra graph in the other editions collectively.", via: "wangbi", locator: "Chapter 39, Siku collation note" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1323,9 +1691,13 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 81
   line: "侯王得一以為天下貞"
   base: "貞"
-  witnesses: { heshanggong: "正" }
+  base_pinyin: "zhēn"
+  base_english: "steadfast or upright"
+  readings:
+    - { source: "heshanggong", text: "正", pinyin: "zhèng", english: "straight or correct" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1340,9 +1712,13 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 82
   line: "是以侯王自謂孤、寡、不穀"
   base: "不穀"
-  witnesses: { heshanggong: "不轂" }
+  base_pinyin: "bù gǔ"
+  base_english: "unworthy, literally not good grain"
+  readings:
+    - { source: "heshanggong", text: "不轂", pinyin: "bù gǔ", english: "not a hub" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1359,9 +1735,13 @@
   logged: notes/manuscript.md
 
 - chapter: 13
+  id: 83
   line: "寵為下"
   base: "寵"
-  witnesses: { heshanggong: "辱" }
+  base_pinyin: "chǒng"
+  base_english: "favor"
+  readings:
+    - { source: "heshanggong", text: "辱", pinyin: "rǔ", english: "disgrace" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1381,9 +1761,14 @@
   logged: notes/manuscript.md
 
 - chapter: 13
+  id: 84
   line: "若可寄天下 / 若可託天下"
   base: "若可"
-  witnesses: { yongle-dadian: "則可以 / 乃可以", heshanggong: "則可…於天下 / 乃可以…於天下" }
+  base_pinyin: "ruò kě"
+  base_english: "seems possible"
+  readings:
+    - { source: "yongle-dadian", text: "則可以 / 乃可以", pinyin: "zé kě yǐ / nǎi kě yǐ", english: "then may, in both clauses" }
+    - { source: "heshanggong", text: "則可…於天下 / 乃可以…於天下", pinyin: "zé kě … yú tiān xià / nǎi kě yǐ … yú tiān xià", english: "then may … with the world, in both clauses" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1398,9 +1783,15 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 85
   line: "孰能安以動之徐生"
   base: "安以動之"
-  witnesses: { heshanggong: "安以久動之", siku-wangbi: "安以久動之", yongle-dadian: "安以動之" }
+  base_pinyin: "ān yǐ dòng zhī"
+  base_english: "from calm, by moving it"
+  readings:
+    - { source: "heshanggong", text: "安以久動之", pinyin: "ān yǐ jiǔ dòng zhī", english: "from calm, by moving it for a long time" }
+    - { source: "wangbi", text: "安以久動之", pinyin: "ān yǐ jiǔ dòng zhī", english: "from calm, by moving it for a long time" }
+    - { source: "yongle-dadian", text: "安以動之", pinyin: "ān yǐ dòng zhī", english: "from calm, by moving it" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1415,9 +1806,14 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 86
   line: "儼兮其若客"
   base: "客"
-  witnesses: { siku-wangbi: "容", heshanggong: "客" }
+  base_pinyin: "kè"
+  base_english: "a guest"
+  readings:
+    - { source: "wangbi", text: "容", pinyin: "róng", english: "bearing or countenance" }
+    - { source: "heshanggong", text: "客", pinyin: "kè", english: "a guest" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1431,18 +1827,26 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 87
   line: "混兮其若濁"
   base: "混"
-  witnesses: { heshanggong: "渾" }
+  base_pinyin: "hùn"
+  base_english: "mixed together"
+  readings:
+    - { source: "heshanggong", text: "渾", pinyin: "hún", english: "muddled or mixed" }
   meaning_bearing: false
   our_call: base
   note: "One word, two spellings: 說文 defines 渾 by 混 (混流聲也), and 渾 is our base's own character at ch 49. The vendored 河上公 file carries this lemma as a comment line, so no rule sees it (WORKLIST T5-21)."
   logged: glossary/hun-混.md
 
 - chapter: 78
+  id: 88
   line: "受國之不祥，是謂天下王"
   base: "是謂"
-  witnesses: { siku-wangbi: "是為" }
+  base_pinyin: "shì wèi"
+  base_english: "this is called"
+  readings:
+    - { source: "wangbi", text: "是為", pinyin: "shì wéi", english: "this is" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1452,9 +1856,13 @@
   logged: false
 
 - chapter: 29
+  id: 89
   line: "或挫或隳"
   base: "挫"
-  witnesses: { heshanggong: "載" }
+  base_pinyin: "cuò"
+  base_english: "break or crush"
+  readings:
+    - { source: "heshanggong", text: "載", pinyin: "zài", english: "carry" }
   meaning_bearing: true
   our_call: heshanggong
   note: >
@@ -1469,9 +1877,13 @@
   logged: notes/manuscript.md
 
 - chapter: 29
+  id: 90
   line: "或歔或吹"
   base: "歔"
-  witnesses: { heshanggong: "呴" }
+  base_pinyin: "xū"
+  base_english: "let out a soft breath"
+  readings:
+    - { source: "heshanggong", text: "呴", pinyin: "xǔ", english: "warm with the breath" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1492,9 +1904,13 @@
 # ---------------------------------------------------------------------------
 
 - chapter: 38
+  id: 91
   line: "故失道而後德，失德而後仁"
   base: "失道而後德"
-  witnesses: { hanfeizi: "失道而後失德" }
+  base_pinyin: "shī dào ér hòu dé"
+  base_english: "after the Tao is lost comes integrity"
+  readings:
+    - { source: "hanfeizi", text: "失道而後失德", pinyin: "shī dào ér hòu shī dé", english: "after losing the Tao comes loss of integrity" }
   meaning_bearing: true
   our_call: hanfeizi
   note: >
@@ -1513,9 +1929,13 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 92
   line: "以輔萬物之自然，而不敢為"
   base: "輔"
-  witnesses: { hanfeizi: "恃" }
+  base_pinyin: "fǔ"
+  base_english: "assist"
+  readings:
+    - { source: "hanfeizi", text: "恃", pinyin: "shì", english: "rely on" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1531,9 +1951,13 @@
   logged: notes/manuscript.md
 
 - chapter: 58
+  id: 93
   line: "廉而不劌"
   base: "劌"
-  witnesses: { hanfeizi: "穢" }
+  base_pinyin: "guì"
+  base_english: "cut or wound"
+  readings:
+    - { source: "hanfeizi", text: "穢", pinyin: "huì", english: "filthy or weed-choked" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1547,9 +1971,13 @@
   logged: notes/manuscript.md
 
 - chapter: 60
+  id: 94
   line: "非其神不傷人，聖人亦不傷人"
   base: "人"
-  witnesses: { hanfeizi: "民" }
+  base_pinyin: "rén"
+  base_english: "person or people"
+  readings:
+    - { source: "hanfeizi", text: "民", pinyin: "mín", english: "the people" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1564,9 +1992,13 @@
   logged: notes/manuscript.md
 
 - chapter: 50
+  id: 95
   line: "虎無所用其爪"
   base: "用"
-  witnesses: { hanfeizi: "錯" }
+  base_pinyin: "yòng"
+  base_english: "use"
+  readings:
+    - { source: "hanfeizi", text: "錯", pinyin: "cuò", english: "place or set down" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1578,9 +2010,13 @@
   logged: false
 
 - chapter: 1
+  id: 96
   line: "道可道，非常道"
   base: "道可道"
-  witnesses: { hanfeizi: "道之可道" }
+  base_pinyin: "dào kě dào"
+  base_english: "the Tao that can be told"
+  readings:
+    - { source: "hanfeizi", text: "道之可道", pinyin: "dào zhī kě dào", english: "the Tao that can be told" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1593,9 +2029,14 @@
   logged: false
 
 - chapter: 1
+  id: 97
   line: "故常無欲，以觀其妙"
   base: "故"
-  witnesses: { yongle-dadian: "—", heshanggong: "故" }
+  base_pinyin: "gù"
+  base_english: "therefore"
+  readings:
+    - { source: "yongle-dadian", text: "—", english: "The connective is absent." }
+    - { source: "heshanggong", text: "故", pinyin: "gù", english: "therefore" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1609,9 +2050,13 @@
   logged: chapters/001.md
 
 - chapter: 54
+  id: 98
   line: "善建者不拔，善抱者不脫，子孫以祭祀不輟"
   base: "善建者 … 子孫以祭祀不輟"
-  witnesses: { hanfeizi: "善建不拔 … 子孫以其祭祀世世不輟" }
+  base_pinyin: "shàn jiàn zhě … zǐ sūn yǐ jì sì bù chuò"
+  base_english: "one who builds well … their descendants carry on the offerings without cease"
+  readings:
+    - { source: "hanfeizi", text: "善建不拔 … 子孫以其祭祀世世不輟", pinyin: "shàn jiàn bù bá … zǐ sūn yǐ qí jì sì shì shì bù chuò", english: "what is built well is not uprooted … their descendants continue their offerings without cease, generation after generation" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1623,9 +2068,13 @@
   logged: false
 
 - chapter: 1
+  id: 99
   line: "道可道，非常道"
   base: "常"
-  witnesses: { mawangdui-a: "恒" }
+  base_pinyin: "cháng"
+  base_english: "the ever-present"
+  readings:
+    - { source: "mawangdui-a", text: "恒", pinyin: "héng", english: "ever-present" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1637,9 +2086,13 @@
   logged: notes/manuscript.md
 
 - chapter: 49
+  id: 100
   line: "聖人無常心，以百姓心為心"
   base: "無常心"
-  witnesses: { mawangdui-b: "恒無心" }
+  base_pinyin: "wú cháng xīn"
+  base_english: "have no fixed heart"
+  readings:
+    - { source: "mawangdui-b", text: "恒無心", pinyin: "héng wú xīn", english: "always have no heart of one's own" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1650,9 +2103,15 @@
   logged: notes/manuscript.md
 
 - chapter: 32
+  id: 101
   line: "知止可以不殆"
   base: "可以"
-  witnesses: { mawangdui-a: "所以", heshanggong: "所以", siku-wangbi: "可以 〔案河上公注本及各本俱作所〕" }
+  base_pinyin: "kě yǐ"
+  base_english: "can thereby"
+  readings:
+    - { source: "mawangdui-a", text: "所以", pinyin: "suǒ yǐ", english: "the means by which" }
+    - { source: "heshanggong", text: "所以", pinyin: "suǒ yǐ", english: "the means by which" }
+    - { source: "wangbi", text: "可以", pinyin: "kě yǐ", english: "can thereby", annotation: "The Siku editors note that the Heshang Gong edition and the other editions read “the means by which.”" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -1666,9 +2125,15 @@
 
 
 - chapter: 57
+  id: 102
   line: "人多利器，國家滋昏"
   base: "人"
-  witnesses: { guodian: "民", siku-wangbi: "民", heshanggong: "民" }
+  base_pinyin: "rén"
+  base_english: "person or people"
+  readings:
+    - { source: "guodian", text: "民", pinyin: "mín", english: "the people" }
+    - { source: "wangbi", text: "民", pinyin: "mín", english: "the people" }
+    - { source: "heshanggong", text: "民", pinyin: "mín", english: "the people" }
   meaning_bearing: true
   our_call: guodian
   note: >
@@ -1681,9 +2146,14 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 103
   line: "民之從事，常於幾成而敗之"
   base: "民之從事"
-  witnesses: { guodian: "人之敗也", mawangdui-a: "民之從事也" }
+  base_pinyin: "mín zhī cóng shì"
+  base_english: "the people's undertaking of affairs"
+  readings:
+    - { source: "guodian", text: "人之敗也", pinyin: "rén zhī bài yě", english: "when people fail" }
+    - { source: "mawangdui-a", text: "民之從事也", pinyin: "mín zhī cóng shì yě", english: "when the people undertake affairs" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1694,9 +2164,14 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 104
   line: "是以聖人為腹不為目"
   base: "是以聖人"
-  witnesses: { mawangdui-a: "是以聖人之治也", mawangdui-b: "是以聖人之治也" }
+  base_pinyin: "shì yǐ shèng rén"
+  base_english: "therefore the sage"
+  readings:
+    - { source: "mawangdui-a", text: "是以聖人之治也", pinyin: "shì yǐ shèng rén zhī zhì yě", english: "therefore, in the sage's governing" }
+    - { source: "mawangdui-b", text: "是以聖人之治也", pinyin: "shì yǐ shèng rén zhī zhì yě", english: "therefore, in the sage's governing" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1710,9 +2185,14 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 105
   line: "難得之貨，令人行妨"
   base: "令人行妨"
-  witnesses: { mawangdui-a: "使人之行方", mawangdui-b: "使人之行仿" }
+  base_pinyin: "lìng rén xíng fáng"
+  base_english: "hinder people's conduct"
+  readings:
+    - { source: "mawangdui-a", text: "使人之行方", pinyin: "shǐ rén zhī xíng fāng", english: "cause people's conduct to be hindered" }
+    - { source: "mawangdui-b", text: "使人之行仿", pinyin: "shǐ rén zhī xíng fǎng", english: "cause people's conduct to be hindered" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1727,9 +2207,14 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 106
   line: "五色令人目盲"
   base: "五色 五音 五味 馳騁 難得"
-  witnesses: { mawangdui-a: "五色 馳騁 難得 五味 五音", mawangdui-b: "五色 馳騁 難得 五味 五音" }
+  base_pinyin: "wǔ sè, wǔ yīn, wǔ wèi, chí chěng, nán dé"
+  base_english: "colors, tones, flavors, galloping after game, hard-to-get goods"
+  readings:
+    - { source: "mawangdui-a", text: "五色 馳騁 難得 五味 五音", pinyin: "wǔ sè, chí chěng, nán dé, wǔ wèi, wǔ yīn", english: "colors, galloping after game, hard-to-get goods, flavors, tones" }
+    - { source: "mawangdui-b", text: "五色 馳騁 難得 五味 五音", pinyin: "wǔ sè, chí chěng, nán dé, wǔ wèi, wǔ yīn", english: "colors, galloping after game, hard-to-get goods, flavors, tones" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1748,9 +2233,14 @@
 # 帛書老子校注 (Collation of the Silk Laozi, 1996).
 
 - chapter: 6
+  id: 107
   line: "谷神不死"
   base: "谷"
-  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "mawangdui-a", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "shidian-guji", locator: "Chapter 6 (received numbering), the opening line on the undying valley spirit", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 6 (received numbering), the opening line on the undying valley spirit", url: "https://6dsy.cn/daodejing-boshuyiben-6zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1762,9 +2252,13 @@
   logged: glossary/gu-谷.md
 
 - chapter: 15
+  id: 108
   line: "曠兮其若谷"
   base: "曠"
-  witnesses: { mawangdui-b: "莊" }
+  base_pinyin: "kuàng"
+  base_english: "open and wide"
+  readings:
+    - { source: "mawangdui-b", text: "莊", pinyin: "zhuāng", english: "grave or dignified", annotation: "6dsy prints a different graph, which its editors read as wide.", via: "mawangdui-parallel-transcription", locator: "Chapter 15 (received numbering), the adjective in the simile of the ancient adept and the valley", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1783,9 +2277,14 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 109
   line: "曠兮其若谷"
   base: "谷"
-  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "mawangdui-a", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "shidian-guji", locator: "Chapter 15 (received numbering), the valley graph in the simile describing the ancient adept", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 15 (received numbering), the valley graph in the simile describing the ancient adept", url: "https://6dsy.cn/daodejing-boshuyiben-15zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1793,9 +2292,14 @@
   logged: glossary/gu-谷.md
 
 - chapter: 28
+  id: 110
   line: "知其榮，守其辱，為天下谷"
   base: "榮"
-  witnesses: { mawangdui-a: "白", mawangdui-b: "白" }
+  base_pinyin: "róng"
+  base_english: "honor"
+  readings:
+    - { source: "mawangdui-a", text: "白", pinyin: "bái", english: "white", via: "shidian-guji", locator: "Chapter 28 (received numbering), the opening epithet of the stanza on being the world's valley", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "白", pinyin: "bái", english: "white", via: "six-dsy", locator: "Chapter 28 (received numbering), the opening epithet of the stanza on being the world's valley", url: "https://6dsy.cn/daodejing-boshuyiben-28zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -1820,9 +2324,14 @@
   logged: notes/manuscript.md
 
 - chapter: 28
+  id: 111
   line: "為天下谷"
   base: "谷"
-  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "mawangdui-a", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "shidian-guji", locator: "Chapter 28 (received numbering), the valley graph in the stanza about holding to the soiled", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 28 (received numbering), the valley graph in the stanza about holding to the soiled", url: "https://6dsy.cn/daodejing-boshuyiben-28zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1830,9 +2339,14 @@
   logged: glossary/gu-谷.md
 
 - chapter: 32
+  id: 112
   line: "猶川谷之於江海"
   base: "川谷"
-  witnesses: { guodian: "小谷", mawangdui-b: "小浴" }
+  base_pinyin: "chuān gǔ"
+  base_english: "streams and valleys"
+  readings:
+    - { source: "guodian", text: "小谷", pinyin: "xiǎo gǔ", english: "small valleys", via: "six-dsy", locator: "Bundle A, unit A.1, Chapter 32 (received numbering), the comparison of the Tao with valleys running into rivers and seas", url: "https://6dsy.cn/daodejing-guodianchujianben-32zhang/", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "小浴", pinyin: "xiǎo yù", english: "small valleys, with the graph for bathing", via: "six-dsy", locator: "Chapter 32 (received numbering), the comparison of the Tao with valleys running into rivers and seas", url: "https://6dsy.cn/daodejing-boshuyiben-32zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: guodian
   note: >
@@ -1847,9 +2361,14 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 113
   line: "谷得一以盈"
   base: "谷"
-  witnesses: { mawangdui-a: "浴", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "mawangdui-a", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "shidian-guji", locator: "Chapter 39 (received numbering), the first valley line, on obtaining the one and being full", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 39 (received numbering), the first valley line, on obtaining the one and being full", url: "https://6dsy.cn/daodejing-boshuyiben-39zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1860,9 +2379,14 @@
   logged: glossary/gu-谷.md
 
 - chapter: 41
+  id: 114
   line: "上德若谷"
   base: "谷"
-  witnesses: { guodian: "谷", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "guodian", text: "谷", pinyin: "gǔ", english: "valley", via: "six-dsy", locator: "Bundle B, unit B.2, Chapter 41 (received numbering), the line on highest integrity resembling a valley", url: "https://6dsy.cn/daodejing-guodianchujianben-41zhang/", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 41 (received numbering), the line on highest integrity resembling a valley (chapter 40 on 6dsy)", url: "https://6dsy.cn/daodejing-boshuyiben-40zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1873,9 +2397,15 @@
   logged: glossary/gu-谷.md
 
 - chapter: 66
+  id: 115
   line: "江海所以能為百谷王者"
   base: "谷"
-  witnesses: { guodian: "谷", mawangdui-a: "浴", mawangdui-b: "浴" }
+  base_pinyin: "gǔ"
+  base_english: "valley"
+  readings:
+    - { source: "guodian", text: "谷", pinyin: "gǔ", english: "valley", via: "six-dsy", locator: "Bundle A, unit A.1, Chapter 66 (received numbering), the opening line on rivers and seas ruling the hundred valleys", url: "https://6dsy.cn/daodejing-guodianchujianben-66zhang/", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-a", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "shidian-guji", locator: "Chapter 66 (received numbering), the opening line on rivers and seas ruling the hundred valleys", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "浴", pinyin: "yù", english: "valley, written with the graph for bathing", via: "six-dsy", locator: "Chapter 66 (received numbering), the opening line on rivers and seas ruling the hundred valleys", url: "https://6dsy.cn/daodejing-boshuyiben-66zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1894,9 +2424,14 @@
 # beside its edited reading). Guodian carries neither ch 8 nor ch 78.
 
 - chapter: 8
+  id: 116
   line: "上善若水"
   base: "若"
-  witnesses: { mawangdui-a: "治", mawangdui-b: "如" }
+  base_pinyin: "ruò"
+  base_english: "like"
+  readings:
+    - { source: "mawangdui-a", text: "治", pinyin: "zhì", english: "like, as editors read it here", via: "shidian-guji", locator: "Chapter 8 (received numbering), the opening comparison of highest mastery to water", url: "https://www.shidianguji.com/mid-page/7612766047787302958", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "如", pinyin: "rú", english: "like", via: "six-dsy", locator: "Chapter 8 (received numbering), the opening comparison of highest mastery to water", url: "https://6dsy.cn/daodejing-boshuyiben-8zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1907,9 +2442,14 @@
   logged: glossary/shui-水.md
 
 - chapter: 8
+  id: 117
   line: "水善利萬物而不爭"
   base: "不爭"
-  witnesses: { mawangdui-a: "有靜", mawangdui-b: "有爭" }
+  base_pinyin: "bù zhēng"
+  base_english: "do not contend"
+  readings:
+    - { source: "mawangdui-a", text: "有靜", pinyin: "yǒu jìng", english: "there is stillness", via: "shidian-guji", locator: "Chapter 8 (received numbering), the line on water benefiting the countless things", url: "https://www.shidianguji.com/mid-page/7612766047787302958", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "有爭", pinyin: "yǒu zhēng", english: "there is contention", via: "six-dsy", locator: "Chapter 8 (received numbering), the line on water benefiting the countless things", url: "https://6dsy.cn/daodejing-boshuyiben-8zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1926,9 +2466,14 @@
   logged: notes/manuscript.md
 
 - chapter: 8
+  id: 118
   line: "處眾人之所惡"
   base: "處"
-  witnesses: { mawangdui-a: "居", mawangdui-b: "居" }
+  base_pinyin: "chǔ"
+  base_english: "stay in"
+  readings:
+    - { source: "mawangdui-a", text: "居", pinyin: "jū", english: "dwell", via: "shidian-guji", locator: "Chapter 8 (received numbering), the line on dwelling where people dislike to be", url: "https://www.shidianguji.com/mid-page/7612766047787302958", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "居", pinyin: "jū", english: "dwell", via: "six-dsy", locator: "Chapter 8 (received numbering), the line on dwelling where people dislike to be", url: "https://6dsy.cn/daodejing-boshuyiben-8zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1937,9 +2482,13 @@
   logged: glossary/shui-水.md
 
 - chapter: 78
+  id: 119
   line: "柔之勝剛"
   base: "柔"
-  witnesses: { mawangdui-b: "水" }
+  base_pinyin: "róu"
+  base_english: "soft"
+  readings:
+    - { source: "mawangdui-b", text: "水", pinyin: "shuǐ", english: "water", via: "six-dsy", locator: "Chapter 78 (received numbering), the subject of the first line on overcoming the unbending and the strong (chapter 80 on 6dsy)", url: "https://6dsy.cn/daodejing-boshuyiben-80zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -1954,9 +2503,14 @@
   logged: notes/manuscript.md
 
 - chapter: 78
+  id: 120
   line: "受國之垢，是謂社稷主"
   base: "垢"
-  witnesses: { mawangdui-a: "訽", mawangdui-b: "訽" }
+  base_pinyin: "gòu"
+  base_english: "grime"
+  readings:
+    - { source: "mawangdui-a", text: "訽", pinyin: "gòu", english: "shame or reviling", via: "shidian-guji", locator: "Chapter 78 (received numbering), the first of the two sayings on taking on the state's burdens", verification: "pending-print", confirm: "T2-74" }
+    - { source: "mawangdui-b", text: "訽", pinyin: "gòu", english: "shame or reviling", via: "six-dsy", locator: "Chapter 78 (received numbering), the first of the two sayings on taking on the state's burdens (chapter 80 on 6dsy)", url: "https://6dsy.cn/daodejing-boshuyiben-80zhang/", verification: "pending-print", confirm: "T2-74" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -1971,9 +2525,13 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 121
   line: "專氣致柔，能如嬰兒乎"
   base: "致"
-  witnesses: { mawangdui-b: "至" }
+  base_pinyin: "zhì"
+  base_english: "bring to"
+  readings:
+    - { source: "mawangdui-b", text: "至", pinyin: "zhì", english: "reach" }
   meaning_bearing: false
   our_call: base
   note: >
@@ -1985,9 +2543,16 @@
   logged: glossary/qi-氣.md
 
 - chapter: 10
+  id: 122
   line: "專氣致柔，能如嬰兒乎"
   base: "能如嬰兒乎"
-  witnesses: { mawangdui-a: "能嬰兒乎", mawangdui-b: "能嬰兒乎", siku-wangbi: "能嬰兒乎", heshanggong: "能孾兒" }
+  base_pinyin: "néng rú yīng ér hū"
+  base_english: "can you be like an infant?"
+  readings:
+    - { source: "mawangdui-a", text: "能嬰兒乎", pinyin: "néng yīng ér hū", english: "can you be an infant?" }
+    - { source: "mawangdui-b", text: "能嬰兒乎", pinyin: "néng yīng ér hū", english: "can you be an infant?" }
+    - { source: "wangbi", text: "能嬰兒乎", pinyin: "néng yīng ér hū", english: "can you be an infant?" }
+    - { source: "heshanggong", text: "能孾兒", pinyin: "néng yīng ér", english: "can be an infant" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -2002,9 +2567,16 @@
   logged: notes/manuscript.md
 
 - chapter: 42
+  id: 123
   line: "萬物負陰而抱陽，沖氣以為和"
   base: "沖"
-  witnesses: { mawangdui-a: "中", beida: "中 (from a secondhand transcription; to confirm against the printed edition)", fuyi: "衝", fanyingyuan: "盅 (reported in a modern collation; unconfirmed)" }
+  base_pinyin: "chōng"
+  base_english: "surging, in the received spelling"
+  readings:
+    - { source: "mawangdui-a", text: "中", pinyin: "zhōng", english: "middle or within", via: "biaodianfu", locator: "Silk A, Chapter 42 · apparatus fork 123 (received numbering)" }
+    - { source: "beida", text: "中", pinyin: "zhōng", english: "middle or within", annotation: "Reported in a secondhand transcription. The printed reading awaits confirmation.", via: "sina", locator: "Chapter 42, the graph in the line on the breath and harmony", verification: "pending-print", confirm: "T2-79" }
+    - { source: "fuyi", text: "衝", pinyin: "chōng", english: "rush" }
+    - { source: "fanyingyuan", text: "盅", pinyin: "zhōng", english: "an empty vessel", annotation: "Reported in a modern collation. The source printing awaits confirmation.", via: "zhu-qianzhi", locator: "Chapter 42, the graph in the line on the breath and harmony", verification: "pending-print", confirm: "T2-79" }
   meaning_bearing: true
   our_call: mawangdui-a
   note: >
@@ -2021,9 +2593,16 @@
   logged: notes/manuscript.md
 
 - chapter: 45
+  id: 124
   line: "大盈若沖，其用不窮"
   base: "沖"
-  witnesses: { guodian: "盅 or 中 (transcriptions differ; not checked against the plates)", mawangdui-a: "沖", mawangdui-b: "沖, with 如 for 若", fuyi: "盅, with 滿 for 盈" }
+  base_pinyin: "chōng"
+  base_english: "empty, in this context"
+  readings:
+    - { source: "guodian", text: "盅 / 中", pinyin: "zhōng / zhōng", english: "an empty vessel / the middle", annotation: "Two online transcriptions disagree. The printed plates await confirmation.", via: "ctext", locator: "Chapter 45, the graph in the line on great fullness", verification: "pending-print", confirm: "T2-79" }
+    - { source: "mawangdui-a", text: "沖", pinyin: "chōng", english: "empty, in this context", via: "biaodianfu", locator: "Silk A, Chapter 45 · apparatus fork 124 (received numbering)" }
+    - { source: "mawangdui-b", text: "沖", pinyin: "chōng", english: "empty, in this context", annotation: "The silk also uses a different graph for “like.”", via: "biaodianfu", locator: "Silk B, Chapter 45 · apparatus fork 124 (received numbering)" }
+    - { source: "fuyi", text: "盅", pinyin: "zhōng", english: "an empty vessel", annotation: "Fu Yi also uses a different graph for “full.”" }
   meaning_bearing: true
   our_call: base
   note: >
@@ -2037,9 +2616,15 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 125
   line: "知和曰常，知常曰明"
   base: "知和曰常，知常曰明"
-  witnesses: { guodian: "和曰常，知和曰明", mawangdui-a: "和曰常，知和曰明", mawangdui-b: "…常，知常曰明 (the opening graphs lost)" }
+  base_pinyin: "zhī hé yuē cháng, zhī cháng yuē míng"
+  base_english: "knowing harmony is called the ever-present, knowing the ever-present is called clear-seeing"
+  readings:
+    - { source: "guodian", text: "和曰常，知和曰明", pinyin: "hé yuē cháng, zhī hé yuē míng", english: "harmony is called the ever-present, knowing harmony is called clear-seeing" }
+    - { source: "mawangdui-a", text: "和曰常，知和曰明", pinyin: "hé yuē cháng, zhī hé yuē míng", english: "harmony is called the ever-present, knowing harmony is called clear-seeing" }
+    - { source: "mawangdui-b", text: "…常，知常曰明", pinyin: "… cháng, zhī cháng yuē míng", english: "… the ever-present, knowing the ever-present is called clear-seeing", annotation: "The opening graphs are lost." }
   meaning_bearing: true
   our_call: guodian
   note: >

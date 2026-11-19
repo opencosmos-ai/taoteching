@@ -1,10 +1,17 @@
 id,name_zh,name_pinyin,name_en,kind,date_low,date_high,edition,rights,full_text,coverage_note
-guodian,郭店,Guōdiàn,Guodian bamboo slips,excavated,-320,-300,excavated 1993,FACTS ONLY — no transcription admissible,no,"31 of 81 chapters attested; recorded as variant facts, never as text"
-hanfeizi,韓非,Hán Fēi,"Han Feizi, 解老 / 喻老",quotation,-280,-233,"韓非子, ch. 20–21",public domain by age,no,the oldest commentary; 53 quotations across the 17 chapters he discusses
-heshanggong,河上公,Héshàng Gōng,Heshang Gong,received,-206,220,"四部叢刊 0532, Song woodblock",public domain by age,no,"commentary complete at 81 of 81, with his own chapter titles"
-mawangdui-a,馬王堆甲,Mǎwángduī jiǎ,Mawangdui silk A,excavated,-206,-195,excavated 1973,FACTS ONLY — no transcription admissible,no,"德 before 道; recorded as variant facts, never as text"
-mawangdui-b,馬王堆乙,Mǎwángduī yǐ,Mawangdui silk B,excavated,-206,-168,excavated 1973,FACTS ONLY — no transcription admissible,no,"德 before 道; recorded as variant facts, never as text"
-beida,北大,Běidà,Peking University Han bamboo,excavated,-206,-100,published 2012,FACTS ONLY — no transcription admissible,no,"recorded as variant facts, never as text"
-wangbi,王弼,Wáng Bì,Wang Bi received recension,received,226,249,"欽定四庫全書, 1782",public domain by age,no,base text of this edition; commentary covers 81 of 81 chapters
-fuyi,傅奕,Fù Yì,Fu Yi ancient text,received,555,639,not yet vendored,public domain by age; edition unverified,no,PROVENANCE names it admissible and owed; Phase 4
-fanyingyuan,范應元,Fàn Yìngyuán,Fan Yingyuan,received,1200,1275,not vendored,public domain by age,no,cited in variants
+base,,,"The received Laozi, Wang Bi recension",base,,,"Zhengtong Daozang; Siku Quanshu; Ershi'er zi; Sibu congkan, first series",sources/PROVENANCE.md#the-admission-rules,yes,81 of 81 chapter files or attestations
+beida,,,Peking University Han bamboo slips,excavated,,,"Western Han Bamboo Texts in the Peking University Collection, volume 2",sources/PROVENANCE.md#excavated,no,
+dunhuang,,,Dunhuang Laozi manuscripts,transmitted,,,,sources/PROVENANCE.md#the-admission-rules,no,
+fanyingyuan,,,Fan Yingyuan's Laozi recension,transmitted,,,,sources/PROVENANCE.md#the-admission-rules,no,
+fuyi,,,Fu Yi's ancient Laozi text,transmitted,,,"Daodejing, the Ancient Text, in the Zhengtong Daozang",sources/PROVENANCE.md#the-admission-rules,no,
+heshanggong,,,Heshang Gong's commentary on the Laozi,commentary,,,"Sibu congkan 0532, facsimile of the Qu family's Song woodblock edition","public domain by age (Han commentary); Song printing, reproduced 1919",yes,81 of 81 chapter files or attestations
+huainanzi,,,Huainanzi,context,,,,sources/PROVENANCE.md#the-admission-rules,no,
+kaiyuan,,,Kaiyuan edition of the Laozi,transmitted,,,,sources/PROVENANCE.md#the-admission-rules,no,
+shiwen,,,Jingdian Shiwen (Explications of the Classics),transmitted,,,,sources/PROVENANCE.md#the-admission-rules,no,
+yongle-dadian,,,Yongle Dadian (the Yongle Encyclopedia),transmitted,,,,sources/PROVENANCE.md#the-admission-rules,no,
+guodian,,,Guodian bamboo slips,excavated,-320,-300,Guodian Chu mu zhujian,sources/PROVENANCE.md#excavated,no,31 of 81 chapter files or attestations
+hanfeizi,,,Han Fei's Explaining Laozi and Illustrating Laozi,commentary,-280,-233,"Han Feizi, chapters 20 (Explaining Laozi) and 21 (Illustrating Laozi)",public domain by age (author d. 233 BCE),no,17 of 81 chapter files or attestations
+mawangdui-a,,,Mawangdui silk A,excavated,-200,-200,"Mawangdui Han mu boshu, volume 1; Gao Ming, Collation of the Silk Laozi; Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",sources/PROVENANCE.md#excavated,no,
+mawangdui-b,,,Mawangdui silk B,excavated,-175,-175,"Mawangdui Han mu boshu, volume 1; Gao Ming, Collation of the Silk Laozi; Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",sources/PROVENANCE.md#excavated,no,
+shuowen,,,Shuowen Jiezi — Explaining Graphs and Analysing Characters,dictionary,100,100,"Sibu congkan, first series, facsimile",public domain by age (author d. c. 148 CE),no,
+wangbi,,,Wang Bi's commentary on the Laozi,commentary,226,249,"Siku Quanshu, Masters Division 14, Daoist works",public domain by age (author d. 249 CE); printing 1782,yes,81 of 81 chapter files or attestations

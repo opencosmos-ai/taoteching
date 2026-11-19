@@ -7,6 +7,7 @@ shuowen: "The road that is walked. From 辵 (chuò — walking along a road) and
 chapters: [1, 4, 8, 9, 14, 15, 16, 18, 21, 23, 24, 25, 30, 31, 32, 34, 35, 37, 38, 40, 41, 42, 46, 47, 48, 51, 53, 55, 59, 60, 62, 65, 67, 73, 77, 79, 81]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 道 (Dào) — The Tao
 

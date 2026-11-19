@@ -10,6 +10,9 @@ shuowen: "A person's walking and hurrying. From 彳 (a step) and 亍 (a step)."
 chapters: [2, 12, 24, 25, 26, 27, 29, 33, 41, 47, 50, 53, 62, 64, 69, 70, 78]
 status: open
 pairing: false
+refs_status: incomplete
+refs:
+  - { source: mencius, locator: "4A.10, the line on duty as a person's straight road" }
 ---
 
 ## 行 (Xíng) — Going, and How a Person Goes

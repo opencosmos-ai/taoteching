@@ -10,6 +10,13 @@ pairing: false
 binds: [taoteching]
 covers:
   - { char: "谿", render: "ravine" }
+refs_status: incomplete
+refs:
+  - { source: zdic, locator: "Entry for ru (shame), the account of cultivating the soil", url: "https://www.zdic.net/hant/%E8%BE%B1" }
+  - { source: dong-chinese, locator: "Entry for ru (shame), the early graph of the hand and the farming tool", url: "https://www.dong-chinese.com/wiki/%E8%BE%B1" }
+  - { source: zhuangzi, locator: "33, Under Heaven, paragraph 5, Laozi's saying about ravine and valley" }
+  - { source: mawangdui-a, via: shidian-guji, locator: "Silk A, chapter 6 valley reading" }
+  - { source: mawangdui-b, via: six-dsy, locator: "Silk B, chapter 6 valley reading" }
 ---
 
 ## 谷 (Gǔ) — The Valley

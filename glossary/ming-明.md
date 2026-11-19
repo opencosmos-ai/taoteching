@@ -9,6 +9,7 @@ forbidden: ["enlightenment", "illumination", "brilliance"]
 chapters: [10, 16, 22, 24, 27, 33, 36, 41, 47, 52, 55, 65]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 明 (Míng) — Clear-Seeing
 

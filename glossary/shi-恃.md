@@ -7,6 +7,7 @@ forbidden: ["presume", "presuming", "dependency"]
 chapters: []
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 恃 (Shì) — To Rely On

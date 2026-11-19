@@ -51,7 +51,7 @@ The cost is that the opening line loses some of its music. I don't make that tra
 
 - **The glossary is both the ruling and the rule.** Each entry ([`glossary/INDEX.md`](glossary/INDEX.md) lists them all) argues a term from its oldest written form forward, quotes the classical commentators, and names what is set aside and why. Its frontmatter carries the settled English and the renderings that are forbidden; a build step turns that into machine-readable locks.
 - **The checker is a gate, not advice.** It reads those locks and fails the build wherever the manuscript contradicts a decision already made. It never fires on English alone — *"virtue"* is an error only when 德 (*dé* — integrity) is in that chapter's own Chinese, and otherwise it is just an English word.
-- **The evidence is in the repository, not in a bibliography.** Three classical commentaries in full — Wang Bi (d. 249 CE, all 81), Heshang Gong (Han, all 81) and Han Fei (d. 233 BCE, the oldest there is) — the Shuowen Jiezi (c. 100 CE) analysis of <!-- count: shuowen -->764 of the book's <!-- count: characters -->798 characters, and an apparatus of <!-- count: variants -->125 places where the other witnesses — the excavated manuscripts and the received editions — disagree with the base text.
+- The [generated sources catalogue](sources/SOURCES.md) records editions, coverage, and how each source was used.
 - **Where the manuscripts fork, the fork is recorded rather than resolved silently.** A meaning-bearing divergence with no logged decision fails the build.
 - **Overrides are recorded and cost something.** A single finding can be waived with a reason; a whole rule can be set aside, but only with a scope and an expiry — and an unused waiver is itself an error, so the record cannot rot.
 
@@ -88,7 +88,7 @@ You don't need any of this but the first. Everything else is here for whoever wa
 | [`process/accuracy-audit.md`](process/accuracy-audit.md) | What the Chinese says that the English drops, what the English says that the Chinese does not, and which of those were chosen |
 | [`process/back-translation-audit.md`](process/back-translation-audit.md) | Blind readers of the English against blind readers of the Chinese: where the English is heard as saying something else |
 | `process/skills/` | The method made executable, for AI collaborators |
-| [`sources/`](sources/PROVENANCE.md) | The three classical commentaries (Wang Bi, Heshang Gong, Han Fei), 說文解字, the variant apparatus, the hand-kept gloss lists, and per-file provenance |
+| [`sources/`](sources/SOURCES.md) | Sources, recorded evidence, coverage, and citations |
 | [`data/`](data/README.md) | The corpus as CSVs, and `atlas-export.json`, the one file the Library and the atlas are built from — all generated |
 | `tools/` | The harness — see below |
 | [`ARCHITECTURE.md`](ARCHITECTURE.md) | **How the system fits together** — authorities, what is generated, the gates, the rules, provenance |
@@ -130,7 +130,7 @@ The hook checks only the chapters you are committing, only at error severity, an
 
 ## Method, briefly
 
-The base text is the **Wang Bi** received recension. Where the older witnesses — **Guodian** (~300 BCE), **Mawangdui** (before 168 BCE), **Beida**, **Fu Yi** — differ in a way that changes meaning, the fork is logged and the choice explained.
+Where the [textual witnesses](sources/SOURCES.md#the-text-and-its-copies) differ in a way that changes meaning, the fork is logged and the choice explained.
 
 Contested lines are read four ways before rendering: the **characters themselves** (Shuowen Jiezi, oracle-bone and bronze forms, radical decomposition), the **manuscript witnesses**, the **classical commentaries**, and the **internal evidence** of how a term behaves across all 81 chapters.
 
@@ -143,13 +143,7 @@ python3 tools/concordance.py --commentary 21   # Wang Bi and Heshang Gong on a c
 python3 tools/concordance.py --witnesses 21    # where the older manuscripts disagree
 ```
 
-| Commentary | Date | Coverage | Edition |
-|---|---|---|---|
-| **Wang Bi** | d. 249 CE | all 81 chapters | the Siku Quanshu, 1782 |
-| **Heshang Gong** | Han | **81 of 81** | Song woodblock, via *Sibu congkan* 0532 |
-| **Han Fei**, *Jie Lao* and *Yu Lao* | d. 233 BCE | 17 chapters he discusses | the *Han Feizi*, chs. 20–21 |
-
-Every file names the printing it was transcribed from. Everything is public domain by age; the reasoning, and the rules for what may be added, are in [`sources/PROVENANCE.md`](sources/PROVENANCE.md). **The excavated manuscripts are deliberately *not* reproduced** — reconstructing the damaged graphs of the Mawangdui silks (1973) and Guodian slips (1993) is living scholarship, so the repository records the *fact* of each variant in [`sources/variants.yaml`](sources/variants.yaml) instead, which can be cited and checked.
+The [sources catalogue](sources/SOURCES.md#commentaries) lists the commentaries, their printings and coverage. The [admission rules](sources/PROVENANCE.md#the-admission-rules) explain which material can be stored. The [variant apparatus](sources/variants.yaml) records individual readings from currently excluded [excavated reconstructions](sources/PROVENANCE.md#excavated).
 
 The imports are reproducible (`tools/import_commentary.py`) and **they verify themselves**: each source interleaves or quotes the Laozi, so every quotation is matched against this edition's own base text, and how many match for each source is in [`sources/PROVENANCE.md`](sources/PROVENANCE.md). Lines that differ are reported as candidate variants and marked, never quietly normalized.
 

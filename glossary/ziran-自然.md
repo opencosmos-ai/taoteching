@@ -6,6 +6,7 @@ forbidden: ["Nature", "spontaneity", "self-so"]
 chapters: [17, 23, 25, 51, 64]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 自然 (Zìrán) — Of Itself
 

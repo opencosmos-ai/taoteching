@@ -9,6 +9,9 @@ pairing: false
 covers:
   - { char: "剛", render: "unbending" }
 shuowen: "Wood that bends and straightens. From 木 (mù — wood), with 矛 (máo — a spear) for sound."
+refs_status: incomplete
+refs:
+  - { source: i-ching, locator: "Wenyan commentary on hexagram 2, the line on earth's softness and movement" }
 ---
 
 ## 柔 (Róu) — Soft

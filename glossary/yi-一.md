@@ -9,6 +9,7 @@ forbidden: ["the One", "Oneness", "the Absolute"]
 chapters: [10, 11, 14, 22, 39, 42, 67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 一 (Yī) — one
 

@@ -6,6 +6,7 @@ forbidden: ["benevolence", "charity", "goodwill"]
 chapters: [5, 8, 18, 19, 38]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 仁 (Rén) — Humaneness

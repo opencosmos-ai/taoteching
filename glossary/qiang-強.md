@@ -9,6 +9,7 @@ status: locked
 pairing: false
 covers:
   - { char: "力", render: "force" }
+refs_status: incomplete
 ---
 
 ## 強 (Qiáng) — Strong

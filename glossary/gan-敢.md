@@ -7,6 +7,7 @@ forbidden: ["dare", "dares", "dared", "daring"]
 chapters: [3, 30, 64, 67, 69, 73, 74]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 敢 (Gǎn) — The Forward Press to Take

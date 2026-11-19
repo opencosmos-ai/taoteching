@@ -97,7 +97,7 @@ Five things, and the first is the one to remember:
 |---|---|---|
 | **`chapters/001–081.md`** | **The manuscript.** The `## Translation` block *is* the translation — there is no upstream and nothing regenerates over it. Each file also carries the chapter's Chinese source table, its per-chapter Notes, and frontmatter (`status`, `retrofit`). | One file per chapter |
 | **`glossary/*.md`** | **The rulings.** One entry per term: what the character is, what the conventional English gets wrong, what the classical commentators say, what is set aside and why. The frontmatter carries `render`, `flexions` and `forbidden`. | One file per term, plus the secondary characters each absorbs through `covers:` — [`glossary/INDEX.md`](glossary/INDEX.md) counts and lists them |
-| **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `component-forms.yaml`, `grammar-glosses.yaml`, `word-glosses.yaml`, `heshanggong-titles.yaml`. Machine-written: `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
+| **`sources/`** | **The evidence**, and the one mixed directory. Hand-kept: `sources.yaml` (the source catalogue: who each source is, its editions, and how it is used), `variants.yaml` (the witness apparatus, as facts), `guodian-inventory.yaml`, `component-glosses.yaml`, `component-forms.yaml`, `grammar-glosses.yaml`, `word-glosses.yaml`, `heshanggong-titles.yaml`, `shuowen-readings.yaml`. Machine-written: `SOURCES.md` (the catalogue, rendered for readers), `commentaries/` (three classical commentaries in full) and `shuowen/` (說文解字 — *Shuōwén Jiězì*, the c. 100 CE etymological dictionary). | See *Provenance* below |
 
 Everything else supports these. `notes/` records decisions thinly in three layers — manuscript forks, our own rendering calls, reader-facing threads — and `WORKLIST.md` tracks what is still owed.
 
@@ -149,10 +149,11 @@ This is the operational heart of the system. A question about one character beco
 | `data/taoteching.sqlite` | `build_db.py` | `chapters/`, `glossary/`, `sources/` | no — gitignored; every tool that reads it rebuilds it in seconds, and the CSVs below are its reviewable form |
 | `data/*.csv` | `export.py` | the sqlite | yes — **CI fails if stale**; a binary blob cannot be diffed or reviewed, the CSVs can |
 | `data/explorer.html` | `build_explorer.py` | the sqlite | no — gitignored; a local, self-contained preview. The public atlas is built from `atlas-export.json` |
-| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim, plus each chapter's `## Notes`, plus `sources/component-forms.yaml` | yes — **CI fails if stale**. The contract two readers build from, and nothing else in this repo is read by either: the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas), and opencosmos.ai's Library and Cosmo, which also read its `verse`, `notes`, `literal` and `align` keys ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). A change on `main` signals all three: `notify-atlas.yml` and `notify-opencosmos.yml` |
+| `data/atlas-export.json` | `export_atlas.py` | the sqlite, plus every `glossary/*.md` verbatim, plus each chapter's `## Notes`, plus `sources/component-forms.yaml` and `sources/shuowen-readings.yaml` | yes — **CI fails if stale**. The contract two readers build from, and nothing else in this repo is read by either: the [Character Atlas](https://github.com/opencosmos-ai/chinese-atlas), and opencosmos.ai's Library and Cosmo, which also read its `verse`, `notes`, `literal` and `align` keys ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)). A change on `main` signals all three: `notify-atlas.yml` and `notify-opencosmos.yml` |
 | `data/constellation-*.json` | `build_graph.py` | the sqlite | yes — **CI fails if stale** |
 | `sources/commentaries/*/` | `import_commentary.py` | cached wikitext (gitignored) | yes — re-runnable to byte-identical output |
 | `sources/shuowen/entries.md` | `import_shuowen.py` | cached wikitext | yes |
+| `sources/SOURCES.md` | `build_sources.py` | `sources/sources.yaml`, the apparatus and Guodian inventory, every glossary entry's `refs`, the stored files' frontmatter, and the worklist rows that print checks name | yes — **CI fails if stale** |
 | `source/chinese.md` | *by hand, from the chapters' source tables* | — | yes |
 
 **Every committed generated file must be reproducible, and now every one is checked.** `data/constellation-chars.json` had **never agreed with `data/characters.csv`** — both entered the repository in `2466b4d`, but the JSON was built from an older database than the CSV beside it, so it published glosses the CSV had already withdrawn and older wordings for ninety more. Nothing rebuilt it and nothing compared them; a person found it, seven months later, by reading a diff. CI now rebuilds the atlas and fails on `git diff --exit-code data/`.
@@ -190,6 +191,25 @@ This is the operational heart of the system. A question about one character beco
 - **[The Library](https://opencosmos.ai/library/sources/taoism-tao-te-ching)** on opencosmos.ai reads the export's `verse`, `notes`, `literal` and `align` keys, a chapter to a page, and Cosmo's copy of the text is regenerated from the same file ([opencosmos ADR 0020](https://github.com/opencosmos-ai/opencosmos/blob/main/docs/decisions/0020-the-tao-te-ching-is-read-in-the-library-a-chapter-to-a-page.md)).
 
 **Each signal needs a secret, and skips with a notice without one**: `ATLAS_DISPATCH_TOKEN` for the atlas, `VERCEL_DEPLOY_HOOK` and `KNOWLEDGE_DISPATCH_TOKEN` for opencosmos.ai. A skipped dispatch is not an error, because each reader also rebuilds on its own.
+
+### Source registry contract
+
+[`sources/SOURCES.md`](sources/SOURCES.md) is generated for readers on GitHub. `build_sources.py` and `build_db.py` both validate the authored catalogue, individual readings, citations, inventory, and importer bindings through `tools/lib/source_registry.py`. The SQLite projections feed the CSVs and `export_atlas.py`. The Library builds its Sources page and chapter disclosures from the export. The Atlas links glossary citations to the Library's source anchors. The source catalogue and apparatus are the places to edit bibliographic facts and reading evidence, respectively. Glossary citations live beside the passages in the entries.
+
+The export stays on contract 1. Existing chapter tuples and verse, alignment, notes, character cards, entry bodies, and entry fields retain their shape. These fields extend it. A `?` marks a field that can be omitted.
+
+| Field | Shape and semantics |
+|---|---|
+| `sources.records[]` | `{id, name, kind, use, short_name?, date?, author_dates?, years?, found?, url?, scan?, rights?, via?, chain, policy, holds, editions, coverage, forks, chapters, entries, citation_debt?, pending_print, pending_via, confirmed_print}`. IDs and display labels are strings. `years` is an ascending pair of signed years. `kind` is `base`, `excavated`, `transmitted`, `commentary`, `dictionary`, `context`, `translation`, or `reference`. `use` is `stored`, `facts`, or `consulted`. `chain` lists intermediary IDs from the immediate one onward. `policy` and `holds[]` are repository-relative paths. `coverage` has `chapters: number[]`, optional `total: number`, and optional `items: number` for a stored selection. `forks` lists fork IDs, `chapters` lists their distinct chapter numbers, and `entries` lists glossary slugs. The three print counts describe readings of the source, readings acquired through it as immediate intermediary, and confirmed readings of it. |
+| `sources.records[].editions[]` | `{id, title, publisher?, year?, date?, url?}`. Edition IDs are scoped to each source. `year` is a number and orders dated editions from earliest to latest. Undated editions follow, in ID order. `date` retains the edition dates written in importer metadata. |
+| `sources.totals` | Integer fields `sources`, `stored`, `facts`, `readings`, `pending_print`, `confirmed_print`, `entries`, `incomplete_entries`, and `citation_debt`. The print totals count individual readings and `citation_debt` counts exceptional source records. |
+| `chapter_sources[chapter]` | `{attestation, forks, commentary}` for every chapter. `attestation` is `{source: "guodian", present: boolean, extent, bundles: string[], units: string[]}`. `extent` is `complete`, `opening`, `middle`, `end`, `split`, or `null` for an absent inventory record. `commentary` is an array of `{source, path}` pointing to stored chapter files. |
+| `chapter_sources[chapter].forks[]` | `{id: number, base: pairing, our_call: string, meaning_bearing: boolean, readings: reading[], refs?: citation[]}`. A fork's ID is a permanent positive integer from the apparatus. Forks appear in apparatus order within their chapter. Choices are `base`, `punctuation`, `undecided`, or an ID among that fork's readings. A pairing is `{text, pinyin?, english, gloss}`. `gloss: authored` identifies the explicit English gloss and, for Han text, pinyin. A fork citation is `{source, via?, chain, edition?, locator?, url?}` with a precise locator or passage URL. |
+| Reading | A pairing plus `{source, chain, cards, annotation?, via?, edition?, locator?, url?, verification, confirm?, confirmed_edition?, confirmed_locator?, confirmed_on?, confirmation?}`. `cards` lists only ideographs that have actual Atlas cards. `source` is a catalogue ID or `various` or `wangbi_collation`, two editorial evidence labels. `verification` is `unassessed`, `pending-print`, or `confirmed-print`. Pending records retain their acquisition locator and worklist row. Confirmed records identify the edition and exact location in print, ISO date, and outcome. |
+| `entries[].refs`, `entries[].refs_status` | `refs` is an array of `{source, via?, chain, edition?, locator?, url?, at?}` with a precise locator or passage URL. `at` points to a heading in the entry. `refs_status` is `incomplete` or `complete`. The exported references and counts cover recorded citations. |
+| `chars[].shuowen?` | `{english, pinyin?}` for a dictionary definition with a readable English gloss. `pinyin` records the pronunciation for that definition. `chars[].p` carries the pronunciation in the text. The Atlas renders the dictionary section from this field. |
+
+The source gate runs offline and checks every displayed pairing, source and edition reference, active print check, stored metadata projection, and the generated catalogue. Allocate each new fork from `next-fork-id` in the apparatus header and advance the counter. Editing, moving, and deleting forks preserve the counter. CI compares it with the previous commit or PR base and rejects counter decreases and newly assigned IDs below that threshold. The external-link check runs weekly and can be dispatched manually on the default branch. It uses the export to track repeated failures in one issue.
 
 **A part's written form is a fact about each character, held once.** 說文 names a part in its full form, and a part changes shape with its place: 水 (*shuǐ* — water) is written 氵 at a character's left, 肉 (*ròu* — flesh) as 月 (*yuè* — moon). So the atlas's card for 沖 (*chōng*) said "built from 水", and a reader looking at 沖 could not find water in it (2026-11-15). The fix is shaped by four decisions:
 
@@ -251,6 +271,7 @@ CI additionally runs the tools' own tests and verifies the verse's hard line bre
 | `glossary/INDEX.md` · `terms.yaml` | the generated locks match the entries they came from |
 | `process/principles/INDEX.md` · `principles.yaml` | the generated principles match their entries — after `build_principles.py --check` has verified every `evidence:` anchor resolves and every entry is shaped to run |
 | `data/` — the atlas | every committed CSV and JSON matches the manuscript and glossary it was built from |
+| `sources/SOURCES.md` | the generated catalogue matches the registry, apparatus and citations it was built from — after `build_sources.py --check` has validated every source, reading, citation and print check |
 
 And it holds hand-written prose to the facts it restates:
 
@@ -271,6 +292,11 @@ the analysis of <!-- count: shuowen -->763 of the book's <!-- count: characters 
 The tool finds every mark in every `.md` file, computes the value from the authority itself — the database built in memory as `build_db.py` builds it, the vendored commentaries, `check_locks.py`'s own `em-dash` rule — and fails with the true value beside the claimed one. `python3 tools/check_counts.py --list` prints every name a mark can use and its current value. **It is a separate tool rather than a `check_locks.py` rule** because it judges no rendering: it has no evidence gate to pass, no waiver to honour and no severity but *wrong*, and the same split keeps `check_worklist.py` out of the checker. **A count with no mark is not checked** — counts in code blocks, where the comment would show, and dated snapshots (`CHANGELOG.md`, `PLAN.md`, the worklist's ledger) are left alone on purpose.
 
 **`check_retractions.py` does for facts what `forbidden:` does for renderings.** A correction is made in one place, and the claim it corrects has usually been copied into several: the Ch 25 apparatus was corrected on 2026-08-20, and two months later the withdrawn claim still stood as fact in eleven files, among them `CLAUDE.md`, a skill and a principle. So a correction has two halves. Fix the line where you found it, and add the withdrawn claim to `process/retractions.yaml`, with the phrases that state it, what is true, and where that is argued. The tool then fails on every copy in every `.md`, `.yaml` and `.cff` file. It spares `CHANGELOG.md` (dated history), a line that announces its own correction (*Corrected*, *withdrawn*, *once said*, *formerly*, *(was*, `~~`, ⚠), a section whose opening carries a ⚠ banner, and the paths an entry lists in `allow:`. A phrase that fires on a legitimate sentence is too broad: lengthen it, rather than allowing the file.
+
+**Two source checks look past the current snapshot.**
+
+- **`check_fork_ids.py`** reads `sources/variants.yaml` at the PR's base, or at the previous commit of a push, and fails if `next-fork-id` fell or a new fork took an ID below it. A published fork ID is a link a reader may hold, so it is never handed out twice.
+- **`source-links.yml`** runs weekly, and by hand on `main`, and probes every external URL in the export's source records. A URL that fails two conclusive checks in a row opens the one *Source link report* issue, and the issue closes itself when none do. Fix a reported URL where it is authored: `sources/sources.yaml`, the apparatus, or the entry's `refs`.
 
 **No dependency install step, deliberately.** Every tool is stdlib Python only, so a fresh clone can run the whole gate with nothing else present.
 
@@ -347,17 +373,7 @@ Unsuppressable rules get disabled wholesale; free suppression rots. So both hatc
 
 The repository is **CC0, with no exceptions**, and a companion volume must be able to draw on it commercially. That constrains what may be vendored, and the constraint is architectural rather than incidental.
 
-| Material | Call | Why |
-|---|---|---|
-| 王弼 · 河上公 · 韓非 commentaries | **vendor** | pre-1929 printings exist; public domain by age |
-| The Laozi base text | **vendor** | ancient; provenanced to four named pre-1929 printings |
-| 說文解字 (*Shuōwén Jiězì*) | **vendor** | c. 100 CE |
-| **Mawangdui** (excavated 1973) · **Guodian** (1993) | **never vendor** | every transcription is modern, and reconstructing damaged graphs is living scholarship |
-| Modern critical apparatus, annotations, translations | **never vendor** | in copyright |
-
-**For the excavated witnesses, record the fact rather than the text.** *"Mawangdui A and B read 自今及古 (*zì jīn jí gǔ* — from now back to antiquity) where Wang Bi reads 自古及今 (*zì gǔ jí jīn* — from antiquity until now)"* is a fact about a text, and facts are not copyrightable. That is what `sources/variants.yaml` is: an apparatus of facts, never transcriptions. `sources/guodian-inventory.yaml` answers only *does the oldest witness carry this chapter at all* — it carries <!-- count: guodian-chapters -->31 of 81.
-
-Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to `sources/`.
+The [generated catalogue](sources/SOURCES.md) lists the sources, editions, stored materials, and recorded evidence. The [admission rules](sources/PROVENANCE.md#the-admission-rules) govern who can add material and on what evidence. For the currently excluded excavated reconstructions, the apparatus records individual reading facts and the Guodian inventory records passage extent. A qualifying transcription can be admitted under the existing [excavated-source policy](sources/PROVENANCE.md#excavated).
 
 **A separate rule governs consultation, not vendoring:** sources are consulted for **meaning, never for phrasing**, and only pre-1931 public-domain translations may be consulted at all. There are no English translations in this repository.
 
@@ -404,6 +420,7 @@ Read [`sources/PROVENANCE.md`](sources/PROVENANCE.md) before adding anything to 
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | outside contributors | four ways in, easiest first |
 | [`data/README.md`](data/README.md) | data users | the corpus as CSVs, and two cautions |
 | [`sources/PROVENANCE.md`](sources/PROVENANCE.md) | anyone adding a source | what may live there, on what authority |
+| [`sources/SOURCES.md`](sources/SOURCES.md) | anyone citing or checking a source | which sources the edition rests on, how each was used, and which readings await a print check. Generated |
 | [`notes/`](notes/) | the record | manuscript forks · our rendering decisions · reader-facing threads |
 
 ---
@@ -421,6 +438,8 @@ The things that must stay true. Most are enforced; the ones that are not are mar
 7. **Stdlib only.** A fresh clone runs the whole gate with no install step. *(not enforced — hold the line by hand)*
 8. **Never write a Chinese character without an English rendering beside it** — in any file, any commit message, any conversation. *(not enforced; the most-broken rule in the repository, which is why it is a banner at the top of `CLAUDE.md`)*
 9. **Sources are consulted for meaning, never for phrasing.** *(not enforceable)*
+10. **A published fork ID is never reused or reassigned.** *(enforced: `check_fork_ids.py`)*
+11. **Every source a reading or citation names has one record in `sources/sources.yaml`, and every displayed reading carries its own pinyin and English.** *(enforced: `build_sources.py --check`)*
 
 ---
 
@@ -447,7 +466,15 @@ python3 tools/check_locks.py --rule em-dash     # one rule
 python3 tools/check_locks.py --severity error   # what CI blocks on
 python3 -m unittest discover -s tools/tests
 python3 tools/check_counts.py                   # the counts the docs claim (--list for every name)
+python3 tools/build_sources.py --check           # validate the source graph and generated catalogue
+python3 tools/check_fork_ids.py "$(git rev-parse origin/main)"  # no fork ID handed out twice (CI checks the PR base)
 python3 tools/check_retractions.py              # no copy of a withdrawn claim survives (--list for the register)
+
+# recording a fork, or citing a source
+#   a new fork's id: is the next-fork-id in sources/variants.yaml's header; then advance it
+#   a source new to the edition gets its record in sources/sources.yaml in the same change
+#   that first cites it: the build refuses an unknown source and an unused one
+#   the chapter-review skill gives a reading's fields; the glossary-entry skill, an entry's refs
 
 # after editing any chapter's verse
 python3 tools/fix-linebreaks.py                 # restore hard breaks (--check to verify only)
@@ -455,6 +482,7 @@ python3 tools/fix-linebreaks.py                 # restore hard breaks (--check t
 # after editing chapters (verse, Chinese or notes), glossary or sources — rebuild
 # everything under data/, in this order; CI fails a PR whose data/ is stale.
 # A glossary edit runs build_index.py first: build_db.py reads terms.yaml.
+python3 tools/build_sources.py
 python3 tools/build_db.py && python3 tools/export.py \
   && python3 tools/build_graph.py && python3 tools/export_atlas.py
 python3 tools/build_explorer.py                 # optional: the local preview, gitignored
@@ -462,6 +490,9 @@ python3 tools/build_explorer.py                 # optional: the local preview, g
 # vendoring a source (network; output is byte-identical on re-run)
 python3 tools/import_commentary.py --source hanfeizi --write
 python3 tools/import_shuowen.py --fetch
+
+# the external-link report, on demand (default branch only; it also runs weekly)
+gh workflow run source-links.yml
 
 # install the pre-commit gate
 git config core.hooksPath .githooks

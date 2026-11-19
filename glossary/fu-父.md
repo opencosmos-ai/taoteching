@@ -6,6 +6,7 @@ forbidden: ["origin", "root"]
 chapters: [21, 42]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 父 · 甫 (Fù · Fǔ) — The Father

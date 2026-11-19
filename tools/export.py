@@ -148,22 +148,27 @@ EXPORTS = {
     "variants": """
         SELECT v.chapter, v.line AS base_line, v.base_reading,
                ifnull(v.witness_id,'—')      AS witness,
-               ifnull(w.name_en,'editorial') AS witness_name,
+               coalesce(w.name_en, e.name, 'editorial') AS witness_name,
                ifnull(w.kind,'')             AS witness_kind,
                ifnull(v.witness_reading,'')  AS witness_reading,
                CASE v.meaning_bearing WHEN 1 THEN 'yes' ELSE 'no' END
                                              AS meaning_bearing,
                v.our_call, v.followed, ifnull(v.note,'') AS note,
-               ifnull(v.logged,'') AS logged
+               ifnull(v.logged,'') AS logged,
+               v.base_pinyin, v.base_english, v.base_gloss,
+               v.witness_pinyin, v.witness_english, v.witness_gloss,
+               v.annotation, v.via, v.chain, v.edition, v.locator, v.url, v.verification,
+               v.confirm, v.confirmed_edition, v.confirmed_locator, v.confirmed_on, v.confirmation
         FROM variant v LEFT JOIN witness w ON w.id = v.witness_id
-        ORDER BY v.chapter, v.variant_group
+        LEFT JOIN source_editorial_label e ON e.id = v.witness_id
+        ORDER BY v.chapter, v.id
     """,
     "witnesses": """
         SELECT id, name_zh, name_pinyin, name_en, kind, date_low, date_high,
                edition, rights,
                CASE is_full_text WHEN 1 THEN 'yes' ELSE 'no' END AS full_text,
                coverage_note
-        FROM witness ORDER BY date_low
+        FROM witness ORDER BY date_low, id
     """,
     "locked-renderings": """
         SELECT r.chapter, r.line_seq AS line, r.char AS character, r.pinyin,
@@ -200,7 +205,7 @@ GLOSS_COLUMNS = {
     "compounds":         {"pinyin", "render"},
     "lines":             {"pinyin", "literal_gloss", "our_english"},
     "chapters":          {"heshanggong_title_pinyin", "heshanggong_title_english"},
-    "variants":          {"note", "witness_name"},
+    "variants":          {"base_english", "witness_english"},
     "witnesses":         {"name_pinyin", "name_en"},
     "locked-renderings": {"pinyin", "expected_rendering"},
     "commentary":        {"lemma_our_english", "lemma_status"},
@@ -377,7 +382,7 @@ in `glossary/terms.yaml`.
 馬王堆 (*Mǎwángduī*) and 北大 (*Běidà*) appear only in `variants.csv`, as recorded
 disagreements with citations. `sources/PROVENANCE.md` explains why: reconstructing
 damaged graphs is living scholarship, and this repository is CC0 with no
-exceptions. `witnesses.csv` marks them `FACTS ONLY` in the rights column.
+exceptions. `witnesses.csv` links to the source admission policy in the rights column.
 """
 
 

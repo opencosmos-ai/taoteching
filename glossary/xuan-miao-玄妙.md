@@ -6,6 +6,7 @@ forbidden: ["mystery", "mysterious", "the occult"]
 chapters: [1, 6, 10, 15, 51, 56, 65]
 status: locked
 pairing: true
+refs_status: incomplete
 ---
 ## 玄 (Xuán) & 妙 (Miào) — The Dark and the Subtle
 

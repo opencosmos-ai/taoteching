@@ -6,6 +6,7 @@ forbidden: ["uncarved block", "simplicity", "purity"]
 chapters: [15, 19, 28, 32, 37, 57]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 樸 (Pǔ) — Uncarved Wood
 

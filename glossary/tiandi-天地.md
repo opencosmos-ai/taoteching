@@ -9,6 +9,7 @@ pairing: false
 covers:
   - { char: "天下", render: "the world" }
   - { char: "天", render: "nature (as ordering principle)" }
+refs_status: incomplete
 ---
 ## 天地 (Tiān Dì) — Sky and Earth
 

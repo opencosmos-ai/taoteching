@@ -8,6 +8,10 @@ status: locked
 pairing: false
 binds: [taoteching]
 shuowen: "Out of the ordinary. From 乙 (yǐ — a shoot coming up bent), with 又 (yòu) for sound."
+refs_status: incomplete
+refs:
+  - { source: analects, locator: "2.18 and 14.37" }
+  - { source: ji-xusheng, locator: "2009, analysis of the early graph previously read as you (fault)" }
 ---
 
 ## 尤 (Yóu) — Blame

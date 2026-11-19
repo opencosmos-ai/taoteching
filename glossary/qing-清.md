@@ -9,6 +9,7 @@ pairing: false
 covers:
   - { char: "濁", render: "muddy" }
 shuowen: "Bright. The look of water that has settled. From 水 (shuǐ — water), with 青 (qīng) for sound."
+refs_status: incomplete
 ---
 
 ## 清 (Qīng) — Clear

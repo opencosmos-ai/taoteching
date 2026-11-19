@@ -6,6 +6,7 @@ forbidden: ["grip", "clutch", "cling to", "sustain"]
 chapters: [9, 64, 67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 持 (Chí) — To Hold

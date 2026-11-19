@@ -8,6 +8,7 @@ forbidden: ["sufficiency", "fulfilled", "satisfaction"]
 chapters: [33, 44, 46]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 知足 (Zhī zú) — Knowing You Have Enough

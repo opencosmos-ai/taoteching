@@ -8,6 +8,7 @@ chapters: [8, 78]
 status: locked
 pairing: false
 binds: [taoteching]
+refs_status: incomplete
 ---
 
 ## 水 (Shuǐ) — Water

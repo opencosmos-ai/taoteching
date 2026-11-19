@@ -9,6 +9,11 @@ chapters: [2, 4, 18, 42, 55, 56, 79]
 status: locked
 pairing: false
 shuowen: "To answer one another. From 口 (kǒu — mouth), with 禾 (hé — grain) for sound."
+refs_status: incomplete
+refs:
+  - { source: zuozhuan, locator: "Duke Zhao, year 20, Yanzi's reply to the Duke of Qi" }
+  - { source: analects, locator: "13.23" }
+  - { source: shuowen, locator: "Entries for he (harmony), he (the flutes) and he (the vessel)" }
 ---
 
 ## 和 (Hé) — Harmony

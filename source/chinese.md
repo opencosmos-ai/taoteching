@@ -10,11 +10,7 @@ Library v. Corel* (1999) for faithful reproductions. **This repository's CC0 ded
 on the age of the text and on nothing else** — not on the terms of any modern website, database,
 or printed edition.
 
-**Where to verify it independently.** This recension is printed in, among many others, the Ming
-*Zhengtong Daozang* (正統道藏, 1445), the *Siku Quanshu* (四庫全書, 1782), the Zhejiang Book
-Company's *Ershi'er zi* (二十二子, 1875), and the Commercial Press *Sibu congkan* (四部叢刊,
-first series from 1919). Every one of those predates 1929 and is wholly independent of this
-repository.
+The [sources catalogue](../sources/SOURCES.md#base) lists the four pre-1929 printings used for independent comparison.
 
 **The punctuation is editorial, not authorial, and forms no part of the source.** The ancient
 text is unbroken columns of characters with no punctuation and no line breaks at all. Every

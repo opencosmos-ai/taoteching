@@ -7,6 +7,7 @@ forbidden: ["techniques", "processes"]
 chapters: [2, 8, 17, 23, 30, 31, 48, 52, 57, 59, 61, 63, 64, 70]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 事 (Shì) — Affairs, and the Hand That Holds Them
 

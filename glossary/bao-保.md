@@ -8,6 +8,7 @@ forbidden: ["preserve", "safekeeping", "maintain", "hold on to", "safeguard"]
 chapters: [9, 15, 62, 67]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 保 (Bǎo) — To Keep Safe

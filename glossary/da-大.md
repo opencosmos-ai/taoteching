@@ -9,6 +9,7 @@ status: locked
 pairing: false
 covers:
   - { char: "小", render: "small" }
+refs_status: incomplete
 ---
 ## 大 (Dà) — Great
 

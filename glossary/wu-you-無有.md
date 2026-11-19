@@ -9,6 +9,7 @@ pairing: true
 covers:
   - { char: "利", render: "advantage" }
   - { char: "用", render: "use" }
+refs_status: incomplete
 ---
 ## 無 & 有 (Wú, Yǒu) — Absence & Presence
 

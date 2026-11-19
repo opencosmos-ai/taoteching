@@ -9,6 +9,7 @@ pairing: false
 covers:
   - { char: "物", render: "things / something" }
   - { char: "萬", render: "countless" }
+refs_status: incomplete
 ---
 ## 萬物 (Wàn wù) — The Countless Things
 

@@ -53,6 +53,18 @@ jobs:
             exit 1
           }
 
+      - name: source register and generated catalogue are current
+        run: python3 tools/build_sources.py --check
+
+      - name: published fork IDs stay reserved
+        env:
+          BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ -n "$BASE" ] && [[ ! "$BASE" =~ ^0+$ ]]; then
+            git fetch --no-tags --depth=1 origin "$BASE"
+            python3 tools/check_fork_ids.py "$BASE"
+          fi
+
       # data/constellation-chars.json sat in the repo for weeks carrying glosses
       # that data/characters.csv had already withdrawn: two generated files
       # publishing different things, because nothing rebuilt the second one.

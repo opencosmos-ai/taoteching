@@ -9,6 +9,7 @@ shuowen: "Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 chapters: [6, 41, 52]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 
 ## 勤 (Qín) — Strain

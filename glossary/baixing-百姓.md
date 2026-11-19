@@ -6,6 +6,7 @@ forbidden: ["the people", "the hundred families", "the hundred surnames", "the m
 chapters: [5, 17, 49]
 status: locked
 pairing: false
+refs_status: incomplete
 ---
 ## 百姓 (Bǎi xìng) — Everyone
 

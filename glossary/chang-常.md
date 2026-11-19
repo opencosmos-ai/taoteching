@@ -10,6 +10,11 @@ shuowen: "A lower skirt. From 巾 (jīn — cloth), with 尚 (shàng) for sound.
 chapters: [1, 3, 16, 27, 28, 32, 34, 37, 46, 48, 49, 51, 52, 55, 61, 64, 65, 74, 79]
 status: locked
 pairing: false
+refs_status: incomplete
+refs:
+  - { source: schuessler, locator: "Chang (constant), tentative comparison with Tibetan 'again, once more'" }
+  - { source: rites-of-zhou, locator: "Spring Offices, Standard Bearer, the flag bearing the sun and moon" }
+  - { source: book-of-odes, locator: "Greater Odes, King Wen, the line on the heavenly mandate" }
 ---
 ## 常 (Cháng) — The Ever-Present
 
