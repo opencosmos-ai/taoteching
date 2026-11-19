@@ -4,9 +4,9 @@ pinyin: "shén / líng"
 render: "spirit / potent"
 flexions:
   - { english: "sacred", chapters: [29], why: "神 qualifies a made thing: a 神器 is a vessel for the spirits, a ritual bronze" }
-forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous"]
+forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency"]
 chapters: [6, 29, 39, 60]
-status: open
+status: locked
 pairing: true
 covers:
   - { char: "鬼", render: "ghost" }
@@ -40,7 +40,7 @@ refs:
 
 *Say "shun," rising, and "ling," rising. 神 stands eight times in seven lines across four chapters; 靈 twice, both in chapter 39, and both times as what 神 becomes. Neither is ever a god.*
 
-**Recommended: 神 → "spirit" · Settled: 靈 → "potent"** (Shalom's call, 2026-11-19, at chapter 39). *(Not "God," "the divine" or "deity," which the missionaries put into 神. Not "holy," which is 聖 (shèng — the sage)'s overlay. Not "soul," which leaves the body. Not "numinous," a theologian's word for the holy that no one could point at.)* **One flexion:** *sacred* at chapter 29, where 神 qualifies a made thing. **Covered here:** 鬼 (guǐ — ghost) → *ghost*, its partner at chapter 60.
+**Locked: 神 → "spirit" · 靈 → "potent."** *(Shalom's calls, 2026-11-19: 靈 at chapter 39, 神 at chapter 60; locked after the chapter pass.)* *(Not "God," "the divine" or "deity," which the missionaries put into 神. Not "holy," which is 聖 (shèng — the sage)'s overlay. Not "soul," which leaves the body. Not "numinous," a theologian's word for the holy that no one could point at.)* **One flexion:** *sacred* at chapter 29, where 神 qualifies a made thing. **Covered here:** 鬼 (guǐ — ghost) → *ghost*, its partner at chapter 60.
 
 ### The graph: lightning at an altar, and a shaman wearing jade
 
@@ -102,9 +102,9 @@ The Shuowen gives the graph. The word is older, and its early uses, gathered in 
 >
 > — chapter 39
 
-> *Oversee the world with the Tao, and the ghosts lose their potency,*
-> *not only do ghosts lose their potency, their potency causes no harm to people,*
-> *not only does their potency do no harm, the sage, too, does no harm to people.*
+> *Oversee the world with the Tao, and its ghosts do not act as spirits.*
+> *It is not that its ghosts have no spirit; their spirit does no harm to people.*
+> *It is not that their spirit does no harm to people; the sage, too, does no harm to people.*
 >
 > 以道莅天下，其鬼不神；
 > 非其鬼不神，其神不傷人；
@@ -178,7 +178,7 @@ Chapter 60 puts 神 into motion. It is a verb in 其鬼不神 (*qí guǐ bù sh�
 
 For Wang Bi, *the two* of 兩不相傷 (*liǎng bù xiāng shāng* — "the two do not harm each other") are the spirit and the sage. For Heshang Gong they are the ghosts and the sage. Han Fei, the oldest reader, makes them the people and the ghosts: 治世之民，不與鬼神相害也, *"the people of a well-ruled age do no harm with ghosts and spirits,"* and he says plainly what a ghost's harm is, 鬼祟也疾人之謂鬼傷人, *"a ghost haunting a person and making them ill: this is called a ghost harming people."*
 
-**One English for 神 across the chapter keeps all three readings open.** *Spirit* can be the ghosts' own force, which is Heshang Gong, or a power standing by the sage, which is Wang Bi, and the reader can find *the two* either way. *Potency* can only be the first: a quality the ghosts have, never a party who could stand beside the sage. Wang Bi's best sentence on the chapter, that the height of the Tao is 使不知神聖之為神聖, *"to bring it about that no one knows spirit and sage as spirit and sage,"* needs 神 to be someone. This is why the entry recommends *spirit* at chapter 60 too. The line rewrite it needs belongs with the chapter's larger repair (see *Left open*).
+**One English for 神 across the chapter keeps all three readings open.** *Spirit* can be the ghosts' own force, which is Heshang Gong, or a power standing by the sage, which is Wang Bi, and the reader can find *the two* either way. *Potency* can only be the first: a quality the ghosts have, never a party who could stand beside the sage. Wang Bi's best sentence on the chapter, that the height of the Tao is 使不知神聖之為神聖, *"to bring it about that no one knows spirit and sage as spirit and sage,"* needs 神 to be someone. This is why chapter 60 reads *spirit* too, since its repair on 2026-11-19 (Shalom's call), which also restored 非 as *it is not that*.
 
 ### Chapter 29: a vessel for the spirits
 
@@ -241,11 +241,11 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 | 天下神器 (29) | 神, qualifying a made thing | *a sacred vessel* — the declared flexion |
 | 神得一以靈 (39) | 神, subject in the list · 靈, its quality | *spirit… potent* |
 | 神無以靈，將恐歇 (39) | the same, negated | *spirit with no way to be potent* |
-| 其鬼不神 (60) | 神, a verb: the ghosts do not act as spirits | *spirit*, carried by a verb the line supplies (recommended) |
-| 其神不傷人 (60), ×2 | 神, noun, the ghosts' or a spirit's own | *their spirit* (recommended) |
+| 其鬼不神 (60) | 神, a verb: the ghosts do not act as spirits | *act as spirits*, the verb supplied |
+| 其神不傷人 (60), ×2 | 神, noun, the ghosts' or a spirit's own | *their spirit* |
 | 其鬼 (60), ×2 | 鬼, noun | *ghosts* |
 
-**The verb at chapter 60 needs scaffolding.** English cannot say *the ghosts do not spirit*, so the line will supply a verb, as Heshang Gong's 見 (*xiàn* — to show) does. Whatever verb the line takes, it is the construction's, not 神's, and it stays out of `render:` (`process/principles/supplied-verb-is-scaffolding.md`).
+**The verb at chapter 60 needs scaffolding.** English cannot say *the ghosts do not spirit*, so the line supplies *act as*, as Heshang Gong supplies 見 (*xiàn* — to show). The verb it is the construction's, not 神's, and it stays out of `render:` (`process/principles/supplied-verb-is-scaffolding.md`).
 
 ### What no rule can enforce
 
@@ -255,11 +255,11 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 
 ***Spirit* is held for 神 by three other entries**, which forbid it for 身 (*shēn* — body), 精 (*jīng* — vital essence) and 魄 (*pò* — aliveness). 神 shares no chapter with 身, so the build can never see those two meet; `concordance.py --english "spirit"`, run by hand, is the only check.
 
-***Potency* cannot go on this list yet**, for the reason in *Left open*: chapter 60 prints it, and a forbidden word in a chapter where 神 stands is an error the build would report on the spot.
+***Potency* is forbidden** since chapter 60 left it (2026-11-19).
 
 ### Left open
 
-**Chapter 60's English waits on chapter 60's grammar.** Its 非 (*fēi*) reads *not only* in our English, where Heshang Gong's 其□非无精神也 (*"it is not that the ghosts lack vital spirit"*) reads it *it is not that*, and the chapter contradicts itself as it stands. That is `WORKLIST.md` R6, the back-translation audit's deepest finding, and it is Shalom's call. The choice between *spirit* and *potency* for 神 belongs in the same rewrite, because the line has to be rebuilt either way.
+**Chapter 60 is settled** (2026-11-19, Shalom's call): 非 reads *it is not that*, and 神 *spirit* in all three of its uses. Which *two* do no harm to each other, Wang Bi's spirit and sage or Heshang Gong's ghosts and sage, the English leaves as open as the Chinese.
 
 **Chapter 39 keeps *Spirit*, singular, capitalized only by position** (Shalom's call, 2026-11-19). The Shuowen's 天神 (*tiān shén* — the spirits of the sky) is plural beings, and *The spirits received the one* would end the capital and match it. The list's other members are a sky, an earth and a valley, and the chapter's rhythm runs on singular nouns; the rhythm was kept. A reader who hears the creed's capital in *Spirit* should know the Chinese has none.
 

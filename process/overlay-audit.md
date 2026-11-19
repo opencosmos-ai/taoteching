@@ -37,7 +37,7 @@ The character is a picture of **hearing**: an oversized ear (耳) beside a mouth
 → **Locked:** *the sage*; *sagehood* where 聖 stands alone (ch 19). `glossary/sheng-聖.md`, 2026-10-17.
 
 **神 — "God," "the divine"** *(6, 29, 39, 60)*
-The literal casualty of the Term Question. In Laozi it is **spirit**: a force met at the altar, and in every line something in the world, never above it. At chapter 39 it needs the one, as the sky and the valley do; at chapter 60 Wang Bi sets it beside the sage. What spirit is when it works is its partner 靈 (*líng*), **potent** (39). Watch 谷神不死 (6, *the spirit of the valley*), 天下神器 (29, *a sacred vessel*, the ritual bronze), 神得一以靈 (39). **Never "God." Never "the divine."** Chapter 60's *potency* waits on that chapter's repair (`WORKLIST.md` R6). The argument: `glossary/shen-ling-神靈.md`.
+The literal casualty of the Term Question. In Laozi it is **spirit**: a force met at the altar, and in every line something in the world, never above it. At chapter 39 it needs the one, as the sky and the valley do; at chapter 60 Wang Bi sets it beside the sage. What spirit is when it works is its partner 靈 (*líng*), **potent** (39). Watch 谷神不死 (6, *the spirit of the valley*), 天下神器 (29, *a sacred vessel*, the ritual bronze), 神得一以靈 (39). **Never "God." Never "the divine."** Chapter 60 reads *spirit* too, since its repair on 2026-11-19. The argument: `glossary/shen-ling-神靈.md`.
 
 **鬼 — "demons," "devils"** *(60 only)*
 Christian demonology imported wholesale. 鬼 are **the dead, ghosts, ancestral spirits** — not agents of evil. "Ghosts" ✓ (already our reading).

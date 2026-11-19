@@ -546,9 +546,9 @@
 - term: "神 & 靈"
   pinyin: "shén / líng"
   render: "spirit / potent"
-  forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous"]
+  forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency"]
   chapters: [6, 29, 39, 60]
-  status: open
+  status: locked
   entry: glossary/shen-ling-神靈.md
   flexions:
     - { english: "sacred", chapters: [29], why: "神 qualifies a made thing: a 神器 is a vessel for the spirits, a ritual bronze" }

@@ -54,7 +54,7 @@ The Chinese corrects itself twice. The English adds instead, and so says the gho
 
 **Logged?** No. The chapter has no notes. The source table's literal column already says *"Not only,"* and the form audit records the chain as *Kept*, which as form it is. Nobody has argued the reading.
 
-**Proposed:** *"Oversee the world with the Tao, and the ghosts do not act as spirits. / It is not that the ghosts have no potency: their potency does no harm to people. / It is not that their potency does no harm: the sage, too, does no harm to people."* The chain stays in position, so the form audit's verdict holds. *Lose their potency* goes, because 不神 (*bù shén* — "are not numinous / do not act as spirits") does not say they lose anything.
+**Proposed:** *"Oversee the world with the Tao, and the ghosts do not act as spirits. / It is not that the ghosts have no potency: their potency does no harm to people. / It is not that their potency does no harm: the sage, too, does no harm to people."* The chain stays in position, so the form audit's verdict holds. *Lose their potency* goes, because 不神 (*bù shén* — "are not numinous / do not act as spirits") does not say they lose anything. **Done, 2026-11-19 (Shalom's call),** with 神 → *spirit* and semicolons: *"Oversee the world with the Tao, and its ghosts do not act as spirits. / It is not that its ghosts have no spirit; their spirit does no harm to people. / It is not that their spirit does no harm to people; the sage, too, does no harm to people."* (`chapters/060.md`).
 
 #### Major
 

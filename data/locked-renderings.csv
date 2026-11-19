@@ -1249,15 +1249,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 60,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,小,xiǎo,大,small,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,治,Zhì,治,govern,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
-60,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
-60,2,神,shén,神 & 靈,spirit,NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
-60,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
-60,2,鬼,guǐ,神 & 靈,ghost,yes,1.0,exact-count,"Oversee the world with the Tao, and the ghosts lose their potency,"
-60,3,神,shén,神 & 靈,spirit,NOT FOUND,1.0,exact-count,"not only do ghosts lose their potency, their potency causes no harm to people,"
-60,3,神,shén,神 & 靈,spirit,NOT FOUND,1.0,exact-count,"not only do ghosts lose their potency, their potency causes no harm to people,"
-60,3,鬼,guǐ,神 & 靈,ghost,yes,1.0,exact-count,"not only do ghosts lose their potency, their potency causes no harm to people,"
-60,4,神,shén,神 & 靈,spirit,NOT FOUND,1.0,exact-count,"not only does their potency do no harm, the sage, too, does no harm to people."
-60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"not only does their potency do no harm, the sage, too, does no harm to people."
+60,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Oversee the world with the Tao, and its ghosts do not act as spirits."
+60,2,神,shén,神 & 靈,spirit,yes,1.0,exact-count,"Oversee the world with the Tao, and its ghosts do not act as spirits."
+60,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"Oversee the world with the Tao, and its ghosts do not act as spirits."
+60,2,鬼,guǐ,神 & 靈,ghost,yes,1.0,exact-count,"Oversee the world with the Tao, and its ghosts do not act as spirits."
+60,3,神,shén,神 & 靈,spirit,yes,1.0,exact-count,It is not that its ghosts have no spirit; their spirit does no harm to people.
+60,3,神,shén,神 & 靈,spirit,yes,1.0,exact-count,It is not that its ghosts have no spirit; their spirit does no harm to people.
+60,3,鬼,guǐ,神 & 靈,ghost,yes,1.0,exact-count,It is not that its ghosts have no spirit; their spirit does no harm to people.
+60,4,神,shén,神 & 靈,spirit,yes,1.0,exact-count,"It is not that their spirit does no harm to people; the sage, too, does no harm to people."
+60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"It is not that their spirit does no harm to people; the sage, too, does no harm to people."
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 60,5,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The large state is the downstream flow,"
