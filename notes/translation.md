@@ -2059,6 +2059,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 60 · *show*, *it is not that*, *not only*
+
+*(2026-11-19, Shalom's call, refining the entry below.)* Line 1 *"do not show their spirit"* (Heshang Gong's 見), so line 2 corrects showing with having; line 3 *"Not only does their spirit do no harm to people, the sage, too…"*, reading 亦 with Wang Bi as an addition, which sets up *the two*. `chapters/060.md`.
+
 ### Ch 60 · the ghosts' stanza: "It is not that its ghosts have no spirit; their spirit does no harm to people"
 
 *(2026-11-19, Shalom's call, closing R6's ch 60 item and T3-18's.)* 非 is *it is not that*, so the chapter corrects itself instead of contradicting itself; 神 is *spirit* in all three uses; 不傷人 ×3 repeats exactly; semicolons carry the corrections. `chapters/060.md`.

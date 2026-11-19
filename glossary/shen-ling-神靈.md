@@ -102,9 +102,9 @@ The Shuowen gives the graph. The word is older, and its early uses, gathered in 
 >
 > — chapter 39
 
-> *Oversee the world with the Tao, and its ghosts do not act as spirits.*
+> *Oversee the world with the Tao, and its ghosts do not show their spirit.*
 > *It is not that its ghosts have no spirit; their spirit does no harm to people.*
-> *It is not that their spirit does no harm to people; the sage, too, does no harm to people.*
+> *Not only does their spirit do no harm to people, the sage, too, does no harm to people.*
 >
 > 以道莅天下，其鬼不神；
 > 非其鬼不神，其神不傷人；
@@ -241,11 +241,11 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 | 天下神器 (29) | 神, qualifying a made thing | *a sacred vessel* — the declared flexion |
 | 神得一以靈 (39) | 神, subject in the list · 靈, its quality | *spirit… potent* |
 | 神無以靈，將恐歇 (39) | the same, negated | *spirit with no way to be potent* |
-| 其鬼不神 (60) | 神, a verb: the ghosts do not act as spirits | *act as spirits*, the verb supplied |
+| 其鬼不神 (60) | 神, a verb: the ghosts do not show their spirit | *show their spirit*, the verb supplied from Heshang Gong's 見 |
 | 其神不傷人 (60), ×2 | 神, noun, the ghosts' or a spirit's own | *their spirit* |
 | 其鬼 (60), ×2 | 鬼, noun | *ghosts* |
 
-**The verb at chapter 60 needs scaffolding.** English cannot say *the ghosts do not spirit*, so the line supplies *act as*, as Heshang Gong supplies 見 (*xiàn* — to show). The verb it is the construction's, not 神's, and it stays out of `render:` (`process/principles/supplied-verb-is-scaffolding.md`).
+**The verb at chapter 60 needs scaffolding.** English cannot say *the ghosts do not spirit*, so the line supplies *show*, Heshang Gong's own 見 (*xiàn* — to show): 鬼不敢見其精神, *"the ghosts dare not show their spirit."* That also keeps line 2 a correction and not a contradiction, *showing* against *having* (`chapters/060.md`). The verb it is the construction's, not 神's, and it stays out of `render:` (`process/principles/supplied-verb-is-scaffolding.md`).
 
 ### What no rule can enforce
 
@@ -259,7 +259,7 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 
 ### Left open
 
-**Chapter 60 is settled** (2026-11-19, Shalom's call): 非 reads *it is not that*, and 神 *spirit* in all three of its uses. Which *two* do no harm to each other, Wang Bi's spirit and sage or Heshang Gong's ghosts and sage, the English leaves as open as the Chinese.
+**Chapter 60 is settled** (2026-11-19, Shalom's call): line 2's 非 reads *it is not that*, line 3's reads *not only* on the strength of its 亦 (*yì* — too), with Wang Bi, and 神 is *spirit* in all three of its uses. Heshang Gong's causal reading of line 3, that the spirits do no harm *because* the sage does none, is recorded in the chapter note. Which *two* do no harm to each other, Wang Bi's spirit and sage or Heshang Gong's ghosts and sage, the English leaves as open as the Chinese.
 
 **Chapter 39 keeps *Spirit*, singular, capitalized only by position** (Shalom's call, 2026-11-19). The Shuowen's 天神 (*tiān shén* — the spirits of the sky) is plural beings, and *The spirits received the one* would end the capital and match it. The list's other members are a sky, an earth and a valley, and the chapter's rhythm runs on singular nouns; the rhythm was kept. A reader who hears the creed's capital in *Spirit* should know the Chinese has none.
 
