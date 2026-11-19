@@ -1102,9 +1102,12 @@
   readings:
     - { source: "heshanggong", text: "我大", pinyin: "wǒ dà", english: "I am great" }
   meaning_bearing: true
-  our_call: heshanggong
+  our_call: base
   note: >
-    RESOLVED 2026-08-19 — we follow 我大, "I am vast," against our own base text.
+    RESTORED 2026-09-06 (Shalom's call): the verse follows the base, 我道大,
+    "The world says my Tao is great" (chapters/067.md → Notes). The August
+    argument for 我大 is kept below as history.
+    Superseded 2026-09-06: RESOLVED 2026-08-19 — we followed 我大, "I am vast," against our own base text.
     Six arguments converge. (1) 不肖 is a self-deprecating FIRST-PERSON term in
     classical Chinese — "I, the unworthy one," from a child not resembling its
     father; it is a person-word. (2) Heshang Gong's lemma omits 道 and his

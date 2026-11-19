@@ -494,6 +494,8 @@ Our base reads 故以智治國，國之賊；不以智治國，國之福 (*gù y
 
 ### Ch 67 · 我道大 or 我大 — **resolved 2026-08-19: the chapter is about Laozi**
 
+*(Superseded 2026-09-06: Shalom restored 道 (*dào* — the Tao), and the verse follows the base, *"The world says my Tao is great"* (`chapters/067.md` → Notes). The argument below is the August decision, kept as history.)*
+
 Our base reads 天下皆謂**我道**大 — *"everyone says my Tao is vast."* Heshang Gong's lemma reads 天下皆謂**我**大, *"everyone says **I** am vast."* **We follow Heshang Gong, against our own base text.** Six arguments converge, and only the second is about manuscripts.
 
 **1 · 不肖 is a first-person humility word.** 肖 (*xiào*) is *to resemble*, and 不肖 (*bù xiào*) is a **self-deprecating pronoun** in classical Chinese — *"I, the unworthy one"* — built on the idea of a child who does not resemble its father. It survives in 不肖子 (*bù xiào zǐ* — unworthy son) and 不肖徒 (unworthy student). It is a word people apply **to themselves**. Applied to the Tao it is strained; applied to a speaker it is the ordinary idiom.
