@@ -52,7 +52,7 @@ refs:
 >
 > — chapter 7
 
-> *To walk ahead of the people, you must put your body behind them.*
+> *If you want to go ahead of the people, you must put your body behind them.*
 >
 > 欲先民，必以身後之。
 >
@@ -131,7 +131,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 | line | sense | English |
 |---|---|---|
 | 後其身而身先 (7) | a position, the move | *puts their body last… comes first* — flexion, Shalom's call |
-| 欲先民，必以身後之 (66) | a position, the move | *go ahead of… put your body behind them* (recommended) |
+| 欲先民，必以身後之 (66) | a position, the move | *go ahead of… put your body behind them* (Shalom's call, 2026-11-19) |
 | 不敢為天下先 (67) ×2 | a position, the move | *never pushing to get ahead in the world* (recommended) |
 | 捨後且先 (67) | a position, the move | *abandon staying behind and grab at getting ahead* (recommended) |
 | 拱璧以先駟馬 (62) | a position, a verb, *xiàn* | *go ahead of* (Shalom's call, 2026-11-19) |
@@ -151,7 +151,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 ### Left open
 
-**Chapter 7 is decided: it keeps *last / first*** (Shalom's call, 2026-11-19). *"The sage puts their body last, and their body comes first"* stays for its snap, and the echo of Matthew 20:16 is a known cost, recorded here so no later pass removes it as an oversight. **That leaves chapters 66 and 67 to read again in its light.** With chapter 7 on *last / first*, chapter 67's *first in the world* already matches it, and its *the rear / the front* may now want *last / first* rather than *behind / ahead*; chapter 66's 欲先民 rides with `WORKLIST.md` T2-86 (its 欲 is dropped there too). Chapter 62 took *go ahead of* on 2026-11-19.
+**Chapter 7 is decided: it keeps *last / first*** (Shalom's call, 2026-11-19). *"The sage puts their body last, and their body comes first"* stays for its snap, and the echo of Matthew 20:16 is a known cost, recorded here so no later pass removes it as an oversight. **That leaves chapters 66 and 67 to read again in its light.** With chapter 7 on *last / first*, chapter 67's *first in the world* already matches it, and its *the rear / the front* may now want *last / first* rather than *behind / ahead*; chapter 66 took *if you want to go ahead of the people, you must put your body behind them* on 2026-11-19. Chapter 62 took *go ahead of* on 2026-11-19.
 
 ***Comes first* was weighed against *ends up ahead*, and kept.** *Ends up ahead* would have given the move one pair of words in all four lines and dropped the Gospel cadence; *comes first* keeps the line readers remember. Shalom's call.
 

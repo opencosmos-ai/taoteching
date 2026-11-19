@@ -1403,14 +1403,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,2,王,wáng,王,ruler / sovereign · to rule (verb),NOT FOUND,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,2,能,néng,可,be able,NOT FOUND,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
 66,2,谷,gǔ,谷,valley,yes,1.0,authored,because they are masterful at staying below them. That is how they come to rule the hundred valleys.
-66,3,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"So to rise above the people, you must speak from below them."
-66,3,民,mín,民,the people,yes,1.0,authored,"So to rise above the people, you must speak from below them."
-66,3,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"So to rise above the people, you must speak from below them."
-66,4,先,xiān,先 & 後,"ahead, or before in time",NOT FOUND,1.0,authored,"To walk ahead of the people, you must put your body behind them."
-66,4,後,hòu,先 & 後,"behind, or after in time",NOT FOUND,1.0,authored,"To walk ahead of the people, you must put your body behind them."
-66,4,欲,Yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"To walk ahead of the people, you must put your body behind them."
-66,4,民,mín,民,the people,yes,1.0,authored,"To walk ahead of the people, you must put your body behind them."
-66,4,身,shēn,身,body,yes,1.0,authored,"To walk ahead of the people, you must put your body behind them."
+66,3,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"So if you want to rise above the people, you must speak from below them."
+66,3,民,mín,民,the people,yes,1.0,authored,"So if you want to rise above the people, you must speak from below them."
+66,3,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"So if you want to rise above the people, you must speak from below them."
+66,4,先,xiān,先 & 後,"ahead, or before in time",NOT FOUND,1.0,authored,"If you want to go ahead of the people, you must put your body behind them."
+66,4,後,hòu,先 & 後,"behind, or after in time",NOT FOUND,1.0,authored,"If you want to go ahead of the people, you must put your body behind them."
+66,4,欲,Yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"If you want to go ahead of the people, you must put your body behind them."
+66,4,民,mín,民,the people,yes,1.0,authored,"If you want to go ahead of the people, you must put your body behind them."
+66,4,身,shēn,身,body,yes,1.0,authored,"If you want to go ahead of the people, you must put your body behind them."
 66,5,民,mín,民,the people,yes,1.0,authored,"The sage stands above, and the people are not weighed down,"
 66,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"The sage stands above, and the people are not weighed down,"
 66,6,前,qián,先 & 後,front,yes,1.0,authored,"stands in front, and the people are not harmed."

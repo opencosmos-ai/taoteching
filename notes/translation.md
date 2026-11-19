@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 66 · "if you want to rise above … if you want to go ahead of"
+
+*(2026-11-19, Shalom's call.)* 欲 restored twice, and with it ch 36's frame, *if you want to X, you must Y*; 先 with an object is *go ahead of*, against *put your body behind them*. `chapters/066.md`.
+
 ### Ch 62 · "prize this Tao … the most prized in the world"
 
 *(2026-11-19, Shalom's call.)* *Honor* is 尊's in this chapter (*buy honor*); 貴 takes *prize* twice, and 故為天下貴 now matches ch 56 verbatim. 先 → *go ahead of*. `chapters/062.md`.
