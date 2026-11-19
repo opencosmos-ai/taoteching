@@ -120,7 +120,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 美,měi,beauty / fine / pretty / glorify,word,,,,,9,5,"2,31,62,80,81",2,81,1.7,
 觀,guān,observe / sight (26),word,,,,,9,4,"1,16,26,54",1,54,1.7,
 餘,yú,too much / more than enough / leftover / remain,word,,,,,9,6,"20,24,53,54,77,79",20,79,1.7,
-仁,rén,humaneness,locked,,humaneness,locked,benevolence; charity; goodwill,8,5,"5,8,18,19,38",5,38,1.51,glossary/ren-仁.md
+仁,rén,humaneness,locked,,humaneness,locked,benevolence; charity; goodwill; righteous; justice,8,5,"5,8,18,19,38",5,38,1.51,glossary/ren-仁.md
 令,lìng,make (令人) / command / laws (法令),word,,,,,8,4,"12,19,32,57",12,57,1.51,
 先,xiān,"ahead, or before in time",locked,,"ahead, or before in time",locked,precede; superior; inferior; humility,8,6,"4,7,25,62,66,67",4,67,1.51,glossary/xian-hou-先後.md
 古,gǔ,ancient / the ancients,word,,,,,8,7,"14,15,21,22,62,65,68",14,68,1.51,
@@ -192,7 +192,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 法,fǎ,model oneself on / laws (法令),word,,,,,5,2,"25,57",25,57,0.94,
 牝,pìn,the female,locked,,the female,locked,receptive; feminine; the Female,5,3,"6,55,61",6,61,0.94,glossary/pin-牝.md
 禮,lǐ,ritual / rites (31),word,,,,,5,2,"31,38",31,38,0.94,
-義,yì,duty,word,,,,,5,3,"18,19,38",18,38,0.94,
+義,yì,duty,covers,,duty,locked,,5,3,"18,19,38",18,38,0.94,glossary/ren-仁.md
 致,zhì,bring to / reach / follow through (39),word,,,,,5,4,"10,14,16,39",10,39,0.94,
 虛,xū,empty (adjective) · to empty (verb),open,,empty (adjective) · to empty (verb),open,emptiness; the void; vacuity; nothingness,5,5,"3,5,16,22,53",3,53,0.94,glossary/xu-虛.md
 親,qīn,"dear, draw near / kin (18) / favorites (79)",word,,,,,5,5,"17,18,44,56,79",17,79,0.94,

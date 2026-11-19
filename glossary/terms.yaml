@@ -469,10 +469,11 @@
 - term: "仁"
   pinyin: "rén"
   render: "humaneness"
-  forbidden: ["benevolence", "charity", "goodwill"]
+  forbidden: ["benevolence", "charity", "goodwill", "righteous", "justice"]
   chapters: [5, 8, 18, 19, 38]
   status: locked
   entry: glossary/ren-仁.md
+  # covers 義 -> duty
 
 - term: "恃"
   pinyin: "shì"

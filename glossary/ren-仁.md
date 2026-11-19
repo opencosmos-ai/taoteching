@@ -2,11 +2,18 @@
 term: "仁"
 pinyin: "rén"
 render: "humaneness"
-forbidden: ["benevolence", "charity", "goodwill"]
+forbidden: ["benevolence", "charity", "goodwill", "righteous", "justice"]
 chapters: [5, 8, 18, 19, 38]
 status: locked
 pairing: false
+covers:
+  - { char: "義", render: "duty" }
 refs_status: incomplete
+refs:
+  - { source: shuowen, locator: "Entry for yi under the I radical (one's own dignified bearing; from I and sheep)" }
+  - { source: hanfeizi, locator: "Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern" }
+  - { source: heshanggong, locator: "Chapter 38, duty as cutting and dividing; ritual applied when duty declines" }
+  - { source: heshanggong, locator: "Chapter 18, humaneness and duty not visible in the time of the great Tao" }
 ---
 
 ## 仁 (Rén) — Humaneness
@@ -75,6 +82,47 @@ So 不仁 is not the absence of care. It is the absence of **management with a d
 Three pairs of **goods**, said to be insufficient as 文 (*wén* — cultural form). The chapter is not an attack on kindness. It is a claim that the named virtues arrive too late.
 
 **And the oldest witness does not make the attack at all.** At Guodian (~300 BCE) the passage corresponding to ch 19 carries neither 仁 nor 義 nor 聖; the pairs severed there are different ones. See `notes/manuscript.md` · Ch 19 and `sources/variants.yaml`.
+
+### 義 (yì — duty)
+
+*Say "yee," falling. Five lines across three chapters, and in every one of them 仁 stands beside it. Covered here (Shalom's call, 2026-11-19), because the book never names one without the other: 義 is the second half of the virtue-pair it takes apart.*
+
+> 義，己之威儀也。从我、羊。
+> *"義: one's own dignified bearing. From 我 (wǒ — a halberd, and so *I*) and 羊 (yáng — a sheep)."* — Shuowen (說文, *Shuōwén* — Xu Shen's dictionary, c. 100 CE)
+
+**A sheep over a halberd: the bearing proper to one's place.** The Shuowen reads 義 as 儀 (*yí*), the form a person carries, and files it under 我, a serrated blade borrowed for the first person. The sheep is the altar's animal; `glossary/shan-善.md` quotes the Shuowen setting 善 (*shàn* — masterful) beside it, 此與義、美同意, *"this has the same sense as 義 and 美."* We do not lean on the parts. What the word means in the book is set by its company.
+
+> *When the great Tao is discarded, humaneness and duty appear.*
+>
+> 大道廢，有仁義；
+>
+> — chapter 18
+
+> *Cut off humaneness, abandon duty, and the people return to devotion and tenderness.*
+>
+> 絕仁棄義，民復孝慈；
+>
+> — chapter 19
+
+> *The highest duty acts, and has something it acts for.*
+>
+> 上義為之而有以為。
+>
+> — chapter 38
+
+**Han Fei says what 義 was, and it is duty in the exact sense: what is owed by station.** 義者，君臣上下之事，父子貴賤之差也，知交朋友之接也，親疏內外之分也。臣事君宜，下懷上宜，子事父宜，賤敬貴宜…義者，謂其宜也，宜而為之, *"duty is the business between ruler and minister, high and low; the difference between father and son, noble and base; the meeting of friends; the line between near and far, inside and out. A minister serving the ruler is fitting, those below cherishing those above is fitting, a son serving his father is fitting, the base respecting the noble is fitting… duty means what is fitting, and doing what is fitting."* And he sets it on chapter 38's ladder: 仁者，德之光…義者，仁之事也…禮者，義之文也, *"humaneness is integrity's light… duty is humaneness made into business… ritual is duty made into pattern."*
+
+**Heshang Gong gives it a blade.** On chapter 38: 為義以斷割也, *"to act with duty is to cut and divide"*; 言仁衰而分義明也, *"humaneness declines, and the dividing duty becomes plain"*; and 義衰則施禮聘行玉帛, *"when duty declines, ritual is applied, and gifts of jade and silk go out."* The halberd in the graph is not his evidence, but it agrees with him: 義 draws the lines between people.
+
+**So the book's quarrel with 義 is the same as with 仁, one step further down.** Humaneness is care that has become a virtue with a name; duty is that care turned into obligations sorted by rank; ritual is the obligations turned into ceremony (chapter 38's ladder, which our verse follows Han Fei in reading as a cascade of losses, `chapters/038.md`). *Duty* reads in all five lines, and it carries the station: you owe your duty to someone above or below you.
+
+**Set aside, for 義:**
+
+- **"righteousness," "righteous."** The overlay watchlist's word for 義, and the King James Bible's for justification before God. It makes the Confucian obligation a holiness, and chapter 19's *abandon duty* into *abandon righteousness*, an attack on goodness the Chinese does not make. Forbidden here, with *justice*.
+- **"justice."** Impartial law, the same rule for all. Han Fei's 義 is the opposite of impartial: what the minister owes is not what the ruler owes.
+- **"morality," "morals."** A modern abstraction over the whole of conduct, where 義 is one rung on a ladder.
+- **"what is fitting," "appropriateness."** Han Fei's 宜 (*yí* — fitting), and right as his gloss; in the verse it is a gloss rendered in place of the word (`process/principles/commentary-is-not-rendering.md`).
+- **"propriety," "rites."** 禮 (*lǐ* — ritual)'s ground, the next rung down.
 
 ### What is set aside
 

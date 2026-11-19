@@ -14,7 +14,7 @@
 
 **Next, in order:**
 
-1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 義 (*yì* — duty) · 福/禍 (*fú / huò* — fortune / disaster) · 成 (*chéng* — complete) · 勝 (*shèng* — overcome) · 智 (*zhì* — cleverness, T2-2) · 死 (*sǐ* — death) · 長 (*cháng / zhǎng* — long / grow / chief) · 國 (*guó* — state). The six from 儉 to 勝 and the last three were added 2026-11-15 from a scan of the text against the glossary.
+1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 福/禍 (*fú / huò* — fortune / disaster) · 成 (*chéng* — complete) · 勝 (*shèng* — overcome) · 智 (*zhì* — cleverness, T2-2) · 死 (*sǐ* — death) · 長 (*cháng / zhǎng* — long / grow / chief) · 國 (*guó* — state). The six from 儉 to 勝 and the last three were added 2026-11-15 from a scan of the text against the glossary.
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** the two audits' findings, deepest first: R6 (its ch 60 done 2026-11-19), then R5 (both run 2026-10-27). The form audit's losses, T3-9 → T3-18, one at a time (T3-8 closed 2026-11-19) (R4, step 4; all 81 chapters were read 2026-10-26). Still deferred: 正/奇 (*zhèng / qí* — straight / crooked, T4-2). The em-dashes (T4-3) were settled 2026-10-25.
