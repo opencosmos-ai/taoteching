@@ -5,7 +5,7 @@ render: "words, speech (a noun) / speak (a verb)"
 flexions:
   - { english: "saying", chapters: [41, 69], why: "a quoted saying, introduced by 有 (there is): the proverbs the chapter then cites" }
   - { english: "say", chapters: [31], why: "言 opens an explanation, that is to say" }
-forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word"]
+forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word", "wordless", "without words"]
 shuowen: "Speaking straight out is yan; debating is yu. From 口 (a mouth), with a sound part."
 chapters: [2, 5, 8, 17, 22, 23, 27, 31, 41, 43, 56, 62, 66, 69, 70, 73, 78, 81]
 status: open
@@ -64,21 +64,21 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 **The book's speech is never praised for being beautiful or clever.** It is praised for being trustworthy (8, 81), on the mark (78), few (23), or absent (2, 43, 56, 73). The sky is the model: Heshang Gong on chapter 73, 天不言，萬物自動應以時, *"the sky does not speak, and the countless things move of themselves, answering in their season."*
 
-### The teaching without words, twice, and it must read the same
+### The unspoken teaching, twice, and it reads the same
 
-> *and carries out the teaching without words.*
+> *and carries out the unspoken teaching.*
 >
 > 行不言之教。
 >
 > — chapter 2
 
-> *The wordless teaching, the benefit of non-doing —*
+> *The unspoken teaching, the benefit of non-doing —*
 >
 > 不言之教，無為之益，
 >
 > — chapter 43
 
-**不言之教 (*bù yán zhī jiào*) is a formula, verbatim in both chapters, and it reads two ways.** A formula repeated in the Chinese is repeated in the English. *The teaching without words* keeps 不言 what it is everywhere else in the book, *not speaking* (56, 73). The recommendation is chapter 43 → *"The teaching without words, the benefit of non-doing —"*. Wang Bi on chapter 17 names the pair together, 居無為之事，行不言之教, *"dwelling in the affairs of non-doing, carrying out the teaching without words,"* which is chapter 2's line, and chapter 43 sets them side by side again.
+**不言之教 (*bù yán zhī jiào*) is a formula, verbatim in both chapters, and the English repeats it** (Shalom's call, 2026-11-19). Until then it read *the teaching without words* at chapter 2 and *the wordless teaching* at 43, and both made 言 a noun, words that are absent. **But 不 negates a verb.** 不言 is *not speaking*, an act withheld by someone who could speak, which is what chapters 56 and 73 render *do not speak*; *no words* would be 無言 (*wú yán*), and the book never prints it. *Unspoken* keeps the verb in a form English can set before a noun. Heshang Gong reads the teaching as done by example, in silence: 法道不言，師之以身, *"following the Tao, they do not speak; they teach with their own body"* (43), and 以身師導之也, *"they teach and lead them by their own body"* (2). Wang Bi, on chapter 17, names the pair 居無為之事，行不言之教, *"dwelling in the affairs of non-doing, carrying out the unspoken teaching."* *The teaching of not speaking* would mirror *the work of non-doing* and *the benefit of non-doing* exactly, and was weighed; *unspoken* reads better and loses only the explicit act.
 
 ### Chapter 17: they prize their words, and their words are answered
 
@@ -119,7 +119,7 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 | 豈虛言哉 (22) · 美言 (62) · 吾言 · 言有宗 (70) · 正言 (78) · 信言 · 美言 (81) · 貴言 (17) | a noun, what is said | *words* |
 | 知者不言，言者不知 (56) · 不言而善應 (73) · 以言下之 (66) | a verb | *speak* |
 | 多言 (5) · 言善信 (8) · 希言 (23) · 善言 (27) | the act | *speech* · *speaking* |
-| 不言之教 (2, 43) | a formula | *the teaching without words* (43 recommended) |
+| 不言之教 (2, 43) | a formula | *the unspoken teaching* |
 | 建言有之 (41) · 用兵有言 (69) | a quoted saying | *saying* — flexion |
 | 言以喪禮處之 (31) | opening an explanation | *which is to say* — flexion |
 
@@ -127,11 +127,11 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 ***Words* in chapter 22's last line renders no 言.** 誠全而歸之 (*chéng quán ér guī zhī* — "truly whole, return to it") reads *"These words hold. Return to them. Stay whole."* 誠 (*chéng* — truly) has 言 in its graph, words that are made good, and the English leans on that; but the line prints no 言, and `concordance.py --english "word"` is the only check that sees it.
 
-***Silent* and *wordless* are held by argument.** *Wordless* can only be ruled once chapter 43 changes, since it prints it now.
+***Silent* is held by argument.** *Wordless* and *without words* are forbidden since chapters 2 and 43 took *the unspoken teaching*.
 
 ### Left open
 
-**One line would change, and it is Shalom's call.** Chapter 43's *the wordless teaching* → *the teaching without words*, to match chapter 2. (Chapter 17 became *"Hesitant, they prize their words"* on 2026-11-19.)
+**No line waits on this entry.** Chapter 17 (*"Hesitant, they prize their words"*) and the formula of chapters 2 and 43 (*the unspoken teaching*) were settled on 2026-11-19.
 
 **Chapter 5's 多言數窮 loses 多 (*duō* — much).** *"Speaking of this is a dead end"* renders 言 and drops the *much*, which is the line's point: not speech but too much of it, against 守中 (*shǒu zhōng* — "hold to the center"). And 數 is contested: Wang Bi's sound note reads it as reckoning, a later note as *often*. The line wants its own reading.
 

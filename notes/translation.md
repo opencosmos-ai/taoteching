@@ -180,7 +180,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **弱其志 → "ambition," not "striving."** *(⚠ The 弱 half was superseded on 2026-11-02; see the next note.)* 說文解字: 志，意也 — *"intent."* 王弼: 志生事以亂 — *"ambition generates affairs, and so brings disorder."* The glossary skill's own example reads the line *"weaken their ambition."* 弱 keeps **weaken** because it takes an object, which the lock licenses; the coercion was in *will*, not in *weaken*. **志 is still split** — *ambition* here against *will* at ch 33 — and that is `WORKLIST` T2-7, not settled here.
 
-**弱其志 → "teaching their ambition to yield."** *(Shalom's call, 2026-11-02.)* *(was: "weakening their ambition.")* *Weaken* rested on "a stance word cannot take an object," which is true of the English adjective and says nothing about the Chinese: 弱 (*ruò* — yielding) is made causative here, as 虛 (*xū* — empty), 實 (*shí* — full) and 強 (*qiáng* — strong) are, and they all keep their roots. Heshang Gong on this phrase: 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"). *Teaching* comes from his ch 42, 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding"), and from ch 2's teaching without words. **The cost:** *teaching* is not in the line. Full case in `glossary/ruo-弱.md`.
+**弱其志 → "teaching their ambition to yield."** *(Shalom's call, 2026-11-02.)* *(was: "weakening their ambition.")* *Weaken* rested on "a stance word cannot take an object," which is true of the English adjective and says nothing about the Chinese: 弱 (*ruò* — yielding) is made causative here, as 虛 (*xū* — empty), 實 (*shí* — full) and 強 (*qiáng* — strong) are, and they all keep their roots. Heshang Gong on this phrase: 和柔謙讓不處權也 (*hé róu qiān ràng bù chǔ quán yě* — "gentle and soft, modest and giving way, not holding on to power"). *Teaching* comes from his ch 42, 我教衆人使去強為弱 (*wǒ jiào zhòng rén shǐ qù qiáng wéi ruò* — "I teach the many, so that they leave the strong and become yielding"), and from ch 2's unspoken teaching. **The cost:** *teaching* is not in the line. Full case in `glossary/ruo-弱.md`.
 
 **敢 applied; it had been dropped outright.** 不敢為 → **"never push to act,"** joining ch 30, 64, 67, 69, 73 and 74.
 
@@ -2056,6 +2056,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 2, 43 · 不言之教 → "the unspoken teaching"
+
+*(2026-11-19, Shalom's call.)* One English for the verbatim formula. 不 negates a verb, so 不言 is *not speaking* (as at 56 and 73), not *no words*, which would be 無言; *unspoken* keeps the verb. Heshang Gong: they teach with their own body, in silence. `glossary/yan-言.md`.
 
 ### Ch 37 · the chain through 化, and 欲's one root
 

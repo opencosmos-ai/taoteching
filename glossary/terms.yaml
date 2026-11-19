@@ -117,7 +117,7 @@
 - term: "言"
   pinyin: "yán"
   render: "words, speech (a noun) / speak (a verb)"
-  forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word"]
+  forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word", "wordless", "without words"]
   chapters: [2, 5, 8, 17, 22, 23, 27, 31, 41, 43, 56, 62, 66, 69, 70, 73, 78, 81]
   status: open
   entry: glossary/yan-言.md

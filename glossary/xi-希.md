@@ -123,7 +123,7 @@ The couplet puts 希 beside 貴 (*guì* — prized), and the second line follows
 
 ### What no rule can enforce
 
-***Silent* is ruled out for 希, and cannot be forbidden.** Chapter 43 holds 不言之教 (*bù yán zhī jiào* — "the teaching without words"), which may legitimately read *silent teaching*.
+***Silent* is ruled out for 希, and cannot be forbidden.** Chapter 43 holds 不言之教 (*bù yán zhī jiào* — "the unspoken teaching"), which may legitimately read *silent teaching*.
 
 ***Inaudible* is ruled out everywhere but chapter 14**, and cannot be forbidden either, because a word that is both a declared flexion and forbidden is an error in the build. Chapter 41 is where it would tempt, and the entry holds it there by argument.
 

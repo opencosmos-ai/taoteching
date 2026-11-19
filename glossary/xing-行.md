@@ -51,7 +51,7 @@ The same sense stands at 24 (跨者不行, *get nowhere*), 33 (強行者, *walks
 
 **2. To carry out: when 行 takes an object.** The object is a teaching, a set of words, or the Tao.
 
-> 行不言之教 (2) — *carries out the teaching without words.*
+> 行不言之教 (2) — *carries out the unspoken teaching.*
 > 上士聞道，勤而行之 (41) — *those highest in service hear the Tao and labor to practice it.*
 > 甚易行…莫能行 (70) — *very easy to follow… no one can follow them.*
 

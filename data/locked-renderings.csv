@@ -47,8 +47,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage dwells in the work of non-doing
-2,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,and carries out the teaching without words.
-2,7,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,and carries out the teaching without words.
+2,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,and carries out the unspoken teaching.
+2,7,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,and carries out the unspoken teaching.
 2,8,始,shǐ,母,beginning,NOT FOUND,1.0,authored,"The countless things arise, and the sage does not begin them."
 2,8,物,wù,萬物,things / something,yes,1.0,authored,"The countless things arise, and the sage does not begin them."
 2,8,萬,Wàn,萬物,countless,yes,1.0,authored,"The countless things arise, and the sage does not begin them."
@@ -961,9 +961,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 43,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,This is how I know the benefit of non-doing.
 43,3,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,This is how I know the benefit of non-doing.
 43,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,This is how I know the benefit of non-doing.
-43,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
-43,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
-43,4,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,exact-count,"The wordless teaching, the benefit of non-doing —"
+43,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The unspoken teaching, the benefit of non-doing —"
+43,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The unspoken teaching, the benefit of non-doing —"
+43,4,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,exact-count,"The unspoken teaching, the benefit of non-doing —"
 43,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,few ever reach this.
 43,5,希,xī,希,few (of a count) / barely heard (of a sound),NOT FOUND,1.0,exact-count,few ever reach this.
 44,1,名,Míng,名,name,yes,1.0,exact-count,Your name or your body — which is dearer?
