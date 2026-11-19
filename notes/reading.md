@@ -457,7 +457,7 @@ Read quickly, this is the Socratic chapter — *I know that I know nothing* — 
 
 ### Ch 72 · the chapter says why rulers crowd people
 
-Two halves that look unrelated — *do not crowd the people* and *the sage does not display themselves* — and 王弼 joins them in five characters. On 不自貴 he writes **自貴則物狎厭居生**: *"exalt yourself, and things crowd and weary dwelling and living."*
+Two halves that look unrelated — *do not crowd the people* and *the sage does not show themselves off* — and 王弼 joins them in five characters. On 不自貴 he writes **自貴則物狎厭居生**: *"exalt yourself, and things crowd and weary dwelling and living."*
 
 **Self-display is the motive for the crowding.** The ruler presses on the people's houses and livelihoods because they need to be seen doing it. Dread has to be demonstrated or it is not dread; a ruler who has priced themselves high has to keep collecting on the price. Remove 自見 (self-display) and 自貴 (self-pricing) and the pressing loses its engine — there is nothing left it was for.
 
@@ -489,7 +489,7 @@ The chapter moves in three beats. First, the deterrent has already failed: peopl
 
 河上公, on the opening line: 治國者刑罰酷深，民不聊生，故不畏死也 — *"when the one governing the state makes punishments cruel and deep, the people have nothing to live on, and so they do not fear death."* 不聊生 is the hinge: to have nothing left worth living for. Squeeze people hard enough and the death penalty stops working, because what you are threatening to confiscate has already lost its value. **The ruler has spent the fear.** It is a resource, and cruelty is what exhausts it.
 
-This makes the chapter's structure a chain rather than a list. 72 opens 民不畏威 — *"when the people no longer fear authority."* 74 opens 民不畏死 — *"when the people do not fear death."* And **75, the very next chapter, states the mechanism outright**: 民之輕死，以其上求生之厚，是以輕死 — *"the people take death lightly because those above grasp so thickly at life."* Read in order: first they stop dreading your power, then they stop dreading death, and 75 names the greed that did it. Ch 74's opening line is not a hypothetical. It is a diagnosis, and the patient is upstream.
+This makes the chapter's structure a chain rather than a list. 72 opens 民不畏威 — *"when the people do not fear authority."* 74 opens 民不畏死 — *"when the people do not fear death."* And **75, the very next chapter, states the mechanism outright**: 民之輕死，以其上求生之厚，是以輕死 — *"the people take death lightly because those above grasp so thickly at life."* Read in order: first they stop dreading your power, then they stop dreading death, and 75 names the greed that did it. Ch 74's opening line is not a hypothetical. It is a diagnosis, and the patient is upstream.
 
 **河上公 runs it on the personal register too**, as he runs everything: 治身者嗜欲傷神，貪財殺身，民不知畏之也 — *"one governing the self: appetites wound the spirit, greed for wealth kills the body, and people do not know to fear it."* Same shape, inward. The thing that will kill you is the thing you have stopped being afraid of.
 
@@ -505,7 +505,7 @@ They are the same shop. 28 says the great one does not carve; 74 says what happe
 
 Three consecutive chapters open on the same collapse and give it three different depths.
 
-**72** — 民不畏威，則大威至. *When the people no longer fear authority, the great collapse comes.* The fact is stated.
+**72** — 民不畏威，則大威至. *When the people do not fear authority, the great collapse comes.* The fact is stated.
 
 **74** — 民不畏死，奈何以死懼之？ *When the people do not fear death, why try to frighten them with death?* The fact is turned back on the ruler as a question about the futility of the axe.
 

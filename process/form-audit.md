@@ -546,17 +546,17 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-17 · Verbatim phrases across chapters
 
-- **孤、寡、不穀** (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy"), 39 · 42 — **resolve** ch 42 to *"orphaned, alone, or unworthy"*. 寡 (*guǎ*) here is the ruler's self-name, 寡人 (*guǎ rén* — "the lone one"), so *alone* is the word.
-- **禍莫大於** (*huò mò dà yú* — "no disaster greater than"), 46 · 69 — **resolve** ch 69 to *"There is no greater disaster than making light of the enemy."* The note says it was matched on purpose; the page drifted.
+- **孤、寡、不穀** (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy"), 39 · 42 — **resolve** ch 42 to *"orphaned, alone, or unworthy"*. 寡 (*guǎ*) here is the ruler's self-name, 寡人 (*guǎ rén* — "the lone one"), so *alone* is the word. **Done 2026-11-19 (Shalom's call).**
+- **禍莫大於** (*huò mò dà yú* — "no disaster greater than"), 46 · 69 — **resolve** ch 69 to *"There is no greater disaster than making light of the enemy."* The note says it was matched on purpose; the page drifted. **Done 2026-11-19 (Shalom's call).**
 - **不言之教** (*bù yán zhī jiào* — "the teaching without words"), 2 · 43 — **resolve** ch 43 to *"The teaching without words, the benefit of non-doing —"*.
 - **生而不有**, 2 · 10 · 51 — **resolved** under T3-13 above.
-- **不自見** (*bù zì jiàn* — "do not show themselves"), 22 · 24 · 72 — **resolve** ch 72 to *"knows themselves and does not show themselves off"*. Its notes argue for *display* as a concept and never as against ch 22's English.
+- **不自見** (*bù zì jiàn* — "do not show themselves"), 22 · 24 · 72 — **resolve** ch 72 to *"knows themselves and does not show themselves off"*. Its notes argue for *display* as a concept and never as against ch 22's English. **Done 2026-11-19 (Shalom's call).**
 - **▢之又▢** (*▢ zhī yòu ▢* — "▢, and ▢ again"), 1 · 48 — **resolve** ch 48 to *"Decrease, and decrease again, until you reach non-doing."*
 - **取天下 … 以無事** (*qǔ tiān xià… yǐ wú shì* — "take the world… by not meddling"), 48 · 57 — **leave, and record why.** Ch 48 states how the world is won and chose the receptive *comes to you* (recorded). Ch 57's line closes a series of three imperatives, *Govern… wage war… win*, and needs an active verb in the series' own voice. **But** ch 29's *take the world* is the third English of 取天下 (*qǔ tiān xià*), and the note at 取天下 (*qǔ tiān xià*) leaves that open: settle it there.
 - **抱一** (*bào yī* — "embrace one"), 10 · 22 — **leave; the verdict is now *departed*.** The lock carries *one thing (ch 22)* as a flexion, so the split is data, not drift.
-- **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*.
+- **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*. **Done 2026-11-19 (Shalom's call).**
 - **功成** (*gōng chéng* — "the work done"), 2 · 34 · 77 — **resolve** with ch 34, under T3-18.
-- **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has.
+- **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has. **Done 2026-11-19 (Shalom's call).**
 - **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always knowing the pattern — / this is called profound integrity."* *(Wording updated 2026-11-16, Shalom's call: the verse now reads "Always knowing the pattern / is called profound integrity.")* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
 - **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image.
 

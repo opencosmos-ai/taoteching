@@ -2059,6 +2059,18 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 42 · 孤、寡、不穀 → "orphaned, alone, or unworthy"
+
+*(2026-11-19, Shalom's call.)* *(was: "orphaned, meager, or unworthy.")* The three titles match ch 39 word for word; 寡 is the ruler's 寡人, *the lone one*. T3-17. `chapters/042.md`.
+
+### Ch 69 · 扔無敵 → "dragging where there is no enemy"
+
+*(2026-11-19, Shalom's call.)* *(was: "hauling.")* 扔 takes ch 38's *drags*, one English for the character. T3-17. `chapters/069.md`.
+
+### Ch 72 · "do not fear authority" · "does not show themselves off"
+
+*(2026-11-19, Shalom's calls.)* *(was: "no longer fear authority," "does not display themselves.")* 民不畏 matches ch 74, and 不自見 matches ch 22 and 24. T3-17. `chapters/072.md`.
+
 ### Ch 69 · 禍莫大於輕敵 → "There is no greater disaster than making light of the enemy"
 
 *(2026-11-19, Shalom's call.)* *(was: "There is no disaster greater than…")* Matches ch 46's couplet, changed the same day, in the formula both chapters share; the 禍莫大於 item in `WORKLIST.md` T3-17 is done. `chapters/069.md`.

@@ -499,7 +499,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 41,12,4,夫唯道，善貸且成。,"Fú wéi dào, shàn dài qiě chéng.",Yet only the Tao is masterful ( Shàn ) at lending/initiating and compiling/completing ( Chéng ).,"Only the Tao is masterful at lending, and at completing.",authored
 42,1,1,道生一，一生二，二生三，三生萬物。,"Dào shēng yī, yī shēng èr, èr shēng sān, sān shēng wàn wù.","The Tao generates the One, the One generates the Two, the Two generates the Three, the Three generates the ten thousand things.","The Tao births the one, the one births the two, the two births the three, the three births the countless things.",exact-count
 42,2,1,萬物負陰而抱陽，沖氣以為和。,"Wàn wù fù yīn ér bào yáng, chōng qì yǐ wéi hé.","The ten thousand things carry Yin on their backs and embrace Yang, blending the vital breath (qi) to achieve harmony.","The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony.",exact-count
-42,3,2,人之所惡，唯孤、寡、不穀，,"Rén zhī suǒ wù, wéi gū, guǎ, bù gǔ,","What people despise are 'orphaned,' 'widowed,' and 'unworthy/grainless',","What most people hate is to be called orphaned, meager, or unworthy,",exact-count
+42,3,2,人之所惡，唯孤、寡、不穀，,"Rén zhī suǒ wù, wéi gū, guǎ, bù gǔ,","What people despise are 'orphaned,' 'widowed,' and 'unworthy/grainless',","What most people hate is to be called orphaned, alone, or unworthy,",exact-count
 42,4,2,而王公以為稱。,ér wáng gōng yǐ wéi chēng.,yet kings and dukes use these as their titles.,Yet rulers and lords take these very descriptions for themselves.,exact-count
 42,5,3,故物或損之而益，或益之而損。,"Gù wù huò sǔn zhī ér yì, huò yì zhī ér sǔn.","Therefore, things might be diminished and yet increase, or be increased and yet diminish.","For so it is: what is decreased is thereby increased, and what is increased is thereby decreased.",exact-count
 42,6,4,人之所教，我亦教之。,"Rén zhī suǒ jiào, wǒ yì jiào zhī.","What others teach, I also teach.","What others teach, I also teach:",exact-count
@@ -724,7 +724,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 69,3,1,不敢進寸，而退尺。,"Bù gǎn jìn cùn, ér tuì chǐ.","Dare not advance an inch, but retreat a foot.",I do not push an inch into another's ground. I give up a foot of my own.,exact-count
 69,4,2,是謂行無行，,"Shì wèi xíng wú xíng,","This is called marching without marching,","This is called marching where there are no ranks,",exact-count
 69,5,2,攘無臂，,"Rǎng wú bì,","Rolling up sleeves without arms,","baring an arm where there is no arm,",exact-count
-69,6,2,扔無敵，,"Rēng wú dí,","Grasping without an enemy,","hauling where there is no enemy,",exact-count
+69,6,2,扔無敵，,"Rēng wú dí,","Grasping without an enemy,","dragging where there is no enemy,",exact-count
 69,7,2,執無兵。,Zhí wú bīng.,Holding without weapons.,grasping where there is no weapon.,exact-count
 69,8,3,禍莫大於輕敵，,"Huò mò dà yú qīng dí,",There is no disaster greater than treating the enemy as weightless/light;,There is no greater disaster than making light of the enemy.,exact-count
 69,9,3,輕敵幾喪吾寶。,Qīng dí jī sàng wú bǎo.,Treating the enemy as weightless almost destroys my treasures.,Making light of the enemy nearly costs me my treasures.,exact-count
@@ -739,10 +739,10 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 71,2,0,不知知，病。,"Bù zhī zhī, bìng.","Not knowing yet thinking one knows, is a disease/flaw.",To not know yet claim to know is sickness.,exact-count
 71,3,0,夫唯病病，是以不病。,"Fú wéi bìng bìng, shì yǐ bù bìng.","Only by recognizing the disease as a disease, therefore one is not diseased.",Only because you are sick of the sickness are you not sick.,exact-count
 71,4,0,聖人不病，以其病病，是以不病。,"Shèng rén bù bìng, yǐ qí bìng bìng, shì yǐ bù bìng.","The Sage is not diseased, because they recognize the disease as a disease, therefore they are not diseased.",The sage is not sick because they are sick of the sickness.,exact-count
-72,1,1,民不畏威，則大威至。,"Mín bù wèi wēi, zé dà wēi zhì.","When the people do not fear authority/might, then great authority/might arrives.","When the people no longer fear authority, / the great collapse comes.",authored
+72,1,1,民不畏威，則大威至。,"Mín bù wèi wēi, zé dà wēi zhì.","When the people do not fear authority/might, then great authority/might arrives.","When the people do not fear authority, / the great collapse comes.",authored
 72,2,1,無狎其所居，無厭其所生。,"Wú xiá qí suǒ jū, wú yàn qí suǒ shēng.","Do not crowd/harass their place of residence, do not oppress/weary their livelihood.",Do not crowd people in their homes. / Do not oppress their livelihoods.,authored
 72,3,1,夫唯不厭，是以不厭。,"Fú wéi bù yàn, shì yǐ bù yàn.","Precisely because one does not oppress them, therefore they do not find it oppressive.",Only because you do not oppress them do they not tire of you.,authored
-72,4,2,是以聖人自知，不自見；,"Shì yǐ shèng rén zì zhī, bù zì jiàn;","Therefore the Sage knows self, but does not display self;","And so the sage knows themselves and does not display themselves,",authored
+72,4,2,是以聖人自知，不自見；,"Shì yǐ shèng rén zì zhī, bù zì jiàn;","Therefore the Sage knows self, but does not display self;","And so the sage knows themselves and does not show themselves off,",authored
 72,5,2,自愛，不自貴。,"Zì ài, bù zì guì.","Loves self, but does not esteem/exalt self.",loves themselves and does not prize themselves.,authored
 72,6,2,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore discard that and choose this.,They let go of what is out there and take what is here.,authored
 73,1,1,勇於敢則殺，,"Yǒng yú gǎn zé shā,","Brave in daring, then (one) gets killed;",Bravery in pushing gets you killed.,authored
