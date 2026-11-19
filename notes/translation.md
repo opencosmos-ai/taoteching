@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 22 · 少則得 → "Hold little and receive"
+
+*(2026-11-19, Shalom's call.)* *Gain* is a ledger word; *get* needs an object English cannot give here. Wang Bi: 少則得其本, and on 抱一, 一，少之極也: what holding little gets is the one, as at ch 39's *received*. `glossary/de-shi-得失.md`.
+
 ### Ch 17 · 悠兮其貴言 → "Hesitant, they prize their words"
 
 *(2026-11-19, Shalom's call.)* The old line rendered neither 貴 nor 言. The base alone prints 悠; every other witness prints 猶 (*hesitant*), and the English follows them, as at ch 23's 故; the base's 悠 (說文 憂也, anxious care) points the same way. Variants fork 126; `glossary/yan-言.md`.

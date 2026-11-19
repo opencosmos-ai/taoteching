@@ -3,7 +3,8 @@ term: "得 & 失"
 pinyin: "dé / shī"
 render: "get / lose"
 flexions:
-  - { english: "received", chapters: [39], why: "the one is not taken: the list is in the past, and each thing comes to have the one before it can lose it" }
+  - { english: "received", chapters: [22, 39], why: "the one is not taken: what is gotten is the one, at 39 by sky and earth, and at 22 by holding little, a line before 抱一; Shalom's call at 22, 2026-11-19" }
+  - { english: "receive", chapters: [22], why: "the same, in the present: hold little and receive" }
   - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
   - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
   - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
@@ -31,7 +32,7 @@ refs:
 
 *Say "duh," rising, and "shr," level. 得 stands thirty-three times in thirty lines across nineteen chapters; 失 seventeen times across eight. The commonest verbs of having in the language, and the book weighs them against each other in chapter after chapter.*
 
-**Recommended: 得 → "get" · 失 → "lose."** *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Four flexions:** *received* at chapter 39, *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, *touch* at chapter 14, and *find* at chapter 62, the last two kept by Shalom's call (2026-11-19).
+**Recommended: 得 → "get" · 失 → "lose."** *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Four flexions:** *received* at chapters 39 and 22 (where the getting is the one), *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, *touch* at chapter 14, and *find* at chapter 62, the last two kept by Shalom's call (2026-11-19).
 
 ### The graph: a step, and a hand letting go
 
@@ -112,7 +113,8 @@ refs:
 | line | grammar | English |
 |---|---|---|
 | 得之 · 失之 (13) · 得之 ×3 (23) · 得志 (31) · 得所欲 (61) | a verb, with an object | *get* · *lose* |
-| 少則得 (22) · 得與亡 (44) | a verb, or its noun | *get* · *getting* (recommended) |
+| 少則得 (22) | a verb, the one | *receive* — flexion, Shalom's call |
+| 得與亡 (44) | a verb, or its noun | *getting* (recommended) |
 | 求以得 (62) | a verb | *find* — flexion, Shalom's call |
 | 天得一 ×7 (39) | a verb, the one | *received* — flexion |
 | 不得已 (30, 31) | an idiom | *unavoidable* — flexion |
@@ -128,13 +130,13 @@ refs:
 
 ### What no rule can enforce
 
-***Gain* and *acquire* are ruled out for 得, and cannot be forbidden yet**, because chapters 22, 44 and 46 print them now. *Find* is a flexion at 62 and held open at 52, so it can never go on the list.
+***Gain* and *acquire* are ruled out for 得, and cannot be forbidden yet**, because chapters 44 and 46 print them now. *Find* is a flexion at 62 and held open at 52, so it can never go on the list.
 
 ***Loss* at chapter 44 renders 亡 (*wáng* — to be gone), not 失.** Chapter 44 holds no 失, so no rule sees two characters sharing one English. 亡 is gone, perished, as at chapter 33's 死而不亡 (*"dies but does not vanish"*), and it wants its own word when chapter 44 is next open.
 
 ### Left open
 
-**Five lines would change, and each is Shalom's call.** 22 (*gain* → *get*), 29 (*will not succeed* → *will not get it*), 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
+**Four lines would change, and each is Shalom's call.** 29 (*will not succeed* → *will not get it*), 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
 
 **Chapter 52's *find*.** *Find our mother, and you know her children* is good English, and Wang Bi's 得本以知末 (*"get the root to know the branches"*) is a getting. *Find* suggests she was lost, which chapter 52 does not say; *get* sounds like taking possession of a mother. Left as it stands until the line is read again.
 
