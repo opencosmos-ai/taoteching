@@ -159,7 +159,7 @@ Even the plants breathe, through the hollow inside the stem. His image is bodily
 
 **"Qi," left in pinyin.** It turns the commonest thing a body does into a foreign technical term, carrying a century of martial arts and acupuncture into the verse. The edition translates, and here the plain English word exists.
 
-**"Spirit."** Taken by 神 (shén — numinous potency) in the chapters that print it, and set aside for 精 (jīng — vital essence) already. Heshang Gong's own formula 愛氣養神 (*ài qì yǎng shén* — "cherish the breath, nourish the spirit") keeps 氣 and 神 two (`glossary/shen-身.md`).
+**"Spirit."** Taken by 神 (shén — spirit) in the chapters that print it, and set aside for 精 (jīng — vital essence) already. Heshang Gong's own formula 愛氣養神 (*ài qì yǎng shén* — "cherish the breath, nourish the spirit") keeps 氣 and 神 two (`glossary/shen-身.md`).
 
 **"The breath of life."** Never, though *breath* stays. The phrase is Genesis, God breathing into Adam's nostrils, and it fails the hymn test outright. Breath in this book is not given from outside. It moves of itself, and a heart can only interfere with it.
 

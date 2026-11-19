@@ -32,7 +32,7 @@ Hold that image against the text and the whole vocabulary of the book snaps into
 
 為 is not "activity." It is **imposition of direction on something that already has its own motion.** The elephant was going somewhere before your hand arrived. The world was, too.
 
-Which is exactly Laozi's objection. **Chapter 29**: 天下神器，不可為也 — *the world is a numinous vessel; it cannot be 為-ed.* You cannot get your hand on it. And the consequence, stated twice (**29** and **64**) in the same four characters: 為者敗之 — **the one who handles it ruins it.**
+Which is exactly Laozi's objection. **Chapter 29**: 天下神器，不可為也 — *the world is a sacred vessel; it cannot be 為-ed.* You cannot get your hand on it. And the consequence, stated twice (**29** and **64**) in the same four characters: 為者敗之 — **the one who handles it ruins it.**
 
 So 無為 is not paralysis, not passivity, not doing nothing. **It is taking your hand off the elephant.** The elephant still moves. Rivers still run, seeds still open, the state is still governed. What stops is the steering — the small human will pressed against a vastly larger momentum, convinced it knows the better direction.
 

@@ -2755,7 +2755,7 @@ A single 不欲 governs both clauses; there is no 而 and no 寧 (*nìng* — "r
 
 **A strain, named rather than smoothed.** 琭琭 (*lù lù*) and 珞珞 (*luò luò*) have **no 說文 entries**, and their exact sense is not recoverable from anything in `sources/`. *Gleaming* and *common* come from what the two stones **stand for** in both commentaries, not from the graphs; 河上公's edition reads 落落 (*"scattered, lying about in numbers"*) for the second, which supports *common*. Both words are otherwise unused in the manuscript.
 
-**A second strain: 靈 → *numinous* fails the pointing test**, and no candidate survived. *Alive* is 生's, two lines down; *vital* drifts toward 氣 (*qì*). **神 (*shén*) and 靈 (*líng*) both sit in the overlay watchlist's semantic field and neither has an entry** — they want one together, not a decision inside a chapter (T2-37).
+**A second strain: 靈 → *numinous* fails the pointing test**, and no candidate survived. *Alive* is 生's, two lines down; *vital* drifts toward 氣 (*qì*). **神 (*shén*) and 靈 (*líng*) both sit in the overlay watchlist's semantic field and neither has an entry** — they want one together, not a decision inside a chapter (T2-37). *(Resolved 2026-11-19, Shalom's call: 靈 → *potent*, and 神 is glossed *spirit*; `glossary/shen-ling-神靈.md`.)*
 
 ## Ch 13 · one word per character, and the chapter's argument appears
 

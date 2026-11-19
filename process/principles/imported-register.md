@@ -38,7 +38,7 @@ supersedes: []
 | **The pointing test** | could Laozi have pointed at it? His vocabulary is water, valley, wood, dust, an infant. |
 | **The 1968 test** | could this have been printed in a paperback on consciousness? Then it is the other overlay. |
 
-**Flag on sight**, per `process/overlay-audit.md`: 聖 ("holy" — it means *acute hearing*) · 神 ("God" — *numinous potency*) · 鬼 ("demons" — *ghosts, the dead*) · 罪 ("sin" — *crime*) · 義 ("righteousness" — *duty*) · 仁 ("benevolence" — *humaneness*) · 精/魄 ("soul" — *vital essence* / the *corporeal* soul) · 一 ("the One" — Neoplatonism) · 福 ("blessing" — *good fortune*) · 善 ("good" — often *skilled*) · 道法自然 (never "the Tao follows Nature" — that inverts the chapter).
+**Flag on sight**, per `process/overlay-audit.md`: 聖 ("holy" — it means *acute hearing*) · 神 ("God" — *spirit*) · 鬼 ("demons" — *ghosts, the dead*) · 罪 ("sin" — *crime*) · 義 ("righteousness" — *duty*) · 仁 ("benevolence" — *humaneness*) · 精/魄 ("soul" — *vital essence* / the *corporeal* soul) · 一 ("the One" — Neoplatonism) · 福 ("blessing" — *good fortune*) · 善 ("good" — often *skilled*) · 道法自然 (never "the Tao follows Nature" — that inverts the chapter).
 
 **And watch the grammar, not only the words.** KJV cadence, devotional capitalisation, and abstraction drift each carry the register with no forbidden word present. The definite article alone did it once: *"the one"* turns a tally mark into a title.
 
