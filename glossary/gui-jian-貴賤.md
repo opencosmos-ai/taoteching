@@ -4,7 +4,7 @@ pinyin: "guì / jiàn"
 render: "prize (verb), prized (a state) / cheap, cheapen"
 flexions:
   - { english: "status", chapters: [9], why: "富貴 is a fixed pair, wealth and high price in people: rank" }
-forbidden: ["humble", "lowly", "esteem", "value", "revere"]
+forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase"]
 chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
 status: open
 pairing: true
@@ -57,18 +57,15 @@ refs:
 >
 > — chapter 39
 
-> *neither honor nor debase them.*
-> *And so, they become the most honored in the world.*
+> *neither prize nor cheapen them.*
+> *And so, they become the most prized in the world.*
 >
 > 不可得而貴，不可得而賤。
 > 故為天下貴。
 >
 > — chapter 56
 
-**Chapter 56 is the hardest line, and it decides the English.** Those who have the dark sameness cannot be made near or far, benefited or harmed, 貴 or 賤, and so they become the world's 貴. The chapter takes the price scale off them and then prices them highest. Wang Bi says why the two halves of the line go together: 可得而貴，則可得而賤也, *"whatever can be prized can be made cheap."* To be beyond pricing is to be beyond cheapening, and the only English that shows the scale is a price word on both sides:
-
-> *You cannot prize them nor cheapen them.*
-> *And so they are the most prized in the world.*
+**Chapter 56 is the hardest line, and it decides the English.** Those who have the dark sameness cannot be made near or far, benefited or harmed, 貴 or 賤, and so they become the world's 貴. The chapter takes the price scale off them and then prices them highest. Wang Bi says why the two halves of the line go together: 可得而貴，則可得而賤也, *"whatever can be prized can be made cheap."* To be beyond pricing is to be beyond cheapening, and the only English that shows the scale is a price word on both sides, and since 2026-11-19 the line has one (Shalom's call).
 
 *Honor* and *debase* break the scale into two vocabularies, one of rank and one of coinage, and they hand the second line's 貴 an English, *honored*, that chapter 62 needs for 尊.
 
@@ -111,8 +108,8 @@ refs:
 |---|---|---|
 | 不貴難得之貨 (3, 64) · 貴大患 · 貴以身 (13) · 貴食母 (20) · 不貴其師 (27) · 貴左 · 貴右 (31) · 貴德 (51) · 貴此道 (62) · 不自貴 (72) · 貴生 (75) | a verb, with an object | *prize* (62, 72, 75 recommended; 27 and 51 Shalom's call, 2026-11-19) |
 | 侯王無以貴高 · 故貴以賤為本 (39) · 則我者貴 (70) · 德之貴 (51) | a state | *prized* · *prizing* (70 recommended; 51 Shalom's call) |
-| 為天下貴 (56, 62) | a state, as a noun | *the most prized in the world* (recommended) |
-| 不可得而貴，不可得而賤 (56) | verbs, the scale | *prize… cheapen* (recommended) |
+| 為天下貴 (56, 62) | a state, as a noun | *the most prized in the world* (62 recommended; 56 Shalom's call) |
+| 不可得而貴，不可得而賤 (56) | verbs, the scale | *prize… cheapen* |
 | 以賤為本 (39) ×2 | a state | *the cheap* |
 | 富貴 (9) | a fixed pair | *wealth and status* — flexion |
 | 貴言 (17) | a verb | *prize their words* (Shalom's call, 2026-11-19) |
@@ -124,13 +121,13 @@ refs:
 
 ***Honor* is ruled out for 貴, and can never be forbidden here.** 尊 shares chapters 51 and 62 with 貴 and legitimately prints it. The distinction lives in this entry and in the reader.
 
-***Debase* likewise**, while chapter 56 prints it. *Value* is forbidden now that chapters 27 and 51 have left it.
+*Value*, *revere* and *debase* are forbidden now that chapters 27, 51 and 56 have left them.
 
 ***Noble* is ruled out for 貴, and can never be forbidden here.** 君子 (*jūn zǐ* — the noble one) reads *the noble* at chapter 31, which also holds 貴 (貴左, 貴右).
 
 ### Left open
 
-**Seven lines would change, and each is Shalom's call.** (Chapters 27 and 51 were settled on 2026-11-19.) 56 ×2 (*honor nor debase* → *prize nor cheapen*; *the most honored* → *the most prized*); 62 ×2 (*honor this Tao* → *prize this Tao*; *the most honored* → *the most prized*); 70 (*precious* → *prized*); 72 (*hold themselves precious* → *prize themselves*); 75 (*hold life precious* → *prize life*).
+**Five lines would change, and each is Shalom's call.** (Chapters 27, 51 and 56 were settled on 2026-11-19.) 62 ×2 (*honor this Tao* → *prize this Tao*; *the most honored* → *the most prized*); 70 (*precious* → *prized*); 72 (*hold themselves precious* → *prize themselves*); 75 (*hold life precious* → *prize life*).
 
 **Heshang Gong's fear at chapter 13 is a real reading.** 貴，畏也 makes the line a warning, *fear great trouble as you fear for your body*, and the rest of the chapter, which is about shock at favor and disgrace, can carry it. The verse follows Wang Bi and the price. A reader of the chapter should know the line has two faces.
 

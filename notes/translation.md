@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 56 · "neither prize nor cheapen them"
+
+*(2026-11-19, Shalom's call.)* 貴 and 賤 are one price scale (Wang Bi: 可得而貴則可得而賤也), so both sides take price words, and 為天下貴 reads *the most prized in the world*. *Debase* retired and forbidden. `glossary/gui-jian-貴賤.md`.
+
 ### Ch 51 · 尊道而貴德 → "honor the Tao and prize integrity"
 
 *(2026-11-19, Shalom's call.)* 尊 is the wine vessel raised in both hands, *honor*; 貴 is a price, *prize*. *Revere* and *value* retired and forbidden for the pair. `glossary/gui-jian-貴賤.md`.

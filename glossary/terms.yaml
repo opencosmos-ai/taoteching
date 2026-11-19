@@ -186,7 +186,7 @@
 - term: "貴 & 賤"
   pinyin: "guì / jiàn"
   render: "prize (verb), prized (a state) / cheap, cheapen"
-  forbidden: ["humble", "lowly", "esteem", "value", "revere"]
+  forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase"]
   chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
   status: open
   entry: glossary/gui-jian-貴賤.md
