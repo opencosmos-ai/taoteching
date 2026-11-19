@@ -89,7 +89,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **10 · Ch 46 · 禍莫大於不知足 (*huò mò dà yú bù zhī zú* — "no disaster is greater than not knowing enough") → *"There is no greater disaster than discontent."***
 **Lost:** 知 (*zhī* — to know). 知足 (*zhī zú* — knowing enough) is a book-wide formula. It reads *knows they have enough* at 33 and *Know when you have enough* at 44, and two lines later in this chapter 知足之足 (*zhī zú zhī zú* — "the enough of knowing enough") reads *"the contentment of knowing you have enough."* *Discontent* names a feeling where the Chinese names a knowing, and it breaks the repetition inside the chapter. The parallel at ch 69 copies this line's frame on purpose (`notes/translation.md` → *Ch 69*), and that frame is unaffected.
-**Proposed:** *"There is no greater disaster than not knowing when you have enough,"*
+**Proposed:** *"There is no greater disaster than not knowing when you have enough,"* **Done, 2026-11-19 (Shalom's call),** as *"There is no greater disaster than not knowing you have enough, / no greater fault than wanting to get"* (`chapters/046.md`).
 
 **11 · Ch 41 · 若存若亡 (*ruò cún ruò wáng* — "as if keeping it, as if losing it") → *"keep some, forget some."***
 **Lost:** 若 (*ruò* — as if), twice. Wavering becomes keeping part of it. Ch 4's notes already pair 存 (*cún* — to be still there) against 亡 (*wáng* — to be gone) in exactly this line.

@@ -9,7 +9,7 @@ flexions:
   - { english: "gain", chapters: [44], why: "the ledger chapter, worth more, great cost, heavy loss; Wang Bi: getting much profit and losing the body. Shalom's call, 2026-11-19" }
   - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
   - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
-forbidden: ["attain", "obtain", "forfeit"]
+forbidden: ["attain", "obtain", "forfeit", "acquire"]
 chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
 status: open
 pairing: true
@@ -131,13 +131,13 @@ refs:
 
 ### What no rule can enforce
 
-***Acquire* is ruled out for 得, and cannot be forbidden yet**, because chapter 46 prints it now. *Gain* is a flexion at chapter 44 and so can never go on the list. *Find* is a flexion at 62 and held open at 52, so it can never go on the list.
+***Acquire* is forbidden** since chapter 46 took *wanting to get*. *Gain* is a flexion at chapter 44 and so can never go on the list. *Find* is a flexion at 62 and held open at 52, so it can never go on the list.
 
 ***Loss* at chapter 44 renders 亡 (*wáng* — to be gone), not 失.** Chapter 44 holds no 失, so no rule sees two characters sharing one English. 亡 is gone, perished, as at chapter 33's 死而不亡 (*"dies but does not vanish"*), and it wants its own word when chapter 44 is next open.
 
 ### Left open
 
-**Two lines would change, and each is Shalom's call.** 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
+**One line would change, and it is Shalom's call.** 73 (*nothing slips through* → *it loses nothing*). (Chapters 22, 29, 44 and 46 were settled on 2026-11-19; 14 and 62 keep their English.)
 
 **Chapter 52's *find*.** *Find our mother, and you know her children* is good English, and Wang Bi's 得本以知末 (*"get the root to know the branches"*) is a getting. *Find* suggests she was lost, which chapter 52 does not say; *get* sounds like taking possession of a mother. Left as it stands until the line is read again.
 

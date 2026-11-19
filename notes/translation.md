@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 46 · the couplet: "not knowing you have enough … wanting to get"
+
+*(2026-11-19, Shalom's call, closing T3-18's ch 46 item and accuracy-audit finding 10.)* 不知足 reads in 知足's own words, so the close answers it; the 知足 entry's *discontent* flexion retired. 欲得 is plain *wanting to get*: *craving* carried a verdict, *acquire* a purchase. `chapters/046.md`.
+
 ### Ch 44 · 得與亡孰病 → "Gain or loss — which sickens more?"
 
 *(2026-11-19, Shalom's call.)* 病 is illness grown heavy (說文 疾加也), not 害's *harm*; *ailment* is too light and would split 病 from ch 71's *sickness*. The verb keeps the chapter's comparatives and Heshang Gong's 病於行. *Gain* kept as 得's flexion in the ledger chapter. `chapters/044.md`.

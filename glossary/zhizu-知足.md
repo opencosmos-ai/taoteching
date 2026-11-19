@@ -2,9 +2,7 @@
 term: "知足"
 pinyin: "zhī zú"
 render: "knowing you have enough / contentment"
-flexions:
-  - { english: "discontent", chapters: [46], why: "不知足 (bù zhī zú — not knowing enough) stands as the subject of a comparison, and English wants a noun there" }
-forbidden: ["sufficiency", "fulfilled", "satisfaction"]
+forbidden: ["sufficiency", "fulfilled", "satisfaction", "discontent"]
 chapters: [33, 44, 46]
 status: locked
 pairing: false
@@ -67,8 +65,8 @@ refs_status: incomplete
 >
 > — chapter 44
 
-> *There is no greater disaster than discontent,*
-> *No greater fault than craving to acquire.*
+> *There is no greater disaster than not knowing you have enough,*
+> *no greater fault than wanting to get.*
 > *And so the contentment of knowing you have enough is ever-present contentment.*
 >
 > 禍莫大於不知足；
@@ -127,7 +125,7 @@ refs_status: incomplete
 |---|---|---|
 | "the one who," the subject of a description | *one who knows they have enough* | 33 (知足者 *zhī zú zhě*) |
 | a condition, opening a couplet | *know when you have enough* | 44 (知足不辱 *zhī zú bù rǔ*) |
-| negated, as the subject of a comparison | *discontent* (in `flexions:`) | 46 (不知足 *bù zhī zú*) |
+| negated, as the subject of a comparison | *not knowing you have enough* (the gerund does the noun's work; *discontent* retired 2026-11-19, Shalom's call) | 46 (不知足 *bù zhī zú*) |
 | as a noun, with its 足 (*zú* — enough) again | *the contentment of knowing you have enough* | 46 (知足之足 *zhī zú zhī zú*) |
 | 足 alone, the state that lasts | *ever-present contentment* | 46 (常足 *cháng zú*) |
 

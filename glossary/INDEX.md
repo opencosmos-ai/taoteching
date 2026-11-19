@@ -17,7 +17,7 @@ python3 tools/build_index.py
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
-| **得 & 失** | *dé / shī* | get / lose · *received* (ch 22, 39) · *receive* (ch 22) · *unavoidable* (ch 30, 31) · *gain* (ch 44) · *touch* (ch 14) · *find* (ch 62) | "attain", "obtain", "forfeit" | 23 | open — not yet a lock | [`de-shi-得失.md`](de-shi-得失.md) |
+| **得 & 失** | *dé / shī* | get / lose · *received* (ch 22, 39) · *receive* (ch 22) · *unavoidable* (ch 30, 31) · *gain* (ch 44) · *touch* (ch 14) · *find* (ch 62) | "attain", "obtain", "forfeit", "acquire" | 23 | open — not yet a lock | [`de-shi-得失.md`](de-shi-得失.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 19 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
@@ -29,7 +29,7 @@ python3 tools/build_index.py
 | **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 16 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **唯** | *wéi* | only · *yes* (ch 20) | "precisely" | 15 | **locked** | [`wei-唯.md`](wei-唯.md) |
-| **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn" | 15 | open — not yet a lock | [`yu-欲.md`](yu-欲.md) |
+| **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving" | 15 | open — not yet a lock | [`yu-欲.md`](yu-欲.md) |
 | **貴 & 賤** | *guì / jiàn* | prize (verb), prized (a state) / cheap, cheapen · *status* (ch 9) | "humble", "lowly", "esteem" | 15 | open — not yet a lock | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
@@ -82,7 +82,7 @@ python3 tools/build_index.py
 | **清** | *qīng* | clear | "pure", "purity", "purify", "clarity" | 3 | **locked** | [`qing-清.md`](qing-清.md) |
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
 | **百姓** | *bǎi xìng* | everyone | "the people", "the hundred families", "the hundred surnames", "the masses", "the common people" | 3 | **locked** | [`baixing-百姓.md`](baixing-百姓.md) |
-| **知足** | *zhī zú* | knowing you have enough / contentment · *discontent* (ch 46) | "sufficiency", "fulfilled", "satisfaction" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
+| **知足** | *zhī zú* | knowing you have enough / contentment | "sufficiency", "fulfilled", "satisfaction", "discontent" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
 | **命** | *mìng* | the allotted course — what is spoken over a thing and sent with it | "mandate", "destiny", "fate", "decree" | 2 | open — not yet a lock | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
 | **廣** | *guǎng* | broad · breadth (as a noun) | "boundless", "limitless", "vast", "expansive", "reach far" | 2 | **locked** | [`guang-廣.md`](guang-廣.md) |

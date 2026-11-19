@@ -55,7 +55,7 @@
 - term: "得 & 失"
   pinyin: "dé / shī"
   render: "get / lose"
-  forbidden: ["attain", "obtain", "forfeit"]
+  forbidden: ["attain", "obtain", "forfeit", "acquire"]
   chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
   status: open
   entry: glossary/de-shi-得失.md
@@ -178,7 +178,7 @@
 - term: "欲"
   pinyin: "yù"
   render: "desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)"
-  forbidden: ["lust", "covet", "the passions", "yearn"]
+  forbidden: ["lust", "covet", "the passions", "yearn", "craving"]
   chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
   status: open
   entry: glossary/yu-欲.md
@@ -662,12 +662,10 @@
 - term: "知足"
   pinyin: "zhī zú"
   render: "knowing you have enough / contentment"
-  forbidden: ["sufficiency", "fulfilled", "satisfaction"]
+  forbidden: ["sufficiency", "fulfilled", "satisfaction", "discontent"]
   chapters: [33, 44, 46]
   status: locked
   entry: glossary/zhizu-知足.md
-  flexions:
-    - { english: "discontent", chapters: [46], why: "不知足 (bù zhī zú — not knowing enough) stands as the subject of a comparison, and English wants a noun there" }
 
 - term: "命"
   pinyin: "mìng"

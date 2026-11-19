@@ -587,7 +587,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 > The countless things return to it, yet it does not act as their master: it can be called great.
 
   The two 為主 (*wéi zhǔ*) read alike, *owner* and *ownership* stop falling on two characters, and 功成 (*gōng chéng*) reads as at 2 and 77. **Done 2026-11-15, with the 名 (*míng* — name) entry:** 不名有 (*bù míng yǒu*) reads *"it does not name it its own"* rather than *claim to own it*, since *claim* is 伐's (*fá*), and 可名 reads *can be named*, as at 1 and 14 (`chapters/034.md` → Notes).
-- **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it.
+- **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it. **Done, 2026-11-19 (Shalom's call),** with 欲得 → *wanting to get*.
 - **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."*
 - **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again.
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
