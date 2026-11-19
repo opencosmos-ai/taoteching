@@ -28,6 +28,24 @@ class SourceParserTests(unittest.TestCase):
         self.assertEqual([v.witnesses for v in parsed], [r["readings"] for r in records])
         self.assertTrue(all(v.note == "First line second line" for v in parsed))
 
+    def test_structured_fork_ids_are_required_and_unique(self):
+        fork = ("- chapter: 4\n{id_field}  line: example\n  base: example\n"
+                "  readings: []\n  meaning_bearing: false\n  our_call: base\n"
+                "  note: Example\n  logged: false\n")
+        valid = fork.format(id_field="  id: 1\n")
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "variants.yaml"
+            with patch.object(corpus, "VARIANTS", path):
+                for text, message in (
+                    (fork.format(id_field=""), "fork id must be a positive safe integer"),
+                    (fork.format(id_field="  id: 9007199254740992\n"), "fork id must be a positive safe integer"),
+                    (valid + valid, "duplicate fork id 1"),
+                ):
+                    with self.subTest(message=message, text=text):
+                        path.write_text(text, encoding="utf-8")
+                        with self.assertRaisesRegex(ValueError, message):
+                            corpus.load_variants()
+
     def test_embedded_punctuation(self):
         self.assertEqual(inline_map(
             r'''{title: "The editor's note: \"a, b\"", locator: 'part 2, p. 4'}''',

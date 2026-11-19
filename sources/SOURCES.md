@@ -16,10 +16,10 @@ The excavated readings here are individual facts. A qualifying transcription can
 
 Stored in this repository. The listed printings are independent witnesses for comparison.
 
+- Zhengtong Daozang · 1445
+- Siku Quanshu · 1782
 - Ershi'er zi · Zhejiang Book Company · 1875
 - Sibu congkan, first series · Commercial Press · 1919
-- Siku Quanshu · 1782
-- Zhengtong Daozang · 1445
 - [Stored material](<../source/chinese.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -47,9 +47,9 @@ Recorded as evidence.
 
 12 readings await a print check.
 
-- Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
-- Gao Ming, Collation of the Silk Laozi · 1996
 - Mawangdui Han mu boshu, volume 1 · Wenwu · 1980
+- Gao Ming, Collation of the Silk Laozi · 1996
+- Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
 - [Glossary · chong](<../glossary/chong-%E6%B2%96.md>) · Silk A, chapter 42, parallel manuscript table
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · Silk A, chapter 6 valley reading
 - Apparatus chapters [1](<../chapters/001.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [42](<../chapters/042.md>), [45](<../chapters/045.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
@@ -64,9 +64,9 @@ Recorded as evidence.
 
 17 readings await a print check.
 
-- Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
-- Gao Ming, Collation of the Silk Laozi · 1996
 - Mawangdui Han mu boshu, volume 1 · Wenwu · 1980
+- Gao Ming, Collation of the Silk Laozi · 1996
+- Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · Silk B, chapter 6 valley reading
 - Apparatus chapters [3](<../chapters/003.md>), [4](<../chapters/004.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [45](<../chapters/045.md>), [49](<../chapters/049.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [73](<../chapters/073.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#excavated>)

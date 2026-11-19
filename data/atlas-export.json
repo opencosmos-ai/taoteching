@@ -18701,18 +18701,24 @@
      "our_call": "base",
      "readings": [
       {
+       "annotation": "This collation corroborates the reading recorded in the original notes. The original consultation path is undocumented.",
        "cards": [
         "所",
         "不",
         "保"
        ],
-       "chain": [],
+       "chain": [
+        "zhu-qianzhi"
+       ],
        "english": "what one fails to keep safe",
        "gloss": "authored",
+       "locator": "Chapter 62, Luo Zhenyu’s collation note on the Dunhuang Xin manuscript",
        "pinyin": "suǒ bù bǎo",
        "source": "dunhuang",
        "text": "所不保",
-       "verification": "unassessed"
+       "url": "https://dao.time.actor/laozi-jiaoshi#1796",
+       "verification": "unassessed",
+       "via": "zhu-qianzhi"
       },
       {
        "cards": [],
@@ -37562,7 +37568,7 @@
    "kind": "phonetic-compound",
    "lock": 0,
    "n": 1,
-   "p": "Yán",
+   "p": "Shān",
    "pho": [
     "延"
    ],
@@ -53976,7 +53982,7 @@
    "grime (ch 78 follows the silks' 詬, shame)"
   ],
   "埏": [
-   "Yán",
+   "Shān",
    "kneading"
   ],
   "域": [
@@ -56933,7 +56939,7 @@
   ],
   "11.4": [
    "埏埴以為器，",
-   "Yán zhí yǐ wéi qì,",
+   "Shān zhí yǐ wéi qì,",
    "Knead clay to make a vessel.",
    1
   ],
@@ -61566,7 +61572,7 @@
   "11.11": "nothingness/absence \\[wu\\] of it is used for/provides utility/function \\[yong\\].",
   "11.2": "just at \\[dang\\] its \\[qi\\] nothingness/void \\[wu\\],",
   "11.3": "there is \\[you\\] the use/utility \\[yong\\] of the cart/chariot \\[che\\].",
-  "11.4": "Kneading \\[yan\\] clay \\[zhi\\] to make/become \\[yi wei\\] a vessel \\[qi\\],",
+  "11.4": "Kneading \\[shan\\] clay \\[zhi\\] to make/become \\[yi wei\\] a vessel \\[qi\\],",
   "11.5": "just at its nothingness/void \\[wu\\],",
   "11.6": "there is the use/utility of the vessel \\[qi\\].",
   "11.7": "Chiseling/cutting \\[zao\\] doors \\[hu\\] and windows \\[you\\] to make a room \\[shi\\],",
@@ -62587,6 +62593,16 @@
     },
     "editions": [
      {
+      "id": "zhengtong-1445",
+      "title": "Zhengtong Daozang",
+      "year": 1445
+     },
+     {
+      "id": "siku-1782",
+      "title": "Siku Quanshu",
+      "year": 1782
+     },
+     {
       "id": "ershier-1875",
       "publisher": "Zhejiang Book Company",
       "title": "Ershi'er zi",
@@ -62597,16 +62613,6 @@
       "publisher": "Commercial Press",
       "title": "Sibu congkan, first series",
       "year": 1919
-     },
-     {
-      "id": "siku-1782",
-      "title": "Siku Quanshu",
-      "year": 1782
-     },
-     {
-      "id": "zhengtong-1445",
-      "title": "Zhengtong Daozang",
-      "year": 1445
      }
     ],
     "entries": [],
@@ -63568,9 +63574,10 @@
     "date": "c. 200 BCE",
     "editions": [
      {
-      "id": "collected-2014",
-      "title": "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",
-      "year": 2014
+      "id": "wenwu-1980",
+      "publisher": "Wenwu",
+      "title": "Mawangdui Han mu boshu, volume 1",
+      "year": 1980
      },
      {
       "id": "gao-1996",
@@ -63578,10 +63585,9 @@
       "year": 1996
      },
      {
-      "id": "wenwu-1980",
-      "publisher": "Wenwu",
-      "title": "Mawangdui Han mu boshu, volume 1",
-      "year": 1980
+      "id": "collected-2014",
+      "title": "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",
+      "year": 2014
      }
     ],
     "entries": [
@@ -63695,9 +63701,10 @@
     "date": "c. 175 BCE",
     "editions": [
      {
-      "id": "collected-2014",
-      "title": "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",
-      "year": 2014
+      "id": "wenwu-1980",
+      "publisher": "Wenwu",
+      "title": "Mawangdui Han mu boshu, volume 1",
+      "year": 1980
      },
      {
       "id": "gao-1996",
@@ -63705,10 +63712,9 @@
       "year": 1996
      },
      {
-      "id": "wenwu-1980",
-      "publisher": "Wenwu",
-      "title": "Mawangdui Han mu boshu, volume 1",
-      "year": 1980
+      "id": "collected-2014",
+      "title": "Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs",
+      "year": 2014
      }
     ],
     "entries": [

@@ -2,6 +2,7 @@
 
 from dataclasses import replace
 from pathlib import Path
+import re
 import sqlite3
 import sys
 import unittest
@@ -11,7 +12,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from build_db import build
 from build_explorer import payload
 from build_sources import render
-from lib.corpus import load_variants, parse_frontmatter
+from lib.corpus import load_chapters, load_variants, parse_frontmatter
 from lib.source_registry import han, pairing, resolve
 from lib.source_tables import published_chapters, published_citations, published_sources
 
@@ -54,6 +55,34 @@ class PublishedRegistry(unittest.TestCase):
                        if r["source"] == "wangbi")
         self.assertIn("not the transmitted text", reading["annotation"])
 
+    def test_dunhuang_reading_cites_its_collation(self):
+        reading = next(r for f in self.chapters[62]["forks"] for r in f["readings"]
+                       if r["source"] == "dunhuang")
+        self.assertEqual(reading["chain"], ["zhu-qianzhi"])
+        self.assertIn("Dunhuang Xin manuscript", reading["locator"])
+        self.assertIn("url", reading)
+
+    def test_base_editions_are_chronological_in_markdown_and_export(self):
+        self.assertEqual([edition["year"] for edition in self.records["base"]["editions"]],
+                         [1445, 1782, 1875, 1919])
+        page = render(resolve())
+        base = page.split('<a name="base"></a>', 1)[1].split('<a name="', 1)[0]
+        self.assertEqual(re.findall(r" · (\d{4})\b", base), ["1445", "1782", "1875", "1919"])
+
+    def test_inserting_and_moving_forks_preserves_ids_and_display_order(self):
+        variants = load_variants()
+        first, second = variants[:2]
+        inserted = replace(first, id=max(v.id for v in variants) + 1)
+        updated = [inserted, second, first, *variants[2:]]
+        with patch("lib.source_registry.load_variants", return_value=updated), sqlite3.connect(":memory:") as db:
+            build(db)
+            chapter_data = published_chapters(db, self.cards, payload(db)["chapters"])
+            self.assertEqual([fork["id"] for fork in chapter_data[first.chapter]["forks"][:3]],
+                             [inserted.id, second.id, first.id])
+            sources = published_sources(db)
+            witness = next(r for r in sources["records"] if r["id"] in first.witnesses)
+            self.assertTrue({first.id, inserted.id} <= set(witness["forks"]))
+
     def test_card_links_resolve_and_missing_cards_keep_their_pairing(self):
         missing = []
         for chapter in self.chapters.values():
@@ -83,8 +112,18 @@ class RegistryValidation(unittest.TestCase):
     def test_supplementary_character_needs_its_own_gloss(self):
         # U+29840 is an old head graph, pronounced shǒu.
         with self.assertRaisesRegex(ValueError, "tone-marked pinyin"):
-            pairing("\U00029840", "", "head", {}, "fixture")
-        self.assertEqual(pairing("\U00029840", "shǒu", "head", {}, "fixture")["english"], "head")
+            pairing("\U00029840", "", "head", "fixture")
+        self.assertEqual(pairing("\U00029840", "shǒu", "head", "fixture")["english"], "head")
+
+    def test_source_table_literal_cannot_supply_a_missing_pairing(self):
+        variants = load_variants()
+        chapters = load_chapters()
+        fork = variants[0]
+        source_row = chapters[fork.chapter].source_rows[0]
+        variants[0] = replace(fork, base=source_row.chinese, base_pinyin="", base_english="")
+        with patch("lib.source_registry.load_variants", return_value=variants):
+            with self.assertRaisesRegex(ValueError, "readable Roman-alphabet display text"):
+                resolve(chapters=chapters)
 
     def test_pending_check_cannot_lose_its_worklist_reference(self):
         variants = load_variants()

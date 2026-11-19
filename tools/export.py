@@ -161,7 +161,7 @@ EXPORTS = {
                v.confirm, v.confirmed_edition, v.confirmed_locator, v.confirmed_on, v.confirmation
         FROM variant v LEFT JOIN witness w ON w.id = v.witness_id
         LEFT JOIN source_editorial_label e ON e.id = v.witness_id
-        ORDER BY v.chapter, v.variant_group, v.witness_id
+        ORDER BY v.chapter, v.id
     """,
     "witnesses": """
         SELECT id, name_zh, name_pinyin, name_en, kind, date_low, date_high,

@@ -17,7 +17,7 @@ If you are checking a license before ingesting or quoting: the answer is yes, wi
 ## Provenance and reliability
 
 - **Sources:** The [generated catalogue](sources/SOURCES.md) documents the base text, witnesses, and consulted works.
-- **The translation is original**, made directly from the Chinese. Public-domain English versions published before 1931 were consulted for their range of meanings. This edition uses its own phrasing.
+- **The translation is original**, made directly from the Chinese. No copyrighted translation was consulted at any stage. Public-domain English versions published before 1931 were consulted for their range of meanings. This edition uses its own phrasing.
 - **Decisions are documented, not asserted.** Where the ancient manuscripts disagree, the fork is recorded in `notes/manuscript.md` along with which reading was followed and why. Deliberate departures from the literal are in `notes/translation.md`.
 - **Work in progress.** See *Status* below. Do not assume every chapter is final.
 

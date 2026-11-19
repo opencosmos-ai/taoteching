@@ -241,8 +241,8 @@ CREATE TABLE witness (
 );
 
 CREATE TABLE variant (
-    id              INTEGER PRIMARY KEY,
-    variant_group   INTEGER NOT NULL,   -- one per entry in sources/variants.yaml
+    id              INTEGER PRIMARY KEY,  -- row order from the apparatus
+    variant_group   INTEGER NOT NULL,     -- authored fork ID in sources/variants.yaml
     chapter         INTEGER NOT NULL,
     line            TEXT,
     base_reading    TEXT,

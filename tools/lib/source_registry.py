@@ -135,6 +135,10 @@ def edition_rows(rows, location):
     return out
 
 
+def edition_order(edition):
+    return "year" not in edition, edition.get("year", 0), edition["id"]
+
+
 @dataclass
 class ResolvedSources:
     records: dict
@@ -232,19 +236,14 @@ def catalogue(imported, chapters, guodian):
     return sources, editions, locations
 
 
-def pairing(text, pinyin, gloss, exact, location):
+def pairing(text, pinyin, gloss, location):
     if not text.strip():
         fail(location, "empty reading text")
-    if not pinyin and not gloss and han(text):
-        pinyin, gloss = exact.get(text, ("", ""))
-        origin = "derived"
-    else:
-        origin = "authored"
     english(gloss, location)
     if han(text) and (not LATIN.search(unicodedata.normalize("NFD", pinyin)) or
                       han(pinyin) or not TONE_MARKS.intersection(unicodedata.normalize("NFD", pinyin))):
         fail(location, "reading needs its own tone-marked pinyin")
-    return {"text": text, "english": gloss, "gloss": origin, **({"pinyin": pinyin} if pinyin else {})}
+    return {"text": text, "english": gloss, "gloss": "authored", **({"pinyin": pinyin} if pinyin else {})}
 
 
 def resolve(chapters=None, guodian=None):
@@ -343,17 +342,17 @@ def resolve(chapters=None, guodian=None):
                             "bundles": row.bundles if row else [], "units": row.units if row else []},
             "commentary": commentary,
         }
-    for ident, v in enumerate(load_variants(), 1):
+    for v in load_variants():
         if v.legacy:
             fail(v.location, "source export requires structured readings")
+        ident = v.id
         if v.our_call not in CHOICES | v.witnesses.keys():
             fail(v.location, f"invalid call {v.our_call!r}")
-        exact = {row.chinese: (row.pinyin, row.literal) for row in chapters[v.chapter].source_rows}
-        base = pairing(v.base, v.base_pinyin, v.base_english, exact, v.location)
+        base = pairing(v.base, v.base_pinyin, v.base_english, v.location)
         resolved = []
         for reading in sorted(v.readings, key=lambda item: item.source):
             location = f"{v.location} [{reading.source}]"
-            paired = pairing(reading.text, reading.pinyin, reading.english, exact, location)
+            paired = pairing(reading.text, reading.pinyin, reading.english, location)
             evidence = {key: value for key, value in asdict(reading).items()
                         if value and key not in {"text", "pinyin", "english"}}
             record = reference(evidence, location, editorial=True)

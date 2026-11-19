@@ -241,3 +241,14 @@
     sense was Wang Bi's gloss. The lock holds, and ch 65 reads "did not use it
     to make the people see clearly" (Shalom's call, 2026-11-16).
   see: "glossary/ming-明.md"
+
+- id: ch11-kneading-pronunciation
+  retracted: 2026-11-18
+  claim: >
+    The clay-working compound in chapter 11 is read yán zhí.
+  match: ["yán zhí yǐ wéi qì", "yán, hé yě; zhí, tǔ yě", "Kneading \[yan\] clay"]
+  correction: >
+    埏埴 (shān zhí — knead clay) uses the clay-working pronunciation shān, as
+    supported by Heshang Gong's pronunciation note.
+  see: "chapters/011.md"
+  allow: ["source/archive-google-doc-final-export-2026-08-09.md", "process/back-translation/B_01-14.md"]

@@ -5,7 +5,7 @@ import argparse
 import sys
 from urllib.parse import quote
 
-from lib.source_registry import ROOT, resolve
+from lib.source_registry import ROOT, edition_order, resolve
 
 OUT = ROOT / "sources" / "SOURCES.md"
 GROUPS = {
@@ -77,7 +77,7 @@ def render(registry):
                 out.extend((f"{source['confirmed_print']} readings have been checked in print.", ""))
             if source.get("citation_debt"):
                 out.extend((f"Citation recovery is open in [{source['citation_debt']}](../WORKLIST.md).", ""))
-            for edition in sorted(registry.editions[ident].values(), key=lambda e: e["id"]):
+            for edition in sorted(registry.editions[ident].values(), key=edition_order):
                 title = link(edition["title"], edition["url"]) if "url" in edition else edition["title"]
                 detail = [str(edition[key]) for key in ("publisher", "year", "date") if edition.get(key)]
                 suffix = (" · " + " · ".join(detail)) if detail else ""

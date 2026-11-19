@@ -676,11 +676,13 @@ Our base reads 用之不可既 (*yòng zhī bù kě jì*). **Our vendored 王弼
 
 **Our call: the base, and the English keeps the break.** 王弼's own commentary uses 不可 — 乃用之不可窮極也, *"thus using it cannot be exhausted to its limit"* — which argues the 足 in his lemma is transmission rather than his reading. The break is also the point: two lines of deficiency, then a reversal. *"There is not enough to see. There is not enough to hear. Use it. It never runs out."*
 
-### Ch 11 · 埏 / 挻 — the 說文 sides with the minority graph
+### Ch 11 · 埏 (*shān* — knead) / 挻 (*shān* — knead) — two graphs for working clay
 
-Our base reads 埏埴以為器 (*yán zhí yǐ wéi qì* — "work the clay to make a vessel"). The Siku editors note inside 王弼's text: 〔案埏各本俱作埏，惟釋文作挻〕 — *"all editions write 埏; only the 釋文 writes 挻."* The 釋文 is 陸德明 (*Lù Démíng*)'s 經典釋文 (*Jīngdiǎn Shìwén* — Textual Explanations of Classics and Canons), c. 583.
+Our base reads 埏埴以為器 (*shān zhí yǐ wéi qì* — "work the clay to make a vessel"). The Siku editors note in Wang Bi's text that all other editions write 埏 (*shān* — knead), while Lu Deming's *Jingdian Shiwen* (c. 583) writes 挻 (*shān* — knead).
 
-**Not meaning-bearing** — every reading gives *work the clay*, and the English is unaffected. Recorded because the evidence runs against our base graph. **說文解字 glosses 埏 as 八方之地也** — *"the land of the eight directions,"* the far reaches of the earth — with no kneading sense at all; **挻 (*shān*) is the graph that carries it.** 河上公 (*Héshàng Gōng*) takes the working sense on the majority graph regardless: 埏，和也 — *"埏 means to blend."* We keep the base and render *knead*.
+Each reading means *work the clay*. The Shuowen glosses 埏 (*yán* — the far reaches of the earth) as 八方之地也 (*bā fāng zhī dì yě* — "the land of the eight directions"). The Guangyun records the working sense under 挻 (*shān* — knead) as 柔也，和也 (*róu yě, hé yě* — "to soften, to mix"). [Ministry of Education dictionary of variant characters](https://dict.variants.moe.edu.tw/dictView.jsp?ID=58966&la=1)
+
+Heshang Gong gives the received graph the working sense in 埏，和也 (*shān, hé yě* — "shān means to blend"). His pronunciation note supports *shān*, the reading the Ministry of Education dictionary also gives for the clay-working compound. We keep the received graph and render it *knead*. [Heshang Gong on chapter 11](../sources/commentaries/heshanggong/011.md), [Ministry of Education dictionary](https://dict.revised.moe.edu.tw/dictView.jsp?ID=130859&la=1&powerMode=0)
 
 *A second Siku note on this chapter — 〔案永樂大典無也字〕, "the 永樂大典 (Yǒnglè Dàdiǎn) lacks the character 也" — is orthographic and is not recorded.*
 

@@ -2,7 +2,7 @@
 
 import json
 
-from .source_registry import EDITORIAL
+from .source_registry import EDITORIAL, edition_order
 
 SCHEMA = """
 CREATE TABLE source (
@@ -71,7 +71,8 @@ def store(cur, registry):
             continue
         coverage = source["coverage"]
         covered, total = len(coverage["chapters"]), coverage.get("total")
-        editions = "; ".join(edition["title"] for edition in registry.editions[ident].values())
+        editions = "; ".join(edition["title"] for edition in
+                             sorted(registry.editions[ident].values(), key=edition_order))
         years = source.get("years", [None, None])
         cur.execute("""
             INSERT INTO witness (id, name_en, kind, date_low, date_high, edition,
@@ -105,6 +106,8 @@ def published_sources(conn):
         records[ident] = {**json.loads(record), "editions": []}
     for source, record in conn.execute("SELECT source, record FROM source_edition ORDER BY source, id"):
         records[source]["editions"].append(json.loads(record))
+    for record in records.values():
+        record["editions"].sort(key=edition_order)
     return {"records": list(records.values()), "totals": dict(
         conn.execute("SELECT id, count FROM source_total ORDER BY id"))}
 
@@ -139,7 +142,7 @@ def published_chapters(conn, cards, legacy_chapters):
         SELECT chapter, variant_group, base_reading, base_pinyin, base_english, base_gloss,
                our_call, meaning_bearing, witness_id, witness_reading, witness_pinyin,
                witness_english, witness_gloss, chain, {', '.join(EVIDENCE)}
-        FROM variant ORDER BY chapter, variant_group, witness_id
+        FROM variant ORDER BY chapter, id
     """
     for row in conn.execute(sql):
         n, group, base, pin, gloss, derivation, our_call, meaning, source, reading, rpin, rgloss, rderived, chain, *evidence = row

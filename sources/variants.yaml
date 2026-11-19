@@ -7,10 +7,12 @@
 #   python3 tools/check_locks.py --rule unlogged-variant
 #
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
-# Each reading carries its evidence and, where needed, its reading-specific gloss.
+# Each fork has a permanent numeric ID. Assign a fresh ID to each new fork.
+# Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
 - chapter: 4
+  id: 1
   line: "湛兮，似或存"
   base: "或"
   base_pinyin: "huò"
@@ -29,6 +31,7 @@
   logged: notes/manuscript.md
 
 - chapter: 4
+  id: 2
   line: "道沖，而用之或不盈"
   base: "沖"
   base_pinyin: "chōng"
@@ -52,6 +55,7 @@
   logged: notes/manuscript.md
 
 - chapter: 8
+  id: 3
   line: "政善治"
   base: "政"
   base_pinyin: "zhèng"
@@ -76,6 +80,7 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 4
   line: "故從事於道者，同於道"
   base: "同於道"
   base_pinyin: "tóng yú dào"
@@ -95,6 +100,7 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 5
   line: "同於失者，失亦樂得之"
   base: "得"
   base_pinyin: "dé"
@@ -113,6 +119,7 @@
   logged: notes/manuscript.md
 
 - chapter: 23
+  id: 6
   line: "故飄風不終朝"
   base: "故"
   base_pinyin: "gù"
@@ -134,6 +141,7 @@
   logged: notes/manuscript.md
 
 - chapter: 52
+  id: 7
   line: "是謂襲常"
   base: "襲"
   base_pinyin: "xí"
@@ -159,6 +167,7 @@
   logged: notes/manuscript.md
 
 - chapter: 3
+  id: 8
   line: "使夫智者不敢為也"
   base: "智者"
   base_pinyin: "zhì zhě"
@@ -187,6 +196,7 @@
   logged: notes/manuscript.md
 
 - chapter: 3
+  id: 9
   line: "不見可欲，使民心不亂"
   base: "民"
   base_pinyin: "mín"
@@ -207,6 +217,7 @@
   logged: notes/manuscript.md
 
 - chapter: 38
+  id: 10
   line: "則攘臂而扔之"
   base: "扔"
   base_pinyin: "rēng"
@@ -226,6 +237,7 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 11
   line: "天門開闔，能為雌乎"
   base: "為"
   base_pinyin: "wéi"
@@ -246,6 +258,7 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 12
   line: "明白四達，能無為乎"
   base: "無為"
   base_pinyin: "wú wéi"
@@ -265,6 +278,7 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 13
   line: "道之為物，惟恍惟惚"
   base: "道之為物"
   base_pinyin: "dào zhī wéi wù"
@@ -282,6 +296,7 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 14
   line: "自古及今，其名不去"
   base: "自古及今"
   base_pinyin: "zì gǔ jí jīn"
@@ -298,6 +313,7 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 15
   line: "以閱眾甫"
   base: "閱"
   base_pinyin: "yuè"
@@ -313,6 +329,7 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 16
   line: "以閱眾甫"
   base: "甫"
   base_pinyin: "fǔ"
@@ -330,6 +347,7 @@
   logged: notes/manuscript.md
 
 - chapter: 21
+  id: 17
   line: "吾何以知眾甫之狀哉"
   base: "狀"
   base_pinyin: "zhuàng"
@@ -355,6 +373,7 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 18
   line: "故道大，天大，地大，王亦大"
   base: "王"
   base_pinyin: "wáng"
@@ -377,6 +396,7 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 19
   line: "域中有四大，而王居其一焉"
   base: "王"
   base_pinyin: "wáng"
@@ -398,6 +418,7 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 20
   line: "域中有四大"
   base: "域"
   base_pinyin: "yù"
@@ -418,6 +439,7 @@
   logged: notes/manuscript.md
 
 - chapter: 25
+  id: 21
   line: "有物混成"
   base: "混"
   base_pinyin: "hùn"
@@ -431,6 +453,7 @@
   logged: notes/manuscript.md
 
 - chapter: 2
+  id: 22
   line: "長短相形，高下相盈"
   base: "相形 … 相盈"
   base_pinyin: "xiāng xíng … xiāng yíng"
@@ -447,6 +470,7 @@
   logged: notes/manuscript.md
 
 - chapter: 9
+  id: 23
   line: "揣而銳之，不可長保"
   base: "銳"
   base_pinyin: "ruì"
@@ -462,6 +486,7 @@
   logged: notes/manuscript.md
 
 - chapter: 9
+  id: 24
   line: "功遂身退，天之道"
   base: "功遂"
   base_pinyin: "gōng suì"
@@ -484,6 +509,7 @@
   logged: notes/manuscript.md
 
 - chapter: 20
+  id: 25
   line: "俗人昭昭，我獨昏昏"
   base: "昏昏"
   base_pinyin: "hūn hūn"
@@ -503,6 +529,7 @@
   logged: notes/manuscript.md
 
 - chapter: 26
+  id: 26
   line: "君子終日行不離輜重"
   base: "君子"
   base_pinyin: "jūn zǐ"
@@ -526,6 +553,7 @@
   logged: notes/manuscript.md
 
 - chapter: 26
+  id: 27
   line: "輕則失本，躁則失君"
   base: "失本"
   base_pinyin: "shī běn"
@@ -543,6 +571,7 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 28
   line: "未知牝牡之合而朘作"
   base: "朘"
   base_pinyin: "zuī"
@@ -563,6 +592,7 @@
   logged: notes/manuscript.md
 
 - chapter: 32
+  id: 29
   line: "道常無名。樸雖小"
   base: "道常無名。樸雖小"
   base_pinyin: "dào cháng wú míng. pǔ suī xiǎo"
@@ -578,6 +608,7 @@
   logged: notes/manuscript.md
 
 - chapter: 41
+  id: 30
   line: "大器晚成"
   base: "晚成"
   base_pinyin: "wǎn chéng"
@@ -594,6 +625,7 @@
   logged: notes/manuscript.md
 
 - chapter: 42
+  id: 31
   line: "吾將以為教父"
   base: "教父"
   base_pinyin: "jiào fù"
@@ -609,6 +641,7 @@
   logged: notes/manuscript.md
 
 - chapter: 33
+  id: 32
   line: "死而不亡者壽"
   base: "亡"
   base_pinyin: "wáng"
@@ -627,6 +660,7 @@
   logged: notes/manuscript.md
 
 - chapter: 46
+  id: 33
   line: "禍莫大於不知足"
   base: "(two calamity clauses)"
   base_english: "two calamity clauses"
@@ -642,6 +676,7 @@
   logged: notes/manuscript.md
 
 - chapter: 46
+  id: 34
   line: "故知足之足，常足矣"
   base: "知足之足，常足"
   base_pinyin: "zhī zú zhī zú, cháng zú"
@@ -659,6 +694,7 @@
   logged: notes/manuscript.md
 
 - chapter: 47
+  id: 35
   line: "不見而名"
   base: "名"
   base_pinyin: "míng"
@@ -678,6 +714,7 @@
   logged: notes/manuscript.md
 
 - chapter: 51
+  id: 36
   line: "長之育之，亭之毒之"
   base: "亭之毒之"
   base_pinyin: "tíng zhī dú zhī"
@@ -694,6 +731,7 @@
   logged: notes/manuscript.md
 
 - chapter: 53
+  id: 37
   line: "是謂盜夸"
   base: "夸"
   base_pinyin: "kuā"
@@ -711,6 +749,7 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 38
   line: "未知牝牡之合而全作"
   base: "全"
   base_pinyin: "quán"
@@ -727,6 +766,7 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 39
   line: "大國者下流 … (國 ×9)"
   base: "國"
   base_pinyin: "guó"
@@ -745,6 +785,7 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 40
   line: "天下之交，天下之牝"
   base: "天下之交，天下之牝"
   base_pinyin: "tiān xià zhī jiāo, tiān xià zhī pìn"
@@ -765,6 +806,7 @@
   logged: notes/manuscript.md
 
 - chapter: 61
+  id: 41
   line: "小國以下大國，則取大國"
   base: "則取大國"
   base_pinyin: "zé qǔ dà guó"
@@ -784,6 +826,7 @@
 # see WORKLIST T2-74.
 
 - chapter: 61
+  id: 42
   line: "牝常以靜勝牡，以靜為下"
   base: "以靜為下"
   base_pinyin: "yǐ jìng wéi xià"
@@ -804,6 +847,7 @@
   logged: notes/manuscript.md
 
 - chapter: 63
+  id: 43
   line: "大小多少，報怨以德"
   base: "報怨以德"
   base_pinyin: "bào yuàn yǐ dé"
@@ -821,6 +865,7 @@
   logged: notes/manuscript.md
 
 - chapter: 63
+  id: 44
   line: "夫輕諾必寡信"
   base: "輕諾必寡信"
   base_pinyin: "qīng nuò bì guǎ xìn"
@@ -836,6 +881,7 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 45
   line: "美言可以市尊，美行可以加人"
   base: "市尊，美行"
   base_pinyin: "shì zūn, měi xíng"
@@ -864,6 +910,7 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 46
   line: "道者萬物之奧"
   base: "奧"
   base_pinyin: "ào"
@@ -886,6 +933,7 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 47
   line: "故立天子，置三公"
   base: "三公"
   base_pinyin: "sān gōng"
@@ -905,6 +953,7 @@
   logged: notes/manuscript.md
 
 - chapter: 62
+  id: 48
   line: "善人之寶，不善人之所保"
   base: "寶 … 保"
   base_pinyin: "bǎo … bǎo"
@@ -912,7 +961,7 @@
   readings:
     - { source: "mawangdui-a", text: "one graph used in both positions", english: "one graph used in both positions" }
     - { source: "mawangdui-b", text: "one graph used in both positions", english: "one graph used in both positions" }
-    - { source: "dunhuang", text: "所不保", pinyin: "suǒ bù bǎo", english: "what one fails to keep safe" }
+    - { source: "dunhuang", text: "所不保", pinyin: "suǒ bù bǎo", english: "what one fails to keep safe", via: "zhu-qianzhi", locator: "Chapter 62, Luo Zhenyu’s collation note on the Dunhuang Xin manuscript", url: "https://dao.time.actor/laozi-jiaoshi#1796", annotation: "This collation corroborates the reading recorded in the original notes. The original consultation path is undocumented." }
   meaning_bearing: true
   our_call: base
   note: >
@@ -929,6 +978,7 @@
 
 
 - chapter: 64
+  id: 49
   line: "其脆易泮，其微易散"
   base: "泮"
   base_pinyin: "pàn"
@@ -948,6 +998,7 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 50
   line: "whole chapter"
   base: "one continuous chapter"
   base_english: "one continuous chapter"
@@ -969,6 +1020,7 @@
   logged: notes/manuscript.md
 
 - chapter: 65
+  id: 51
   line: "知此兩者亦稽式"
   base: "稽"
   base_pinyin: "jī"
@@ -990,6 +1042,7 @@
   logged: notes/manuscript.md
 
 - chapter: 65
+  id: 52
   line: "故以智治國，國之賊；不以智治國，國之福"
   base: "以智治國 … 國之福"
   base_pinyin: "yǐ zhì zhì guó … guó zhī fú"
@@ -1012,6 +1065,7 @@
   logged: notes/manuscript.md
 
 - chapter: 67
+  id: 53
   line: "天下皆謂我道大，似不肖"
   base: "我道大"
   base_pinyin: "wǒ dào dà"
@@ -1037,6 +1091,7 @@
   logged: notes/manuscript.md
 
 - chapter: 67
+  id: 54
   line: "不敢為天下先，故能成器長"
   base: "器"
   base_pinyin: "qì"
@@ -1057,6 +1112,7 @@
   logged: notes/manuscript.md
 
 - chapter: 73
+  id: 55
   line: "天之所惡，孰知其故？"
   base: "line absent"
   base_english: "line absent"
@@ -1086,6 +1142,7 @@
   logged: notes/manuscript.md
 
 - chapter: 68
+  id: 56
   line: "善勝敵者，不與"
   base: "敵"
   base_pinyin: "dí"
@@ -1105,6 +1162,7 @@
   logged: notes/manuscript.md
 
 - chapter: 69
+  id: 57
   line: "故抗兵相若，哀者勝矣"
   base: "相若"
   base_pinyin: "xiāng ruò"
@@ -1125,6 +1183,7 @@
   logged: notes/manuscript.md
 
 - chapter: 72
+  id: 58
   line: "無狎其所居"
   base: "狎"
   base_pinyin: "xiá"
@@ -1144,6 +1203,7 @@
   logged: notes/manuscript.md
 
 - chapter: 74
+  id: 59
   line: "夫代司殺者殺，是謂代大匠斫"
   base: "代司殺者殺"
   base_pinyin: "dài sī shā zhě shā"
@@ -1164,6 +1224,7 @@
   logged: notes/manuscript.md
 
 - chapter: 75
+  id: 60
   line: "民之輕死，以其上求生之厚，是以輕死"
   base: "以其上求生之厚"
   base_pinyin: "yǐ qí shàng qiú shēng zhī hòu"
@@ -1183,6 +1244,7 @@
   logged: notes/manuscript.md
 
 - chapter: 76
+  id: 61
   line: "是以兵強則不勝，木強則折"
   base: "木強則折"
   base_pinyin: "mù qiáng zé zhé"
@@ -1206,6 +1268,7 @@
   logged: notes/manuscript.md
 
 - chapter: 80
+  id: 62
   line: "使有什伯之器而不用"
   base: "什伯之器"
   base_pinyin: "shí bǎi zhī qì"
@@ -1229,6 +1292,7 @@
   logged: notes/manuscript.md
 
 - chapter: 18
+  id: 63
   line: "智慧出，有大偽"
   base: "智慧出，有大偽"
   base_pinyin: "zhì huì chū, yǒu dà wěi"
@@ -1252,6 +1316,7 @@
   logged: notes/manuscript.md
 
 - chapter: 38
+  id: 64
   line: "前識者，道之華，而愚之始"
   base: "愚之始"
   base_pinyin: "yú zhī shǐ"
@@ -1274,6 +1339,7 @@
   logged: notes/manuscript.md
 
 - chapter: 20
+  id: 65
   line: "我愚人之心也哉"
   base: "愚"
   base_pinyin: "yú"
@@ -1296,6 +1362,7 @@
 # 釋文 is 1998 living scholarship. See PROVENANCE.md.
 
 - chapter: 19
+  id: 66
   line: "絕聖棄智，民利百倍"
   base: "絕聖棄智"
   base_pinyin: "jué shèng qì zhì"
@@ -1310,6 +1377,7 @@
   logged: notes/manuscript.md
 
 - chapter: 19
+  id: 67
   line: "絕仁棄義，民復孝慈"
   base: "絕仁棄義"
   base_pinyin: "jué rén qì yì"
@@ -1326,6 +1394,7 @@
   logged: notes/manuscript.md
 
 - chapter: 19
+  id: 68
   line: "絕巧棄利，盜賊無有"
   base: "絕巧棄利"
   base_pinyin: "jué qiǎo qì lì"
@@ -1341,6 +1410,7 @@
   logged: notes/manuscript.md
 
 - chapter: 16
+  id: 69
   line: "致虛極"
   base: "致"
   base_pinyin: "zhì"
@@ -1363,6 +1433,7 @@
   logged: notes/manuscript.md
 
 - chapter: 16
+  id: 70
   line: "吾以觀復"
   base: "觀復"
   base_pinyin: "guān fù"
@@ -1383,6 +1454,7 @@
   logged: notes/manuscript.md
 
 - chapter: 51
+  id: 71
   line: "夫莫之命而常自然"
   base: "命"
   base_pinyin: "mìng"
@@ -1405,6 +1477,7 @@
   logged: notes/manuscript.md
 
 - chapter: 35
+  id: 72
   line: "往而不害，安平太"
   base: "安平太"
   base_pinyin: "ān píng tài"
@@ -1431,6 +1504,7 @@
   logged: notes/manuscript.md
 
 - chapter: 35
+  id: 73
   line: "用之不可既"
   base: "不可既"
   base_pinyin: "bù kě jì"
@@ -1454,6 +1528,7 @@
   logged: notes/manuscript.md
 
 - chapter: 11
+  id: 74
   line: "埏埴以為器"
   base: "埏"
   base_pinyin: "shān"
@@ -1466,14 +1541,14 @@
     The Siku editors note inside our Wang Bi text: 〔案埏各本俱作埏惟釋文作挻〕 -
     "all editions write 埏; only the Shiwen (Lu Deming's Jingdian Shiwen, c. 583)
     writes 挻." Not meaning-bearing, since every reading gives "work the clay."
-    Recorded because the Shuowen sides with the minority: 埏 is glossed
-    八方之地也, "the land of the eight directions" - the far reaches of the earth,
-    not kneading at all - while 挻 (shan) is the graph that carries the working
-    sense. Heshang Gong takes the sense on the majority graph anyway: 埏，和也,
-    "埏 means to blend." We keep the base and render "knead."
+    The Shuowen glosses the received graph as "the land of the eight directions"
+    and the Shiwen graph as "long." The Guangyun gives the Shiwen graph the
+    kneading sense. Heshang Gong glosses the received graph as "to blend."
+    His pronunciation note supports shān. We keep the base and render "knead."
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 75
   line: "國之利器不可以示人"
   base: "國"
   base_pinyin: "guó"
@@ -1493,6 +1568,7 @@
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 76
   line: "將欲廢之，必固興之"
   base: "將欲廢之，必固興之"
   base_pinyin: "jiāng yù fèi zhī, bì gù xīng zhī"
@@ -1514,6 +1590,7 @@
   logged: notes/manuscript.md
 
 - chapter: 36
+  id: 77
   line: "柔弱勝剛強"
   base: "柔弱勝剛強"
   base_pinyin: "róu ruò shèng gāng qiáng"
@@ -1536,6 +1613,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 78
   line: "故致數譽無譽"
   base: "譽"
   base_pinyin: "yù"
@@ -1564,6 +1642,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 79
   line: "其致之"
   base: "其致之"
   base_pinyin: "qí zhì zhī"
@@ -1584,6 +1663,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 80
   line: "侯王無以貴高，將恐蹶"
   base: "貴高"
   base_pinyin: "guì gāo"
@@ -1604,6 +1684,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 81
   line: "侯王得一以為天下貞"
   base: "貞"
   base_pinyin: "zhēn"
@@ -1624,6 +1705,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 82
   line: "是以侯王自謂孤、寡、不穀"
   base: "不穀"
   base_pinyin: "bù gǔ"
@@ -1646,6 +1728,7 @@
   logged: notes/manuscript.md
 
 - chapter: 13
+  id: 83
   line: "寵為下"
   base: "寵"
   base_pinyin: "chǒng"
@@ -1671,6 +1754,7 @@
   logged: notes/manuscript.md
 
 - chapter: 13
+  id: 84
   line: "若可寄天下 / 若可託天下"
   base: "若可"
   base_pinyin: "ruò kě"
@@ -1692,6 +1776,7 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 85
   line: "孰能安以動之徐生"
   base: "安以動之"
   base_pinyin: "ān yǐ dòng zhī"
@@ -1714,6 +1799,7 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 86
   line: "儼兮其若客"
   base: "客"
   base_pinyin: "kè"
@@ -1734,6 +1820,7 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 87
   line: "混兮其若濁"
   base: "混"
   base_pinyin: "hùn"
@@ -1746,6 +1833,7 @@
   logged: glossary/hun-混.md
 
 - chapter: 78
+  id: 88
   line: "受國之不祥，是謂天下王"
   base: "是謂"
   base_pinyin: "shì wèi"
@@ -1761,6 +1849,7 @@
   logged: false
 
 - chapter: 29
+  id: 89
   line: "或挫或隳"
   base: "挫"
   base_pinyin: "cuò"
@@ -1781,6 +1870,7 @@
   logged: notes/manuscript.md
 
 - chapter: 29
+  id: 90
   line: "或歔或吹"
   base: "歔"
   base_pinyin: "xū"
@@ -1807,6 +1897,7 @@
 # ---------------------------------------------------------------------------
 
 - chapter: 38
+  id: 91
   line: "故失道而後德，失德而後仁"
   base: "失道而後德"
   base_pinyin: "shī dào ér hòu dé"
@@ -1831,6 +1922,7 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 92
   line: "以輔萬物之自然，而不敢為"
   base: "輔"
   base_pinyin: "fǔ"
@@ -1852,6 +1944,7 @@
   logged: notes/manuscript.md
 
 - chapter: 58
+  id: 93
   line: "廉而不劌"
   base: "劌"
   base_pinyin: "guì"
@@ -1871,6 +1964,7 @@
   logged: notes/manuscript.md
 
 - chapter: 60
+  id: 94
   line: "非其神不傷人，聖人亦不傷人"
   base: "人"
   base_pinyin: "rén"
@@ -1891,6 +1985,7 @@
   logged: notes/manuscript.md
 
 - chapter: 50
+  id: 95
   line: "虎無所用其爪"
   base: "用"
   base_pinyin: "yòng"
@@ -1908,6 +2003,7 @@
   logged: false
 
 - chapter: 1
+  id: 96
   line: "道可道，非常道"
   base: "道可道"
   base_pinyin: "dào kě dào"
@@ -1926,6 +2022,7 @@
   logged: false
 
 - chapter: 1
+  id: 97
   line: "故常無欲，以觀其妙"
   base: "故"
   base_pinyin: "gù"
@@ -1946,6 +2043,7 @@
   logged: chapters/001.md
 
 - chapter: 54
+  id: 98
   line: "善建者不拔，善抱者不脫，子孫以祭祀不輟"
   base: "善建者 … 子孫以祭祀不輟"
   base_pinyin: "shàn jiàn zhě … zǐ sūn yǐ jì sì bù chuò"
@@ -1963,6 +2061,7 @@
   logged: false
 
 - chapter: 1
+  id: 99
   line: "道可道，非常道"
   base: "常"
   base_pinyin: "cháng"
@@ -1980,6 +2079,7 @@
   logged: notes/manuscript.md
 
 - chapter: 49
+  id: 100
   line: "聖人無常心，以百姓心為心"
   base: "無常心"
   base_pinyin: "wú cháng xīn"
@@ -1996,6 +2096,7 @@
   logged: notes/manuscript.md
 
 - chapter: 32
+  id: 101
   line: "知止可以不殆"
   base: "可以"
   base_pinyin: "kě yǐ"
@@ -2017,6 +2118,7 @@
 
 
 - chapter: 57
+  id: 102
   line: "人多利器，國家滋昏"
   base: "人"
   base_pinyin: "rén"
@@ -2037,6 +2139,7 @@
   logged: notes/manuscript.md
 
 - chapter: 64
+  id: 103
   line: "民之從事，常於幾成而敗之"
   base: "民之從事"
   base_pinyin: "mín zhī cóng shì"
@@ -2054,6 +2157,7 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 104
   line: "是以聖人為腹不為目"
   base: "是以聖人"
   base_pinyin: "shì yǐ shèng rén"
@@ -2074,6 +2178,7 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 105
   line: "難得之貨，令人行妨"
   base: "令人行妨"
   base_pinyin: "lìng rén xíng fáng"
@@ -2095,6 +2200,7 @@
   logged: notes/manuscript.md
 
 - chapter: 12
+  id: 106
   line: "五色令人目盲"
   base: "五色 五音 五味 馳騁 難得"
   base_pinyin: "wǔ sè, wǔ yīn, wǔ wèi, chí chěng, nán dé"
@@ -2120,6 +2226,7 @@
 # 帛書老子校注 (Collation of the Silk Laozi, 1996).
 
 - chapter: 6
+  id: 107
   line: "谷神不死"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2138,6 +2245,7 @@
   logged: glossary/gu-谷.md
 
 - chapter: 15
+  id: 108
   line: "曠兮其若谷"
   base: "曠"
   base_pinyin: "kuàng"
@@ -2162,6 +2270,7 @@
   logged: notes/manuscript.md
 
 - chapter: 15
+  id: 109
   line: "曠兮其若谷"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2176,6 +2285,7 @@
   logged: glossary/gu-谷.md
 
 - chapter: 28
+  id: 110
   line: "知其榮，守其辱，為天下谷"
   base: "榮"
   base_pinyin: "róng"
@@ -2207,6 +2317,7 @@
   logged: notes/manuscript.md
 
 - chapter: 28
+  id: 111
   line: "為天下谷"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2221,6 +2332,7 @@
   logged: glossary/gu-谷.md
 
 - chapter: 32
+  id: 112
   line: "猶川谷之於江海"
   base: "川谷"
   base_pinyin: "chuān gǔ"
@@ -2242,6 +2354,7 @@
   logged: notes/manuscript.md
 
 - chapter: 39
+  id: 113
   line: "谷得一以盈"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2259,6 +2372,7 @@
   logged: glossary/gu-谷.md
 
 - chapter: 41
+  id: 114
   line: "上德若谷"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2276,6 +2390,7 @@
   logged: glossary/gu-谷.md
 
 - chapter: 66
+  id: 115
   line: "江海所以能為百谷王者"
   base: "谷"
   base_pinyin: "gǔ"
@@ -2302,6 +2417,7 @@
 # beside its edited reading). Guodian carries neither ch 8 nor ch 78.
 
 - chapter: 8
+  id: 116
   line: "上善若水"
   base: "若"
   base_pinyin: "ruò"
@@ -2319,6 +2435,7 @@
   logged: glossary/shui-水.md
 
 - chapter: 8
+  id: 117
   line: "水善利萬物而不爭"
   base: "不爭"
   base_pinyin: "bù zhēng"
@@ -2342,6 +2459,7 @@
   logged: notes/manuscript.md
 
 - chapter: 8
+  id: 118
   line: "處眾人之所惡"
   base: "處"
   base_pinyin: "chǔ"
@@ -2357,6 +2475,7 @@
   logged: glossary/shui-水.md
 
 - chapter: 78
+  id: 119
   line: "柔之勝剛"
   base: "柔"
   base_pinyin: "róu"
@@ -2377,6 +2496,7 @@
   logged: notes/manuscript.md
 
 - chapter: 78
+  id: 120
   line: "受國之垢，是謂社稷主"
   base: "垢"
   base_pinyin: "gòu"
@@ -2398,6 +2518,7 @@
   logged: notes/manuscript.md
 
 - chapter: 10
+  id: 121
   line: "專氣致柔，能如嬰兒乎"
   base: "致"
   base_pinyin: "zhì"
@@ -2415,6 +2536,7 @@
   logged: glossary/qi-氣.md
 
 - chapter: 10
+  id: 122
   line: "專氣致柔，能如嬰兒乎"
   base: "能如嬰兒乎"
   base_pinyin: "néng rú yīng ér hū"
@@ -2438,6 +2560,7 @@
   logged: notes/manuscript.md
 
 - chapter: 42
+  id: 123
   line: "萬物負陰而抱陽，沖氣以為和"
   base: "沖"
   base_pinyin: "chōng"
@@ -2463,6 +2586,7 @@
   logged: notes/manuscript.md
 
 - chapter: 45
+  id: 124
   line: "大盈若沖，其用不窮"
   base: "沖"
   base_pinyin: "chōng"
@@ -2485,6 +2609,7 @@
   logged: notes/manuscript.md
 
 - chapter: 55
+  id: 125
   line: "知和曰常，知常曰明"
   base: "知和曰常，知常曰明"
   base_pinyin: "zhī hé yuē cháng, zhī cháng yuē míng"

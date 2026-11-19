@@ -25,6 +25,7 @@ depend on anything a fresh clone lacks.
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Optional
 
 from .flat_yaml import inline_map, records, scalar
 
@@ -676,6 +677,7 @@ class Variant:
     base_english: str = ""
     location: str = ""
     legacy: bool = False
+    id: Optional[int] = None
 
     @property
     def followed_a_witness(self):
@@ -691,13 +693,23 @@ def load_variants(chapter=None):
     if not VARIANTS.exists():
         return []
     out = []
+    seen_ids = set()
     required = {"chapter", "line", "base", "meaning_bearing", "our_call", "note", "logged"}
-    fields = required | {"witnesses", "readings", "base_pinyin", "base_english"}
+    fields = required | {"id", "witnesses", "readings", "base_pinyin", "base_english"}
     for location, cur in records(VARIANTS, fields, maps={"witnesses"}, folded={"note"},
                                  blocks={"readings": Reading.__dataclass_fields__}):
         legacy = "witnesses" in cur
         if not required <= cur.keys() or legacy == ("readings" in cur):
             raise ValueError(f"{location}: expected all variant fields and exactly one reading form")
+        ident = None
+        if not legacy or "id" in cur:
+            value = cur.get("id", "")
+            if not re.fullmatch(r"[1-9][0-9]{0,15}", value) or int(value) >= 2**53:
+                raise ValueError(f"{location}: fork id must be a positive safe integer")
+            ident = int(value)
+            if ident in seen_ids:
+                raise ValueError(f"{location}: duplicate fork id {ident}")
+            seen_ids.add(ident)
         if not cur["chapter"].isdigit() or not 1 <= int(cur["chapter"]) <= 81:
             raise ValueError(f"{location}: expected a chapter from 1 to 81")
         if cur["meaning_bearing"] not in {"true", "false"}:
@@ -715,7 +727,7 @@ def load_variants(chapter=None):
             meaning_bearing=cur["meaning_bearing"] == "true", our_call=cur["our_call"],
             note=" ".join(cur["note"].split()), logged=cur["logged"], readings=readings,
             base_pinyin=cur.get("base_pinyin", ""), base_english=cur.get("base_english", ""),
-            location=location, legacy=legacy,
+            location=location, legacy=legacy, id=ident,
         ))
     if chapter is not None:
         out = [v for v in out if v.chapter == chapter]
