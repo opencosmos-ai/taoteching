@@ -345,7 +345,7 @@ So the book's first treasure is **maternal love**, named as such, in a chapter a
 
 **And the chapter claims it is the strongest thing there is.** 慈故能勇 — from tenderness, courage. 夫慈，以戰則勝，以守則固 — fight with it and you win, defend with it and you hold. That is not a metaphor and the commentators do not treat it as one. 王弼: 相慜而不避於難，故勝也 — *"they feel for one another and do not shirk danger, therefore they win."* 河上公: 百姓親附，并心一意 — *"the people draw close, joining hearts into one intent."* Both are describing unit cohesion. **An army whose people love each other does not break**, and armies are lost when they break.
 
-The chapter then names the failure mode with unusual violence. 王弼 glosses the particle 且 as 取, *to grab*: 今捨慈且勇 is **abandon tenderness and grab at courage** — courage taken directly, without the love it was supposed to come from. Same for reach without frugality, and the front without the rear. The verdict is two characters: 死矣. *That is death.*
+The chapter then names the failure mode with unusual violence. 王弼 glosses the particle 且 as 取, *to grab*: 今捨慈且勇 is **abandon tenderness and grab at courage** — courage taken directly, without the love it was supposed to come from. Same for reach without frugality, and being first without being last. The verdict is two characters: 死矣. *That is death.*
 
 Read with the feminine thread, this is the sharpest instance in the book. Chapter 61 argues that the female overcomes the male through stillness. Chapter 6 makes the valley spirit 玄牝, the dark female, the root of sky and earth. **Chapter 67 puts a mother's love at the head of a list of what makes a state survive a war** — and then says that a state which trades it for courage is already dead.
 
