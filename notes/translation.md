@@ -2057,6 +2057,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 26, 45 · 躁 → "restless," not "agitated" or "movement"
+
+*(2026-11-19, Shalom's call.)* One word for 躁 (*zào*) in its three lines. *Agitate* either stirs something, and 躁 moves itself, or names a mood, and the early texts' 躁 is impatience: speaking before one's turn (Analects 16.6), too many words (the Xici), rushing about (the Monthly Ordinances). *Restless* is *still*'s plain antonym. The argument: `glossary/jing-靜.md` → 躁.
+
+### Ch 52 · 天下有始 → "The world has a beginning," not "an origin"
+
+*(2026-11-19, Shalom's call.)* 始 (*shǐ*) reads *beginning* everywhere else in the book, and *origin* was the cooling the mother's entry refuses, in the line where the beginning becomes her. Now the line echoes ch 1's 天地之始 / 萬物之母. The argument: `glossary/mu-母.md` → 始.
+
 ### Ch 6 · 谷神 → "the spirit of the valley," and the valley stays a noun
 
 *(2026-10-25, Shalom's call.)* Wang Bi's grammar, 谷 (*gǔ*) as the valley, over Heshang Gong's 谷，養也 (*gǔ, yǎng yě* — "gǔ means to nourish"), which reads the chapter as breath through the nose and mouth. Taken without Wang Bi's emptiness, 谷中央無谷 (*gǔ zhōng yāng wú gǔ* — "the middle of the valley, where there is no valley"): the valley is land. *Nourish* is forbidden for 谷. The argument and its cost: `glossary/gu-谷.md`.

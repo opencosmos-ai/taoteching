@@ -309,14 +309,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 25,18,5,天法道，,"Tiān fǎ dào,","Heaven \[tian\] models/follows the law of \[fa\] the Tao \[dao\],","The sky models itself on the Tao,",authored
 25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,authored
 26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,authored
-26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness/silence \[jing\] functions as/is \[wei\] the master/ruler \[jun\] of the restless/agitated \[zao\].,Stillness is the ruler of the agitated.,authored
+26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness \[jing\] functions as/is \[wei\] the ruler \[jun\] of the restless \[zao\].,Stillness is the ruler of the restless.,authored
 26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the baggage wagons.",authored
 26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,"Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",How can the lord of ten thousand chariots,authored
 26,7,3,而以身輕天下？,Ér yǐ shēn qīng tiān xià?,And/yet \[er\] use \[yi\] their body/person \[shen\] lightly \[qing\] in the world \[tian xia\]?,make their own body light in the world?,authored
 26,8,4,輕則失本，,"Qīng zé shī běn,","Light/weightless \[qing\] then/thus \[ze\] loses \[shi\] the root/foundation \[ben\],",Lightness loses the root.,authored
-26,9,4,躁則失君。,Zào zé shī jūn.,Restless/agitated \[zao\] then/thus \[ze\] loses \[shi\] the master/ruler \[jun\].,Agitation loses the ruler.,authored
+26,9,4,躁則失君。,Zào zé shī jūn.,Restlessness \[zao\] then/thus \[ze\] loses \[shi\] the ruler \[jun\].,Restlessness loses the ruler.,authored
 27,1,1,善行無轍跡，,"Shàn xíng wú zhé jì,","Expert/masterful \[shan\] traveling/executing \[xing\] has no \[wu\] ruts/tracks \[zhe ji\],",Masterful traveling leaves no tracks.,authored
 27,2,1,善言無瑕謫，,"Shàn yán wú xiá zhé,","Expert/masterful \[shan\] speaking/words \[yan\] has no \[wu\] flaws/blemishes \[xia\] or blame \[zhe\],",Masterful speaking leaves no flaw.,authored
 27,3,1,善計不用籌策，,"Shàn jì bù yòng chóu cè,","Expert/masterful \[shan\] calculating/planning \[ji\] does not \[bu\] use \[yong\] counting rods/tallies \[chou ce\],",Masterful calculating uses no counting rods.,authored
@@ -523,7 +523,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 45,3,2,大直若屈，,"Dà zhí ruò qū,","Great straightness seems bent/crooked,",Great straightness seems crooked.,exact-count
 45,4,2,大巧若拙，,"Dà qiǎo ruò zhuō,","Great skill seems clumsy/clunky,",Great skill seems clumsy.,exact-count
 45,5,2,大辯若訥。,Dà biàn ruò nè.,Great eloquence seems stuttering/awkward.,Great argument seems halting.,exact-count
-45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Agitation/Movement overcomes cold, stillness overcomes heat.",Movement overcomes cold; stillness overcomes heat.,exact-count
+45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Restlessness overcomes cold, stillness overcomes heat.",Restlessness overcomes cold; stillness overcomes heat.,exact-count
 45,7,3,清靜為天下正。,Qīng jìng wéi tiān xià zhèng.,Clarity and stillness function as the standard/ruler for the world.,Clear stillness brings order to the world.,exact-count
 46,1,1,天下有道，卻走馬以糞。,"Tiān xià yǒu dào, què zǒu mǎ yǐ fèn.","When the world has the Tao, swift horses are retired to fertilize fields with their dung.","When the world embraces the Tao, swift horses are retired to work the fields.",exact-count
 46,2,1,天下無道，戎馬生於郊。,"Tiān xià wú dào, róng mǎ shēng yú jiāo.","When the world lacks the Tao, war horses are bred in the suburbs/borders.","When the world lacks the Tao, war horses are bred in the borderlands.",exact-count
@@ -570,7 +570,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 51,7,2,長之育之；亭之毒之；養之覆之。,Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.,"Grows them, rears them; shapes them, matures them; sustains them, covers/protects them.","grows and raises them, settles and matures them, nourishes and protects them.",authored
 51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting yet relying on nothing, / growing them without ruling them —",authored
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,authored
-52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has an origin, which serves as the mother of the world.",authored
+52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has a beginning, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
 52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","Know her children, return and hold fast to our mother, / and to the end of your days, no danger will find you.",authored
 52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not strain.","Block the openings, close the doors, and to the end of your days you will not strain.",authored

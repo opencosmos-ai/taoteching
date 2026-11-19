@@ -52,6 +52,18 @@
   entry: glossary/da-大.md
   # covers 小 -> small
 
+- term: "得 & 失"
+  pinyin: "dé / shī"
+  render: "get / lose"
+  forbidden: ["attain", "obtain", "forfeit"]
+  chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
+  status: open
+  entry: glossary/de-shi-得失.md
+  flexions:
+    - { english: "received", chapters: [39], why: "the one is not taken: the list is in the past, and each thing comes to have the one before it can lose it" }
+    - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
+    - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
+
 - term: "可"
   pinyin: "kě"
   render: "can be (可 + verb) / can (可以 + verb) / cannot (不可)"
@@ -99,6 +111,17 @@
   chapters: [2, 8, 15, 20, 27, 30, 41, 49, 50, 54, 58, 62, 65, 66, 68, 73, 79, 81]
   status: locked
   entry: glossary/shan-善.md
+
+- term: "言"
+  pinyin: "yán"
+  render: "words, speech (a noun) / speak (a verb)"
+  forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word"]
+  chapters: [2, 5, 8, 17, 22, 23, 27, 31, 41, 43, 56, 62, 66, 69, 70, 73, 78, 81]
+  status: open
+  entry: glossary/yan-言.md
+  flexions:
+    - { english: "saying", chapters: [41, 69], why: "a quoted saying, introduced by 有 (there is): the proverbs the chapter then cites" }
+    - { english: "say", chapters: [31], why: "言 opens an explanation, that is to say" }
 
 - term: "行"
   pinyin: "xíng"
@@ -149,6 +172,25 @@
     - { english: "yes", chapters: [20], why: "the assent itself, 說文's own sense, set beside 阿 (ē — a careless yeah)" }
   # covers 惟 -> only
 
+- term: "欲"
+  pinyin: "yù"
+  render: "desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)"
+  forbidden: ["lust", "covet", "the passions", "yearn"]
+  chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
+  status: open
+  entry: glossary/yu-欲.md
+
+- term: "貴 & 賤"
+  pinyin: "guì / jiàn"
+  render: "prize (verb), prized (a state) / cheap, cheapen"
+  forbidden: ["humble", "lowly", "esteem"]
+  chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
+  status: open
+  entry: glossary/gui-jian-貴賤.md
+  flexions:
+    - { english: "status", chapters: [9], why: "富貴 is a fixed pair, wealth and high price in people: rank" }
+  # covers 尊 -> honor
+
 - term: "事"
   pinyin: "shì"
   render: "affairs / undertakings (noun) · to serve, to attend to (verb)"
@@ -175,6 +217,21 @@
   status: locked
   entry: glossary/qiang-強.md
   # covers 力 -> force
+
+- term: "先 & 後"
+  pinyin: "xiān / hòu"
+  render: "ahead, or before in time / behind, or after in time"
+  forbidden: ["precede", "superior", "inferior", "humility"]
+  chapters: [2, 4, 7, 14, 25, 30, 38, 62, 65, 66, 67]
+  status: open
+  entry: glossary/xian-hou-先後.md
+  flexions:
+    - { english: "older", chapters: [4], why: "象帝之先, before 帝 in time, read as 帝's locked phrase: older than any god" }
+    - { english: "back", chapters: [2, 14], why: "the back of a thing, a noun, against 前's front" }
+    - { english: "then", chapters: [38, 65], why: "而後 and 然後, after-that as a conjunction" }
+    - { english: "last", chapters: [7], why: "Shalom's call, 2026-11-19: the snap of last and first is kept, and its echo of Matthew 20:16 is a known cost" }
+    - { english: "first", chapters: [7], why: "Shalom's call, 2026-11-19, with last" }
+  # covers 前 -> front
 
 - term: "明"
   pinyin: "míng"
@@ -343,6 +400,26 @@
   binds: [taoteching]
   # covers 谿 -> ravine
 
+- term: "靜"
+  pinyin: "jìng"
+  render: "still, stillness (a state) / still (a verb, to make still)"
+  forbidden: ["tranquil", "serene", "serenity", "meditat", "quietude", "passive", "inert", "agitat"]
+  chapters: [15, 16, 26, 37, 45, 57, 61]
+  status: open
+  entry: glossary/jing-靜.md
+  # covers 躁 -> restless, restlessness
+
+- term: "希"
+  pinyin: "xī"
+  render: "few (of a count) / barely heard (of a sound)"
+  forbidden: ["rare", "scarce", "seldom", "whisper"]
+  chapters: [14, 23, 41, 43, 70, 74]
+  status: open
+  entry: glossary/xi-希.md
+  flexions:
+    - { english: "inaudible", chapters: [14], why: "the definition passage names the three by their meanings, Shalom's call (2026-09-10)" }
+    - { english: "brevity", chapters: [23], why: "sparse speech, read as Heshang Gong's quantity; Shalom's line (2026-09-03)" }
+
 - term: "弱"
   pinyin: "ruò"
   render: "yielding — and the verb *yield* where it makes something so"
@@ -419,6 +496,7 @@
   chapters: [1, 20, 25, 52, 59]
   status: locked
   entry: glossary/mu-母.md
+  # covers 始 -> beginning
 
 - term: "自然"
   pinyin: "zì rán"
@@ -461,6 +539,17 @@
   entry: glossary/bao-保.md
   flexions:
     - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
+
+- term: "神 & 靈"
+  pinyin: "shén / líng"
+  render: "spirit / potent"
+  forbidden: ["god", "divine", "deity", "holy", "soul", "demon", "devil"]
+  chapters: [6, 29, 39, 60]
+  status: open
+  entry: glossary/shen-ling-神靈.md
+  flexions:
+    - { english: "sacred", chapters: [29], why: "神 qualifies a made thing: a 神器 is a vessel for the spirits, a ritual bronze" }
+  # covers 鬼 -> ghost
 
 - term: "公"
   pinyin: "gōng"

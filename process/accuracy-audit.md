@@ -105,7 +105,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **14 · Ch 45 · 躁勝寒 (*zào shèng hán* — "agitation overcomes cold") → *"Movement overcomes cold."***
 **Shift.** 躁 (*zào* — agitation, restlessness) reads *agitated* and *agitation* at ch 26, in the same pair: 靜為躁君 (*jìng wéi zào jūn* — "stillness is the ruler of the agitated"). *Movement* turns a fault into a neutral fact and breaks the 靜 / 躁 (*jìng / zào* — still / agitated) pair between the two chapters. Not logged.
-**Proposed:** *"Agitation overcomes cold; stillness overcomes heat."* This belongs to the 靜 (*jìng* — stillness) entry, which `glossary/TRIAGE.md` already queues with 躁 (*zào* — agitation) as its opposite.
+**Proposed:** *"Agitation overcomes cold; stillness overcomes heat."* This belongs to the 靜 (*jìng* — stillness) entry, which `glossary/TRIAGE.md` already queues with 躁 (*zào* — agitation) as its opposite. **Done, 2026-11-19 (Shalom's call),** as *"Restlessness overcomes cold; stillness overcomes heat,"* with ch 26's two lines: *agitation* failed in both its English senses (`glossary/jing-靜.md`).
 
 **15 · Ch 27 · 不貴其師，不愛其資，雖智大迷 (*bù guì qí shī, bù ài qí zī, suī zhì dà mí* — "not to value the teacher, not to love the material: though clever, greatly lost") → *"Not valuing the master and not loving their raw material is a sign of great confusion. / Even those who appear intelligent are lost."***
 **Added:** *is a sign of*, *appear*. **Doubled:** 大迷 (*dà mí* — greatly lost) is rendered twice, once as *great confusion* and once as *lost*. The Chinese is one sentence: whoever fails both ways is greatly lost, however clever.

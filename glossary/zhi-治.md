@@ -51,7 +51,7 @@ Ten of twelve are *govern*, and the two that are not are the two where the objec
 **And 王弼 (*Wáng Bì*) says what the governing consists of, at chapter 60:**
 
 > 治大國若烹小鮮 → **不擾也。**躁則多害，靜則全真。故其國彌大，而其主彌靜。
-> *"治 is **not to disturb**. Agitation (躁 zào) brings much harm; stillness (靜 jìng) keeps the genuine whole. So the larger the state, the stiller its ruler."*
+> *"治 is **not to disturb**. Restlessness (躁 zào) brings much harm; stillness (靜 jìng) keeps the genuine whole. So the larger the state, the stiller its ruler."*
 
 烹小鮮 (*pēng xiǎo xiān*) is cooking a small fish: turn it too often and it falls apart. **So 治 in this book is not intervention.** It is keeping a thing in its course — which is exactly what one does to a river, and exactly what 亂 is the failure of.
 

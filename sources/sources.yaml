@@ -192,6 +192,16 @@
   kind: context
   use: facts
 
+- id: chuci-zhangju
+  name: "Wang Yi's commentary on the Songs of Chu"
+  kind: context
+  use: facts
+
+- id: book-of-rites
+  name: "Book of Rites"
+  kind: context
+  use: facts
+
 - id: baxter-sagart
   name: "Baxter and Sagart's Old Chinese reconstructions"
   kind: reference
