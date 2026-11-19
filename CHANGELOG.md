@@ -35,6 +35,15 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 The [source catalogue](sources/SOURCES.md) now brings together the printings, stored sources, and recorded evidence. Individual variant readings carry their own glosses and print-check provenance. Glossary citations carry their own locators and indicate incomplete recovery. The export carries the same information for the Library and Character Atlas, including the extent of each Guodian attestation. See the [export contract](ARCHITECTURE.md#source-registry-contract).
 
+- **One authored home for each fact.** [`sources/sources.yaml`](sources/sources.yaml) holds the sources no stored file describes, and [`sources/SOURCES.md`](sources/SOURCES.md) is generated from it, the apparatus, the stored files' frontmatter and the glossary's `refs`. The duplicate lists in `README.md`, `process/method.md`, `AGENTS.md` and `source/chinese.md` became links.
+- **Every reading pairs its own pinyin and English.** All 125 forks moved to `readings:` blocks. Seven readings the old parser cut off at a comma are whole again. 32 readings the old build labeled "editorial" now name their witness.
+- **Every fork has a permanent ID**, taken from the `next-fork-id` counter in the apparatus's header. `check_fork_ids.py` fails a PR that lowers the counter or hands out an ID below it, so a link to a fork never changes meaning ([*The gates*](ARCHITECTURE.md#the-gates)).
+- **A fork can cite its evidence** in `refs:`, as a glossary entry does. Chapter 11's is the first, citing the Guangyun and two Taiwan Ministry of Education dictionaries.
+- **Glossary citations start honest, not complete.** 46 citations in 15 entries were recovered at launch, and every entry is marked `refs_status: incomplete` until its citations are checked. The `glossary-entry` skill now recovers them as entries are touched.
+- **Dictionary readings for the Atlas.** The export's `chars[].shuowen` carries a *Shuowen* definition's English, and its own pinyin where the dictionary's sense is pronounced apart from the text ([`sources/shuowen-readings.yaml`](sources/shuowen-readings.yaml)).
+- **Chapter 11 reads 埏埴 (*shān zhí* — knead clay).** *(was: yán zhí.)* Heshang Gong's pronunciation note spells *shān*. *Yán* is the same graph's other word, "the far reaches of the earth." The English is unchanged. `notes/manuscript.md` → *Ch 11*, and the withdrawn reading is registered in `process/retractions.yaml`.
+- **A weekly link report.** `source-links.yml` probes every source URL in the export and keeps one issue for links that fail twice in a row.
+
 ## 2026-11-18 — 和 (hé) settled: harmony throughout, and chapters 4 and 56 stop dimming the light
 
 和 had no entry, and two of its eight lines rendered a commentator's word in place of the character.

@@ -143,11 +143,13 @@ covers:
 | `pairing` | `true` if the meaning lives between two characters |
 | `covers` | secondary characters treated inside this entry |
 | `binds` | the books this lock holds in, e.g. `[taoteching]`. **Omit it** and the lock holds in every book that vendors `terms.yaml` — the I Ching does, as its own lock table. Set it only where another book has ruled the character differently on purpose, and say why in the entry's prose (`jiu-咎.md`, `you-尤.md`) |
-| `shuowen` | Xu Shen's 說文 line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer and `data/` exports; omit it rather than guess |
+| `shuowen` | Xu Shen's 說文 (*Shuōwén* — the c. 100 CE dictionary) line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer, the `data/` exports, and the export's `chars[].shuowen` for the Atlas's dictionary section; omit it rather than guess. A graph with no entry can take its dictionary English, and the pinyin of the dictionary's own sense, from `sources/shuowen-readings.yaml` |
 | `refs` | A block of flat mappings with a catalogue `source` id and a passage `locator` or `url`. Use `via` for an intermediary that provided the evidence, `edition` for a catalogue edition id, and `at` for an entry heading anchor. |
 | `refs_status` | `incomplete` while citations are still being recovered. Use `complete` after checking the entry's citations. |
 
 Keep bibliographic names and editions in the [sources catalogue](../../../sources/SOURCES.md). Keep the passage locator with the entry that uses it.
+
+**Recover citations as you go.** Every entry began `refs_status: incomplete`, and the export publishes that label for readers. When you write or revise an entry, move the evidence its text already names into `refs`. Take it from the entry and the sources themselves, never from memory. Set `complete` only when every claim's citation has been checked. A source a citation names needs its record in [`sources/sources.yaml`](../../../sources/sources.yaml), added in the same change if it is new.
 
 **Flexions go in `flexions:`, never in a sentence inside `render:`.**
 

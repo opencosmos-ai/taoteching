@@ -98,7 +98,7 @@ Two intentions, both sacred:
 
 **Tie-breaking order:** characters and radicals → oldest witnesses → classical commentaries → internal consistency and the locks → this edition's ethos → Shalom's poetic intuition, exercised *after* the deepest reading is on the table.
 
-**Consult the sources — they are in the repo, and this is not optional.** The commentaries of Wang Bi, Heshang Gong and Han Fei are vendored in `sources/commentaries/`. Run `concordance.py --witnesses N` and `--commentary N` before drafting a chapter and before changing a settled line: from the files, not from memory or a search engine. A blank `--witnesses` result means nobody has checked that chapter yet, not that it has no forks. **Quote, gloss, and cite them; never copy their English.** **When they disagree, that is the finding**: log it, never average it. Record a new fork in `sources/variants.yaml` as a **fact, never a transcription** — read `sources/PROVENANCE.md` before adding anything to `sources/`.
+**Consult the sources — they are in the repo, and this is not optional.** The commentaries of Wang Bi, Heshang Gong and Han Fei are vendored in `sources/commentaries/`. Run `concordance.py --witnesses N` and `--commentary N` before drafting a chapter and before changing a settled line: from the files, not from memory or a search engine. A blank `--witnesses` result means nobody has checked that chapter yet, not that it has no forks. **Quote, gloss, and cite them; never copy their English.** **When they disagree, that is the finding**: log it, never average it. Record a new fork in `sources/variants.yaml` as a **fact, never a transcription** — read `sources/PROVENANCE.md` before adding anything to `sources/`. A fork takes a permanent `id:` from the apparatus's `next-fork-id`, each reading carries its own pinyin, English and evidence, and a source new to the edition gets its record in `sources/sources.yaml`: the `chapter-review` skill gives the fields.
 
 **The locks live in [`glossary/INDEX.md`](glossary/INDEX.md)**, generated from each entry's frontmatter. Read it; never keep a second copy.
 
@@ -114,7 +114,7 @@ Watch **register** too: KJV cadence, devotional capitals, abstraction drift — 
 
 - **`chapters/NNN.md` is the manuscript.** Edit it directly; nothing regenerates over it. `source/archive-google-doc-final-export-2026-08-09.md` is a frozen archive: never edit it and never generate from it. Git history is the translation's edit history, so commit meaningfully.
 - **A chapter's frontmatter is not evidence that the chapter is sound.** `status: drafted` has sat on chapters with whole lines missing. A chapter's open debt is the open `WORKLIST.md` rows naming it. **Read the page.**
-- **Never hand-edit a generated file**: `glossary/INDEX.md`, `glossary/terms.yaml`, `process/principles/INDEX.md`, `sources/commentaries/`, `sources/shuowen/`, `data/`. Rebuild them. `ARCHITECTURE.md` lists what generates what.
+- **Never hand-edit a generated file**: `glossary/INDEX.md`, `glossary/terms.yaml`, `process/principles/INDEX.md`, `sources/SOURCES.md`, `sources/commentaries/`, `sources/shuowen/`, `data/`. Rebuild them. `ARCHITECTURE.md` lists what generates what.
 - **Every verse line ends in two trailing spaces**, a hard break. Run `fix-linebreaks.py` after editing verse, and never trim trailing whitespace from `.md` here.
 - **The literal glosses in the source tables speak pre-lock English** ("virtue", "the ten thousand things"). A starting point, never a reading.
 - **A correction has two halves: fix the line, and register the claim** in `process/retractions.yaml`, so `check_retractions.py` fails on every other copy.
@@ -143,8 +143,9 @@ python3 tools/concordance.py --commentary 63      # Wang Bi and Heshang Gong on 
 python3 tools/build_index.py                      # after any glossary edit
 python3 tools/build_principles.py                 # after any principles edit
 python3 tools/fix-linebreaks.py                   # after editing any verse
+python3 tools/build_sources.py                    # after editing sources/ or an entry's refs: SOURCES.md is gated
 python3 tools/build_db.py && python3 tools/export.py && python3 tools/build_graph.py \
-  && python3 tools/export_atlas.py                # after editing chapters or glossary: data/ is gated
+  && python3 tools/export_atlas.py                # after editing chapters, glossary or sources: data/ is gated
 python3 -m unittest discover -s tools/tests       # the tools' own tests; CI runs the rest
 ```
 

@@ -40,6 +40,8 @@ The ancient texts are free. The Laozi is roughly 2,400 years old; Wang Bi died i
 3. **Its frontmatter names that source exactly** — work, author, edition, dates, host, and URL.
 4. **Any modern editorial layer is either absent, excluded, or marked.** Punctuation especially.
 
+**Every source, stored or not, is catalogued once.** A stored file's edition, host and URL live in its frontmatter, written by its importer, and the build fails if the two disagree. [`sources.yaml`](sources.yaml) holds what no other file states: the sources recorded only as facts, the ones consulted, and the base text's printings. [`SOURCES.md`](SOURCES.md) is generated from both, so add a source in one of those places and never in the catalogue page.
+
 ## Excavated
 
 **No transcriptions of the excavated manuscripts.** The **Mawangdui** silks were excavated in 1973 and the **Guodian** slips in 1993. Reconstructing their damaged and missing graphs — the brackets, the □ marks, the conjectural readings — is **genuine editorial work by living scholars**, not faithful transcription of anything. Reproducing a reconstruction reproduces the scholarship.

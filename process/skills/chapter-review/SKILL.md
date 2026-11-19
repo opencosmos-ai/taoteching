@@ -53,6 +53,14 @@ Check the [textual witnesses](../../../sources/SOURCES.md#the-text-and-its-copie
 
 **Record what you find in `sources/variants.yaml`** — as *facts*, never as transcriptions, and never by copying anyone's reconstruction of a damaged graph. `sources/PROVENANCE.md` explains why, and it is a licensing rule, not a preference. Once recorded, `check_locks.py`'s `unlogged-variant` rule will fail the build if a meaning-bearing fork has no logged decision, so the apparatus and `notes/manuscript.md` cannot drift apart.
 
+**A fork has a shape the build checks.** The apparatus's header and the forks already in it are the model.
+
+- **`id:`** is the header's `next-fork-id`. Advance the counter in the same change. Never reuse or renumber an ID: a reader may link to it, and `check_fork_ids.py` fails the PR.
+- **`base_pinyin` and `base_english`, and each reading's `pinyin` and `english`**, are written for that reading, tone-marked. Never take them from the source table's literal column, which speaks pre-lock English.
+- **A reading you did not read yourself in a stored source names how it reached you**: `via:` the intermediary, and `locator:` or `url:` the passage. A reading seen only in an online transcription is `verification: pending-print`, with `confirm:` naming its open `WORKLIST.md` row.
+- **Dictionary or reference evidence for the call** goes in the fork's `refs:`, as an entry's does.
+- **A source new to the edition** gets its record in [`sources/sources.yaml`](../../../sources/sources.yaml) in the same change. Then run `build_sources.py` and the rebuild. CI fails on an unknown source, a reading without its own gloss, and a print check without its row.
+
 **Consult sources for *meaning*, never for *phrasing*.** Pre-1931 public domain only. Waley (1934) and everything later is off-limits. If a phrase arrives in your head fully formed and elegant, be suspicious of where it came from.
 
 ---
