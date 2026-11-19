@@ -64,7 +64,7 @@ refs:
 >
 > — chapter 67
 
-> *to abandon being last and grab at being first.*
+> *to abandon being last and grab at being first,*
 >
 > 捨後且先，
 >
