@@ -4,7 +4,7 @@ pinyin: "guì / jiàn"
 render: "prize (verb), prized (a state) / cheap, cheapen"
 flexions:
   - { english: "status", chapters: [9], why: "富貴 is a fixed pair, wealth and high price in people: rank" }
-forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase"]
+forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase", "precious"]
 chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
 status: open
 pairing: true
@@ -92,7 +92,7 @@ refs:
 
 **"Lowly."** The same moral pricing as *humble*, in a softer coat.
 
-**"Precious."** On 貨's forbidden list, because it makes chapter 3's line circular (*"do not treasure the precious"*). Spent on 貴 at chapters 70, 72 and 75, it also makes the sage's prized few and prized life sound like jewels. Those three chapters hold no 貨, so no check sees it; the ruling holds by argument (see below).
+**"Precious."** On 貨's forbidden list, because it makes chapter 3's line circular (*"do not treasure the precious"*). Spent on 貴 at chapters 70, 72 and 75, it also makes the sage's prized few and prized life sound like jewels. It is now forbidden for 貴 as well.
 
 **"Honor," "honored," for 貴.** 尊's word. At chapters 56 and 62 it broke the price scale and collided with 尊 in the same chapter.
 
@@ -106,7 +106,7 @@ refs:
 
 | line | grammar | English |
 |---|---|---|
-| 不貴難得之貨 (3, 64) · 貴大患 · 貴以身 (13) · 貴食母 (20) · 不貴其師 (27) · 貴左 · 貴右 (31) · 貴德 (51) · 貴此道 (62) · 不自貴 (72) · 貴生 (75) | a verb, with an object | *prize* (72, 75 recommended; 27, 51 and 62 Shalom's call, 2026-11-19) |
+| 不貴難得之貨 (3, 64) · 貴大患 · 貴以身 (13) · 貴食母 (20) · 不貴其師 (27) · 貴左 · 貴右 (31) · 貴德 (51) · 貴此道 (62) · 不自貴 (72) · 貴生 (75) | a verb, with an object | *prize* (27, 51, 62, 72 and 75 by Shalom's call, 2026-11-19) |
 | 侯王無以貴高 · 故貴以賤為本 (39) · 則我者貴 (70) · 德之貴 (51) | a state | *prized* · *prizing* (51 and 70 Shalom's call, 2026-11-19) |
 | 為天下貴 (56, 62) | a state, as a noun | *the most prized in the world* |
 | 不可得而貴，不可得而賤 (56) | verbs, the scale | *prize… cheapen* |
@@ -117,7 +117,7 @@ refs:
 
 ### What no rule can enforce
 
-***Precious* is ruled out for 貴, and cannot be forbidden yet.** Chapters 70, 72 and 75 print it now, and forbidding it would report all three at once. Once they change, it can join this list.
+***Precious* is forbidden** since chapters 70, 72 and 75 left it (2026-11-19).
 
 ***Honor* is ruled out for 貴, and can never be forbidden here.** 尊 shares chapters 51 and 62 with 貴 and legitimately prints it. The distinction lives in this entry and in the reader.
 
@@ -127,7 +127,7 @@ refs:
 
 ### Left open
 
-**Two lines would change, and each is Shalom's call.** (Chapters 27, 51, 56, 62 and 70 were settled on 2026-11-19.) 72 (*hold themselves precious* → *prize themselves*); 75 (*hold life precious* → *prize life*).
+**No line waits on this entry.** Chapters 17, 27, 51, 56, 62, 70, 72 and 75 were settled on 2026-11-19, all by Shalom's call.
 
 **Heshang Gong's fear at chapter 13 is a real reading.** 貴，畏也 makes the line a warning, *fear great trouble as you fear for your body*, and the rest of the chapter, which is about shock at favor and disgrace, can carry it. The verse follows Wang Bi and the price. A reader of the chapter should know the line has two faces.
 

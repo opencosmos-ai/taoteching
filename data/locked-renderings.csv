@@ -1516,7 +1516,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 72,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Do not crowd people in their homes. Do not oppress their livelihoods.
 72,3,唯,wéi,唯,only,yes,1.0,authored,Only because you do not oppress them do they not tire of you.
 72,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"And so the sage knows themselves and does not display themselves,"
-72,5,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,loves themselves and does not hold themselves precious.
+72,5,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,loves themselves and does not prize themselves.
 73,1,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,Bravery in pushing gets you killed.
 73,2,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,Bravery in not pushing keeps you alive.
 73,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"Of these two, one benefits and one harms."
@@ -1553,12 +1553,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,2,為,wéi,為,do / handle / serve as,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
 75,3,民,Mín,民,the people,yes,1.0,authored,The people make light of death because those over them want their own lives so rich.
 75,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The people make light of death because those over them want their own lives so rich.
-75,4,唯,wéi,唯,only,yes,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-75,4,為,wéi,為,do / handle / serve as,yes,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-75,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
-75,4,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who hold life precious.
+75,4,唯,wéi,唯,only,yes,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
+75,4,為,wéi,為,do / handle / serve as,yes,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
+75,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
+75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
+75,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
+75,4,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
 76,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,柔,róu,柔,soft,yes,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."

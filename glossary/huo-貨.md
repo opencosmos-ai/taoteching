@@ -81,7 +81,7 @@ A thief, in the oldest analysis of the graph, is **someone salivating over a ves
 
 ### What is set aside, and why
 
-**"precious" — it is 貴's word, and it makes the line circular.** 貴 renders *precious* at chapters 70, 72 and 75, and *prize* as a verb at 20 and 64. In chapters 3 and 64 貴 is the verb standing directly over 貨, so *"do not prize precious goods"* puts one character's English on top of another and argues in a circle. **Forbidding it here is safe**: 貴 occurs in chapters 3 and 64 *only* inside 不貴, verbal both times, so no legitimate claimant for *precious* exists in either chapter.
+**"precious" — the near English of 貴 (*guì* — to prize), and it makes the line circular.** 貴 reads *prize* and *prized* throughout the book; it read *precious* at chapters 70, 72 and 75 until 2026-11-19, and *precious* is now forbidden for 貴 too (`glossary/gui-jian-貴賤.md`). In chapters 3 and 64 貴 is the verb standing directly over 貨, so *"do not prize precious goods"* puts one character's English on top of another and argues in a circle. **Forbidding it here is safe**: 貴 occurs in chapters 3 and 64 *only* inside 不貴, verbal both times, so no legitimate claimant for *precious* exists in either chapter.
 
 **"treasure" / "treasures" — it is 寶's word.** 寶 has chapters 62, 67 and 69 and never shares a chapter with 貨, so the words can be kept apart cleanly. And the senses genuinely differ: 寶 is a hoard under a roof, the three 寶 of chapter 67 that one 持而保之 (*chí ér bǎo zhī* — "holds and keeps safe"). 貨 is the opposite motion.
 

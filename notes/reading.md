@@ -439,7 +439,7 @@ The graph is 爻 (crossed threads) over 巾 (a cloth): **fabric woven so loosely
 
 Rarity and inaudibility are not two meanings. They are the same property — *thinly distributed* — read once across a crowd and once across a sound. The book's ideal of speech (ch 23) and the book's account of its own reception (ch 70) turn out to be **the same word**: Laozi speaks sparsely, and is sparsely heard.
 
-**And then the couplet does something with it.** 知我者希，則我者貴 — *those who know me are few; those who pattern themselves on me are prized.* 希 (few) is followed immediately by 貴 (*guì* — precious), and the pairing is not accidental: scarcity is where value comes from, an association old enough in Chinese to be proverbial. **河上公 makes the link explicit — 希少也…故為貴也**, *"希 means few… therefore they are precious."* It is the only warmth in the chapter, and it is addressed to whoever is still reading.
+**And then the couplet does something with it.** 知我者希，則我者貴 — *those who know me are few; those who pattern themselves on me are prized.* 希 (few) is followed immediately by 貴 (*guì* — prized), and the pairing is not accidental: scarcity is where value comes from, an association old enough in Chinese to be proverbial. **河上公 makes the link explicit — 希少也…故為貴也**, *"希 means few… therefore they are precious."* It is the only warmth in the chapter, and it is addressed to whoever is still reading.
 
 **則 is worth a second look, too.** 則 (*zé*) is 鼎 (a bronze cauldron) beside 刀 (a knife): **a law cut into bronze.** Hence "rule, pattern", and as a verb, *to take as one's pattern*. 則我者 is not merely someone who agrees — it is someone who has **cut this into their own metal**. Rendered *"those who pattern themselves on me"* rather than "those who follow me": following is a direction, patterning is a shape.
 
@@ -513,7 +513,7 @@ Three consecutive chapters open on the same collapse and give it three different
 
 The arc is worth reading as one movement. 72 says the fear is gone. 74 says you cannot restore it with more killing. 75 says you spent it yourself, on your own living. And 75 escalates through three appetites to get there — for grain, for control, for life — which is why its answer is not a policy but a release: 無以生為, *make no doing of your living*. The ruler who stops making a project of being alive stops charging the people for it.
 
-And the closing line reaches back to 72 by its own character. 貴生 (*guì shēng* — a life held precious) is the 貴 of 不自貴 (*bù zì guì*), two chapters earlier: *"loves themselves and does not hold themselves precious."* 72 asks it of a self; 75 shows what it costs a country when a ruler will not.
+And the closing line reaches back to 72 by its own character. 貴生 (*guì shēng* — a life prized) is the 貴 of 不自貴 (*bù zì guì*), two chapters earlier: *"loves themselves and does not prize themselves."* 72 asks it of a self; 75 shows what it costs a country when a ruler will not.
 
 Ch 50's 生生之厚 is the same diagnosis without the throne: *because they cling too tightly to life.* Laozi aims it at rulers in 75 and at everyone in 50.
 

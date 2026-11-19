@@ -1875,6 +1875,8 @@ A pass through the last line rendered both as *wear*: *"wears coarse cloth, but 
 
 ### Ch 72 · "loves themselves and does not hold themselves precious"
 
+*(Superseded 2026-11-19: "does not prize themselves"; see the entry above, Ch 72, 75.)*
+
 自愛，不自貴 turns on a distinction English usually blurs. 貴 (*guì*) sits on 貝, a **cowrie shell** — it means *costly* before it means *honoured*, and ch 70 already renders it *precious*. **You can love a thing without pricing it.** That is the line, and it is the answer to the chapter's first half: a ruler who has set their own price high has to keep collecting on it, which is what the crowding is.
 
 *Not "exalt" — ch 3 already spends that word on 尚 (尚賢, "exalting the exceptional"). 河上公 splits the pair cleanly: 自愛其身以保精氣也 (bodily — preserving vital essence and energy) against 不自貴高榮名於世 (social — glory and fame).*
@@ -1949,7 +1951,7 @@ Ch 75 closes each of its three charges by repeating the word it opened on: 民�
 
 ### Ch 75 · 賢 against 貴 — merit against standing, and why "noble" cannot be used
 
-是賢於貴生 (*shì xián yú guì shēng*) → **"are worthier than those who hold life precious."**
+是賢於貴生 (*shì xián yú guì shēng*) → **"are worthier than those who hold life precious."** *(Superseded 2026-11-19: "those who prize life.")*
 
 **The line judges a person.** 無以生為者 carries 者 (*zhě* — the one who), and 河上公 glosses the whole payoff as a person's condition: 天子不得臣，諸侯不得使 — *"the Son of Heaven cannot make them a subject; the feudal lords cannot employ them."* A draft rendered it *"value life more than those who prize it"* and thereby turned a claim about persons into a theory of value. Caught by Shalom, 2026-08-26.
 
@@ -1967,7 +1969,7 @@ Ch 75 closes each of its three charges by repeating the word it opened on: 民�
 
 ### Ch 75 · 貴生 and the ch 72 echo
 
-貴生 (*guì shēng*) → **"a life held precious."** 貴 (*guì* — to prize, to hold dear) is the same character as ch 72's 自愛，不自貴 (*zì ài, bù zì guì*), rendered there as *"loves themselves and does not hold themselves precious."* Keeping one English across the two makes the thread audible: ch 72 tells you not to hold **yourself** precious, and ch 75 names holding your **life** precious as the reason the people go hungry. See the 72 → 74 → 75 thread in `notes/reading.md`.
+貴生 (*guì shēng*) → **"a life held precious."** *(Superseded 2026-11-19: "prize.")* 貴 (*guì* — to prize, to hold dear) is the same character as ch 72's 自愛，不自貴 (*zì ài, bù zì guì*), rendered there as *"loves themselves and does not hold themselves precious."* Keeping one English across the two makes the thread audible: ch 72 tells you not to hold **yourself** precious, and ch 75 names holding your **life** precious as the reason the people go hungry. See the 72 → 74 → 75 thread in `notes/reading.md`.
 
 ### Ch 76 · 強 stays *strong* in all five places — the chapter is an ambush on the word
 
@@ -2056,6 +2058,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 72, 75 · 不自貴 / 貴生 → "does not prize themselves" / "those who prize life"
+
+*(2026-11-19, Shalom's call.)* One verb for the 貴 that links the chapters; *precious* now forbidden for 貴. `glossary/gui-jian-貴賤.md`.
 
 ### Ch 70 · 則我者貴 → "are prized"
 
@@ -2243,7 +2249,7 @@ Two drafts failed first, both by leaving the destination unnamed. *cross between
 
 *respect / honour / be humble before death* (proposed). All three make death an **object of reverence**, a power one stands before — and every one of them would sit in a sermon without a ripple. 重死 is a disposition toward one's own life ending, not a posture toward Death. 王弼: 惟身是寶, *"they treasure only their own bodies."*
 
-**And the plainest English of all is a trap: *loath to die* / *unwilling to die* renders 貴生, not 重死** — and Ch 75 **criticises** 貴生, which we render *"those who hold life precious."* The book distinguishes a life that has weight to you (重死, approved here) from clutching at it (貴生, warned against there). A rendering that collapses them would make Ch 80 recommend what Ch 75 rejects. This is the argument that decided the line. (Shalom flagged *hold* and then *make much of* as incongruous, 2026-08-26; both flags were right.)
+**And the plainest English of all is a trap: *loath to die* / *unwilling to die* renders 貴生, not 重死** — and Ch 75 **criticises** 貴生, which we render *"those who prize life."* The book distinguishes a life that has weight to you (重死, approved here) from clutching at it (貴生, warned against there). A rendering that collapses them would make Ch 80 recommend what Ch 75 rejects. This is the argument that decided the line. (Shalom flagged *hold* and then *make much of* as incongruous, 2026-08-26; both flags were right.)
 
 ### Ch 81 · 美 → *pretty*, and why "fine" was the near miss
 
