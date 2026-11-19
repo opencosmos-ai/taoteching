@@ -4,7 +4,7 @@ pinyin: "huò / fú"
 render: "disaster / fortune"
 forbidden: ["bless", "luck", "misfortune", "calamity", "woe"]
 chapters: [46, 58, 65, 69]
-status: open
+status: locked
 pairing: true
 covers:
   - { char: "罪", render: "crime" }
@@ -36,7 +36,7 @@ refs:
 
 *Say "hwaw," falling, and "foo," rising. 禍 stands four times in three chapters, 福 three times in two, and in chapter 58 they stand in each other's lines. Two altar words, and the book never puts anyone at the altar.*
 
-**Recommended: 禍 → "disaster" · 福 → "fortune," and "good fortune" where it stands without its partner (65).** *(Not "blessing," which brings a blesser the book never names. Not "luck," which makes chance of what the book makes of conduct. Not "misfortune," which names 禍 by 福 and drops the harm. Not "calamity," which is 殃 (yāng — calamity)'s.)* **Covered:** 罪 (*zuì* — crime) → *crime*.
+**Locked: 禍 → "disaster" · 福 → "fortune," and "good fortune" where it stands without its partner (65).** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "blessing," which brings a blesser the book never names. Not "luck," which makes chance of what the book makes of conduct. Not "misfortune," which names 禍 by 福 and drops the harm. Not "calamity," which is 殃 (yāng — calamity)'s.)* **Covered:** 罪 (*zuì* — crime) → *crime*.
 
 ### The graph: two altars, one full and one refused
 

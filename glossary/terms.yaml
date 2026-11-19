@@ -560,7 +560,7 @@
   render: "disaster / fortune"
   forbidden: ["bless", "luck", "misfortune", "calamity", "woe"]
   chapters: [46, 58, 65, 69]
-  status: open
+  status: locked
   entry: glossary/huo-fu-禍福.md
   # covers 罪 -> crime
 
