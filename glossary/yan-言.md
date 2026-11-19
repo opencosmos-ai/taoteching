@@ -82,13 +82,15 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 ### Chapter 17: they prize their words, and their words are answered
 
-> *The greatest leaders speak sparingly.*
+> *Hesitant, they prize their words.*
 >
 > 悠兮其貴言。
 >
 > — chapter 17
 
-**The line has 貴 (*guì* — to prize) and 言, and our English renders neither.** 悠兮其貴言 is *"unhurried, they prize their words."* Wang Bi says what the prizing is: 無物可以易其言，言必有應，故曰悠兮其貴言也, *"nothing can take the place of their words, and their words always meet an answer; so it says, unhurried, they prize their words."* The greatest leaders speak little because each word counts, and each is answered. *Speak sparingly* keeps the result and loses the reason, and 貴's price word with it (`glossary/gui-jian-貴賤.md`). Recommended: *"Unhurried, they prize their words."*
+**The line has 貴 (*guì* — to prize) and 言, and until 2026-11-19 our English rendered neither**: *"The greatest leaders speak sparingly."* Wang Bi says what the prizing is: 無物可以易其言，言必有應，故曰悠兮其貴言也, *"nothing can take the place of their words, and their words always meet an answer; so it says, they prize their words."* The greatest leaders speak little because each word counts, and each is answered. *Speak sparingly* kept the result and lost the reason, and 貴's price word with it (`glossary/gui-jian-貴賤.md`).
+
+**The first word is a fork, and the English follows the witnesses.** Our base alone prints 悠 (*yōu*), by its own editors' note; Heshang Gong, the silks and every other edition print 猶 (*yóu* — hesitant), chapter 15's *"Hesitant, like someone wary of the neighbors."* The base's 悠 points the same way: the Shuowen gives it 憂也, *anxious care*. Heshang Gong: 太上之君舉事猶貴重於言, *"the highest ruler, in undertaking affairs, still prizes words and weighs them."* (Shalom's call, 2026-11-19; `sources/variants.yaml` fork 126.)
 
 ### What the commentators did with it
 
@@ -114,7 +116,7 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 | line | grammar | English |
 |---|---|---|
-| 豈虛言哉 (22) · 美言 (62) · 吾言 · 言有宗 (70) · 正言 (78) · 信言 · 美言 (81) · 貴言 (17) | a noun, what is said | *words* (17 recommended) |
+| 豈虛言哉 (22) · 美言 (62) · 吾言 · 言有宗 (70) · 正言 (78) · 信言 · 美言 (81) · 貴言 (17) | a noun, what is said | *words* |
 | 知者不言，言者不知 (56) · 不言而善應 (73) · 以言下之 (66) | a verb | *speak* |
 | 多言 (5) · 言善信 (8) · 希言 (23) · 善言 (27) | the act | *speech* · *speaking* |
 | 不言之教 (2, 43) | a formula | *the teaching without words* (43 recommended) |
@@ -129,7 +131,7 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 ### Left open
 
-**Two lines would change, and both are Shalom's call.** Chapter 43's *the wordless teaching* → *the teaching without words*, to match chapter 2; chapter 17's *the greatest leaders speak sparingly* → *unhurried, they prize their words*, which also restores 貴 (`WORKLIST.md` T2-36) and drops *the greatest leaders*, supplied from the chapter's first line.
+**One line would change, and it is Shalom's call.** Chapter 43's *the wordless teaching* → *the teaching without words*, to match chapter 2. (Chapter 17 became *"Hesitant, they prize their words"* on 2026-11-19.)
 
 **Chapter 5's 多言數窮 loses 多 (*duō* — much).** *"Speaking of this is a dead end"* renders 言 and drops the *much*, which is the line's point: not speech but too much of it, against 守中 (*shǒu zhōng* — "hold to the center"). And 數 is contested: Wang Bi's sound note reads it as reckoning, a later note as *often*. The line wants its own reading.
 

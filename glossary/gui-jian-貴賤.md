@@ -115,7 +115,7 @@ refs:
 | 不可得而貴，不可得而賤 (56) | verbs, the scale | *prize… cheapen* (recommended) |
 | 以賤為本 (39) ×2 | a state | *the cheap* |
 | 富貴 (9) | a fixed pair | *wealth and status* — flexion |
-| 貴言 (17) | a verb | decided with the 言 (*yán* — speech) entry; now *speak sparingly*, which renders neither character |
+| 貴言 (17) | a verb | *prize their words* (Shalom's call, 2026-11-19) |
 | 尊道 · 道之尊 (51) · 市尊 (62) | 尊 | *honor* · *honoring* (51 recommended) |
 
 ### What no rule can enforce
@@ -130,7 +130,7 @@ refs:
 
 ### Left open
 
-**Ten lines would change, and each is Shalom's call.** Chapter 27 (*value* → *prize*); 51 ×2 (*revere… value* → *honor… prize*; *reverence… valuing* → *honoring… prizing*); 56 ×2 (*honor nor debase* → *prize nor cheapen*; *the most honored* → *the most prized*); 62 ×2 (*honor this Tao* → *prize this Tao*; *the most honored* → *the most prized*); 70 (*precious* → *prized*); 72 (*hold themselves precious* → *prize themselves*); 75 (*hold life precious* → *prize life*). Chapter 17's 貴言 waits for the 言 entry.
+**Ten lines would change, and each is Shalom's call.** Chapter 27 (*value* → *prize*); 51 ×2 (*revere… value* → *honor… prize*; *reverence… valuing* → *honoring… prizing*); 56 ×2 (*honor nor debase* → *prize nor cheapen*; *the most honored* → *the most prized*); 62 ×2 (*honor this Tao* → *prize this Tao*; *the most honored* → *the most prized*); 70 (*precious* → *prized*); 72 (*hold themselves precious* → *prize themselves*); 75 (*hold life precious* → *prize life*).
 
 **Heshang Gong's fear at chapter 13 is a real reading.** 貴，畏也 makes the line a warning, *fear great trouble as you fear for your body*, and the rest of the chapter, which is about shock at favor and disgrace, can carry it. The verse follows Wang Bi and the price. A reader of the chapter should know the line has two faces.
 
