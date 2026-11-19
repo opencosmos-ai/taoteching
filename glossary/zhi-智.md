@@ -49,7 +49,7 @@ The 白 here is not *white*. It is Xu Shen's 白 radical, which he calls another
 >
 > — chapter 33
 
-> *Not to value the teacher, not to love the raw material:*
+> *Not to prize the teacher, not to love the raw material:*
 > *however clever, one is greatly lost.*
 >
 > 不貴其師，不愛其資，
