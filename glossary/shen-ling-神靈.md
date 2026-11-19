@@ -12,6 +12,13 @@ covers:
   - { char: "鬼", render: "ghost" }
 refs_status: incomplete
 refs:
+  - { source: shuowen, via: kangxi, locator: "Entry for the rain graph at the top of ling: rain falling, the three mouths picturing the drops" }
+  - { source: book-of-odes, via: kangxi, locator: "Odes of Yong, Ding zhi fang zhong: the ling rain has fallen, with Zheng Xuan's gloss, ling means good; and Major Odes, the ling terrace, with Mao's gloss on spirit at its brightest" }
+  - { source: documents, via: kangxi, locator: "Great Declaration: humankind alone is the ling of the countless things" }
+  - { source: dadai-liji, via: kangxi, locator: "The essence-breath of yang is shen, of yin is ling" }
+  - { source: guangyun, via: kangxi, locator: "Entry for ling: blessing; a shaman" }
+  - { source: book-of-rites, via: kangxi, locator: "Tan Gong: the straw figures buried with the dead" }
+  - { source: wikisource, locator: "Qiu pan inscription, the closing prayer for a ling end", url: "https://zh.wikisource.org/wiki/%E9%80%91%E7%9B%A4" }
   - { source: shuowen, locator: "Altar radical, entry for shen (the spirits of the sky, which draw out the countless things)" }
   - { source: shuowen, locator: "Jade radical, entry for the old form of ling (a shaman who serves the spirits with jade)" }
   - { source: shuowen, locator: "Ghost radical, entry for gui (what a person returns to)" }
@@ -50,6 +57,24 @@ refs:
 **The Shuowen files 靈 under jade, and the bronzes could not agree on what to put beneath it.** Over a constant 霝 (*líng* — drops of rain falling), the lower half is 玉 (*yù* — jade) in the Shuowen, 巫 (*wū* — a shaman) in the form we print, and 心 (*xīn* — the heart) or 示 (*shì* — the altar) in older bronzes. Four answers to one question: where does spirit arrive? In a precious stone, in a dancer, in a heart, at an altar.
 
 *A calibration.* 霝 counts as sound in the Shuowen, and the rain in it may be only that. The popular reading of 靈 as a rain-shaman is attractive and unproved, and this entry does not lean on it. The silks point the same way: in the collated silk text, chapter 39 writes 神得一以霝 (*shén dé yī yǐ líng*), the bare sound part with nothing beneath it, which is how a scribe writes a word by its sound. What the graph does show is a person, or a thing, through which the spirits are served.
+
+### The word before the book: falling rain, a good end, a spirit made bright
+
+The Shuowen gives the graph. The word is older, and its early uses, gathered in the Kangxi Dictionary (康熙字典, *Kāngxī Zìdiǎn*, 1716), say what it meant before Laozi used it.
+
+**霝, the top of the graph, is rain coming down in drops.** The Shuowen's own entry for it, as the Kangxi quotes it: 霝，雨零也。从雨，𠱠象零形, *"霝: rain falling. From 雨 (yǔ — rain); the three mouths picture the falling drops."* In the 靈 entry the Shuowen counts 霝 as sound; in its own entry it is a picture. The Book of Odes has 霝雨其濛 (*"the falling rain drizzles"*), and the Stone Drums have 霝雨.
+
+**The oldest written 靈 here is a blessing on how a life ends.** The 逑盤 (*Qiú pán*), a Western Zhou bronze basin, closes its prayer 永令、霝冬, *"a lasting mandate, and a 霝 end,"* which its transcribers read as 靈終 (*líng zhōng* — a 靈 ending). Elsewhere the same wish is 令終 (*lìng zhōng*), *a good end*, and 令 (*lìng*) and 靈 trade places by sound.
+
+**In the Odes, 靈 is good, and it is rain.** 靈雨既零 (*líng yǔ jì líng* — "the 靈 rain has fallen," 鄘風 (*Yōng Fēng*), *Dìng zhī fāng zhōng*), and Zheng Xuan's gloss: 靈，善也, *"靈 means good."* The rain the farmers prayed for, fallen when it should. The *Guangyun* (廣韻, *Guǎngyùn*) adds 福也, *"blessing,"* and 巫也, *"a shaman."*
+
+**In the Documents and the Odes' commentary, 靈 is spirit at its brightest.** 惟人萬物之靈 (*wéi rén wàn wù zhī líng* — "humankind alone is the 靈 of the countless things," *Shàngshū*, *Tài Shì*), glossed 靈，神也, *"靈 is spirit."* On King Wen's 靈臺 (*líng tái* — the 靈 terrace), Mao's commentary: 神之精明者稱靈, *"what is most essential and bright in spirit is called 靈."*
+
+**The Dadai Liji pairs it with 神 as two halves:** 陽之精氣曰神，陰之精氣曰靈, *"the essence-breath of yang is called 神; the essence-breath of yin is called 靈."* That is the pairing this entry is built on, already made in the Han.
+
+**And 靈 belongs to the dead as much as the living.** The posthumous-name rules: 死見神能曰靈, *"one who shows spirit-power after death is called 靈."* The *Liji*'s 芻靈 (*chú líng*) are straw figures buried with the dead; the later 靈柩 (*líng jiù*) is the coffin and 靈位 (*líng wèi*) the spirit tablet.
+
+**One thread runs through all of it: spirit where it takes effect and shows.** Rain that falls when it is prayed for. An end that comes out right. A shaman the spirit enters. A spirit bright enough to answer, before death or after it. 靈 is not life, and it is not the stuff of life. It is the moment the unseen acts on the seen.
 
 ### Seven lines, and 神 is never a god in any of them
 
@@ -186,7 +211,11 @@ In the oracle bones 鬼 is a figure with an outsized head, usually read as a mas
 
 **"Numinous," for 靈.** Latin *numen*, a nod of the head, the assent of a god, and then a god's power. Rudolf Otto made *the numinous* the word for the holy as it is felt, in *Das Heilige* (1917), translated as *The Idea of the Holy* (1923). It fails both tests at once. It is a theologian's word for the holy, and no one could point at it. It cannot go on `forbidden:` until chapter 39 has its new English.
 
-**"Alive," "come alive," "living."** 生 (*shēng*)'s, two lines further down chapter 39, and needed there.
+**"Alive," "come alive," "living."** Three reasons, and the first is the etymology. **靈 is not life.** It belongs to the dead as readily as to the living: the posthumous 靈 who shows spirit-power after death, the straw 靈 in the grave, the spirit tablet. *Alive* would deny it to half the beings it names. **Second, chapter 39 needs *alive* for another word.** Its list gives six things six qualities, and Wang Bi names them as six, 清寧靈盈生貞; 靈 and 生 (*shēng* — to live) are two of them, two lines apart. *Spirit… became alive* above *the countless things… came to life* would make spirit and the countless things receive the same gift, and erase the difference the list exists to make. **Third, the word is spoken for twice over:** 生 prints *live* and *alive* in nine lines (7, 33, 34, 39, 50, 73, 75), and 魄 (*pò*) holds *aliveness* at chapter 10 (`glossary/po-魄.md`).
+
+**"Vital."** The strongest rival, and the Dadai Liji gives it its case: 陰之精氣曰靈, 靈 is the *essence-breath* of yin. But that line defines 靈 by its kind, the way a dictionary names a genus, and giving 靈 the genus's English is rendering a gloss (`process/principles/commentary-is-not-rendering.md`). **The English is also taken**: *vital essence* is 精 (*jīng*)'s locked English (21, 55), and `glossary/po-魄.md` already set *vitality* aside for that collision. **And *vital* has the double meaning *agitation* had.** It means *full of life*, and it means *essential*, as in *vital to*. *Spirit received the one, and so became vital* reads first as *became necessary*. Neither sense is 靈's: not life, and not importance.
+
+**"Blessed," "good."** The Odes' 靈，善也 and the *Guangyun*'s 福也 are real senses. *Blessed* fails the hymn test outright; *good* is right for the rain and empty for a spirit.
 
 **"Quick."** The old English sense is exact, *alive and responsive*, and it is the King James Bible's: *the quick and the dead*. It fails the hymn test, and a modern reader hears *fast*.
 

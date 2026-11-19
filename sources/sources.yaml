@@ -202,6 +202,16 @@
   kind: context
   use: facts
 
+- id: documents
+  name: "Book of Documents"
+  kind: context
+  use: facts
+
+- id: dadai-liji
+  name: "Dadai Liji, the Elder Dai's Record of Rites"
+  kind: context
+  use: facts
+
 - id: baxter-sagart
   name: "Baxter and Sagart's Old Chinese reconstructions"
   kind: reference
