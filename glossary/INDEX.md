@@ -17,7 +17,7 @@ python3 tools/build_index.py
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
-| **得 & 失** | *dé / shī* | get / lose · *received* (ch 39) · *unavoidable* (ch 30, 31) · *find* (ch 62) | "attain", "obtain", "forfeit" | 23 | open — not yet a lock | [`de-shi-得失.md`](de-shi-得失.md) |
+| **得 & 失** | *dé / shī* | get / lose · *received* (ch 39) · *unavoidable* (ch 30, 31) · *touch* (ch 14) · *find* (ch 62) | "attain", "obtain", "forfeit" | 23 | open — not yet a lock | [`de-shi-得失.md`](de-shi-得失.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 19 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |

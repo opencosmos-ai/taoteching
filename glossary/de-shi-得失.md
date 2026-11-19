@@ -5,6 +5,7 @@ render: "get / lose"
 flexions:
   - { english: "received", chapters: [39], why: "the one is not taken: the list is in the past, and each thing comes to have the one before it can lose it" }
   - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
+  - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
   - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 forbidden: ["attain", "obtain", "forfeit"]
 chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
@@ -30,7 +31,7 @@ refs:
 
 *Say "duh," rising, and "shr," level. 得 stands thirty-three times in thirty lines across nineteen chapters; 失 seventeen times across eight. The commonest verbs of having in the language, and the book weighs them against each other in chapter after chapter.*
 
-**Recommended: 得 → "get" · 失 → "lose."** *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Three flexions:** *received* at chapter 39, *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, and *find* at chapter 62, kept by Shalom's call (2026-11-19).
+**Recommended: 得 → "get" · 失 → "lose."** *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Four flexions:** *received* at chapter 39, *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, *touch* at chapter 14, and *find* at chapter 62, the last two kept by Shalom's call (2026-11-19).
 
 ### The graph: a step, and a hand letting go
 
@@ -78,7 +79,7 @@ refs:
 
 ### Getting as a modal, and the idiom
 
-**Before a verb, 得 is *can*, *get to*.** 搏之不得 (*bó zhī bù dé* — "reach for it, and you cannot get it," 14); 不可得而親 and its five siblings at chapter 56, where 可 (*kě* — can)'s *cannot* carries the line; 吾得執而殺之 (*wú dé zhí ér shā zhī* — "I could seize them and kill them," 74). The English modal absorbs it, as English does.
+**Before a verb, 得 is *can*, *get to*.** 搏之不得 (*bó zhī bù dé* — "reach for it, and you cannot get it," 14) reads *touch*, and keeps it: Heshang Gong frames chapter 14's triad as colour, sound and form, 無色 · 無聲 · 無形, so the three lines are sight, hearing and touch. Chinese has 見 (*jiàn* — to see) and 聞 (*wén* — to hear) for the first two and uses the generic 得 for the third; English has *touch*. *Grasp* was the line until 2026-09-08 and is ruled out: it is 執 (*zhí*)'s locked English, and 執古之道 (*"Grasp the ancient Tao"*) stands thirteen lines below, so the English would tell the reader they cannot grasp it and then to grasp it. The Chinese uses two characters for two acts (`chapters/014.md`). Then 不可得而親 and its five siblings at chapter 56, where 可 (*kě* — can)'s *cannot* carries the line; 吾得執而殺之 (*wú dé zhí ér shā zhī* — "I could seize them and kill them," 74). The English modal absorbs it, as English does.
 
 **不得其死 (*bù dé qí sǐ* — "not get their death") at chapter 42 is an idiom**, dying before one's span. Heshang Gong: 不得以壽命死也, *"they do not get to die of their allotted years."* *Do not die a natural death* renders it.
 
@@ -116,7 +117,8 @@ refs:
 | 天得一 ×7 (39) | a verb, the one | *received* — flexion |
 | 不得已 (30, 31) | an idiom | *unavoidable* — flexion |
 | 吾見其不得已 (29) | 不得 + a closing 已 | *will not get it* (recommended) |
-| 搏之不得 (14) · 吾得執 (74) | a modal | *cannot get* · *could* (14 recommended) |
+| 搏之不得 (14) | a modal, the third sense | *cannot touch* — flexion, Shalom's call |
+| 吾得執 (74) | a modal | *could* |
 | 不可得而 (56) ×6 | a modal, inside 可's *cannot* | *you cannot* |
 | 不得其死 (42) | an idiom | *do not die a natural death* |
 | 既得其母 (52) | a verb | *find* (held open) |
@@ -132,7 +134,7 @@ refs:
 
 ### Left open
 
-**Six lines would change, and each is Shalom's call.** 14 (*cannot touch it* → *cannot get it*), 22 (*gain* → *get*), 29 (*will not succeed* → *will not get it*), 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
+**Five lines would change, and each is Shalom's call.** 22 (*gain* → *get*), 29 (*will not succeed* → *will not get it*), 44 (*Gain or loss* → *Getting or losing*, with 亡 as above), 46 (with T2-86, *wanting to get*), 73 (*nothing slips through* → *it loses nothing*). Chapter 62 keeps *find*.
 
 **Chapter 52's *find*.** *Find our mother, and you know her children* is good English, and Wang Bi's 得本以知末 (*"get the root to know the branches"*) is a getting. *Find* suggests she was lost, which chapter 52 does not say; *get* sounds like taking possession of a mother. Left as it stands until the line is read again.
 

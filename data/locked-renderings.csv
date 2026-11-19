@@ -268,7 +268,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 14,2,名,míng,名,name,yes,1.0,authored,"Look, but you cannot see it — its name is the invisible."
 14,4,名,míng,名,name,yes,1.0,authored,"Listen, but you cannot hear it — its name is the inaudible."
 14,4,希,xī,希,few (of a count) / barely heard (of a sound),yes,1.0,authored,"Listen, but you cannot hear it — its name is the inaudible."
-14,5,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
+14,5,得,dé,得 & 失,get,yes,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
 14,6,名,míng,名,name,yes,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
 14,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,These three defy comprehension.
 14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Therefore, they mix into one."

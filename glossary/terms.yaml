@@ -62,6 +62,7 @@
   flexions:
     - { english: "received", chapters: [39], why: "the one is not taken: the list is in the past, and each thing comes to have the one before it can lose it" }
     - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
+    - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
     - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 
 - term: "可"
