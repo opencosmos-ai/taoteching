@@ -2,7 +2,7 @@
 term: "欲"
 pinyin: "yù"
 render: "desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)"
-forbidden: ["lust", "covet", "the passions", "yearn", "craving"]
+forbidden: ["lust", "covet", "the passions", "yearn", "craving", "wish"]
 shuowen: "Greedy wanting. From 欠 (a person with the mouth open), with 谷 (a valley) for sound."
 chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
 status: open
@@ -151,7 +151,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 | 寡欲 (19) | a state | *diminish desire* |
 | 不欲以靜 (37) | a state, no verb after | *not desiring* |
 | 可欲 (3) | 可 + 欲, a fixed noun | *the desirable* — 可's flexion |
-| 不欲盈 (15) · 不欲琭琭 (39) · 不欲見賢 (77) | 欲 + verb, negated | *do not want to…* (77 recommended; 15 Shalom's call, 2026-11-19) |
+| 不欲盈 (15) · 不欲琭琭 (39) · 不欲見賢 (77) | 欲 + verb, negated | *do not want to…* (15 and 77 Shalom's call, 2026-11-19) |
 | 欲作 (37) · 欲得 (46) · 欲兼畜人 · 欲入事人 (61) · 欲上民 · 欲先民 (66) | 欲 + verb | *want to…* |
 | 所欲 (61) | 所 + 欲, what is wanted | *what they want* |
 | 欲不欲 (64) | the reflexive formula | *wants the not-wanting* — one verb on both sides, as at chapter 63 |
@@ -161,7 +161,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 ### What no rule can enforce
 
-***Wish* is ruled out, and cannot go on the list yet**, while chapter 77 prints it. *Craving* joined the list on 2026-11-19; *urge* and *relinquish* left the verse with chapter 37.
+***Wish* and *craving* are forbidden** since chapters 77 and 46 left them (2026-11-19); *urge* and *relinquish* left the verse with chapter 37.
 
 ***Want* also renders 求 (*qiú* — to seek) at chapter 75**, in *"those over them want their own lives so rich"* (以其上求生之厚, *yǐ qí shàng qiú shēng zhī hòu*). 欲 is not in chapter 75, so no rule sees the collision; only `concordance.py --english "want"`, run by hand, does. 求 is seeking, a search with hands, and it has its own English to find.
 
@@ -169,7 +169,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 ### Left open
 
-**One line needs new English, and it is Shalom's call.** Chapter 77's *have no wish to appear exceptional*. (Chapters 15, 37, 46 and 66 were settled on 2026-11-19.)
+**No line waits on this entry.** Chapters 15, 37, 46, 66 and 77 were settled on 2026-11-19, all by Shalom's call; 欲 now reads *desire*, *want* or *would* in every one of its lines, by grammar.
 
 **The silks have two readings our base does not, and neither is yet recorded per silk.** Chapter 57's 我欲不欲 and chapter 37's 不辱 were read in Wikisource's collated silk text, which does not say which silk prints which. Both want rows in `sources/variants.yaml` once checked against each silk. The base and both commentaries print 我無欲 and 無欲 / 不欲, and we keep them.
 

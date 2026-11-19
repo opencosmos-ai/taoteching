@@ -29,7 +29,7 @@ python3 tools/build_index.py
 | **歸 & 復 & 反** | *guī / fù / fǎn* | return / return, go back / returning | "home", "revert", "reversion", "the Return", "eternal return", "source" | 16 | **locked** | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) |
 | **萬物** | *wàn wù* | the countless things | "the ten thousand things", "all things", "the myriad things", "beings" | 16 | **locked** | [`wanwu-萬物.md`](wanwu-萬物.md) |
 | **唯** | *wéi* | only · *yes* (ch 20) | "precisely" | 15 | **locked** | [`wei-唯.md`](wei-唯.md) |
-| **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving" | 15 | open — not yet a lock | [`yu-欲.md`](yu-欲.md) |
+| **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving", "wish" | 15 | open — not yet a lock | [`yu-欲.md`](yu-欲.md) |
 | **貴 & 賤** | *guì / jiàn* | prize (verb), prized (a state) / cheap, cheapen · *status* (ch 9) | "humble", "lowly", "esteem", "value", "revere", "debase", "precious" | 15 | open — not yet a lock | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |

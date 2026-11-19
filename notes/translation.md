@@ -2059,6 +2059,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 77 · 其不欲見賢 → "They do not want to appear exceptional"
+
+*(2026-11-19, Shalom's call.)* 欲 with a verb after it reads *want*, as at ch 15 and 39. `glossary/yu-欲.md`.
+
 ### Ch 73 · 疏而不失 → "yet it loses nothing"
 
 *(2026-11-19, Shalom's call.)* 失 keeps *lose*, answering ch 29 and 64's grasper; *slips through* rendered the later proverb's 漏. `glossary/de-shi-得失.md`.

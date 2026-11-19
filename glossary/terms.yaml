@@ -178,7 +178,7 @@
 - term: "欲"
   pinyin: "yù"
   render: "desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)"
-  forbidden: ["lust", "covet", "the passions", "yearn", "craving"]
+  forbidden: ["lust", "covet", "the passions", "yearn", "craving", "wish"]
   chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
   status: open
   entry: glossary/yu-欲.md
