@@ -43,7 +43,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 強,qiáng,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",locked,,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",locked,mighty; forceful; brute strength; perseverance,22,12,"3,15,25,29,30,33,36,42,52,55,76,78",3,78,4.15,glossary/qiang-強.md
 曰,yuē,is called / says,grammar,,,,,22,8,"14,16,24,25,52,55,62,67",14,67,4.15,
 用,yòng,use,covers,,use,locked,,22,15,"4,6,11,27,28,31,35,40,45,50,52,57,68,69,80",4,80,4.15,glossary/wu-you-無有.md
-貴,guì,"prize (verb), prized (a state)",open,,"prize (verb), prized (a state)",open,humble; lowly; esteem,22,15,"3,9,13,17,20,27,31,39,51,56,62,64,70,72,75",3,75,4.15,glossary/gui-jian-貴賤.md
+貴,guì,"prize (verb), prized (a state)",open,,"prize (verb), prized (a state)",open,humble; lowly; esteem; value; revere,22,15,"3,9,13,17,20,27,31,39,51,56,62,64,70,72,75",3,75,4.15,glossary/gui-jian-貴賤.md
 事,shì,"affairs / undertakings (noun) · to serve, to attend to (verb)",locked,,"affairs / undertakings (noun) · to serve, to attend to (verb)",locked,techniques; processes,21,14,"2,8,17,23,30,31,48,52,57,59,61,63,64,70",2,70,3.97,glossary/shi-事.md
 萬,wàn,countless,covers,,countless,locked,,21,17,"1,2,4,5,8,16,26,32,34,37,39,40,42,51,62,64,76",1,76,3.97,glossary/wanwu-萬物.md
 言,yán,"words, speech (a noun) / speak (a verb)",open,,"words, speech (a noun) / speak (a verb)",open,utterance; discourse; rhetoric; eloquence; eloquent; the Word; wordless; without words,21,18,"2,5,8,17,22,23,27,31,41,43,56,62,66,69,70,73,78,81",2,81,3.97,glossary/yan-言.md
@@ -331,7 +331,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 譽,yù,"praise (verse reads 輿, cart)",word,,,,,3,2,"17,39",17,39,0.57,
 賊,zéi,thieves (盜賊) / rob (65),word,,,,,3,3,"19,57,65",19,65,0.57,
 賢,xián,exceptional / worthier (75),word,,,,,3,3,"3,75,77",3,77,0.57,
-賤,jiàn,"cheap, cheapen",open,,"cheap, cheapen",open,humble; lowly; esteem,3,2,"39,56",39,56,0.57,glossary/gui-jian-貴賤.md
+賤,jiàn,"cheap, cheapen",open,,"cheap, cheapen",open,humble; lowly; esteem; value; revere,3,2,"39,56",39,56,0.57,glossary/gui-jian-貴賤.md
 躁,zào,"restless, restlessness",covers,,"restless, restlessness",open,,3,2,"26,45",26,45,0.57,glossary/jing-靜.md
 辯,biàn,argue / argument (45),word,,,,,3,2,"45,81",45,81,0.57,
 退,tuì,withdraw / retreat / give up (69),word,,,,,3,3,"9,41,69",9,69,0.57,
