@@ -555,6 +555,15 @@
     - { english: "sacred", chapters: [29], why: "神 qualifies a made thing: a 神器 is a vessel for the spirits, a ritual bronze" }
   # covers 鬼 -> ghost
 
+- term: "禍 & 福"
+  pinyin: "huò / fú"
+  render: "disaster / fortune"
+  forbidden: ["bless", "luck", "misfortune", "calamity", "woe"]
+  chapters: [46, 58, 65, 69]
+  status: open
+  entry: glossary/huo-fu-禍福.md
+  # covers 罪 -> crime
+
 - term: "公"
   pinyin: "gōng"
   render: "impartiality / impartial (the quality) · lord / minister (the office)"

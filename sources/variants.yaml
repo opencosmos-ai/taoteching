@@ -691,12 +691,17 @@
   readings:
     - { source: "mawangdui-a", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire", annotation: "A third, earlier clause in the sequence of calamities." }
     - { source: "fuyi", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire" }
+    - { source: "heshanggong", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire", annotation: "Heshang Gong's own text carries the clause, and glosses it as loving lewd beauty (hào yín sè yě); the Siku Wang Bi's collation note says the same." }
   meaning_bearing: true
   our_call: base
   note: >
     The older witnesses remember a rising three-beat — crime/desire,
     disaster/discontent, fault/greed — that the received text trimmed to two.
-    We keep the received pair and note the fuller crescendo.
+    We keep the received pair and note the fuller crescendo. Heshang Gong's
+    reading added 2026-11-19, from the vendored Song text and the Siku
+    collation note 河上公注本此句上有罪莫大於可欲一句 (hé shàng gōng zhù běn
+    cǐ jù shàng yǒu zuì mò dà yú kě yù yī jù — "the Heshang Gong recension has,
+    above this line, the line 'no crime is greater than the wantable'").
   logged: notes/manuscript.md
 
 - chapter: 46

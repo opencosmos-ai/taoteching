@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**85 entries.** Sorted by how much of the book each term touches.
+**86 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -70,6 +70,7 @@ python3 tools/build_index.py
 | **亂** | *luàn* | disorder | "chaos", "chaotic" | 4 | **locked** | [`luan-亂.md`](luan-亂.md) |
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
+| **禍 & 福** | *huò / fú* | disaster / fortune | "bless", "luck", "misfortune", "calamity", "woe" | 4 | open — not yet a lock | [`huo-fu-禍福.md`](huo-fu-禍福.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
@@ -124,6 +125,7 @@ python3 tools/build_index.py
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
+| **罪** | crime | [`huo-fu-禍福.md`](huo-fu-禍福.md) — 禍 & 福 |
 | **義** | duty | [`ren-仁.md`](ren-仁.md) — 仁 |
 | **能** | be able | [`ke-可.md`](ke-可.md) — 可 |
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |

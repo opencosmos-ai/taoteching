@@ -242,7 +242,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 畜,xù,rear,word,,,,,4,3,"10,51,61",10,61,0.76,
 盜,dào,thieves,word,,,,,4,4,"3,19,53,57",3,57,0.76,
 祥,xiáng,"omen (不祥, ill omen)",word,,,,,4,3,"31,55,78",31,78,0.76,
-禍,Huò,disaster,word,,,,,4,3,"46,58,69",46,69,0.76,
+禍,Huò,disaster,open,,disaster,open,bless; luck; misfortune; calamity; woe,4,3,"46,58,69",46,69,0.76,glossary/huo-fu-禍福.md
 絕,Jué,cut off,word,,,,,4,2,"19,20",19,20,0.76,
 繩,Shéng,"cord / rope (27) / continuous (繩繩, 14)",word,,,,,4,3,"14,27,80",14,80,0.76,
 軍,jūn,army / military / general (將軍),word,,,,,4,3,"30,31,50",30,50,0.76,
@@ -315,7 +315,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 直,zhí,straight / straightness,word,,,,,3,3,"22,45,58",22,58,0.57,
 真,zhēn,real / truth / authentic,word,,,,,3,3,"21,41,54",21,54,0.57,
 矜,jīn,boast / pride oneself (自矜),word,,,,,3,3,"22,24,30",22,30,0.57,
-福,fú,fortune / good fortune (65),word,,,,,3,2,"58,65",58,65,0.57,
+福,fú,fortune,open,,fortune,open,bless; luck; misfortune; calamity; woe,3,2,"58,65",58,65,0.57,glossary/huo-fu-禍福.md
 私,sī,the private / the private self,covers,,the private / the private self,locked,,3,2,"7,19",7,19,0.57,glossary/gong-公.md
 積,jī,accumulate / hoard (81),word,,,,,3,2,"59,81",59,81,0.57,
 立,lì,stand / raise up (62),word,,,,,3,3,"24,25,62",24,62,0.57,
@@ -682,7 +682,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 綵,cǎi,"colored silk, colorful",word,,,,,1,1,53,53,53,0.19,
 繟,Chǎn,unhurried / slack,word,,,,,1,1,73,73,73,0.19,
 纇,lèi,"rough, knotted",word,,,,,1,1,41,41,41,0.19,
-罪,zuì,crime,word,,,,,1,1,62,62,62,0.19,
+罪,zuì,crime,covers,,crime,open,,1,1,62,62,62,0.19,glossary/huo-fu-禍福.md
 置,zhì,install,word,,,,,1,1,62,62,62,0.19,
 羸,léi,weak/fragile,apparatus,1/1,,,,1,1,29,29,29,0.19,
 耀,yào,dazzle,word,,,,,1,1,58,58,58,0.19,

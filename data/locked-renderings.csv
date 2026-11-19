@@ -1000,6 +1000,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 46,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,2,道,dào,道,the Tao / way,yes,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,3,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"There is no greater disaster than not knowing you have enough,"
+46,3,禍,Huò,禍 & 福,disaster,yes,1.0,exact-count,"There is no greater disaster than not knowing you have enough,"
 46,4,咎,Jiù,咎,fault,yes,1.0,exact-count,no greater fault than wanting to get.
 46,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,no greater fault than wanting to get.
 46,4,得,dé,得 & 失,get,yes,1.0,exact-count,no greater fault than wanting to get.
@@ -1225,6 +1226,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,13,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"I am desireless, and the people become plain of themselves."
 58,1,民,mín,民,the people,yes,1.0,exact-count,"When the government is dull and undiscerning, the people are pure and honest."
 58,2,民,mín,民,the people,yes,1.0,exact-count,"When the government is sharp and prying, the people turn cunning."
+58,3,禍,Huò,禍 & 福,disaster,yes,1.0,exact-count,Disaster is what fortune leans on;
+58,3,福,fú,禍 & 福,fortune,yes,1.0,exact-count,Disaster is what fortune leans on;
+58,4,禍,huò,禍 & 福,disaster,yes,1.0,exact-count,fortune is where disaster hides.
+58,4,福,Fú,禍 & 福,fortune,yes,1.0,exact-count,fortune is where disaster hides.
 58,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,Who knows where it ends? It has no fixed norm —
 58,5,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Who knows where it ends? It has no fixed norm —
 58,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,"The straight turns crooked, the good turns monstrous."
@@ -1312,6 +1317,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 62,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,What made the ancients prize this Tao?
 62,9,得,dé,得 & 失,get,yes,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
 62,9,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
+62,9,罪,zuì,禍 & 福,crime,yes,1.0,authored,"Did they not say: seek, and you find; commit a crime, and you are spared?"
 62,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And so it becomes the most prized in the world.
 62,10,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,And so it becomes the most prized in the world.
 62,10,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,And so it becomes the most prized in the world.
@@ -1390,6 +1396,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,4,智,zhì,智,cleverness / clever,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
+65,4,福,fú,禍 & 福,fortune,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,6,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,Always knowing the pattern is called profound integrity.
 65,6,德,dé,德,integrity,yes,1.0,authored,Always knowing the pattern is called profound integrity.
 65,6,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,Always knowing the pattern is called profound integrity.
@@ -1492,6 +1499,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 69,7,執,Zhí,執,grasp,yes,1.0,exact-count,grasping where there is no weapon.
 69,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,grasping where there is no weapon.
 69,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,There is no disaster greater than making light of the enemy.
+69,8,禍,Huò,禍 & 福,disaster,yes,1.0,exact-count,There is no disaster greater than making light of the enemy.
 69,9,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,Making light of the enemy nearly costs me my treasures.
 70,1,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"My words are very easy to know, very easy to follow."
 70,1,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"My words are very easy to know, very easy to follow."
