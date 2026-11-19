@@ -91,9 +91,9 @@ refs:
 
 ### 失: one hand, and it opens
 
-失 is *lose* in every line but one: 23's *loss* (a noun of it), 26's *lightness loses the root*, 29 and 64's *those who grasp it lose it*, 33's *does not lose their place*, 38's four losses down the ladder. Wang Bi on chapter 23 says what losing is: 失，累多也, *"to lose is to carry too much."* The hand that grasps too much is the hand that lets go.
+失 is *lose* in every line: 23's *loss* (a noun of it), 26's *lightness loses the root*, 29 and 64's *those who grasp it lose it*, 33's *does not lose their place*, 38's four losses down the ladder. Wang Bi on chapter 23 says what losing is: 失，累多也, *"to lose is to carry too much."* The hand that grasps too much is the hand that lets go.
 
-**The exception is chapter 73's 疏而不失** (*shū ér bù shī* — "wide-meshed, yet it loses nothing"), which reads *nothing slips through*. The idiom is good English and it performs the opening hand. It also drops the verb the book uses for the grasper's loss at 29 and 64, and so hides that nature's net, unlike the grasper, loses nothing. Heshang Gong: 無有所失, *"nothing is lost."*
+**Chapter 73's 疏而不失** (*shū ér bù shī* — "wide-meshed, yet it loses nothing") read *nothing slips through* until 2026-11-19, the English of the later proverb's 漏 (*lòu* — to leak), not this text's 失. It now reads *"Its mesh is wide, yet it loses nothing"* (Shalom's call), so nature's net answers the grasper of 29 and 64, who loses. Heshang Gong: 無有所失, *"nothing is lost."*
 
 ### What is set aside
 
@@ -127,7 +127,7 @@ refs:
 | 既得其母 (52) | a verb | *find* (held open) |
 | 難得之貨 (3, 12, 64) | 貨's phrase | *rare goods* |
 | 失 (13, 23, 26, 29, 33, 38, 64) | a verb, or its noun | *lose* · *loss* |
-| 疏而不失 (73) | a verb | *loses nothing* (recommended) |
+| 疏而不失 (73) | a verb | *loses nothing* (Shalom's call, 2026-11-19) |
 
 ### What no rule can enforce
 
@@ -137,7 +137,7 @@ refs:
 
 ### Left open
 
-**One line would change, and it is Shalom's call.** 73 (*nothing slips through* → *it loses nothing*). (Chapters 22, 29, 44 and 46 were settled on 2026-11-19; 14 and 62 keep their English.)
+**No line waits on this entry but chapter 52's *find*, held open below.** Chapters 22, 29, 44, 46 and 73 were settled on 2026-11-19; 14 and 62 keep their English by Shalom's call.
 
 **Chapter 52's *find*.** *Find our mother, and you know her children* is good English, and Wang Bi's 得本以知末 (*"get the root to know the branches"*) is a getting. *Find* suggests she was lost, which chapter 52 does not say; *get* sounds like taking possession of a mother. Left as it stands until the line is read again.
 

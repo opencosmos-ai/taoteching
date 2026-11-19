@@ -1552,7 +1552,7 @@ So 敢 in this chapter is not chasing a quarry. It is **pressing forward to act 
 
 **天網恢恢，疏而不失 must not become surveillance.** 河上公 reads it morally — 司察人善惡，無有所失, *"it watches over human good and evil, and nothing is lost"* — and that reading is the seed of every later use of 天網恢恢 as a slogan about divine justice catching criminals.
 
-**We decline it.** There is no watcher in the Chinese, only a net; 失 (*shī*) is *to lose*, not *to convict*. Rendered **"Nature's net is vast. Its mesh is wide, and nothing slips through."** That is a statement about how consequence works — loosely, at a distance, without haste, and completely — not about anyone keeping a ledger. The naturalistic razor applies here as much as to 天 itself, and the moral reading is exactly the overlay this edition strips.
+**We decline it.** There is no watcher in the Chinese, only a net; 失 (*shī*) is *to lose*, not *to convict*. Rendered **"Nature's net is vast. Its mesh is wide, and nothing slips through."** *(Superseded 2026-11-19: "yet it loses nothing.")* That is a statement about how consequence works — loosely, at a distance, without haste, and completely — not about anyone keeping a ledger. The naturalistic razor applies here as much as to 天 itself, and the moral reading is exactly the overlay this edition strips.
 
 **天之所惡 stays agentive, and is flagged.** *What nature hates* has nature doing something, as 天將救之 does at Ch 67. Both commentators read it that way and neither softens it. Kept, and named here rather than dissolved — the same strain case, now in a second chapter.
 
@@ -2058,6 +2058,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 73 · 疏而不失 → "yet it loses nothing"
+
+*(2026-11-19, Shalom's call.)* 失 keeps *lose*, answering ch 29 and 64's grasper; *slips through* rendered the later proverb's 漏. `glossary/de-shi-得失.md`.
 
 ### Ch 72, 75 · 不自貴 / 貴生 → "does not prize themselves" / "those who prize life"
 
