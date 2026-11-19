@@ -396,7 +396,7 @@ Four verbatim lines — 挫其銳，解其紛，和其光，同其塵 (*cuò qí
 
 **The Chinese triad is deliberately lopsided and our English had flattened it.** Ch 3's three objects are 賢 (*xián* — the talented, 1 character), 難得之貨 (4), 可欲 (*kě yù* — what can be desired, 2). *"The exceptional / the precious / the desirable"* imposed a neat symmetry by shrinking the longest object to two words. The middle line is now the heaviest again, as it is in the Chinese.
 
-**Left open in the entry, and it is real:** ch 70's couplet 知我者希，則我者貴 (*"those who know me are few; those who pattern themselves on me are precious"*) has 河上公 (*Héshàng Gōng*) deriving value **from** scarcity — 希，少也…故為貴也 — which is the very inference ch 3 and ch 64 tell a ruler to break. Same commentator, opposite direction. The book does not say where the line falls.
+**Left open in the entry, and it is real:** ch 70's couplet 知我者希，則我者貴 (*"those who know me are few; those who pattern themselves on me are prized"*) has 河上公 (*Héshàng Gōng*) deriving value **from** scarcity — 希，少也…故為貴也 — which is the very inference ch 3 and ch 64 tell a ruler to break. Same commentator, opposite direction. The book does not say where the line falls.
 
 ### Ch 12, 38, 72 · 故去彼取此 → "They let go of what is out there and take what is here."
 
@@ -2056,6 +2056,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 70 · 則我者貴 → "are prized"
+
+*(2026-11-19, Shalom's call.)* 貴's price word; *precious* is 貨's forbidden word, and the couplet prices the few by their scarcity. `glossary/gui-jian-貴賤.md`.
 
 ### Ch 67 · "to abandon being last and grab at being first"
 

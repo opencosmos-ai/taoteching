@@ -61,7 +61,7 @@ refs:
 > — chapter 43
 
 > *Those who know me are few.*
-> *Those who pattern themselves on me are precious.*
+> *Those who pattern themselves on me are prized.*
 >
 > 知我者希，
 > 則我者貴。
