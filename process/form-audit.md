@@ -510,7 +510,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-8 · Ch 37 — the chain through 化 (*huà* — transform)
 
-**Resolve.** *"…the countless things will transform of themselves. / Transforming, if they desire to act, / I will stabilize them with the nameless uncarved wood."* This restores the link, and it also restores a second chain the old line hid: 欲 (*yù* — desire) runs 化而欲作 · 將無欲 · 不欲以靜 (*huà ér yù zuò · jiāng wú yù · bù yù yǐ jìng* — "transforming, they desire to act · will be without desire · not desiring, by stillness"), and *urge* was the one place it did not read *desire*.
+**Resolve.** *"…the countless things will transform of themselves. / Transforming, if they desire to act, / I will stabilize them with the nameless uncarved wood."* This restores the link, and it also restores a second chain the old line hid: 欲 (*yù* — desire) runs 化而欲作 · 將無欲 · 不欲以靜 (*huà ér yù zuò · jiāng wú yù · bù yù yǐ jìng* — "transforming, they desire to act · will be without desire · not desiring, by stillness"), and *urge* was the one place it did not read *desire*. **Done, 2026-11-19 (Shalom's call),** with 欲's grammar: *"Transforming, if they want to act, I will stabilize them…"* (`chapters/037.md`).
 
 #### T3-9 · Ch 64 — the strands of doing and grasping
 

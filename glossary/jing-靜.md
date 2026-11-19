@@ -157,7 +157,7 @@ The physical sense at chapter 45 survives, since a body that cannot keep still k
 |---|---|---|
 | 濁以靜之 (15) | a verb, with an object | *by stilling it* |
 | 守靜篤 · 歸根曰靜 (16) · 靜為躁君 (26) · 靜勝熱 (45) · 我好靜 (57) · 以靜 ×2 (61) | a noun | *stillness* |
-| 不欲以靜 (37) | a state, after 以 | *still* (with `glossary/yu-欲.md`'s *not desiring*) |
+| 不欲以靜 (37) | a state, after 以 | *still* |
 | 清靜 (45) | a noun, with 清 | *clear stillness* |
 | 靜為躁君 (26) | 躁, the restless | *the restless* |
 | 躁則失君 (26) | 躁, a noun | *restlessness* |
@@ -171,7 +171,7 @@ The physical sense at chapter 45 survives, since a body that cannot keep still k
 
 ### Left open
 
-**Chapter 37's line rides with the 欲 entry.** *"Relinquishing desire, being still"* becomes *"Not desiring, and so still"* if `WORKLIST.md` T2-86 lands; 靜's English does not change.
+**Chapter 37's line was rebuilt with the 欲 entry** (2026-11-19): *"Not desiring, and so still, the world will right itself."* 靜's English did not change.
 
 **Chapter 26's couplet mixes its forms.** *The heavy is the root of the light* keeps both halves adjectival; *stillness is the ruler of the restless* makes one a noun and one an adjective. The Chinese is four bare characters on each side. Noted, not worth a rewrite on its own.
 

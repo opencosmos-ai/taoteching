@@ -97,9 +97,9 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 
 ### Chapter 37 is the hardest line: three 欲, one chain
 
-> *When the countless things urge action, I will stabilize them with the nameless uncarved wood.*
-> *The nameless uncarved wood is without desire.*
-> *Relinquishing desire, being still, the world rights itself.*
+> *Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.*
+> *With the nameless uncarved wood, they too will be desireless.*
+> *Not desiring, and so still, the world will right itself.*
 >
 > 化而欲作，吾將鎮之以無名之樸。
 > 無名之樸，夫亦將無欲。
@@ -107,9 +107,9 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 >
 > — chapter 37
 
-The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); the uncarved wood will also be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world rights itself. Three grammars of one character in three lines, each handing the word to the next.
+The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); they too will be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world will right itself. Three grammars of one character in three lines, each handing the word to the next.
 
-**The grammar sorts all three.** 欲作 takes a verb, so *want*. 無欲 and 不欲 take nothing, so *desire*: *desireless*, and *not desiring*. One root runs through all three, and the chain is audible again. *Urge* renders no character the line prints, and *relinquishing* supplies a giving-up the Chinese does not have: 不欲 is not wanting, not letting go of a want once held.
+**The grammar sorts all three, and the chapter now reads so** (Shalom's call, 2026-11-19). 欲作 takes a verb, so *want*. 無欲 and 不欲 take nothing, so *desire*: *desireless*, and *not desiring*. One root runs through all three. *Urge*, the old English, rendered no character the line prints, and *relinquishing* supplied a giving-up the Chinese does not have: 不欲 is not wanting, not letting go of a want once held. The same rebuilding restored 化's chain (T3-8) and the subject Heshang Gong gives the second line, the people, not the wood.
 
 **Wang Bi reads the chain as the end of contending.** On 化而欲作: 作欲成也, *"the acting wants to complete itself."* On the uncarved wood's 無欲: 無欲競也, *"desireless: not wanting to compete."* The wanting he means is the wanting to win, which is 爭 (*zhēng* — contend)'s ground (`glossary/zheng-爭.md`).
 
@@ -149,10 +149,10 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 |---|---|---|
 | 常無欲 · 常有欲 (1) · 無欲 (3, 34, 37, 57) | a state, no verb after | *ever desireless · ever desiring · desireless* |
 | 寡欲 (19) | a state | *diminish desire* |
-| 不欲以靜 (37) | a state, no verb after | *not desiring* (recommended) |
+| 不欲以靜 (37) | a state, no verb after | *not desiring* |
 | 可欲 (3) | 可 + 欲, a fixed noun | *the desirable* — 可's flexion |
 | 不欲盈 (15) · 不欲琭琭 (39) · 不欲見賢 (77) | 欲 + verb, negated | *do not want to…* (77 recommended; 15 Shalom's call, 2026-11-19) |
-| 欲作 (37) · 欲得 (46) · 欲兼畜人 · 欲入事人 (61) · 欲上民 · 欲先民 (66) | 欲 + verb | *want to…* (37, 46, 66 recommended) |
+| 欲作 (37) · 欲得 (46) · 欲兼畜人 · 欲入事人 (61) · 欲上民 · 欲先民 (66) | 欲 + verb | *want to…* (46, 66 recommended) |
 | 所欲 (61) | 所 + 欲, what is wanted | *what they want* |
 | 欲不欲 (64) | the reflexive formula | *wants the not-wanting* — one verb on both sides, as at chapter 63 |
 | 將欲 (29, 36 ×4) | the conditional | *would* |
@@ -169,7 +169,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 ### Left open
 
-**Six lines need new English, and each is Shalom's call.** (Chapter 15's *do not want to be full* was taken on 2026-11-19.) Chapter 46's *craving to acquire*, 77's *have no wish to appear exceptional*, 37's three (*urge action*, *without desire*, *relinquishing desire*), and 66's two, where *to rise above* and *to walk ahead* drop 欲 altogether and lose the frame chapter 66 shares with chapter 36: 欲X，必Y (*yù X, bì Y* — "if you want to X, you must Y"). Chapter 37's first line rides with `WORKLIST.md` T3-8, the lost chain through 化 (*huà* — transform).
+**Three lines need new English, and each is Shalom's call.** Chapter 46's *craving to acquire* (with 得's *wanting to get*), 77's *have no wish to appear exceptional*, and 66's two, where *to rise above* and *to walk ahead* drop 欲 altogether and lose the frame chapter 66 shares with chapter 36: 欲X，必Y (*yù X, bì Y* — "if you want to X, you must Y"). (Chapters 15 and 37 were settled on 2026-11-19.)
 
 **The silks have two readings our base does not, and neither is yet recorded per silk.** Chapter 57's 我欲不欲 and chapter 37's 不辱 were read in Wikisource's collated silk text, which does not say which silk prints which. Both want rows in `sources/variants.yaml` once checked against each silk. The base and both commentaries print 我無欲 and 無欲 / 不欲, and we keep them.
 

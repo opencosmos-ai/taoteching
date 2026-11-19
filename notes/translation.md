@@ -2057,6 +2057,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
 
+### Ch 37 · the chain through 化, and 欲's one root
+
+*(2026-11-19, Shalom's call, closing T3-8 and accuracy-audit finding 7.)* *"Transforming, if they want to act, I will stabilize them with the nameless uncarved wood. / With the nameless uncarved wood, they too will be desireless. / Not desiring, and so still, the world will right itself."* 化 links the stanzas; 欲 reads *want* with a verb after it and *desire* with none; Heshang Gong makes the people the ones who become desireless; 亦 and 將 restored. `chapters/037.md`.
+
 ### Ch 22 · 少則得 → "Hold little and receive"
 
 *(2026-11-19, Shalom's call.)* *Gain* is a ledger word; *get* needs an object English cannot give here. Wang Bi: 少則得其本, and on 抱一, 一，少之極也: what holding little gets is the one, as at ch 39's *received*. `glossary/de-shi-得失.md`.
