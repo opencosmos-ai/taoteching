@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **75 item rows: 65 open · 0 done · 9 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **76 item rows: 66 open · 0 done · 9 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -114,3 +114,4 @@
 | T5-24 | ⬜ | **The atlas cannot draw 𨳲 (*bì* — to close, 河上公's form of 閉).** `glossary/qin-勤.md` quotes 河上公 on ch 52 with it, and the atlas's rare-character font (HanaMin, cut to what the site shows) lacks it, so the line renders with a gap. Either rerun `python3 -m atlas.fonts` in chinese-atlas with the HanaMin source files, or print 閉 with a note that 河上公's edition writes 𨳲 | 52 | G |
 | T5-25 | ⬜ | **Record the atlas's dependency on the reader's `#verse-N` anchor on the opencosmos side.** Since 2026-10-24 every atlas citation ("CH 41 · LINE 1") opens `…/taoism-tao-te-ching/{chapter}#verse-{n}`, joined through this export's `align`. The anchor lives in opencosmos `ChapterText.tsx`; renaming it would break every link. A decision spanning two repositories is recorded on both sides: add a line to opencosmos ADR 0020's Updates | — | G |
 | T5-26 | ⬜ | **Fu Yi can now be named and vendored** (found 2026-11-15, settling 沖 (*chōng*)). Wikisource's 道德經古本篇 (*Daodejing, the Ancient Text*) is a facsimile of the 正統道藏 (*Zhengtong Daozang*, the Ming Daoist canon), 洞神部本文類 (its scriptures section), 慕二, from the palace printing of 1445. That edition can be named, which is what admission rules 2 and 3 ask for, and `sources/PROVENANCE.md` already lists Fu Yi as worth adding. Check it against the four rules, vendor it as `import_commentary.py` does, and update the Fu Yi row in `tools/build_db.py`, which says "edition unverified." Its 右第N章 (*yòu dì N zhāng* — "the above is chapter N") markers follow the chapter they close | book-wide | G |
+| T5-27 | ⬜ | **The literal-gloss parser drops a gloss without error when a `[tag]` holds more than pinyin** (found 2026-11-19, at ch 17). A note written inside the `\[you\]` tag of the source table (*"\[you: the base prints 悠…\]"*) cost 悠 (*yōu*) its apparatus gloss; no build step or lock rule complained, and only `check_counts.py`'s README count (gloss:apparatus 123 → 122) caught it. Make the parser fail loudly on a tag that is not a bare pinyin syllable, or have `build_db.py` report a character that loses its only gloss | tools | G |
