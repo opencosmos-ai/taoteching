@@ -7,7 +7,7 @@ flexions:
   - { english: "brevity", chapters: [23], why: "sparse speech, read as Heshang Gong's quantity; Shalom's line (2026-09-03)" }
 forbidden: ["rare", "scarce", "seldom", "whisper"]
 chapters: [14, 23, 41, 43, 70, 74]
-status: open
+status: locked
 pairing: false
 refs_status: incomplete
 refs:
@@ -26,7 +26,7 @@ refs:
 
 *Say "shee," level. Six lines in six chapters, one each. One property everywhere: thinly spread, whether across a crowd or across a sound.*
 
-**Recommended: 希 → "few" where it counts people or cases · "barely heard" where it measures a sound.** *(Not "rare," which belongs to 難得之貨 (nán dé zhī huò — rare goods) and to 貨 (huò — goods)'s lock. Not "silent," which says the sound is gone; 希 says it is thin.)* **Two flexions, both Shalom's calls:** *the inaudible* at chapter 14, where the book defines the word, and *brevity* at chapter 23. No verse changes.
+**Locked: 希 → "few" where it counts people or cases · "barely heard" where it measures a sound.** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "rare," which belongs to 難得之貨 (nán dé zhī huò — rare goods) and to 貨 (huò — goods)'s lock. Not "silent," which says the sound is gone; 希 says it is thin.)* **Two flexions, both Shalom's calls:** *the inaudible* at chapter 14, where the book defines the word, and *brevity* at chapter 23.
 
 ### The graph: crossed threads over cloth
 

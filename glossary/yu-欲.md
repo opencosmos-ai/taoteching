@@ -5,7 +5,7 @@ render: "desire (as a state, with nothing after it) / want (with a verb after it
 forbidden: ["lust", "covet", "the passions", "yearn", "craving", "wish"]
 shuowen: "Greedy wanting. From 欠 (a person with the mouth open), with 谷 (a valley) for sound."
 chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
-status: open
+status: locked
 pairing: false
 refs_status: incomplete
 refs:
@@ -28,7 +28,7 @@ refs:
 
 *Say "yoo," falling. Twenty-six appearances in twenty-five lines across fifteen chapters. 無欲 (wú yù — desireless) alone stands in five of them.*
 
-**Recommended: 欲 → "desire" as a state, with nothing after it · "want" when a verb follows · "would" in the phrase 將欲 (jiāng yù — "if you are about to want to").** *(Not "craving," which carries a verdict the character does not and is the standard English for the Buddhist root of suffering. Not "wish," which is idle. Not "urge," a drive in the psychologist's sense. Not "lust," "covet" or "the passions," the hymn test's vocabulary of sin.)* **Settled within it, by Shalom's calls:** *ever desireless* and *ever desiring* at chapter 1 (2026-11-14); *wants the not-wanting* at chapter 64. *The desirable* at chapter 3 belongs to 可 (kě — can be), as its flexion.
+**Locked: 欲 → "desire" as a state, with nothing after it · "want" when a verb follows · "would" in the phrase 將欲 (jiāng yù — "if you are about to want to").** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "craving," which carries a verdict the character does not and is the standard English for the Buddhist root of suffering. Not "wish," which is idle. Not "urge," a drive in the psychologist's sense. Not "lust," "covet" or "the passions," the hymn test's vocabulary of sin.)* **Settled within it, by Shalom's calls:** *ever desireless* and *ever desiring* at chapter 1 (2026-11-14); *wants the not-wanting* at chapter 64. *The desirable* at chapter 3 belongs to 可 (kě — can be), as its flexion.
 
 ### The graph: an open mouth, and a valley
 

@@ -6,7 +6,7 @@ flexions:
   - { english: "status", chapters: [9], why: "富貴 is a fixed pair, wealth and high price in people: rank" }
 forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase", "precious"]
 chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
-status: open
+status: locked
 pairing: true
 covers:
   - { char: "尊", render: "honor" }
@@ -29,7 +29,7 @@ refs:
 
 *Say "gway," falling, and "jyen," falling. 貴 stands twenty-two times across fifteen chapters; 賤 three times, always beside it. Two words off a price list, and the book uses them to price people, bodies, the Tao, and itself.*
 
-**Recommended: 貴 → "prize" as a verb · "prized" as a state · 賤 → "cheap," and "cheapen" as a verb.** *(Not "noble" and "humble," which moralize a price. Not "precious," which belongs to 貨 (huò — goods)'s forbidden list and makes the book's own prizing sound like the jewels it refuses. Not "honor," which is 尊 (zūn — honor)'s, covered here.)* **One flexion:** *status* in 富貴 (fù guì — wealth and rank) at chapter 9. **Covered:** 尊 → *honor*.
+**Locked: 貴 → "prize" as a verb · "prized" as a state · 賤 → "cheap," and "cheapen" as a verb.** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "noble" and "humble," which moralize a price. Not "precious," which belongs to 貨 (huò — goods)'s forbidden list and makes the book's own prizing sound like the jewels it refuses. Not "honor," which is 尊 (zūn — honor)'s, covered here.)* **One flexion:** *status* in 富貴 (fù guì — wealth and rank) at chapter 9. **Covered:** 尊 → *honor*.
 
 ### The graph: two cowries, and a price
 

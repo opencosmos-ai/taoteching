@@ -5,7 +5,7 @@ render: "still, stillness (a state) / still (a verb, to make still)"
 forbidden: ["tranquil", "serene", "serenity", "meditat", "quietude", "passive", "inert", "agitat"]
 shuowen: "To settle and examine closely. From 青 (the green of new growth), with 爭 (to contend) for sound."
 chapters: [15, 16, 26, 37, 45, 57, 61]
-status: open
+status: locked
 pairing: false
 covers:
   - { char: "躁", render: "restless, restlessness" }
@@ -31,7 +31,7 @@ refs:
 
 *Say "jing," falling. Ten appearances in nine lines across seven chapters. Water that has stopped moving, so the silt goes down: the book's stillness is something that works.*
 
-**Recommended: 靜 → "still" and "stillness," and "still" as a verb (to make still).** *(Not "tranquil" or "serene," the spa and the hymnal. Not "meditation" or anything built on it, which turns a state of water into a practice. Not "passive" or "inert," which this edition refuses for the female the book makes still at chapter 61.)* **Covered:** 躁 (zào — restless), its opposite, → *restless* and *restlessness* (Shalom's call, 2026-11-19).
+**Locked: 靜 → "still" and "stillness," and "still" as a verb (to make still).** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "tranquil" or "serene," the spa and the hymnal. Not "meditation" or anything built on it, which turns a state of water into a practice. Not "passive" or "inert," which this edition refuses for the female the book makes still at chapter 61.)* **Covered:** 躁 (zào — restless), its opposite, → *restless* and *restlessness* (Shalom's call, 2026-11-19).
 
 ### The graph: the green of new growth, and a word for contending
 

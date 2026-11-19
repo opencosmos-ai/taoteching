@@ -8,7 +8,7 @@ flexions:
 forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word", "wordless", "without words"]
 shuowen: "Speaking straight out is yan; debating is yu. From 口 (a mouth), with a sound part."
 chapters: [2, 5, 8, 17, 22, 23, 27, 31, 41, 43, 56, 62, 66, 69, 70, 73, 78, 81]
-status: open
+status: locked
 pairing: false
 refs_status: incomplete
 refs:
@@ -25,7 +25,7 @@ refs:
 
 *Say "yen," rising. Twenty-one appearances in nineteen lines across eighteen chapters. A book that distrusts speech, written in it, and it knows.*
 
-**Recommended: 言 → "words" for what is said · "speech" for the saying of it · "speak" as a verb.** *(Not "discourse," "rhetoric" or "eloquence," which are 語 (yǔ — debate)'s ground and the Shuowen's opposite of 言. Not "the Word," whose capital is John's Logos.)* **Two flexions:** *saying* where a chapter quotes a proverb (41, 69), and *say* where 言 opens an explanation (31).
+**Locked: 言 → "words" for what is said · "speech" for the saying of it · "speak" as a verb.** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "discourse," "rhetoric" or "eloquence," which are 語 (yǔ — debate)'s ground and the Shuowen's opposite of 言. Not "the Word," whose capital is John's Logos.)* **Two flexions:** *saying* where a chapter quotes a proverb (41, 69), and *say* where 言 opens an explanation (31).
 
 ### The graph: a mouth, speaking straight out
 

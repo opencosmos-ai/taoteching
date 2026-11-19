@@ -10,7 +10,7 @@ flexions:
   - { english: "first", chapters: [7, 67], why: "Shalom's call, 2026-11-19, with last: ch 7's move, and ch 67's third treasure and its undoing" }
 forbidden: ["precede", "superior", "inferior", "humility"]
 chapters: [2, 4, 7, 14, 25, 30, 38, 62, 65, 66, 67]
-status: open
+status: locked
 pairing: true
 covers:
   - { char: "前", render: "front" }
@@ -32,7 +32,7 @@ refs:
 
 *Say "shyen," level, and "ho," falling. 先 stands eight times across six chapters, 後 eleven times across eight. Each also tells time, before and after; but where they stand together they are a place in a moving line, and the book's argument is that the one behind ends up ahead.*
 
-**Recommended: 先 → "ahead" · 後 → "behind," in every line where the two are a position; "before" and "after" where they tell time.** *(Not "first" and "last," whose cadence is Matthew 20:16, "the last shall be first," and whose *first* chapter 67 already spends on 一 (yī — one). Not "front" for 先, which belongs to 前 (qián — front), covered here. Not "humility" for 後, which turns a place into a virtue.)* **Covered:** 前 → *front*. **Settled:** chapter 7 keeps *last / first* (Shalom's call, 2026-11-19), the Matthew echo recorded as a known cost.
+**Locked: 先 → "ahead" · 後 → "behind" where the pair is a place in a line (62, 66) · "first" and "last" where it is a rank (7, 67) · "before" and "after" where they tell time.** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "front" for 先, which belongs to 前 (qián — front), covered here. Not "the rear," an army's word. Not "humility" for 後, which turns a place into a virtue.)* **Covered:** 前 → *front*. **The rank lines keep *first* and *last*** by Shalom's call, chapter 7 for its snap, with the echo of Matthew 20:16 recorded as a known cost.
 
 ### The graph: a foot out in front, and a foot that drags
 
@@ -70,18 +70,11 @@ refs:
 >
 > — chapter 67
 
-**Chapters 7 and 66 are the same sentence**, the body put behind and the person going ahead, and our English gives them two pairs of words, *last / first* and *ahead / behind*. Chapter 67 adds a third, *the rear / the front*, inside one chapter that already uses *first* for 一 (*yī* — one), *"The first is tenderness."* Four lines, one move, six English words for two characters.
+**Chapters 7 and 66 are the same sentence**, the body put behind and the person going ahead. Until 2026-11-19 the English gave these four lines three pairs of words, *last / first*, *ahead / behind* and *the rear / the front*, inside chapters that also use *first* for 一 (*yī* — one), *"The first is tenderness."*
 
 **Both commentators read the four as one argument.** Heshang Gong glosses chapters 7 and 66 with the same four characters, 先人而後己, *"put others ahead and yourself behind."* Wang Bi joins them through chapter 28's rooster and hen: 雄先之屬，雌後之屬也。知為天下之先也，必後也。是以聖人後其身而身先也, *"the rooster belongs with going ahead, the hen with staying behind. Whoever knows how to be the world's front must stay behind; so the sage puts their body behind and their body is ahead."* And on chapter 67's third treasure: 唯後外其身，為物所歸，然後乃能立成器, *"only by putting oneself behind and outside, so that things come home to one, can one then stand and become chief of the vessels."* That is chapter 7's second line, 外其身 (*wài qí shēn* — "puts their body outside"), carried into chapter 67.
 
-**So the recommendation is one pair for the one move:**
-
-> *So the sage puts their body behind, and their body ends up ahead;*
-> *To go ahead of the people, you must put your body behind them.*
-> *The third is never pushing to get ahead in the world.*
-> *to abandon staying behind and grab at getting ahead.*
-
-*Get ahead* is the English idiom for exactly what 不敢 (*bù gǎn* — never pushing) refuses, and the graph's foot going on in front is still in it. *Ends up ahead* keeps 身先 (*shēn xiān* — "the body is ahead") a result, not a goal: Heshang Gong on chapter 7, 天下敬之，先以為長, *"the world respects them, and puts them ahead as its elder."* The sage does not go ahead; they are carried there.
+**So the English now splits by use, and only by use** (Shalom's calls, 2026-11-19). Where the pair is a **rank**, a place in the world's regard, it reads *last / first*: chapter 7's *"puts their body last, and their body comes first,"* chapter 67's *"never pushing to be first in the world"* and *"to abandon being last and grab at being first."* Where it is a **place in a line**, with someone to be ahead of, it reads *ahead / behind*: chapter 66's *"if you want to go ahead of the people, you must put your body behind them,"* and chapter 62's procession, *"go ahead of."* Heshang Gong on chapter 7 shows the move is a result, not a goal: 天下敬之，先以為長, *"the world respects them, and puts them ahead as its elder."* The sage does not go ahead; they are carried there.
 
 ### Chapter 66: 先 and 前 in one chapter, and the people carry the sage
 
@@ -110,7 +103,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 ### What is set aside
 
-**"First" and "last."** The book's move in Matthew's words: *"So the last shall be first, and the first last"* (Matthew 20:16). It fails the hymn test, and it changes what the move is. Matthew's reversal is a judgment handed down at the end of time; Laozi's is a mechanism, the one who stays behind being carried forward by those they stayed behind for. *First* is also 一's ordinal in chapter 67 (*"The first is tenderness"*), and Heshang Gong's 主，先也 (*"主 means going first"*) has put it on 主 (*zhǔ* — host) at chapter 69, which is `WORKLIST.md` T1-23.
+**"First" and "last," where the pair is a place in a line.** At chapters 62 and 66 there is someone to be ahead of, and *first* would make a rank of a position. Where the pair *is* a rank (7, 67), *first* and *last* are kept, and the cost is recorded: they are the book's move in Matthew's words, *"So the last shall be first, and the first last"* (Matthew 20:16). Matthew's reversal is a judgment handed down at the end of time; Laozi's is a mechanism, the one who stays behind being carried forward by those they stayed behind for. *First* is also 一's ordinal in chapter 67 (*"The first is tenderness"*), and Heshang Gong's 主，先也 (*"主 means going first"*) has put it on 主 (*zhǔ* — host) at chapter 69, which is `WORKLIST.md` T1-23.
 
 **"Front," "the front," for 先.** 前's word, at chapters 2 and 66. Chapter 66 needs both characters, and the gloss that merges them is Heshang Gong's, not the text's.
 
@@ -145,7 +138,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 ### What no rule can enforce
 
-***First*, *last*, *front* and *rear* are ruled out for 先 and 後, and none can go on the list.** All four stand in chapters 7 and 67 now, where the build would report them at once. And *first* can never be forbidden: chapter 67 holds 一 (*yī* — one), whose ordinal is *first*. *Front* cannot either, since 前 shares chapters 2 and 66.
+***First* and *last* are flexions at chapters 7 and 67, and so can never be forbidden**; *first* is also 一's ordinal in chapter 67. ***Front*** is 前's, which shares chapters 2 and 66, so it cannot be forbidden for 先 either. ***The rear*** left the verse with chapter 67 and is held by this entry.
 
 ***Last* also belongs to other characters' idioms** (*last out the morning*, 終 (*zhōng* — to the end) at chapter 23), in chapters 先 and 後 do not reach.
 

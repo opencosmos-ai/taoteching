@@ -11,7 +11,7 @@ flexions:
   - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 forbidden: ["attain", "obtain", "forfeit", "acquire"]
 chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
-status: open
+status: locked
 pairing: true
 refs_status: incomplete
 refs:
@@ -33,7 +33,7 @@ refs:
 
 *Say "duh," rising, and "shr," level. 得 stands thirty-three times in thirty lines across nineteen chapters; 失 seventeen times across eight. The commonest verbs of having in the language, and the book weighs them against each other in chapter after chapter.*
 
-**Recommended: 得 → "get" · 失 → "lose."** *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Five flexions:** *received* at chapters 39 and 22 (where the getting is the one), *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, *gain* at chapter 44 (the ledger chapter), *touch* at chapter 14, and *find* at chapter 62, the last three by Shalom's call (2026-11-19).
+**Locked: 得 → "get" · 失 → "lose."** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *(Not "attain" or "obtain," which make getting an achievement, and *attain* the Buddhist one. Not "find," which at chapter 62 turns a saying into the Sermon on the Mount. Not "gain," a ledger word that makes 得 profit.)* **Five flexions:** *received* at chapters 39 and 22 (where the getting is the one), *unavoidable* for the idiom 不得已 (bù dé yǐ — it cannot be helped) at chapters 30 and 31, *gain* at chapter 44 (the ledger chapter), *touch* at chapter 14, and *find* at chapter 62, the last three by Shalom's call (2026-11-19).
 
 ### The graph: a step, and a hand letting go
 

@@ -57,7 +57,7 @@
   render: "get / lose"
   forbidden: ["attain", "obtain", "forfeit", "acquire"]
   chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
-  status: open
+  status: locked
   entry: glossary/de-shi-得失.md
   flexions:
     - { english: "received", chapters: [22, 39], why: "the one is not taken: what is gotten is the one, at 39 by sky and earth, and at 22 by holding little, a line before 抱一; Shalom's call at 22, 2026-11-19" }
@@ -120,7 +120,7 @@
   render: "words, speech (a noun) / speak (a verb)"
   forbidden: ["utterance", "discourse", "rhetoric", "eloquence", "eloquent", "the Word", "wordless", "without words"]
   chapters: [2, 5, 8, 17, 22, 23, 27, 31, 41, 43, 56, 62, 66, 69, 70, 73, 78, 81]
-  status: open
+  status: locked
   entry: glossary/yan-言.md
   flexions:
     - { english: "saying", chapters: [41, 69], why: "a quoted saying, introduced by 有 (there is): the proverbs the chapter then cites" }
@@ -180,7 +180,7 @@
   render: "desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)"
   forbidden: ["lust", "covet", "the passions", "yearn", "craving", "wish"]
   chapters: [1, 3, 15, 19, 29, 34, 36, 37, 39, 46, 57, 61, 64, 66, 77]
-  status: open
+  status: locked
   entry: glossary/yu-欲.md
 
 - term: "貴 & 賤"
@@ -188,7 +188,7 @@
   render: "prize (verb), prized (a state) / cheap, cheapen"
   forbidden: ["humble", "lowly", "esteem", "value", "revere", "debase", "precious"]
   chapters: [3, 9, 13, 17, 20, 27, 31, 39, 51, 56, 62, 64, 70, 72, 75]
-  status: open
+  status: locked
   entry: glossary/gui-jian-貴賤.md
   flexions:
     - { english: "status", chapters: [9], why: "富貴 is a fixed pair, wealth and high price in people: rank" }
@@ -226,7 +226,7 @@
   render: "ahead, or before in time / behind, or after in time"
   forbidden: ["precede", "superior", "inferior", "humility"]
   chapters: [2, 4, 7, 14, 25, 30, 38, 62, 65, 66, 67]
-  status: open
+  status: locked
   entry: glossary/xian-hou-先後.md
   flexions:
     - { english: "older", chapters: [4], why: "象帝之先, before 帝 in time, read as 帝's locked phrase: older than any god" }
@@ -408,7 +408,7 @@
   render: "still, stillness (a state) / still (a verb, to make still)"
   forbidden: ["tranquil", "serene", "serenity", "meditat", "quietude", "passive", "inert", "agitat"]
   chapters: [15, 16, 26, 37, 45, 57, 61]
-  status: open
+  status: locked
   entry: glossary/jing-靜.md
   # covers 躁 -> restless, restlessness
 
@@ -417,7 +417,7 @@
   render: "few (of a count) / barely heard (of a sound)"
   forbidden: ["rare", "scarce", "seldom", "whisper"]
   chapters: [14, 23, 41, 43, 70, 74]
-  status: open
+  status: locked
   entry: glossary/xi-希.md
   flexions:
     - { english: "inaudible", chapters: [14], why: "the definition passage names the three by their meanings, Shalom's call (2026-09-10)" }
