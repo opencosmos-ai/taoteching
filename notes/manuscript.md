@@ -78,7 +78,7 @@ We print 長短相**形**，高下相**盈** — *"long and short give each othe
 
 **Two forks, and they fall differently.** 形 / 較 splits the transmitted editions from 王弼's own: *give each other shape* against *measure against each other*. 盈 / 傾 splits **every transmitted text we carry** — both commentaries print 傾 (*qīng* — to lean, incline) — from our base's 盈 (*yíng* — to fill), which is the reading `sources/variants.yaml` attributes to the Mawangdui silks. The usual explanation for 傾 is the Han taboo on the personal name of Emperor Hui, 劉盈 (*Liú Yíng*), r. 195–188 BCE — the same mechanism as 邦 (*bāng* — state) → 國 (*guó*) at ch 61. **So at this line our base carries the older, pre-taboo reading, and the text it is named after does not.**
 
-**We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58.
+**We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58. *(Settled 2026-11-19, Shalom's call: "High and low fill each other," the base's 盈, and "Long and short shape each other.")*
 
 ### Ch 12 · 是以聖人之治也 — in the silks, the belly is the governed's
 

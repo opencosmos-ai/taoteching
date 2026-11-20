@@ -562,7 +562,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-18 · One member out of step
 
-- **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point.
+- **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point. **Done 2026-11-19 (Shalom's call).**
 - **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*. **Done 2026-11-19 (Shalom's call).**
 - **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*. **Done 2026-11-19 (Shalom's call).**
 - **12, 令人行妨 (*lìng rén xíng fáng*) — leave.** Recorded: *the fifth* makes *is carried by the verb* (`chapters/012.md`, Shalom's call 2026-10-20).
@@ -592,7 +592,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again. **Done 2026-11-19 (Shalom's call).**
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
 - **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line. **Done 2026-11-19 (Shalom's call).**
-- **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19.
+- **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19. **Done 2026-11-19 (Shalom's call)** as *"I do not desire, and the people become plain of themselves"*: *plain* kept, as `glossary/pu-樸.md` argues.
 - **60, 不傷人 (*bù shāng rén* — "does not harm people") ×3 — resolve:** *"their potency does no harm to people, / not only does their potency do no harm to people, the sage, too, does no harm to people."* The chain then repeats word for word, as the Chinese does. **Done, 2026-11-19 (Shalom's call),** with R6's 非 and 神 → *spirit*: *does no harm to people* ×3 (`chapters/060.md`).
 - **65, 國之賊 / 國之福 (*guó zhī zéi / guó zhī fú*) — leave.** Recorded (`notes/translation.md` → *Ch 65*): *robs the state / is the state's good fortune* was built deliberately as the pair, on the way out of the overlay *blessing* for 福 (*fú* — good fortune).
 - **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs. **Done 2026-11-19 (Shalom's call).**
@@ -600,7 +600,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-19 · The book's images
 
-- **門 (*mén* — gate) at 52 and 56 — resolve:** *"Block the openings, close the gates."* It joins the gate of 1, 6 and 10, the body's openings read as the same gates. It has no lock; this would make it one.
+- **門 (*mén* — gate) at 52 and 56 — resolve:** *"Block the openings, close the gates."* It joins the gate of 1, 6 and 10, the body's openings read as the same gates. It has no lock; this would make it one. **Done 2026-11-19 (Shalom's call).**
 - **樸 (*pǔ*) at 57 — resolve,** with T3-18's ch 57: *"…and the people become uncarved of themselves."* It is the lock's English, and the image the book has been building since ch 15.
 
 #### T5-14 · An echo the Chinese does not make

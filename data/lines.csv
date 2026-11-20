@@ -9,9 +9,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 1,8,2,同謂之玄。,tóng wèi zhī xuán.,"alike, they are called dark.","Together, they are called dark.",exact-count
 1,9,2,玄之又玄，眾妙之門。,"Xuán zhī yòu xuán, zhòng miào zhī mén.","Dark, and dark again: the gate of the many subtleties.","Dark, and dark again, the gate of all subtlety.",exact-count
 2,1,1,天下皆知美之為美，斯惡已。,"Tiān xià jiē zhī měi zhī wéi měi, sī è yǐ.","When the world knows beauty as beauty, ugliness arises.","When the world knows beauty as beauty, ugliness arises.",authored
-2,2,1,皆知善之為善，斯不善已。,"Jiē zhī shàn zhī wéi shàn, sī bù shàn yǐ.","When all know good as good, evil arises.","When the world knows good as good, the bad arises.",authored
+2,2,1,皆知善之為善，斯不善已。,"Jiē zhī shàn zhī wéi shàn, sī bù shàn yǐ.","When all know good as good, evil arises.","When the world knows good as good, the not-good arises.",authored
 2,3,1,故有無相生，難易相成，,"Gù yǒu wú xiāng shēng, nán yì xiāng chéng,",Existence and non-existence produce each other; difficulty and ease complete each other;,"Therefore presence and absence give birth to each other, / Difficult and easy complete each other,",authored
-2,4,1,長短相形，高下相盈，,"cháng duǎn xiāng xíng, gāo xià xiāng yíng,",long and short contrast each other; high and low incline toward each other;,"Long and short measure each other, / High and low depend on each other,",authored
+2,4,1,長短相形，高下相盈，,"cháng duǎn xiāng xíng, gāo xià xiāng yíng,",long and short contrast each other; high and low incline toward each other;,"Long and short shape each other, / High and low fill each other,",authored
 2,5,1,音聲相和，前後相隨。,"yīn shēng xiāng hé, qián hòu xiāng suí.",sound and silence harmonize each other; front and back follow each other.,"Sound and tone harmonize each other, / Front and back follow each other.",authored
 2,6,2,是以聖人處無為之事，,"Shì yǐ shèng rén chǔ wú wéi zhī shì,",Therefore the Sage acts through non-action,Therefore the sage dwells in the work of non-doing,authored
 2,7,2,行不言之教。,xíng bù yán zhī jiào.,and teaches through non-speech.,and carries out the unspoken teaching.,authored
@@ -573,7 +573,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has a beginning, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
 52,3,1,既知其子，復守其母，没身不殆。,"Jì zhī qí zǐ, fù shǒu qí mǔ, mò shēn bù dài.","Having known the children, returning to guard the mother, to the end of one's life there is no danger.","Know her children, return and hold fast to our mother, / and to the end of your days, no danger will find you.",authored
-52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not strain.","Block the openings, close the doors, and to the end of your days you will not strain.",authored
+52,4,2,塞其兌，閉其門，終身不勤。,"Sè qí duì, bì qí mén, zhōng shēn bù qín.","Block the openings, close the doors, to the end of life one does not strain.","Block the openings, close the gates, and to the end of your days you will not strain.",authored
 52,5,2,開其兌，濟其事，終身不救。,"Kāi qí duì, jì qí shì, zhōng shēn bù jiù.","Open the openings, multiply affairs/tasks, to the end of life one is beyond rescue.","Open the openings, multiply your affairs, and to the end of your days you are beyond saving.",authored
 52,6,3,見小曰明，守柔曰強。,"Jiàn xiǎo yuē míng, shǒu róu yuē qiáng.","Seeing the small is called clarity/illumination, guarding the soft/yielding is called strength.",Seeing the small is called clarity. / Holding to the soft is called strong.,authored
 52,7,3,用其光，復歸其明，無遺身殃；,"Yòng qí guāng, fù guī qí míng, wú yí shēn yāng;","Use the light, return to the clarity/illumination, leaving no disaster for the body;","Use the outer light, return to your inner clarity, / and leave no calamity for the body.",authored
@@ -601,7 +601,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 55,7,2,益生曰祥。心使氣曰強。,Yì shēng yuē xiáng. Xīn shǐ qì yuē qiáng.,Artificially increasing life is called an ill omen. The mind directing the vital breath (qi) is called forcing/brute strength.,"Increasing life is called an ill omen. / When the heart drives the breath, that is called strong.",authored
 55,8,2,物壯則老，謂之不道，不道早已。,"Wù zhuàng zé lǎo, wèi zhī bù dào, bù dào zǎo yǐ.","When things reach peak strength they decay, this is called not-Tao, not-Tao ends early.","When things reach their prime, they decay. / This is called not-Tao. Not-Tao comes to an early end.",authored
 56,1,1,知者不言，言者不知。,"Zhī zhě bù yán, yán zhě bù zhī.","Those who know do not speak, those who speak do not know.",Those who know do not speak. / Those who speak do not know.,authored
-56,2,1,塞其兌，閉其門，,"Sè qí duì, bì qí mén,","Block the openings, close the doors,","Block the openings, close the doors.",authored
+56,2,1,塞其兌，閉其門，,"Sè qí duì, bì qí mén,","Block the openings, close the doors,","Block the openings, close the gates.",authored
 56,3,1,挫其銳，解其紛，,"Cuò qí ruì, jiě qí fēn,","Blunt the sharpness, untangle the knots/confusion,","Blunt the sharpness, untangle the knots.",authored
 56,4,1,和其光，同其塵，,"Hé qí guāng, tóng qí chén,","Harmonize the light, merge with the dust;","Harmonize your light, be the same as the dust.",authored
 56,5,1,是謂玄同。,Shì wèi xuán tóng.,This is called Profound/Mysterious Identity (Xuan Tong).,This is called profound sameness.,authored
@@ -621,7 +621,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 57,10,3,我無為，而民自化；,"Wǒ wú wéi, ér mín zì huà;","I execute zero-friction (wu wei), and the people transform themselves;","I do not do, and the people transform themselves.",exact-count
 57,11,3,我好靜，而民自正；,"Wǒ hào jìng, ér mín zì zhèng;","I love stillness, and the people correct themselves;","I love stillness, and the people right themselves.",exact-count
 57,12,3,我無事，而民自富；,"Wǒ wú shì, ér mín zì fù;","I do not interfere (wu shi), and the people enrich themselves;","I do not meddle, and the people enrich themselves.",exact-count
-57,13,3,我無欲，而民自樸。,"Wǒ wú yù, ér mín zì pǔ.","I have no desires, and the people return to the uncarved wood (pu) themselves.","I am desireless, and the people become plain of themselves.",exact-count
+57,13,3,我無欲，而民自樸。,"Wǒ wú yù, ér mín zì pǔ.","I have no desires, and the people return to the uncarved wood (pu) themselves.","I do not desire, and the people become plain of themselves.",exact-count
 58,1,1,其政悶悶，其民淳淳；,"Qí zhèng mèn mèn, qí mín chún chún;","When the government is dull/unobtrusive, the people are pure/honest;","When the government is dull and undiscerning, the people are pure and honest.",exact-count
 58,2,1,其政察察，其民缺缺。,"Qí zhèng chá chá, qí mín quē quē.","When the government is sharp/scrutinizing, the people are lacking/crafty.","When the government is sharp and prying, the people turn cunning.",exact-count
 58,3,2,禍兮福之所倚，,"Huò xī fú zhī suǒ yǐ,","Disaster is what fortune leans on,",Disaster is what fortune leans on;,exact-count

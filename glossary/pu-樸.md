@@ -91,7 +91,7 @@ Set it beside Chapter 28 and it snaps into place. If a vessel is made by cutting
 - predicative, of people → **plain** — a licensed flexion, see below
 - **器** as its counter-term → **vessel** where the thing is a container, **tool** or **instrument** where the point is function
 
-**On "plain" at Chapter 57.** 我無欲，而民自樸 is rendered *"I am desireless, and the people become plain of themselves"* — and it should stay. The line sits in a four-part refrain (transform / right / enrich / ——), each member a short predicate ending in 自 (*of themselves*); "become uncarved of themselves" would stall it, and "plain" carries 樸's core sense exactly. This is a deliberate flexion, not a drift: the plain people of Chapter 57 and the uncut wood of Chapter 28 are the same image at two scales.
+**On "plain" at Chapter 57.** 我無欲，而民自樸 is rendered *"I do not desire, and the people become plain of themselves"* — and *plain* stays (Shalom's call, 2026-11-19, closing T3-19's 樸 half). The line sits in a four-part refrain (transform / right / enrich / ——), each member a short predicate ending in 自 (*of themselves*); "become uncarved of themselves" would stall it, and "plain" carries 樸's core sense exactly. This is a deliberate flexion, not a drift: the plain people of Chapter 57 and the uncut wood of Chapter 28 are the same image at two scales.
 
 
 ### Is there a paradox inside the word? — the "block" question

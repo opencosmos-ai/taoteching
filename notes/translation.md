@@ -170,7 +170,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **治 (*zhì* — to govern / to order) is the chapter's frame word, and it had been dropped from the hinge.** 是以聖人之治 — *"therefore, the sage's governing"* — read only *"Therefore the sage."* 治 opens the second movement and closes the chapter, and the ring was broken. Both ends carry it now, and **無不治 reads "nothing is left ungoverned,"** which makes audible an echo the Chinese has and the English had lost: 無不治 here against 無不為 (*wú bù wéi*) at ch 37 and 48, already rendered *"nothing is left undone."* Same shape, one word apart. Ch 65 — this chapter's sibling, 民之難治 (*mín zhī nán zhì* — "the people are hard to govern") — already renders 治 as *govern* three times.
 
-**Ch 57 is this chapter's own gloss, and it shows that the mechanism is subtraction.** 我無為，而民自化 … 我無欲，而民自樸 — *"I do not do, and the people transform themselves … I am desireless, and the people become plain of themselves."* The operative character is 自 (*zì* — of themselves). All three of stanza 1's 使 clauses have a **not** as their cause, and 王弼 spells the mechanism out: 故可欲不見，則心無所亂也 — *"so when the desirable is not displayed, the heart has nothing to disorder it."* Nothing is put into anyone. The second movement's two 使 clauses are now treated exactly as stanza 1 already treats its three: **result of the arrangement, not an act performed on persons.**
+*(Quote superseded 2026-11-19: ch 57 reads "I do not desire …".)* **Ch 57 is this chapter's own gloss, and it shows that the mechanism is subtraction.** 我無為，而民自化 … 我無欲，而民自樸 — *"I do not do, and the people transform themselves … I am desireless, and the people become plain of themselves."* The operative character is 自 (*zì* — of themselves). All three of stanza 1's 使 clauses have a **not** as their cause, and 王弼 spells the mechanism out: 故可欲不見，則心無所亂也 — *"so when the desirable is not displayed, the heart has nothing to disorder it."* Nothing is put into anyone. The second movement's two 使 clauses are now treated exactly as stanza 1 already treats its three: **result of the arrangement, not an act performed on persons.**
 
 **河上公 reads the whole movement as a body, not a population.** He opens it 聖人治國與治身同也 — *"the sage's governing of the state and the governing of the self are one and the same"* — and glosses 實其腹 as 懷道抱一守五神 (*"harbor the Tao, embrace the one, guard the five spirits"*) and 強其骨 as 愛精重施，髓滿骨堅 (*"cherish the vital essence and be sparing in spending it; the marrow fills and the bones grow firm"*). *Govern* does not shut that reading out; it is the word that holds both.
 
@@ -1015,7 +1015,7 @@ The line sits third in a quartet, and it was the only member that was not a plai
 > 我**無事**，而民自富 — *I do not meddle, and the people enrich themselves*
 > 我無欲，而民自樸 — *I am desireless, and the people become plain of themselves*
 
-In the Chinese, 無為 and 無事 are visibly the same construction — the same negation over two different hands (`glossary/shi-事.md`). Four plain statements now, and the pairing is audible. The chapter's other 無事, 以無事取天下, follows: *"win the world by not meddling."*
+In the Chinese, 無為 and 無事 are visibly the same construction — the same negation over two different hands (`glossary/shi-事.md`). Four plain statements now, and the pairing is audible. The chapter's other 無事, 以無事取天下, follows: *"win the world by not meddling."* *(Superseded 2026-11-19: 我無欲 reads* I do not desire*, completing the four; 以無事取天下 reads* win over the world*.)*
 
 ### Ch 49
 
@@ -2076,6 +2076,22 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 52, 56 · 閉其門 → "close the gates"
+
+*(2026-11-19, Shalom's call.)* *(was: "close the doors.")* 門 is *gate* at 1, 6 and 10; *door* is 戶's. T3-19.
+
+### Ch 57 · 我無欲 → "I do not desire"; 樸 keeps "plain"
+
+*(2026-11-19, Shalom's call.)* *(was: "I am desireless.")* The 我▢ refrain reads *I do not …* where the Chinese does; *plain* stays as `glossary/pu-樸.md` argues. T3-18, T3-19.
+
+### Ch 2 · "the not-good arises"; "shape each other"; "fill each other"
+
+*(2026-11-19, Shalom's calls.)* *(was: "the bad arises," "measure," "depend on.")* 不善 negates line 2's own word; 形 is *shape*; 盈, our base's pre-taboo reading, is *fill*. T3-18, T2-58.
+
+### Ch 38 · 上德不德 keeps "does not do integrity"
+
+*(2026-11-19, Shalom's call, answering his own question of 2026-11-02.)* The mirror with 不失德 *does not lose* and Wang Bi's 不為而成 keep *do*; *perform* set aside. T1-28.
 
 ### Ch 68 · 善▢者 ×4 "Those masterful at …"; 配天 "matched with the sky, the far end the ancients reached"
 
