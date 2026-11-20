@@ -83,12 +83,12 @@ The symmetry is not a coincidence: it is one grammar taken twice, a stative word
 
 **Straining against a thing's nature — *forcing*.** Where 強 modifies a verb of naming or describing, it is the strain of the act, not a quality of anything:
 
-- **ch 15** 強為之容 — *forcing a description of them*
-- **ch 25** 強字之曰道，強為之名曰大 — *forcing a style on it, I call it the Tao; forcing a name, I call it the vast*
+- **ch 15** 強為之容 — *do I force a likeness on them*
+- **ch 25** 強字之曰道，強為之名曰大 — *Forcing a label on it, I call it the Tao. / Forcing a name on it, I call it great.*
 
 The tradition heard this as a separate word. 河上公's text at ch 25 carries the phonetic note 強其文反, a *fanqie* spelling giving the third-tone reading *qiǎng* — "to force, to compel" — rather than *qiáng*. (These phonetic notes are later editorial additions to the Heshang Gong text, not the Han commentary itself; they record how the line was read, not what its first reader wrote.)
 
-**Coercing something that is not yours — *force / dominance*.** Ch 30 uses 強 three times against the world and against people, where *strengthen* would be simply wrong: you do not strengthen a country by invading it.
+**Coercing something that is not yours — *forcing*, and the *strength* it seizes.** Ch 30 uses 強 three times against the world and against people, where *strengthen* would be simply wrong: you do not strengthen a country by invading it. Since 2026-11-19 (Shalom's call) the verse reads *"does not force the world with arms,"* *"never pushes on to seize strength,"* and *"They succeed without forcing"*; *dominate* and *dominance* had borrowed a word with no character behind it.
 
 - 不以兵強天下 — *does not use arms to force the world*
 - 不敢以取強 — 河上公: 不以果敢取強大之名也, *"does not use boldness to seize the name of 強大"*

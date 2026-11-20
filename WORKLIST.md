@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **71 item rows: 58 open · 0 done · 12 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **70 item rows: 58 open · 0 done · 11 part done · 1 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -47,7 +47,6 @@
 | T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
 | T2-33 | ⬜ | **利** wants an entry — 9 chapters, three jobs: *benefit* (bound to 害 at 56, 73, 81) · **sharp** (利器 36, 57; 利劍 53 — the 說文 sense, 銛也。从刀) · *advantage* (11, 19) | 8 11 19 36 53 56 57 73 81 | E |
 | T2-34 | ⬜ | **微** (*wēi* — faint) — *hidden* (36) against *faint* (15, 64). 說文 隱行也, "to go concealed". Ch 14's *the intangible* stands (T2-52) | 15 36 64 | E |
-| T2-39 | 🔶 | **The 強為之▢ frame (*qiǎng wéi zhī* — "forcing a ▢ on it") takes two shapes** — *"Forcing a name on it"* at 25 (強為之名) and *"do I force a likeness"* at 15 (強為之容). 名 (*míng* — name) is the book's own heavily-worked word, 21 lines across 9 chapters, and ch 1 is built on it | 15 25 | E |
 | T2-47 | ⬜ | **Ch 68's 善▢者 frame has a seam.** 善為士者 is verbatim at 15 and 68, so its first line reads *"Those masterful in service are not martial"* — while its other three run *"The master fighter," "The master of overcoming enemies," "The master of using people."* Four instances of one frame, two shapes | 68 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |
 | T2-49 | ⬜ | **兵 two Englishes** — *weapons* at 31, 50, 57, 69, 80 and *military force* at ch 30 (以兵強天下). *Arms* is unavailable: that is 臂, the body's arms, at 38, 42 and 64 | 30 31 50 57 69 76 80 | E |

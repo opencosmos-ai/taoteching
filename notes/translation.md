@@ -2075,6 +2075,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 15 · 故強為之容 → "do I force a likeness on them"
+
+*(2026-11-19, Shalom's call.)* *(was: "do I force a likeness.")* 之 rendered, so the frame *force a ▢ on ▢* reads at 15 and 25; each keeps its own noun (容 *likeness*; 字 *label*, 名 *name*, as Wang Bi separates them). T2-39.
+
 ### Ch 25, 30, 55, 77 · four more members brought into step
 
 *(2026-11-19, Shalom's calls.)* Ch 25 *"It stands alone and never changes. / It moves in a circle and is never in danger"* (was *"Solitary. Unchanging. / … never in danger"*); ch 30 強 ×3 in the lock's words, *force the world with arms*, *seize strength*, *without forcing* (was *dominate*, *dominance*, *excessive force*); ch 55 *"Increasing life is called an ill omen"*, the fourth *is called* (was *"To force life to increase…"*); ch 77 the bow takes the law's verbs, *taken from … mended* (was *drawn off … filled in*), with Heshang Gong's 與 recorded as fork 127. T3-18.
