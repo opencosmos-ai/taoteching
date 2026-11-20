@@ -382,9 +382,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 19,2,慈,cí,慈,tenderness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,民,mín,民,the people,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,義,yì,仁,duty,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
-19,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off cunning, abandon profit, and there are no thieves."
-19,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Cut off cunning, abandon profit, and there are no thieves."
-19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off cunning, abandon profit, and there are no thieves."
+19,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
+19,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
+19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
 19,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"These three, taken as cultural form, are not enough."
 19,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,So give them something to belong to:
 19,6,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"see the undyed silk, embrace the uncarved wood,"
@@ -747,7 +747,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,2,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"If you would have it yield, you must first strengthen it."
 36,3,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"If you would bring it down, you must first raise it up."
 36,4,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"If you would take from it, you must first give to it."
-36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the hidden clarity.
+36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the faint clarity.
 36,6,剛,gāng,柔,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
@@ -830,7 +830,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 38,15,道,dào,道,the Tao / way,yes,1.0,authored,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness."
 38,16,始,shǐ,母,beginning,yes,1.0,authored,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness."
 38,16,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness."
-38,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"This is why the great person dwells in the thick, not the thin,"
+38,17,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"This is why the great person dwells in the thick and does not stay in the thin,"
 39,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,These received the one long ago:
 39,1,得,dé,得 & 失,get,yes,1.0,exact-count,These received the one long ago:
 39,2,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"Sky received the one, and so became clear."
@@ -1210,7 +1210,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,6,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
-57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more cunning people become, the more strange contrivances appear."
+57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
 57,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,Therefore the sage says:
 57,10,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"I do not do, and the people transform themselves."

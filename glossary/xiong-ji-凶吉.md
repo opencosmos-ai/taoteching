@@ -7,7 +7,7 @@ flexions:
   - { english: "inauspicious", chapters: [31], why: "凶事 is the ritual category, the rites of mourning, named as the pair of 吉事 in the same line" }
 forbidden: ["disaster", "evil", "unlucky", "lucky"]
 chapters: [16, 30, 31]
-status: open
+status: locked
 pairing: true
 binds: [taoteching]
 shuowen: "凶: bad; a picture of the ground broken open, with something fallen into it. 吉: good; from 士 (shì — a man of service) and 口 (kǒu — a mouth)."
@@ -26,7 +26,7 @@ refs:
 
 *Say "shyoong," level, and "jee," rising. 凶 stands three times in three chapters, 吉 once, beside it. The diviner's two words: what the sign says about the way ahead.*
 
-**Recommended: 凶 → "ominous" · 吉 → "auspicious."** *Lean* for 凶年 (*xiōng nián* — a year of failed harvest) at chapter 30, and *inauspicious* for 凶事 (*xiōng shì* — the rites of mourning) at chapter 31, where both compounds have hardened. *(Not "disaster," which is 禍 (huò)'s. Not "evil," a moral verdict on an outcome. Not "unlucky," which makes chance of what follows from conduct.)* The I Ching renders the pair the same way (Shalom's calls, 2026-10-20), and this entry binds only the Tao Te Ching, because its list must forbid a word the I Ching needs.
+**Locked: 凶 → "ominous" · 吉 → "auspicious."** *(Locked 2026-11-19, Shalom's call, after the chapter pass.)* *Lean* for 凶年 (*xiōng nián* — a year of failed harvest) at chapter 30, and *inauspicious* for 凶事 (*xiōng shì* — the rites of mourning) at chapter 31, where both compounds have hardened. *(Not "disaster," which is 禍 (huò)'s. Not "evil," a moral verdict on an outcome. Not "unlucky," which makes chance of what follows from conduct.)* The I Ching renders the pair the same way (Shalom's calls, 2026-10-20), and this entry binds only the Tao Te Ching, because its list must forbid a word the I Ching needs.
 
 ### The graph: a pit, and a mouth that speaks well
 

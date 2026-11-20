@@ -2081,6 +2081,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 19, 57 · 巧 → "skill"; ch 36 · 微明 → "the faint clarity"; ch 38 · 不居 → "does not stay in"
+
+*(2026-11-19, Shalom's calls.)* *(was: "cunning" ×2; "the hidden clarity"; "dwells in the thick, not the thin.")* 巧 is 技也, *skill* as at 45, and *cunning* is 缺缺's at 58; *hidden* is 隱's at 41; 居 is *stay* as at ch 2, and ch 38's four clauses have their two verbs. T2-20, T2-34, T2-57.
+
 ### Ch 16, 30 · 凶 → "ominous"; 凶年 → "a lean year"
 
 *(2026-11-19, Shalom's calls.)* *(was: "brings reckless action and disaster," "a year of disaster.")* 凶 is the verdict on conduct, *disaster* 禍's; 凶年 is a failed-harvest year (Heshang Gong). Ch 31's *inauspicious occasions* kept as the ritual pair's flexion. `glossary/xiong-ji-凶吉.md`; T2-53.

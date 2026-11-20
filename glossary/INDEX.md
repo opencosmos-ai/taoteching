@@ -72,7 +72,7 @@ python3 tools/build_index.py
 | **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
 | **禍 & 福** | *huò / fú* | disaster / fortune | "bless", "luck", "misfortune", "calamity", "woe" | 4 | **locked** | [`huo-fu-禍福.md`](huo-fu-禍福.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
-| **凶 & 吉** | *xiōng / jí* | ominous / auspicious · *lean* (ch 30) · *inauspicious* (ch 31) | "disaster", "evil", "unlucky", "lucky" | 3 | open — not yet a lock · binds taoteching only | [`xiong-ji-凶吉.md`](xiong-ji-凶吉.md) |
+| **凶 & 吉** | *xiōng / jí* | ominous / auspicious · *lean* (ch 30) · *inauspicious* (ch 31) | "disaster", "evil", "unlucky", "lucky" | 3 | **locked** · binds taoteching only | [`xiong-ji-凶吉.md`](xiong-ji-凶吉.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **愚** | *yú* | a fool / foolishness / foolish | "guileless", "ignorant", "ignorance", "stupid", "make fools of" | 3 | **locked** | [`yu-愚.md`](yu-愚.md) |

@@ -74,7 +74,7 @@ The one who is busy being seen cannot see. Clarity is not something acquired; it
 明 flexes by grammar; keep it inside one image — *sight that is unobstructed*:
 
 - as the named state → **clear-seeing** (知常曰明 → "knowing the ever-present is called clear-seeing")
-- as a noun → **clarity** (用其光，復歸其明 → "use its light, return to its clarity"; 微明 → "the hidden clarity"; 襲明 → "clarity worn covered")
+- as a noun → **clarity** (用其光，復歸其明 → "use its light, return to its clarity"; 微明 → "the faint clarity"; 襲明 → "clarity worn covered")
 - as predicate or verb → **sees clearly / does not see clearly** (不自見，故明; 自見者不明), except at ch 33, below
 - as a modifier → **clear** (明道 at 41 → "the clear Tao")
 - 明白四達 (10) → **"clarity reaching the four quarters"**

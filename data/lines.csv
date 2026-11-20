@@ -202,7 +202,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 18,4,0,國家昏亂，有忠臣。,"Guó jiā hūn luàn, yǒu zhōng chén.","The state \[guo\] and family/nation \[jia\] are dark/chaotic \[hun luan\], there are \[you\] loyal \[zhong\] ministers/officials \[chen\].","When states grow clouded and fall into disorder, loyal ministers appear.",exact-count
 19,1,1,絕聖棄智，民利百倍；,"Jué shèng qì zhì, mín lì bǎi bèi;","Sever/cut off \[jue\] sageliness \[sheng\], abandon/discard \[qi\] wisdom/cleverness \[zhi\], the people \[min\] benefit \[li\] a hundred \[bai\] fold \[bei\];","Cut off sagehood, abandon cleverness, and the people benefit a hundredfold.",exact-count
 19,2,1,絕仁棄義，民復孝慈；,"Jué rén qì yì, mín fù xiào cí;","Sever \[jue\] benevolence \[ren\], abandon \[qi\] righteousness \[yi\], the people \[min\] revert/return \[fu\] to filial piety \[xiao\] and deep love \[ci\];","Cut off humaneness, abandon duty, and the people return to devotion and tenderness.",exact-count
-19,3,1,絕巧棄利，盜賊無有。,"Jué qiǎo qì lì, dào zéi wú yǒu.","Sever \[jue\] skill/cunning \[qiao\], abandon \[qi\] profit/gain \[li\], thieves \[dao\] and robbers \[zei\] will not exist \[wu you\].","Cut off cunning, abandon profit, and there are no thieves.",exact-count
+19,3,1,絕巧棄利，盜賊無有。,"Jué qiǎo qì lì, dào zéi wú yǒu.","Sever \[jue\] skill/cunning \[qiao\], abandon \[qi\] profit/gain \[li\], thieves \[dao\] and robbers \[zei\] will not exist \[wu you\].","Cut off skill, abandon profit, and there are no thieves.",exact-count
 19,4,2,此三者以為文不足，,"Cǐ sān zhě yǐ wéi wén bù zú,","These \[ci\] three \[san\] things \[zhe\] used as \[yi wei\] culture/adornment \[wen\] are not \[bu\] sufficient \[zu\],","These three, taken as cultural form, are not enough.",exact-count
 19,5,2,故令有所屬：,Gù lìng yǒu suǒ shǔ:,Therefore \[gu\] cause/make \[ling\] them have \[you\] a place to belong/attach \[suo shu\]:,So give them something to belong to:,exact-count
 19,6,2,見素抱樸，,"Jiàn sù bào pǔ,","Look at/display \[jian\] plainness/raw silk \[su\], embrace \[bao\] the uncarved wood \[pu\],","see the undyed silk, embrace the uncarved wood,",exact-count
@@ -431,7 +431,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 36,2,1,將欲弱之，必固強之；,"Jiāng yù ruò zhī, bì gù qiáng zhī;","About to desire to have it yield, must firmly strengthen it.","If you would have it yield, you must first strengthen it.",exact-count
 36,3,1,將欲廢之，必固興之；,"Jiāng yù fèi zhī, bì gù xīng zhī;","About to desire to abolish it, must firmly elevate it.","If you would bring it down, you must first raise it up.",exact-count
 36,4,1,將欲奪之，必固與之。,"Jiāng yù duó zhī, bì gù yǔ zhī.","About to desire to take from it, must firmly give to it.","If you would take from it, you must first give to it.",exact-count
-36,5,2,是謂微明。,Shì wèi wēi míng.,This is called subtle illumination.,This is called the hidden clarity.,exact-count
+36,5,2,是謂微明。,Shì wèi wēi míng.,This is called subtle illumination.,This is called the faint clarity.,exact-count
 36,6,2,柔弱勝剛強。,Róu ruò shèng gāng qiáng.,Soft and yielding overcomes hard and strong.,The soft and yielding overcome the unbending and strong.,exact-count
 36,7,3,魚不可脫於淵，,"Yú bù kě tuō yú yuān,",Fish cannot be removed from the deep abyss.,A fish cannot leave deep water.,exact-count
 36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's beneficial tools cannot be shown.,exact-count
@@ -456,9 +456,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 38,14,3,而亂之首。,ér luàn zhī shǒu.,and the head of chaos.,"Ritual is the thinning of loyalty and trust, and the head of disorder.",authored
 38,15,3,前識者，道之華，,"Qián shí zhě, dào zhī huá,","Foreknowledge is the flowery display of the Tao,","Knowing in advance is the blossom of the Tao, and the beginning of foolishness.",authored
 38,16,3,而愚之始。,ér yú zhī shǐ.,and the beginning of foolishness.,"Knowing in advance is the blossom of the Tao, and the beginning of foolishness.",authored
-38,17,4,是以大丈夫處其厚，,"Shì yǐ dà zhàng fū chǔ qí hòu,","Therefore the fully grown person dwells in its thickness,","This is why the great person dwells in the thick, not the thin,",authored
-38,18,4,不居其薄；,bù jū qí bó;,and does not reside in its thinness;,"This is why the great person dwells in the thick, not the thin,",authored
-38,19,4,處其實，不居其華。,"chǔ qí shí, bù jū qí huá.","Dwells in its fruit, and does not reside in its flowery display.","dwells in the substance, not the blossom.",authored
+38,17,4,是以大丈夫處其厚，,"Shì yǐ dà zhàng fū chǔ qí hòu,","Therefore the fully grown person dwells in its thickness,","This is why the great person dwells in the thick and does not stay in the thin,",authored
+38,18,4,不居其薄；,bù jū qí bó;,and does not reside in its thinness;,"This is why the great person dwells in the thick and does not stay in the thin,",authored
+38,19,4,處其實，不居其華。,"chǔ qí shí, bù jū qí huá.","Dwells in its fruit, and does not reside in its flowery display.",dwells in the substance and does not stay in the blossom.,authored
 38,20,4,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore rejects that and takes this.,They let go of what is out there and take what is here.,authored
 39,1,1,昔之得一者：,Xī zhī dé yī zhě,"Of old (in the beginning), these are the things that obtained/connected to the One (一):",These received the one long ago:,exact-count
 39,2,1,天得一以清；,Tiān dé yī yǐ qīng,"Heaven obtained the One, and by it became clear/pure/transparent.","Sky received the one, and so became clear.",exact-count
@@ -615,7 +615,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 57,4,1,吾何以知其然哉？以此：,Wú hé yǐ zhī qí rán zāi? Yǐ cǐ:,How do I know it is so? By this:,How do I know it is so? By this:,exact-count
 57,5,2,天下多忌諱，而民彌貧；,"Tiān xià duō jì huì, ér mín mí pín;","The more taboos/restrictions in the world, the poorer the people become;","The more taboos in the world, the poorer the people become.",exact-count
 57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more beneficial tools the people have, the more clouded the state becomes.",exact-count
-57,7,2,人多伎巧，奇物滋起；,"Rén duō jì qiǎo, qí wù zī qǐ;","The more skill/cunning the people have, the more strange things arise;","The more cunning people become, the more strange contrivances appear.",exact-count
+57,7,2,人多伎巧，奇物滋起；,"Rén duō jì qiǎo, qí wù zī qǐ;","The more skill/cunning the people have, the more strange things arise;","The more skills people have, the more strange contrivances appear.",exact-count
 57,8,2,法令滋彰，盜賊多有。,"Fǎ lìng zī zhāng, dào zéi duō yǒu.","The more laws and decrees are made prominent, the more thieves and robbers there are.","The more laws are proclaimed, the more thieves there are.",exact-count
 57,9,3,故聖人云：,Gù shèng rén yún:,Therefore the Sage says:,Therefore the sage says:,exact-count
 57,10,3,我無為，而民自化；,"Wǒ wú wéi, ér mín zì huà;","I execute zero-friction (wu wei), and the people transform themselves;","I do not do, and the people transform themselves.",exact-count

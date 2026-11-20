@@ -123,7 +123,7 @@ He quotes the line right there, 將欲弱之，必固強之, and closes the pass
 
 **Yue yields, and Wu is had to yield.** Yue serves its enemy and lets it grow. Wu, swollen, is subdued. One character, two parties, one story. So the four second verbs of the chapter, *stretch out, strengthen, raise up, give to*, may themselves be ways of giving way, and line 6 may name what "you" were practicing all along while line 2 names what befalls the other side. That is our reading. The story fits it, and no commentator states it.
 
-**What this leaves open.** A word the book gives the sage, and the Tao at ch 40, stands here in a calculating sentence. In Han Fei's hands it is plainly a tactic. Wang Bi hears something closer to how things go. The chapter calls it 微明 (*wēi míng* — the hidden clarity) and does not choose, so neither does the English.
+**What this leaves open.** A word the book gives the sage, and the Tao at ch 40, stands here in a calculating sentence. In Han Fei's hands it is plainly a tactic. Wang Bi hears something closer to how things go. The chapter calls it 微明 (*wēi míng* — the faint clarity) and does not choose, so neither does the English.
 
 ### 柔 and 弱 are two words, and ch 78 proves it
 

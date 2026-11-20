@@ -580,7 +580,7 @@
   render: "ominous / auspicious"
   forbidden: ["disaster", "evil", "unlucky", "lucky"]
   chapters: [16, 30, 31]
-  status: open
+  status: locked
   entry: glossary/xiong-ji-凶吉.md
   binds: [taoteching]
   flexions:
