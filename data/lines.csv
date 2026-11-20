@@ -538,8 +538,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 48,1,1,為學日益，為道日損。,"Wéi xué rì yì, wéi dào rì sǔn.","Pursuing study/learning, one increases daily; pursuing the Tao, one decreases daily.","In pursuit of learning, you increase daily; / in pursuit of the Tao, you decrease daily.",authored
 48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decrease, and decrease again, until you reach non-doing.",authored
 48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",authored
-48,4,2,取天下常以無事，,"Qǔ tiān xià cháng yǐ wú shì,","Taking (qu) the world is always (chang) by means of no-undertaking (wu shi),",The world always comes to you by not meddling with it.,authored
-48,5,2,及其有事，不足以取天下。,"Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.","Once there is undertaking (you shi), that is not enough (bu zu) to take the world.","The moment you meddle, it stops coming.",authored
+48,4,2,取天下常以無事，,"Qǔ tiān xià cháng yǐ wú shì,","Taking (qu) the world is always (chang) by means of no-undertaking (wu shi),",Win over the world by never meddling with it.,authored
+48,5,2,及其有事，不足以取天下。,"Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.","Once there is undertaking (you shi), that is not enough (bu zu) to take the world.","The moment you meddle, you cannot win it over.",authored
 49,1,1,聖人無常心，以百姓心為心。,"Shèng rén wú cháng xīn, yǐ bǎi xìng xīn wéi xīn.","The Sage has no constant/fixed mind, takes the people's mind as their mind.",The sage has no fixed heart; / they take everyone's heart as their own.,authored
 49,2,1,善者，吾善之；,"Shàn zhě, wú shàn zhī;","The masterful ones (shan zhe), I count as masterful (shan zhi — shan used as a verb, ""to reckon as shan"");","The masterful, I count as masterful;",authored
 49,3,1,不善者，吾亦善之；,"Bù shàn zhě, wú yì shàn zhī;","The unmasterful, I also (yi) count as masterful;","the unmasterful, I count as masterful too.",authored
@@ -611,7 +611,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 56,9,2,故為天下貴。,Gù wéi tiān xià guì.,Therefore they become the most valued under heaven.,"And so, they become the most prized in the world.",authored
 57,1,1,以正治國，,"Yǐ zhèng zhì guó,","Use correctness/orthodox to govern the state,","Govern the state with uprightness,",exact-count
 57,2,1,以奇用兵，,"yǐ qí yòng bīng,","use surprise/unorthodox to deploy the military,","wage war with surprise,",exact-count
-57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win the world by not meddling.,exact-count
+57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win over the world by not meddling.,exact-count
 57,4,1,吾何以知其然哉？以此：,Wú hé yǐ zhī qí rán zāi? Yǐ cǐ:,How do I know it is so? By this:,How do I know it is so? By this:,exact-count
 57,5,2,天下多忌諱，而民彌貧；,"Tiān xià duō jì huì, ér mín mí pín;","The more taboos/restrictions in the world, the poorer the people become;","The more taboos in the world, the poorer the people become.",exact-count
 57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more beneficial tools the people have, the more clouded the state becomes.",exact-count
@@ -720,7 +720,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 68,6,2,是謂用人之力，,"Shì wèi yòng rén zhī lì,","This is called the ability/power to use people,",This is called using people's force.,exact-count
 68,7,2,是謂配天，古之極。,"Shì wèi pèi tiān, gǔ zhī jí.","This is called matching/pairing with Heaven, the ultimate of antiquity.","This is called partnered with the sky, the pinnacle of the ancients.",exact-count
 69,1,1,用兵有言：,Yòng bīng yǒu yán:,Deploying the military has a saying:,Soldiers have a saying:,exact-count
-69,2,1,吾不敢為主，而為客；,"Wú bù gǎn wéi zhǔ, ér wéi kè;","I dare not function as the host/initiator, but function as the guest/responder;",I do not push to move first. I move second.,exact-count
+69,2,1,吾不敢為主，而為客；,"Wú bù gǎn wéi zhǔ, ér wéi kè;","I dare not function as the host/initiator, but function as the guest/responder;",I do not push to be the host. I am the guest.,exact-count
 69,3,1,不敢進寸，而退尺。,"Bù gǎn jìn cùn, ér tuì chǐ.","Dare not advance an inch, but retreat a foot.",I do not push an inch into another's ground. I give up a foot of my own.,exact-count
 69,4,2,是謂行無行，,"Shì wèi xíng wú xíng,","This is called marching without marching,","This is called marching where there are no ranks,",exact-count
 69,5,2,攘無臂，,"Rǎng wú bì,","Rolling up sleeves without arms,","baring an arm where there is no arm,",exact-count

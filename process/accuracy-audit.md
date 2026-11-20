@@ -187,7 +187,7 @@ Listed so the next reader does not re-flag them. Each pointer is where the reaso
 | 57 | 自樸 (*zì pǔ* — "plain of themselves") → *become plain* | `glossary/pu-樸.md`, a licensed flexion |
 | 64 | 學不學 (*xué bù xué* — "learns the not-learning") → *learns to unlearn* | `notes/translation.md` → *Ch 64* |
 | 65 | 明民 (*míng mín* — "make the people clear-sighted") → *make the people clever* | the chapter's notes (T1-17), a declared exception |
-| 69 | 主 / 客 (*zhǔ / kè* — host / guest) → *move first / move second*; *into another's ground* | `notes/translation.md` → *Ch 69*, logged open |
+| 69 | 主 / 客 (*zhǔ / kè* — host / guest) → *move first / move second* *(was, until 2026-11-19; now* host / guest*, Shalom's call)*; *into another's ground* | `notes/translation.md` → *Ch 69* |
 | 71 · 75 | the closing 是以 (*shì yǐ* — therefore) repetition cut | the chapters' notes |
 | 72 | 大威 (*dà wēi* — "the great dread") → *the great collapse* | `process/form-audit.md`, Shalom's call |
 | 74 | 司殺者 (*sī shā zhě* — "the one in charge of killing") → *one who does the killing* | the chapter's notes; `notes/manuscript.md` |

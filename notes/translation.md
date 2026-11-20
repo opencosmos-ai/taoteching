@@ -970,6 +970,8 @@ It also repairs the couplet. Ch 40 is the shortest chapter in the book and is bu
 
 #### 取天下 → "the world comes to you"
 
+*(Superseded 2026-11-19: chs 48 and 57 read* win over the world*, Shalom's call;* comes to you *is ch 35's English for 天下往.)*
+
 *(not "win" or "take the world")*
 
 The literal 取 is *seize / take* — its graph is a hand (又) gripping an ear (耳), the severed left ear of a slain enemy, counted on the battlefield for reward. It is the most grasping word in the language. But Laozi *subverts* it: the world is a 神器, a sacred vessel that 不可執 — "cannot be grasped" — and 執者失之, "whoever grasps it loses it" (Ch 29). The conqueror's verb names precisely the thing that fails.
@@ -989,6 +991,8 @@ Net: fidelity to the *word* traded for fidelity to the *teaching*. A conscious c
 Block 2 carries **two** lines of Chinese — 取天下常以無事 and 及其有事，不足以取天下 — and the English rendered them **four** times: the logged reading, then a second, more literal pass that had lost its subject (*"always won by non-interference."*) and used *"win the world,"* the exact word the 取天下 entry above argues against. The second stanza was dead draft. It is deleted, not repaired.
 
 #### 取天下常以無事 → "The world always comes to you by not meddling with it"
+
+*(Superseded 2026-11-19: "Win over the world by never meddling with it. / The moment you meddle, you cannot win it over.")*
 
 The couplet is **framed and pivoted**, and the English had kept neither. 取天下 opens it and closes it; between those, one character flips — **無事 → 有事**, absence of undertaking to presence of it, built on the 無/有 pair this edition locks as *absence / presence*.
 
@@ -1082,6 +1086,8 @@ The line proves the newborn's intact vitality: 未知牝牡之合而全作，精
 ### Ch 57
 
 #### 取天下 → "win the world through non-interference"
+
+*(Superseded 2026-11-19: ch 57 reads* win over the world*.)*
 
 *(the Ch 48 rule, second instance)*
 
@@ -1627,6 +1633,8 @@ Two chapters back, Ch 67: 我有**三寶**，持而保之 — *"I have three tre
 
 ### Ch 69 · 主 / 客 — the image is jargon, and jargon has to be translated
 
+*(Superseded 2026-11-19, Shalom's call: "I do not push to be the host. I am the guest." The August reasoning below is kept; see* Ch 69 · 主 / 客 → host / guest *below.)*
+
 不敢**為主**，而**為客**. The characters are lovely: 主 (*zhǔ*) is a **lamp with its flame standing on it** — whoever keeps the fire, so whoever's house it is. 客 (*kè*) is 宀 (a roof) over 各 (a foot arriving at a threshold) — whoever comes under someone else's roof.
 
 **Drafted first as "I do not push to be the host. I come as the guest," and changed on Shalom's objection: he could not tell what the saying meant, and neither could any reader who had not been told.** The objection is correct, and the reason is that **主/客 was a term of art**, not an image. Warring States military writing used the pair the way English uses *offense* and *defense*. A reader in 400 BCE heard technical vocabulary; a modern English reader hears a dinner party. **Jargon rendered as image is a mistranslation, not fidelity** — the same argument that sends 天 to *nature* rather than *Heaven*.
@@ -2066,6 +2074,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 48, 57 · 取天下 → "win over the world"
+
+*(2026-11-19, Shalom's call.)* *(was: "The world always comes to you…" at 48, "win the world" at 57.)* 取天下 meant coming to hold the realm (Heshang Gong: 取，治也). *Take* stays with ch 29's grasper; for the sage it alarmed (Shalom), and *comes to you* was ch 35's 天下往. *Win over* is allegiance drawn, not a contest. Cost: one phrase, two Englishes, split by grasped or drawn. T1-22, T3-17.
+
+### Ch 69 · 主 / 客 → host / guest
+
+*(2026-11-19, Shalom's call.)* *(was: "I do not push to move first. I move second.")* The text's own pair replaces Heshang Gong's gloss; 客 reads *guest* at 15 and 35. Shalom had rejected the image in August as unreadable jargon; it is taken now because the next line's inch and foot spell it out. T1-23.
 
 ### Ch 36, 57 · 利器 → "beneficial tools"
 
@@ -2720,7 +2736,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 **說文 unifies all three uses:** 客 寄也。从宀各聲 — *"to be lodged; from 宀 (mián — a roof),"* and 寄 (*jì*) is 託也, *"entrusted to another's keeping."* **客 is one who is under a roof that is not theirs.** Its pair 主 (*zhǔ*) is 鐙中火主也 — *"the flame in the lamp."* The one whose fire it is, and the one who came to it. 河上公 reads two of the three through that pair: at ch 15, 如客畏主人，儼然無所造作也, *"like a 客 in awe of the 主人 (zhǔ rén — the master of the house); solemn, making nothing of their own"*; at ch 69, 客者，和而不倡, *"the 客 harmonizes and does not lead off."*
 
-**Ch 69 is the worse problem and is logged open.** 吾不敢為主，而為客 reads *"I do not push to move first. I move second"* — that is 河上公's gloss 主，先也 (*"主 means first"*) rendered **instead of** the text, and both characters vanish. `CLAUDE.md`: a commentator's gloss is not the text. On the battlefield the 客 is the army standing on ground that is not its own, which is what licenses 不敢進寸而退尺 in the next line.
+*(Closed 2026-11-19: ch 69 reads host / guest, Shalom's call.)* **Ch 69 is the worse problem and is logged open.** 吾不敢為主，而為客 reads *"I do not push to move first. I move second"* — that is 河上公's gloss 主，先也 (*"主 means first"*) rendered **instead of** the text, and both characters vanish. `CLAUDE.md`: a commentator's gloss is not the text. On the battlefield the 客 is the army standing on ground that is not its own, which is what licenses 不敢進寸而退尺 in the next line.
 
 **止 (*zhǐ*) and 足 (*zú*) are the same picture, and 許慎 says so**: 說文 止 下基也。象艸木出有址，故以止爲足 — *"the base below; it pictures grass and trees emerging with a footing, so 止 is taken for 足."* The traveller's foot stops; the next three lines are about there not being **enough** of a foothold. Not forced into the verse; recorded because it is the chapter's own rhyme.
 

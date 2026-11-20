@@ -148,4 +148,4 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 ***Comes first* was weighed against *ends up ahead*, and kept.** *Ends up ahead* would have given the move one pair of words in all four lines and dropped the Gospel cadence; *comes first* keeps the line readers remember. Shalom's call.
 
-**Chapter 69's 主 / 客 still reads *move first / move second***, Heshang Gong's gloss rendered in place of the text. When T1-23 is settled, it must not take *ahead* or *behind*, which would make 主 and 客 (*kè* — guest) look like 先 and 後.
+**Chapter 69's 主 / 客 reads *host* and *guest*** (Shalom's call, 2026-11-19, closing T1-23), not *ahead* or *behind*, which would have made 主 and 客 (*kè* — guest) look like 先 and 後. *(Was* move first / move second*, Heshang Gong's gloss rendered in place of the text.)*

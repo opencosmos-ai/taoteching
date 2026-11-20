@@ -87,7 +87,7 @@ That range is why no single English word can carry all nineteen lines, and the e
 
 **At 48 and 57, 無事 stands alone** as the name of a policy. Nothing in the line rhymes with it, so the English is free to name the failure it prevents — and *meddling* is exactly what the commentators describe. Wang Bi on 及其有事: 自已造也, *"it is manufactured by oneself."* Heshang Gong: 好有事，則政教煩，民不安 — *"fond of having undertakings, and governance and instruction turn troublesome, and the people are not at peace."* Officiousness, not violence, which is what makes it such a good diagnosis of bad rule.
 
-> 48 · 取天下常以**無事** — *the world always comes to you by not meddling with it*
+> 48 · 取天下常以**無事** — *win over the world by never meddling with it*
 > 57 · 我**無事**，而民自富 — *I do not meddle, and the people enrich themselves*
 
 That last line sits third in a quartet — 無為 / 好靜 / 無事 / 無欲 — and the plain verb keeps all four as plain sayings, which is what the Chinese has.

@@ -406,7 +406,7 @@ And then the last line, which is the one to sit with. When two armies are evenly
 
 That is the same claim as Ch 31's *a victory in battle should be treated like a funeral rite*, made earlier — before the battle rather than after it — and turned from an ethic into a mechanism.
 
-**Thread · the treasures.** Ch 67 names three (tenderness, frugality, never first). Ch 69 spends two of them without renaming them: *I do not push to move first* is *never pushing to be first*, and *the one who grieves wins* is *tenderness*. The middle treasure, frugality, is what the retreat is — an inch of ground is not worth what it costs.
+**Thread · the treasures.** Ch 67 names three (tenderness, frugality, never first). Ch 69 spends two of them without renaming them: *I do not push to be the host* is *never pushing to be first* (Heshang Gong: 主，先也, *"the host is the one who goes first"*), and *the one who grieves wins* is *tenderness*. The middle treasure, frugality, is what the retreat is — an inch of ground is not worth what it costs.
 
 ### Ch 70 · the chapter that is not complaining
 
