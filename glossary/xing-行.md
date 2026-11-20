@@ -97,7 +97,7 @@ The same sense stands at 24 (跨者不行, *get nowhere*), 33 (強行者, *walks
 
 ### What no rule can enforce
 
-**"act" cannot be forbidden for 行.** 為 legitimately prints *act* in chapters that also hold 行: ch 2 (*"the sage acts, yet relies on nothing"*), ch 12 (*"the sage acts for the belly"*), ch 47 (*"accomplishes without acting"*). The checker gates on whether a character is present in the chapter and cannot say *right for 為, wrong for 行, same chapter.* The match is also by substring, so *act* would flag every *practice*. **The ruling holds for the reader**: in this book 行 never takes *act*. *Action* and *execute* can go on `forbidden:`, because no chapter holding 行 uses either for anything else.
+**"act" cannot be forbidden for 行.** 為 legitimately prints *act* in chapters that also hold 行: ch 2 (*"acts, and does not rely on it"*), ch 12 (*"the sage acts for the belly"*), ch 47 (*"accomplishes without acting"*). The checker gates on whether a character is present in the chapter and cannot say *right for 為, wrong for 行, same chapter.* The match is also by substring, so *act* would flag every *practice*. **The ruling holds for the reader**: in this book 行 never takes *act*. *Action* and *execute* can go on `forbidden:`, because no chapter holding 行 uses either for anything else.
 
 **"follow" is shared, on the record.** At ch 70 and 78 it renders 行. It also carries 從 (*cóng*, ch 21), 隨 (*suí*, ch 2 and 29), 徒 (*tú*, ch 50) and a bare 之 (ch 14), and ch 29 holds 行 and 隨 in one line: *"some go ahead, some follow."* The cost was weighed and accepted. `notes/translation.md` → *Ch 70 · 行*.
 

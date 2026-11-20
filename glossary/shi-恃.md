@@ -62,7 +62,7 @@ The oldest use of 恃 in the language is a child's, and it is gendered with tota
 - **34**: 萬物恃之以生而不辭 — *the countless things rely on it to live, and it refuses none.*
 
 **Four times, negative, of the Tao or the sage:**
-- **2, 10, 51, 77**: 為而不恃 — *acts yet relies on nothing.*
+- **2, 10, 51, 77**: 為而不恃 — *acts without relying on it* (*acts, and does not rely on it* inside ch 2's *and does not* series). *(Shalom's call, 2026-11-19; was* acts yet relies on nothing*.)*
 
 So the book's claim is a chiasm, and it is the mother relation stated as a principle: **be the thing that is relied on, and rely on nothing.** The mother is leaned on and does not lean back. Ch 34 supplies the other half of the picture in the same breath — 不辭 (*bù cí* — refuses none), 衣養萬物 (*yī yǎng wàn wù* — clothes and feeds the countless things) — and then refuses the credit: 而不為主, *and does not act as their master.*
 
@@ -103,6 +103,6 @@ The pattern across all of them: **恃 is neutral; what you put your weight on is
 
 **The cost of "rely on," stated plainly.** It is Latinate and its picture is dead: *rely* is *re-* + Old French *lier*, to bind — a body word once, an abstraction now. English readers will hear a mental act where the Chinese has a posture. **That loss is what this entry exists to hold**, and it is why the gloss above says *the heart putting its weight on something* rather than just repeating the dictionary.
 
-There is one further risk. *"Acts yet relies on nothing"* can read as self-sufficiency — the self-made sage, needing no one — which would be an overlay, and a Stoic one. **Ch 34 is the guard against it.** There, the same character says that everything alive relies on the Tao, and the Tao turns none of it away. The sage relies on nothing not because relying is weakness, but because, as 王弼 says, there is nothing there that was theirs to lean on.
+**Why the formula says *without relying on it*.** An earlier English, *acts yet relies on nothing*, could read as self-sufficiency — the self-made sage, needing no one — which would be an overlay, and a Stoic one. Heshang Gong names the object instead, at 2, 10 and 51 alike: 道所施為，不恃望其報也 (*"what the Tao does, it does not rely on, expecting a return"*). What is not relied on is the deed, and *it* says so. The change also gives chapters 10 and 51 their series whole, three *without*s (Shalom's call, 2026-11-19). **Ch 34 is the other guard.** There, the same character says that everything alive relies on the Tao, and the Tao turns none of it away. The sage does not rely on the deed not because relying is weakness, but because the deed was never theirs to lean on.
 
 **Not forbidden, and deliberately: "depend."** Ch 2 renders 高下相傾 (*gāo xià xiāng qīng*) as *"high and low depend on each other,"* and 傾 sits in the same chapter as 恃. The checker gates on whether a character is present in a chapter, so it cannot express *right for 傾, wrong for 恃, same chapter*. That distinction lives here and in the reader. See `process/skills/glossary-entry/SKILL.md` → *How the locks behave*.

@@ -163,7 +163,7 @@ Listed so the next reader does not re-flag them. Each pointer is where the reaso
 
 | Ch | The departure | Where it is decided |
 |---|---|---|
-| 2 · 10 · 51 · 77 | 為而不恃 (*wéi ér bù shì* — "acts, and does not rely on it") → *relies on nothing* | `notes/translation.md` → the 恃 (*shì* — to rely on) sweep |
+| 2 · 10 · 51 · 77 | 為而不恃 (*wéi ér bù shì* — "acts, and does not rely on it") → *relies on nothing* *(was, until 2026-11-19; now* without relying on it*, Shalom's call)* | `notes/translation.md` → the 恃 (*shì* — to rely on) sweep |
 | 3 · 30 · 64 · 67 · 69 · 73 · 74 | 敢 (*gǎn* — to venture) → *push*, and *dare* forbidden | `glossary/gan-敢.md`, locked |
 | 5 | 不仁 (*bù rén* — "not humane") → *not concerned with humaneness* | the chapter's notes |
 | 8 | 幾於道 (*jī yú dào* — "near the Tao") → *nearly the Tao* | the chapter's notes |

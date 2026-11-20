@@ -16,8 +16,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,6,2,是以聖人處無為之事，,"Shì yǐ shèng rén chǔ wú wéi zhī shì,",Therefore the Sage acts through non-action,Therefore the sage dwells in the work of non-doing,authored
 2,7,2,行不言之教。,xíng bù yán zhī jiào.,and teaches through non-speech.,and carries out the unspoken teaching.,authored
 2,8,2,萬物作而弗始，,"Wàn wù zuò ér fú shǐ,",The ten thousand things arise and the Sage does not initiate;,"The countless things arise, and the sage does not begin them.",authored
-2,9,2,生而弗有，,"shēng ér fú yǒu,",they are born and the Sage does not possess;,"They are born, and the sage does not possess them.",authored
-2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"The sage acts, yet relies on nothing.",authored
+2,9,2,生而弗有，,"shēng ér fú yǒu,",they are born and the Sage does not possess;,"The sage births them, and does not possess them;",authored
+2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"acts, and does not rely on it.",authored
 2,11,2,功成而弗居。,gōng chéng ér fú jū.,work is accomplished and the Sage takes no credit.,"The work is done, and the sage does not stay in it.",authored
 2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not leave.,authored
 3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","By not exalting the exceptional, the people have no cause to contend.",exact-count
@@ -92,7 +92,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 10,12,3,能無為乎？,néng wú wéi hū?,can you act without doing/forcing \[wu wei\]?,"Clarity reaching the four quarters, can you be non-doing?",authored
 10,13,4,生之畜之，,"Shēng zhī xù zhī,","Generating/birthing \[sheng\] them, nourishing/rearing \[xu\] them,","Giving birth to things and rearing them,",authored
 10,14,4,生而不有，,"shēng ér bù yǒu,","generating but \[er\] not possessing \[you\],","giving birth without possessing,",authored
-10,15,4,為而不恃，,"wéi ér bù shì,","acting/doing \[wei\] but not relying \[shi\],","acting yet relying on nothing,",authored
+10,15,4,為而不恃，,"wéi ér bù shì,","acting/doing \[wei\] but not relying \[shi\],","acting without relying on it,",authored
 10,16,4,長而不宰，,"zhǎng ér bù zǎi,","growing/leading \[zhang\] but not dominating/ruling \[zai\],",growing them without ruling them —,authored
 10,17,4,是謂玄德。,shì wèi xuán dé.,this is called \[shi wei\] dark/mysterious \[xuan\] virtue/power \[de\].,this is called profound integrity.,authored
 11,1,1,三十輻共一轂，,"Sān shí fú gòng yī gǔ,","Thirty \[san shi\] spokes \[fu\] share/unite \[gong\] in one \[yi\] hub \[gu\],",Thirty spokes share one hub.,exact-count
@@ -536,7 +536,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 47,4,2,是以聖人不行而知，,"Shì yǐ shèng rén bù xíng ér zhī,","Therefore the Sage knows without traveling,","Therefore, the sage knows without venturing,",authored
 47,5,2,不見而名，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","names/discerns \[ming\] without seeing \[bu jian\], completes \[cheng\] without doing \[bu wei\].","names without seeing, / and accomplishes without acting.",authored
 48,1,1,為學日益，為道日損。,"Wéi xué rì yì, wéi dào rì sǔn.","Pursuing study/learning, one increases daily; pursuing the Tao, one decreases daily.","In pursuit of learning, you increase daily; / in pursuit of the Tao, you decrease daily.",authored
-48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decreasing and decreasing, until you reach non-doing.",authored
+48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decrease, and decrease again, until you reach non-doing.",authored
 48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",authored
 48,4,2,取天下常以無事，,"Qǔ tiān xià cháng yǐ wú shì,","Taking (qu) the world is always (chang) by means of no-undertaking (wu shi),",The world always comes to you by not meddling with it.,authored
 48,5,2,及其有事，不足以取天下。,"Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.","Once there is undertaking (you shi), that is not enough (bu zu) to take the world.","The moment you meddle, it stops coming.",authored
@@ -568,7 +568,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 51,5,1,夫莫之命而常自然。,Fú mò zhī mìng ér cháng zì rán.,"Is not commanded/ordered by anyone, but is eternally spontaneous/autonomous (zi ran).","This honoring of the Tao, this prizing of integrity — no one commands it. / It is always so, of itself.",authored
 51,6,2,故道生之，德畜之；,"Gù dào shēng zhī, dé xù zhī;","Therefore the Tao generates them, the Te nourishes them;","Thus, the Tao births the countless things and integrity rears them,",authored
 51,7,2,長之育之；亭之毒之；養之覆之。,Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.,"Grows them, rears them; shapes them, matures them; sustains them, covers/protects them.","grows and raises them, settles and matures them, nourishes and protects them.",authored
-51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting yet relying on nothing, / growing them without ruling them —",authored
+51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting without relying on it, / growing them without ruling them —",authored
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,authored
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has a beginning, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
@@ -776,7 +776,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 77,4,2,天之道，損有餘而補不足。,"Tiān zhī dào, sǔn yǒu yú ér bǔ bù zú.",The Tao of Heaven: diminishes those who have excess and supplements those who are insufficient.,The way of nature / takes from where there is too much / and mends where there is too little.,authored
 77,5,2,人之道，則不然，損不足以奉有餘。,"Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",The Tao of humanity is not like this: it diminishes those who are insufficient to serve those who have excess.,The way of people is not like this. / It takes from those who have too little / and offers it up to those who have too much.,authored
 77,6,3,孰能有餘以奉天下？唯有道者。,Shú néng yǒu yú yǐ fèng tiān xià? Wéi yǒu dào zhě.,Who can have excess to serve the world? Only the one who has the Tao.,"Who has more than enough, / and offers it up to the world? / Only those who are with the Tao.",authored
-77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts yet relies on nothing. / The work is done, and they do not stay in it. / They do not want to appear exceptional.",authored
+77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts without relying on it. / The work is done, and they do not stay in it. / They do not want to appear exceptional.",authored
 78,1,1,天下莫柔弱於水，,"Tiān xià mò róu ruò yú shuǐ,","In the world, nothing is more supple and yielding than water,","In all the world nothing is softer and more yielding than water,",authored
 78,2,1,而攻堅強者莫之能勝，以其無以易之。,"Ér gōng jiān qiáng zhě mò zhī néng shèng, yǐ qí wú yǐ yì zhī.","Yet in attacking the hard and strong, nothing can surpass it, because nothing can replace it.","yet at attacking the hard and the strong nothing overcomes it, / for nothing can take its place.",authored
 78,3,2,弱之勝強，柔之勝剛，天下莫不知，莫能行。,"Ruò zhī shèng qiáng, róu zhī shèng gāng, tiān xià mò bù zhī, mò néng xíng.","That the yielding conquers the strong, the supple conquers the hard/rigid—the world knows this, but no one can practice it.","The yielding overcomes the strong. / The soft overcomes the unbending. / No one in the world fails to know this, / yet no one can follow it.",authored

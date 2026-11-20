@@ -492,7 +492,7 @@ Ch 27's other member, 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful
 
   The fourth line stays as it is: 功成 (*gōng chéng* — "the work completes") is impersonal (`notes/translation.md` → *Ch 77*), and ch 77 reads the same.
 - **Why *on it*:** the note's own stated cost is that *relies on nothing* reads as Stoic self-sufficiency. Heshang Gong on ch 2 says what is not relied on is the act's return: 道所施為，不恃望其報也 (*dào suǒ shī wéi, bù shì wàng qí bào yě* — "what the Tao does, it does not rely on, expecting a return"), and he repeats it at 10 and 51. *It* is the thing done, which is the plainer reading, and it removes the cost.
-- **生而弗有** (*shēng ér fú yǒu* — "gives birth and does not possess") at ch 2 then reads *The sage gives them birth, and does not possess them*, beside 10 and 51's *giving birth without possessing*. Heshang Gong's subject at ch 2 is the giver: 元氣生萬物而不有 (*yuán qì shēng wàn wù ér bù yǒu* — "the primal breath gives birth to the countless things and does not possess them"). This resolves T3-17's 生而不有 (*shēng ér bù yǒu*) too.
+- **生而弗有** (*shēng ér fú yǒu* — "gives birth and does not possess") at ch 2 then reads *The sage gives them birth, and does not possess them*, beside 10 and 51's *giving birth without possessing*. Heshang Gong's subject at ch 2 is the giver: 元氣生萬物而不有 (*yuán qì shēng wàn wù ér bù yǒu* — "the primal breath gives birth to the countless things and does not possess them"). This resolves T3-17's 生而不有 (*shēng ér bù yǒu*) too. **Done 2026-11-19 (Shalom's calls),** in all four chapters, with ch 2's line in Shalom's wording: *"The sage births them, and does not possess them; / acts, and does not rely on it."*
 
 #### T3-12 · 故 (*gù* — so) and 是以 (*shì yǐ* — therefore)
 
@@ -551,7 +551,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **不言之教** (*bù yán zhī jiào* — "the teaching without words"), 2 · 43 — **resolve** ch 43 to *"The teaching without words, the benefit of non-doing —"*.
 - **生而不有**, 2 · 10 · 51 — **resolved** under T3-13 above.
 - **不自見** (*bù zì jiàn* — "do not show themselves"), 22 · 24 · 72 — **resolve** ch 72 to *"knows themselves and does not show themselves off"*. Its notes argue for *display* as a concept and never as against ch 22's English. **Done 2026-11-19 (Shalom's call).**
-- **▢之又▢** (*▢ zhī yòu ▢* — "▢, and ▢ again"), 1 · 48 — **resolve** ch 48 to *"Decrease, and decrease again, until you reach non-doing."*
+- **▢之又▢** (*▢ zhī yòu ▢* — "▢, and ▢ again"), 1 · 48 — **resolve** ch 48 to *"Decrease, and decrease again, until you reach non-doing."* **Done 2026-11-19 (Shalom's call).**
 - **取天下 … 以無事** (*qǔ tiān xià… yǐ wú shì* — "take the world… by not meddling"), 48 · 57 — **leave, and record why.** Ch 48 states how the world is won and chose the receptive *comes to you* (recorded). Ch 57's line closes a series of three imperatives, *Govern… wage war… win*, and needs an active verb in the series' own voice. **But** ch 29's *take the world* is the third English of 取天下 (*qǔ tiān xià*), and the note at 取天下 (*qǔ tiān xià*) leaves that open: settle it there.
 - **抱一** (*bào yī* — "embrace one"), 10 · 22 — **leave; the verdict is now *departed*.** The lock carries *one thing (ch 22)* as a flexion, so the split is data, not drift.
 - **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*. **Done 2026-11-19 (Shalom's call).**

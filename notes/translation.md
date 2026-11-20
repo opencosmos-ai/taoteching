@@ -2027,7 +2027,7 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 **Settled as *rely on*** — Shalom's word, taken over the AI's *lean on* for two reasons found while writing the entry: 倚 (*yǐ* — to lean against) already holds *lean* at ch 58's 禍兮福之所倚, and 河上公's fourfold gloss 不恃望其報 (*"does not lean toward and watch for its repayment"*) is about counting on a return, which *rely* carries and *lean* underplays. *Shuowen* agrees: 恃，賴也.
 
-**Swept the same day, all five occurrences.** ch 2, 10, 51 and 77 now share one formula — *acts yet relies on nothing* — where 為而不恃 had been carrying three different Englishes. ch 34's 萬物恃之以生 read *"draw sustenance from it"*, dropping 恃 entirely and erasing the book's only **positive** use of it; it now reads *"rely on it to live."* Entry: `glossary/shi-恃.md`.
+*(Superseded 2026-11-19: the formula now reads* acts without relying on it*, Shalom's call, on Heshang Gong's 不恃望其報 and to keep the series of* without*s at 10 and 51; see* Ch 2, 10, 51, 77 · 為而不恃 *below.)* **Swept the same day, all five occurrences.** ch 2, 10, 51 and 77 now share one formula — *acts yet relies on nothing* — where 為而不恃 had been carrying three different Englishes. ch 34's 萬物恃之以生 read *"draw sustenance from it"*, dropping 恃 entirely and erasing the book's only **positive** use of it; it now reads *"rely on it to live."* Entry: `glossary/shi-恃.md`.
 
 **The cost, kept in the entry rather than hidden:** *rely* is Latinate with a dead picture (*re-* + *lier*, to bind), so English readers hear a mental act where the Chinese has a posture — 恃 is 忄 (heart) + 寺, the heart's member of a family of holding words (持 hand, 侍 body, 待 waiting). And *"relies on nothing"* can read as Stoic self-sufficiency; ch 34 is the guard against that, since there everything alive relies on the Tao and the Tao turns none of it away.
 
@@ -2058,6 +2058,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 2, 10, 51, 77 · 為而不恃 → "acting without relying on it"; ch 2 · 生而弗有 → "The sage births them"
+
+*(2026-11-19, Shalom's calls.)* *(was: "acts yet relies on nothing" in all four; ch 2's "They are born, and the sage does not possess them.")* Heshang Gong's 不恃望其報 names the deed as what is not relied on, and the old formula's recorded cost, a Stoic self-sufficiency, goes. Chapters 10 and 51 now carry three *without*s; ch 2 keeps its 而弗 series as *and does not* four times, and 生 there is the sage's act, as at 10 and 51, in 生's word *births* (Shalom's wording). T3-13, T3-17. `glossary/shi-恃.md`.
+
+### Ch 48 · 損之又損 → "Decrease, and decrease again"
+
+*(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
 ### Ch 42 · 孤、寡、不穀 → "orphaned, alone, or unworthy"
 
