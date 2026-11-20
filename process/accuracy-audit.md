@@ -185,7 +185,7 @@ Listed so the next reader does not re-flag them. Each pointer is where the reaso
 | 52 | 其母 (*qí mǔ* — "its mother") → *our mother*; *outer light*, *inner clarity* | `notes/translation.md` → *其母 (*qí mǔ* — "its mother")*; the chapter's notes |
 | 53 | 是謂盜夸 (*shì wèi dào kuā* — "this is called the thieves' boast") → *This exposes the ringleader of thieves* | `notes/translation.md` → *是謂 (*shì wèi* — "this is called") → "This exposes…"*; `notes/manuscript.md` |
 | 57 | 自樸 (*zì pǔ* — "plain of themselves") → *become plain* | `glossary/pu-樸.md`, a licensed flexion |
-| 64 | 學不學 (*xué bù xué* — "learns the not-learning") → *learns to unlearn* | `notes/translation.md` → *Ch 64* |
+| 64 | 學不學 (*xué bù xué* — "learns the not-learning") → *learns to unlearn* *(was, until 2026-11-19; now* learns the not-learning*, Shalom's call)* | `notes/translation.md` → *Ch 64* |
 | 65 | 明民 (*míng mín* — "make the people clear-sighted") → *make the people clever* | the chapter's notes (T1-17), a declared exception |
 | 69 | 主 / 客 (*zhǔ / kè* — host / guest) → *move first / move second* *(was, until 2026-11-19; now* host / guest*, Shalom's call)*; *into another's ground* | `notes/translation.md` → *Ch 69* |
 | 71 · 75 | the closing 是以 (*shì yǐ* — therefore) repetition cut | the chapters' notes |

@@ -57,7 +57,7 @@ refs:
 >
 > — chapter 39
 
-> *neither prize nor cheapen them.*
+> *They cannot be prized, and cannot be cheapened.*
 > *And so, they become the most prized in the world.*
 >
 > 不可得而貴，不可得而賤。

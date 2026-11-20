@@ -280,9 +280,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 14,12,歸,guī,歸 & 復 & 反,return,yes,1.0,authored,And returns to no-thing.
 14,12,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,And returns to no-thing.
 14,12,物,wù,萬物,things / something,NOT FOUND,1.0,authored,And returns to no-thing.
-14,13,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"This is the shape of no-shape, the image of no-thing."
-14,14,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"This is the shape of no-shape, the image of no-thing."
-14,14,物,wù,萬物,things / something,NOT FOUND,1.0,authored,"This is the shape of no-shape, the image of no-thing."
+14,13,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"This is called the shape of no-shape, the image of no-thing."
+14,14,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"This is called the shape of no-shape, the image of no-thing."
+14,14,物,wù,萬物,things / something,NOT FOUND,1.0,authored,"This is called the shape of no-shape, the image of no-thing."
 14,17,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Follow it, and you cannot see its back."
 14,18,執,Zhí,執,grasp,yes,1.0,authored,"Grasp the ancient Tao, and steer what is present now."
 14,18,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"Grasp the ancient Tao, and steer what is present now."
@@ -1178,21 +1178,21 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,1,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,Those who know do not speak. Those who speak do not know.
 56,4,和,Hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,"Harmonize your light, be the same as the dust."
 56,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,This is called profound sameness.
-56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
-56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
-56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
-56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"You cannot draw them near nor hold them off,"
-56,7,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"neither benefit nor harm them,"
-56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"neither benefit nor harm them,"
-56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"neither benefit nor harm them,"
-56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"neither benefit nor harm them,"
-56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"neither benefit nor harm them,"
-56,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,neither prize nor cheapen them.
-56,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,neither prize nor cheapen them.
-56,8,得,dé,得 & 失,get,NOT FOUND,1.0,authored,neither prize nor cheapen them.
-56,8,得,dé,得 & 失,get,NOT FOUND,1.0,authored,neither prize nor cheapen them.
-56,8,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,neither prize nor cheapen them.
-56,8,賤,jiàn,貴 & 賤,"cheap, cheapen",NOT FOUND,1.0,authored,neither prize nor cheapen them.
+56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
+56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
+56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
+56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
+56,7,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
+56,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
+56,8,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
+56,8,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
+56,8,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
+56,8,賤,jiàn,貴 & 賤,"cheap, cheapen",NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
@@ -1358,14 +1358,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,7,執,zhí,執,grasp,yes,1.0,authored,Those who handle it ruin it. Those who grasp it lose it.
 64,7,失,shī,得 & 失,lose,yes,1.0,authored,Those who handle it ruin it. Those who grasp it lose it.
 64,7,為,Wéi,為,do / handle / serve as,yes,1.0,authored,Those who handle it ruin it. Those who grasp it lose it.
-64,8,執,zhí,執,grasp,yes,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,失,shī,得 & 失,lose,yes,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
-64,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage does not do, and so ruins nothing, does not grasp, and so loses nothing."
+64,8,執,zhí,執,grasp,yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,失,shī,得 & 失,lose,yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
+64,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
 64,9,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,民,Mín,民,the people,yes,1.0,authored,People always ruin their affairs just short of completing them.
@@ -1378,8 +1378,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,11,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage wants the not-wanting and does not prize rare goods,"
 64,11,貨,huò,貨,goods,yes,1.0,authored,"Therefore, the sage wants the not-wanting and does not prize rare goods,"
 64,11,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"Therefore, the sage wants the not-wanting and does not prize rare goods,"
-64,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"learns to unlearn, brings the crowd back from where they have gone too far,"
-64,12,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"learns to unlearn, brings the crowd back from where they have gone too far,"
+64,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,"learns the not-learning, brings the crowd back from where they have gone too far,"
+64,12,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"learns the not-learning, brings the crowd back from where they have gone too far,"
 64,13,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
 64,13,物,wù,萬物,things / something,yes,1.0,authored,"and supports the countless things in being so of themselves, and never pushes them."
@@ -1623,9 +1623,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,3,柔,róu,柔,soft,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,能,néng,可,be able,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
-78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
-78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
-78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the shame of the state is the keeper of the soil and the grain. Whoever takes on the ill omen of the state is the ruler of the world.
+78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,So the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
+78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,So the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
+78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,So the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,5,反,fǎn,歸 & 復 & 反,returning,NOT FOUND,1.0,authored,Words on the mark seem like their opposite.
 78,5,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,Words on the mark seem like their opposite.
 79,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?

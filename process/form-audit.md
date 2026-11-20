@@ -514,7 +514,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-9 · Ch 64 — the strands of doing and grasping
 
-**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`process/skills/glossary-entry/SKILL.md` → *How the locks behave*) applies, as it does for 強其骨 (*qiáng qí gǔ* — "strengthen their bones"). The current *does not do* is no closer to the lock.
+**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`process/skills/glossary-entry/SKILL.md` → *How the locks behave*) applies, as it does for 強其骨 (*qiáng qí gǔ* — "strengthen their bones"). The current *does not do* is no closer to the lock. **Done 2026-11-19 (Shalom's call).**
 
 #### T3-10 · Ch 22 / 24 — 彰 (*zhāng* — to shine forth)
 
@@ -523,18 +523,18 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 #### T3-11 · 是謂 (*shì wèi* — "this is called")
 
 - **13 — leave.** 何謂…是謂… (*hé wèi… shì wèi…* — "what is meant by… this is what is meant by…") is a question-and-answer frame, and *What does it mean… / This is what is meant* keeps it. Record that as the reason; `chapters/013.md` records only that *this is why* was refused.
-- **14 — resolve.** *"This is called the shape of no-shape, the image of no-thing. / This is called the elusive."* The Chinese says *this is called* twice in two lines, and so should the English.
+- **14 — resolve.** *"This is called the shape of no-shape, the image of no-thing. / This is called the elusive."* The Chinese says *this is called* twice in two lines, and so should the English. **Done 2026-11-19 (Shalom's call).**
 - **27 — done, 2026-11-14**, under T3-16: *This is called the essential subtlety*.
 - **53 — leave.** Recorded: *exposes* is a deliberate departure (`notes/translation.md` → 是謂 (*shì wèi*) at ch 53), on grammar and force.
 - **74 — leave.** Recorded: the line was built as *a clean equation, place for place, which is what 是謂 (shì wèi) asks for* (`notes/translation.md` → *Ch 74*).
-- **78 — resolve, minimally:** *"whoever takes on the shame of the state / is called the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is called the ruler of the world."* *Is called* is the formula's own form at 59 and 65, and it keeps *whoever*.
+- **78 — resolve, minimally:** *"whoever takes on the shame of the state / is called the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is called the ruler of the world."* *Is called* is the formula's own form at 59 and 65, and it keeps *whoever*. **Done 2026-11-19 (Shalom's call).**
 
 #### T3-13 · the other series members
 
 - **20, 相去 (*xiāng qù* — "how far apart") ×2 — leave, and the verdict is now *kept*.** The Chinese varies its own second word, 幾何 / 若何 (*jǐ hé / ruò hé* — "how much / how"), and the English follows (§13).
 - **41, 大白 (*dà bái* — great white) — leave.** Recorded, Shalom's call 2026-09-07: *the great white* imports an English phrase with a racial history, and *the whitest white* is a deliberate exception to 大 (*dà*)'s lock.
-- **56, 不可得而 (*bù kě dé ér* — "cannot be made to") ×6 — resolve.** *"They cannot be drawn near, and cannot be held off. / They cannot be benefited, and cannot be harmed. / They cannot be honored, and cannot be debased. / And so they become the most honored in the world."* Six *cannot*s for six. The subject *they* is the people the line before describes; the current *You cannot…* puts the reader in a sentence the Chinese does not.
-- **63, 味無味 (*wèi wú wèi* — "taste the flavorless") — leave, and rewrite the reason.** The recorded reason is a chime with ch 35's *bland and flavorless*, and ch 35 no longer says *flavorless*: it reads *It has no flavor*. The rendering still stands on its own: 無味 (*wú wèi*) is a noun, *no flavor*, so *taste the not-tasting* would misread it, and *flavorless* is the honest English.
+- **56, 不可得而 (*bù kě dé ér* — "cannot be made to") ×6 — resolve.** *"They cannot be drawn near, and cannot be held off. / They cannot be benefited, and cannot be harmed. / They cannot be honored, and cannot be debased. / And so they become the most honored in the world."* Six *cannot*s for six. The subject *they* is the people the line before describes; the current *You cannot…* puts the reader in a sentence the Chinese does not. **Done 2026-11-19 (Shalom's call).**
+- **63, 味無味 (*wèi wú wèi* — "taste the flavorless") — leave, and rewrite the reason.** The recorded reason is a chime with ch 35's *bland and flavorless*, and ch 35 no longer says *flavorless*: it reads *It has no flavor*. The rendering still stands on its own: 無味 (*wú wèi*) is a noun, *no flavor*, so *taste the not-tasting* would misread it, and *flavorless* is the honest English. **Reason rewritten 2026-11-19** (`chapters/063.md`).
 - **71, 知不知 / 不知知 (*zhī bù zhī / bù zhī zhī* — "knowing not-knowing / not knowing knowing") — leave.** Recorded in `chapters/071.md`: *claim to know* follows Heshang Gong, who reads 言 (*yán* — to say) into both halves, and the reversal is held at the front of each line.
 
 #### T3-14 · Departures whose reasons are owed

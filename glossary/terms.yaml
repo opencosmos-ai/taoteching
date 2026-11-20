@@ -261,6 +261,8 @@
   chapters: [2, 3, 10, 37, 38, 43, 48, 57, 63, 64]
   status: locked
   entry: glossary/wuwei-無為.md
+  flexions:
+    - { english: "does not handle it", chapters: [64], why: "a verb phrase answering 為者敗之, whose 為 reads handle here and at ch 29; grammar decides the form" }
 
 - term: "器"
   pinyin: "qì"

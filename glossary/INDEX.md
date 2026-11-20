@@ -37,7 +37,7 @@ python3 tools/build_index.py
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
-| **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
+| **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |

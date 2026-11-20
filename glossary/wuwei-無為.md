@@ -2,6 +2,8 @@
 term: "無為"
 pinyin: "wú wéi"
 render: "non-doing"
+flexions:
+  - { english: "does not handle it", chapters: [64], why: "a verb phrase answering 為者敗之, whose 為 reads handle here and at ch 29; grammar decides the form" }
 forbidden: ["non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing"]
 chapters: [2, 3, 10, 37, 38, 43, 48, 57, 63, 64]
 status: locked
@@ -93,6 +95,7 @@ The structure only survives in English if the word is a **verb that also works a
 - **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味)
 - **無為而無不為** → **"does not do, yet nothing is left undone"** — render identically at 37 and 48; it is one line, sounded twice
 - **我無為** (57) → **"I do not do"** — plainest possible, to match the four-line refrain
+- **聖人無為故無敗** (64) → **"the sage does not handle it, and so ruins nothing"** — the answer to 為者敗之, *"Those who handle it ruin it,"* so it takes the question's verb; a flexion scoped to ch 64 (Shalom's call, 2026-11-19)
 
 
 ### Left open

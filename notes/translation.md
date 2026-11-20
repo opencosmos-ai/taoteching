@@ -1260,6 +1260,8 @@ The triple 為無為，事無事，味無味 is the line that forced the 無為 
 
 #### 味無味 → "taste the flavorless"
 
+*(Reason rewritten 2026-11-19: ch 35 now reads* It has no flavor*; the rendering stands because 無味 is a noun. See `chapters/063.md` → Notes.)*
+
 *(not "taste the tasteless")*
 
 Ch 35 already renders 淡乎其無味 as *"It is bland and flavorless"* — and the thing being described there is the **Tao**. Matching the word makes 味無味 legible as what it is: not a general counsel of blandness but an instruction to **taste the Tao**. Wang Bi reads it the same way — 以恬淡為味, *"takes the calm and bland as its flavor."*
@@ -1320,7 +1322,7 @@ So 復 (*fù*) is **bring back**, not *recover*, and what is brought back is peo
 
 欲不欲 (*yù bù yù*) and 學不學 (*xué bù xué*) are grammatically identical to Ch 63's triple 為無為，事無事，味無味, rendered there *"Do the not-doing, serve the not-serving, taste the flavorless."* So here: **"wants the not-wanting"** — and, by an accepted departure, **"learns to unlearn."**
 
-*Why the second one breaks the pattern.* The parallel wants "learns the not-learning," and 不學 is strictly the capacity that **precedes** learning — Wang Bi's 不學而能者自然也, *"what one is capable of without learning is what is so of itself"* — where *unlearn* implies erasing something already acquired. Related, not identical. Shalom kept "learns to unlearn" for its compression, with the cost named: the four-line series loses one of its two matched hinges. Logged so the departure is visible rather than looking like drift.
+*(Superseded 2026-11-19, Shalom's call: 學不學 reads* learns the not-learning*, the frame matched.)* *Why the second one breaks the pattern.* The parallel wants "learns the not-learning," and 不學 is strictly the capacity that **precedes** learning — Wang Bi's 不學而能者自然也, *"what one is capable of without learning is what is so of itself"* — where *unlearn* implies erasing something already acquired. Related, not identical. Shalom kept "learns to unlearn" for its compression, with the cost named: the four-line series loses one of its two matched hinges. Logged so the departure is visible rather than looking like drift.
 
 Heshang Gong reads both lines differently — 聖人欲人所不欲, *"the sage desires what people do not desire"* — a comparative rather than a reflexive. We keep the reflexive, on internal consistency: this construction is a signature of the book and it must not shift shape between adjacent chapters.
 
@@ -2079,6 +2081,18 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 64 · "does not handle it, and so ruins nothing"; "learns the not-learning"
+
+*(2026-11-19, Shalom's calls.)* The answer echoes 為者敗之's *handle*; 學不學 matches 欲不欲. T3-9. `chapters/064.md`.
+
+### Ch 56 · 不可得而 ×6 → six "cannot"s
+
+*(2026-11-19, Shalom's call.)* *(was: "You cannot draw them near nor hold them off, / neither benefit nor harm them, / neither prize nor cheapen them.")* The series in its own shape, with the one of profound sameness as subject. T3-13.
+
+### Ch 14, 78 · 是謂 → "This is called" / "is called"
+
+*(2026-11-19, Shalom's calls.)* *(was: "This is the shape of no-shape"; "is the keeper …," "is the ruler ….")* The formula restored where it had slipped. T3-11.
+
 ### Ch 49 · 渾其心 → "let their heart be mixed"
 
 *(2026-11-19, Shalom's call.)* *(was: "let their heart go muddy.")* 渾 is 混's word (說文 混流聲也); *muddy* is 濁's, and ch 15 keeps them apart. Wang Bi's no-preference heart; Heshang Gong's 渾濁 recorded. 渾 now covered by `glossary/hun-混.md`. T2-63.
@@ -2216,6 +2230,8 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 *(2026-11-19, Shalom's call.)* *Honor* is 尊's in this chapter (*buy honor*); 貴 takes *prize* twice, and 故為天下貴 now matches ch 56 verbatim. 先 → *go ahead of*. `chapters/062.md`.
 
 ### Ch 56 · "neither prize nor cheapen them"
+
+*(Superseded the same day in shape: "They cannot be prized, and cannot be cheapened," six* cannot*s for six 不可得而, Shalom's call, T3-13.)*
 
 *(2026-11-19, Shalom's call.)* 貴 and 賤 are one price scale (Wang Bi: 可得而貴則可得而賤也), so both sides take price words, and 為天下貴 reads *the most prized in the world*. *Debase* retired and forbidden. `glossary/gui-jian-貴賤.md`.
 
