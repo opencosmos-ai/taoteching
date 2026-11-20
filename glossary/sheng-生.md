@@ -24,7 +24,7 @@ Follow 生 through the text and you are following the mother. Laozi's cosmos is 
 
 ### The releasing — 生而不有
 
-And here is the deepest thing 生 carries, the thing no "create" can hold. **The mother gives birth and lets go.** 生而不有 — she brings forth, but does not possess; 長而不宰 — she fosters, but does not rule. The child was never hers to keep. This is why 生 and 玄德 (Profound Integrity) are one teaching seen twice: to bear truly *is* to release. A maker owns what they make — *my creation*. A mother knows the life came *through* her, not *from* her, and belongs to itself. That releasing is the entire ethic of the book pressed into a single verb — and it evaporates the instant 生 becomes "produce."
+And here is the deepest thing 生 carries, the thing no "create" can hold. **The mother gives birth and lets go.** 生而不有 — she brings forth, but does not possess; 長而不宰 — she grows them, but does not rule. The child was never hers to keep. This is why 生 and 玄德 (*xuán dé* — profound integrity) are one teaching seen twice: to bear truly *is* to release. A maker owns what they make — *my creation*. A mother knows the life came *through* her, not *from* her, and belongs to itself. That releasing is the entire ethic of the book pressed into a single verb — and it evaporates the instant 生 becomes "produce."
 
 ### What is set aside
 

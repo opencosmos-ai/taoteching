@@ -3429,3 +3429,13 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **One word, two senses, and English has a word with the same two.** 名 is a thing's name and a person's standing, and *name* is both (*a good name*). **Ch 44** → *"Your name or your body — which is dearer?"* (was *Reputation or your body*), which keeps it beside ch 32: both chapters put names next to 知止不殆, *know when to stop, and you come to no danger.* **Ch 34**'s 可名 → *can be named* (was *can be called*), as at 1 and 14, since *called* is 謂's (*wèi*); its 不名有 → *"The work is done, and it does not name it its own"* (was *It works without claiming to be the owner*), since *claim* is 伐's (*fá*). Both 不為主 in ch 34 now read *does not act as their master* (`WORKLIST.md` T3-18).
 
+
+## 長 (*cháng / zhǎng*) → *long, last / grow / chief*, with 久 (*jiǔ*) → *endure* — the duration pair kept apart
+
+*(Shalom's calls, 2026-11-20. Argument in `glossary/chang-長.md`.)*
+
+**One graph, three readings, and the English already splits them.** *Cháng* (long, lasting) at 2, 7, 9, 22, 24, 44 and 59; *zhǎng* (to grow) at 10 and 51; *zhǎng* (chief) at 28 and 67. Heshang Gong's edition marks the *zhǎng* reading in the margin at 10, 28 and 67.
+
+**Ch 54's 其德乃長 → *"its integrity grows"*** (was *becomes long-lasting*). Han Fei, Wang Bi and Heshang Gong all read growth or reach, and none reads time; the chapter note quotes all three. It joins 10 and 51's *grow*.
+
+**長 and 久 were crossed both ways, and are now apart.** The Shuowen defines 長 as 久遠 (*jiǔ yuǎn* — "long and far"), and chapter 7 splits them by position: 長 *lasting*, 久 *enduring*. 長 had worn *endure* at 22 and 24 (flagged under ch 16 above, *"for a future 長/久 pass"*): → *"and so they last"*, *"Those who boast do not last."* 久 had worn *last long* at 23: → *"cannot make it endure."* The binome 長久 keeps *last long* at 44 and 59, read as one word; 久's past-time phrases at 58 and 67 (*a very long time*, *long since*) are declared flexions.

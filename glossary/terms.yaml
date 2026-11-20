@@ -221,6 +221,15 @@
   entry: glossary/qiang-強.md
   # covers 力 -> force
 
+- term: "長"
+  pinyin: "cháng / zhǎng"
+  render: "long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)"
+  forbidden: ["leader", "leading", "superiority", "immortal", "everlasting"]
+  chapters: [2, 7, 9, 10, 22, 24, 28, 44, 51, 54, 59, 67]
+  status: locked
+  entry: glossary/chang-長.md
+  # covers 久 -> endure
+
 - term: "先 & 後"
   pinyin: "xiān / hòu"
   render: "ahead, or before in time / behind, or after in time"

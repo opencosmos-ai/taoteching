@@ -198,7 +198,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 谷,Gǔ,valley,semantic,glossed,2,"容,谿"
 貫,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"實,患"
 足,zú,enough / foot (64),semantic,glossed,2,"跨,蹶"
-長,cháng,"long, lasting / grow (10, 51) / chief",semantic,glossed,2,"彌,肆"
+長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",semantic,glossed,2,"彌,肆"
 門,mén,gate / door,phonetic,glossed,2,"悶,聞"
 青,qīng,"blue-green, the colour of growing things",phonetic,glossed,2,"清,精"
 韋,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"弗,衛"
@@ -596,7 +596,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 釆,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,釋
 重,Zhòng,heavy / weigh down / baggage (輜重),phonetic,glossed,1,動
 重,Zhòng,heavy / weigh down / baggage (輜重),semantic,glossed,1,多
-長,cháng,"long, lasting / grow (10, 51) / chief",phonetic,glossed,1,張
+長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",phonetic,glossed,1,張
 閒,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,辯
 閵,,,phonetic,"no gloss needed: present for sound, not meaning",1,進
 隨,suí,follow,semantic,glossed,1,如
