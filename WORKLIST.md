@@ -17,7 +17,7 @@
 1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 成 (*chéng* — complete) · 勝 (*shèng* — overcome) · 智 (*zhì* — cleverness, T2-2) · 死 (*sǐ* — death) · 長 (*cháng / zhǎng* — long / grow / chief) · 國 (*guó* — state). The six from 儉 to 勝 and the last three were added 2026-11-15 from a scan of the text against the glossary.
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
-**Waiting on Shalom:** R6's minor table (`process/back-translation-audit.md`). R5's smaller table, one word each. The form audit (R4) is done.
+**Waiting on Shalom:** R6's minor table (`process/back-translation-audit.md`). The form audit (R4) and the accuracy audit (R5) are done.
 
 **How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas rebuilds within a minute or two of a merge (`notify-atlas.yml` dispatches; an hourly rebuild is the fallback).
 
@@ -25,7 +25,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **47 item rows: 41 open · 0 done · 6 part done · 0 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **46 item rows: 41 open · 0 done · 5 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -61,7 +61,6 @@
 | | | **Research** | | |
 | R2 | ⬜ | **義 (*yì* — duty) wants a glossary entry** — reads *duty* in all 5 lines, unlocked, and the source-table literals still say *righteousness* at 18, 19 and 38 | 18 19 38 | E |
 | R3 | ⬜ | ★ **Read the ten recovered Wang Bi chapters against decisions made without him** — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78. Every one was drafted, and several reworked, with one commentary where there were two. Their lemma forks are logged; **the comments are unread.** First lead: **ch 15 prints 若容 (*ruò róng* — like a bearing) for our 若客 (*ruò kè* — like a guest)**, base kept provisionally. Ch 62 was already drafted with him (under 061) | 8 14 15 19 30 54 62 70 71 78 | E |
-| R5 | 🔶 | ★ **The accuracy audit's findings: what the Chinese says that the English drops, and what the English adds.** `process/accuracy-audit.md` read every line, Chinese against English, on 2026-10-27, and checked every flag against the record. Most departures were already logged. Owed: **the smaller table** (`process/accuracy-audit.md` → *Smaller, gathered*), one word each, riding with whatever next opens the chapter: 49's *pure*, 54's *honoring this*, 74's two dropped acts, 80's *no need*. (55's *It* and 52's *origin* are done.) | book-wide | E |
 | R6 | 🔶 | ★ **The back-translation audit's findings: where a blind reader of the English comes away with something the Chinese does not say.** `process/back-translation-audit.md`, run 2026-10-27, compared blind readers of the English against blind readers of the Chinese and verified every gap against the page and the commentaries. Owed: the minor table. Ch 57 rides with T4-2 and ch 58 with T2-67 | book-wide | E |
 | | | **Tier 4 · Open calls** | | |
 | T4-5 | 🔶 | **Entries owed that have no row of their own:** 君 (*jūn* — ruler). The order is `glossary/TRIAGE.md` → *The relevance queue* | — | E |

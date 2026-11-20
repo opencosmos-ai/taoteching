@@ -1068,7 +1068,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,8,渾,hún,混,mixed,yes,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,8,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
-49,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Everyone pours out their attention, all eyes and ears; the sage sees them pure as infants."
+49,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Everyone pours out their attention, all eyes and ears; the sage treats them all as infants."
 50,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,2,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
@@ -1151,8 +1151,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 53,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing excess wealth and goods —"
 53,4,貨,huò,貨,goods,yes,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing excess wealth and goods —"
 53,5,道,dào,道,the Tao / way,yes,1.0,exact-count,This exposes the ringleader of thieves. It is not the Tao!
-54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. Descendants will never cease offering sacrifices honoring this.
-54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. Descendants will never cease offering sacrifices honoring this.
+54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. By it, descendants will never cease their sacrifices."
+54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. By it, descendants will never cease their sacrifices."
 54,2,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your body, and its integrity becomes authentic."
 54,2,身,shēn,身,body,yes,1.0,authored,"Cultivate this in your body, and its integrity becomes authentic."
 54,3,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your family, and its integrity becomes abundant."
@@ -1574,7 +1574,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 74,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,3,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,There is always one who does the killing.
 74,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,There is always one who does the killing.
-74,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,To take their place is to take the place of the master carpenter.
+74,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,To kill in their place is to take the place of the master carpenter.
 74,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Of those who carve in place of the master carpenter, few fail to cut their own hand."
 74,5,希,xī,希,few (of a count) / barely heard (of a sound),NOT FOUND,1.0,authored,"Of those who carve in place of the master carpenter, few fail to cut their own hand."
 74,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Of those who carve in place of the master carpenter, few fail to cut their own hand."

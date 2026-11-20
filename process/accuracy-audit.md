@@ -139,6 +139,8 @@ Real, but each is a word, and none changes a claim. They are worth carrying into
 | 74 | 夫代司殺者殺 (*fū dài sī shā zhě shā* — "to kill in place of the one in charge of killing") | *To take their place is to take the place of the master carpenter* | drops both acts, 殺 (*shā* — to kill) and 斫 (*zhuó* — to hew); the next line restores *carve* |
 | 80 | 使有什伯之器而不用 (*shǐ yǒu shí bǎi zhī qì ér bù yòng* — "let them have tools of tens and hundreds, and not use them") | *yet **no need** to use them* | adds a reason |
 
+*Worked through 2026-11-19 (Shalom's calls): 3, 7, 8, 14, 31, 46, 49, 54 and 74 changed; 16 and 80 kept with their reasons recorded; 27, 52, 55 and 56 · 62 found already settled. Each chapter's Notes carries its line.*
+
 #### A tally for T3-12: where 故 (*gù* — so) has no English
 
 Of the source lines that hold 故 (*gù* — so), these have no English for it. The rest carry it as *so*, *therefore*, *thus* or *for*, or absorb it into a construction that already says it: 夫唯 … 故 (*fū wéi … gù* — "only because … therefore") as *Only because … does*, and 何故 (*hé gù* — "for what reason") as *Why?*

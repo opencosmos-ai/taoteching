@@ -1053,6 +1053,8 @@ Two characters, no verb, and **no causal word** — no 故, no 因. The English 
 
 #### 百姓皆注其耳目，聖人皆孩之 → "Everyone pours out their attention, all eyes and ears; / the sage sees them pure as infants"
 
+*(Second line superseded 2026-11-19, Shalom's call: "the sage treats them all as infants.")*
+
 **注** (*zhù*) is water pouring — the same character the Mawangdui silks put at the head of Ch 62. Both commentators gloss it as 用 (*yòng* — to use). English supplies the gift here: ***all eyes and ears*** is a live idiom for rapt attention **and is literally 耳目**, so the idiom carries the sense while the organs survive.
 
 **孩** (*hái*) is not primarily *child*. The *Shuowen* defines its older form 咳 as 小兒笑也, **"a small child's laughing"** — the sense *child* came from the smile. And Ch 20 uses it that way: 如嬰兒之未**孩**, *"like an infant that has not yet smiled."* Those two are the only occurrences in the book, so Ch 20 is our dictionary for Ch 49. *(The Siku editors note the 釋文's claim that Wang Bi's text read 咳 here — the same word, the older graph.)*
@@ -1923,7 +1925,7 @@ Keeping **here** also holds the chapter inside the 以此 thread that closes cha
 
 **Where the carving sits is a real choice, and Shalom's placement is right.** 斫 (*zhuó*) appears in **both** lines of the Chinese — 是謂代大匠**斫** / 夫代大匠**斫** — and no English version we tried could carry it twice without clanking. Drafts put it in the second line (*"to take the master carpenter's place at the carving"*); the settled text puts it in the third:
 
-> To take their place is to take the place of the master carpenter.
+> To kill in their place is to take the place of the master carpenter.
 > Of those who **carve** in place of the master carpenter,
 > few fail to cut their own hand.
 
@@ -2090,6 +2092,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 74 · "To kill in their place"; ch 80 keeps "no need"
+
+*(2026-11-19, Shalom's calls; R5.)* 殺 restored at 74, 斫 left once where Shalom placed it; ch 80's *no need*, his 2026-08-26 fix on Wang Bi's 何患不足, kept. The block quote under *Ch 74* above now prints the new line.
+
+### Ch 49, 54 · "treats them all as infants"; "By it, descendants …"
+
+*(2026-11-19, Shalom's calls; R5.)* 皆 restored and *pure* gone at 49; 以 as the means at 54, *honoring this* gone.
 
 ### Ch 31, 46 · two more smaller findings; ch 16 and 27 settled
 
