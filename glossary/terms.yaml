@@ -478,7 +478,7 @@
 - term: "恃"
   pinyin: "shì"
   render: "rely on — the heart putting its weight on something"
-  forbidden: ["presume", "presuming", "dependency"]
+  forbidden: ["presume", "presuming", "depend"]
   chapters: [2, 10, 34, 51, 77]
   status: locked
   entry: glossary/shi-恃.md
@@ -641,6 +641,7 @@
   chapters: [14, 15, 25]
   status: locked
   entry: glossary/hun-混.md
+  # covers 渾 -> mixed
 
 - term: "清"
   pinyin: "qīng"

@@ -3,7 +3,7 @@ term: "恃"
 pinyin: "shì"
 render: "rely on — the heart putting its weight on something"
 card: "rely on"
-forbidden: ["presume", "presuming", "dependency"]
+forbidden: ["presume", "presuming", "depend"]
 chapters: []
 status: locked
 pairing: false
@@ -14,7 +14,7 @@ refs_status: incomplete
 
 *Say "shr," falling. Five lines across five chapters, and four of them are the same three characters.*
 
-**Locked: 恃 → "rely on" — the heart putting its weight on something.** *(Not "presume," not "presuming," not "dependency.")*
+**Locked: 恃 → "rely on" — the heart putting its weight on something.** *(Not "presume," not "presuming," not "depend" or "dependency.")*
 
 為而不恃 (*wéi ér bù shì*) is conventionally read **"acts without presuming."** That is not a translation of 恃. It is an inference about what someone who 恃-ed would be doing — and it lands on *presumption*, a fault of manner, when the character is about **where your weight is**.
 
@@ -105,4 +105,4 @@ The pattern across all of them: **恃 is neutral; what you put your weight on is
 
 **Why the formula says *without relying on it*.** An earlier English, *acts yet relies on nothing*, could read as self-sufficiency — the self-made sage, needing no one — which would be an overlay, and a Stoic one. Heshang Gong names the object instead, at 2, 10 and 51 alike: 道所施為，不恃望其報也 (*"what the Tao does, it does not rely on, expecting a return"*). What is not relied on is the deed, and *it* says so. The change also gives chapters 10 and 51 their series whole, three *without*s (Shalom's call, 2026-11-19). **Ch 34 is the other guard.** There, the same character says that everything alive relies on the Tao, and the Tao turns none of it away. The sage does not rely on the deed not because relying is weakness, but because the deed was never theirs to lean on.
 
-**Not forbidden, and deliberately: "depend."** *(The blocker below went on 2026-11-19, when ch 2's line became* High and low fill each other*; whether* depend *now joins the list is open, `WORKLIST.md` T5-3.)* Ch 2 rendered 高下相盈 (*gāo xià xiāng yíng*) as *"high and low depend on each other,"* and that line sits in the same chapter as 恃. The checker gates on whether a character is present in a chapter, so it cannot express *right for 傾, wrong for 恃, same chapter*. That distinction lives here and in the reader. See `process/skills/glossary-entry/SKILL.md` → *How the locks behave*.
+**Forbidden since 2026-11-19: "depend."** *(Shalom's call.)* It had stayed off the list for a reason the checker imposed, not the meaning: ch 2 rendered 高下相盈 (*gāo xià xiāng yíng*) as *"high and low depend on each other,"* in a chapter that holds 恃, and the gate keys on chapter presence, so it could not say *right for that line, wrong for 恃*. Ch 2 now reads *"High and low fill each other"* (Shalom's call, 2026-11-19), no chapter holding 恃 prints *depend*, and the word joins the list. As a bare string it also catches *dependency*, set aside at ch 77 for carrying addiction, and *dependent*.

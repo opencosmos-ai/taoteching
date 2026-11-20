@@ -7,6 +7,8 @@ forbidden: ["chaos", "chaotic", "undifferentiated", "blend", "merge"]
 chapters: [14, 15, 25]
 status: locked
 pairing: false
+covers:
+  - { char: "渾", render: "mixed" }
 shuowen: "An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 refs_status: incomplete
 ---
@@ -46,6 +48,25 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 
 **Two chapters put them in sequence.** 混 is how the three become one (14: 混而為一), and the one is what makes the sky clear (39: 天得一以清, *"Sky received the one, and so became clear"*). A pattern across chapters is a reason to look, not a ruling (`process/principles/distribution-locates.md`), but it points the same way as ch 15: clear is what mixed becomes when it is left still, not what defeats it. See `glossary/qing-清.md`.
 
+### 渾 (hún — mixed)
+
+*Say "hoon," rising. Once in the received text, at chapter 49, and once more as Heshang Gong's spelling of chapter 15's 混.*
+
+> 渾，混流聲也。从水，軍聲。一曰洿下皃。
+> *"渾: the sound of a 混 (mixed) flow. From 水 (shuǐ — water), with 軍 (jūn) for the sound. One says: the look of low, standing water."* — Shuowen
+
+The dictionary defines 渾 by 混, and Heshang Gong's text writes 渾 where ours writes 混 at ch 15 (`sources/variants.yaml`). It is one word in two spellings, and it takes 混's English.
+
+> *In the world, the sage breathes gently;*
+> *for the sake of the world, they let their heart be mixed.*
+>
+> 聖人在天下，歙歙焉，
+> 為天下渾其心，
+>
+> — chapter 49
+
+**Wang Bi reads the mixing as the end of sorting:** 為天下渾心焉，意無所適莫也, *"for the world they mix their heart: their mind has nothing it favors or opposes."* The chapter has just counted the unmasterful as masterful and trusted the untrustworthy, and a mixed heart is how. Heshang Gong reads it darker, 渾濁其心，若愚闇不通也, *"muddies their heart, as if foolish and dim,"* through the compound 渾濁 (*hún zhuó* — "muddy"), and the Shuowen's second sense leans his way. **The verse does not print *muddy*, because *muddy* is 濁 (zhuó)'s word**, and ch 15 sets the two side by side: 混兮其若濁, *"Mixed, like muddy water."* The mixed thing there is *like* the muddy thing; it is not the same word (Shalom's call, 2026-11-19).
+
 ### What is set aside, and why
 
 **"chaos" and "chaotic"** are the strongest pull, and 河上公's 混沌 (*hùn dùn*) invites them. They fail twice. Chaos is a cosmology, Hesiod's void before creation, and this book's beginning is not a void: it is full, a river in flood. And chaos is disorder, where 混 is abundance, and a full river is not disordered. `glossary/luan-亂.md` refuses *chaos* for 亂 (*luàn* — disorder) on its own grounds.
@@ -71,7 +92,5 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 **"muddy" is ruled out for 混 and cannot go on its `forbidden:` list.** 濁 stands beside 混 in ch 15 and prints *muddy* there twice.
 
 ### Left open
-
-**渾 at ch 49.** 為天下渾其心 reads *"for the sake of the world, they let their heart go muddy."* 渾 is 混's own word, by 說文 and by 河上公's text of ch 15, but *muddy* is 濁's English. The chime with ch 15 is real in the Chinese, and it runs through 混, not through 濁. Whether ch 49 should carry *mix* rather than *muddy* is open (`WORKLIST.md` T2-63).
 
 **The emperor without openings.** The 莊子 (*Zhuāngzǐ*) tells of 渾沌 (*Hùndùn*), emperor of the center, who had none of the seven openings everyone has for seeing, hearing, eating and breathing. The emperors of the two seas, repaying his kindness, bored one a day, and on the seventh day he died. It is the most famous story about this word, and it says exactly what this book's three lines say: what is whole and mixed is not improved by being opened up. It is also a later book's story, and this edition does not read it into the verse.

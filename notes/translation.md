@@ -1037,6 +1037,8 @@ Two characters, no verb, and **no causal word** — no 故, no 因. The English 
 
 #### 歙歙焉 → "breathes gently" · 渾其心 → "let their heart go muddy"
 
+*(The 渾 half superseded 2026-11-19, Shalom's call: "let their heart be mixed." 渾 is 混's word, and* muddy *is 濁's; see* Ch 49 · 渾其心 → "let their heart be mixed" *below.)*
+
 歙 (*xī*) is to draw in, to inhale. Wang Bi glosses 歙歙焉 as 心無所主也, *"the heart presides over nothing."* **"Breathes gently"** keeps the breath; what it lets go is the self-effacement Wang Bi hears. *(An edition fork, undecided: Heshang Gong's text reads 怵怵 — chù chù, wary — and the 釋文 records 惵惵.)*
 
 渾 (*hún*) is to blend, to make turbid. The earlier *"merges their heart with the world"* had the sense and lost the water. **Muddy** chimes with Ch 15's 混兮其若濁, *"Mixed, like muddy water"* — where muddiness is the good state you sit still inside until it clears. Wang Bi: 意無所適莫也, *"the intention has no for and no against."*
@@ -2076,6 +2078,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 49 · 渾其心 → "let their heart be mixed"
+
+*(2026-11-19, Shalom's call.)* *(was: "let their heart go muddy.")* 渾 is 混's word (說文 混流聲也); *muddy* is 濁's, and ch 15 keeps them apart. Wang Bi's no-preference heart; Heshang Gong's 渾濁 recorded. 渾 now covered by `glossary/hun-混.md`. T2-63.
 
 ### Ch 52, 56 · 閉其門 → "close the gates"
 

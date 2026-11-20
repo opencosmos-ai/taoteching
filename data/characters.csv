@@ -182,7 +182,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 左,zuǒ,left / left half of a tally (79),word,,,,,5,3,"31,34,79",31,79,0.94,
 式,shì,pattern,word,,,,,5,3,"22,28,65",22,65,0.94,
 弗,fú,not / does not,grammar,,,,,5,1,2,2,2,0.94,
-恃,shì,rely on — the heart putting its weight on something,locked,,rely on — the heart putting its weight on something,locked,presume; presuming; dependency,5,5,"2,10,34,51,77",2,77,0.94,glossary/shi-恃.md
+恃,shì,rely on — the heart putting its weight on something,locked,,rely on — the heart putting its weight on something,locked,presume; presuming; depend,5,5,"2,10,34,51,77",2,77,0.94,glossary/shi-恃.md
 愛,Ài,love / attachment (44),word,,,,,5,5,"10,13,27,44,72",10,72,0.94,
 敗,bài,ruin,word,,,,,5,2,"29,64",29,64,0.94,
 教,jiào,teaching / to teach,word,,,,,5,3,"2,42,43",2,43,0.94,
@@ -627,7 +627,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 涉,shè,crossing,apparatus,1/1,,,,1,1,15,15,15,0.19,
 渙,Huàn,Yielding/melting,apparatus,1/1,,,,1,1,15,15,15,0.19,
 渝,yú,"waver, change",word,,,,,1,1,41,41,41,0.19,
-渾,hún,muddy,word,,,,,1,1,49,49,49,0.19,
+渾,hún,mixed,covers,,mixed,locked,,1,1,49,49,49,0.19,glossary/hun-混.md
 湛,Zhàn,submerged,word,,,,,1,1,4,4,4,0.19,
 滅,miè,die out,word,,,,,1,1,39,39,39,0.19,
 滌,Dí,Washing,apparatus,1/1,,,,1,1,10,10,10,0.19,

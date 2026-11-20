@@ -61,7 +61,7 @@ python3 tools/build_index.py
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
-| **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "dependency" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
+| **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
 | **極** | *jí* | the far end — where a thing runs out · *the endless* (ch 28) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
 | **母** | *mǔ* | mother | "the Source", "the Origin", "the Ground of Being" | 5 | **locked** | [`mu-母.md`](mu-母.md) |
 | **自然** | *zì rán* | of itself / of themselves · so of itself | "Nature", "spontaneity", "self-so" | 5 | **locked** | [`ziran-自然.md`](ziran-自然.md) |
@@ -119,6 +119,7 @@ python3 tools/build_index.py
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
 | **根** | root | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) — 歸 & 復 & 反 |
+| **渾** | mixed | [`hun-混.md`](hun-混.md) — 混 |
 | **濁** | muddy | [`qing-清.md`](qing-清.md) — 清 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **牡** | the male | [`pin-牝.md`](pin-牝.md) — 牝 |
