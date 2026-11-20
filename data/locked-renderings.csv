@@ -37,6 +37,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
 2,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
 2,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
+2,3,成,chéng,成,complete,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,有,yǒu,無 & 有,presence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,無,wú,無 & 有,absence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,生,shēng,生,give birth to / bear / bring forth,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
@@ -57,6 +58,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,9,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The sage births them, and does not possess them;"
 2,10,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acts, and does not rely on it."
 2,10,為,wéi,為,do / handle / serve as,yes,1.0,authored,"acts, and does not rely on it."
+2,11,成,chéng,成,complete,yes,1.0,authored,"The work is done, and the sage does not stay in it."
 2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not leave.
 3,1,民,mín,民,the people,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
@@ -142,8 +144,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 7,6,身,shēn,身,body,yes,1.0,exact-count,"puts their body outside, and their body survives."
 7,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
 7,7,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
-7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so they can fulfill their private self.
-7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so they can fulfill their private self.
+7,8,成,chéng,成,complete,yes,1.0,exact-count,And so they can complete their private self.
+7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so they can complete their private self.
+7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so they can complete their private self.
 8,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,The most masterful are like water.
 8,1,水,shuǐ,水,water,yes,1.0,exact-count,The most masterful are like water.
 8,2,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
@@ -323,6 +326,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,15,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,15,道,dào,道,the Tao / way,yes,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,16,唯,wéi,唯,only,yes,1.0,exact-count,Only because they are never full
+15,17,成,chéng,成,complete,yes,1.0,exact-count,"can they stay covered, and never newly made."
 15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly made."
 16,1,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,authored,Go totally empty.
 16,1,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,Go totally empty.
@@ -366,6 +370,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 17,6,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
 17,6,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
 17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When their work is done,"
+17,7,成,chéng,成,complete,yes,1.0,exact-count,"When their work is done,"
 17,8,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"Everyone says, “We did this by ourselves.”"
 18,1,仁,rén,仁,humaneness,yes,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
@@ -502,6 +507,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 24,9,物,Wù,萬物,things / something,yes,1.0,authored,Living things recoil from them.
 24,10,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Those who are with the Tao do not dwell among them.
 24,10,道,dào,道,the Tao / way,yes,1.0,authored,Those who are with the Tao do not dwell among them.
+25,1,成,chéng,成,complete,yes,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,物,wù,萬物,things / something,yes,1.0,authored,"Something mixed and complete, born before sky and earth."
@@ -732,6 +738,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,3,名,míng,名,name,yes,1.0,exact-count,"The work is done, and it does not name it its own."
+34,3,成,chéng,成,complete,yes,1.0,exact-count,"The work is done, and it does not name it its own."
 34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is done, and it does not name it its own."
 34,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
 34,4,物,wù,萬物,things / something,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
@@ -753,6 +760,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,and so its greatness can be completed.
+34,8,成,chéng,成,complete,yes,1.0,exact-count,and so its greatness can be completed.
 34,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,and so its greatness can be completed.
 35,1,執,Zhí,執,grasp,yes,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
@@ -945,6 +953,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,9,器,qì,器,vessel / tool / implement,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
+41,9,成,chéng,成,complete,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
 41,10,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
@@ -955,6 +964,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,11,道,Dào,道,the Tao / way,yes,1.0,authored,The Tao is hidden and nameless.
 41,12,唯,wéi,唯,only,yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 41,12,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
+41,12,成,chéng,成,complete,NOT FOUND,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 41,12,道,dào,道,the Tao / way,yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 42,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
@@ -1007,6 +1017,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 44,8,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,And so you can last long.
 44,8,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,And so you can last long.
 45,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
+45,1,成,chéng,成,complete,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,1,用,yòng,無 & 有,use,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,2,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
 45,2,沖,chōng,沖,empty,yes,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
@@ -1045,6 +1056,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage knows without venturing,"
 47,4,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"Therefore, the sage knows without venturing,"
 47,5,名,míng,名,name,yes,1.0,authored,"names without seeing, and accomplishes without acting."
+47,5,成,chéng,成,complete,NOT FOUND,1.0,authored,"names without seeing, and accomplishes without acting."
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"names without seeing, and accomplishes without acting."
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
@@ -1111,6 +1123,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 51,1,德,dé,德,integrity,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,1,道,Dào,道,the Tao / way,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
+51,2,成,chéng,成,complete,yes,1.0,authored,"matter forms them, circumstance completes them."
 51,2,物,Wù,萬物,things / something,NOT FOUND,1.0,authored,"matter forms them, circumstance completes them."
 51,3,尊,zūn,貴 & 賤,honor,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
 51,3,德,dé,德,integrity,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
@@ -1393,6 +1406,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The world's great affairs always begin slight.
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
@@ -1420,6 +1434,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
 64,9,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,People always ruin their affairs just short of completing them.
+64,9,成,chéng,成,complete,NOT FOUND,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,民,Mín,民,the people,yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,10,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,10,始,shǐ,母,beginning,yes,1.0,authored,"Be as careful at the end as at the beginning, and nothing will be ruined."
@@ -1508,13 +1523,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,7,儉,Jiǎn,儉,frugality,yes,1.0,authored,"Frugality, and so you can be broad."
 67,7,廣,guǎng,廣,broad · breadth (as a noun),yes,1.0,authored,"Frugality, and so you can be broad."
 67,7,能,néng,可,be able,NOT FOUND,1.0,authored,"Frugality, and so you can be broad."
-67,8,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,能,néng,可,be able,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,長,zhǎng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
+67,8,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,成,chéng,成,complete,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,能,néng,可,be able,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,長,zhǎng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
 67,9,儉,jiǎn,儉,frugality,yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,廣,guǎng,廣,broad · breadth (as a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
@@ -1666,6 +1682,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,6,能,néng,可,be able,NOT FOUND,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,6,道,dào,道,the Tao / way,yes,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
+77,7,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
 77,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
 77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
 77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."

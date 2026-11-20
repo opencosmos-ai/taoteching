@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**90 entries.** Sorted by how much of the book each term touches.
+**91 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -32,6 +32,7 @@ python3 tools/build_index.py
 | **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving", "wish" | 15 | **locked** | [`yu-欲.md`](yu-欲.md) |
 | **貴 & 賤** | *guì / jiàn* | prize (verb), prized (a state) / cheap, cheapen · *status* (ch 9) | "humble", "lowly", "esteem", "value", "revere", "debase", "precious" | 15 | **locked** | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
+| **成** | *chéng* | complete · *done* (ch 2, 17, 34, 77) · *made* (ch 15) | "compile", "perfect", "perfection" | 14 | **locked** | [`cheng-成.md`](cheng-成.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
 | **長** | *cháng / zhǎng* | long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun) | "leader", "leading", "superiority", "immortal", "everlasting" | 12 | **locked** | [`chang-長.md`](chang-長.md) |

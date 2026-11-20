@@ -109,7 +109,7 @@ Also chapter 4's 象帝之先 (*xiàng dì zhī xiān* — "as if before 帝"), 
 
 **"The rear."** An army's word, and a third English for 後 where *behind* serves. Chapter 67's *the rear / the front* also turned two motions into two nouns of a battle line.
 
-**"Lead," "leader."** 長 (*zhǎng* — chief) is the book's word for the one at the head, at chapter 67's *chief of the vessels*, and 倡 (*chàng* — to lead off) is Heshang Gong's gloss for the third treasure. 先 is a position in the line, not an office.
+**"Lead," "leader."** 長 (*zhǎng* — chief) is the book's word for the one at the head, at chapter 67's *chief of the completed vessels*, and 倡 (*chàng* — to lead off) is Heshang Gong's gloss for the third treasure. 先 is a position in the line, not an office.
 
 **"Precede," "precedence."** Latin, and courtly: the order of rank at a procession. Chapter 62 is a procession, and still the plain *go ahead of* says it.
 

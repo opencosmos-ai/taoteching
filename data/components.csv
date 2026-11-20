@@ -409,7 +409,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 戊,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,成
 戌,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,威
 戍,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,幾
-成,chéng,complete / be done / accomplish,phonetic,glossed,1,誠
+成,chéng,complete,phonetic,glossed,1,誠
 我,Wǒ,the self seen,semantic,glossed,1,義
 戔,,,phonetic,"no gloss needed: present for sound, not meaning",1,賤
 或,huò,some / sometimes / perhaps,phonetic,glossed,1,惑

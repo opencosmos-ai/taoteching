@@ -3451,3 +3451,16 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **說文: 勝，任也** (*"to bear a load"*), from 力 (*lì* — sinew). The root is strength equal to its load, not conquest; *victory*, *conquer*, *conquest*, *defeat* and *triumph* are forbidden. 取 (*qǔ* — take)'s *win over* at 48 and 57 was re-examined and kept: a different verb, settled under *Ch 48, 57 · 取天下* above.
 
 **克 (*kè*) → *shoulder*, covered in the same entry** (Shalom's call, the same day). Ch 59's 無不克 had worn *overcome*, 勝's word, twice: → *"there is nothing you cannot shoulder."* 說文 克，肩也 (*"to shoulder"*), beside the line's own 重積德, *a heavy accumulation*. Active with *you*, since the passive and the double negative hid the meaning. Cost: Heshang Gong (剋，勝也) and Han Fei (戰易勝敵) both read it as 勝.
+
+## 成 (*chéng*) → *complete* — and ch 67's *completed vessels*
+
+*(Shalom's calls, 2026-11-20. Argument in `glossary/cheng-成.md`.)*
+
+**Seventeen lines had six Englishes**: *complete*, *done*, *fulfill*, *made*, *accomplishes*, *become*. *Complete* is the lock; 功成 keeps *the work is done* (2, 17, 34, 77) and 不新成 *never newly made* (15), both declared flexions.
+
+**Ch 67's 成器長 → *"become chief of the completed vessels"*** (was *chief of the vessels*, with 成 read as *become*). Han Fei prints 為 (*wéi* — become), 故能為成事長, which puts 成 inside the noun phrase; Wang Bi (立成器) and Heshang Gong (成器長謂得道人也) read it there too. *Become* is supplied, Han Fei's 為. Recorded as fork 128.
+
+**Ch 7's 故能成其私 → *"And so they can complete their private self"*** (was *fulfill*, set 2026-11-19). The new evidence was this entry: the frame 故能成其X stands at 7, 34 and 63, and the verb is now one word in all three (Shalom's call). The frame's voice, active at 7 and passive at 34 and 63, is left open.
+
+**Left open**: ch 17's 功成事遂 renders only *"When their work is done"*, and 遂 (*suì* — carried through) shares *done* at ch 9; ch 47's *accomplishes*.
+
