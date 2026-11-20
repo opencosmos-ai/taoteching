@@ -492,21 +492,21 @@ Ch 27's other member, 善言無瑕謫 (*shàn yán wú xiá zhé* — "masterful
 
   The fourth line stays as it is: 功成 (*gōng chéng* — "the work completes") is impersonal (`notes/translation.md` → *Ch 77*), and ch 77 reads the same.
 - **Why *on it*:** the note's own stated cost is that *relies on nothing* reads as Stoic self-sufficiency. Heshang Gong on ch 2 says what is not relied on is the act's return: 道所施為，不恃望其報也 (*dào suǒ shī wéi, bù shì wàng qí bào yě* — "what the Tao does, it does not rely on, expecting a return"), and he repeats it at 10 and 51. *It* is the thing done, which is the plainer reading, and it removes the cost.
-- **生而弗有** (*shēng ér fú yǒu* — "gives birth and does not possess") at ch 2 then reads *The sage gives them birth, and does not possess them*, beside 10 and 51's *giving birth without possessing*. Heshang Gong's subject at ch 2 is the giver: 元氣生萬物而不有 (*yuán qì shēng wàn wù ér bù yǒu* — "the primal breath gives birth to the countless things and does not possess them"). This resolves T3-17's 生而不有 (*shēng ér bù yǒu*) too.
+- **生而弗有** (*shēng ér fú yǒu* — "gives birth and does not possess") at ch 2 then reads *The sage gives them birth, and does not possess them*, beside 10 and 51's *giving birth without possessing*. Heshang Gong's subject at ch 2 is the giver: 元氣生萬物而不有 (*yuán qì shēng wàn wù ér bù yǒu* — "the primal breath gives birth to the countless things and does not possess them"). This resolves T3-17's 生而不有 (*shēng ér bù yǒu*) too. **Done 2026-11-19 (Shalom's calls),** in all four chapters, with ch 2's line in Shalom's wording: *"The sage births them, and does not possess them; / acts, and does not rely on it."*
 
 #### T3-12 · 故 (*gù* — so) and 是以 (*shì yǐ* — therefore)
 
-**Resolve: hold them apart, one English each.** 是以 (*shì yǐ*) → **Therefore**; 故 (*gù*) → **So** (and *and so* inside a sentence). The research is the reason: these are the joints where the chapters were put together (§17), and a reader who hears one word for each can hear the seams.
+**Resolve: hold them apart, one English each.** **Done 2026-11-19 (Shalom's call):** 24 opening connectives swept; the in-sentence hinges and 是故 kept, with the reason in `notes/translation.md` → *故 and 是以*. 是以 (*shì yǐ*) → **Therefore**; 故 (*gù*) → **So** (and *and so* inside a sentence). The research is the reason: these are the joints where the chapters were put together (§17), and a reader who hears one word for each can hear the seams.
 
 The rule is for the connective that opens a line; inside a sentence both may read *and so*. **是以 (*shì yǐ*) to *Therefore*:** 7 (*So the sage*), 63 ×2, 72 (*And so the sage*), 73, 78 and 79; 3's *This is how the sage governs:* → *Therefore, the sage governs like this:*; 38, 39 and 76's *This is why…* → *Therefore…*; and 66, which has no English at all: *Therefore the sage stands above, and the people are not weighed down*. **故 (*gù*) to *So*:** 57 (*Therefore the sage says:*), and the *Therefore*s now on a 故 (*gù*) at 2 (*Therefore presence and absence…*), 14 (*Therefore, they mix into one*), 25 (*Therefore, the Tao is great*), 41 (*Therefore, as the established sayings have it*), 54 (*Therefore, observe the body*) and 69 (*Therefore, when the armies…*), with 51's *Thus*. 是故 (*shì gù* — "therefore", ch 44) reads with 是以 (*shì yǐ*). **Ch 1's 故 (*gù*) stays without English** (Shalom's call, 2026-11-14), so that *Ever* opens both lines 5 and 6 as 常 (*cháng* — ever) opens both in the Chinese; the *Yongle Dadian* prints no 故 there (`sources/variants.yaml`). It is an exception, like ch 23's, and the sweep leaves it.
 
 #### T3-15 · Chains cut by a stanza break
 
 - **Ch 1 — done, 2026-11-14 (Shalom's call).** The blank line is gone, and *profound darkness* became *dark*, so the chain is kept word for word: *"Together, they are called dark. / Dark, and dark again, the gate of all subtlety."* `chapters/001.md` → Notes.
-- **Ch 25 — resolve.** Delete the blank after *"Forcing a name on it, I call it great."* The naming and the chain it starts become one stanza of six.
-- **Ch 55 — resolve, by moving the break.** Put it after *"…this is vital essence at its utmost."*, so the second stanza opens *"It cries all day and never goes hoarse — this is harmony at its utmost. / Knowing harmony is called the ever-present…"* Both of the chapter's chains, 和…知和 (*hé… zhī hé* — "harmony… knowing harmony") and 常…知常 (*cháng… zhī cháng* — "the ever-present… knowing the ever-present"), then sit inside one stanza.
-- **Ch 65 — resolve.** Delete the blank before *"Profound integrity is deep"*.
-- **Ch 28 — leave, and record the reason.** The three matched stanzas are the chapter's form, and rule 1 (a series keeps one shape) outranks a single link here, because the coda turns: the uncarved wood scatters into vessels, and the Chinese turns with it (rule 2). Ch 6 is not a precedent against this: there no series was at stake.
+- **Ch 25 — resolve.** Delete the blank after *"Forcing a name on it, I call it great."* The naming and the chain it starts become one stanza of six. **Done 2026-11-19 (Shalom's call).**
+- **Ch 55 — resolve, by moving the break.** Put it after *"…this is vital essence at its utmost."*, so the second stanza opens *"It cries all day and never goes hoarse — this is harmony at its utmost. / Knowing harmony is called the ever-present…"* Both of the chapter's chains, 和…知和 (*hé… zhī hé* — "harmony… knowing harmony") and 常…知常 (*cháng… zhī cháng* — "the ever-present… knowing the ever-present"), then sit inside one stanza. **Done 2026-11-19 (Shalom's call).**
+- **Ch 65 — resolve.** Delete the blank before *"Profound integrity is deep"*. **Done 2026-11-19 (Shalom's call).**
+- **Ch 28 — leave, and record the reason.** The three matched stanzas are the chapter's form, and rule 1 (a series keeps one shape) outranks a single link here, because the coda turns: the uncarved wood scatters into vessels, and the Chinese turns with it (rule 2). Ch 6 is not a precedent against this: there no series was at stake. **Reason recorded 2026-11-19** (`chapters/028.md`).
 
 #### T3-8 · Ch 37 — the chain through 化 (*huà* — transform)
 
@@ -514,7 +514,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 #### T3-9 · Ch 64 — the strands of doing and grasping
 
-**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`process/skills/glossary-entry/SKILL.md` → *How the locks behave*) applies, as it does for 強其骨 (*qiáng qí gǔ* — "strengthen their bones"). The current *does not do* is no closer to the lock.
+**Resolve:** *"Therefore, the sage does not handle it, and so ruins nothing, / does not grasp it, and so loses nothing."* Strand a (§11) reads *handle* in the question, here and at ch 29, so the answer must too. **The cost:** 無為 (*wú wéi*) is locked to *non-doing*, and here it is a verb phrase answering 為者 (*wéi zhě* — "those who handle it"), so *Grammar overrides a lock* (`process/skills/glossary-entry/SKILL.md` → *How the locks behave*) applies, as it does for 強其骨 (*qiáng qí gǔ* — "strengthen their bones"). The current *does not do* is no closer to the lock. **Done 2026-11-19 (Shalom's call).**
 
 #### T3-10 · Ch 22 / 24 — 彰 (*zhāng* — to shine forth)
 
@@ -523,50 +523,50 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 #### T3-11 · 是謂 (*shì wèi* — "this is called")
 
 - **13 — leave.** 何謂…是謂… (*hé wèi… shì wèi…* — "what is meant by… this is what is meant by…") is a question-and-answer frame, and *What does it mean… / This is what is meant* keeps it. Record that as the reason; `chapters/013.md` records only that *this is why* was refused.
-- **14 — resolve.** *"This is called the shape of no-shape, the image of no-thing. / This is called the elusive."* The Chinese says *this is called* twice in two lines, and so should the English.
+- **14 — resolve.** *"This is called the shape of no-shape, the image of no-thing. / This is called the elusive."* The Chinese says *this is called* twice in two lines, and so should the English. **Done 2026-11-19 (Shalom's call).**
 - **27 — done, 2026-11-14**, under T3-16: *This is called the essential subtlety*.
 - **53 — leave.** Recorded: *exposes* is a deliberate departure (`notes/translation.md` → 是謂 (*shì wèi*) at ch 53), on grammar and force.
 - **74 — leave.** Recorded: the line was built as *a clean equation, place for place, which is what 是謂 (shì wèi) asks for* (`notes/translation.md` → *Ch 74*).
-- **78 — resolve, minimally:** *"whoever takes on the shame of the state / is called the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is called the ruler of the world."* *Is called* is the formula's own form at 59 and 65, and it keeps *whoever*.
+- **78 — resolve, minimally:** *"whoever takes on the shame of the state / is called the keeper of the soil and the grain. / Whoever takes on the ill omen of the state / is called the ruler of the world."* *Is called* is the formula's own form at 59 and 65, and it keeps *whoever*. **Done 2026-11-19 (Shalom's call).**
 
 #### T3-13 · the other series members
 
 - **20, 相去 (*xiāng qù* — "how far apart") ×2 — leave, and the verdict is now *kept*.** The Chinese varies its own second word, 幾何 / 若何 (*jǐ hé / ruò hé* — "how much / how"), and the English follows (§13).
 - **41, 大白 (*dà bái* — great white) — leave.** Recorded, Shalom's call 2026-09-07: *the great white* imports an English phrase with a racial history, and *the whitest white* is a deliberate exception to 大 (*dà*)'s lock.
-- **56, 不可得而 (*bù kě dé ér* — "cannot be made to") ×6 — resolve.** *"They cannot be drawn near, and cannot be held off. / They cannot be benefited, and cannot be harmed. / They cannot be honored, and cannot be debased. / And so they become the most honored in the world."* Six *cannot*s for six. The subject *they* is the people the line before describes; the current *You cannot…* puts the reader in a sentence the Chinese does not.
-- **63, 味無味 (*wèi wú wèi* — "taste the flavorless") — leave, and rewrite the reason.** The recorded reason is a chime with ch 35's *bland and flavorless*, and ch 35 no longer says *flavorless*: it reads *It has no flavor*. The rendering still stands on its own: 無味 (*wú wèi*) is a noun, *no flavor*, so *taste the not-tasting* would misread it, and *flavorless* is the honest English.
+- **56, 不可得而 (*bù kě dé ér* — "cannot be made to") ×6 — resolve.** *"They cannot be drawn near, and cannot be held off. / They cannot be benefited, and cannot be harmed. / They cannot be honored, and cannot be debased. / And so they become the most honored in the world."* Six *cannot*s for six. The subject *they* is the people the line before describes; the current *You cannot…* puts the reader in a sentence the Chinese does not. **Done 2026-11-19 (Shalom's call).**
+- **63, 味無味 (*wèi wú wèi* — "taste the flavorless") — leave, and rewrite the reason.** The recorded reason is a chime with ch 35's *bland and flavorless*, and ch 35 no longer says *flavorless*: it reads *It has no flavor*. The rendering still stands on its own: 無味 (*wú wèi*) is a noun, *no flavor*, so *taste the not-tasting* would misread it, and *flavorless* is the honest English. **Reason rewritten 2026-11-19** (`chapters/063.md`).
 - **71, 知不知 / 不知知 (*zhī bù zhī / bù zhī zhī* — "knowing not-knowing / not knowing knowing") — leave.** Recorded in `chapters/071.md`: *claim to know* follows Heshang Gong, who reads 言 (*yán* — to say) into both halves, and the reversal is held at the front of each line.
 
 #### T3-14 · Departures whose reasons are owed
 
-- **兮 (*xī* — the sung pause) — leave everywhere but ch 17, with this reason.** *"兮 (xī) is a held breath with no meaning of its own, and English has no word for it. A held breath is what punctuation is for, so the English gives it a mark instead: a comma after a bare adjective (4, 15), a full stop (25), an exclamation (20). Where it falls inside a line rather than closing a word (14, 34), the line's own pause carries it. At 58, 禍兮 (huò xī — "disaster!") holds a topic up, and the English names the topic."*
+- **兮 (*xī* — the sung pause) — leave everywhere but ch 17, with this reason.** **Written 2026-11-19** (`notes/translation.md` → *兮 — the sung pause, carried by punctuation*); ch 17's *Hesitant,* already restored 悠 (*yōu*) and the pause (Shalom's call, 2026-11-19). *"兮 (xī) is a held breath with no meaning of its own, and English has no word for it. A held breath is what punctuation is for, so the English gives it a mark instead: a comma after a bare adjective (4, 15), a full stop (25), an exclamation (20). Where it falls inside a line rather than closing a word (14, 34), the line's own pause carries it. At 58, 禍兮 (huò xī — "disaster!") holds a topic up, and the English names the topic."*
 - **Ch 17's 悠兮 (*yōu xī* — "unhurried!") — resolve.** The pause went, and so did its adjective, 悠 (*yōu* — unhurried). *"Unhurried, they hold their words precious."* This restores 貴 (*guì* — to prize) too, which *speak sparingly* had turned into a description.
-- **Ch 50's 生生之厚 (*shēng shēng zhī hòu* — "the thickness of their living life") — resolve.** *"Why? Because they live life too thickly."* English has the figure this one needs: *live life* is a verb taking its own noun, and 厚 (*hòu*) is *thick* at ch 38. Ch 75's 求生之厚 (*qiú shēng zhī hòu* — "seeking life's thickness"), *want their own lives so rich*, can stay: it is a different verb, and *rich* there is what the rulers want.
+- **Ch 50's 生生之厚 (*shēng shēng zhī hòu* — "the thickness of their living life") — resolve.** *"Why? Because they live life too thickly."* **Done 2026-11-19 (Shalom's call).** English has the figure this one needs: *live life* is a verb taking its own noun, and 厚 (*hòu*) is *thick* at ch 38. Ch 75's 求生之厚 (*qiú shēng zhī hòu* — "seeking life's thickness"), *want their own lives so rich*, can stay: it is a different verb, and *rich* there is what the rulers want.
 - **The rhyme claim at ch 6 — confirmed.** Zhu Qianzhi's critical edition records Jiang Yougao's reading: 門 根 存 勤 (*mén gēn cún qín* — gate, root, exist, strain) in the 文 (*wén*) group, as the audit said, and 死 / 牝 (*sǐ / pìn* — die / female) rhyming in the 脂 (*zhī*) group, with 牝 (*pìn*) read like 匕 (*bǐ*). So **a second rhyme binds lines 1 and 2**, which the 4 / 2 stanza layout keeps together. No change. Yao Wentian agrees with Jiang.
 
 #### T3-17 · Verbatim phrases across chapters
 
-- **孤、寡、不穀** (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy"), 39 · 42 — **resolve** ch 42 to *"orphaned, alone, or unworthy"*. 寡 (*guǎ*) here is the ruler's self-name, 寡人 (*guǎ rén* — "the lone one"), so *alone* is the word.
-- **禍莫大於** (*huò mò dà yú* — "no disaster greater than"), 46 · 69 — **resolve** ch 69 to *"There is no greater disaster than making light of the enemy."* The note says it was matched on purpose; the page drifted.
+- **孤、寡、不穀** (*gū, guǎ, bù gǔ* — "orphaned, lone, unworthy"), 39 · 42 — **resolve** ch 42 to *"orphaned, alone, or unworthy"*. 寡 (*guǎ*) here is the ruler's self-name, 寡人 (*guǎ rén* — "the lone one"), so *alone* is the word. **Done 2026-11-19 (Shalom's call).**
+- **禍莫大於** (*huò mò dà yú* — "no disaster greater than"), 46 · 69 — **resolve** ch 69 to *"There is no greater disaster than making light of the enemy."* The note says it was matched on purpose; the page drifted. **Done 2026-11-19 (Shalom's call).**
 - **不言之教** (*bù yán zhī jiào* — "the teaching without words"), 2 · 43 — **resolve** ch 43 to *"The teaching without words, the benefit of non-doing —"*.
 - **生而不有**, 2 · 10 · 51 — **resolved** under T3-13 above.
-- **不自見** (*bù zì jiàn* — "do not show themselves"), 22 · 24 · 72 — **resolve** ch 72 to *"knows themselves and does not show themselves off"*. Its notes argue for *display* as a concept and never as against ch 22's English.
-- **▢之又▢** (*▢ zhī yòu ▢* — "▢, and ▢ again"), 1 · 48 — **resolve** ch 48 to *"Decrease, and decrease again, until you reach non-doing."*
-- **取天下 … 以無事** (*qǔ tiān xià… yǐ wú shì* — "take the world… by not meddling"), 48 · 57 — **leave, and record why.** Ch 48 states how the world is won and chose the receptive *comes to you* (recorded). Ch 57's line closes a series of three imperatives, *Govern… wage war… win*, and needs an active verb in the series' own voice. **But** ch 29's *take the world* is the third English of 取天下 (*qǔ tiān xià*), and the note at 取天下 (*qǔ tiān xià*) leaves that open: settle it there.
+- **不自見** (*bù zì jiàn* — "do not show themselves"), 22 · 24 · 72 — **resolve** ch 72 to *"knows themselves and does not show themselves off"*. Its notes argue for *display* as a concept and never as against ch 22's English. **Done 2026-11-19 (Shalom's call).**
+- **▢之又▢** (*▢ zhī yòu ▢* — "▢, and ▢ again"), 1 · 48 — **resolve** ch 48 to *"Decrease, and decrease again, until you reach non-doing."* **Done 2026-11-19 (Shalom's call).**
+- **取天下 … 以無事** (*qǔ tiān xià… yǐ wú shì* — "take the world… by not meddling"), 48 · 57 — **leave, and record why.** *(Superseded 2026-11-19, Shalom's call: both read* win over the world*; ch 29's grasper keeps* take*.)* Ch 48 states how the world is won and chose the receptive *comes to you* (recorded). Ch 57's line closes a series of three imperatives, *Govern… wage war… win*, and needs an active verb in the series' own voice. **But** ch 29's *take the world* is the third English of 取天下 (*qǔ tiān xià*), and the note at 取天下 (*qǔ tiān xià*) leaves that open: settle it there.
 - **抱一** (*bào yī* — "embrace one"), 10 · 22 — **leave; the verdict is now *departed*.** The lock carries *one thing (ch 22)* as a flexion, so the split is data, not drift.
-- **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*.
+- **扔** (*rēng* — to pull), 38 · 69 — **resolve** ch 69 to *"dragging where there is no enemy"*. **Done 2026-11-19 (Shalom's call).**
 - **功成** (*gōng chéng* — "the work done"), 2 · 34 · 77 — **resolve** with ch 34, under T3-18.
-- **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has.
+- **民不畏** (*mín bù wèi* — "the people do not fear"), 72 · 74 — **resolve** ch 72 to *"When the people do not fear authority"*. *No longer* adds a before and after that neither chapter has. **Done 2026-11-19 (Shalom's call).**
 - **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"), 10 · 51 · 65 — **resolve** ch 65 to *"Always knowing the pattern — / this is called profound integrity."* *(Wording updated 2026-11-16, Shalom's call: the verse now reads "Always knowing the pattern / is called profound integrity.")* The dash is the topic–comment shape standing rule 3 allows, as at 10 and 51.
-- **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image.
+- **利器** (*lì qì* — sharp tools), 36 · 57 — **resolve, with less confidence:** ch 57 to *"The more tools of advantage the people have, the more clouded the state becomes."* 器 (*qì*) is locked to *vessel / tool*, and *weapons* is 兵 (*bīng*)'s English. Wang Bi reads ch 57's 利器 (*lì qì*) as tools for one's own advantage, which *tools of advantage* says. The cost is the sharper image. **Done 2026-11-19 (Shalom's call),** as *beneficial tools* at both 36 and 57, *tools of advantage* being set aside as awkward English.
 
 #### T3-18 · One member out of step
 
-- **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point.
-- **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*.
-- **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*.
+- **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point. **Done 2026-11-19 (Shalom's call).**
+- **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*. **Done 2026-11-19 (Shalom's call).**
+- **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*. **Done 2026-11-19 (Shalom's call).**
 - **12, 令人行妨 (*lìng rén xíng fáng*) — leave.** Recorded: *the fifth* makes *is carried by the verb* (`chapters/012.md`, Shalom's call 2026-10-20).
-- **13, the second 天下 (*tiān xià* — the world) — resolve:** *"…can be trusted with the world."* in both lines. 寄 / 託 (*jì / tuō*) as *trusted with* stays, as recorded.
+- **13, the second 天下 (*tiān xià* — the world) — resolve:** *"…can be trusted with the world."* in both lines. 寄 / 託 (*jì / tuō*) as *trusted with* stays, as recorded. **Done 2026-11-19 (Shalom's call).**
 - **17, the ladder — resolve:**
 
 > Of the highest, those below know only that they are there.  
@@ -574,10 +574,10 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 > Next, those who are feared.  
 > Next, those who are despised.
 
-  The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes.
-- **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops.
-- **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them.
-- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*.
+  The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes. **Done 2026-11-19 (Shalom's call),** without *only*: *"The highest: those below know that they are there."*
+- **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops. **Done 2026-11-19 (Shalom's call).**
+- **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them. **Done 2026-11-19 (Shalom's call).**
+- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with weapons"* (*arms* set the same day and withdrawn: it is 臂's), *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*. **Done 2026-11-19 (Shalom's call).**
 - **34, 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") ×2 and 功成 (*gōng chéng* — "the work done") — resolve:**
 
 > The countless things rely on it to live, yet it refuses none.  
@@ -588,19 +588,19 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
   The two 為主 (*wéi zhǔ*) read alike, *owner* and *ownership* stop falling on two characters, and 功成 (*gōng chéng*) reads as at 2 and 77. **Done 2026-11-15, with the 名 (*míng* — name) entry:** 不名有 (*bù míng yǒu*) reads *"it does not name it its own"* rather than *claim to own it*, since *claim* is 伐's (*fá*), and 可名 reads *can be named*, as at 1 and 14 (`chapters/034.md` → Notes).
 - **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it. **Done, 2026-11-19 (Shalom's call),** with 欲得 → *wanting to get*.
-- **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."*
-- **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again.
+- **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."* **Done 2026-11-19 (Shalom's call).**
+- **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again. **Done 2026-11-19 (Shalom's call).**
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
-- **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line.
-- **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19.
+- **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line. **Done 2026-11-19 (Shalom's call).**
+- **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19. **Done 2026-11-19 (Shalom's call)** as *"I do not desire, and the people become plain of themselves"*: *plain* kept, as `glossary/pu-樸.md` argues.
 - **60, 不傷人 (*bù shāng rén* — "does not harm people") ×3 — resolve:** *"their potency does no harm to people, / not only does their potency do no harm to people, the sage, too, does no harm to people."* The chain then repeats word for word, as the Chinese does. **Done, 2026-11-19 (Shalom's call),** with R6's 非 and 神 → *spirit*: *does no harm to people* ×3 (`chapters/060.md`).
 - **65, 國之賊 / 國之福 (*guó zhī zéi / guó zhī fú*) — leave.** Recorded (`notes/translation.md` → *Ch 65*): *robs the state / is the state's good fortune* was built deliberately as the pair, on the way out of the overlay *blessing* for 福 (*fú* — good fortune).
-- **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs.
+- **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs. **Done 2026-11-19 (Shalom's call).**
 - **80, 相 (*xiāng* — each other) ×3 — leave.** Recorded at length (`notes/translation.md` → 不相往來 (*bù xiāng wǎng lái* — "do not go to and fro")): *never once go next door* names the motion and its destination, which *visit one another* did not.
 
 #### T3-19 · The book's images
 
-- **門 (*mén* — gate) at 52 and 56 — resolve:** *"Block the openings, close the gates."* It joins the gate of 1, 6 and 10, the body's openings read as the same gates. It has no lock; this would make it one.
+- **門 (*mén* — gate) at 52 and 56 — resolve:** *"Block the openings, close the gates."* It joins the gate of 1, 6 and 10, the body's openings read as the same gates. It has no lock; this would make it one. **Done 2026-11-19 (Shalom's call).**
 - **樸 (*pǔ*) at 57 — resolve,** with T3-18's ch 57: *"…and the people become uncarved of themselves."* It is the lock's English, and the image the book has been building since ch 15.
 
 #### T5-14 · An echo the Chinese does not make

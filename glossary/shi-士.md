@@ -86,4 +86,4 @@ This is the entry's real finding, and it is why a narrower word cannot be used.
 
 **Whether 上士 · 中士 · 下士 are three kinds of person or three grades of one office.** 王弼's 士卒之帥 implies a real hierarchy with posts in it; 河上公's greedy-as-wolves implies a moral spectrum. Our English takes the height words and stays silent on which, which may be more silence than the Chinese keeps.
 
-**Whether ch 68's frame survives.** 善為士者 must match ch 15, but its three companion lines run 善▢者 as *"the master fighter," "the master of overcoming enemies," "the master of using people."* Four instances of one frame now wear two shapes. `WORKLIST.md` T2-47.
+**Ch 68's frame now holds.** 善為士者 matches ch 15, and since 2026-11-19 (Shalom's call, T2-47) its three companion lines run the frame the same way: *"Those masterful at fighting," "Those masterful at overcoming enemies," "Those masterful at using people."*

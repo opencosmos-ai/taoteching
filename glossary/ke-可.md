@@ -93,7 +93,7 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 ### Chapter 36, the hardest line
 
 > 魚不可脫於淵，國之利器不可以示人。
-> *"A fish cannot leave deep water. / A state's tools of advantage cannot be shown."*
+> *"A fish cannot leave deep water. / A state's beneficial tools cannot be shown."*
 
 **The two clauses are one parallel, and the English keeps it.** Both read *cannot* (Shalom's call, 2026-10-14).
 

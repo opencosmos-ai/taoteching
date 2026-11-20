@@ -82,7 +82,7 @@ Four lines, each opening on 善 (*shàn* — masterful at), and then the name fo
 
 > 善為士者，不**武**；善**戰**者，不怒；善**勝**敵者，不與；善用人者，為之**下**。是謂不**爭**之德。
 >
-> *"Those masterful in service are not martial. The master fighter does not rage. The master of overcoming enemies does not engage them. The master of using people puts themselves below them. This is called the integrity of not contending."*
+> *"Those masterful in service are not martial. Those masterful at fighting do not rage. Those masterful at overcoming enemies do not engage them. Those masterful at using people put themselves below them. This is called the integrity of not contending."*
 
 Not martial, not enraged, not engaging, underneath. **爭 is the common name for what all four refuse** — and note how far that reaches past ambition. It covers the battlefield. *Compete* cannot carry a chapter about war; *contend* can, because English contends in arguments and in wars alike.
 

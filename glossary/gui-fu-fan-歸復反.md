@@ -105,7 +105,7 @@ So one English verb runs the length of a chapter in which the Chinese uses three
 | 復守其母 (52) | *return and hold fast to our mother* | goes back, then holds |
 | 使民復結繩而用之 (80) | *Let the people go back to keeping their records in knotted cord* | goes back to a practice: *go back* |
 | 復眾人之所過 (64) | *brings the crowd back from where they have gone too far* | made causative: *bring back* |
-| 正復為奇 (58) | *The straight turns crooked* | the adverb, *in turn*, carried by *turns* |
+| 正復為奇 (58) | *the straight turns crooked* | the adverb, *in turn*, carried by *turns* |
 
 **Chapter 58 is the one line where 復 (fù) is plainly the adverb.** 正復為奇，善復為妖 (*zhèng fù wéi qí, shàn fù wéi yāo* — "the straight in turn becomes crooked, the good in turn becomes monstrous"). The English carries it in the verb, *"turns crooked,"* which is where *in turn* belongs. Elsewhere, 復 (fù) is the going back, and the step in its graph is doing the work.
 

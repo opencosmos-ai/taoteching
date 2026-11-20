@@ -78,7 +78,7 @@ We print 長短相**形**，高下相**盈** — *"long and short give each othe
 
 **Two forks, and they fall differently.** 形 / 較 splits the transmitted editions from 王弼's own: *give each other shape* against *measure against each other*. 盈 / 傾 splits **every transmitted text we carry** — both commentaries print 傾 (*qīng* — to lean, incline) — from our base's 盈 (*yíng* — to fill), which is the reading `sources/variants.yaml` attributes to the Mawangdui silks. The usual explanation for 傾 is the Han taboo on the personal name of Emperor Hui, 劉盈 (*Liú Yíng*), r. 195–188 BCE — the same mechanism as 邦 (*bāng* — state) → 國 (*guó*) at ch 61. **So at this line our base carries the older, pre-taboo reading, and the text it is named after does not.**
 
-**We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58.
+**We keep the base.** Recorded because the "Wang Bi base text" label is not literally true at this line, which is worth knowing about the base generally. **The English follows neither graph** — *"High and low depend on each other"* renders neither *fill* nor *lean* — and that is a rendering question, not a witness one: `WORKLIST` T2-58. *(Settled 2026-11-19, Shalom's call: "High and low fill each other," the base's 盈, and "Long and short shape each other.")*
 
 ### Ch 12 · 是以聖人之治也 — in the silks, the belly is the governed's
 
@@ -184,7 +184,7 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **We keep the base text's 政**, rendered *governing*, which leaves 治 (*zhì* — to order) free for *order* — as at ch 64's 治之於未亂 — instead of colliding with it. *(Updated 2026-09-24.)* This entry once said 王弼 (*Wáng Bì*) was not vendored for ch 8. **He was always in the transcription.** The importer missed ten chapter headings that sat at the end of a comment line (`WORKLIST` T5-6). **The Siku 王弼 prints 正 as well**: 正善治〔案永樂大典正作政古通用〕, *"the Yongle Dadian reads 政; the two were interchangeable in antiquity."* So both commentaries print 正, and our base agrees with the Ming encyclopaedia. The call stands, because nothing in the line turns on it.
 
-**This does not touch T4-2**, the deferred 正 / 奇 (*zhèng / qí* — straight / crooked) call. That is a question about how 正 is rendered where we print it; this is a question about which graph is printed, and logging a fork settles nothing about the other.
+**This does not touch T4-2**, the 正 / 奇 (*zhèng / qí* — straight / crooked) call (settled 2026-11-19, `glossary/zheng-qi-正奇.md`). That is a question about how 正 is rendered where we print it; this is a question about which graph is printed, and logging a fork settles nothing about the other.
 
 ### Ch 8 · 水善利萬物而不爭 / 而有靜 — water does not contend, or water is still
 
@@ -307,7 +307,7 @@ Heshang Gong's reading also independently supports the Mawangdui 自今及古 (*
 
 ### Ch 26 · 君子 / 聖人, 主 / 王 and 失本 / 失臣 — three forks, and our base is alone on the first
 
-**君子 / 聖人.** We print 是以**君子**終日行不離輜重 — *"the noble travels all day without leaving the baggage wagons."* **Both of our vendored commentaries print 聖人** (*shèng rén* — the sage) in the lemma, and 河上公 (*Héshàng Gōng*) glosses on his own reading: 聖人終日行道，不離其靜與重也, *"the sage travels the Tao all day and does not leave stillness and heaviness."* 王弼 (*Wáng Bì*)'s gloss, 以重為本故不離 (*"takes the heavy as the root, and so does not leave it"*), names no subject and cannot settle it. **Our base is the minority reading against two independent editions.** We keep it, per the standing rule that this is an edition of the received recension. 君子 (*jūn zǐ* — the noble, literally a ruler's son) and 聖人 are different figures in this book, not two names for one (`WORKLIST` T2-6, T4-7). That makes this a live fork about **who** the chapter is addressed to, not a synonym swap. The English follows the base: *the noble*.
+**君子 / 聖人.** We print 是以**君子**終日行不離輜重 — *"the noble travels all day without leaving the heavy wagons."* **Both of our vendored commentaries print 聖人** (*shèng rén* — the sage) in the lemma, and 河上公 (*Héshàng Gōng*) glosses on his own reading: 聖人終日行道，不離其靜與重也, *"the sage travels the Tao all day and does not leave stillness and heaviness."* 王弼 (*Wáng Bì*)'s gloss, 以重為本故不離 (*"takes the heavy as the root, and so does not leave it"*), names no subject and cannot settle it. **Our base is the minority reading against two independent editions.** We keep it, per the standing rule that this is an edition of the received recension. 君子 (*jūn zǐ* — the noble, literally a ruler's son) and 聖人 are different figures in this book, not two names for one (`WORKLIST` T2-6, T4-7). That makes this a live fork about **who** the chapter is addressed to, not a synonym swap. The English follows the base: *the noble*.
 
 **主 / 王.** We print 奈何萬乘之**主** (*zhǔ* — lord); **the Siku 王弼 prints 萬乗之王** (*wáng* — king, ruler), and 河上公 agrees with our base (柰何萬乗之主). Not meaning-bearing, since both name the sovereign and the English's *lord* fits either. *(Corrected 2026-09-24: `sources/variants.yaml` had this the wrong way round, saying the Siku reads 主 where we read 王.)*
 
@@ -386,6 +386,8 @@ Received: 盜**夸** (dào kuā) — "the *swagger* / boast / extravagance of th
 
 ### Ch 55 · 全作 / 朘作 — the newborn's quickening
 
+*(Verse settled 2026-11-19, Shalom's call: it follows our printed 朘, "He does not yet know the union of female and male, yet his member stirs," with the newborn a boy from line 1.)*
+
 **Correction, 2026-08-11:** this note previously said our base text reads 而**全**作. It does not — **our source table reads 而朘作**, the Mawangdui and Fu Yi reading, while the verse renders 全 (*"their whole being quickens with life"*). The received Wang Bi reading is indeed 全, as the Siku Quanshu printing confirms (`sources/commentaries/wangbi/055.md`). So the verse follows 全, the source table shows 朘, and the note had misdescribed both. Found by the commentary import. The rendering stands; only the account of where it came from was wrong.
 
 Received Wang Bi: 而**全**作 — 全 = *whole, complete* — "yet it quickens wholly." The older **Mawangdui** and **Fu Yi** texts read 而**朘**作, where 朘 (zuī) is specifically *the infant boy's member* — an explicit male erection. The traditional gloss takes both as the reflex erection (全 as a decorous stand-in for 朘). We keep our base text's **全** and read it in its plain sense — *the whole being quickens with life* — which preserves the point (精之至: desireless potency arising from fullness) while keeping the emblem universal, for infants of every gender. (See the paired Translation Note, and Process guide §0 on the incidental male-default.)
@@ -408,7 +410,7 @@ Where our received base reads 國 (*guó* — state) nine times in this chapter,
 
 #### 天下之交，天下之牝 — the silks put the female first
 
-Received: 大國者下流，**天下之交，天下之牝**。牝常以靜勝牡 — *"the large state is the downstream flow, the confluence of the world, the female of the world. The female always overcomes…"* **Both silks reverse the pair.** Silk A reads 天下之牝，天下之郊也 (*"the female of the world, the confluence of the world"*), with 郊 (*jiāo* — the outskirts) as a loan for 交 (*jiāo* — to meet). Silk B has lost the seven graphs before 牝, but what survives, 牝也，天下之交也, keeps the silks' order. **No line changes its meaning, but the form does.** Our base ends a line on 牝 and opens the next on 牝, a chain the English keeps: *"the female of the world. / The female always overcomes the male by stillness."* In the silks the confluence sits between the two, and there is no chain. **Our call: open.** Whether to keep the base's order and its chain, or follow the silks, is Shalom's call, in `WORKLIST` T3.
+Received: 大國者下流，**天下之交，天下之牝**。牝常以靜勝牡 — *"the large state is the downstream flow, the confluence of the world, the female of the world. The female always overcomes…"* **Both silks reverse the pair.** Silk A reads 天下之牝，天下之郊也 (*"the female of the world, the confluence of the world"*), with 郊 (*jiāo* — the outskirts) as a loan for 交 (*jiāo* — to meet). Silk B has lost the seven graphs before 牝, but what survives, 牝也，天下之交也, keeps the silks' order. **No line changes its meaning, but the form does.** Our base ends a line on 牝 and opens the next on 牝, a chain the English keeps: *"the female of the world. / The female always overcomes the male by stillness."* In the silks the confluence sits between the two, and there is no chain. **Our call: follow the silks** (Shalom's call, 2026-11-19, T3-20): *"the female of the world, the confluence of the world."* The chain goes.
 
 #### 則取大國 — active, not passive
 
@@ -493,6 +495,8 @@ Our Wang Bi base reads 稽式 (*jī shì*), Heshang Gong's text reads 楷式 (*k
 Our base reads 故以智治國，國之賊；不以智治國，國之福 (*gù yǐ zhì zhì guó, guó zhī zéi; bù yǐ zhì zhì guó, guó zhī fú* — "so to govern a state with cleverness robs the state; not to govern it with cleverness is the state's good fortune"). Both silks write 知 (*zhī* — to know, also to preside over) for 治 (*zhì* — to govern) as well as for 智 (*zhì* — cleverness): *to know the state by knowing is the state's robber*. And they close on 德 (*dé* — integrity) where our base has 福 (*fú* — good fortune). Silk A writes 邦 (*bāng* — state), the word the Han taboo later replaced with 國 (see Ch 61). Wang Bi's note on the line opens 智猶治也 — *"智 is like 治"* — so the pun he hears is in the silks' ink. **We keep the base**, which both commentators read; the English, *guile* and *good fortune*, cannot carry the pun either way: `glossary/zhi-智.md`. *(2026-11-16, from the Wikisource silk text; confirm against a printed edition, as `WORKLIST.md` T2-74 asks.)*
 
 ### Ch 67 · 我道大 or 我大 — **resolved 2026-08-19: the chapter is about Laozi**
+
+*(Superseded 2026-09-06: Shalom restored 道 (*dào* — the Tao), and the verse follows the base, *"The world says my Tao is great"* (`chapters/067.md` → Notes). The argument below is the August decision, kept as history.)*
 
 Our base reads 天下皆謂**我道**大 — *"everyone says my Tao is vast."* Heshang Gong's lemma reads 天下皆謂**我**大, *"everyone says **I** am vast."* **We follow Heshang Gong, against our own base text.** Six arguments converge, and only the second is about manuscripts.
 
@@ -611,6 +615,10 @@ Our base text: 民之輕死，以其**上**求生之厚，是以輕死 — *"the
 Our base has 折 (*zhé* — to snap). **王弼's lemma has 兵** (*bīng* — weapons), and his gloss commits to it: 物所加也, *"it is what gets applied to it."* The strong tree draws the axe — strength **attracts violence** rather than causing its own failure. **河上公's lemma has 共** (*gòng* — together), glossed 木強大枝弱共生其上也, *"the tree being big and strong, the weak branches grow together above it"* — which makes the line a setup for the closing couplet about below and above rather than an image of breaking.
 
 We keep 折. The chapter's engine is physical from the first line (a corpse, a green stem, a dry stick), and 折 is the physics; 兵 imports an agent. And 兵 would repeat the character from the clause immediately before it, 兵強則不勝, which reads as transmission rather than design. Logged because this is the fifth place our base departs from a reading in the Siku 王弼 (see Ch 2, 68, 69, 73, 74).
+
+### Ch 77 · 不足者補之 / 不足者與之 — mend, or give to
+
+Heshang Gong's text reads the bow line 不足者與之 (*bù zú zhě yǔ zhī* — "what is too little is given to"), with 與 (*yǔ* — to give) where our base has 補 (*bǔ* — to mend), and keeps 𥙷 in the law line. **We keep the base**: with 補 in both lines, the bow image and the law speak one verb, and the verse says so, *"What is too little is mended … and mends where there is too little"* (Shalom's call, 2026-11-19). Fork 127. The chapter note had claimed he reads 補 twice; corrected there, and registered in `process/retractions.yaml`.
 
 ### Ch 78 · 受國之垢 / 受國之訽 — grime, or reviling — and 柔 / 水, a second water
 
@@ -769,7 +777,7 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 廉而不**劌** against 韓非's 廉而不**穢**. 劌 (*guì* — to cut, to wound) is built on 刀 (*dāo* — knife); 穢 (*huì* — filthy, weed-choked) on 禾 (*hé* — grain).
 
-**Our call: the base, on the parallel.** The line sits in a four-beat series — 方而不割 · 廉而不劌 · 直而不肆 · 光而不耀 — in which **every member pairs a property with the harm it declines to do**: square but does not cut, edged but does not wound, straight but does not overreach, bright but does not dazzle. 劌 completes that pattern; 穢 breaks it, since being filthy is not a harm an edge does to anything. The two graphs are close enough that a slip is the likely explanation, and it is recorded rather than assumed away.
+**Our call: the base, on the parallel.** The line sits in a four-beat series — 方而不割 · 廉而不劌 · 直而不肆 · 光而不耀 — in which **every member pairs a property with the harm it declines to do**: square but does not cut, edged but does not wound, true but does not overreach, bright but does not dazzle. 劌 completes that pattern; 穢 breaks it, since being filthy is not a harm an edge does to anything. The two graphs are close enough that a slip is the likely explanation, and it is recorded rather than assumed away.
 
 ### Ch 60 · 傷人 / 傷民 — and it is evidence on a deferred call
 

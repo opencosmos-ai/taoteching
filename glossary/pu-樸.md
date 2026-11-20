@@ -91,7 +91,7 @@ Set it beside Chapter 28 and it snaps into place. If a vessel is made by cutting
 - predicative, of people → **plain** — a licensed flexion, see below
 - **器** as its counter-term → **vessel** where the thing is a container, **tool** or **instrument** where the point is function
 
-**On "plain" at Chapter 57.** 我無欲，而民自樸 is rendered *"I am desireless, and the people become plain of themselves"* — and it should stay. The line sits in a four-part refrain (transform / right / enrich / ——), each member a short predicate ending in 自 (*of themselves*); "become uncarved of themselves" would stall it, and "plain" carries 樸's core sense exactly. This is a deliberate flexion, not a drift: the plain people of Chapter 57 and the uncut wood of Chapter 28 are the same image at two scales.
+**On "plain" at Chapter 57.** 我無欲，而民自樸 is rendered *"I do not desire, and the people become plain of themselves"* — and *plain* stays (Shalom's call, 2026-11-19, closing T3-19's 樸 half). The line sits in a four-part refrain (transform / right / enrich / ——), each member a short predicate ending in 自 (*of themselves*); "become uncarved of themselves" would stall it, and "plain" carries 樸's core sense exactly. This is a deliberate flexion, not a drift: the plain people of Chapter 57 and the uncut wood of Chapter 28 are the same image at two scales.
 
 
 ### Is there a paradox inside the word? — the "block" question
@@ -116,7 +116,7 @@ So the "block" is **English**, not Chinese — a noun supplied by translators to
 
 ### The paradoxes that are actually there
 
-**1. You are told to return to a state that cannot be recovered.** 復歸於樸 (28). Wood does not un-carve. Once the block is vessels, no craft on earth makes it a block again. Yet the instruction stands, three times over, in parallel with returning to infancy and to the limitless — both equally irreversible. Either the instruction is impossible, or *returning* means something other than reversal: not restoring a former shape but ceasing to identify with the shape you were cut into. The text does not explain. It simply keeps pointing backward along a road that only runs forward.
+**1. You are brought back to a state that cannot be recovered.** 復歸於樸 (28). Wood does not un-carve. Once the block is vessels, no craft on earth makes it a block again. Yet the return stands, three times over, in parallel with returning to infancy and to the limitless — both equally irreversible. Either the instruction is impossible, or *returning* means something other than reversal: not restoring a former shape but ceasing to identify with the shape you were cut into. The text does not explain. It simply keeps pointing backward along a road that only runs forward.
 
 **2. The great carving does not cut.** 大制不割 (28) — Laozi's own explicit paradox, placed in the very passage where the block becomes vessels. 制 is to tailor, cut out, govern; 割 is to sever. The greatest shaping does no severing. Not a refusal to shape — a shaping that leaves nothing cut.
 

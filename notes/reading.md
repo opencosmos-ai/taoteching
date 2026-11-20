@@ -59,7 +59,7 @@ The Tao Te Ching exalts the feminine as a **principle** — 母 (*mǔ* — mothe
 
 **Where the text argues with itself.** Ch 25's four greats: our base text reads 王 (*wáng* — king), as every excavated witness does, Guodian included. But one line later it says 人法地 ("humans follow earth"), and the ladder that follows has no king in it. 傅奕 (*Fù Yì*, Tang) and 范應元 (*Fàn Yìngyuán*, Song) read 人 (*rén* — human) among the four greats, and we follow them on that internal ground, not on manuscript age. *(This note once said both Mawangdui silks read 人. They do not; corrected 2026-08-20.)* *(Apparatus in the Manuscript Notes; rendering in the Translation Notes.)*
 
-**Where we universalize on our own authority, and say so.** Ch 16's 公乃王 becomes *"impartiality leads to sovereignty"* — a quality, not a monarch. Ch 55's 朘 (*zuī*), specifically the infant boy's member in the older witnesses, is read through our base text's 全 (*quán* — whole) as *"their whole being quickens with life,"* keeping the emblem available to infants of every gender. Ch 62's 天子 becomes *"a child of the sky"* — the title kept, the *Son* dropped, since the graph is a swaddled infant with no sex in it. Every 聖人 (*shèng rén* — the sage) takes singular *they*.
+**Where we universalize on our own authority, and say so.** Ch 16's 公乃王 becomes *"impartiality leads to sovereignty"* — a quality, not a monarch. *(Ch 55 superseded 2026-11-19, Shalom's call: the verse renders 朘, "his member stirs," the newborn a boy from line 1, under standing rule 1's fourth part.)* Ch 55's 朘 (*zuī*), specifically the infant boy's member in the older witnesses, was read through the received text's 全 (*quán* — whole) as *"their whole being quickens with life,"* keeping the emblem available to infants of every gender. Ch 62's 天子 becomes *"a child of the sky"* — the title kept, the *Son* dropped, since the graph is a swaddled infant with no sex in it. Every 聖人 (*shèng rén* — the sage) takes singular *they*.
 
 **Where the text needs no help.** Ch 61 makes the most explicit case for feminine power in the book — 天下之牝 ("the female of the world"), 牝常以靜勝牡 ("the female always overcomes the male through stillness") — and argues it entirely with 牝 / 靜 (*jìng* — stillness) / 下 (*xià* — below), without one syllable of 陰 (*yīn*). 陰 appears **once in all 81 chapters**, in Ch 42, paired with 陽 (*yáng*), and never as the feminine principle. The popular yin-yang framing of Laozi is imported.
 
@@ -95,7 +95,7 @@ They interlock on their own vocabulary. 棄 (*qì* — abandon) binds 27 to 62; 
 - **Ch 25 describes that movement entirely in travel verbs.** 大曰逝，逝曰遠，遠曰反 — great, then 逝 (*shì* — departing), then 遠 (*yuǎn* — going far), then 反 (*fǎn* — returning). An outbound journey and a return, in four words. *(Ch 25 read 逝 as "expanding" until 2026-09-06, which is growth in place — the one thing the line denies. 說文 gives 往也, "to go"; 王弼 glosses it 逝行也.)*
 - **Ch 14 puts the head of the road out of sight.** 迎之不見其首，隨之不見其後 — *"Go to meet it and you do not see its head; follow it and you do not see its back."* Both verbs are 辵 words — 迎 (*yíng* — to go and meet) and 隨 (*suí* — to follow) — and **首, the head, is the very component 道 is built from.** 首 appears only twice in the whole book. The road has a head, and you cannot get around to the front of it.
 - **Ch 15's 通 is 道's sibling by definition, not merely by radical.** 說文 defines 通 as 達也, and defines 道 *through* 達 (一達謂之道). Both are getting-through.
-- **Ch 30's 還.** 其事好還 — *"such affairs tend to come back."* Violence is a road that loops.
+- **Ch 30's 還.** 其事好還 — *"such affairs tend to turn back."* Violence is a road that loops; and for Wang Bi and Heshang Gong, the one with the Tao is the one who turns back.
 - **Ch 27's 迷.** 雖智大迷 — clever, and badly lost. **You can lose a road. You cannot lose an abstraction.**
 
 **The through-line:** nearly every major claim about the Tao is a claim about travel — where it goes, how far, whether it returns, whether you can see its head, whether you can get lost on it. That is a different kind of statement from the one the English tradition inherited, which made 道 *the Way* and then let *way* be heard as *manner* — a way of doing things. **The character is more concrete than that, and the book keeps it concrete.** It is also an argument for leaving 道 untranslated: *the Way* keeps the road but adds a throne, and *a way* loses the road altogether.
@@ -131,7 +131,7 @@ What makes the chain worth following is where it starts: 知常, *knowing the ev
 
 ### Ch 28 · The road that only runs forward — 復歸於樸
 
-Chapter 28 tells you three times to go back: 復歸於嬰兒, *return to the infant*; 復歸於無極, *return to the endless*; 復歸於樸, *return to the uncarved wood.* Each is impossible in the plain sense. No one becomes an infant again. And wood does not un-carve — once the log is bowls and wheels, no craft on earth makes it a log.
+Chapter 28 brings you back three times: 復歸於嬰兒, *and you return to the infant*; 復歸於無極, *to the endless*; 復歸於樸, *to the uncarved wood.* Each is impossible in the plain sense. No one becomes an infant again. And wood does not un-carve — once the log is bowls and wheels, no craft on earth makes it a log.
 
 Laozi never explains, and the honest reading has to sit with that. But the chapter's own closing line suggests where the answer lies: 大制不割 — *the greatest shaping does no severing.* If the great cut leaves nothing cut, then what is being asked is not the restoration of a former shape. It is the loosening of your identification with the shape you were cut into — the bowl remembering it was never only a bowl. The wood is still wood. The carving went only as deep as the form.
 
@@ -165,15 +165,15 @@ This rests on hearing 十有三 as "three in ten," which reads naturally in the 
 
 ### Ch 57 · The two lives of 正 — order imposed, and order arisen
 
-The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "govern the state with uprightness," the straight and correct applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people right themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
+The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "govern the state with the straight," the line applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people straighten themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
 
 Everything between the two argues the point. The first half is a catalogue of imposition backfiring — the more taboos, the poorer the people; the more laws proclaimed, the more thieves — every attempt to carve order into the world breeding its own opposite. The second half is the reversal: when the ruler will not act, will not meddle, wants nothing, and above all grows *still*, the people transform, right, enrich, and grow plain — 自, of their own accord. Order was never something to install; it was something to stop preventing. That is the bookend's quiet claim: you do not make people upright by being upright *at* them. You grow still, and the uprightness that was in them all along comes up by itself — the way plainness (自樸) does in the very next breath.
 
 ### Ch 58 · Fortune and disaster, folded together — and why nothing stays "right"
 
-The chapter's heart is one of the most quoted lines in the book: 禍兮福之所倚，福兮禍之所伏 — "disaster is what fortune leans on; fortune is where disaster hides." It is built as a mirror on purpose. Disaster is fortune's *support*, the ground it rests against (倚, to lean); fortune is disaster's *hiding place*, the covert it crouches inside (伏, to lie in wait). Neither is a place you can arrive at and hold. Each already carries the other — the good luck resting on the very thing that will undo it, the ruin already nested inside the thing you are celebrating.
+The chapter's heart is one of the most quoted lines in the book: 禍兮福之所倚，福兮禍之所伏 — "disaster is what fortune leans on; fortune is where disaster crouches." It is built as a mirror on purpose. Disaster is fortune's *support*, the ground it rests against (倚, to lean); fortune is disaster's *hiding place*, the covert it crouches inside (伏, to lie in wait). Neither is a place you can arrive at and hold. Each already carries the other — the good luck resting on the very thing that will undo it, the ruin already nested inside the thing you are celebrating.
 
-Then Laozi presses past luck into judgment itself: 孰知其極？其無正 — "who knows where it ends? It has no fixed norm." Nothing in the reversal stays put — not even the categories we most trust: 正復為奇，善復為妖, the straight turns crooked, the good turns monstrous. And here 58 quietly dismantles 57. There you governed the state *with* the straight and waged war *with* the crooked (以正治國，以奇用兵), sure of the difference; now the straight turns crooked of its own accord — the very norm you ruled by becomes the deviance you opposed. The line you built policy on will not hold still. This is why the people have been 迷 (lost) so long: they keep clutching a fixed "good" and a settled "right" in a world where these keep changing into their opposites.
+Then Laozi presses past luck into judgment itself: 孰知其極？其無正 — "who knows where it ends? It has no straight." Nothing in the reversal stays put — not even the categories we most trust: 正復為奇，善復為妖, the straight turns crooked, the good turns monstrous. And here 58 quietly dismantles 57. There you governed the state *with* the straight and waged war *with* the crooked (以正治國，以奇用兵), sure of the difference; now the straight turns crooked of its own accord — the very norm you ruled by becomes the deviance you opposed. The line you built policy on will not hold still. This is why the people have been 迷 (lost) so long: they keep clutching a fixed "good" and a settled "right" in a world where these keep changing into their opposites.
 
 The sage's answer is the four closing lines — square but not cutting, edged but not wounding, straight but not overreaching, bright but not dazzling. Not weakness: the only sane response to a world of reversals. If sharp virtue flips into its opposite (as 察察, the sharp-eyed ruler, bred crafty people), then keep the edge without the cut — hold the straight without honing it into a blade that gouges, the light without the glare that blinds. The sage does not press their correctness on the world, precisely because pressed correctness is what curdles into its opposite. Integrity held softly is the one thing the reversal cannot turn.
 
@@ -406,7 +406,7 @@ And then the last line, which is the one to sit with. When two armies are evenly
 
 That is the same claim as Ch 31's *a victory in battle should be treated like a funeral rite*, made earlier — before the battle rather than after it — and turned from an ethic into a mechanism.
 
-**Thread · the treasures.** Ch 67 names three (tenderness, frugality, never first). Ch 69 spends two of them without renaming them: *I do not push to move first* is *never pushing to be first*, and *the one who grieves wins* is *tenderness*. The middle treasure, frugality, is what the retreat is — an inch of ground is not worth what it costs.
+**Thread · the treasures.** Ch 67 names three (tenderness, frugality, never first). Ch 69 spends two of them without renaming them: *I do not push to be the host* is *never pushing to be first* (Heshang Gong: 主，先也, *"the host is the one who goes first"*), and *the one who grieves wins* is *tenderness*. The middle treasure, frugality, is what the retreat is — an inch of ground is not worth what it costs.
 
 ### Ch 70 · the chapter that is not complaining
 
@@ -457,7 +457,7 @@ Read quickly, this is the Socratic chapter — *I know that I know nothing* — 
 
 ### Ch 72 · the chapter says why rulers crowd people
 
-Two halves that look unrelated — *do not crowd the people* and *the sage does not display themselves* — and 王弼 joins them in five characters. On 不自貴 he writes **自貴則物狎厭居生**: *"exalt yourself, and things crowd and weary dwelling and living."*
+Two halves that look unrelated — *do not crowd the people* and *the sage does not show themselves off* — and 王弼 joins them in five characters. On 不自貴 he writes **自貴則物狎厭居生**: *"exalt yourself, and things crowd and weary dwelling and living."*
 
 **Self-display is the motive for the crowding.** The ruler presses on the people's houses and livelihoods because they need to be seen doing it. Dread has to be demonstrated or it is not dread; a ruler who has priced themselves high has to keep collecting on the price. Remove 自見 (self-display) and 自貴 (self-pricing) and the pressing loses its engine — there is nothing left it was for.
 
@@ -489,7 +489,7 @@ The chapter moves in three beats. First, the deterrent has already failed: peopl
 
 河上公, on the opening line: 治國者刑罰酷深，民不聊生，故不畏死也 — *"when the one governing the state makes punishments cruel and deep, the people have nothing to live on, and so they do not fear death."* 不聊生 is the hinge: to have nothing left worth living for. Squeeze people hard enough and the death penalty stops working, because what you are threatening to confiscate has already lost its value. **The ruler has spent the fear.** It is a resource, and cruelty is what exhausts it.
 
-This makes the chapter's structure a chain rather than a list. 72 opens 民不畏威 — *"when the people no longer fear authority."* 74 opens 民不畏死 — *"when the people do not fear death."* And **75, the very next chapter, states the mechanism outright**: 民之輕死，以其上求生之厚，是以輕死 — *"the people take death lightly because those above grasp so thickly at life."* Read in order: first they stop dreading your power, then they stop dreading death, and 75 names the greed that did it. Ch 74's opening line is not a hypothetical. It is a diagnosis, and the patient is upstream.
+This makes the chapter's structure a chain rather than a list. 72 opens 民不畏威 — *"when the people do not fear authority."* 74 opens 民不畏死 — *"when the people do not fear death."* And **75, the very next chapter, states the mechanism outright**: 民之輕死，以其上求生之厚，是以輕死 — *"the people take death lightly because those above grasp so thickly at life."* Read in order: first they stop dreading your power, then they stop dreading death, and 75 names the greed that did it. Ch 74's opening line is not a hypothetical. It is a diagnosis, and the patient is upstream.
 
 **河上公 runs it on the personal register too**, as he runs everything: 治身者嗜欲傷神，貪財殺身，民不知畏之也 — *"one governing the self: appetites wound the spirit, greed for wealth kills the body, and people do not know to fear it."* Same shape, inward. The thing that will kill you is the thing you have stopped being afraid of.
 
@@ -505,7 +505,7 @@ They are the same shop. 28 says the great one does not carve; 74 says what happe
 
 Three consecutive chapters open on the same collapse and give it three different depths.
 
-**72** — 民不畏威，則大威至. *When the people no longer fear authority, the great collapse comes.* The fact is stated.
+**72** — 民不畏威，則大威至. *When the people do not fear authority, the great collapse comes.* The fact is stated.
 
 **74** — 民不畏死，奈何以死懼之？ *When the people do not fear death, why try to frighten them with death?* The fact is turned back on the ruler as a question about the futility of the axe.
 
@@ -515,7 +515,7 @@ The arc is worth reading as one movement. 72 says the fear is gone. 74 says you 
 
 And the closing line reaches back to 72 by its own character. 貴生 (*guì shēng* — a life prized) is the 貴 of 不自貴 (*bù zì guì*), two chapters earlier: *"loves themselves and does not prize themselves."* 72 asks it of a self; 75 shows what it costs a country when a ruler will not.
 
-Ch 50's 生生之厚 is the same diagnosis without the throne: *because they cling too tightly to life.* Laozi aims it at rulers in 75 and at everyone in 50.
+Ch 50's 生生之厚 is the same diagnosis without the throne: *because they live life too thickly.* Laozi aims it at rulers in 75 and at everyone in 50.
 
 ### Ch 76 · the one chapter where being low is the bad news
 
@@ -546,7 +546,7 @@ Ch 75 says the people go hungry because those over them eat up so much in taxes.
 
 Two clauses, the same four terms, the arrows reversed. This is the most explicitly political sentence in the book, and it is also its plainest piece of physics: a strung bow, water finding its level, a garment patched where it wore thin. Nothing here appeals to justice or to a judge. 天 (*tiān* — nature) has no partiality to exercise — Ch 79 says so outright, 天道無親 — so the levelling is not a verdict. It is what happens when nobody is holding the thing up.
 
-Which is why the last movement is not a policy either. 孰能有餘以奉天下？ *Who has more than enough, and offers it up to the world?* The question expects one answer, and the answer is a person, not a law. 王弼 reads the sage's refusal of display as itself the levelling instrument — 不欲示其賢以均天下, *"does not display their worth, so as to level the world"* — which links this chapter's ending back to Ch 3's 不尚賢, *"by not exalting the exceptional."* Standing out is how the arrow gets pointed the wrong way.
+Which is why the last movement is not a policy either. 孰能有餘以奉天下？ *Who can have more than enough and offer it up to the world?* The question expects one answer, and the answer is a person, not a law. 王弼 reads the sage's refusal of display as itself the levelling instrument — 不欲示其賢以均天下, *"does not display their worth, so as to level the world"* — which links this chapter's ending back to Ch 3's 不尚賢, *"by not exalting the exceptional."* Standing out is how the arrow gets pointed the wrong way.
 
 ### Ch 78 · the low place is where the grime arrives
 

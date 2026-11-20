@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**85 entries.** Sorted by how much of the book each term touches.
+**88 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ python3 tools/build_index.py
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
-| **無為** | *wú wéi* | non-doing | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
+| **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
@@ -59,9 +59,10 @@ python3 tools/build_index.py
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent", "guile" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
+| **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | **locked** | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
-| **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "dependency" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
+| **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
 | **極** | *jí* | the far end — where a thing runs out · *the endless* (ch 28) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
 | **母** | *mǔ* | mother | "the Source", "the Origin", "the Ground of Being" | 5 | **locked** | [`mu-母.md`](mu-母.md) |
 | **自然** | *zì rán* | of itself / of themselves · so of itself | "Nature", "spontaneity", "self-so" | 5 | **locked** | [`ziran-自然.md`](ziran-自然.md) |
@@ -70,7 +71,9 @@ python3 tools/build_index.py
 | **亂** | *luàn* | disorder | "chaos", "chaotic" | 4 | **locked** | [`luan-亂.md`](luan-亂.md) |
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
+| **禍 & 福** | *huò / fú* | disaster / fortune | "bless", "luck", "misfortune", "calamity", "woe" | 4 | **locked** | [`huo-fu-禍福.md`](huo-fu-禍福.md) |
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
+| **凶 & 吉** | *xiōng / jí* | ominous / auspicious · *lean* (ch 30) · *inauspicious* (ch 31) | "disaster", "evil", "unlucky", "lucky" | 3 | **locked** · binds taoteching only | [`xiong-ji-凶吉.md`](xiong-ji-凶吉.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **愚** | *yú* | a fool / foolishness / foolish | "guileless", "ignorant", "ignorance", "stupid", "make fools of" | 3 | **locked** | [`yu-愚.md`](yu-愚.md) |
@@ -114,16 +117,20 @@ python3 tools/build_index.py
 | **孝** | devotion | [`ci-慈.md`](ci-慈.md) — 慈 |
 | **尊** | honor | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) — 貴 & 賤 |
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
+| **屈** | bent | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
 | **根** | root | [`gui-fu-fan-歸復反.md`](gui-fu-fan-歸復反.md) — 歸 & 復 & 反 |
+| **渾** | mixed | [`hun-混.md`](hun-混.md) — 混 |
 | **濁** | muddy | [`qing-清.md`](qing-清.md) — 清 |
 | **營** | housing | [`po-魄.md`](po-魄.md) — 魄 |
 | **牡** | the male | [`pin-牝.md`](pin-牝.md) — 牝 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
+| **直** | true | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
+| **罪** | crime | [`huo-fu-禍福.md`](huo-fu-禍福.md) — 禍 & 福 |
 | **義** | duty | [`ren-仁.md`](ren-仁.md) — 仁 |
 | **能** | be able | [`ke-可.md`](ke-可.md) — 可 |
 | **腹** | belly | [`xin-心.md`](xin-心.md) — 心 |

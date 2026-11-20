@@ -62,7 +62,7 @@ Watch what he says of it, and the verbs give it away:
 - **It comes before.** 有物混成，先天地生 (25) — *"something mixed and complete, born before sky and earth."* 象帝之先 (4) — *"it seems older than any god,"* where 帝 (*dì*) is the high ancestor-deity.
 - **Its name is forced.** 吾不知其名，強字之曰道 (25) — *"I do not know its name. Forcing a label on it, I call it the Tao."* 字 (*zì*) is a courtesy name, the name a person is called by rather than the name they are given.
 - **It moves and is used.** 反者道之動；弱者道之用 (40) — *"returning is the Tao's movement; yielding is the Tao's use."* Movement and use, not substance.
-- **It gives birth.** 道生一 (42), 道生之 (51) — *"the Tao births the one,"* *"the Tao gives birth to the countless things."*
+- **It gives birth.** 道生一 (42), 道生之 (51) — *"the Tao births the one,"* *"the Tao births the countless things."*
 - **It follows only what it is.** 道法自然 (25) — *"the Tao models itself on being what it is."* Nothing stands above it.
 - **It shelters.** 道者萬物之奧 (62) — *"the Tao is the sanctuary of the countless things."* 奧 (*ào*) is the innermost corner of a house.
 

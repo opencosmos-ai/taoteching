@@ -70,7 +70,7 @@ refs:
 ### Chapter 62: seek, and you find, kept with its echo
 
 > *Did they not say: seek, and you find;*
-> *commit a crime, and you are spared?*
+> *have a crime held against you, and you are spared?*
 >
 > 不曰：求以得，
 > 有罪以免邪？

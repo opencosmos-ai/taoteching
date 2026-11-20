@@ -56,7 +56,7 @@ refs_status: incomplete
 > — chapter 25
 
 > *When the carving begins, there are names.*
-> *Since names already exist, one must know when to stop.*
+> *Since names already exist, they too will know when to stop.*
 >
 > 始制有名，
 > 名亦既有，夫亦將知止，
@@ -77,7 +77,7 @@ refs_status: incomplete
 
 ### Names and knowing when to stop: chapters 32 and 44
 
-> *Since names already exist, one must know when to stop.*
+> *Since names already exist, they too will know when to stop.*
 > *Knowing when to stop, you come to no danger.*
 >
 > 名亦既有，夫亦將知止，

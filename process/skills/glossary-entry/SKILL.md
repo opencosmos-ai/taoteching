@@ -184,6 +184,7 @@ What a generated table cannot say, and what does not go stale:
 python3 tools/build_index.py
 python3 tools/build_db.py && python3 tools/export.py \
   && python3 tools/build_graph.py && python3 tools/export_atlas.py
+python3 tools/build_sources.py --check   # an entry's refs feed sources/SOURCES.md; if stale, run build_sources.py
 ```
 
 Regenerates `glossary/INDEX.md` and `glossary/terms.yaml`, then everything under `data/`: the atlas export carries every entry verbatim, and CI fails a PR whose `data/` is stale. **Never edit any of them by hand.**

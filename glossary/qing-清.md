@@ -78,7 +78,7 @@ A sky that is only clear, with no night in it, breaks. The book prizes clear and
 | 孰能濁以靜之徐清 (15) | *by stilling it slowly come clear* | verb, to become clear |
 | 天得一以清 (39) | *Sky received the one, and so became clear* | verb, to become clear |
 | 天無以清，將恐裂 (39) | *Sky with no way to be clear is likely to split* | predicate |
-| 清靜為天下正 (45) | *Clear stillness brings order to the world* | modifier, with 靜 |
+| 清靜為天下正 (45) | *Clear stillness sets the world straight* | modifier, with 靜 |
 | 混兮其若濁 (15) · 孰能濁以靜之徐清 (15) | *like muddy water* · *Who can be muddy* | 濁, covered |
 
 ### What no rule can enforce

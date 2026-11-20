@@ -66,6 +66,10 @@ The marks are ours; the music is the source's. The ancient text carries no punct
 
 **Sweep, 2026-08-11:** 45 instances lowercased across eight files. `chapters/` was already clean — the drift was entirely in the prose *about* the verse.
 
+### 兮 — the sung pause, carried by punctuation
+
+*(2026-11-19, `WORKLIST.md` T3-14; the reason `process/form-audit.md` drafted, written once.)* 兮 (*xī*) is a held breath with no meaning of its own, and English has no word for it. A held breath is what punctuation is for, so the English gives it a mark instead: a comma after a bare adjective (4, 15, and ch 17's *Hesitant,*), a full stop (25's *Silent. Empty.*), an exclamation (20). Where it falls inside a line rather than closing a word (14, 21, 34), the line's own pause carries it. At 58, 禍兮 (*huò xī* — "disaster!") holds a topic up, and the English names the topic: *Disaster is what fortune leans on.*
+
 ### The commentaries are evidence, never candidate renderings
 
 **Migrated to [`process/principles/commentary-is-not-a-rendering.md`](../process/principles/commentary-is-not-a-rendering.md), 2026-09-10.** The heading stays so existing links resolve; the argument lives in the entry, with its trigger and its cases, and is loaded by the skills at the moment it applies.
@@ -170,7 +174,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **治 (*zhì* — to govern / to order) is the chapter's frame word, and it had been dropped from the hinge.** 是以聖人之治 — *"therefore, the sage's governing"* — read only *"Therefore the sage."* 治 opens the second movement and closes the chapter, and the ring was broken. Both ends carry it now, and **無不治 reads "nothing is left ungoverned,"** which makes audible an echo the Chinese has and the English had lost: 無不治 here against 無不為 (*wú bù wéi*) at ch 37 and 48, already rendered *"nothing is left undone."* Same shape, one word apart. Ch 65 — this chapter's sibling, 民之難治 (*mín zhī nán zhì* — "the people are hard to govern") — already renders 治 as *govern* three times.
 
-**Ch 57 is this chapter's own gloss, and it shows that the mechanism is subtraction.** 我無為，而民自化 … 我無欲，而民自樸 — *"I do not do, and the people transform themselves … I am desireless, and the people become plain of themselves."* The operative character is 自 (*zì* — of themselves). All three of stanza 1's 使 clauses have a **not** as their cause, and 王弼 spells the mechanism out: 故可欲不見，則心無所亂也 — *"so when the desirable is not displayed, the heart has nothing to disorder it."* Nothing is put into anyone. The second movement's two 使 clauses are now treated exactly as stanza 1 already treats its three: **result of the arrangement, not an act performed on persons.**
+*(Quote superseded 2026-11-19: ch 57 reads "I do not desire …".)* **Ch 57 is this chapter's own gloss, and it shows that the mechanism is subtraction.** 我無為，而民自化 … 我無欲，而民自樸 — *"I do not do, and the people transform themselves … I am desireless, and the people become plain of themselves."* The operative character is 自 (*zì* — of themselves). All three of stanza 1's 使 clauses have a **not** as their cause, and 王弼 spells the mechanism out: 故可欲不見，則心無所亂也 — *"so when the desirable is not displayed, the heart has nothing to disorder it."* Nothing is put into anyone. The second movement's two 使 clauses are now treated exactly as stanza 1 already treats its three: **result of the arrangement, not an act performed on persons.**
 
 **河上公 reads the whole movement as a body, not a population.** He opens it 聖人治國與治身同也 — *"the sage's governing of the state and the governing of the self are one and the same"* — and glosses 實其腹 as 懷道抱一守五神 (*"harbor the Tao, embrace the one, guard the five spirits"*) and 強其骨 as 愛精重施，髓滿骨堅 (*"cherish the vital essence and be sparing in spending it; the marrow fills and the bones grow firm"*). *Govern* does not shut that reading out; it is the word that holds both.
 
@@ -440,6 +444,8 @@ Three chapters close on the same seven-character formula — 吾何以知…**�
 
 ### Ch 57–58 · 正 / 奇 — one thread, and 其無正 ≠ "no limit"
 
+*(Settled 2026-11-19, Shalom's call: the thread is carried through, 正 *straight* and 奇 *crooked* in both chapters, with 直 *true* and 屈 *bent*; `glossary/zheng-qi-正奇.md`.)*
+
 Two linked calls. First, 其無正 (孰知其極？其無正) is "it has no fixed norm," *not* "no limit" — 極 (limit) is the prior clause; 正 here is the *normative / correct*, and it has to survive into the next line, whose subject is that same 正: 正復為奇 ("the straight turns crooked"). Render 正 as "limit" and the keyword vanishes. Second — the reason this is logged — 正 and 奇 must read the **same** in 57 and 58, because 58 is deliberately unmaking 57: there the ruler governs *with* 正 and wages war *with* 奇 (以正治國，以奇用兵), certain of the boundary; here 正復為奇 erases it. We thread them **straight / crooked** — 57's "govern with the straight" and "the people straighten themselves" (民自正), 58's "the straight turns crooked" — so the reader feels 58 pull 57 apart. (奇 keeps a little play — "surprise / the oblique" where 57 means battlefield tactics — but 正 holds as *straight / upright* throughout both.)
 
 ### Sweep · Ch 8, 20, 21, 31, 38 — the four locks 信, 精, 器, 眾
@@ -598,6 +604,8 @@ Two decisions in one line. **First, it stays "sky."** Ch 16 and Ch 25 share this
 ### Ch 21
 
 #### 道之為物 → "Whatever the Tao is, it is only vague, only elusive"
+
+*(Superseded 2026-11-19, Shalom's call: "The Tao, as a thing, is only vague, only elusive," the echo with 其中有物 restored; R5.)*
 
 *(was "In the manifest realm, the Tao appears intangible and dark", then briefly "As a thing, the Tao is…")*
 
@@ -970,6 +978,8 @@ It also repairs the couplet. Ch 40 is the shortest chapter in the book and is bu
 
 #### 取天下 → "the world comes to you"
 
+*(Superseded 2026-11-19: chs 48 and 57 read* win over the world*, Shalom's call;* comes to you *is ch 35's English for 天下往.)*
+
 *(not "win" or "take the world")*
 
 The literal 取 is *seize / take* — its graph is a hand (又) gripping an ear (耳), the severed left ear of a slain enemy, counted on the battlefield for reward. It is the most grasping word in the language. But Laozi *subverts* it: the world is a 神器, a sacred vessel that 不可執 — "cannot be grasped" — and 執者失之, "whoever grasps it loses it" (Ch 29). The conqueror's verb names precisely the thing that fails.
@@ -989,6 +999,8 @@ Net: fidelity to the *word* traded for fidelity to the *teaching*. A conscious c
 Block 2 carries **two** lines of Chinese — 取天下常以無事 and 及其有事，不足以取天下 — and the English rendered them **four** times: the logged reading, then a second, more literal pass that had lost its subject (*"always won by non-interference."*) and used *"win the world,"* the exact word the 取天下 entry above argues against. The second stanza was dead draft. It is deleted, not repaired.
 
 #### 取天下常以無事 → "The world always comes to you by not meddling with it"
+
+*(Superseded 2026-11-19: "Win over the world by never meddling with it. / The moment you meddle, you cannot win it over.")*
 
 The couplet is **framed and pivoted**, and the English had kept neither. 取天下 opens it and closes it; between those, one character flips — **無事 → 有事**, absence of undertaking to presence of it, built on the 無/有 pair this edition locks as *absence / presence*.
 
@@ -1011,7 +1023,7 @@ The line sits third in a quartet, and it was the only member that was not a plai
 > 我**無事**，而民自富 — *I do not meddle, and the people enrich themselves*
 > 我無欲，而民自樸 — *I am desireless, and the people become plain of themselves*
 
-In the Chinese, 無為 and 無事 are visibly the same construction — the same negation over two different hands (`glossary/shi-事.md`). Four plain statements now, and the pairing is audible. The chapter's other 無事, 以無事取天下, follows: *"win the world by not meddling."*
+In the Chinese, 無為 and 無事 are visibly the same construction — the same negation over two different hands (`glossary/shi-事.md`). Four plain statements now, and the pairing is audible. The chapter's other 無事, 以無事取天下, follows: *"win the world by not meddling."* *(Superseded 2026-11-19: 我無欲 reads* I do not desire*, completing the four; 以無事取天下 reads* win over the world*.)*
 
 ### Ch 49
 
@@ -1033,11 +1045,15 @@ Two characters, no verb, and **no causal word** — no 故, no 因. The English 
 
 #### 歙歙焉 → "breathes gently" · 渾其心 → "let their heart go muddy"
 
+*(The 渾 half superseded 2026-11-19, Shalom's call: "let their heart be mixed." 渾 is 混's word, and* muddy *is 濁's; see* Ch 49 · 渾其心 → "let their heart be mixed" *below.)*
+
 歙 (*xī*) is to draw in, to inhale. Wang Bi glosses 歙歙焉 as 心無所主也, *"the heart presides over nothing."* **"Breathes gently"** keeps the breath; what it lets go is the self-effacement Wang Bi hears. *(An edition fork, undecided: Heshang Gong's text reads 怵怵 — chù chù, wary — and the 釋文 records 惵惵.)*
 
 渾 (*hún*) is to blend, to make turbid. The earlier *"merges their heart with the world"* had the sense and lost the water. **Muddy** chimes with Ch 15's 混兮其若濁, *"Mixed, like muddy water"* — where muddiness is the good state you sit still inside until it clears. Wang Bi: 意無所適莫也, *"the intention has no for and no against."*
 
 #### 百姓皆注其耳目，聖人皆孩之 → "Everyone pours out their attention, all eyes and ears; / the sage sees them pure as infants"
+
+*(Second line superseded 2026-11-19, Shalom's call: "the sage treats them all as infants.")*
 
 **注** (*zhù*) is water pouring — the same character the Mawangdui silks put at the head of Ch 62. Both commentators gloss it as 用 (*yòng* — to use). English supplies the gift here: ***all eyes and ears*** is a live idiom for rapt attention **and is literally 耳目**, so the idiom carries the sense while the organs survive.
 
@@ -1075,6 +1091,8 @@ It is not literal (是謂 is "is called," not "exposes") — but to name a robed
 
 #### 全作 → "its whole being quickens with life"
 
+*(Superseded 2026-11-19, Shalom's call: the verse renders our printed 朘, "yet his member stirs," the newborn a boy from line 1, under standing rule 1's fourth part; R5.)*
+
 *(setting aside the traditional male-erection gloss)*
 
 The line proves the newborn's intact vitality: 未知牝牡之合而全作，精之至也 — *not yet knowing the union of female and male, yet [it] stirs — vital essence at its utmost.* The traditional reading is the male infant's reflex erection (explicit in the older 朘 variant; see Manuscript Notes). We read our base text's 全 ("whole") in its plain sense — *the whole being quickens with life* — a defensible **minority** reading, chosen deliberately so the emblem holds for infants of every gender. Nothing essential is lost: the desirelessness (*not yet knowing… yet*), the spontaneity (*with life, of itself*), and 精之至 (vital essence at its fullest) all remain — arguably *deepened*, since it is now the whole infant alive with undesiring vitality, not one organ. Faithful to the point; universal in the image. *(Governing principle: Process guide §0, "universality over the incidental male-default.")*
@@ -1082,6 +1100,8 @@ The line proves the newborn's intact vitality: 未知牝牡之合而全作，精
 ### Ch 57
 
 #### 取天下 → "win the world through non-interference"
+
+*(Superseded 2026-11-19: ch 57 reads* win over the world*.)*
 
 *(the Ch 48 rule, second instance)*
 
@@ -1252,6 +1272,8 @@ The triple 為無為，事無事，味無味 is the line that forced the 無為 
 
 #### 味無味 → "taste the flavorless"
 
+*(Reason rewritten 2026-11-19: ch 35 now reads* It has no flavor*; the rendering stands because 無味 is a noun. See `chapters/063.md` → Notes.)*
+
 *(not "taste the tasteless")*
 
 Ch 35 already renders 淡乎其無味 as *"It is bland and flavorless"* — and the thing being described there is the **Tao**. Matching the word makes 味無味 legible as what it is: not a general counsel of blandness but an instruction to **taste the Tao**. Wang Bi reads it the same way — 以恬淡為味, *"takes the calm and bland as its flavor."*
@@ -1312,7 +1334,7 @@ So 復 (*fù*) is **bring back**, not *recover*, and what is brought back is peo
 
 欲不欲 (*yù bù yù*) and 學不學 (*xué bù xué*) are grammatically identical to Ch 63's triple 為無為，事無事，味無味, rendered there *"Do the not-doing, serve the not-serving, taste the flavorless."* So here: **"wants the not-wanting"** — and, by an accepted departure, **"learns to unlearn."**
 
-*Why the second one breaks the pattern.* The parallel wants "learns the not-learning," and 不學 is strictly the capacity that **precedes** learning — Wang Bi's 不學而能者自然也, *"what one is capable of without learning is what is so of itself"* — where *unlearn* implies erasing something already acquired. Related, not identical. Shalom kept "learns to unlearn" for its compression, with the cost named: the four-line series loses one of its two matched hinges. Logged so the departure is visible rather than looking like drift.
+*(Superseded 2026-11-19, Shalom's call: 學不學 reads* learns the not-learning*, the frame matched.)* *Why the second one breaks the pattern.* The parallel wants "learns the not-learning," and 不學 is strictly the capacity that **precedes** learning — Wang Bi's 不學而能者自然也, *"what one is capable of without learning is what is so of itself"* — where *unlearn* implies erasing something already acquired. Related, not identical. Shalom kept "learns to unlearn" for its compression, with the cost named: the four-line series loses one of its two matched hinges. Logged so the departure is visible rather than looking like drift.
 
 Heshang Gong reads both lines differently — 聖人欲人所不欲, *"the sage desires what people do not desire"* — a comparative rather than a reflexive. We keep the reflexive, on internal consistency: this construction is a signature of the book and it must not shift shape between adjacent chapters.
 
@@ -1599,6 +1621,8 @@ Ch 15 and Ch 68 open on the **identical construction** — 善為士者, *"one m
 
 ### Ch 68 · 配天 → "matched with nature", and 極 is a ridgepole
 
+*(Superseded 2026-11-19, Shalom's call: "This is called being matched with the sky, the far end the ancients reached." 天 is what one is matched to, not an agent; Heshang Gong's 天地 is the tier pair.)*
+
 **配 (*pèi*)** is the character of pairing — it is the word in 配偶 (*pèi ǒu* — a spouse). Not *accords with*, not *corresponds to*: **matched with**, as one of a pair. 河上公: 能行此者，德**配**天地 — *"one who can do this, their integrity is matched with sky and earth."*
 
 **極 (*jí*)** is the **ridgepole** — the highest beam of a house — and from there the utmost, the pole, the limit. 古之極 is not "the ancient principle" but *the furthest the ancients got*. 河上公: 是乃古之極要道也.
@@ -1626,6 +1650,8 @@ Two chapters back, Ch 67: 我有**三寶**，持而保之 — *"I have three tre
 **喪 is *lose*, not *destroy*** — the mourning word, and 王弼 glosses the line with 亡 (*wáng* — to lose, to perish). *Destroy* would make it something an enemy does to you from outside; the chapter says the opposite, that contempt is how you let go of your own tenderness. Rendered **"nearly costs me my treasures"**, which keeps 輕敵 as the agent, as the Chinese grammar has it, without the wrecking.
 
 ### Ch 69 · 主 / 客 — the image is jargon, and jargon has to be translated
+
+*(Superseded 2026-11-19, Shalom's call: "I do not push to be the host. I am the guest." The August reasoning below is kept; see* Ch 69 · 主 / 客 → host / guest *below.)*
 
 不敢**為主**，而**為客**. The characters are lovely: 主 (*zhǔ*) is a **lamp with its flame standing on it** — whoever keeps the fire, so whoever's house it is. 客 (*kè*) is 宀 (a roof) over 各 (a foot arriving at a threshold) — whoever comes under someone else's roof.
 
@@ -1899,7 +1925,7 @@ Keeping **here** also holds the chapter inside the 以此 thread that closes cha
 
 **Where the carving sits is a real choice, and Shalom's placement is right.** 斫 (*zhuó*) appears in **both** lines of the Chinese — 是謂代大匠**斫** / 夫代大匠**斫** — and no English version we tried could carry it twice without clanking. Drafts put it in the second line (*"to take the master carpenter's place at the carving"*); the settled text puts it in the third:
 
-> To take their place is to take the place of the master carpenter.
+> To kill in their place is to take the place of the master carpenter.
 > Of those who **carve** in place of the master carpenter,
 > few fail to cut their own hand.
 
@@ -2027,7 +2053,7 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 **Settled as *rely on*** — Shalom's word, taken over the AI's *lean on* for two reasons found while writing the entry: 倚 (*yǐ* — to lean against) already holds *lean* at ch 58's 禍兮福之所倚, and 河上公's fourfold gloss 不恃望其報 (*"does not lean toward and watch for its repayment"*) is about counting on a return, which *rely* carries and *lean* underplays. *Shuowen* agrees: 恃，賴也.
 
-**Swept the same day, all five occurrences.** ch 2, 10, 51 and 77 now share one formula — *acts yet relies on nothing* — where 為而不恃 had been carrying three different Englishes. ch 34's 萬物恃之以生 read *"draw sustenance from it"*, dropping 恃 entirely and erasing the book's only **positive** use of it; it now reads *"rely on it to live."* Entry: `glossary/shi-恃.md`.
+*(Superseded 2026-11-19: the formula now reads* acts without relying on it*, Shalom's call, on Heshang Gong's 不恃望其報 and to keep the series of* without*s at 10 and 51; see* Ch 2, 10, 51, 77 · 為而不恃 *below.)* **Swept the same day, all five occurrences.** ch 2, 10, 51 and 77 now share one formula — *acts yet relies on nothing* — where 為而不恃 had been carrying three different Englishes. ch 34's 萬物恃之以生 read *"draw sustenance from it"*, dropping 恃 entirely and erasing the book's only **positive** use of it; it now reads *"rely on it to live."* Entry: `glossary/shi-恃.md`.
 
 **The cost, kept in the entry rather than hidden:** *rely* is Latinate with a dead picture (*re-* + *lier*, to bind), so English readers hear a mental act where the Chinese has a posture — 恃 is 忄 (heart) + 寺, the heart's member of a family of holding words (持 hand, 侍 body, 待 waiting). And *"relies on nothing"* can read as Stoic self-sufficiency; ch 34 is the guard against that, since there everything alive relies on the Tao and the Tao turns none of it away.
 
@@ -2058,6 +2084,202 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 15 · 曠兮其若谷 stays "Open, like a valley," where it stands
 
 *(2026-10-25, Shalom's call.)* Silk B's adjective is printed 莊 (*zhuāng* — grave) by one transcription and read as our 曠 (*kuàng* — wide) by another, and Heshang Gong's text had 曠, so nothing secure supports *grave*. The silks put the simile after the muddy water; we keep it before, because Guodian, which has no valley simile at all, lets the muddy water lead straight into *"Who can be muddy..."*, as our base does. `notes/manuscript.md`.
+
+### Ch 2, 10, 51, 77 · 為而不恃 → "acting without relying on it"; ch 2 · 生而弗有 → "The sage births them"
+
+*(2026-11-19, Shalom's calls.)* *(was: "acts yet relies on nothing" in all four; ch 2's "They are born, and the sage does not possess them.")* Heshang Gong's 不恃望其報 names the deed as what is not relied on, and the old formula's recorded cost, a Stoic self-sufficiency, goes. Chapters 10 and 51 now carry three *without*s; ch 2 keeps its 而弗 series as *and does not* four times, and 生 there is the sage's act, as at 10 and 51, in 生's word *births* (Shalom's wording). T3-13, T3-17. `glossary/shi-恃.md`.
+
+### Ch 48 · 損之又損 → "Decrease, and decrease again"
+
+*(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 2, 19, 30, 32 · R6's minor table, four more
+
+*(2026-11-19, Shalom's calls.)* Ch 2 *"Music and sound"* (the Shuowen's 音 / 聲 split); ch 19 *"show the undyed silk"* (Heshang Gong's *xiàn*); ch 30 *"only where it cannot be avoided"* (a restriction, not a cause; 勿's prohibition reading recorded); ch 32 *"they too will know when to stop"* (ch 37's 夫亦將).
+
+### Ch 3, 14, 28, 34, 63 · R6's minor table, first five
+
+*(2026-11-19, Shalom's calls.)* Ch 3's three 使 lines in the passive, the dangling modifier gone; ch 14 *"Questioning these three never reaches the end"*; ch 28's three returns as outcomes, *and you return to …*; chs 34 and 63 *"and so … greatness can be completed,"* 能 restored.
+
+### Ch 74 · "To kill in their place"; ch 80 keeps "no need"
+
+*(2026-11-19, Shalom's calls; R5.)* 殺 restored at 74, 斫 left once where Shalom placed it; ch 80's *no need*, his 2026-08-26 fix on Wang Bi's 何患不足, kept. The block quote under *Ch 74* above now prints the new line.
+
+### Ch 49, 54 · "treats them all as infants"; "By it, descendants …"
+
+*(2026-11-19, Shalom's calls; R5.)* 皆 restored and *pure* gone at 49; 以 as the means at 54, *honoring this* gone.
+
+### Ch 31, 46 · two more smaller findings; ch 16 and 27 settled
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 46 *"When the world has the Tao"* (*embraces* is 抱's); ch 31 *"Use them only when unavoidable; calm detachment is best"* (the dangling modifier). Ch 16's *everything* kept, both commentators supplying it; ch 27's *naturally* found already gone.
+
+### Ch 3, 7, 8, 14 · four of the accuracy audit's smaller findings
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 3 *"the people do not contend"* (*cause* removed); ch 7 *"And so they can fulfill their private self"* (能 and the doer back); ch 8 *"masterful at ground … at depth"* (the series' nouns); ch 14 *"Unbroken"* for 繩繩 (the cord's quality, not water).
+
+### Ch 79 · 而不責於人 → "and never asks anyone for the other half"
+
+*(2026-11-19, Shalom's call; R5.)* *(was: "and never asks for the other.")* 人 restored as *anyone*, and the line still teaches the tally's two halves. 
+
+### Ch 41, 50 · 若存若亡 "seem to keep it, seem to lose it"; 善攝生者 "masterful at tending life"
+
+*(2026-11-19, Shalom's calls; R5.)* *(was: "keep some, forget some," "one who truly tends life.")* 若 restored twice; 善 takes its lock. Ch 11's note on 當 corrected to the verse's *in*.
+
+### Ch 42, 43, 77 · three more lost lines
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 42 *"some are decreased and so increased, some increased and so decreased"* (或 … 或 restored); ch 43 *"What is not there enters the seamless"* (the 無 & 有 lock's words, not *formless*); ch 77 *"Who can have more than enough"* (能 restored).
+
+### Ch 5, 12, 21, 55 · four of the accuracy audit's lost lines
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 5 *"Much talk is bound to run out"* (was *"Speaking of this is a dead end"*). Ch 12 *"The five colors / tones / flavors"* (was *"The full spectrum of …"*). Ch 21 *"Behavior of the greatest integrity"* (容, was unrendered) and *"The Tao, as a thing"* (物 restored). Ch 55 renders our printed 朘: *"yet his member stirs,"* the newborn a boy from line 1 (Shalom's wording), the person compared unsexed.
+
+### 正 / 奇 → "straight / crooked," with 直 "true" and 屈 "bent" (T4-2)
+
+*(2026-11-19, Shalom's call on the system; the deferred call taken up.)* One word each for four characters that had shared two: 正 *straight* (verb *straighten*), 奇 *crooked*, 直 *true* (the Shuowen's sighting eye), 屈 *bent*. Chapter 58 now audibly undoes 57, as Wang Bi reads it (以正治國則便復以奇用兵), and 58's chain 其無正。正復為奇 is whole. Flexions: 78's *on the mark*, 57's *strange contrivances*, 74's *steps out of line*. Lines changed in chs 22, 37, 45, 57, 58.
+
+### 故 and 是以 → "So" and "Therefore," book-wide
+
+*(2026-11-19, Shalom's call. `WORKLIST.md` T3-12.)* **Two connectives, two Englishes.** 是以 (*shì yǐ*) → *Therefore*; 故 (*gù*) → *So*, and *and so* inside a sentence. They had shared both words, reversed outright at 57 (故聖人云 *"Therefore the sage says"*) and 78 (是以聖人云 *"So the sage says"*). They mark the joints where the chapters were put together (`process/form-audit.md` §17), and one word each lets a reader hear the seams. **The rule governs the joints**, a connective opening a sentence: 24 lines changed, in chapters 2, 3, 7, 14, 25, 38, 39, 41, 42, 43, 51, 54, 57, 63, 66, 69, 72, 73, 76, 78 and 79. **Left as they are, with this reason:** 是以 as a hinge inside one sentence, in the 夫唯 … 是以 frame (*"Only because … do …"*, Shalom's call, 2026-10-19) at 2, 70, 71 and 72, and in ch 38's 是以有德 / 是以無德 and ch 75's 是以飢 and its two sisters, where the English carries it with *and so* or *because*; 是故 (*shì gù*) at ch 44, its own compound, keeps *Therefore*; ch 1's 故 stays unrendered (Shalom's call, 2026-11-14).
+
+### Ch 38 · 大丈夫 → "the full-grown person"
+
+*(2026-11-19, Shalom's call.)* *(was: "the great person.")* A rank of adulthood (說文 人長八尺，故曰丈夫), rendered universal with the seam named. T4-7.
+
+### Ch 61 · the silks' order
+
+*(2026-11-19, Shalom's call.)* *(was: "the confluence of the world, the female of the world.")* *"the female of the world, the confluence of the world,"* following both silks; the base's chain goes. T3-20; fork 40.
+
+### Ch 50, 55 · 厚 → "thick"; ch 44 keeps "heavy loss"
+
+*(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
+
+### Ch 30 · 其事好還 → "Such affairs tend to turn back"
+
+*(2026-11-19, Shalom's call.)* *(was: "Such undertakings tend to come back on you.")* The bare figure holds the recoil and the commentators' turning back. R6.
+
+### Ch 53, 13 · two choices kept and recorded
+
+*(2026-11-19, Shalom's calls.)* Ch 53 keeps *stray* (施 read as 迤, against both commentators, for the byways) and *just a scrap* (against Heshang Gong's 介，大也). Ch 13 keeps *trusted with* twice, with Wang Bi, Heshang Gong's warning recorded. R6.
+
+### Ch 19, 57 · 巧 → "skill"; ch 36 · 微明 → "the faint clarity"; ch 38 · 不居 → "does not stay in"
+
+*(2026-11-19, Shalom's calls.)* *(was: "cunning" ×2; "the hidden clarity"; "dwells in the thick, not the thin.")* 巧 is 技也, *skill* as at 45, and *cunning* is 缺缺's at 58; *hidden* is 隱's at 41; 居 is *stay* as at ch 2, and ch 38's four clauses have their two verbs. T2-20, T2-34, T2-57.
+
+### Ch 16, 30 · 凶 → "ominous"; 凶年 → "a lean year"
+
+*(2026-11-19, Shalom's calls.)* *(was: "brings reckless action and disaster," "a year of disaster.")* 凶 is the verdict on conduct, *disaster* 禍's; 凶年 is a failed-harvest year (Heshang Gong). Ch 31's *inauspicious occasions* kept as the ritual pair's flexion. `glossary/xiong-ji-凶吉.md`; T2-53.
+
+### Ch 64 · "does not handle it, and so ruins nothing"; "learns the not-learning"
+
+*(2026-11-19, Shalom's calls.)* The answer echoes 為者敗之's *handle*; 學不學 matches 欲不欲. T3-9. `chapters/064.md`.
+
+### Ch 56 · 不可得而 ×6 → six "cannot"s
+
+*(2026-11-19, Shalom's call.)* *(was: "You cannot draw them near nor hold them off, / neither benefit nor harm them, / neither prize nor cheapen them.")* The series in its own shape, with the one of profound sameness as subject. T3-13.
+
+### Ch 14, 78 · 是謂 → "This is called" / "is called"
+
+*(2026-11-19, Shalom's calls.)* *(was: "This is the shape of no-shape"; "is the keeper …," "is the ruler ….")* The formula restored where it had slipped. T3-11.
+
+### Ch 49 · 渾其心 → "let their heart be mixed"
+
+*(2026-11-19, Shalom's call.)* *(was: "let their heart go muddy.")* 渾 is 混's word (說文 混流聲也); *muddy* is 濁's, and ch 15 keeps them apart. Wang Bi's no-preference heart; Heshang Gong's 渾濁 recorded. 渾 now covered by `glossary/hun-混.md`. T2-63.
+
+### Ch 52, 56 · 閉其門 → "close the gates"
+
+*(2026-11-19, Shalom's call.)* *(was: "close the doors.")* 門 is *gate* at 1, 6 and 10; *door* is 戶's. T3-19.
+
+### Ch 57 · 我無欲 → "I do not desire"; 樸 keeps "plain"
+
+*(2026-11-19, Shalom's call.)* *(was: "I am desireless.")* The 我▢ refrain reads *I do not …* where the Chinese does; *plain* stays as `glossary/pu-樸.md` argues. T3-18, T3-19.
+
+### Ch 2 · "the not-good arises"; "shape each other"; "fill each other"
+
+*(2026-11-19, Shalom's calls.)* *(was: "the bad arises," "measure," "depend on.")* 不善 negates line 2's own word; 形 is *shape*; 盈, our base's pre-taboo reading, is *fill*. T3-18, T2-58.
+
+### Ch 38 · 上德不德 keeps "does not do integrity"
+
+*(2026-11-19, Shalom's call, answering his own question of 2026-11-02.)* The mirror with 不失德 *does not lose* and Wang Bi's 不為而成 keep *do*; *perform* set aside. T1-28.
+
+### Ch 68 · 善▢者 ×4 "Those masterful at …"; 配天 "matched with the sky, the far end the ancients reached"
+
+*(2026-11-19, Shalom's calls.)* One frame, one shape, in 善's word (*master* is 大's 大匠). 配天 takes the tier *sky* with Heshang Gong's 德配天地; 極 its locked *the far end*. T2-47, T1-21. `chapters/068.md`.
+
+### Ch 18 · 智慧 → "cleverness and quick wits"
+
+*(2026-11-19, Shalom's call.)* *(was: "cleverness and erudition.")* 慧 is 儇也, nimbleness; learning is 學's. T2-83. `chapters/018.md`.
+
+### Ch 30 · 兵 → "weapons"
+
+*(2026-11-19, Shalom's call.)* *(was: "arms," set and withdrawn the same day.)* *Arms* is 臂's (38, 42, 64). T2-49.
+
+### Ch 15 · 故強為之容 → "do I force a likeness on them"
+
+*(2026-11-19, Shalom's call.)* *(was: "do I force a likeness.")* 之 rendered, so the frame *force a ▢ on ▢* reads at 15 and 25; each keeps its own noun (容 *likeness*; 字 *label*, 名 *name*, as Wang Bi separates them). T2-39.
+
+### Ch 25, 30, 55, 77 · four more members brought into step
+
+*(2026-11-19, Shalom's calls.)* Ch 25 *"It stands alone and never changes. / It moves in a circle and is never in danger"* (was *"Solitary. Unchanging. / … never in danger"*); ch 30 強 ×3 in the lock's words, *force the world with arms*, *seize strength*, *without forcing* (was *dominate*, *dominance*, *excessive force*); ch 55 *"Increasing life is called an ill omen"*, the fourth *is called* (was *"To force life to increase…"*); ch 77 the bow takes the law's verbs, *taken from … mended* (was *drawn off … filled in*), with Heshang Gong's 與 recorded as fork 127. T3-18.
+
+### Ch 10, 26, 49, 50 · four members brought into step
+
+*(2026-11-19, Shalom's calls.)* Ch 10 *"can you be undivided?"* (was *"can you keep these from parting?"*), the sixth *can you be*; ch 26 *"the heavy wagons"* (was *baggage*), 輜重's 重 answering line 1; ch 49 *"I trust too"* (was *as well*), 亦 alike in both stanzas; ch 50 *"Because in them there is no deadly ground"* (was *"they give death no foothold"*), answering line 4's 死地. T3-18.
+
+### Ch 22 · 枉則直 → "Be warped, and grow straight"
+
+*(2026-11-19, Shalom's call.)* *(was: "Be wronged, and be made straight.")* Both commentators bend the self and let straightness come of itself; 枉 is warped wood (說文 衺曲也). *Bent* is 曲's. R6. `chapters/022.md`.
+
+### Ch 13 · "Great trouble is prized like one's own body"; "trusted with the world" twice
+
+*(2026-11-19, Shalom's calls.)* *(was: "Prize great trouble as your own body," "…trusted with it.")* A quoted saying, not a command (Wang Bi; Heshang Gong). The couplet ends on 天下 twice. Heshang Gong's warning reading of the first closing line now recorded in `chapters/013.md`. R6, T3-18.
+
+### Ch 17 · the ladder by position
+
+*(2026-11-19, Shalom's call.)* *(was: "Good / Poor / The worst leaders," and "know only that they exist.")* 其次 counts, it does not grade; *leaders* and *only* had no character. T3-18, T2-62. `chapters/017.md`.
+
+### Ch 9 · "Fill what you hold to the brim, and you would do better to stop"
+
+*(2026-11-19, Shalom's call.)* *(was: "Rather than keep filling what you hold, stop.")* The matched couplet runs *act, then consequence* in both halves. T3-18.
+
+### Ch 48, 57 · 取天下 → "win over the world"
+
+*(2026-11-19, Shalom's call.)* *(was: "The world always comes to you…" at 48, "win the world" at 57.)* 取天下 meant coming to hold the realm (Heshang Gong: 取，治也). *Take* stays with ch 29's grasper; for the sage it alarmed (Shalom), and *comes to you* was ch 35's 天下往. *Win over* is allegiance drawn, not a contest. Cost: one phrase, two Englishes, split by grasped or drawn. T1-22, T3-17.
+
+### Ch 69 · 主 / 客 → host / guest
+
+*(2026-11-19, Shalom's call.)* *(was: "I do not push to move first. I move second.")* The text's own pair replaces Heshang Gong's gloss; 客 reads *guest* at 15 and 35. Shalom had rejected the image in August as unreadable jargon; it is taken now because the next line's inch and foot spell it out. T1-23.
+
+### Ch 36, 57 · 利器 → "beneficial tools"
+
+*(2026-11-19, Shalom's call.)* *(was: "tools of advantage" at 36, "sharp weapons" at 57.)* One compound, one English, in Wang Bi's words at both: 利國之器 (*"tools that benefit the state"*), 利己之器 (*"tools that benefit oneself"*). *Benefit* is 利's English opposite 害. T3-17. `chapters/036.md`, `chapters/057.md`.
+
+### Ch 10, 51 · 生 → "births / birthing"
+
+*(2026-11-19, Shalom's call.)* *(was: "giving birth," "gives birth to.")* After ch 2's *"The sage births them"*, 生 reads *births* in 2, 10, 42 and 51, and the 10/51 series is *birthing, acting, growing*. T3-17, T3-18. `chapters/010.md`, `chapters/051.md`.
+
+### Ch 42 · 孤、寡、不穀 → "orphaned, alone, or unworthy"
+
+*(2026-11-19, Shalom's call.)* *(was: "orphaned, meager, or unworthy.")* The three titles match ch 39 word for word; 寡 is the ruler's 寡人, *the lone one*. T3-17. `chapters/042.md`.
+
+### Ch 69 · 扔無敵 → "dragging where there is no enemy"
+
+*(2026-11-19, Shalom's call.)* *(was: "hauling.")* 扔 takes ch 38's *drags*, one English for the character. T3-17. `chapters/069.md`.
+
+### Ch 72 · "do not fear authority" · "does not show themselves off"
+
+*(2026-11-19, Shalom's calls.)* *(was: "no longer fear authority," "does not display themselves.")* 民不畏 matches ch 74, and 不自見 matches ch 22 and 24. T3-17. `chapters/072.md`.
+
+### Ch 69 · 禍莫大於輕敵 → "There is no greater disaster than making light of the enemy"
+
+*(2026-11-19, Shalom's call.)* *(was: "There is no disaster greater than…")* Matches ch 46's couplet, changed the same day, in the formula both chapters share; the 禍莫大於 item in `WORKLIST.md` T3-17 is done. `chapters/069.md`.
+
+### Ch 58 · 福兮禍之所伏 → "fortune is where disaster crouches"
+
+*(2026-11-19, Shalom's call.)* *(was: "fortune is where disaster hides.")* 伏 is the Shuowen's dog crouched beside a person, watching (司也。从人从犬), and 倚 its person leaning (依也): the mirror is two postures. *Hides* was Heshang Gong's concealment (伏匿) without the body; *lies in wait* was proposed and set aside for length. `chapters/058.md`, `glossary/huo-fu-禍福.md`.
+
+### Ch 62 · 有罪以免 → "have a crime held against you, and you are spared?"
+
+*(2026-11-19, Shalom's call; R6, the back-translation audit's finding 2.)* *(was: "commit a crime, and you are spared?")* The verse now agrees with its own notes: 有罪 (*yǒu zuì* — to have a crime) is a charge one stands under, as Heshang Gong's random punishments and Han Fei's 死罪時活 (*"the condemned sometimes live"*) read it, and *commit* had made the line an absolution. *Held against you* keeps 有 and 罪 and, like the Chinese, leaves open whose crime it was; *have a crime against you* would read as being its victim. *Seek, and you find* stays (Shalom's call, same day), so 以 (*yǐ* — by it) goes unrendered in both halves. 罪 → *crime*, covered in `glossary/huo-fu-禍福.md`.
 
 ### Ch 60 · *show*, *it is not that*, *not only*
 
@@ -2096,6 +2318,8 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 *(2026-11-19, Shalom's call.)* *Honor* is 尊's in this chapter (*buy honor*); 貴 takes *prize* twice, and 故為天下貴 now matches ch 56 verbatim. 先 → *go ahead of*. `chapters/062.md`.
 
 ### Ch 56 · "neither prize nor cheapen them"
+
+*(Superseded the same day in shape: "They cannot be prized, and cannot be cheapened," six* cannot*s for six 不可得而, Shalom's call, T3-13.)*
 
 *(2026-11-19, Shalom's call.)* 貴 and 賤 are one price scale (Wang Bi: 可得而貴則可得而賤也), so both sides take price words, and 為天下貴 reads *the most prized in the world*. *Debase* retired and forbidden. `glossary/gui-jian-貴賤.md`.
 
@@ -2207,7 +2431,7 @@ The verb **remains** was adopted from the same draft, replacing *is left over*: 
 
 First draft read *"the sage holds the left half of the tally / and never calls it in"* — accurate and opaque. It asked a modern reader to supply 300 BCE material culture from a bare noun, and *left* raised a question the poem cannot answer.
 
-Revised to **"holds their half of the tally / and never asks for the other."** The second line now teaches the object: a tally has two halves, one per party, and one party can come asking. That is enough for the bare word **tally** to carry 有德司契 four lines later without a footnote. It is the poem's own way of defining a term — in use, not in a gloss.
+*(Superseded 2026-11-19, Shalom's call: "and never asks anyone for the other half," 人 restored and the tally still taught.)* Revised to **"holds their half of the tally / and never asks for the other."** The second line now teaches the object: a tally has two halves, one per party, and one party can come asking. That is enough for the bare word **tally** to carry 有德司契 four lines later without a footnote. It is the poem's own way of defining a term — in use, not in a gloss.
 
 **Modernizing the object was considered and rejected.** *Holds the note and never calls it in*, or *the IOU*, are far more legible, and both destroy the chapter. A note is a **one-sided** instrument. A 契 is **split**, and the claim cannot be enforced without the counterparty's half — which is precisely the contrast 有德司契，無德司徹 turns on: an instrument requiring the other party's participation, against a ledger you can run on someone without them. Kill the split at line four and the contrast at line six has nothing to stand on.
 
@@ -2375,7 +2599,7 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"). Ch 51 and ch 65 read *is called*; **ch 10 had dropped 謂** (*wèi* — is called) and asserted the identity flatly. Ch 10 now matches.
 
-**故能成其大** (*gù néng chéng qí dà* — "and so completes its greatness"). Ch 63 was right. **Ch 34 had lost 成** (*chéng* — to complete) altogether and invented an intensifier: *"The Tao shows **true** greatness."* Now *"It never makes itself great, and so completes its greatness"*, which also restores the parallel with ch 63's 終不為大 (*zhōng bù wéi dà* — "never does the great"). Note the two chapters differ in their first halves — ch 34 has 不**自**為大 (does not make **itself** great), ch 63 has 不為大 (does not do the great) — so only the second clause is shared and only it was matched.
+*(Superseded 2026-11-19: "and so its greatness can be completed," 能 restored in 34 and 63, Shalom's call.)* **故能成其大** (*gù néng chéng qí dà* — "and so completes its greatness"). Ch 63 was right. **Ch 34 had lost 成** (*chéng* — to complete) altogether and invented an intensifier: *"The Tao shows **true** greatness."* Now *"It never makes itself great, and so completes its greatness"*, which also restores the parallel with ch 63's 終不為大 (*zhōng bù wéi dà* — "never does the great"). Note the two chapters differ in their first halves — ch 34 has 不**自**為大 (does not make **itself** great), ch 63 has 不為大 (does not do the great) — so only the second clause is shared and only it was matched.
 
 **可以長久** (*kě yǐ cháng jiǔ* — "can last long"). **Neither side carried it**: ch 44 had a noun phrase (*"you have long endurance"*) and ch 59 a different verb (*"one endures long"*). Both now read **can last long**, each keeping its own chapter's pronoun — the formula is the predicate, not the subject.
 
@@ -2680,7 +2904,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 **說文 unifies all three uses:** 客 寄也。从宀各聲 — *"to be lodged; from 宀 (mián — a roof),"* and 寄 (*jì*) is 託也, *"entrusted to another's keeping."* **客 is one who is under a roof that is not theirs.** Its pair 主 (*zhǔ*) is 鐙中火主也 — *"the flame in the lamp."* The one whose fire it is, and the one who came to it. 河上公 reads two of the three through that pair: at ch 15, 如客畏主人，儼然無所造作也, *"like a 客 in awe of the 主人 (zhǔ rén — the master of the house); solemn, making nothing of their own"*; at ch 69, 客者，和而不倡, *"the 客 harmonizes and does not lead off."*
 
-**Ch 69 is the worse problem and is logged open.** 吾不敢為主，而為客 reads *"I do not push to move first. I move second"* — that is 河上公's gloss 主，先也 (*"主 means first"*) rendered **instead of** the text, and both characters vanish. `CLAUDE.md`: a commentator's gloss is not the text. On the battlefield the 客 is the army standing on ground that is not its own, which is what licenses 不敢進寸而退尺 in the next line.
+*(Closed 2026-11-19: ch 69 reads host / guest, Shalom's call.)* **Ch 69 is the worse problem and is logged open.** 吾不敢為主，而為客 reads *"I do not push to move first. I move second"* — that is 河上公's gloss 主，先也 (*"主 means first"*) rendered **instead of** the text, and both characters vanish. `CLAUDE.md`: a commentator's gloss is not the text. On the battlefield the 客 is the army standing on ground that is not its own, which is what licenses 不敢進寸而退尺 in the next line.
 
 **止 (*zhǐ*) and 足 (*zú*) are the same picture, and 許慎 says so**: 說文 止 下基也。象艸木出有址，故以止爲足 — *"the base below; it pictures grass and trees emerging with a footing, so 止 is taken for 足."* The traveller's foot stops; the next three lines are about there not being **enough** of a foothold. Not forced into the verse; recorded because it is the chapter's own rhyme.
 
@@ -2706,7 +2930,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 *In what is not there* is the entry's own licensed wording rather than a new coinage. 無 is 說文 亡也 — *"gone"*, from 亡 (*wáng* — to flee, to lose). Not a void; a thing that is not there.
 
-**當 is *right where*, not *through*.** 說文: 當 田相值也 — *"fields matching each other,"* from 田 (*tián* — a field). It locates; it is not instrumental. *Through* made the absence a means, which is the mechanistic reading of a line that is only pointing at a place.
+*(Corrected 2026-11-19: the verse carries 當 with* in*, "In what is not there," the 無 lock's wording; *right where* was a draft.)* **當 is *right where*, not *through*.** 說文: 當 田相值也 — *"fields matching each other,"* from 田 (*tián* — a field). It locates; it is not instrumental. *Through* made the absence a means, which is the mechanistic reading of a line that is only pointing at a place.
 
 ### 利 → *advantage* — a locked rendering applied for the first time
 
@@ -2750,6 +2974,8 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 **Neither commentator reads this as a manipulator's handbook, and the English should not either.** 王弼: 將欲除强梁，去暴亂，當以此四者，因物之性，令其自戮 — *"if you would remove the strong and overbearing and rid yourself of the violent and disorderly, use these four: go along with the nature of the thing, and let it destroy itself."* 河上公 reads the same motion as the anatomy of ruin — overextension is how a thing ends. **The lines describe how overreach collapses; they do not recommend deceit.** Left standing rather than resolved, because the Chinese does not resolve it either.
 
 ### 利器 → *tools of advantage*, and all three commentators force it
+
+*(Superseded 2026-11-19: 利器 reads* beneficial tools *at 36 and 57, Shalom's call;* tools of advantage *set aside as awkward English. The commentators' reading below is why* beneficial *fits.)*
 
 *(was: "The sharp instruments of the state must not be shown to others.")* 韓非: 賞罰者，邦之利器也，在君則制臣，在臣則勝君 — *"reward and punishment are the state's 利器; in the ruler's hands they control the ministers, in the ministers' hands they overcome the ruler."* 王弼: 利器，利國之器也 — *"the tool that benefits the state."* 河上公: 利器，權道也 — *"the way of leverage."* **Unanimous, and none of them a weapon.** *Advantage* is 利's covered rendering in `glossary/wu-you-無有.md`, applied at ch 11 the same day; *edge* was the better line but is already 銳 (*ruì*)'s word at ch 9. *Instruments* also missed 器's lock, which licenses *vessel / tool / implement*. **利器 stands again at ch 57 and is not settled here — T2-33.**
 
@@ -3129,7 +3355,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 *(Shalom's word, 2026-10-15. Full argument: `glossary/po-魄.md`. The essay: `DISCOVERIES.md` §7.)*
 
-**Ch 10 now reads *"Housing your aliveness and embracing the one, can you keep these from parting?"*** It was *"housing your soul."* The verb did the watchlist's work and made the soul bodily, but the noun was still the watchlist's word. **This departs from every English translation**, all of which print *soul* with or without a qualifier (*physical-*, *bodily*, *earthbound*, *animal*). The qualifiers show the translators knew the noun was wrong.
+*(Superseded 2026-11-19 in its last words: "…can you be undivided?")* **Ch 10 now reads *"Housing your aliveness and embracing the one, can you keep these from parting?"*** It was *"housing your soul."* The verb did the watchlist's work and made the soul bodily, but the noun was still the watchlist's word. **This departs from every English translation**, all of which print *soul* with or without a qualifier (*physical-*, *bodily*, *earthbound*, *animal*). The qualifiers show the translators knew the noun was wrong.
 
 **Why not *soul*.** English *soul* is what leaves the body. 魄 is what stays with it: 杜預 魄，**形**也 (*"魄 is the form"*); 孔穎達 **附形之靈**為魄 (*"the life clinging to the form"*); 禮記 **形魄歸于地** (*"the form and the 魄 return to the earth"*). 魂 (*hún*), the half that rises, never appears in the book. Its account of a person is 身, 氣 and 精, and each of them already refuses *soul*. So *soul* at ch 10 would be the book's only immaterial self, printed on the one word that means the reverse.
 

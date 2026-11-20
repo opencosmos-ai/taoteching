@@ -44,7 +44,7 @@ refs:
 
 ### Eight lines, and the harmony in them can be heard
 
-> *Sound and tone harmonize each other,*
+> *Music and sound harmonize each other,*
 > *Front and back follow each other.*
 >
 > 音聲相和，
@@ -200,7 +200,7 @@ The soup is 盉's picture, and the zithers are 龢's. The *Analects* puts the sa
 
 | Line | English | Why |
 |---|---|---|
-| 音聲相和 (2) | *Sound and tone harmonize each other* | a verb, made mutual by 相 (xiāng — each other) |
+| 音聲相和 (2) | *Music and sound harmonize each other* | a verb, made mutual by 相 (xiāng — each other) |
 | 六親不和 (18) | *When kin are out of harmony* | the negated state, as a noun |
 | 沖氣以為和 (42) | *and the breath within makes harmony* | the noun, what the breath makes |
 | 和之至也 (55) | *this is harmony at its utmost* | the noun |

@@ -39,7 +39,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 - **The logged reason is universality**: *"keeping the emblem universal, for infants of every gender."* That was written on 2026-08-11.
 - **Rule 1's fourth part, set 2026-10-26, refuses exactly that move.** *"The male the text names stays named … no English that erases either sex where the Chinese names it."* It names the flinch: *"the same flinch that turns 母 (mǔ — mother) into the Source."* And 牡 (*mǔ* — the male) stands one clause earlier in this same line, 未知牝牡之合 (*wèi zhī pìn mǔ zhī hé* — "not yet knowing the union of female and male"), which the English already keeps.
 
-**My recommendation: render 朘 (*zuī* — the infant boy's member), as the printed Chinese reads.** *"They do not yet know the union of female and male, / yet the boy's member stirs — this is vital essence at its utmost."* The point of the line survives intact: potency that arises from fullness, before desire has any object. What changes is that the English stops softening the body the text names. **The cost:** the image is no longer available to infants of every gender. That is the cost the 2026-10-26 rule decided to pay at 父 (*fù* — father), and paying it at 父 (*fù* — father) but not here would apply the rule to the father and not to the son.
+**My recommendation: render 朘 (*zuī* — the infant boy's member), as the printed Chinese reads.** **Done 2026-11-19 (Shalom's call),** in his wording: the newborn a boy from line 1, *"yet his member stirs."* *"They do not yet know the union of female and male, / yet the boy's member stirs — this is vital essence at its utmost."* The point of the line survives intact: potency that arises from fullness, before desire has any object. What changes is that the English stops softening the body the text names. **The cost:** the image is no longer available to infants of every gender. That is the cost the 2026-10-26 rule decided to pay at 父 (*fù* — father), and paying it at 父 (*fù* — father) but not here would apply the rule to the father and not to the son.
 
 **The alternative, if you would rather keep the received reading:** follow Wang Bi's 全 (*quán* — whole) on the evidence of the witness, not on the ground of universality, and say so in the note. That is a witness call, which the rule allows. Universality as the reason is what it does not allow.
 
@@ -51,27 +51,27 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **1 · Ch 5 · 多言數窮 (*duō yán shuò qióng* — "much talk soon runs out") → *"Speaking of this is a dead end."***
 **Lost:** 多 (*duō* — much) and 數 (*shuò* / *shù* — soon / by reckoning). **Added:** *of this*. The Chinese makes a claim about talking too much. The English makes a different claim, that the subject cannot be spoken of, and the line does not say that. Both commentators read it as a line about much talk. Heshang Gong: 多事害神，多言害身 (*duō shì hài shén, duō yán hài shēn* — "much business harms the spirit, much talk harms the body"). Wang Bi: 必窮之數也 (*bì qióng zhī shù yě* — "it is bound, by reckoning, to run out"). A phonetic note in Heshang Gong's printed text, a later editor's addition, records both readings: Wang Bi's *shù* (reckoning) and the Tang emperor Xuanzong's *shuò* (soon). Nothing in the chapter's notes discusses the line.
-**Proposed:** *"Much talk is bound to run out. / Instead, hold to the center."* *Bound to* carries both readings of 數 (*shuò* / *shù* — soon / by reckoning). The second line is unchanged.
+**Proposed:** *"Much talk is bound to run out. / Instead, hold to the center."* *Bound to* carries both readings of 數 (*shuò* / *shù* — soon / by reckoning). The second line is unchanged. **Done 2026-11-19 (Shalom's call).**
 
 **2 · Ch 21 · 孔德之容 (*kǒng dé zhī róng* — "the bearing of great integrity") → *"The greatest integrity follows only the Tao."***
 **Lost:** 容 (*róng* — bearing, outward form). The Chinese says the *bearing* of great integrity follows the Tao. The English says integrity itself does. The glossary builds on the word the verse drops. `glossary/de-德.md` reads this line as *"the form of great 德 (*dé* — integrity) follows the Tao alone. De is what the Tao looks like once it takes a body."* Nothing records the omission.
-**Proposed:** *"The bearing of the greatest integrity / follows only the Tao."* I'd use *bearing*, not the entry's *form*, because the book spends *form* on 形 (*xíng* — shape), as in 41's 大象無形 (*dà xiàng wú xíng* — "the great image has no form").
+**Proposed:** *"The bearing of the greatest integrity / follows only the Tao."* I'd use *bearing*, not the entry's *form*, because the book spends *form* on 形 (*xíng* — shape), as in 41's 大象無形 (*dà xiàng wú xíng* — "the great image has no form"). **Done 2026-11-19 (Shalom's call)** as *"Behavior of the greatest integrity"*: *bearing* also reads as a compass heading.
 
 **3 · Ch 12 · 五色 · 五音 · 五味 (*wǔ sè · wǔ yīn · wǔ wèi* — "the five colors, the five tones, the five flavors") → *"The full spectrum of colors … of tones … of flavors."***
 **Lost:** 五 (*wǔ* — five), three times. **Added:** *spectrum*. The five colors, five tones and five flavors are a named classical system, and the chapter's force is a count: five of each and the senses are glutted. *Spectrum* is Newton's word, so it fails the pointing test (`CLAUDE.md` → *The overlay watchlist*), and it is a cousin of the mechanistic register the watchlist names as our besetting temptation. Its third use, *a spectrum of flavors*, does not hold as an image at all. The chapter's notes restore 人 (*rén* — a person) in these same lines and say nothing about 五 (*wǔ* — five).
-**Proposed:** *"The five colors make people's eyes blind. / The five tones make people's ears deaf. / The five flavors make people's palates dull."*
+**Proposed:** *"The five colors make people's eyes blind. / The five tones make people's ears deaf. / The five flavors make people's palates dull."* **Done 2026-11-19 (Shalom's call).**
 
 **4 · Ch 42 · 故物或損之而益，或益之而損 (*gù wù huò sǔn zhī ér yì, huò yì zhī ér sǔn* — "so with things: some are decreased and gain, some are increased and lose") → *"For so it is: what is decreased is thereby increased, and what is increased is thereby decreased."***
 **Lost:** 或 … 或 (*huò … huò* — some … some). An observation about *some* things becomes a law about *all* of them. The book already has English for this construction: ch 29's 或行或隨 (*huò xíng huò suí* — "some go ahead, some follow") reads *"some go ahead, some follow."*
-**Proposed:** *"For so it is with things: some are decreased and so increased, / some increased and so decreased."*
+**Proposed:** *"For so it is with things: some are decreased and so increased, / some increased and so decreased."* **Done 2026-11-19 (Shalom's call).**
 
-**5 · Ch 30 · 果而勿強 (*guǒ ér wù qiáng* — "succeed, and do not force") → *"They succeed without using excessive force."***
+**5 · Ch 30 · 果而勿強 (*guǒ ér wù qiáng* — "succeed, and do not force") → *"They succeed without using excessive force."*** *(Done 2026-11-19, Shalom's call: "They succeed without forcing.")*
 **Added:** *excessive*. That word licenses force short of excess, and the line forbids force. `glossary/qiang-強.md` reads all three 強 (*qiáng* — strong / to force) in this chapter as force and dominance themselves (*"you do not strengthen a country by invading it"*), and quotes Heshang Gong on this very line: 果敢勿以為強兵堅甲以侵凌人也 (*guǒ gǎn wù yǐ wéi qiáng bīng jiān jiǎ yǐ qīn líng rén yě* — "succeed, but do not make strong troops and hard armor to trample people"). The form audit records the series as *Kept*, and it is, as form. The word *excessive* is not logged anywhere.
 **Proposed:** *"They succeed without forcing."* That keeps the series *They succeed without boasting … without bragging … without arrogance.*
 
 **6 · Ch 43 · 無有入無間 (*wú yǒu rù wú jiàn* — "what has no presence enters where there is no gap") → *"The formless enters the seamless."***
 **Shift, against a lock.** 無 (*wú* — absence) / 有 (*wú* / *yǒu* — absence / presence) is locked, and its entry names *form and formless* as a rendering it declines: *"they name a different distinction — about visibility rather than"* presence (`glossary/wu-you-無有.md`). No waiver or note covers ch 43. `check_locks.py` cannot see it, because *formless* is not on the forbidden list.
-**Proposed:** *"What is not there enters the seamless."* This reuses ch 11's locked wording, *in what is not there*.
+**Proposed:** *"What is not there enters the seamless."* This reuses ch 11's locked wording, *in what is not there*. **Done 2026-11-19 (Shalom's call).**
 
 **7 · Ch 37 · 夫亦將無欲 … 天下將自正 (*fū yì jiāng wú yù … tiān xià jiāng zì zhèng* — "they too will be without desire … the world will right itself") → *"The nameless uncarved wood is without desire. / Relinquishing desire, being still, the world rights itself."***
 **Lost:** 將 (*jiāng* — will), twice, and 亦 (*yì* — too). The chapter makes three promises, each with 將 (*jiāng* — will): the countless things *will* transform, *will* be without desire, and the world *will* right itself. The English keeps *will* in the first and drops it from the other two, so a promise turns into a description. The last line also dangles its modifier: it is the world that relinquishes desire.
@@ -79,13 +79,13 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **8 · Ch 21 · 道之為物 (*dào zhī wéi wù* — "the Tao, as a thing") → *"Whatever the Tao is, it is only vague, only elusive."***
 **Lost:** 物 (*wù* — thing), and with it the answer the chapter gives two lines later. That line is 其中有物 (*qí zhōng yǒu wù* — "within it there is a thing"), and the English renders it *"there is a thing."* The Chinese says that the Tao, taken as a thing, is vague, and yet a thing is in it. *Whatever the Tao is* hedges, and the hedge breaks the echo.
-**Proposed:** *"The Tao, as a thing, / is only vague, only elusive."*
+**Proposed:** *"The Tao, as a thing, / is only vague, only elusive."* **Done 2026-11-19 (Shalom's call),** on one line.
 
 #### Changes the force
 
 **9 · Ch 77 · 孰能有餘以奉天下 (*shú néng yǒu yú yǐ fèng tiān xià* — "who can have a surplus and offer it to the world?") → *"Who has more than enough, / and offers it up to the world?"***
 **Lost:** 能 (*néng* — can). The question asks who is *able*, and the English asks who *does*. The answer, *Only those who are with the Tao*, is about capacity.
-**Proposed:** *"Who can have more than enough / and offer it up to the world?"*
+**Proposed:** *"Who can have more than enough / and offer it up to the world?"* **Done 2026-11-19 (Shalom's call).**
 
 **10 · Ch 46 · 禍莫大於不知足 (*huò mò dà yú bù zhī zú* — "no disaster is greater than not knowing enough") → *"There is no greater disaster than discontent."***
 **Lost:** 知 (*zhī* — to know). 知足 (*zhī zú* — knowing enough) is a book-wide formula. It reads *knows they have enough* at 33 and *Know when you have enough* at 44, and two lines later in this chapter 知足之足 (*zhī zú zhī zú* — "the enough of knowing enough") reads *"the contentment of knowing you have enough."* *Discontent* names a feeling where the Chinese names a knowing, and it breaks the repetition inside the chapter. The parallel at ch 69 copies this line's frame on purpose (`notes/translation.md` → *Ch 69*), and that frame is unaffected.
@@ -93,11 +93,11 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **11 · Ch 41 · 若存若亡 (*ruò cún ruò wáng* — "as if keeping it, as if losing it") → *"keep some, forget some."***
 **Lost:** 若 (*ruò* — as if), twice. Wavering becomes keeping part of it. Ch 4's notes already pair 存 (*cún* — to be still there) against 亡 (*wáng* — to be gone) in exactly this line.
-**Proposed:** *"Those middling in service hear the Tao / and seem to keep it, seem to lose it."*
+**Proposed:** *"Those middling in service hear the Tao / and seem to keep it, seem to lose it."* **Done 2026-11-19 (Shalom's call).**
 
 **12 · Ch 50 · 善攝生者 (*shàn shè shēng zhě* — "one masterful at tending life") → *"one who truly tends life."***
 **Shift, against a lock.** 善 (*shàn*) is locked, and `glossary/shan-善.md` lists ch 50 by name under *善 (*shàn* — masterful) + verb → masterful at*. *Truly* is neither the lock nor a recorded flexion.
-**Proposed:** *"It's been said that one masterful at tending life"*
+**Proposed:** *"It's been said that one masterful at tending life"* **Done 2026-11-19 (Shalom's call).**
 
 **13 · Ch 27 · 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") → *"This is the essential secret."***
 **Shift, against a lock**, and **lost:** 謂 (*wèi* — called). 妙 (*miào* — subtle) is locked to *subtle*. `glossary/xuan-miao-玄妙.md` names this very line *"the essential subtlety"* and refuses *mystery*. *Secret* carries the same esoteric charge by another word.
@@ -113,9 +113,9 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **16 · Ch 79 · 而不責於人 (*ér bù zé yú rén* — "and makes no demand on people") → *"and never asks for the other."***
 **Lost:** 人 (*rén* — people). The object moves from people to the tally's other half. The chapter's notes leave the left tally's side open on purpose, and say *"the English renders the character"*. It renders 責 (*zé* — to demand payment) but not 人 (*rén* — people), and the claim is about how the sage treats people.
-**Proposed:** *"So the sage grasps the left half of the tally / and makes no demand on anyone."*
+**Proposed:** *"So the sage grasps the left half of the tally / and makes no demand on anyone."* **Done 2026-11-19 (Shalom's call)** as *"and never asks anyone for the other half"*, which keeps the tally's teaching.
 
-**17 · Ch 11 · the note and the verse disagree.** The chapter's notes say *"當 (*dāng* — right at) → **right where**, not through,"* and the verse reads *"In what is not there"* three times. One of the two is wrong. The verse is the settled wording of 無 (*wú* — absence)'s lock, which already includes *in*, so I'd **correct the note**: 當 (*dāng* — right at) is carried by *in*, and *right where* was a draft. Also lost, and fine to leave: 其 (*qí* — its), in 當其無 (*dāng qí wú* — "right at its absence").
+**17 · Ch 11 · the note and the verse disagree.** The chapter's notes say *"當 (*dāng* — right at) → **right where**, not through,"* and the verse reads *"In what is not there"* three times. One of the two is wrong. The verse is the settled wording of 無 (*wú* — absence)'s lock, which already includes *in*, so I'd **correct the note**: 當 (*dāng* — right at) is carried by *in*, and *right where* was a draft. **Done 2026-11-19** (`chapters/011.md`). Also lost, and fine to leave: 其 (*qí* — its), in 當其無 (*dāng qí wú* — "right at its absence").
 
 #### Smaller, gathered
 
@@ -138,6 +138,8 @@ Real, but each is a word, and none changes a claim. They are worth carrying into
 | 56 · 62 | 故為天下貴 (*gù wéi tiān xià guì* — "so they are prized by the world") | *the **most** honored in the world* | adds *most*, in both chapters alike, so fix both or neither |
 | 74 | 夫代司殺者殺 (*fū dài sī shā zhě shā* — "to kill in place of the one in charge of killing") | *To take their place is to take the place of the master carpenter* | drops both acts, 殺 (*shā* — to kill) and 斫 (*zhuó* — to hew); the next line restores *carve* |
 | 80 | 使有什伯之器而不用 (*shǐ yǒu shí bǎi zhī qì ér bù yòng* — "let them have tools of tens and hundreds, and not use them") | *yet **no need** to use them* | adds a reason |
+
+*Worked through 2026-11-19 (Shalom's calls): 3, 7, 8, 14, 31, 46, 49, 54 and 74 changed; 16 and 80 kept with their reasons recorded; 27, 52, 55 and 56 · 62 found already settled. Each chapter's Notes carries its line.*
 
 #### A tally for T3-12: where 故 (*gù* — so) has no English
 
@@ -163,7 +165,7 @@ Listed so the next reader does not re-flag them. Each pointer is where the reaso
 
 | Ch | The departure | Where it is decided |
 |---|---|---|
-| 2 · 10 · 51 · 77 | 為而不恃 (*wéi ér bù shì* — "acts, and does not rely on it") → *relies on nothing* | `notes/translation.md` → the 恃 (*shì* — to rely on) sweep |
+| 2 · 10 · 51 · 77 | 為而不恃 (*wéi ér bù shì* — "acts, and does not rely on it") → *relies on nothing* *(was, until 2026-11-19; now* without relying on it*, Shalom's call)* | `notes/translation.md` → the 恃 (*shì* — to rely on) sweep |
 | 3 · 30 · 64 · 67 · 69 · 73 · 74 | 敢 (*gǎn* — to venture) → *push*, and *dare* forbidden | `glossary/gan-敢.md`, locked |
 | 5 | 不仁 (*bù rén* — "not humane") → *not concerned with humaneness* | the chapter's notes |
 | 8 | 幾於道 (*jī yú dào* — "near the Tao") → *nearly the Tao* | the chapter's notes |
@@ -185,9 +187,9 @@ Listed so the next reader does not re-flag them. Each pointer is where the reaso
 | 52 | 其母 (*qí mǔ* — "its mother") → *our mother*; *outer light*, *inner clarity* | `notes/translation.md` → *其母 (*qí mǔ* — "its mother")*; the chapter's notes |
 | 53 | 是謂盜夸 (*shì wèi dào kuā* — "this is called the thieves' boast") → *This exposes the ringleader of thieves* | `notes/translation.md` → *是謂 (*shì wèi* — "this is called") → "This exposes…"*; `notes/manuscript.md` |
 | 57 | 自樸 (*zì pǔ* — "plain of themselves") → *become plain* | `glossary/pu-樸.md`, a licensed flexion |
-| 64 | 學不學 (*xué bù xué* — "learns the not-learning") → *learns to unlearn* | `notes/translation.md` → *Ch 64* |
+| 64 | 學不學 (*xué bù xué* — "learns the not-learning") → *learns to unlearn* *(was, until 2026-11-19; now* learns the not-learning*, Shalom's call)* | `notes/translation.md` → *Ch 64* |
 | 65 | 明民 (*míng mín* — "make the people clear-sighted") → *make the people clever* | the chapter's notes (T1-17), a declared exception |
-| 69 | 主 / 客 (*zhǔ / kè* — host / guest) → *move first / move second*; *into another's ground* | `notes/translation.md` → *Ch 69*, logged open |
+| 69 | 主 / 客 (*zhǔ / kè* — host / guest) → *move first / move second* *(was, until 2026-11-19; now* host / guest*, Shalom's call)*; *into another's ground* | `notes/translation.md` → *Ch 69* |
 | 71 · 75 | the closing 是以 (*shì yǐ* — therefore) repetition cut | the chapters' notes |
 | 72 | 大威 (*dà wēi* — "the great dread") → *the great collapse* | `process/form-audit.md`, Shalom's call |
 | 74 | 司殺者 (*sī shā zhě* — "the one in charge of killing") → *one who does the killing* | the chapter's notes; `notes/manuscript.md` |

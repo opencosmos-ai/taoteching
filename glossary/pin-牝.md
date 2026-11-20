@@ -44,9 +44,9 @@ refs:
 >
 > — chapter 6
 
-> *They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.*
+> *He does not yet know the union of female and male, yet his member stirs — this is vital essence at its utmost.*
 >
-> 未知牝牡之合而全作，精之至也。
+> 未知牝牡之合而朘作，精之至也。
 >
 > — chapter 55
 

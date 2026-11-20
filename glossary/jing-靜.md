@@ -112,7 +112,7 @@ refs:
 **What 躁 is, then, is restlessness**: the want of rest, in the body and in the temper at once, moving because one cannot keep still. *Restless* is the plain English antonym of *still*, built on the same idea, and it carries both halves of the early usage, the bodily rushing and the impatience. Wang Bi already reaches for it at chapter 61: 雄躁動貪欲, *"the rooster is restless and greedy."* You can point at a restless horse, a restless child, a restless sleeper.
 
 > *Restlessness overcomes cold; stillness overcomes heat.*
-> *Clear stillness brings order to the world.*
+> *Clear stillness sets the world straight.*
 >
 > 躁勝寒，靜勝熱。
 > 清靜為天下正。
@@ -171,7 +171,7 @@ The physical sense at chapter 45 survives, since a body that cannot keep still k
 
 ### Left open
 
-**Chapter 37's line was rebuilt with the 欲 entry** (2026-11-19): *"Not desiring, and so still, the world will right itself."* 靜's English did not change.
+**Chapter 37's line was rebuilt with the 欲 entry** (2026-11-19): *"Not desiring, and so still, the world will straighten itself"* (正's *straighten* since 2026-11-19). 靜's English did not change.
 
 **Chapter 26's couplet mixes its forms.** *The heavy is the root of the light* keeps both halves adjectival; *stillness is the ruler of the restless* makes one a noun and one an adjective. The Chinese is four bare characters on each side. Noted, not worth a rewrite on its own.
 

@@ -153,7 +153,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 夂,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"冬,處"
 复,,,phonetic,"no gloss needed: present for sound, not meaning",2,"復,腹"
 夕,xī,evening — the moon half shown,semantic,glossed,2,"名,多"
-奇,qí,"strange / surprise / crooked, out of line",phonetic,glossed,2,"倚,寄"
+奇,qí,crooked,phonetic,glossed,2,"倚,寄"
 奚,,,phonetic,"no gloss needed: present for sound, not meaning",2,"谿,雞"
 尾,wěi,a tail,semantic,glossed,2,"屈,屬"
 屮,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"木,毒"
@@ -166,7 +166,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 敝,Bì,Worn out/old,phonetic,glossed,2,"弊,蔽"
 敫,,,phonetic,"no gloss needed: present for sound, not meaning",2,"徼,皦"
 未,wèi,not yet,phonetic,glossed,2,"味,昧"
-正,zhèng,set right / upright / norm (58),semantic,glossed,2,"政,是"
+正,zhèng,"straight, straighten (verb)",semantic,glossed,2,"政,是"
 此,Cǐ,this / here,phonetic,glossed,2,"疵,雌"
 殳,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"投,殺"
 無,Wú,absence,phonetic,glossed,2,"無,蕪"
@@ -449,7 +449,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 棄,qì,abandon,semantic,glossed,1,棄
 次,cì,"next (其次, the next rank)",phonetic,glossed,1,資
 止,zhǐ,stop / halt,phonetic,glossed,1,企
-正,zhèng,set right / upright / norm (58),phonetic,glossed,1,政
+正,zhèng,"straight, straighten (verb)",phonetic,glossed,1,政
 歲,,,phonetic,"no gloss needed: present for sound, not meaning",1,劌
 殘,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,昔
 殸,,,phonetic,"no gloss needed: present for sound, not meaning",1,聲
@@ -504,8 +504,8 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 盍,,,phonetic,"no gloss needed: present for sound, not meaning",1,闔
 監,,,phonetic,"no gloss needed: present for sound, not meaning",1,覽
 監,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,覽
-直,zhí,straight / straightness,phonetic,glossed,1,埴
-直,zhí,straight / straightness,semantic,glossed,1,置
+直,zhí,true,phonetic,glossed,1,埴
+直,zhí,true,semantic,glossed,1,置
 睪,,,phonetic,"no gloss needed: present for sound, not meaning",1,釋
 瞏,,,phonetic,"no gloss needed: present for sound, not meaning",1,還
 瞿,,,phonetic,"no gloss needed: present for sound, not meaning",1,懼

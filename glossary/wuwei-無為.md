@@ -2,6 +2,8 @@
 term: "無為"
 pinyin: "wú wéi"
 render: "non-doing"
+flexions:
+  - { english: "does not handle it", chapters: [64], why: "a verb phrase answering 為者敗之, whose 為 reads handle here and at ch 29; grammar decides the form" }
 forbidden: ["non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing"]
 chapters: [2, 3, 10, 37, 38, 43, 48, 57, 63, 64]
 status: locked
@@ -50,7 +52,7 @@ Not a technique to acquire. A stripping away — of managing, of intervening, of
 It is easy to read 無為 as private spirituality. In the text it is overwhelmingly about **government**. Chapter 57 gives the whole doctrine in four lines, and 無為 leads them:
 
 > 我無為，而民自化 — *I do not do, and the people transform themselves.*
-> 我好靜，而民自正 — *I love stillness, and the people right themselves.*
+> 我好靜，而民自正 — *I love stillness, and the people straighten themselves.*
 > 我無事，而民自富 — *I do not interfere, and the people enrich themselves.*
 > 我無欲，而民自樸 — *I am without desire, and the people become plain of themselves.*
 
@@ -93,6 +95,7 @@ The structure only survives in English if the word is a **verb that also works a
 - **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味)
 - **無為而無不為** → **"does not do, yet nothing is left undone"** — render identically at 37 and 48; it is one line, sounded twice
 - **我無為** (57) → **"I do not do"** — plainest possible, to match the four-line refrain
+- **聖人無為故無敗** (64) → **"the sage does not handle it, and so ruins nothing"** — the answer to 為者敗之, *"Those who handle it ruin it,"* so it takes the question's verb; a flexion scoped to ch 64 (Shalom's call, 2026-11-19)
 
 
 ### Left open

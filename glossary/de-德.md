@@ -64,8 +64,8 @@ Hear it in the hard places:
 
 - Ch 38 — *上德不德，是以有德* → **"The highest integrity does not do integrity, and so it has integrity."**
 - Ch 41 — *上德若谷* → **"The highest integrity seems a valley."**
-- Ch 51 — *道生之，德畜之* → **"The Tao gives birth to the countless things, integrity rears them."**
-- Ch 55 — *含德之厚* → **"A person with abundant integrity is like a newborn."**
+- Ch 51 — *道生之，德畜之* → **"The Tao births the countless things, integrity rears them."**
+- Ch 55 — *含德之厚* → **"One who holds integrity thick within is like a newborn."**
 
 ### Left open
 

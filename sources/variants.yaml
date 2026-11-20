@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 127
+# next-fork-id: 128
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -691,12 +691,17 @@
   readings:
     - { source: "mawangdui-a", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire", annotation: "A third, earlier clause in the sequence of calamities." }
     - { source: "fuyi", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire" }
+    - { source: "heshanggong", text: "罪莫大於可欲", pinyin: "zuì mò dà yú kě yù", english: "no crime is greater than having something to desire", annotation: "Heshang Gong's own text carries the clause, and glosses it as loving lewd beauty (hào yín sè yě); the Siku Wang Bi's collation note says the same." }
   meaning_bearing: true
   our_call: base
   note: >
     The older witnesses remember a rising three-beat — crime/desire,
     disaster/discontent, fault/greed — that the received text trimmed to two.
-    We keep the received pair and note the fuller crescendo.
+    We keep the received pair and note the fuller crescendo. Heshang Gong's
+    reading added 2026-11-19, from the vendored Song text and the Siku
+    collation note 河上公注本此句上有罪莫大於可欲一句 (hé shàng gōng zhù běn
+    cǐ jù shàng yǒu zuì mò dà yú kě yù yī jù — "the Heshang Gong recension has,
+    above this line, the line 'no crime is greater than the wantable'").
   logged: notes/manuscript.md
 
 - chapter: 46
@@ -818,15 +823,16 @@
     - { source: "mawangdui-a", text: "天下之牝，天下之郊也", pinyin: "tiān xià zhī pìn, tiān xià zhī jiāo yě", english: "the female of the world, the world's confluence" }
     - { source: "mawangdui-b", text: "…牝也，天下之交也", pinyin: "… pìn yě, tiān xià zhī jiāo yě", english: "… the female, the world's confluence", annotation: "The opening graphs are lost." }
   meaning_bearing: false
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
-    Both silks put the female before the confluence. Silk A writes 郊 (jiao -
+    RESOLVED 2026-11-19, Shalom's call: the verse follows both silks, "the
+    female of the world, the confluence of the world." Both silks put the female before the confluence. Silk A writes 郊 (jiao -
     the outskirts), a loan for 交 (jiao - to meet). Silk B has lost the seven
     graphs before 牝, but its 牝也，天下之交也 keeps the same order. No line
     changes in meaning. The order bears on the form: our base ends one line on
     天下之牝 and opens the next on 牝, a chain the English keeps ("the female of
     the world. / The female always overcomes…"), and the silks have no chain
-    there. Open, for Shalom: WORKLIST T3.
+    there. The chain goes with the base's order.
   logged: notes/manuscript.md
 
 - chapter: 61
@@ -1097,9 +1103,12 @@
   readings:
     - { source: "heshanggong", text: "我大", pinyin: "wǒ dà", english: "I am great" }
   meaning_bearing: true
-  our_call: heshanggong
+  our_call: base
   note: >
-    RESOLVED 2026-08-19 — we follow 我大, "I am vast," against our own base text.
+    RESTORED 2026-09-06 (Shalom's call): the verse follows the base, 我道大,
+    "The world says my Tao is great" (chapters/067.md → Notes). The August
+    argument for 我大 is kept below as history.
+    Superseded 2026-09-06: RESOLVED 2026-08-19 — we followed 我大, "I am vast," against our own base text.
     Six arguments converge. (1) 不肖 is a self-deprecating FIRST-PERSON term in
     classical Chinese — "I, the unworthy one," from a child not resembling its
     father; it is a person-word. (2) Heshang Gong's lemma omits 道 and his
@@ -1289,6 +1298,27 @@
     couplet about below and above. We keep 折: the chapter's argument is
     physical throughout (corpse, green stem, dry stick), and 兵 would repeat the
     character from the clause immediately before it.
+  logged: notes/manuscript.md
+
+- chapter: 77
+  id: 127
+  line: "有餘者損之，不足者補之"
+  base: "補"
+  base_pinyin: "bǔ"
+  base_english: "mend"
+  readings:
+    - { source: "heshanggong", text: "與", pinyin: "yǔ", english: "give to" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Heshang Gong's Song text lemmatises the bow line as 不足者與之, "what is
+    too little is given to," and has 𥙷 only in the law line, 損有餘而𥙷不足;
+    his gloss reads the image as 損強益弱, "diminishing the strong and
+    increasing the yielding." The Siku Wang Bi has a lacuna (□) in both
+    places. Our base reads 補 twice, so the image and the law share one verb,
+    and the verse follows it: "What is too little is mended" (Shalom's call,
+    2026-11-19). Recorded 2026-11-19 from the vendored Heshang Gong text; the
+    chapter note had said he reads 補 in both places, and is corrected.
   logged: notes/manuscript.md
 
 - chapter: 80

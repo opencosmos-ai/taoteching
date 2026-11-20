@@ -51,7 +51,7 @@ Three ordinary verbs, each negated and then taken as its own object. That struct
 - **the business of governing** — 處無為之事 (2), *dwelling in the work of non-doing*
 - **daily competence** — 事善能 (8), water is *skillful in its affairs*
 - **the ruler's completed project** — 功成事遂 (17), *the work done, the undertaking finished*
-- **what rebounds on you** — 其事好還 (30), of military force: *such undertakings tend to come back*
+- **affairs that turn back** — 其事好還 (30), of military force: *such affairs tend to turn back*, holding both the recoil and the commentators' turning back to non-doing
 - **a ceremonial occasion** — 吉事 / 凶事 (31), auspicious and inauspicious **rites**, which is what sets the seating at a general's table
 - **proliferating busyness** — 濟其事 (52), *multiplying your affairs*, and your life is beyond saving
 - **the scale argument** — 天下難事 / 天下大事 (63), the world's *difficult* and *great* undertakings, both beginning small
@@ -87,7 +87,7 @@ That range is why no single English word can carry all nineteen lines, and the e
 
 **At 48 and 57, 無事 stands alone** as the name of a policy. Nothing in the line rhymes with it, so the English is free to name the failure it prevents — and *meddling* is exactly what the commentators describe. Wang Bi on 及其有事: 自已造也, *"it is manufactured by oneself."* Heshang Gong: 好有事，則政教煩，民不安 — *"fond of having undertakings, and governance and instruction turn troublesome, and the people are not at peace."* Officiousness, not violence, which is what makes it such a good diagnosis of bad rule.
 
-> 48 · 取天下常以**無事** — *the world always comes to you by not meddling with it*
+> 48 · 取天下常以**無事** — *win over the world by never meddling with it*
 > 57 · 我**無事**，而民自富 — *I do not meddle, and the people enrich themselves*
 
 That last line sits third in a quartet — 無為 / 好靜 / 無事 / 無欲 — and the plain verb keeps all four as plain sayings, which is what the Chinese has.

@@ -57,7 +57,7 @@ Capitalized, this is Neoplatonism and monotheism — the One of Plotinus, the Go
 → **Locked:** *the one*, lowercase. `glossary/yi-一.md`.
 
 **福 — "blessing"** *(58 ×2, 65)*
-"Blessing" implies a **blesser** — a personal agent dispensing favor. 福 is **good fortune**, impersonal, and in 58 explicitly unstable (fortune is where disaster hides). "Fortune" ✓ (already our reading). *Honest nuance:* 福 does carry the 示 radical, associated with altars and offerings, so the word is not purely secular in origin — but it is luck, not grace.
+"Blessing" implies a **blesser** — a personal agent dispensing favor. 福 is **good fortune**, impersonal, and in 58 explicitly unstable (fortune is where disaster crouches). "Fortune" ✓ (already our reading). *Honest nuance:* 福 does carry the 示 radical, associated with altars and offerings, so the word is not purely secular in origin — but it is luck, not grace.
 
 **善 — "good"** *(8, 27 ×5, 49, 79, 81)*
 The moral good/evil binary is a Christian inheritance; 善 frequently means **skilled, adept, good *at*** something. Chapter 27's run — 善行, 善言, 善數, 善閉, 善結 — is entirely about *skill*: the skilled traveler leaves no tracks. Read for competence first, morality only where the context demands it.

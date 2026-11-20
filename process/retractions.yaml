@@ -252,3 +252,27 @@
     supported by Heshang Gong's pronunciation note.
   see: "chapters/011.md"
   allow: ["source/archive-google-doc-final-export-2026-08-09.md", "process/back-translation/B_01-14.md"]
+
+- id: ch62-commit-a-crime
+  retracted: 2026-11-19
+  claim: >
+    Chapter 62's 有罪以免 reads "commit a crime, and you are spared," making
+    the reader the offender.
+  match: ["commit a crime, and you are spared"]
+  correction: >
+    有罪 (yǒu zuì) is a charge one stands under, as Heshang Gong and Han Fei
+    read it, and the verse reads "have a crime held against you, and you are
+    spared?" (Shalom's call, 2026-11-19).
+  see: "chapters/062.md"
+  allow: ["process/back-translation/*"]
+
+- id: ch77-heshanggong-bu-in-both-places
+  retracted: 2026-11-19
+  claim: >
+    Heshang Gong's text reads 補 in both of chapter 77's lines, so the Siku
+    Wang Bi's lacunae are transcription damage with no witness fork.
+  match: ["河上公 has 補/𥙷 in both places"]
+  correction: >
+    Heshang Gong's bow line reads 不足者與之, "is given to"; only his law line
+    has 𥙷. The fork is sources/variants.yaml id 127.
+  see: "chapters/077.md"

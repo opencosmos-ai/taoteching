@@ -55,7 +55,7 @@ The lines sort cleanly by what follows the character.
 >
 > — chapter 1
 
-> *I am desireless, and the people become plain of themselves.*
+> *I do not desire, and the people become plain of themselves.*
 >
 > 我無欲，而民自樸。
 >
@@ -99,7 +99,7 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 
 > *Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.*
 > *With the nameless uncarved wood, they too will be desireless.*
-> *Not desiring, and so still, the world will right itself.*
+> *Not desiring, and so still, the world will straighten itself.*
 >
 > 化而欲作，吾將鎮之以無名之樸。
 > 無名之樸，夫亦將無欲。
@@ -107,7 +107,7 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 >
 > — chapter 37
 
-The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); they too will be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world will right itself. Three grammars of one character in three lines, each handing the word to the next.
+The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); they too will be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world will straighten itself. Three grammars of one character in three lines, each handing the word to the next.
 
 **The grammar sorts all three, and the chapter now reads so** (Shalom's call, 2026-11-19). 欲作 takes a verb, so *want*. 無欲 and 不欲 take nothing, so *desire*: *desireless*, and *not desiring*. One root runs through all three. *Urge*, the old English, rendered no character the line prints, and *relinquishing* supplied a giving-up the Chinese does not have: 不欲 is not wanting, not letting go of a want once held. The same rebuilding restored 化's chain (T3-8) and the subject Heshang Gong gives the second line, the people, not the wood.
 
@@ -119,7 +119,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 **Wang Bi gives desire a use.** On chapter 1: 故常無欲空虚，可以觀其始物之妙, *"so the ever desireless, empty, can observe the subtlety by which things begin,"* and 故常有欲，可以觀其終物之徼也, *"so the ever desiring can observe the heading where things end."* Desirelessness sees beginnings; desire sees where things go. Neither is a fault. Heshang Gong keeps only the first: 人常能無欲，則可以觀道之要, *"a person who can be ever desireless can observe the essential of the Tao,"* and his ever-desiring person observes 世俗之所歸趣, *"where the worldly are heading."*
 
-**Wang Bi's chapter 57 is the silks' chapter 57.** Our base reads 我無欲 (*wǒ wú yù* — "I am desireless"). Wang Bi glosses it 上之所欲，民從之速也。我之所欲唯無欲，而民亦無欲而自樸也, *"what those above want, the people follow quickly. What I want is only desirelessness, and the people too are desireless, and plain of themselves."* The collated silk text prints exactly that wanting: **我欲不欲而民自樸** (*wǒ yù bù yù ér mín zì pǔ* — "I want the not-wanting, and the people become plain of themselves"), the formula of chapter 64. **The sage's desirelessness is itself a want**, and the oldest witness and the oldest commentary on our base both say so.
+**Wang Bi's chapter 57 is the silks' chapter 57.** Our base reads 我無欲 (*wǒ wú yù* — "I do not desire"). Wang Bi glosses it 上之所欲，民從之速也。我之所欲唯無欲，而民亦無欲而自樸也, *"what those above want, the people follow quickly. What I want is only desirelessness, and the people too are desireless, and plain of themselves."* The collated silk text prints exactly that wanting: **我欲不欲而民自樸** (*wǒ yù bù yù ér mín zì pǔ* — "I want the not-wanting, and the people become plain of themselves"), the formula of chapter 64. **The sage's desirelessness is itself a want**, and the oldest witness and the oldest commentary on our base both say so.
 
 **At chapter 64 the commentators split on the formula.** Wang Bi reads it as the book's reflexive, X-ing the not-X, the shape of chapter 63's 為無為 (*wéi wú wéi* — "do the not-doing"), and adds 好欲雖㣲，争尚為之興, *"a fondness for wanting, however slight, gives rise to contention and esteem."* Heshang Gong reads a comparison: 聖人欲人所不欲。人欲彰顯，聖人欲伏光, *"the sage wants what people do not want. People want to stand out; the sage wants to hide their light."* The verse keeps the reflexive, Shalom's call, on the shape chapters 63 and 64 share.
 
@@ -147,7 +147,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 | line | grammar | English |
 |---|---|---|
-| 常無欲 · 常有欲 (1) · 無欲 (3, 34, 37, 57) | a state, no verb after | *ever desireless · ever desiring · desireless* |
+| 常無欲 · 常有欲 (1) · 無欲 (3, 34, 37) · 我無欲 (57) | a state, no verb after | *ever desireless · ever desiring · desireless* · *I do not desire*, in ch 57's refrain of *I do not …* (Shalom's call, 2026-11-19) |
 | 寡欲 (19) | a state | *diminish desire* |
 | 不欲以靜 (37) | a state, no verb after | *not desiring* |
 | 可欲 (3) | 可 + 欲, a fixed noun | *the desirable* — 可's flexion |

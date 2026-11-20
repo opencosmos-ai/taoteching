@@ -86,4 +86,4 @@ It fails at **chapter 38**, and the failure is structural rather than a matter o
 
 **治 (*zhì*) was locked on 2026-09-23** — *govern*, with a declared flexion to *order* at chapters 8 and 64 — so the pairing this entry rests on is now held at both ends. `zhi-治.md`. 說文 files 治 as **a river**, which is the other half of this entry's picture: 亂 is the tangle, 治 is what you do to a watercourse, and 王弼 says what that consists of at ch 60 — **不擾也**, *"it is not to disturb."*
 
-**正 (*zhèng* — upright) stays out of it.** *Order* is also worn by 正 at chapter 45 — 清靜為天下正, *"clear stillness brings order to the world"* — and 正 is one of the calls Shalom has deferred (`WORKLIST.md` T4-2, 正/奇). It is named here so that a reader who notices the third claimant knows it was seen and left alone.
+**正 (*zhèng* — straight) no longer claims *order*.** Chapter 45's 清靜為天下正 read *"clear stillness brings order to the world"* until 2026-11-19, when 正 took *straight* book-wide (Shalom's call, `glossary/zheng-qi-正奇.md`): *"Clear stillness sets the world straight."*

@@ -7,6 +7,8 @@ forbidden: ["chaos", "chaotic", "undifferentiated", "blend", "merge"]
 chapters: [14, 15, 25]
 status: locked
 pairing: false
+covers:
+  - { char: "渾", render: "mixed" }
 shuowen: "An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 refs_status: incomplete
 ---
@@ -30,7 +32,7 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 
 ### What the book does with it
 
-**Ch 14 — three become one.** 視之不見…聽之不聞…搏之不得…此三者不可致詰，故混而為一, *"Look, but you cannot see it… Listen, but you cannot hear it… Reach, but you cannot touch it… These three defy comprehension. Therefore, they mix into one."* 河上公 glosses the verb plainly: **混，合也**, *"混 means to join."* 王弼 (*Wáng Bì*) gives the reason they cannot be pulled apart: 無狀無象，無聲無響, *"no shape, no image, no sound, no echo."* What has no edges cannot be kept separate.
+**Ch 14 — three become one.** 視之不見…聽之不聞…搏之不得…此三者不可致詰，故混而為一, *"Look, but you cannot see it… Listen, but you cannot hear it… Reach, but you cannot touch it… Questioning these three never reaches the end. So they mix into one."* 河上公 glosses the verb plainly: **混，合也**, *"混 means to join."* 王弼 (*Wáng Bì*) gives the reason they cannot be pulled apart: 無狀無象，無聲無響, *"no shape, no image, no sound, no echo."* What has no edges cannot be kept separate.
 
 **Ch 15 — the last of seven likenesses.** The ancients were careful, hesitant, dignified, loosening, solid, open, and 混兮其若濁, *"Mixed, like muddy water."* 王弼 on all seven: 凡此諸若，皆言其容象不可得而形名也, *"every one of these 'like's says that their bearing cannot be given a shape or a name."* The likeness is the point: 若 (*ruò* — like) holds 混 and 濁 apart even as it sets them side by side. 河上公 reads 濁 as a manner, not a state of the water: 濁者不照然也，與衆合同，不自尊, *"濁 is not shining; joining with the crowd, being the same as them, not holding oneself high."*
 
@@ -45,6 +47,25 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 **The book praises both ends.** 混 is one of the seven likenesses for the ancients. And 河上公, glossing ch 25, the chapter of 混成, calls the same Tao clear: 道清淨不言, *"the Tao is clear and clean, and does not speak."* He holds it mixed and clear in one chapter.
 
 **Two chapters put them in sequence.** 混 is how the three become one (14: 混而為一), and the one is what makes the sky clear (39: 天得一以清, *"Sky received the one, and so became clear"*). A pattern across chapters is a reason to look, not a ruling (`process/principles/distribution-locates.md`), but it points the same way as ch 15: clear is what mixed becomes when it is left still, not what defeats it. See `glossary/qing-清.md`.
+
+### 渾 (hún — mixed)
+
+*Say "hoon," rising. Once in the received text, at chapter 49, and once more as Heshang Gong's spelling of chapter 15's 混.*
+
+> 渾，混流聲也。从水，軍聲。一曰洿下皃。
+> *"渾: the sound of a 混 (mixed) flow. From 水 (shuǐ — water), with 軍 (jūn) for the sound. One says: the look of low, standing water."* — Shuowen
+
+The dictionary defines 渾 by 混, and Heshang Gong's text writes 渾 where ours writes 混 at ch 15 (`sources/variants.yaml`). It is one word in two spellings, and it takes 混's English.
+
+> *In the world, the sage breathes gently;*
+> *for the sake of the world, they let their heart be mixed.*
+>
+> 聖人在天下，歙歙焉，
+> 為天下渾其心，
+>
+> — chapter 49
+
+**Wang Bi reads the mixing as the end of sorting:** 為天下渾心焉，意無所適莫也, *"for the world they mix their heart: their mind has nothing it favors or opposes."* The chapter has just counted the unmasterful as masterful and trusted the untrustworthy, and a mixed heart is how. Heshang Gong reads it darker, 渾濁其心，若愚闇不通也, *"muddies their heart, as if foolish and dim,"* through the compound 渾濁 (*hún zhuó* — "muddy"), and the Shuowen's second sense leans his way. **The verse does not print *muddy*, because *muddy* is 濁 (zhuó)'s word**, and ch 15 sets the two side by side: 混兮其若濁, *"Mixed, like muddy water."* The mixed thing there is *like* the muddy thing; it is not the same word (Shalom's call, 2026-11-19).
 
 ### What is set aside, and why
 
@@ -62,7 +83,7 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 
 | Chinese | English | form |
 |---|---|---|
-| 故混而為一 (14) | *Therefore, they mix into one* | verb |
+| 故混而為一 (14) | *So they mix into one* | verb |
 | 混兮其若濁 (15) | *Mixed, like muddy water* | adjective, one of seven single-word likenesses |
 | 有物混成 (25) | *Something mixed and complete* | adjective, paired with 成 (*chéng* — complete) |
 
@@ -71,7 +92,5 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 **"muddy" is ruled out for 混 and cannot go on its `forbidden:` list.** 濁 stands beside 混 in ch 15 and prints *muddy* there twice.
 
 ### Left open
-
-**渾 at ch 49.** 為天下渾其心 reads *"for the sake of the world, they let their heart go muddy."* 渾 is 混's own word, by 說文 and by 河上公's text of ch 15, but *muddy* is 濁's English. The chime with ch 15 is real in the Chinese, and it runs through 混, not through 濁. Whether ch 49 should carry *mix* rather than *muddy* is open (`WORKLIST.md` T2-63).
 
 **The emperor without openings.** The 莊子 (*Zhuāngzǐ*) tells of 渾沌 (*Hùndùn*), emperor of the center, who had none of the seven openings everyone has for seeing, hearing, eating and breathing. The emperors of the two seas, repaying his kindness, bored one a day, and on the seventh day he died. It is the most famous story about this word, and it says exactly what this book's three lines say: what is whole and mixed is not improved by being opened up. It is also a later book's story, and this edition does not read it into the verse.

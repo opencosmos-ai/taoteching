@@ -78,12 +78,12 @@ What is left is a better difficulty, and a real one. **The verb is a travelling 
 | 無極, the compound | 28 | the endless |
 | 知其極, the far point of a process | 58, 59 | where it ends |
 | 極 after a verb and its object | 16 | the terminal degree of the verb, not a noun |
-| 古之極, the far point of a practice | 68 | *(unsettled — see below)* |
+| 古之極, the far point of a practice | 68 | *the far end the ancients reached* (Shalom's call, 2026-11-19) |
 
 **The line-final position at chapter 16 is grammatical, not decorative.** 致虛極 and 守靜篤 (*shǒu jìng dǔ* — "hold to stillness, 篤") are the same three-beat shape twice: verb, object, terminal degree word. 篤 (*dǔ* — steady; 說文 馬行頓遟, *"a horse's gait, halting and slow"*) cannot be a noun head — nobody arrives at the thickness of stillness — so 極 in the matching slot is doing the same adverbial work. 王弼 confirms it from the other side by binding the two into a single compound across both lines: 言致虛，物之極篤 — *"reaching emptiness is things' 極篤"* — and again 是物之極篤也. He can only pair them if they are the same kind of word.
 
 ### Left open
 
-**Chapter 68's 古之極 is the one appearance this entry cannot place.** 是謂配天，古之極 — *"this is called being 配 (pèi — matched, as one of a pair) with 天 (tiān — sky), the 極 of the ancients."* It is not a process whose end is unknowable, and it is not adverbial. It reads as *the far point the ancients reached*, which is exactly the graph — but that line is already contested at 配天, and settling one half would settle both. *(See `tian-天.md`.)*
+*(Settled 2026-11-19, Shalom's call, with 配天 → *matched with the sky*: "This is called being matched with the sky, the far end the ancients reached.")* **Chapter 68's 古之極 was the one appearance this entry could not place.** 是謂配天，古之極 — *"this is called being 配 (pèi — matched, as one of a pair) with 天 (tiān — sky), the 極 of the ancients."* It is not a process whose end is unknowable, and it is not adverbial. It reads as *the far point the ancients reached*, which is exactly the graph — but that line is already contested at 配天, and settling one half would settle both. *(See `tian-天.md`.)*
 
 **And the book reaches a 極 exactly once.** Chapter 16 is the only imperative: go there. Everywhere else the word is denied — unknowable at 58 and at 59 twice, negated outright at 28. Four refusals and one instruction, and the instruction is the one addressed to a person rather than to a process. Whether that is the text distinguishing what a body can do from what a world does, or a word used loosely across a compiled book, the six lines do not say.

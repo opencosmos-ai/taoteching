@@ -182,15 +182,15 @@ asking you before anything is posted.
 
 If you want something more concrete:
 
-- **<!-- count: gloss:word -->508 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
+- **<!-- count: gloss:word -->498 characters carry only a short hand-written gloss** (`sources/word-glosses.yaml`),
   a reader's aid rather than a ruling. Checking one against its lines, or
   promoting it to a full glossary entry, is small, self-contained, and useful.
 - **<!-- count: dash-chapters -->9 chapters carry a dash in the verse**, each allowed only
   where its subject is named on both sides, since a dash can hide a missing subject
   (`python3 tools/check_locks.py --rule em-dash` lists them).
-- **One decision is deferred across the whole book** — 正 / 奇 (*zhèng / qí* —
-  straight / crooked). Two others, 民 / 人 (*mín / rén* — the people / a person)
-  and the dashes in the verse, were settled in October 2026.
+- **No decision is deferred across the whole book now.** 正 / 奇 (*zhèng / qí* —
+  straight / crooked) was settled on 2026-11-19; 民 / 人 (*mín / rén* — the people /
+  a person) and the dashes in the verse were settled in October 2026.
 
 [**CONTRIBUTING.md**](CONTRIBUTING.md) has the full map, including the part worth
 saying plainly here: **I make the final call on every line.** A pull request is a

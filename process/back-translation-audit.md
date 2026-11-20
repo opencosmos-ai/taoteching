@@ -62,14 +62,14 @@ The Chinese corrects itself twice. The English adds instead, and so says the gho
 
 > 不曰：求以得，有罪以免邪？ (*bù yuē: qiú yǐ dé, yǒu zuì yǐ miǎn xié?* — "is it not said: seeking, by it you find; having an offense, by it you are spared?")
 
-The English: *"Did they not say: seek, and you find; / commit a crime, and you are spared?"* There are two moves here, and they compound.
+The English *(was, until 2026-11-19)*: *"Did they not say: seek, and you find; / commit a crime, and you are spared?"* There are two moves here, and they compound.
 
 - **有罪 (*yǒu zuì* — "to have an offense against you") became *commit a crime*.** The chapter's source table, `notes/translation.md` → *Ch 62 · 奧* (*ào* — the inner corner) and `notes/reading.md` → *Ch 62* all read *"have a crime against you,"* and the *sanctuary* argument rests on that legal sense. Heshang Gong: 有罪謂遭亂世闇君妄行刑誅，修道則可以解死 (*yǒu zuì wèi zāo luàn shì àn jūn wàng xíng xíng zhū, xiū dào zé kě yǐ jiě sǐ* — "'having an offense' means meeting a chaotic age and a benighted ruler who punishes and executes at random; cultivating the Tao, one can be released from death").
 - **以 (*yǐ* — by it) is dropped from both halves.** Wang Bi makes it the hinge: 以求則得求，以免則得免 (*yǐ qiú zé dé qiú, yǐ miǎn zé dé miǎn* — "use it to seek and you get what you seek; use it to escape and you escape"). Without it, *seek, and you find* is an unconditional promise in the Gospel's cadence, and it fails the hymn test.
 
 Together, the two lines rebuild what `notes/translation.md` → *善 / 不善* (*shàn / bù shàn* — masterful / unmasterful) says this chapter was rendered to avoid: *"a doctrine of grace."*
 
-**Logged?** The legal reading is logged, and the verse contradicts it. Dropping 以 (*yǐ* — by it) is not discussed. **Proposed:** *"Did they not say: seek by it, and you find; / have a crime against you, and by it you are spared?"*
+**Logged?** The legal reading is logged, and the verse contradicts it. Dropping 以 (*yǐ* — by it) is not discussed. **Proposed:** *"Did they not say: seek by it, and you find; / have a crime against you, and by it you are spared?"* **Done, 2026-11-19 (Shalom's call),** in two halves: *seek, and you find* is kept, its echo of Matthew recorded as a known cost (`chapters/062.md`), and the second half reads *"have a crime held against you, and you are spared?"*, so 以 goes unrendered in both. *Have a crime against you* was set aside because English hears it as being a crime's victim (`glossary/huo-fu-禍福.md` → *罪*).
 
 **3 · Ch 53 · 唯施是畏 (*wéi shī shì wèi* — "only acting is what I would fear") → *"my only fear would be to stray from it."***
 
@@ -79,7 +79,7 @@ Both commentators read 施 (*shī*) as *acting*, and the line as a fear of actio
 
 The English takes the reading of 施 (*shī* — to act) as a loan for 迤 (*yǐ* — to veer). That is a respectable philological reading, and the next line's 徑 (*jìng* — byways) supports it. But it is a choice against every commentary in the repository, and nothing records it. A second choice rides in the same line: 介然 (*jiè rán* — slightly / firmly), which Heshang Gong glosses 介，大也 (*jiè, dà yě* — "*jiè* means great"), and which the English renders as *"just a scrap,"* the opposite pole, without a note.
 
-**Logged?** No. **Proposed:** keep *stray* and log the 迤 (*yǐ* — to veer) reading, with 徑 (*jìng* — byways) as its evidence and both commentators against it. Or follow them: *"my only fear would be to act."* I'd keep *stray*: the byways in the next line make the road image the chapter's own. But the choice has to be written down.
+**Logged?** No. **Proposed:** keep *stray* and log the 迤 (*yǐ* — to veer) reading, with 徑 (*jìng* — byways) as its evidence and both commentators against it. Or follow them: *"my only fear would be to act."* I'd keep *stray*: the byways in the next line make the road image the chapter's own. But the choice has to be written down. **Done 2026-11-19 (Shalom's call):** *stray* and *just a scrap* kept, both choices recorded in `chapters/053.md`.
 
 **4 · Ch 30 · 其事好還 (*qí shì hào huán* — "their affairs tend to turn back") → *"Such undertakings tend to come back on you."***
 
@@ -89,7 +89,7 @@ The English takes the recoil reading, that war rebounds on whoever wages it, the
 
 *Such undertakings* and *on you* are both supplied, and together they close the line onto one reading. `glossary/shi-事.md` and `notes/reading.md` → *Ch 30's 還* (*huán* — to turn back) assume recoil without mentioning that both commentators read it the other way.
 
-**Logged?** Assumed, not argued. **Proposed:** *"Such affairs tend to turn back."* This keeps the bare figure, which holds the recoil and the commentators' turning-back both, and is the honesty-over-closure move the ethos asks for. Log the split either way.
+**Logged?** Assumed, not argued. **Proposed:** *"Such affairs tend to turn back."* This keeps the bare figure, which holds the recoil and the commentators' turning-back both, and is the honesty-over-closure move the ethos asks for. Log the split either way. **Done 2026-11-19 (Shalom's call).**
 
 **5 · Ch 13 · 貴大患若身 (*guì dà huàn ruò shēn* — "great trouble is prized like the body") → *"Prize great trouble as your own body."***
 
@@ -97,7 +97,7 @@ A description became a command. The chapter quotes a saying, *favor and disgrace
 - Wang Bi: 人迷之於榮寵，返之於身，故曰大患若身也 (*rén mí zhī yú róng chǒng, fǎn zhī yú shēn, gù yuē dà huàn ruò shēn yě* — "people are deluded by glory and favor, and it rebounds onto the body; so it says 'great trouble as the body'")
 - Heshang Gong: 貴，畏也；若，至也。畏大患至身，故皆驚 (*guì, wèi yě; ruò, zhì yě. wèi dà huàn zhì shēn, gù jiē jīng* — "*guì* means to fear, *ruò* means to arrive: fearing great trouble reaching the body, so all are alarmed")
 
-**Logged?** No; the chapter's notes settle 貴 (*guì* — to prize) and say nothing of mood. **Proposed:** *"Great trouble is prized like one's own body."* The *"What does it mean…?"* that follows then asks about a saying, as the Chinese does.
+**Logged?** No; the chapter's notes settle 貴 (*guì* — to prize) and say nothing of mood. **Proposed:** *"Great trouble is prized like one's own body."* The *"What does it mean…?"* that follows then asks about a saying, as the Chinese does. **Done, 2026-11-19 (Shalom's call).**
 
 **6 · Ch 13 · the closing couplet settles a divided reading, and the note cites the evidence one-sidedly.**
 
@@ -110,7 +110,7 @@ Heshang Gong reads the two lines as opposites:
 
 Wang Bi reads both as praise, and swaps the two verbs. The English renders both lines as one positive claim with one verb, *trusted with*. The note logs that merger on Wang Bi's authority, cites Heshang Gong's second gloss in support, and does not mention his first.
 
-**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available.
+**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available. **Note corrected 2026-11-19** (`chapters/013.md`); the verse keeps *trusted with* twice (Shalom's call, 2026-11-19).
 
 **7 · Ch 22 · 枉則直 (*wǎng zé zhí* — "bent, then straight") → *"Be wronged, and be made straight."***
 
@@ -120,7 +120,7 @@ The doer changed. *Wronged* gives 枉 (*wǎng* — bent, crooked) the legal sens
 
 The chapter's own notes map this line to 不自是，故彰 (*bù zì shì, gù zhāng* — "they do not insist they are right, and so their rightness shows"), and the English then breaks that mapping.
 
-**Logged?** No. **Proposed:** *"Be bent, and grow straight."* This restores the physical image the series runs on (bend, hollow, worn) and the 不自是 (*bù zì shì* — "not insisting they are right") echo.
+**Logged?** No. **Proposed:** *"Be bent, and grow straight."* This restores the physical image the series runs on (bend, hollow, worn) and the 不自是 (*bù zì shì* — "not insisting they are right") echo. **Done, 2026-11-19 (Shalom's call),** as *"Be warped, and grow straight"*: *bent* is 曲's English one clause earlier.
 
 **8 · Ch 57 · the opening three become three commands joined by *and*, so the English endorses all three.**
 
@@ -139,6 +139,8 @@ The English makes the people the culprits; the Chinese makes them the casualties
 **Logged?** Not as a choice. **The form audit already proposes** *"the people are wanting"* (T2-67, for the doubled characters). This comparison confirms the content cost from both commentators, so that proposal is worth taking for two reasons, not one.
 
 #### Minor
+
+*Worked through from 2026-11-19 (Shalom's calls); each chapter's Notes carries its line, and `WORKLIST.md` R6 lists what remains.*
 
 Each is real and none changes a chapter. Each is worth carrying into the next push that opens its chapter. **Logged** means the choice is recorded and the cold reader's response is evidence about its cost.
 
@@ -161,7 +163,7 @@ Each is real and none changes a chapter. Each is worth carrying into the next pu
 | 34 · 63 | 故能成其大 (*gù néng chéng qí dà* — "so can complete its greatness") → *"and so completes"* | a result | 能 (*néng* — can), a capacity, as at ch 7 and 77 in the accuracy audit. One formula, so fix all together |
 | 37 | 化而欲作 (*huà ér yù zuò* — "as they transform, desire stirs") → *"When the countless things urge action"* | the things pressing the ruler | desire stirring inside things as they change (Wang Bi: 作，欲成也 (*zuò, yù chéng yě* — "*zuò* is desire coming to fruition")). Ride with T3-8 |
 | 42 | 人之所教，我亦教之 (*rén zhī suǒ jiào, wǒ yì jiào zhī* — "what others teach, I also teach") with a colon after | the strong-die line is what *others* teach | Heshang Gong: I teach the opposite. `glossary/qiang-強.md` quotes him under this English without noticing. A full stop for the colon |
-| 48 | *"The world always comes to you by not meddling with it"* | the world does not meddle | the rendering is logged; the dangling modifier is not. *"When you do not meddle, the world always comes to you"* |
+| 48 | *"The world always comes to you by not meddling with it"* | the world does not meddle | the rendering is logged; the dangling modifier is not. *"When you do not meddle, the world always comes to you"* *(Done 2026-11-19 another way: "Win over the world by never meddling with it," Shalom's call.)* |
 | 50 | 入軍不被甲兵 (*rù jūn bù pèi jiǎ bīng* — "enters an army and is not reached by / does not wear armor") → *"can enter into battle untouched"* | invulnerability, and *can* | Han Fei quotes 不備甲兵 (*bù bèi jiǎ bīng* — "without armor or weapons"): unarmed, not invulnerable. Record the fork; *can* is added twice |
 | 54 | 善建者不拔 (*shàn jiàn zhě bù bá* — "one masterful at planting is not uprooted") → *"What is masterfully planted"* | a thing | Heshang Gong and Han Fei read a person, and `glossary/shan-善.md` lists ch 54 under *masterful at*. The adverb departs from the lock |
 | 61 | 夫兩者各得所欲 (*fū liǎng zhě gè dé suǒ yù* — "for the two each to get what they want") → *"Both get what they want."* | a fact, then an unconnected *ought* | Wang Bi: 各得其所欲則大者宜為下 (*gè dé qí suǒ yù zé dà zhě yí wéi xià* — "if each is to get what it wants, then the large one ought to be underneath"). *"For both to get what they want"* |
@@ -193,7 +195,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 #### Two stray things a reader found
 
-- **Ch 53's verse prints *"It is not the Tao\!"*** with a Markdown escape, the only `\!` in any verse. It renders correctly on GitHub, but the escape reaches `data/` raw. A one-character fix, outside this audit.
+- **Ch 53's verse prints *"It is not the Tao\!"*** with a Markdown escape, the only `\!` in any verse. It renders correctly on GitHub, but the escape reaches `data/` raw. A one-character fix, outside this audit. **Fixed 2026-11-19.**
 - **Readers' notes are in the comparers' reports**, under *Readers' errors*. None of them voided a finding listed here.
 
 ---
@@ -202,7 +204,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 **Ch 60 first.** It is the only finding where the English says something the Chinese contradicts, and the fix keeps the form. One chapter, no lock touched.
 
-**Ch 62 next**, because the verse disagrees with its own notes. Bringing it back is a correction, not a new call. Register the withdrawn wording in `process/retractions.yaml` when it lands.
+**Ch 62 next**, because the verse disagrees with its own notes. Bringing it back is a correction, not a new call. Register the withdrawn wording in `process/retractions.yaml` when it lands. *(Done 2026-11-19: `ch62-commit-a-crime`.)*
 
 **Ch 53 and 30 are records owed before they are rewrites.** Each takes a reading against both commentators, and each may be right. Write down the choice and its evidence, then decide whether the line moves.
 

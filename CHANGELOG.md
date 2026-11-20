@@ -31,6 +31,17 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked
+
+A day of Shalom's calls, brought one at a time with each stanza in place. Every form-audit loss and every accuracy-audit finding is now settled, and the only call he had deferred is decided. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); the closed rows are in [`WORKLIST-CLOSED.md`](WORKLIST-CLOSED.md).
+
+- **Three entries locked.** [`glossary/huo-fu-禍福.md`](glossary/huo-fu-禍福.md): 禍 / 福 *disaster / fortune*, 罪 *crime* covered. [`glossary/xiong-ji-凶吉.md`](glossary/xiong-ji-凶吉.md): 凶 / 吉 *ominous / auspicious*, as the I Ching renders them, binding the Tao Te Ching only. [`glossary/zheng-qi-正奇.md`](glossary/zheng-qi-正奇.md): 正 *straight*, 奇 *crooked*, with 直 *true* and 屈 *bent* covered, so chapter 58 audibly undoes chapter 57. *Disaster* is now 禍's alone, and enforced.
+- **The deferred call, 正 / 奇 (T4-2), decided.** `CLAUDE.md` now carries only the standing rule for deferred calls, not the item.
+- **The form audit (R4) and the accuracy audit (R5) are done.** Every Tier 3 loss closed (chains, series, formulas, the 故 / 是以 joints held apart as *So* / *Therefore*), and every accuracy finding changed, kept with its reason, or found settled. The back-translation audit (R6) owes only the rest of its minor table.
+- **Lines changed across most of the book**, each a call: among them ch 55's 朘 rendered, the newborn a boy from line 1, under standing rule 1's fourth part; ch 62's *"have a crime held against you"*; ch 48 and 57's *"win over the world"*; ch 69's *host / guest*; 為而不恃 *"without relying on it"* in four chapters; 生 *births*; 利器 *beneficial tools*; 門 *gates*.
+- **Records corrected.** A Heshang Gong reading at ch 77 recorded as fork 127, and the chapter note that denied it registered in [`process/retractions.yaml`](process/retractions.yaml), with ch 62's *commit a crime*. The ch 67 variant row restored to `our_call: base`.
+- **Harness.** The glossary-entry skill's finish list runs `build_sources.py --check`. The corpus pronoun test honors a recorded `lock-ok` waiver and pins the one exception to ch 55. Baselines: variant 126 → 127, verse_line 858 → 859.
+
 ## 2026-11-18 — One record of sources
 
 The [source catalogue](sources/SOURCES.md) now brings together the printings, stored sources, and recorded evidence. Individual variant readings carry their own glosses and print-check provenance. Glossary citations carry their own locators and indicate incomplete recovery. The export carries the same information for the Library and Character Atlas, including the extent of each Guodian attestation. See the [export contract](ARCHITECTURE.md#source-registry-contract).

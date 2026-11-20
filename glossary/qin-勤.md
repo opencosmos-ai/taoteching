@@ -39,7 +39,7 @@ refs_status: incomplete
 >
 > — chapter 6
 
-> *Block the openings, close the doors, and to the end of your days you will not strain.*
+> *Block the openings, close the gates, and to the end of your days you will not strain.*
 >
 > 塞其兌，閉其門，終身不勤。
 >
