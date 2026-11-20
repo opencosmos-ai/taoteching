@@ -40,9 +40,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,3,有,yǒu,無 & 有,presence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,無,wú,無 & 有,absence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,生,shēng,生,give birth to / bear / bring forth,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
-2,5,前,qián,先 & 後,front,yes,1.0,authored,"Sound and tone harmonize each other, Front and back follow each other."
-2,5,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,"Sound and tone harmonize each other, Front and back follow each other."
-2,5,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Sound and tone harmonize each other, Front and back follow each other."
+2,5,前,qián,先 & 後,front,yes,1.0,authored,"Music and sound harmonize each other, Front and back follow each other."
+2,5,和,hé,和,harmony (noun) · harmonize (verb),NOT FOUND,1.0,authored,"Music and sound harmonize each other, Front and back follow each other."
+2,5,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Music and sound harmonize each other, Front and back follow each other."
 2,6,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,Therefore the sage dwells in the work of non-doing
 2,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Therefore the sage dwells in the work of non-doing
@@ -388,7 +388,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
 19,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"These three, taken as cultural form, are not enough."
 19,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,So give them something to belong to:
-19,6,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"see the undyed silk, embrace the uncarved wood,"
+19,6,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"show the undyed silk, embrace the uncarved wood,"
 19,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"diminish the self, diminish desire."
 19,7,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,"diminish the self, diminish desire."
 20,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Cut off learning and there is no worry.
@@ -646,8 +646,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 30,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
 30,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
 30,7,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
-30,11,得,dé,得 & 失,get,yes,1.0,authored,They succeed because their actions are unavoidable. They succeed without forcing.
-30,12,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,They succeed because their actions are unavoidable. They succeed without forcing.
+30,11,得,dé,得 & 失,get,NOT FOUND,1.0,authored,They succeed only where it cannot be avoided. They succeed without forcing.
+30,12,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,They succeed only where it cannot be avoided. They succeed without forcing.
 30,13,物,Wù,萬物,things / something,yes,1.0,authored,"When things reach their prime, they decay."
 30,14,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,This is called not-Tao. Not-Tao comes to an early end.
 30,15,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,This is called not-Tao. Not-Tao comes to an early end.
@@ -691,8 +691,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,6,名,míng,名,name,yes,1.0,authored,"When the carving begins, there are names."
 32,6,始,Shǐ,母,beginning,NOT FOUND,1.0,authored,"When the carving begins, there are names."
 32,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"When the carving begins, there are names."
-32,7,名,Míng,名,name,yes,1.0,authored,"Since names already exist, one must know when to stop."
-32,7,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Since names already exist, one must know when to stop."
+32,7,名,Míng,名,name,yes,1.0,authored,"Since names already exist, they too will know when to stop."
+32,7,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Since names already exist, they too will know when to stop."
 32,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Knowing when to stop, you come to no danger."
 32,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The Tao in the world is like small valleys to the river and the sea.
 32,9,道,dào,道,the Tao / way,yes,1.0,authored,The Tao in the world is like small valleys to the river and the sea.

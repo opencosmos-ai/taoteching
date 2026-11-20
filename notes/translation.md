@@ -2093,6 +2093,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 2, 19, 30, 32 · R6's minor table, four more
+
+*(2026-11-19, Shalom's calls.)* Ch 2 *"Music and sound"* (the Shuowen's 音 / 聲 split); ch 19 *"show the undyed silk"* (Heshang Gong's *xiàn*); ch 30 *"only where it cannot be avoided"* (a restriction, not a cause; 勿's prohibition reading recorded); ch 32 *"they too will know when to stop"* (ch 37's 夫亦將).
+
 ### Ch 3, 14, 28, 34, 63 · R6's minor table, first five
 
 *(2026-11-19, Shalom's calls.)* Ch 3's three 使 lines in the passive, the dangling modifier gone; ch 14 *"Questioning these three never reaches the end"*; ch 28's three returns as outcomes, *and you return to …*; chs 34 and 63 *"and so … greatness can be completed,"* 能 restored.

@@ -12,7 +12,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,2,1,皆知善之為善，斯不善已。,"Jiē zhī shàn zhī wéi shàn, sī bù shàn yǐ.","When all know good as good, evil arises.","When the world knows good as good, the not-good arises.",authored
 2,3,1,故有無相生，難易相成，,"Gù yǒu wú xiāng shēng, nán yì xiāng chéng,",Existence and non-existence produce each other; difficulty and ease complete each other;,"So presence and absence give birth to each other, / Difficult and easy complete each other,",authored
 2,4,1,長短相形，高下相盈，,"cháng duǎn xiāng xíng, gāo xià xiāng yíng,",long and short contrast each other; high and low incline toward each other;,"Long and short shape each other, / High and low fill each other,",authored
-2,5,1,音聲相和，前後相隨。,"yīn shēng xiāng hé, qián hòu xiāng suí.",sound and silence harmonize each other; front and back follow each other.,"Sound and tone harmonize each other, / Front and back follow each other.",authored
+2,5,1,音聲相和，前後相隨。,"yīn shēng xiāng hé, qián hòu xiāng suí.",sound and silence harmonize each other; front and back follow each other.,"Music and sound harmonize each other, / Front and back follow each other.",authored
 2,6,2,是以聖人處無為之事，,"Shì yǐ shèng rén chǔ wú wéi zhī shì,",Therefore the Sage acts through non-action,Therefore the sage dwells in the work of non-doing,authored
 2,7,2,行不言之教。,xíng bù yán zhī jiào.,and teaches through non-speech.,and carries out the unspoken teaching.,authored
 2,8,2,萬物作而弗始，,"Wàn wù zuò ér fú shǐ,",The ten thousand things arise and the Sage does not initiate;,"The countless things arise, and the sage does not begin them.",authored
@@ -205,7 +205,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 19,3,1,絕巧棄利，盜賊無有。,"Jué qiǎo qì lì, dào zéi wú yǒu.","Sever \[jue\] skill/cunning \[qiao\], abandon \[qi\] profit/gain \[li\], thieves \[dao\] and robbers \[zei\] will not exist \[wu you\].","Cut off skill, abandon profit, and there are no thieves.",exact-count
 19,4,2,此三者以為文不足，,"Cǐ sān zhě yǐ wéi wén bù zú,","These \[ci\] three \[san\] things \[zhe\] used as \[yi wei\] culture/adornment \[wen\] are not \[bu\] sufficient \[zu\],","These three, taken as cultural form, are not enough.",exact-count
 19,5,2,故令有所屬：,Gù lìng yǒu suǒ shǔ:,Therefore \[gu\] cause/make \[ling\] them have \[you\] a place to belong/attach \[suo shu\]:,So give them something to belong to:,exact-count
-19,6,2,見素抱樸，,"Jiàn sù bào pǔ,","Look at/display \[jian\] plainness/raw silk \[su\], embrace \[bao\] the uncarved wood \[pu\],","see the undyed silk, embrace the uncarved wood,",exact-count
+19,6,2,見素抱樸，,"Jiàn sù bào pǔ,","Look at/display \[jian\] plainness/raw silk \[su\], embrace \[bao\] the uncarved wood \[pu\],","show the undyed silk, embrace the uncarved wood,",exact-count
 19,7,2,少私寡欲。,Shǎo sī guǎ yù.,"Lessen/reduce \[shao\] selfishness/private interest \[si\], diminish \[gua\] desires \[yu\].","diminish the self, diminish desire.",exact-count
 20,1,1,絕學無憂。,Jué xué wú yōu.,"Sever/cut off \[jue\] study/learning \[xue\], have no \[wu\] sorrow/worries \[you\].",Cut off learning and there is no worry.,authored
 20,2,1,唯之與阿，相去幾何？,"Wéi zhī yǔ ē, xiāng qù jǐ hé?","Agreement/yes \[wei\] and \[yu\] flattery/yeah \[e\], how much \[ji he\] is the distance/difference \[xiang qu\]?","Between a respectful yes and a careless yeah, / how much distance?",authored
@@ -371,8 +371,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 30,8,2,果而勿矜，,"Guǒ ér wù jīn,","Achieve the result \[guo\] but \[er\] do not \[wu\] boast \[jin\],","They succeed without boasting, succeed without bragging, succeed without arrogance.",authored
 30,9,2,果而勿伐，,"guǒ ér wù fá,","achieve the result \[guo\] but \[er\] do not \[wu\] brag/attack \[fa\],","They succeed without boasting, succeed without bragging, succeed without arrogance.",authored
 30,10,2,果而勿驕。,guǒ ér wù jiāo.,achieve the result \[guo\] but \[er\] do not \[wu\] be arrogant \[jiao\].,"They succeed without boasting, succeed without bragging, succeed without arrogance.",authored
-30,11,2,果而不得已，,"Guǒ ér bù dé yǐ,","Achieve the result \[guo\] but \[er\] only when unavoidable/had no choice \[bu de yi\],",They succeed because their actions are unavoidable. They succeed without forcing.,authored
-30,12,2,果而勿強。,guǒ ér wù qiáng.,achieve the result \[guo\] but \[er\] do not \[wu\] force/dominate \[qiang\].,They succeed because their actions are unavoidable. They succeed without forcing.,authored
+30,11,2,果而不得已，,"Guǒ ér bù dé yǐ,","Achieve the result \[guo\] but \[er\] only when unavoidable/had no choice \[bu de yi\],",They succeed only where it cannot be avoided. They succeed without forcing.,authored
+30,12,2,果而勿強。,guǒ ér wù qiáng.,achieve the result \[guo\] but \[er\] do not \[wu\] force/dominate \[qiang\].,They succeed only where it cannot be avoided. They succeed without forcing.,authored
 30,13,3,物壯則老，,"Wù zhuàng zé lǎo,","Physical entities/matter \[wu\] reaching peak strength \[zhuang\] then/thus \[ze\] age/decay \[lao\],","When things reach their prime, they decay.",authored
 30,14,3,是謂不道，,"shì wèi bù dào,","this \[shi\] is called \[wei\] not-Tao \[bu dao\],",This is called not-Tao. Not-Tao comes to an early end.,authored
 30,15,3,不道早已。,bù dào zǎo yǐ.,not-Tao \[bu dao\] ends/ceases \[yi\] early \[zao\].,This is called not-Tao. Not-Tao comes to an early end.,authored
@@ -400,7 +400,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 32,4,1,天地相合，以降甘露，,"Tiān dì xiāng hé, yǐ jiàng gān lù,","Heaven and Earth \[tian di\] unite \[xiang he\] to send down \[yi jiang\] sweet dew \[gan lu\],",Sky and earth join together to send down sweet dew.,authored
 32,5,1,民莫之令而自均。,Mín mò zhī lìng ér zì jūn.,"The people \[min\], without anyone ordering/commanding \[mo zhi ling\] them, naturally \[zi\] equalize/harmonize \[jun\].","No one commands the people, and they even out of themselves.",authored
 32,6,2,始制有名，,"Shǐ zhì yǒu míng,","Once cutting/instituting begins \[shi zhi\], there are names \[you ming\].","When the carving begins, there are names.",authored
-32,7,2,名亦既有，夫亦將知止，,"Míng yì jì yǒu, fú yì jiāng zhī zhǐ,","Since names \[ming\] already exist \[ji you\], one must \[fu yi jiang\] know when to stop \[zhi zhi\],","Since names already exist, one must know when to stop.",authored
+32,7,2,名亦既有，夫亦將知止，,"Míng yì jì yǒu, fú yì jiāng zhī zhǐ,","Since names \[ming\] already exist \[ji you\], one must \[fu yi jiang\] know when to stop \[zhi zhi\],","Since names already exist, they too will know when to stop.",authored
 32,8,2,知止可以不殆。,Zhī zhǐ kě yǐ bù dài.,"Knowing when to stop \[zhi zhi\], one can avoid \[ke yi bu\] danger/exhaustion \[dai\].","Knowing when to stop, you come to no danger.",authored
 32,9,3,譬道之在天下，,"Pì dào zhī zài tiān xià,","To compare \[pi\] the Tao \[dao\] in the world \[zai tian xia\],",The Tao in the world is like small valleys to the river and the sea.,authored
 32,10,3,猶川谷之於江海。,Yóu chuān gǔ zhī yú jiāng hǎi.,It is like \[you\] streams and valleys \[chuan gu\] flowing to \[zhi yu\] rivers and seas \[jiang hai\].,The Tao in the world is like small valleys to the river and the sea.,authored
