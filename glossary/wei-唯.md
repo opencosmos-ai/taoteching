@@ -54,7 +54,7 @@ Nine lines run one frame. 夫 (*fú*) opens a statement and has no English of it
 | 2 | 弗居 (*fú jū* — does not stay) | 是以不去 (*therefore it does not leave*) |
 | 8 | 不爭 (*bù zhēng* — does not contend) | 故無尤 (*therefore no blame*) |
 | 15 | 不可識 (*bù kě shí* — could not be read) | 故強為之容 (*therefore I force a likeness*) |
-| 15 | 不盈 (*bù yíng* — not full) | 故能蔽不新成 (*therefore they can stay covered, not newly made*) |
+| 15 | 不盈 (*bù yíng* — not full) | 故能蔽不新成 (*therefore they can stay covered, never newly completed*) |
 | 22 | 不爭 (*does not contend*) | 故天下莫能與之爭 (*therefore no one in the world can contend with them*) |
 | 67 | 大 (*dà* — great) | 故似不肖 (*therefore it looks like nothing*) |
 | 70 | 無知 (*wú zhī* — no knowing) | 是以不我知 (*therefore they do not know me*) |

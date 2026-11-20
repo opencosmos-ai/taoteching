@@ -58,7 +58,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,9,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The sage births them, and does not possess them;"
 2,10,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acts, and does not rely on it."
 2,10,為,wéi,為,do / handle / serve as,yes,1.0,authored,"acts, and does not rely on it."
-2,11,成,chéng,成,complete,yes,1.0,authored,"The work is done, and the sage does not stay in it."
+2,11,成,chéng,成,complete,yes,1.0,authored,"The work is complete, and the sage does not stay in it."
 2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not leave.
 3,1,民,mín,民,the people,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
@@ -326,8 +326,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,15,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,15,道,dào,道,the Tao / way,yes,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,16,唯,wéi,唯,only,yes,1.0,exact-count,Only because they are never full
-15,17,成,chéng,成,complete,yes,1.0,exact-count,"can they stay covered, and never newly made."
-15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly made."
+15,17,成,chéng,成,complete,yes,1.0,exact-count,"can they stay covered, and never newly completed."
+15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly completed."
 16,1,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,authored,Go totally empty.
 16,1,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,Go totally empty.
 16,2,守,Shǒu,守,hold to,NOT FOUND,1.0,authored,Hold steadily to stillness.
@@ -369,8 +369,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 17,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Where trust runs short, there is no trust."
 17,6,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
 17,6,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
-17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When their work is done,"
-17,7,成,chéng,成,complete,yes,1.0,exact-count,"When their work is done,"
+17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,exact-count,"When the work is complete and the affairs are done,"
+17,7,成,chéng,成,complete,yes,1.0,exact-count,"When the work is complete and the affairs are done,"
 17,8,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"Everyone says, “We did this by ourselves.”"
 18,1,仁,rén,仁,humaneness,yes,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
@@ -737,9 +737,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
-34,3,名,míng,名,name,yes,1.0,exact-count,"The work is done, and it does not name it its own."
-34,3,成,chéng,成,complete,yes,1.0,exact-count,"The work is done, and it does not name it its own."
-34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is done, and it does not name it its own."
+34,3,名,míng,名,name,yes,1.0,exact-count,"The work is complete, and it does not name it its own."
+34,3,成,chéng,成,complete,yes,1.0,exact-count,"The work is complete, and it does not name it its own."
+34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is complete, and it does not name it its own."
 34,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
 34,4,物,wù,萬物,things / something,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
 34,4,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
@@ -1681,11 +1681,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,6,能,néng,可,be able,NOT FOUND,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,6,道,dào,道,the Tao / way,yes,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
-77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
+77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,柔,róu,柔,soft,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"

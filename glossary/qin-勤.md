@@ -95,7 +95,7 @@ So the book holds both. The best student labors at the Tao. The Tao itself, used
 
 **"heavy labor," "labored."** Two words for one character, and *heavy labor* is a sentence handed down by a court. *Labored* is good English for a breath, and it is an adjective, which ch 41's verb cannot take.
 
-**"work hard."** Both words are spoken for. *Work* is 功 (*gōng* — work done) in seven lines, *"the work is done, and the sage does not stay in it"* (2, 77), so the best students would be doing what the sage lets go of. *Hard* is the *hard and strong* that ch 76 calls the followers of death, and 難 (*nán* — difficult) in *hard to govern* (65, 75).
+**"work hard."** Both words are spoken for. *Work* is 功 (*gōng* — work done) in seven lines, *"the work is complete, and the sage does not stay in it"* (2, 77), so the best students would be doing what the sage lets go of. *Hard* is the *hard and strong* that ch 76 calls the followers of death, and 難 (*nán* — difficult) in *hard to govern* (65, 75).
 
 ### Working register
 

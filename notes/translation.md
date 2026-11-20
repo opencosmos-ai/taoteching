@@ -3456,11 +3456,11 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 *(Shalom's calls, 2026-11-20. Argument in `glossary/cheng-成.md`.)*
 
-**Seventeen lines had six Englishes**: *complete*, *done*, *fulfill*, *made*, *accomplishes*, *become*. *Complete* is the lock; 功成 keeps *the work is done* (2, 17, 34, 77) and 不新成 *never newly made* (15), both declared flexions.
+**Seventeen lines had six Englishes**: *complete*, *done*, *fulfill*, *made*, *accomplishes*, *become*. *Complete* is the lock, in every line. The entry first kept two exceptions, *the work is done* for 功成 and *never newly made* at 15; Shalom asked why, and neither held. *Complete* marks the work's end as plainly as *done*, and 15's *made* had been kept on an argument against splitting 不新成, never against *completed*. **→ 功成 *the work is complete* (2, 34, 77); ch 17 *"When the work is complete and the affairs are done,"*** restoring 事遂 (*shì suì*), which had dropped out, with 遂 (*suì* — carried through) taking *done* as at ch 9's 功遂; **ch 15 *"never newly completed."*** One English lets 15, 41, 45 and 64 be heard as one refusal of completion.
 
 **Ch 67's 成器長 → *"become chief of the completed vessels"*** (was *chief of the vessels*, with 成 read as *become*). Han Fei prints 為 (*wéi* — become), 故能為成事長, which puts 成 inside the noun phrase; Wang Bi (立成器) and Heshang Gong (成器長謂得道人也) read it there too. *Become* is supplied, Han Fei's 為. Recorded as fork 128.
 
 **Ch 7's 故能成其私 → *"And so they can complete their private self"*** (was *fulfill*, set 2026-11-19). The new evidence was this entry: the frame 故能成其X stands at 7, 34 and 63, and the verb is now one word in all three (Shalom's call). The frame's voice, active at 7 and passive at 34 and 63, is left open.
 
-**Left open**: ch 17's 功成事遂 renders only *"When their work is done"*, and 遂 (*suì* — carried through) shares *done* at ch 9; ch 47's *accomplishes*.
+**Left open**: ch 47's *accomplishes*.
 

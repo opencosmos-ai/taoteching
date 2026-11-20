@@ -209,9 +209,6 @@
   chapters: [2, 7, 15, 17, 25, 34, 41, 45, 47, 51, 63, 64, 67, 77]
   status: locked
   entry: glossary/cheng-成.md
-  flexions:
-    - { english: "done", chapters: [2, 17, 34, 77], why: "the formula 功成, the work is done, read the same in all four; Heshang Gong glosses it 事就, affairs arrived at" }
-    - { english: "made", chapters: [15], why: "不新成, never newly made: the full vessel's chain, argued in chapters/015.md" }
 
 - term: "民"
   pinyin: "mín"

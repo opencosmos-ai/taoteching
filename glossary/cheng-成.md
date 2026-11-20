@@ -2,9 +2,6 @@
 term: "成"
 pinyin: "chéng"
 render: "complete"
-flexions:
-  - { english: "done", chapters: [2, 17, 34, 77], why: "the formula 功成, the work is done, read the same in all four; Heshang Gong glosses it 事就, affairs arrived at" }
-  - { english: "made", chapters: [15], why: "不新成, never newly made: the full vessel's chain, argued in chapters/015.md" }
 forbidden: ["compile", "perfect", "perfection"]
 chapters: [2, 7, 15, 17, 25, 34, 41, 45, 47, 51, 63, 64, 67, 77]
 status: locked
@@ -31,9 +28,9 @@ refs:
 
 ## 成 (Chéng) — Complete
 
-*Say "chung," rising. Seventeen lines across fourteen chapters. The word for a thing brought to its end, and in this book completion is almost never something done to a thing. It is what happens to it.*
+*Say "chung," rising. Seventeen lines across fourteen chapters, and one English in all of them. The word for a thing brought to its end, and in this book completion is almost never something done to a thing. It is what happens to it.*
 
-**Locked: 成 → "complete."** *(Shalom's calls, 2026-11-20.)* **Two declared flexions:** *done* in the formula 功成 (*gōng chéng* — "the work is done") at 2, 17, 34 and 77, and *made* in chapter 15's 新成 (*xīn chéng* — "newly made"). *(Not "compiled," which makes the cosmos a program and slips a programmer in behind it. Not "perfect," which makes completion a Platonic ideal the book does not hold. Not "become," which is a verb English needs, not 成's word.)*
+**Locked: 成 → "complete," in every line, with no exceptions.** *(Shalom's calls, 2026-11-20.)* *(Not "compiled," which makes the cosmos a program and slips a programmer in behind it. Not "perfect," which makes completion a Platonic ideal the book does not hold. Not "become," which is a verb English needs, not 成's word.)*
 
 ### The graph: an axe and a wall
 
@@ -92,29 +89,39 @@ refs:
 
 **Wang Bi says outright that this completing is not a craft.** On chapter 41: 成之不如機匠之裁，無物而不濟其形，故曰善成 — *"its completing is not like the cutting of a skilled craftsman; there is nothing whose form it does not carry through, and so it says 'masterful at completing.'"* The craftsman cuts, which is 割 (*gē* — to sever)'s work and the carving that makes vessels out of uncarved wood (`glossary/pu-樸.md`). The Tao completes without cutting. On chapter 47: 明物之性，因之而已，故雖不為，而使之成矣 — *"clear about the nature of things, it simply goes along with them; and so, though it does not act, it lets them be completed."* On chapter 25: 混然不可得而知，而萬物由之以成，故曰混成也 — *"mixed, it cannot be known, yet the countless things are completed through it; so it says 'mixed and complete.'"*
 
-**And the book distrusts completion even as it uses the word.** The great vessel, in the oldest witnesses, is *never completed*, 免成 (*miǎn chéng* — free of completion), where the received text has 晚成 (*wǎn chéng* — completed late) (`notes/manuscript.md`). Great completeness *seems deficient* (45), and Wang Bi says why: 隨物而成，不為一象，故若缺也 — *"it completes by following each thing, and does not make itself one image; so it seems deficient."* People ruin their affairs *just short of completing them* (64), and Heshang Gong names the cause: 常於功德幾成而貪位好名 — *"always at the point of completing their work, they grow greedy for position and love a name."* And the ancients of chapter 15 are *never newly made*, which `chapters/015.md` reads through the full vessel: what is filled is finished, and the ancients stay unfilled.
+**And the book distrusts completion even as it uses the word.** The great vessel, in the oldest witnesses, is *never completed*, 免成 (*miǎn chéng* — free of completion), where the received text has 晚成 (*wǎn chéng* — completed late) (`notes/manuscript.md`). Great completeness *seems deficient* (45), and Wang Bi says why: 隨物而成，不為一象，故若缺也 — *"it completes by following each thing, and does not make itself one image; so it seems deficient."* People ruin their affairs *just short of completing them* (64), and Heshang Gong names the cause: 常於功德幾成而貪位好名 — *"always at the point of completing their work, they grow greedy for position and love a name."* And the ancients of chapter 15 are *never newly completed*, which `chapters/015.md` reads through the full vessel: what is filled is finished, and the ancients stay unfilled. **One English lets the reader hear these four lines as one thread**, which is why 成 takes no exceptions.
 
 ### The work is done, and no one stays in it
 
-> *The work is done, and the sage does not stay in it.*
+> *The work is complete, and the sage does not stay in it.*
 >
 > 功成而弗居。
 >
 > — chapter 2
 
-> *The work is done, and it does not name it its own.*
+> *The work is complete, and it does not name it its own.*
 >
 > 功成而不名有。
 >
 > — chapter 34
 
-> *The work is done, and they do not stay in it.*
+> *The work is complete, and they do not stay in it.*
 >
 > 功成而不處，
 >
 > — chapter 77
 
-**Four times the book says 功成, and three times the next words refuse to stay with it.** *Done* is the formula's English in all four, a declared flexion, because the line is about the moment after, not the quality of the result: Heshang Gong glosses it 功成事就，退避不居其位 (*"the work done, the affairs arrived at, they withdraw and do not keep the position"*). The fourth, chapter 17's 功成事遂 (*gōng chéng shì suì* — "the work done, the affairs carried through"), is left open below.
+**Four times the book says 功成, and three times the next words refuse to stay with it.** Heshang Gong glosses it 功成事就，退避不居其位 (*"the work complete, the affairs arrived at, they withdraw and do not keep the position"*). *Complete* marks the moment the work reaches its end as plainly as *done* would, and it keeps *done* free for 遂 (*suì* — carried through), the other character of this formula's family.
+
+> *When the work is complete and the affairs are done,*
+> *Everyone says, "We did this by ourselves."*
+>
+> 功成事遂，
+> 百姓皆謂我自然。
+>
+> — chapter 17
+
+**Chapter 17 holds both characters in one line**, 功成事遂 (*gōng chéng shì suì* — "the work complete, the affairs carried through"), and so it decides the split: 成 *complete*, 遂 *done*, as chapter 9's 功遂 (*gōng suì*) already reads *"The work done."* Wang Bi: 故功成事遂，而百姓不知其所以然也 — *"so the work is complete and the affairs done, and the people do not know how it came about."*
 
 ### Chapter 67: chief of the completed vessels
 
@@ -175,21 +182,19 @@ refs:
 | 幾成而敗之 (64) | verb | *completing them* |
 | 故能成其私 (7), 故能成其大 (34, 63) | the frame | *complete their private self*, *greatness can be completed* |
 | 成器長 (67) | adjective, inside the noun phrase | *completed vessels* |
-| 功成 (2, 17, 34, 77) | the formula | *the work is done* — flexion |
-| 不新成 (15) | verb, negated | *never newly made* — flexion |
+| 功成 (2, 17, 34, 77) | the formula | *the work is complete* |
+| 不新成 (15) | verb, negated | *never newly completed* |
 | 不為而成 (47) | verb, no object | *accomplishes* — owed, below |
 
 ### What no rule can enforce
 
-***Done* is 遂 (*suì* — carried through)'s too.** Chapter 9 reads 功遂 (*gōng suì*) as *"The work done."* Chapter 9 has no 成, so no rule sees two characters sharing one formula's English.
+***Done* is 遂 (*suì* — carried through)'s, at chapters 9 and 17.** 遂 has no entry of its own, so nothing holds it there but this entry and the two chapter notes. `concordance.py --english "done"` is the check, run by hand: no line with 成 alone should print it.
 
 ***Finish* is ruled out for 成, and is not forbidden**, so that 終 can take it at chapter 64, which holds both characters.
 
 ***Become* is ruled out for 成, and cannot be forbidden.** It stands in chapter 67 as the supplied verb, the 為 (*wéi* — become) Han Fei prints, and a forbidden word would flag it there.
 
 ### Left open
-
-**Chapter 17 renders two of its four characters.** 功成事遂 (*gōng chéng shì suì* — "the work done, the affairs carried through") reads *"When their work is done,"* and 事遂 is missing. Chapter 17 holds 成 and 遂 in one line, which forces them apart, and 遂 already wears *done* at chapter 9. Owed its own decision, with 遂.
 
 **Chapter 47's *accomplishes*.** 不為而成 (*bù wéi ér chéng* — "completes without acting") is the one completing verb outside the register. *Completes without acting* would bring it in.
 

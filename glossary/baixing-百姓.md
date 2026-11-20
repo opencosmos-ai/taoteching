@@ -23,7 +23,7 @@ refs_status: incomplete
 
 **The phrase changed sides.** In the oldest texts only noble lineages had clan names, so 百姓 meant **the nobility**. The *Book of Documents* says of the sage-king Yao 平章百姓 (*píng zhāng bǎi xìng* — "he regulated and distinguished the hundred clans"), and its commentator 孔安國 (*Kǒng Ānguó*) glosses 百姓 there as 百官 (*bǎi guān* — the hundred officials). The commoners, who had no clan names, were 民. **The two words began as opposites.** As surnames spread downward through the Warring States, 百姓 widened to cover everyone. The *Great Commentary* to the *Book of Changes* uses it that way: 百姓日用而不知 (*"everyone uses it daily and does not know it"*).
 
-By Laozi's day the old sense is gone, and both of our commentators read 百姓 as the whole population. 河上公 (*Héshàng Gōng*) on ch 49: 聖人愛念百姓如孩孾赤子 — *"the sage cherishes everyone as one cherishes a newborn infant."* 王弼 (*Wáng Bì*) on ch 17: 功成事遂而百姓不知其所以然也 — *"the work is done and the task complete, and everyone does not know how it came to be so."*
+By Laozi's day the old sense is gone, and both of our commentators read 百姓 as the whole population. 河上公 (*Héshàng Gōng*) on ch 49: 聖人愛念百姓如孩孾赤子 — *"the sage cherishes everyone as one cherishes a newborn infant."* 王弼 (*Wáng Bì*) on ch 17: 功成事遂而百姓不知其所以然也 — *"the work is complete and the affairs done, and everyone does not know how it came to be so."*
 
 ### The evidence: the lines where the people act
 
