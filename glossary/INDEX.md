@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**87 entries.** Sorted by how much of the book each term touches.
+**88 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -59,6 +59,7 @@ python3 tools/build_index.py
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent", "guile" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
+| **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | open — not yet a lock | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
@@ -116,6 +117,7 @@ python3 tools/build_index.py
 | **孝** | devotion | [`ci-慈.md`](ci-慈.md) — 慈 |
 | **尊** | honor | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) — 貴 & 賤 |
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
+| **屈** | bent | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |
 | **忠** | loyalty | [`xin-信.md`](xin-信.md) — 信 |
 | **惟** | only | [`wei-唯.md`](wei-唯.md) — 唯 |
 | **曲** | bend / bent | [`quan-全.md`](quan-全.md) — 全 |
@@ -126,6 +128,7 @@ python3 tools/build_index.py
 | **牡** | the male | [`pin-牝.md`](pin-牝.md) — 牝 |
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
+| **直** | true | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |
 | **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
 | **罪** | crime | [`huo-fu-禍福.md`](huo-fu-禍福.md) — 禍 & 福 |
 | **義** | duty | [`ren-仁.md`](ren-仁.md) — 仁 |

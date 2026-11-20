@@ -52,7 +52,7 @@ Not a technique to acquire. A stripping away — of managing, of intervening, of
 It is easy to read 無為 as private spirituality. In the text it is overwhelmingly about **government**. Chapter 57 gives the whole doctrine in four lines, and 無為 leads them:
 
 > 我無為，而民自化 — *I do not do, and the people transform themselves.*
-> 我好靜，而民自正 — *I love stillness, and the people right themselves.*
+> 我好靜，而民自正 — *I love stillness, and the people straighten themselves.*
 > 我無事，而民自富 — *I do not interfere, and the people enrich themselves.*
 > 我無欲，而民自樸 — *I am without desire, and the people become plain of themselves.*
 

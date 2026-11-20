@@ -244,8 +244,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 21,10,3,以閱眾甫。,Yǐ yuè zhòng fǔ.,In order to \[yi\] inspect/review \[yue\] the origin/father \[fu\] of the multitudes \[zhong\].,"In this name, I observe the father of the many.",authored
 21,11,3,吾何以知眾甫之狀哉？,Wú hé yǐ zhī zhòng fǔ zhī zhuàng zāi?,How do I \[wu he yi\] know \[zhi\] the condition/shape \[zhuang\] of the father of the multitudes \[zhong fu\] alas \[zai\]?,How do I know the father of the many is so? By this.,authored
 21,12,3,以此。,Yǐ cǐ.,By \[yi\] this \[ci\].,How do I know the father of the many is so? By this.,authored
-22,1,1,曲則全，,"Qū zé quán,","Bent/crooked \[qu\] then/thus \[ze\] whole/complete \[quan\],","Bend, and stay whole. Be warped, and grow straight.",authored
-22,2,1,枉則直，,"Wǎng zé zhí,","Wronged/bent \[wang\] then/thus \[ze\] straight \[zhi\],","Bend, and stay whole. Be warped, and grow straight.",authored
+22,1,1,曲則全，,"Qū zé quán,","Bent/crooked \[qu\] then/thus \[ze\] whole/complete \[quan\],","Bend, and stay whole. Be warped, and grow true.",authored
+22,2,1,枉則直，,"Wǎng zé zhí,","Wronged/bent \[wang\] then/thus \[ze\] straight \[zhi\],","Bend, and stay whole. Be warped, and grow true.",authored
 22,3,1,窪則盈，,"Wā zé yíng,","Hollow/low \[wa\] then/thus \[ze\] filled/full \[ying\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
 22,4,1,敝則新，,"Bì zé xīn,","Worn out/old \[bi\] then/thus \[ze\] new/renewed \[xin\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
 22,5,1,少則得，,"Shǎo zé dé,","Few/little \[shao\] then/thus \[ze\] obtain/gain \[de\],",Hold little and receive. Hold much and be confused.,authored
@@ -439,7 +439,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 37,2,1,侯王若能守之，萬物將自化。,"Hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì huà.","Marquises and kings, if able to maintain this, the ten thousand things will autonomously transform","If rulers are able to hold to this, the countless things will transform of themselves.",exact-count
 37,3,2,化而欲作，吾將鎮之以無名之樸。,"Huà ér yù zuò, wú jiāng zhèn zhī yǐ wú míng zhī pǔ.","Transforming and desiring to act, I will stabilize them with the nameless uncarved wood","Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.",exact-count
 37,4,2,無名之樸，夫亦將無欲。,"Wú míng zhī pǔ, fū yì jiāng wú yù.","The nameless uncarved wood, indeed also will be without desire.","With the nameless uncarved wood, they too will be desireless.",exact-count
-37,5,3,不欲以靜，天下將自正。,"Bù yù yǐ jìng, tiān xià jiāng zì zhèng.","Not desiring so as to be still, all under heaven will autonomously align.","Not desiring, and so still, the world will right itself.",exact-count
+37,5,3,不欲以靜，天下將自正。,"Bù yù yǐ jìng, tiān xià jiāng zì zhèng.","Not desiring so as to be still, all under heaven will autonomously align.","Not desiring, and so still, the world will straighten itself.",exact-count
 38,1,1,上德不德，是以有德；,"Shàng dé bù dé, shì yǐ yǒu dé;","Highest virtue does not act virtuous, therefore it has virtue.","The highest integrity does not do integrity, and so it has integrity.",authored
 38,2,1,下德不失德，是以無德。,"Xià dé bù shī dé, shì yǐ wú dé.","Lowest virtue does not lose sight of virtue, therefore it lacks virtue.","The lowest integrity does not lose integrity, and so it has none.",authored
 38,3,1,上德無為而無以為；,Shàng dé wú wéi ér wú yǐ wéi;,Highest virtue takes no action and has no intentional motive.,"The highest integrity is non-doing, and has nothing it acts for.",authored
@@ -520,11 +520,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 44,8,3,可以長久。,Kě yǐ cháng jiǔ.,Thus one can endure long.,And so you can last long.,exact-count
 45,1,1,大成若缺，其用不弊。,"Dà chéng ruò quē, qí yòng bù bì.","Great perfection/compilation seems flawed/lacking, yet its function/utility is never impaired.","Great completeness seems deficient, yet when used, it never wears out.",exact-count
 45,2,1,大盈若沖，其用不窮。,"Dà yíng ruò chōng, qí yòng bù qióng.","Great fullness seems empty/hollow, yet its function/utility is never exhausted.","Great fullness seems empty, yet when used, it never runs dry.",exact-count
-45,3,2,大直若屈，,"Dà zhí ruò qū,","Great straightness seems bent/crooked,",Great straightness seems crooked.,exact-count
+45,3,2,大直若屈，,"Dà zhí ruò qū,","Great straightness seems bent/crooked,",Great trueness seems bent.,exact-count
 45,4,2,大巧若拙，,"Dà qiǎo ruò zhuō,","Great skill seems clumsy/clunky,",Great skill seems clumsy.,exact-count
 45,5,2,大辯若訥。,Dà biàn ruò nè.,Great eloquence seems stuttering/awkward.,Great argument seems halting.,exact-count
 45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Restlessness overcomes cold, stillness overcomes heat.",Restlessness overcomes cold; stillness overcomes heat.,exact-count
-45,7,3,清靜為天下正。,Qīng jìng wéi tiān xià zhèng.,Clarity and stillness function as the standard/ruler for the world.,Clear stillness brings order to the world.,exact-count
+45,7,3,清靜為天下正。,Qīng jìng wéi tiān xià zhèng.,Clarity and stillness function as the standard/ruler for the world.,Clear stillness sets the world straight.,exact-count
 46,1,1,天下有道，卻走馬以糞。,"Tiān xià yǒu dào, què zǒu mǎ yǐ fèn.","When the world has the Tao, swift horses are retired to fertilize fields with their dung.","When the world embraces the Tao, swift horses are retired to work the fields.",exact-count
 46,2,1,天下無道，戎馬生於郊。,"Tiān xià wú dào, róng mǎ shēng yú jiāo.","When the world lacks the Tao, war horses are bred in the suburbs/borders.","When the world lacks the Tao, war horses are bred in the borderlands.",exact-count
 46,3,2,禍莫大於不知足；,Huò mò dà yú bù zhī zú;,There is no disaster greater than not knowing sufficiency.,"There is no greater disaster than not knowing you have enough,",exact-count
@@ -609,8 +609,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 56,7,2,不可得而利，不可得而害；,"Bù kě dé ér lì, bù kě dé ér hài;","One cannot benefit it/them, nor can one harm it/them;","They cannot be benefited, and cannot be harmed.",authored
 56,8,2,不可得而貴，不可得而賤。,"Bù kě dé ér guì, bù kě dé ér jiàn.","One cannot value/ennoble it/them, nor can one debase it/them.","They cannot be prized, and cannot be cheapened.",authored
 56,9,2,故為天下貴。,Gù wéi tiān xià guì.,Therefore they become the most valued under heaven.,"And so, they become the most prized in the world.",authored
-57,1,1,以正治國，,"Yǐ zhèng zhì guó,","Use correctness/orthodox to govern the state,","Govern the state with uprightness,",exact-count
-57,2,1,以奇用兵，,"yǐ qí yòng bīng,","use surprise/unorthodox to deploy the military,","wage war with surprise,",exact-count
+57,1,1,以正治國，,"Yǐ zhèng zhì guó,","Use correctness/orthodox to govern the state,","Govern the state with the straight,",exact-count
+57,2,1,以奇用兵，,"yǐ qí yòng bīng,","use surprise/unorthodox to deploy the military,","wage war with the crooked,",exact-count
 57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win over the world by not meddling.,exact-count
 57,4,1,吾何以知其然哉？以此：,Wú hé yǐ zhī qí rán zāi? Yǐ cǐ:,How do I know it is so? By this:,How do I know it is so? By this:,exact-count
 57,5,2,天下多忌諱，而民彌貧；,"Tiān xià duō jì huì, ér mín mí pín;","The more taboos/restrictions in the world, the poorer the people become;","The more taboos in the world, the poorer the people become.",exact-count
@@ -619,19 +619,19 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 57,8,2,法令滋彰，盜賊多有。,"Fǎ lìng zī zhāng, dào zéi duō yǒu.","The more laws and decrees are made prominent, the more thieves and robbers there are.","The more laws are proclaimed, the more thieves there are.",exact-count
 57,9,3,故聖人云：,Gù shèng rén yún:,Therefore the Sage says:,So the sage says:,exact-count
 57,10,3,我無為，而民自化；,"Wǒ wú wéi, ér mín zì huà;","I execute zero-friction (wu wei), and the people transform themselves;","I do not do, and the people transform themselves.",exact-count
-57,11,3,我好靜，而民自正；,"Wǒ hào jìng, ér mín zì zhèng;","I love stillness, and the people correct themselves;","I love stillness, and the people right themselves.",exact-count
+57,11,3,我好靜，而民自正；,"Wǒ hào jìng, ér mín zì zhèng;","I love stillness, and the people correct themselves;","I love stillness, and the people straighten themselves.",exact-count
 57,12,3,我無事，而民自富；,"Wǒ wú shì, ér mín zì fù;","I do not interfere (wu shi), and the people enrich themselves;","I do not meddle, and the people enrich themselves.",exact-count
 57,13,3,我無欲，而民自樸。,"Wǒ wú yù, ér mín zì pǔ.","I have no desires, and the people return to the uncarved wood (pu) themselves.","I do not desire, and the people become plain of themselves.",exact-count
 58,1,1,其政悶悶，其民淳淳；,"Qí zhèng mèn mèn, qí mín chún chún;","When the government is dull/unobtrusive, the people are pure/honest;","When the government is dull and undiscerning, the people are pure and honest.",exact-count
 58,2,1,其政察察，其民缺缺。,"Qí zhèng chá chá, qí mín quē quē.","When the government is sharp/scrutinizing, the people are lacking/crafty.","When the government is sharp and prying, the people turn cunning.",exact-count
 58,3,2,禍兮福之所倚，,"Huò xī fú zhī suǒ yǐ,","Disaster is what fortune leans on,",Disaster is what fortune leans on;,exact-count
 58,4,2,福兮禍之所伏。,Fú xī huò zhī suǒ fú.,Fortune is where disaster hides.,fortune is where disaster crouches.,exact-count
-58,5,2,孰知其極？其無正。,Shú zhī qí jí? Qí wú zhèng.,Who knows the limit/endpoint? There is no fixed norm/correctness.,Who knows where it ends? It has no fixed norm —,exact-count
-58,6,2,正復為奇，善復為妖。,"Zhèng fù wéi qí, shàn fù wéi yāo.","The orthodox reverts to the unorthodox, the good reverts to the monstrous.","The straight turns crooked, the good turns monstrous.",exact-count
+58,5,2,孰知其極？其無正。,Shú zhī qí jí? Qí wú zhèng.,Who knows the limit/endpoint? There is no fixed norm/correctness.,Who knows where it ends? It has no straight —,exact-count
+58,6,2,正復為奇，善復為妖。,"Zhèng fù wéi qí, shàn fù wéi yāo.","The orthodox reverts to the unorthodox, the good reverts to the monstrous.","the straight turns crooked, the good turns monstrous.",exact-count
 58,7,2,人之迷，其日固久。,"Rén zhī mí, qí rì gù jiǔ.",The delusion of people has lasted for a very long time.,People have been lost in this for a very long time.,exact-count
 58,8,3,是以聖人方而不割，,"Shì yǐ shèng rén fāng ér bù gē,","Therefore the Sage is square but does not cut,","Therefore the sage is square but does not cut,",exact-count
 58,9,3,廉而不劌，,"lián ér bù guì,","Sharp/cornered but does not injure,","sharp but does not wound,",exact-count
-58,10,3,直而不肆，,"zhí ér bù sì,","Straight but does not overreach/extend recklessly,","straight but does not overreach,",exact-count
+58,10,3,直而不肆，,"zhí ér bù sì,","Straight but does not overreach/extend recklessly,","true but does not overreach,",exact-count
 58,11,3,光而不耀。,guāng ér bù yào.,Luminous but does not blind/dazzle.,bright but does not dazzle.,exact-count
 59,1,1,治人事天，莫若嗇。,"Zhì rén shì tiān, mò ruò sè.","In governing people and serving heaven, there is nothing like frugality/conservation.","When governing people and serving nature, nothing compares to conserving.",exact-count
 59,2,1,夫唯嗇，是謂早服；,"Fú wéi sè, shì wèi zǎo fú;","Only through frugality, is it called submitting early;","Only conserving is called accepting early,",exact-count

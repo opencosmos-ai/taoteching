@@ -144,7 +144,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 惡,è,"loathe, hate / ugly, bad / recoil from",word,,,,,7,7,"2,8,20,24,31,42,73",2,73,1.32,
 慈,cí,tenderness,locked,,tenderness,locked,compassion; mercy; maternal love; filial piety,7,3,"18,19,67",18,67,1.32,glossary/ci-慈.md
 未,wèi,not yet,grammar,,,,,7,3,"20,55,64",20,64,1.32,
-正,zhèng,set right / upright / norm (58),word,,,,,7,5,"37,45,57,58,78",37,78,1.32,
+正,zhèng,"straight, straighten (verb)",open,,"straight, straighten (verb)",open,upright; norm; surprise; correct,7,5,"37,45,57,58,78",37,78,1.32,glossary/zheng-qi-正奇.md
 母,mǔ,mother,locked,,mother,locked,the Source; the Origin; the Ground of Being,7,5,"1,20,25,52,59",1,59,1.32,glossary/mu-母.md
 獨,dú,alone / solitary (25),word,,,,,7,2,"20,25",20,25,1.32,
 百,bǎi,hundred / everyone (百姓),word,,,,,7,5,"5,17,19,49,66",5,66,1.32,
@@ -217,7 +217,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 司,sī,"keep / preside over (司殺者, 74)",word,,,,,4,2,"74,79",74,79,0.76,
 味,wèi,flavor / taste,word,,,,,4,3,"12,35,63",12,63,0.76,
 堅,jiān,hard,word,,,,,4,3,"43,76,78",43,78,0.76,
-奇,qí,"strange / surprise / crooked, out of line",word,,,,,4,3,"57,58,74",57,74,0.76,
+奇,qí,crooked,open,,crooked,open,upright; norm; surprise; correct,4,3,"57,58,74",57,74,0.76,glossary/zheng-qi-正奇.md
 妙,miào,subtle,locked,,subtle,locked,mystery; mysterious; the occult,4,3,"1,15,27",1,27,0.76,glossary/xuan-miao-玄妙.md
 姓,xìng,"surname (百姓, everyone)",word,,,,,4,3,"5,17,49",5,49,0.76,
 存,cún,be here / survive (7) / keep (41),word,,,,,4,4,"4,6,7,41",4,41,0.76,
@@ -312,7 +312,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 當,dāng,"in, at (當其無, in what is not there)",word,,,,,3,1,11,11,11,0.57,
 白,bái,"white / clarity (明白, 10)",word,,,,,3,3,"10,28,41",10,41,0.57,
 目,mù,eye,word,,,,,3,2,"12,49",12,49,0.57,
-直,zhí,straight / straightness,word,,,,,3,3,"22,45,58",22,58,0.57,
+直,zhí,true,covers,,true,open,,3,3,"22,45,58",22,58,0.57,glossary/zheng-qi-正奇.md
 真,zhēn,real / truth / authentic,word,,,,,3,3,"21,41,54",21,54,0.57,
 矜,jīn,boast / pride oneself (自矜),word,,,,,3,3,"22,24,30",22,30,0.57,
 福,fú,fortune,locked,,fortune,locked,bless; luck; misfortune; calamity; woe,3,2,"58,65",58,65,0.57,glossary/huo-fu-禍福.md
@@ -383,7 +383,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 宰,zǎi,but not dominating/ruling,apparatus,1/1,,,,2,2,"10,51",10,51,0.38,
 實,shí,fill / substance (38),word,,,,,2,2,"3,38",3,38,0.38,
 寧,níng,settled,word,,,,,2,1,39,39,39,0.38,
-屈,qū,crooked / depleted (5),word,,,,,2,2,"5,45",5,45,0.38,
+屈,qū,bent,covers,,bent,open,,2,2,"5,45",5,45,0.38,glossary/zheng-qi-正奇.md
 川,chuān,river,apparatus,1/1,,,,2,2,"15,32",15,32,0.38,
 己,jǐ,oneself / themselves,word,,,,,2,1,81,81,81,0.38,
 廢,fèi,abandoned/abolished,apparatus,1/1,,,,2,2,"18,36",18,36,0.38,

@@ -444,6 +444,8 @@ Three chapters close on the same seven-character formula — 吾何以知…**�
 
 ### Ch 57–58 · 正 / 奇 — one thread, and 其無正 ≠ "no limit"
 
+*(Settled 2026-11-19, Shalom's call: the thread is carried through, 正 *straight* and 奇 *crooked* in both chapters, with 直 *true* and 屈 *bent*; `glossary/zheng-qi-正奇.md`.)*
+
 Two linked calls. First, 其無正 (孰知其極？其無正) is "it has no fixed norm," *not* "no limit" — 極 (limit) is the prior clause; 正 here is the *normative / correct*, and it has to survive into the next line, whose subject is that same 正: 正復為奇 ("the straight turns crooked"). Render 正 as "limit" and the keyword vanishes. Second — the reason this is logged — 正 and 奇 must read the **same** in 57 and 58, because 58 is deliberately unmaking 57: there the ruler governs *with* 正 and wages war *with* 奇 (以正治國，以奇用兵), certain of the boundary; here 正復為奇 erases it. We thread them **straight / crooked** — 57's "govern with the straight" and "the people straighten themselves" (民自正), 58's "the straight turns crooked" — so the reader feels 58 pull 57 apart. (奇 keeps a little play — "surprise / the oblique" where 57 means battlefield tactics — but 正 holds as *straight / upright* throughout both.)
 
 ### Sweep · Ch 8, 20, 21, 31, 38 — the four locks 信, 精, 器, 眾
@@ -2084,6 +2086,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### 正 / 奇 → "straight / crooked," with 直 "true" and 屈 "bent" (T4-2)
+
+*(2026-11-19, Shalom's call on the system; the deferred call taken up.)* One word each for four characters that had shared two: 正 *straight* (verb *straighten*), 奇 *crooked*, 直 *true* (the Shuowen's sighting eye), 屈 *bent*. Chapter 58 now audibly undoes 57, as Wang Bi reads it (以正治國則便復以奇用兵), and 58's chain 其無正。正復為奇 is whole. Flexions: 78's *on the mark*, 57's *strange contrivances*, 74's *steps out of line*. Lines changed in chs 22, 37, 45, 57, 58.
 
 ### 故 and 是以 → "So" and "Therefore," book-wide
 

@@ -99,7 +99,7 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 
 > *Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.*
 > *With the nameless uncarved wood, they too will be desireless.*
-> *Not desiring, and so still, the world will right itself.*
+> *Not desiring, and so still, the world will straighten itself.*
 >
 > 化而欲作，吾將鎮之以無名之樸。
 > 無名之樸，夫亦將無欲。
@@ -107,7 +107,7 @@ Four times in chapter 36 and once in chapter 29 (*"Those who would take the worl
 >
 > — chapter 37
 
-The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); they too will be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world will right itself. Three grammars of one character in three lines, each handing the word to the next.
+The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲作, *yù zuò*); they too will be **desireless** (無欲, *wú yù*); **not desiring** (不欲, *bù yù*), and so still, the world will straighten itself. Three grammars of one character in three lines, each handing the word to the next.
 
 **The grammar sorts all three, and the chapter now reads so** (Shalom's call, 2026-11-19). 欲作 takes a verb, so *want*. 無欲 and 不欲 take nothing, so *desire*: *desireless*, and *not desiring*. One root runs through all three. *Urge*, the old English, rendered no character the line prints, and *relinquishing* supplied a giving-up the Chinese does not have: 不欲 is not wanting, not letting go of a want once held. The same rebuilding restored 化's chain (T3-8) and the subject Heshang Gong gives the second line, the people, not the wood.
 

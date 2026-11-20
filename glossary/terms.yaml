@@ -460,6 +460,20 @@
   status: locked
   entry: glossary/pu-樸.md
 
+- term: "正 & 奇"
+  pinyin: "zhèng / qí"
+  render: "straight, straighten (verb) / crooked"
+  forbidden: ["upright", "norm", "surprise", "correct"]
+  chapters: [37, 45, 57, 58, 74, 78]
+  status: open
+  entry: glossary/zheng-qi-正奇.md
+  flexions:
+    - { english: "on the mark", chapters: [78], why: "正言 is speech that hits its target, the graph's foot reaching its line; Shalom's recorded call on aim" }
+    - { english: "strange", chapters: [57], why: "奇物 is a hardened compound, strange things, the Shuowen's 異也" }
+    - { english: "steps out of line", chapters: [74], why: "為奇者 names a person off the line, and the chapter will not grant the ruler a word for criminals" }
+  # covers 直 -> true
+  # covers 屈 -> bent
+
 - term: "眾"
   pinyin: "zhòng"
   render: "the crowd / the many"

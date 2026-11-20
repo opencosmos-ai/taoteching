@@ -68,7 +68,7 @@ Both graphs stand on 示 (*shì* — the altar), the radical of everything done 
 
 > *Disaster is what fortune leans on;*
 > *fortune is where disaster crouches.*
-> *Who knows where it ends? It has no fixed norm —*
+> *Who knows where it ends? It has no straight —*
 >
 > 禍兮福之所倚，
 > 福兮禍之所伏。

@@ -90,7 +90,7 @@ Two intentions, both sacred:
    A 🔶 is provisional — one case so far, so weigh it rather than obey it.
 4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. **§1's central claim was superseded**, and the file carries a banner. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
 
-**One call is deferred by Shalom and must not be quietly settled inside a chapter review** — 正/奇 (*zhèng / qí* — straight / crooked), `WORKLIST.md` T4. Argue it with new evidence if you have it; otherwise leave it.
+**No call is deferred now.** The last, 正/奇 (*zhèng / qí* — straight / crooked), was taken up and settled on 2026-11-19 (`glossary/zheng-qi-正奇.md`): 正 *straight*, 奇 *crooked*, 直 *true*, 屈 *bent*.
 
 ## Doing the work
 

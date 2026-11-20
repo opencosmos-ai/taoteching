@@ -184,7 +184,7 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **We keep the base text's 政**, rendered *governing*, which leaves 治 (*zhì* — to order) free for *order* — as at ch 64's 治之於未亂 — instead of colliding with it. *(Updated 2026-09-24.)* This entry once said 王弼 (*Wáng Bì*) was not vendored for ch 8. **He was always in the transcription.** The importer missed ten chapter headings that sat at the end of a comment line (`WORKLIST` T5-6). **The Siku 王弼 prints 正 as well**: 正善治〔案永樂大典正作政古通用〕, *"the Yongle Dadian reads 政; the two were interchangeable in antiquity."* So both commentaries print 正, and our base agrees with the Ming encyclopaedia. The call stands, because nothing in the line turns on it.
 
-**This does not touch T4-2**, the deferred 正 / 奇 (*zhèng / qí* — straight / crooked) call. That is a question about how 正 is rendered where we print it; this is a question about which graph is printed, and logging a fork settles nothing about the other.
+**This does not touch T4-2**, the 正 / 奇 (*zhèng / qí* — straight / crooked) call (settled 2026-11-19, `glossary/zheng-qi-正奇.md`). That is a question about how 正 is rendered where we print it; this is a question about which graph is printed, and logging a fork settles nothing about the other.
 
 ### Ch 8 · 水善利萬物而不爭 / 而有靜 — water does not contend, or water is still
 
@@ -775,7 +775,7 @@ Recorded because **our source table glosses 若 here as *seems*** (*"Seems they 
 
 廉而不**劌** against 韓非's 廉而不**穢**. 劌 (*guì* — to cut, to wound) is built on 刀 (*dāo* — knife); 穢 (*huì* — filthy, weed-choked) on 禾 (*hé* — grain).
 
-**Our call: the base, on the parallel.** The line sits in a four-beat series — 方而不割 · 廉而不劌 · 直而不肆 · 光而不耀 — in which **every member pairs a property with the harm it declines to do**: square but does not cut, edged but does not wound, straight but does not overreach, bright but does not dazzle. 劌 completes that pattern; 穢 breaks it, since being filthy is not a harm an edge does to anything. The two graphs are close enough that a slip is the likely explanation, and it is recorded rather than assumed away.
+**Our call: the base, on the parallel.** The line sits in a four-beat series — 方而不割 · 廉而不劌 · 直而不肆 · 光而不耀 — in which **every member pairs a property with the harm it declines to do**: square but does not cut, edged but does not wound, true but does not overreach, bright but does not dazzle. 劌 completes that pattern; 穢 breaks it, since being filthy is not a harm an edge does to anything. The two graphs are close enough that a slip is the likely explanation, and it is recorded rather than assumed away.
 
 ### Ch 60 · 傷人 / 傷民 — and it is evidence on a deferred call
 

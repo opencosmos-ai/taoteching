@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 232 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 87 of 87 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 88 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -211,6 +211,10 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 46, on greedy wanting without satiety
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 57, on what the sage wants being only desirelessness
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 64, on a fondness for wanting giving rise to contention
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 45, great trueness follows things, so it seems bent
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, governing with the straight raises the crooked and the straight
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, governing with the straight returns to waging war with the crooked
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, guiding things with trueness without dashing against them
 - Apparatus chapters [2](<../chapters/002.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [15](<../chapters/015.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [39](<../chapters/039.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [55](<../chapters/055.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [69](<../chapters/069.md>), [73](<../chapters/073.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -270,6 +274,8 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 19, on wanting little as knowing enough
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 39, on the valley that cannot only want to be full
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 64, on the sage wanting what people do not want
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, a person straight in body; the crooked as deceit
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 78, words straight and true that the world takes for their opposite
 - Apparatus chapters [1](<../chapters/001.md>), [3](<../chapters/003.md>), [4](<../chapters/004.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [13](<../chapters/013.md>), [15](<../chapters/015.md>), [16](<../chapters/016.md>), [17](<../chapters/017.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [29](<../chapters/029.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [51](<../chapters/051.md>), [52](<../chapters/052.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [67](<../chapters/067.md>), [68](<../chapters/068.md>), [69](<../chapters/069.md>), [72](<../chapters/072.md>), [73](<../chapters/073.md>), [74](<../chapters/074.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [77](<../chapters/077.md>), [80](<../chapters/080.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -318,6 +324,10 @@ Stored in this repository.
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Speech radical, entry for yan (speaking straight out, against debating)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Gaping-mouth radical, entry for yu (greedy wanting)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Valley radical, entry for gu (a spring coming out to reach a river)
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for qi (different; one says, unpaired)
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zheng (right; a foot, and a line where it stops)
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zhi (seeing straight; from ten eyes)
+- [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Tail radical, entry for qu
 - Apparatus chapters [4](<../chapters/004.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 

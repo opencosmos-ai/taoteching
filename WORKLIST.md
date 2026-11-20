@@ -19,21 +19,19 @@
 
 **Waiting on Shalom:** the two audits' remaining findings: R6's minor table, then R5 (run 2026-10-27). The form audit (R4) is done: every Tier 3 loss was brought and settled by 2026-11-19.
 
-**Deferred by Shalom, not waiting:** 正/奇 (*zhèng / qí* — straight / crooked, T4-2). Argue it only with new evidence.
-
 **How the work goes:** branch from a fresh `main` with an **ASCII** branch name (a non-ASCII one draws GitHub's hidden-character warning, and renaming it closes the PR). Run the tests, `check_locks.py`, and the full rebuild — `build_db` → `export` → `build_graph` → `export_atlas` — before every PR. The atlas rebuilds within a minute or two of a merge (`notify-atlas.yml` dispatches; an hourly rebuild is the fallback).
 
 ---
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **47 item rows: 41 open · 0 done · 5 part done · 1 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **47 item rows: 41 open · 0 done · 6 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
 | | | **Passes** | | |
 | PE | 🔶 | **Entries and sweeps** — the E rows below | book-wide | E |
-| PF | 🔶 | **Calls for Shalom** — the two he deferred, and the book-wide decisions that wait on him | T4-2 | F |
+| PF | 🔶 | **Calls for Shalom** — the book-wide decisions that wait on him | T4-2 | F |
 | PG | ⬜ | **The harness** — the G rows below, and `build.py` | — | G |
 | | | **Tier 1 · Wrong, not merely inconsistent** — the meaning changed; most need one line rewritten, so each goes to Shalom first | | |
 | | | **Tier 2 · One character, many Englishes** | | |
@@ -66,7 +64,7 @@
 | R5 | ⬜ | ★ **The accuracy audit's findings: what the Chinese says that the English drops, and what the English adds.** `process/accuracy-audit.md` read every line, Chinese against English, on 2026-10-27, and checked every flag against the record. Most departures were already logged. **Ch 27's two findings (13 and 15) done, 2026-11-14** (`chapters/027.md` → Notes). Owed: **one call** — ch 55's 朘 (*zuī* — the infant boy's member), rendered through 全 (*quán* — whole) on a reason rule 1's fourth part now refuses; **the lost lines**, each with a proposed rewrite there, deepest first ch 5's 多言數窮 (*duō yán shuò qióng* — "much talk soon runs out"), ch 21's 容 (*róng* — bearing), ch 12's 五 (*wǔ* — five) and ch 42's 或 (*huò* — some); **one note correction** at ch 11; and a tally of the unrendered 故 (*gù* — so) for T3-12 | book-wide | E |
 | R6 | 🔶 | ★ **The back-translation audit's findings: where a blind reader of the English comes away with something the Chinese does not say.** `process/back-translation-audit.md`, run 2026-10-27, compared blind readers of the English against blind readers of the Chinese and verified every gap against the page and the commentaries. Owed: the minor table. Ch 57 rides with T4-2 and ch 58 with T2-67 | book-wide | E |
 | | | **Tier 4 · Open calls** | | |
-| T4-2 | ⏸ | **正 / 奇** (*zhèng / qí* — straight / crooked) — five Englishes. Owed: `glossary/zheng-正.md`. **Ch 58 carries two riders:** 其無正。正復為奇 (*qí wú zhèng. zhèng fù wéi qí* — "it has no straight. The straight turns crooked") is a chain that *"no fixed norm — / The straight turns crooked"* breaks (`process/form-audit.md` §1), and the line's dash, left from T4-3, goes with whatever the call does to the words. **And a third rider, from the full form read:** 直 (*zhí* — straight) also reads *straight* in ch 58's closing series, and ch 45's 大直若屈 (*dà zhí ruò qū* — "great straightness seems bent") reads *straightness… crooked*, so *straight* and *crooked* each carry two characters across 45 and 58 (`process/form-audit.md` → *Ch 58*) | 37 45 57 58 78 | F |
+| T4-2 | 🔶 | **正 / 奇** (*zhèng / qí* — straight / crooked) — **taken up and settled 2026-11-19 (Shalom's call on the system):** 正 *straight*, 奇 *crooked*, 直 *true*, 屈 *bent*, verse changed in chs 22, 37, 45, 57, 58. Owed: lock `glossary/zheng-qi-正奇.md`, written open, on Shalom's word | 22 37 45 57 58 74 78 | F |
 | T4-5 | 🔶 | **Entries owed that have no row of their own:** 君 (*jūn* — ruler). The order is `glossary/TRIAGE.md` → *The relevance queue* | — | E |
 | T4-6 | ⬜ | Guodian **G2–G6** — the checklist is in `PLAN.md` | 5 16 17 18 25 + 26 more | E |
 | T4-8 | ⬜ | 說文 (c. 100 CE) quotes the four-greats line as 人亦大 — six centuries before our oldest 人 witness | 25 | E |
