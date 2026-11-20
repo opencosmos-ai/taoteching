@@ -2245,6 +2245,8 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "The world always comes to you…" at 48, "win the world" at 57.)* 取天下 meant coming to hold the realm (Heshang Gong: 取，治也). *Take* stays with ch 29's grasper; for the sage it alarmed (Shalom), and *comes to you* was ch 35's 天下往. *Win over* is allegiance drawn, not a contest. Cost: one phrase, two Englishes, split by grasped or drawn. T1-22, T3-17.
 
+**Re-examined 2026-11-20 and settled: *win over* stays. Do not reopen it unless a new witness or commentary changes what 取天下 means.** *(Shalom's word.)* The question came back when 勝 (*shèng* — overcome) locked *win* as its flexion in the battle lines (`glossary/sheng-勝.md`). **It is not a clash.** *Win over* is a phrasal verb with its own sense, to draw someone's allegiance, and it never stands in a chapter with 勝. 勝's *win* is the outcome of a battle, at chapters 31, 67, 69 and 76. **Every other English is spoken for, or martial in the sage's mouth.** *Take* is chapter 29's grasper, and from the sage it reads as conquest (Shalom). *Gain* and *receive* are 得 (*dé* — get)'s, at 44 and at 22 and 39. *Have* is 有 (*yǒu*)'s, as in 59's 有國 (*"you can have the state"*). *Govern*, Heshang Gong's own gloss 取，治也 (*"取 means to govern"*), is 治 (*zhì*)'s lock. *Hold* belongs to 執 (*zhí*), 持 (*chí*) and 守 (*shǒu*). *The world comes to you* is chapter 35's 天下往 (*tiān xià wǎng* — "the world goes to them"). **If 取 ever gets an entry, *win over* goes in its `flexions:` scoped to chapters 48 and 57**, the sage's two lines, with *take* as its render at chapters 12, 29, 38, 61 and 72, and chapter 30's *seize* in 取強 (*qǔ qiáng* — "seize strength") as a second flexion, the grasping one.
+
 ### Ch 69 · 主 / 客 → host / guest
 
 *(2026-11-19, Shalom's call.)* *(was: "I do not push to move first. I move second.")* The text's own pair replaces Heshang Gong's gloss; 客 reads *guest* at 15 and 35. Shalom had rejected the image in August as unreadable jargon; it is taken now because the next line's inch and foot spell it out. T1-23.
@@ -3439,3 +3441,40 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **Ch 54's 其德乃長 → *"its integrity grows"*** (was *becomes long-lasting*). Han Fei, Wang Bi and Heshang Gong all read growth or reach, and none reads time; the chapter note quotes all three. It joins 10 and 51's *grow*.
 
 **長 and 久 were crossed both ways, and are now apart.** The Shuowen defines 長 as 久遠 (*jiǔ yuǎn* — "long and far"), and chapter 7 splits them by position: 長 *lasting*, 久 *enduring*. 長 had worn *endure* at 22 and 24 (flagged under ch 16 above, *"for a future 長/久 pass"*): → *"and so they last"*, *"Those who boast do not last."* 久 had worn *last long* at 23: → *"cannot make it endure."* The binome 長久 keeps *last long* at 44 and 59, read as one word; 久's past-time phrases at 58 and 67 (*a very long time*, *long since*) are declared flexions.
+
+## 勝 (*shèng*) → *overcome*, with *win* in the four battle lines
+
+*(Shalom's call, 2026-11-20. Argument in `glossary/sheng-勝.md`.)*
+
+**Sixteen uses in fourteen lines had three Englishes, and the split between two of them was already principled.** *Overcome* stood in the ten lines where one quality gets the better of its opposite (33, 36, 45, 61, 68, 73, 78). *Win* stood in the four battle lines (31, 67, 69, 76), where 勝 has no object and the enemy is understood; Heshang Gong supplies it at 67, 以戰則勝敵. *Win* is now a declared flexion there. **Ch 31's 戰勝 → *"A battle won"*** (was *"A victory in battle"*), the third English and a noun the Chinese lacks. *Prevail*, one word for both grammars, was weighed and declined: it has nothing to point at, and would take *"one who overcomes themselves"* from ch 33.
+
+**說文: 勝，任也** (*"to bear a load"*), from 力 (*lì* — sinew). The root is strength equal to its load, not conquest; *victory*, *conquer*, *conquest*, *defeat* and *triumph* are forbidden. 取 (*qǔ* — take)'s *win over* at 48 and 57 was re-examined and kept: a different verb, settled under *Ch 48, 57 · 取天下* above.
+
+**克 (*kè*) → *shoulder*, covered in the same entry** (Shalom's call, the same day). Ch 59's 無不克 had worn *overcome*, 勝's word, twice: → *"there is nothing you cannot shoulder."* 說文 克，肩也 (*"to shoulder"*), beside the line's own 重積德, *a heavy accumulation*. Active with *you*, since the passive and the double negative hid the meaning. Cost: Heshang Gong (剋，勝也) and Han Fei (戰易勝敵) both read it as 勝.
+
+## 成 (*chéng*) → *complete* — and ch 67's *completed vessels*
+
+*(Shalom's calls, 2026-11-20. Argument in `glossary/cheng-成.md`.)*
+
+**Seventeen lines had six Englishes**: *complete*, *done*, *fulfill*, *made*, *accomplishes*, *become*. *Complete* is the lock, in every line. The entry first kept two exceptions, *the work is done* for 功成 and *never newly made* at 15; Shalom asked why, and neither held. *Complete* marks the work's end as plainly as *done*, and 15's *made* had been kept on an argument against splitting 不新成, never against *completed*. **→ 功成 *the work is complete* (2, 34, 77); ch 17 *"When the work is complete and the affairs are done,"*** restoring 事遂 (*shì suì*), which had dropped out, with 遂 (*suì* — carried through) taking *done* as at ch 9's 功遂; **ch 15 *"never newly completed."*** One English lets 15, 41, 45 and 64 be heard as one refusal of completion.
+
+**Ch 67's 成器長 → *"become chief of the completed vessels"*** (was *chief of the vessels*, with 成 read as *become*). Han Fei prints 為 (*wéi* — become), 故能為成事長, which puts 成 inside the noun phrase; Wang Bi (立成器) and Heshang Gong (成器長謂得道人也) read it there too. *Become* is supplied, Han Fei's 為. Recorded as fork 128.
+
+**Ch 7's 故能成其私 → *"And so they can complete their private self"*** (was *fulfill*, set 2026-11-19). The new evidence was this entry: the frame 故能成其X stands at 7, 34 and 63, and the verb is now one word in all three (Shalom's call). The frame's voice, active at 7 and passive at 34 and 63, is left open.
+
+**Left open**: ch 47's *accomplishes*.
+
+## 死 (*sǐ*) → *death / die / deadly*, by grammar — and ch 6's *does not die*
+
+*(Shalom's calls, 2026-11-20. Argument in `glossary/si-死.md`.)*
+
+**The noun reads *death*, the verb *die*, and 死 modifying a noun *deadly*.** That held already in all but one line. **Ch 6's 谷神不死 → *"The spirit of the valley does not die"*** (was *deathless*): a verb kept a verb, and an attribute from elegy and hymn gone. **Ch 50's 死地 keeps *deadly ground*** (Shalom's correction): 死 modifies 地, and *deadly* before a place says *dangerous*, as Sunzi's death-ground is the place one is likely to die. A proposed *ground of death* was declined. Left open: 50's 十有三 (Wang Bi's three in ten against Heshang Gong's thirteen), and 厚 (*hòu* — thick) reading *thickly* at 50 and *rich* at 75.
+
+## Ch 75 · 求生之厚 → *"seek life too thickly"*, one diagnosis with ch 50
+
+*(Shalom's call, 2026-11-20. Argument in `chapters/075.md`.)* *(was: "because those over them want their own lives so rich.")* 求生之厚 and ch 50's 生生之厚 (*"they live life too thickly"*) share one frame, and Heshang Gong glosses both with 太厚 (*tài hòu* — too thick). 厚 (*hòu* — thick) now reads *thick* wherever it is the thickness of a life (38, 50, 55, 75); *rich* was 富 (*fù* — wealthy)'s, *want* stood for 求 (*qiú* — seek), and *own* rendered nothing. The chapter note says what the phrase means here: the rulers' life laid on thick, paid for in the first couplet's taxes, leaves the people a life too thin to guard.
+
+## 國 (*guó*) → *state*, with 邦 (*bāng*) covered — the entry, and no verse changed
+
+*(2026-11-20. Argument in `glossary/guo-國.md`; the English is Shalom's call of 2026-10-14, at chs 18 and 54.)* All 25 occurrences of 國 and the three of 邦 at ch 54 already read *state*; the entry locks it and forbids *nation*, *kingdom*, *country* and *realm*. 邦 is the same word, renamed under the Han taboo on Liu Bang (silk A 邦, silk B 國). The entry's argument is the ladder: a state is governed, the world is won over (ch 57), and *state* is kept apart from 天下's *the world*.
+

@@ -130,7 +130,7 @@ Chapter 10 closes on the same three clauses, and its *"growing them without ruli
 >
 > — chapter 28
 
-> *Never pushing to be first in the world, and so you can become chief of the vessels.*
+> *Never pushing to be first in the world, and so you can become chief of the completed vessels.*
 >
 > 不敢為天下先，故能成器長。
 >

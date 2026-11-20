@@ -108,13 +108,13 @@ At the book's second line the two commentators read 名 differently, and the dif
 
 Twice 名 takes an object and is a verb, and it is *name* both times.
 
-> *The work is done, and it does not name it its own.*
+> *The work is complete, and it does not name it its own.*
 >
 > 功成而不名有。
 >
 > — chapter 34
 
-**河上公 reads the line with the word itself:** 有道不名其有功也, *"having the Tao, it does not name the merit as its own."* The opening, *the work is done*, is the one 功成 (*gōng chéng*) takes in chapters 2 and 77, so the three lines open alike, as they do in the Chinese.
+**河上公 reads the line with the word itself:** 有道不名其有功也, *"having the Tao, it does not name the merit as its own."* The opening, *the work is complete*, is the one 功成 (*gōng chéng*) takes in chapters 2 and 77, so the three lines open alike, as they do in the Chinese.
 
 Chapter 47's 不見而名 is the received reading, against silk A's 明 (*míng* — "clear," the same sound), and both commentators print 名: 王弼, 雖不見而是非之理可得而名也, *"though it does not see, the principle of right and wrong can be got and named"* (`sources/variants.yaml`).
 

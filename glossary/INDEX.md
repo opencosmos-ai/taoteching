@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**89 entries.** Sorted by how much of the book each term touches.
+**93 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -32,14 +32,18 @@ python3 tools/build_index.py
 | **欲** | *yù* | desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲) | "lust", "covet", "the passions", "yearn", "craving", "wish" | 15 | **locked** | [`yu-欲.md`](yu-欲.md) |
 | **貴 & 賤** | *guì / jiàn* | prize (verb), prized (a state) / cheap, cheapen · *status* (ch 9) | "humble", "lowly", "esteem", "value", "revere", "debase", "precious" | 15 | **locked** | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) |
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
+| **成** | *chéng* | complete | "compile", "perfect", "perfection" | 14 | **locked** | [`cheng-成.md`](cheng-成.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
 | **長** | *cháng / zhǎng* | long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun) | "leader", "leading", "superiority", "immortal", "everlasting" | 12 | **locked** | [`chang-長.md`](chang-長.md) |
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
+| **勝** | *shèng* | overcome · *win* (ch 31, 67, 69, 76) | "victory", "victorious", "conquer", "conquest", "defeat", "triumph" | 11 | **locked** | [`sheng-勝.md`](sheng-勝.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
+| **國** | *guó* | state | "nation", "kingdom", "country", "realm" | 10 | **locked** | [`guo-國.md`](guo-國.md) |
 | **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
+| **死** | *sǐ* | death (a noun) / die (a verb) / deadly (modifying a noun) | "deathless", "immortal" | 9 | **locked** | [`si-死.md`](si-死.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |
@@ -109,6 +113,7 @@ python3 tools/build_index.py
 |---|---|---|
 | **久** | endure | [`chang-長.md`](chang-長.md) — 長 |
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
+| **克** | shoulder | [`sheng-勝.md`](sheng-勝.md) — 勝 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |
 | **剛** | unbending | [`rou-柔.md`](rou-柔.md) — 柔 |
@@ -139,6 +144,7 @@ python3 tools/build_index.py
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **谿** | ravine | [`gu-谷.md`](gu-谷.md) — 谷 |
 | **躁** | restless, restlessness | [`jing-靜.md`](jing-靜.md) — 靜 |
+| **邦** | state | [`guo-國.md`](guo-國.md) — 國 |
 | **雄** | the rooster | [`ci-雌.md`](ci-雌.md) — 雌 |
 | **鬼** | ghost | [`shen-ling-神靈.md`](shen-ling-神靈.md) — 神 & 靈 |
 

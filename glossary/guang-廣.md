@@ -40,7 +40,7 @@ refs_status: incomplete
 
 > *Tenderness, and so you can be brave.*
 > *Frugality, and so you can be broad.*
-> *Never pushing to be first in the world, and so you can become chief of the vessels.*
+> *Never pushing to be first in the world, and so you can become chief of the completed vessels.*
 >
 > 慈故能勇；
 > 儉故能廣；

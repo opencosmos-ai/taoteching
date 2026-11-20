@@ -45,7 +45,7 @@ A 谿 (*xī* — "ravine") is a valley closed at the bottom. Both are land that 
 
 ### Ten lines, and the valley is land in every one
 
-> *The spirit of the valley is deathless.*
+> *The spirit of the valley does not die.*
 >
 > 谷神不死
 >
@@ -125,7 +125,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 **Heshang Gong reads it as a verb, and the valley leaves the line.** 谷，養也。人能養神則不死也, *"Gǔ means to nourish. If a person can nourish the spirit, they do not die."* 神 (*shén* — spirit) for him is the spirits of the five organs. The dark female is the nose and the mouth, and the gate is where breath comes and goes.
 
-**Ruled: Wang Bi's grammar, and not his emptiness.** *(Shalom's call, 2026-10-25.)* *The spirit of the valley is deathless* keeps 谷 (*gǔ* — valley) a noun. Five reasons:
+**Ruled: Wang Bi's grammar, and not his emptiness.** *(Shalom's call, 2026-10-25.)* *The spirit of the valley does not die* keeps 谷 (*gǔ* — valley) a noun. Five reasons:
 
 - **The other nine lines.** Everywhere else in the book the character is a valley, and no one reads it otherwise.
 - **The silks spell chapter 6 as they spell the land.** Both Mawangdui silks write 浴 (*yù* — to bathe) in chapter 6, the same graph they write in chapters 28, 32, 39 and 66. Those lines have rivers and seas in them, so the bathing graph there can only spell the valley (below). The scribes heard one word in all of them.

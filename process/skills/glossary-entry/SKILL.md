@@ -97,7 +97,7 @@ The rule most often broken. An entry is not a work log.
 - **Set a quote from the verse in the verse-quote shape**: our English, one line per verse line, a blank line, the Chinese broken where the English breaks, a blank line, and the chapter. Take the pairing from `data/lines.csv`. No pinyin and no literal gloss: the English beside the Chinese is its gloss (`CLAUDE.md`, the gloss rule). One chapter per quote, so a note such as *twice* or *in silk B's reading* goes in a sentence after it. The atlas sets this as a figure, the chapter above as a link, English beside Chinese; any other blockquote stays a plain quote.
 
   ```markdown
-  > *The spirit of the valley is deathless.*
+  > *The spirit of the valley does not die.*
   > *This is called the dark female.*
   >
   > 谷神不死，
@@ -141,7 +141,7 @@ covers:
 | `chapters` | recomputed automatically on build; put your best list in |
 | `status` | `locked` or `open` |
 | `pairing` | `true` if the meaning lives between two characters |
-| `covers` | secondary characters treated inside this entry |
+| `covers` | secondary characters treated inside this entry. **A cover is not a lock**: it gets a home and an English, and no rule checks it (below) |
 | `binds` | the books this lock holds in, e.g. `[taoteching]`. **Omit it** and the lock holds in every book that vendors `terms.yaml` — the I Ching does, as its own lock table. Set it only where another book has ruled the character differently on purpose, and say why in the entry's prose (`jiu-咎.md`, `you-尤.md`) |
 | `shuowen` | Xu Shen's 說文 (*Shuōwén* — the c. 100 CE dictionary) line in English, translated by hand once the entry has researched it (single-character terms). Feeds the explorer, the `data/` exports, and the export's `chars[].shuowen` for the Atlas's dictionary section; omit it rather than guess. A graph with no entry can take its dictionary English, and the pinyin of the dictionary's own sense, from `sources/shuowen-readings.yaml` |
 | `refs` | A block of flat mappings with a catalogue `source` id and a passage `locator` or `url`. Use `via` for an intermediary that provided the evidence, `edition` for a catalogue edition id, and `at` for an entry heading anchor. |
@@ -169,6 +169,7 @@ The **where** is a chapter list a tool can check; the **why** is a sentence for 
 
 What a generated table cannot say, and what does not go stale:
 
+- **A cover is not a lock, and not nothing.** A character in `covers:` has a home and an English, and no `forbidden:`, no flexion and no gate: `terms.yaml` carries it only as a comment. `concordance.py` reports it as *covered in the X entry — no lock of its own*. **Before treating a character as unwritten, run `concordance.py` on it**: *covered* means it already has a home, and the work is in that entry. When you cover a character, say what no rule can hold for it in the entry's *What no rule can enforce* section, with the `--english` check to run by hand. If a cover ever needs a lock of its own (a `forbidden:` word, a flexion), promote it to its own entry, as 柔 (*róu* — soft) was promoted out of 弱 (*ruò* — yielding). `ARCHITECTURE.md` → *Covers*.
 - **A lock is on register, not on one English word.** Several terms carry licensed flexions — 事 (*shì* — affairs / to attend to), 弱 (*ruò* — yielding / *yield*), 強 (*qiáng* — strong / *strengthen* / *forcing*). The entry states which, and why.
 - **Grammar overrides a lock, and it decides the form only.** 強其骨 (*qiáng qí gǔ* — "strengthen their bones") takes an object, so *strong* becomes *strengthen* and keeps its root. The split is marked in the Chinese, so it can be checked rather than argued. **A causative is no licence for a new word:** 弱其志 (*ruò qí zhì* — "teach their ambition to yield") read *weaken* from 2026-08-26 to 2026-11-02 on this rule's authority, which was the deficiency word the lock exists to keep out.
 - **Some characters carry both valences, and the English must not resolve them.** 強 is the disease at ch 76 and the cure at ch 52; 執 (*zhí* — to grasp) is the wrong kind of taking-hold at ch 29 and an instruction at ch 14. An English carrying a verdict cannot do both jobs.

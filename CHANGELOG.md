@@ -31,6 +31,16 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-20 — Five entries locked, and the relevance queue down to its last term
+
+A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
+
+- **Five entries locked.** [`glossary/chang-長.md`](glossary/chang-長.md): 長 (*cháng / zhǎng*) *long, last / grow / chief*, with 久 (*jiǔ*) *endure* covered. [`glossary/sheng-勝.md`](glossary/sheng-勝.md): 勝 (*shèng*) *overcome*, *win* in the four battle lines, with 克 (*kè*) *shoulder* covered. [`glossary/cheng-成.md`](glossary/cheng-成.md): 成 (*chéng*) *complete*, in every line, no exceptions. [`glossary/si-死.md`](glossary/si-死.md): 死 (*sǐ*) *death / die / deadly*, by grammar. [`glossary/guo-國.md`](glossary/guo-國.md): 國 (*guó*) *state*, with 邦 (*bāng*) covered and no verse changed. The relevance queue holds only 智 (*zhì* — cleverness) now.
+- **Lines changed:** ch 54 *"its integrity grows"*; 長 and 久 uncrossed at 22, 23, 24 (*last* / *endure*); ch 31 *"A battle won"*; ch 59 *"there is nothing you cannot shoulder"*; ch 67 *"chief of the completed vessels"*; ch 7 *"complete their private self"*; 功成 *"The work is complete"* (2, 34, 77) and ch 17 *"When the work is complete and the affairs are done"*, restoring 事遂 (*shì suì* — the affairs carried through); ch 15 *"never newly completed"*; ch 6 *"The spirit of the valley does not die"*; ch 75 *"seek life too thickly,"* one diagnosis with ch 50.
+- **Kept, and recorded so no later pass reopens them:** 取天下 (*qǔ tiān xià*) *"win over the world"* at 48 and 57; ch 44's *"heavy loss"*; ch 50's *"deadly ground."*
+- **Records.** Han Fei's 為 (*wéi* — become) at ch 67 recorded as fork 128. The open 成 calls are T2-91.
+- **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
+
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked
 
 A day of Shalom's calls, brought one at a time with each stanza in place. Every form-audit loss and every accuracy-audit finding is now settled, and the only call he had deferred is decided. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); the closed rows are in [`WORKLIST-CLOSED.md`](WORKLIST-CLOSED.md).

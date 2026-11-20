@@ -250,6 +250,14 @@ python3 tools/concordance.py --commentary 63       # the classical commentators 
 
 **`--english` is the mode that catches what no rule can.** A lock is a two-way claim: every 強 (*qiáng* — strong) renders as *strong*, **and** every *strong* renders 強. The checker can only ever test the first direction, because its evidence gate keys off the character being present. The second direction found 固 (*gù* — firm) and 壯 (*zhuàng* — in its prime) both wearing 強's English inside chapters that contain 強 — invisible to every rule, by construction. **Run `--english` on every lock.**
 
+### Covers: a home, an English, and no lock
+
+**A glossary entry can absorb a secondary character through `covers:`**, as 鬼 (*guǐ* — ghost) lives in the 神 & 靈 entry and 久 (*jiǔ* — enduring) in the 長 entry. A cover has a home and an English, and [`glossary/INDEX.md`](glossary/INDEX.md) lists it under *Secondary characters*. **It has no lock.** `build_index.py` writes it into `terms.yaml` only as a `# covers` comment, so `load_terms()`, and every rule in `check_locks.py`, cannot see it: no `forbidden:`, no flexion, no gate.
+
+**So there are three answers to "does this character have an entry?", never two: a lock, a cover, or nothing yet.** A tool that reads only `load_terms()` collapses the middle answer into the last, and calls a covered character unwritten. That happened: `concordance.py` printed *"no glossary entry yet"* for every cover, and on 2026-11-20 鬼 and 罪 (*zuì* — crime), both covered the day before, came back to the queue as owed work. **Any tool that answers that question reads `lib.corpus.load_covers()` as well as `load_terms()`.** `concordance.py` does (it prints *covered in the X entry — no lock of its own*, and `--english` names the cover whose English it is), and so do `build_db.py` and `export_atlas.py`, which treat a cover as glossed. `tools/tests/test_concordance.py` → `Covers` fails if any cover is ever reported as unwritten again.
+
+**What a cover costs, said once here so each entry need not rediscover it:** its English is held only by its entry's prose. Each entry that covers a character says so in a *What no rule can enforce* section, and names the `concordance.py --english` check to run by hand (`process/skills/glossary-entry/SKILL.md` §4).
+
 ---
 
 ## The gates
@@ -440,6 +448,7 @@ The things that must stay true. Most are enforced; the ones that are not are mar
 9. **Sources are consulted for meaning, never for phrasing.** *(not enforceable)*
 10. **A published fork ID is never reused or reassigned.** *(enforced: `check_fork_ids.py`)*
 11. **Every source a reading or citation names has one record in `sources/sources.yaml`, and every displayed reading carries its own pinyin and English.** *(enforced: `build_sources.py --check`)*
+12. **A covered character is never reported as unwritten.** A tool that says whether a character has an entry reads covers as well as locks: [Covers](#covers-a-home-an-english-and-no-lock). *(enforced for `concordance.py`: `tests/test_concordance.py` → `Covers`)*
 
 ---
 

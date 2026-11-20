@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 128
+# next-fork-id: 129
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -1142,6 +1142,28 @@
     makes it an ordinary claim about precedence in undertakings. We keep 器,
     which Ch 28's 樸散則為器 supports, and log the older reading rather than
     bury it.
+  logged: notes/manuscript.md
+
+- chapter: 67
+  id: 128
+  line: "不敢為天下先，故能成器長"
+  base: "故能成"
+  base_pinyin: "gù néng chéng"
+  base_english: "and so can complete"
+  readings:
+    - { source: "hanfeizi", text: "故能為成", pinyin: "gù néng wéi chéng", english: "and so can become [chief of] the completed" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Han Fei's text prints 為 (wéi — to become) before 成, 故能爲成事長, and his
+    gloss keeps it: 處大官之謂爲成事長, "to hold high office is what 'becoming
+    chief of the completed affairs' means." With 為 as the verb, 成 (chéng —
+    complete) stands inside the noun phrase, 成事, "completed affairs." Our base
+    has no 為, and its 成器長 can be parsed with 成 as the verb, "become chief of
+    the vessels." We keep the base text. The English follows the parse Han Fei
+    makes explicit, which Wang Bi (立成器, "set up the completed vessels") and
+    Heshang Gong (成器長謂得道人也) also read: "become chief of the completed
+    vessels," with "become" supplied. His 事 for our 器 is fork 54.
   logged: notes/manuscript.md
 
 - chapter: 73

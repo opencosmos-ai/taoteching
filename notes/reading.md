@@ -41,7 +41,7 @@ Reserve this layer for what illuminates **meaning** for the reader. A textual va
 Read the book once for its feminine imagery alone, and a single figure rises through it chapter after chapter — the generative power of the low, the empty, the yielding, the receptive, which Laozi calls, without embarrassment, *female*. Four names carry the thread:
 
 - **母, the mother** (1, 20, 25, 52, 59) — the source that bears the countless things, that the sage nurses from (食母, 20), and that one returns to and holds fast (復守其母, 52). *See her own entry.*
-- **玄牝, the dark female** (6) — the cosmic womb: "The spirit of the valley is deathless. / This is called the dark female. / The dark female's gate — / this is called the root of sky and earth." Chapter 6 is the thread's densest knot, binding *valley* + *spirit* + *female* + *gate* + *root* in six lines.
+- **玄牝, the dark female** (6) — the cosmic womb: "The spirit of the valley does not die. / This is called the dark female. / The dark female's gate — / this is called the root of sky and earth." Chapter 6 is the thread's densest knot, binding *valley* + *spirit* + *female* + *gate* + *root* in six lines.
 - **雌, the hen** (10, 28) — the receptive role the sage is told to *hold to*: "Know the rooster, hold to the hen, / serve as the world's ravine" (28), and "can you be the hen?" (10). In ch 28 it flows straight on to the *infant* (嬰兒), and two stanzas later to the valley and the *uncarved* (樸).
 - **谷, the valley** (6, 15, 28, 32, 39, 41, 66) — the feminine topography: land that water comes out of and passes through. The Shuowen defines it by its outlet, against the ravine, 谿 (*xī*), which has none. *(Corrected 2026-10-25: this note said the valley receives everything "precisely by being lowest and emptiest.")* The valley is low the way a slope is low, on the way down: in 32 and 66 the valleys run to the river and the sea, and the rivers and seas rule them because they stay below them. It fills and runs dry (39), and those likened to it do not want to be full (15). Its company is the soil, and it is not ashamed of it (28, 41). *See its entry.*
 
@@ -509,7 +509,7 @@ Three consecutive chapters open on the same collapse and give it three different
 
 **74** — 民不畏死，奈何以死懼之？ *When the people do not fear death, why try to frighten them with death?* The fact is turned back on the ruler as a question about the futility of the axe.
 
-**75** — 民之輕死，以其上求生之厚. *The people make light of death because those over them want their own lives so rich.* The cause is finally named, and it is not the people's hardness. It is the ruler's appetite.
+**75** — 民之輕死，以其上求生之厚. *The people make light of death because those over them seek life too thickly.* The cause is finally named, and it is not the people's hardness. It is the ruler's appetite.
 
 The arc is worth reading as one movement. 72 says the fear is gone. 74 says you cannot restore it with more killing. 75 says you spent it yourself, on your own living. And 75 escalates through three appetites to get there — for grain, for control, for life — which is why its answer is not a policy but a release: 無以生為, *make no doing of your living*. The ruler who stops making a project of being alive stops charging the people for it.
 

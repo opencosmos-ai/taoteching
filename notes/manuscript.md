@@ -524,6 +524,10 @@ So: 成**器**長, *chief of vessels* (our base), against 成**事**長, *chief 
 
 **We keep 器**, on Ch 28's support and because the vessel reading is what makes the third treasure a claim rather than a maxim. The older reading is logged rather than buried.
 
+### Ch 67 · Han Fei's 為 — 成 is *completed*, not *become*
+
+*(2026-11-20, writing `glossary/cheng-成.md`. Fork 128.)* Han Fei's text has a fifth character: 故能**為**成事長 (*gù néng wéi chéng shì zhǎng* — "and so can become chief of the completed affairs"), and his gloss keeps it, 處大官之謂為成事長, *"to hold high office is what 'becoming chief of the completed affairs' means."* With 為 (*wéi* — become) as the verb, 成 (*chéng* — complete) sits inside the noun phrase. **We keep the base text, and the English follows the parse the oldest witness makes explicit**, which Wang Bi (立成器, *"set up the completed vessels"*) and Heshang Gong (成器長謂得道人也) both read: *"become chief of the completed vessels,"* with *become* supplied (Shalom's call).
+
 ### Ch 73 · a line missing from our base text — **restored 2026-08-20**
 
 After 天之所惡，孰知其故？ (*"what nature hates, who knows why?"*) the received Wang Bi and Heshang Gong texts both read **是以聖人猶難之** — *"therefore even the sage finds it difficult."* **Our base text does not have it,** in the Source table or in `source/chinese.md`.

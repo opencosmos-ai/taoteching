@@ -27,8 +27,8 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from lib.corpus import (ROOT, load_chapters, load_guodian, load_terms,  # noqa: E402
-                        load_variants)
+from lib.corpus import (ROOT, load_chapters, load_covers, load_guodian,  # noqa: E402
+                        load_terms, load_variants)
 
 BOLD, DIM, OFF = "\033[1m", "\033[2m", "\033[0m"
 
@@ -58,18 +58,32 @@ def occurrences(term, chapters):
     return out
 
 
-def show_term(term, chapters, terms, quiet=False):
-    hits = occurrences(term, chapters)
-    lock = lock_for(term, terms)
+def header(term, terms, covers):
+    """What the glossary holds for a character, as the first line of a report.
 
-    print(f"\n{BOLD}{term}{OFF}", end="")
+    Three answers, never two: a lock, a cover (an entry absorbs the character
+    and gives it an English, but it has no lock and no rule checks it), or
+    nothing yet. Reporting a cover as "no entry yet" sent covered characters
+    back to the queue as owed work (`lib.corpus.load_covers`).
+    """
+    lock = lock_for(term, terms)
     if lock:
-        print(f"  ({lock.pinyin}) → {lock.render}", end="")
+        line = f"  ({lock.pinyin}) → {lock.render}"
         if lock.forbidden:
-            print(f"   never: {', '.join(lock.forbidden)}", end="")
-        print(f"\n{DIM}{lock.entry}{OFF}")
-    else:
-        print(f"   {DIM}no glossary entry yet — see glossary/TRIAGE.md{OFF}")
+            line += f"   never: {', '.join(lock.forbidden)}"
+        return line + f"\n{DIM}{lock.entry}{OFF}"
+    if term in covers:
+        render, owner, entry = covers[term]
+        return (f"  → {render}   {DIM}covered in the {owner} entry — "
+                f"no lock of its own, so no rule checks it{OFF}\n{DIM}{entry}{OFF}")
+    return f"   {DIM}no glossary entry yet — see glossary/TRIAGE.md{OFF}"
+
+
+def show_term(term, chapters, terms, quiet=False, covers=None):
+    hits = occurrences(term, chapters)
+    covers = load_covers() if covers is None else covers
+
+    print(f"\n{BOLD}{term}{OFF}" + header(term, terms, covers))
 
     total = sum(len(rows) for _, rows in hits)
     drafted = [ch for ch, _ in hits if ch.drafted]
@@ -176,6 +190,11 @@ def show_english(phrase, chapters, terms, quiet=False):
             print(f'{DIM}  why: {flexion["why"]}{OFF}')
     else:
         print(f"   {DIM}not tied to any locked term{OFF}")
+        for char, (render, owner, entry) in sorted(load_covers().items()):
+            if re.search(rf"\b{re.escape(phrase.strip())}\b", render, re.I):
+                print(f"   {DIM}the English of {char}, covered in the {owner} entry "
+                      f"({entry}); a cover has no lock, so the lines below are "
+                      f"not checked against it{OFF}")
 
     backed, unbacked = [], []
     for n in sorted(chapters):

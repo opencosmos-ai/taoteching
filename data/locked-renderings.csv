@@ -37,6 +37,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
 2,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
 2,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"When the world knows good as good, the not-good arises."
+2,3,成,chéng,成,complete,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,有,yǒu,無 & 有,presence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,無,wú,無 & 有,absence,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
 2,3,生,shēng,生,give birth to / bear / bring forth,yes,1.0,authored,"So presence and absence give birth to each other, Difficult and easy complete each other,"
@@ -57,6 +58,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,9,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The sage births them, and does not possess them;"
 2,10,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acts, and does not rely on it."
 2,10,為,wéi,為,do / handle / serve as,yes,1.0,authored,"acts, and does not rely on it."
+2,11,成,chéng,成,complete,yes,1.0,authored,"The work is complete, and the sage does not stay in it."
 2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not leave.
 3,1,民,mín,民,the people,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
@@ -112,8 +114,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Much talk is bound to run out. Instead, hold to the center."
 5,5,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"Much talk is bound to run out. Instead, hold to the center."
-6,1,神,shén,神 & 靈,spirit,yes,1.0,exact-count,The spirit of the valley is deathless.
-6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley is deathless.
+6,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,The spirit of the valley does not die.
+6,1,神,shén,神 & 靈,spirit,yes,1.0,exact-count,The spirit of the valley does not die.
+6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley does not die.
 6,2,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,3,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,The dark female's gate —
@@ -142,8 +145,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 7,6,身,shēn,身,body,yes,1.0,exact-count,"puts their body outside, and their body survives."
 7,7,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
 7,7,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,Is it not because they have no private self?
-7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so they can fulfill their private self.
-7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so they can fulfill their private self.
+7,8,成,chéng,成,complete,yes,1.0,exact-count,And so they can complete their private self.
+7,8,私,sī,公,the private / the private self,NOT FOUND,1.0,exact-count,And so they can complete their private self.
+7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so they can complete their private self.
 8,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,The most masterful are like water.
 8,1,水,shuǐ,水,water,yes,1.0,exact-count,The most masterful are like water.
 8,2,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
@@ -194,6 +198,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
 10,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
 10,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
+10,7,國,guó,國,state,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,7,民,mín,民,the people,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,7,治,zhì,治,govern,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
@@ -323,7 +328,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 15,15,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,15,道,dào,道,the Tao / way,yes,1.0,exact-count,Those who keep the Tao safe like this do not want to be full.
 15,16,唯,wéi,唯,only,yes,1.0,exact-count,Only because they are never full
-15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly made."
+15,17,成,chéng,成,complete,yes,1.0,exact-count,"can they stay covered, and never newly completed."
+15,17,能,néng,可,be able,NOT FOUND,1.0,exact-count,"can they stay covered, and never newly completed."
 16,1,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,authored,Go totally empty.
 16,1,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,Go totally empty.
 16,2,守,Shǒu,守,hold to,NOT FOUND,1.0,authored,Hold steadily to stillness.
@@ -365,7 +371,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 17,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Where trust runs short, there is no trust."
 17,6,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
 17,6,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,exact-count,"Hesitant, they prize their words."
-17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"When their work is done,"
+17,7,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,exact-count,"When the work is complete and the affairs are done,"
+17,7,成,chéng,成,complete,yes,1.0,exact-count,"When the work is complete and the affairs are done,"
 17,8,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"Everyone says, “We did this by ourselves.”"
 18,1,仁,rén,仁,humaneness,yes,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
 18,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"When the great Tao is discarded, humaneness and duty appear."
@@ -380,6 +387,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,4,亂,luàn,亂,disorder,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
+18,4,國,Guó,國,state,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
@@ -502,6 +510,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 24,9,物,Wù,萬物,things / something,yes,1.0,authored,Living things recoil from them.
 24,10,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Those who are with the Tao do not dwell among them.
 24,10,道,dào,道,the Tao / way,yes,1.0,authored,Those who are with the Tao do not dwell among them.
+25,1,成,chéng,成,complete,yes,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,1,物,wù,萬物,things / something,yes,1.0,authored,"Something mixed and complete, born before sky and earth."
@@ -676,6 +685,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,8,得,dé,得 & 失,get,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,8,用,yòng,無 & 有,use,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Use them only when unavoidable; calm detachment is best.
+31,10,勝,Shèng,勝,overcome,yes,1.0,authored,"Win, but do not glorify it."
 31,13,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot get their will in the world.
@@ -685,6 +695,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,14,吉,Jí,凶 & 吉,auspicious,yes,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,16,言,yán,言,"words, speech (a noun) / speak (a verb)",yes,1.0,authored,which is to say they are placed by the rites of mourning.
 31,17,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"For the crowd of people killed, weep with sorrow and grief."
+31,18,勝,shèng,勝,overcome,NOT FOUND,1.0,authored,A battle won is placed by the rites of mourning.
 32,1,名,míng,名,name,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"The Tao is ever nameless, uncarved."
@@ -713,13 +724,16 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 33,1,智,zhì,智,cleverness / clever,yes,1.0,exact-count,One who knows others is clever.
 33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,exact-count,One who knows themselves is clear-seeing.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
+33,3,勝,Shèng,勝,overcome,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
+33,4,勝,shèng,勝,overcome,yes,1.0,exact-count,One who overcomes themselves is strong.
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
 33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 33,7,久,jiǔ,長,endure,yes,1.0,exact-count,One who does not lose their place endures.
 33,7,失,shī,得 & 失,lose,yes,1.0,exact-count,One who does not lose their place endures.
+33,8,死,Sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,One who dies but does not vanish lives long.
 34,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
@@ -727,8 +741,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,2,物,wù,萬物,things / something,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
 34,2,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things rely on it to live, yet it refuses none."
-34,3,名,míng,名,name,yes,1.0,exact-count,"The work is done, and it does not name it its own."
-34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is done, and it does not name it its own."
+34,3,名,míng,名,name,yes,1.0,exact-count,"The work is complete, and it does not name it its own."
+34,3,成,chéng,成,complete,yes,1.0,exact-count,"The work is complete, and it does not name it its own."
+34,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The work is complete, and it does not name it its own."
 34,4,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
 34,4,物,wù,萬物,things / something,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
 34,4,萬,wàn,萬物,countless,yes,1.0,exact-count,"The Tao clothes and nourishes the countless things, yet it does not act as their master."
@@ -749,6 +764,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,and so its greatness can be completed.
+34,8,成,chéng,成,complete,yes,1.0,exact-count,and so its greatness can be completed.
 34,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,and so its greatness can be completed.
 35,1,執,Zhí,執,grasp,yes,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
@@ -765,6 +781,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,4,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"If you would take from it, you must first give to it."
 36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the faint clarity.
 36,6,剛,gāng,柔,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
+36,6,勝,shèng,勝,overcome,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
@@ -772,6 +789,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,8,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
+36,8,國,Guó,國,state,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
@@ -940,6 +958,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,9,器,qì,器,vessel / tool / implement,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
+41,9,成,chéng,成,complete,yes,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,9,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The great square has no corners. The great vessel is never completed.
 41,10,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
 41,10,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The great sound is barely heard. The great image has no form.
@@ -950,6 +969,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,11,道,Dào,道,the Tao / way,yes,1.0,authored,The Tao is hidden and nameless.
 41,12,唯,wéi,唯,only,yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 41,12,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
+41,12,成,chéng,成,complete,NOT FOUND,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 41,12,道,dào,道,the Tao / way,yes,1.0,authored,"Only the Tao is masterful at lending, and at completing."
 42,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
 42,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,exact-count,"The Tao births the one, the one births the two, the two births the three, the three births the countless things."
@@ -974,6 +994,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,6,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"What others teach, I also teach:"
 42,7,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,7,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
+42,7,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,8,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,I take this as the father of learning.
 42,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I take this as the father of learning.
 42,8,父,fù,父 & 甫,father,yes,1.0,exact-count,I take this as the father of learning.
@@ -1002,6 +1023,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 44,8,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,And so you can last long.
 44,8,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,And so you can last long.
 45,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
+45,1,成,chéng,成,complete,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,1,用,yòng,無 & 有,use,yes,1.0,exact-count,"Great completeness seems deficient, yet when used, it never wears out."
 45,2,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
 45,2,沖,chōng,沖,empty,yes,1.0,exact-count,"Great fullness seems empty, yet when used, it never runs dry."
@@ -1011,6 +1033,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 45,3,直,zhí,正 & 奇,true,yes,1.0,exact-count,Great trueness seems bent.
 45,4,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great skill seems clumsy.
 45,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great argument seems halting.
+45,6,勝,shèng,勝,overcome,yes,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
+45,6,勝,shèng,勝,overcome,yes,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,6,躁,Zào,靜,"restless, restlessness",NOT FOUND,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,6,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Clear stillness sets the world straight.
@@ -1038,6 +1062,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage knows without venturing,"
 47,4,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"Therefore, the sage knows without venturing,"
 47,5,名,míng,名,name,yes,1.0,authored,"names without seeing, and accomplishes without acting."
+47,5,成,chéng,成,complete,NOT FOUND,1.0,authored,"names without seeing, and accomplishes without acting."
 47,5,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"names without seeing, and accomplishes without acting."
 48,1,為,Wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
@@ -1085,11 +1110,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,8,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Everyone pours out their attention, all eyes and ears; the sage treats them all as infants."
+50,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,2,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten are followers of death.
+50,3,死,Sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,Three in ten are followers of death.
 50,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
+50,4,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
@@ -1100,10 +1128,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,10,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,the weapon blades have nothing to cut.
+50,12,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,Why? Because in them there is no deadly ground.
 50,12,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Why? Because in them there is no deadly ground.
 51,1,德,dé,德,integrity,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,1,道,Dào,道,the Tao / way,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
+51,2,成,chéng,成,complete,yes,1.0,authored,"matter forms them, circumstance completes them."
 51,2,物,Wù,萬物,things / something,NOT FOUND,1.0,authored,"matter forms them, circumstance completes them."
 51,3,尊,zūn,貴 & 賤,honor,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
 51,3,德,dé,德,integrity,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
@@ -1177,12 +1207,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,4,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your community, and its integrity grows."
 54,4,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Cultivate this in your community, and its integrity grows."
 54,5,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your state, and its integrity becomes bountiful."
+54,5,邦,bāng,國,state,yes,1.0,authored,"Cultivate this in your state, and its integrity becomes bountiful."
 54,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Cultivate this in the world, and its integrity becomes universal."
 54,6,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in the world, and its integrity becomes universal."
 54,7,身,shēn,身,body,yes,1.0,authored,So observe the body through your own body. Observe the family through your family.
 54,7,身,shēn,身,body,yes,1.0,authored,So observe the body through your own body. Observe the family through your family.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
+54,8,邦,bāng,國,state,yes,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
+54,8,邦,bāng,國,state,yes,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the world is so? By this.
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,How do I know the world is so? By this.
 55,1,德,dé,德,integrity,yes,1.0,authored,One who holds integrity thick within is like a newborn boy.
@@ -1225,6 +1258,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
+57,1,國,guó,國,state,yes,1.0,exact-count,"Govern the state with the straight,"
 57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"Govern the state with the straight,"
 57,1,治,zhì,治,govern,yes,1.0,exact-count,"Govern the state with the straight,"
 57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"wage war with the crooked,"
@@ -1237,6 +1271,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,6,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
+57,6,國,guó,國,state,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,7,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
@@ -1282,15 +1317,19 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,1,治,Zhì,治,govern,yes,1.0,exact-count,"When governing people and serving nature, nothing compares to conserving."
 59,2,唯,wéi,唯,only,yes,1.0,exact-count,"Only conserving is called accepting early,"
 59,3,德,dé,德,integrity,yes,1.0,exact-count,"accepting early is called a heavy accumulation of integrity,"
-59,4,德,dé,德,integrity,yes,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
-59,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"a heavy accumulation of integrity is when nothing cannot be overcome,"
-59,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when nothing cannot be overcome, no one knows its limit,"
-59,5,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"when nothing cannot be overcome, no one knows its limit,"
+59,4,克,kè,勝,shoulder,yes,1.0,exact-count,"a heavy accumulation of integrity is when there is nothing you cannot shoulder,"
+59,4,德,dé,德,integrity,yes,1.0,exact-count,"a heavy accumulation of integrity is when there is nothing you cannot shoulder,"
+59,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"a heavy accumulation of integrity is when there is nothing you cannot shoulder,"
+59,5,克,kè,勝,shoulder,yes,1.0,exact-count,"when there is nothing you cannot shoulder, no one knows its limit,"
+59,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when there is nothing you cannot shoulder, no one knows its limit,"
+59,5,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"when there is nothing you cannot shoulder, no one knows its limit,"
 59,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
+59,6,國,guó,國,state,yes,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,6,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,7,久,jiǔ,長,endure,NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
+59,7,國,guó,國,state,yes,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,母,mǔ,母,mother,yes,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
@@ -1299,6 +1338,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,8,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,道,dào,道,the Tao / way,yes,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
+60,1,國,guó,國,state,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,小,xiǎo,大,small,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,治,Zhì,治,govern,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
@@ -1313,25 +1353,35 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"Not only does their spirit do no harm to people, the sage, too, does no harm to people."
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 60,5,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
+61,1,國,guó,國,state,yes,1.0,authored,"The large state is the downstream flow,"
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The large state is the downstream flow,"
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
 61,2,牝,pìn,牝,the female,yes,1.0,authored,"the female of the world, the confluence of the world."
+61,3,勝,shèng,勝,overcome,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,牝,Pìn,牝,the female,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,牡,mǔ,牝,the male,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,小,Xiǎo,大,small,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,7,國,guó,國,state,yes,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,7,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,8,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,The small state wants nothing more than to enter and serve people.
+61,8,國,guó,國,state,yes,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,8,小,Xiǎo,大,small,yes,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,8,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Both get what they want. The large one ought to be underneath.
@@ -1383,6 +1433,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The world's great affairs always begin slight.
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
@@ -1410,6 +1461,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 64,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage does not handle it, and so ruins nothing, does not grasp it, and so loses nothing."
 64,9,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,People always ruin their affairs just short of completing them.
+64,9,成,chéng,成,complete,NOT FOUND,1.0,authored,People always ruin their affairs just short of completing them.
 64,9,民,Mín,民,the people,yes,1.0,authored,People always ruin their affairs just short of completing them.
 64,10,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,"Be as careful at the end as at the beginning, and nothing will be ruined."
 64,10,始,shǐ,母,beginning,yes,1.0,authored,"Be as careful at the end as at the beginning, and nothing will be ruined."
@@ -1435,8 +1487,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,2,智,zhì,智,cleverness / clever,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,民,Mín,民,the people,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
+65,3,國,guó,國,state,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,3,國,guó,國,state,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,3,智,zhì,智,cleverness / clever,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,4,國,guó,國,state,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
+65,4,國,guó,國,state,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,智,zhì,智,cleverness / clever,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,福,fú,禍 & 福,fortune,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
@@ -1498,18 +1554,21 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,7,儉,Jiǎn,儉,frugality,yes,1.0,authored,"Frugality, and so you can be broad."
 67,7,廣,guǎng,廣,broad · breadth (as a noun),yes,1.0,authored,"Frugality, and so you can be broad."
 67,7,能,néng,可,be able,NOT FOUND,1.0,authored,"Frugality, and so you can be broad."
-67,8,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,能,néng,可,be able,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
-67,8,長,zhǎng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the vessels."
+67,8,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,成,chéng,成,complete,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,能,néng,可,be able,NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
+67,8,長,zhǎng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Never pushing to be first in the world, and so you can become chief of the completed vessels."
 67,9,儉,jiǎn,儉,frugality,yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,先,xiān,先 & 後,"ahead, or before in time",yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,廣,guǎng,廣,broad · breadth (as a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,慈,cí,慈,tenderness,yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
+67,9,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
+67,10,勝,shèng,勝,overcome,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,守,shǒu,守,hold to,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,慈,cí,慈,tenderness,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,11,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"When nature would rescue someone, it shields them with tenderness."
@@ -1518,6 +1577,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 68,1,士,shì,士,in service,yes,1.0,exact-count,Those masterful in service are not martial.
 68,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Those masterful in service are not martial.
 68,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at fighting do not rage.
+68,3,勝,shèng,勝,overcome,NOT FOUND,1.0,exact-count,Those masterful at overcoming enemies do not engage them.
 68,3,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at overcoming enemies do not engage them.
 68,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at using people put themselves below them.
 68,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Those masterful at using people put themselves below them.
@@ -1546,6 +1606,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 69,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,There is no greater disaster than making light of the enemy.
 69,8,禍,Huò,禍 & 福,disaster,yes,1.0,exact-count,There is no greater disaster than making light of the enemy.
 69,9,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,Making light of the enemy nearly costs me my treasures.
+69,10,勝,shèng,勝,overcome,yes,1.0,exact-count,"So when the armies are evenly matched, the side that grieves wins."
 70,1,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"My words are very easy to know, very easy to follow."
 70,1,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"My words are very easy to know, very easy to follow."
 70,1,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"My words are very easy to know, very easy to follow."
@@ -1580,6 +1641,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 73,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"Of these two, one benefits and one harms."
 73,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"What nature turns against, who knows why?"
 73,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage still finds it difficult.
+73,6,勝,shèng,勝,overcome,NOT FOUND,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,爭,zhēng,爭,contend / contention,yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
@@ -1589,6 +1651,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 73,9,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"It is unhurried, yet masterful at planning."
 73,10,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"Nature's net is vast. Its mesh is wide, yet it loses nothing."
 73,10,失,shī,得 & 失,lose,yes,1.0,authored,"Nature's net is vast. Its mesh is wide, yet it loses nothing."
+74,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
+74,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
 74,1,民,Mín,民,the people,yes,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
 74,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,執,zhí,執,grasp,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
@@ -1596,6 +1660,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 74,2,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
+74,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,民,mín,民,the people,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,3,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,There is always one who does the killing.
@@ -1610,8 +1675,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
 75,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
 75,2,為,wéi,為,do / handle / serve as,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
-75,3,民,Mín,民,the people,yes,1.0,authored,The people make light of death because those over them want their own lives so rich.
-75,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The people make light of death because those over them want their own lives so rich.
+75,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,The people make light of death because those over them seek life too thickly.
+75,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,The people make light of death because those over them seek life too thickly.
+75,3,民,Mín,民,the people,yes,1.0,authored,The people make light of death because those over them seek life too thickly.
+75,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The people make light of death because those over them seek life too thickly.
 75,4,唯,wéi,唯,only,yes,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
 75,4,為,wéi,為,do / handle / serve as,yes,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
 75,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
@@ -1621,15 +1688,19 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 76,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,柔,róu,柔,soft,yes,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
+76,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,2,柔,róu,柔,soft,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
+76,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,物,wù,萬物,things / something,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,萬,Wàn,萬物,countless,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,So the hard and strong are followers of death.
+76,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,So the hard and strong are followers of death.
 76,4,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
 76,4,柔,Róu,柔,soft,yes,1.0,authored,The soft and yielding are followers of life.
 76,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
+76,5,勝,shèng,勝,overcome,yes,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
@@ -1650,24 +1721,30 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 77,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,6,能,néng,可,be able,NOT FOUND,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
 77,6,道,dào,道,the Tao / way,yes,1.0,authored,Who can have more than enough and offer it up to the world? Only those who are with the Tao.
-77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
-77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts without relying on it. The work is done, and they do not stay in it. They do not want to appear exceptional."
+77,7,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,成,chéng,成,complete,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
+77,7,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts without relying on it. The work is complete, and they do not stay in it. They do not want to appear exceptional."
 78,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,柔,róu,柔,soft,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,水,shuǐ,水,water,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
+78,2,勝,shèng,勝,overcome,yes,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,能,néng,可,be able,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,3,剛,gāng,柔,unbending,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,3,勝,shèng,勝,overcome,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,3,勝,shèng,勝,overcome,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,弱,Ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,柔,róu,柔,soft,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,能,néng,可,be able,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
+78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
@@ -1692,10 +1769,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 79,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The way of nature plays no favorites. It stays with those who are masterful.
 79,4,道,dào,道,the Tao / way,yes,1.0,authored,The way of nature plays no favorites. It stays with those who are masterful.
 80,1,器,qì,器,vessel / tool / implement,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
+80,1,國,guó,國,state,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,小,Xiǎo,大,small,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,民,mín,民,the people,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,用,yòng,無 & 有,use,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
+80,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Let the people find death heavy, and not move far away."
 80,2,民,mín,民,the people,yes,1.0,authored,"Let the people find death heavy, and not move far away."
 80,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
 80,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
@@ -1704,6 +1783,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 80,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,民,mín,民,the people,yes,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
+80,6,國,guó,國,state,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
+80,6,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 80,6,民,mín,民,the people,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 81,1,信,Xìn,信,trust / trustworthy,yes,1.0,authored,Trustworthy words are not pretty. Pretty words are not trustworthy.
 81,1,信,xìn,信,trust / trustworthy,yes,1.0,authored,Trustworthy words are not pretty. Pretty words are not trustworthy.

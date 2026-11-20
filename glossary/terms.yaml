@@ -202,6 +202,14 @@
   status: locked
   entry: glossary/shi-事.md
 
+- term: "成"
+  pinyin: "chéng"
+  render: "complete"
+  forbidden: ["compile", "perfect", "perfection"]
+  chapters: [2, 7, 15, 17, 25, 34, 41, 45, 47, 51, 63, 64, 67, 77]
+  status: locked
+  entry: glossary/cheng-成.md
+
 - term: "民"
   pinyin: "mín"
   render: "the people"
@@ -245,6 +253,17 @@
     - { english: "first", chapters: [7, 67], why: "Shalom's call, 2026-11-19, with last: ch 7's move, and ch 67's third treasure and its undoing" }
   # covers 前 -> front
 
+- term: "勝"
+  pinyin: "shèng"
+  render: "overcome"
+  forbidden: ["victory", "victorious", "conquer", "conquest", "defeat", "triumph"]
+  chapters: [31, 33, 36, 45, 61, 67, 68, 69, 73, 76, 78]
+  status: locked
+  entry: glossary/sheng-勝.md
+  flexions:
+    - { english: "win", chapters: [31, 67, 69, 76], why: "the battle lines, where 勝 names no object and the enemy is understood (Heshang Gong supplies it at 67); Shalom's call, 2026-11-20" }
+  # covers 克 -> shoulder
+
 - term: "明"
   pinyin: "míng"
   render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"
@@ -263,6 +282,15 @@
   status: locked
   entry: glossary/ming-名.md
 
+- term: "國"
+  pinyin: "guó"
+  render: "state"
+  forbidden: ["nation", "kingdom", "country", "realm"]
+  chapters: [10, 18, 36, 57, 59, 60, 61, 65, 78, 80]
+  status: locked
+  entry: glossary/guo-國.md
+  # covers 邦 -> state
+
 - term: "無為"
   pinyin: "wú wéi"
   render: "non-doing"
@@ -280,6 +308,14 @@
   chapters: [11, 28, 29, 31, 36, 41, 57, 67, 80]
   status: locked
   entry: glossary/qi-器.md
+
+- term: "死"
+  pinyin: "sǐ"
+  render: "death (a noun) / die (a verb) / deadly (modifying a noun)"
+  forbidden: ["deathless", "immortal"]
+  chapters: [6, 33, 42, 50, 67, 74, 75, 76, 80]
+  status: locked
+  entry: glossary/si-死.md
 
 - term: "治"
   pinyin: "zhì"

@@ -4,7 +4,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 3,安民,ān mín,Settling the people,drafted,67,82,1.224,no,,,9,9,2
 4,無源,wú yuán,The sourceless,drafted,42,57,1.357,no,,,7,7,2
 5,虛用,xū yòng,The use of emptiness,drafted,45,63,1.4,yes,middle,A,5,6,0
-6,成象,chéng xiàng,Taking form,drafted,25,37,1.48,no,,,6,6,1
+6,成象,chéng xiàng,Taking form,drafted,25,38,1.52,no,,,6,6,1
 7,韜光,tāo guāng,Sheathing the light,drafted,49,63,1.286,no,,,8,8,0
 8,易性,yì xìng,An easy nature,drafted,50,80,1.6,no,,,13,13,4
 9,運夷,yùn yí,Keeping level,drafted,39,62,1.59,yes,complete,A,10,5,2
@@ -15,7 +15,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 14,贊玄,zàn xuán,In praise of the dark,drafted,95,125,1.316,no,,,21,16,0
 15,顯德,xiǎn dé,Integrity made visible,drafted,98,127,1.296,yes,complete,A,17,17,5
 16,歸根,guī gēn,Returning to the root,drafted,67,118,1.761,yes,opening,A,19,18,2
-17,淳風,chún fēng,Unspoiled ways,drafted,44,51,1.159,yes,complete,C,8,8,1
+17,淳風,chún fēng,Unspoiled ways,drafted,44,56,1.273,yes,complete,C,8,8,1
 18,俗薄,sú bó,When custom wears thin,drafted,26,40,1.538,yes,complete,C,4,4,1
 19,還淳,huán chún,Back to the unspoiled,drafted,45,63,1.4,yes,complete,A,7,7,3
 20,異俗,yì sú,Apart from custom,drafted,132,157,1.189,yes,opening,B,25,24,2
@@ -29,7 +29,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 28,反朴,fǎn pǔ,Back to uncarved wood,drafted,86,119,1.384,no,,,15,15,2
 29,無為,wú wéi,Non-doing,drafted,62,81,1.306,no,,,11,9,2
 30,儉武,jiǎn wǔ,Sparing with arms,drafted,75,92,1.227,yes,complete,A,15,9,0
-31,偃武,yǎn wǔ,Laying arms down,drafted,116,138,1.19,yes,end,C,18,15,0
+31,偃武,yǎn wǔ,Laying arms down,drafted,116,137,1.181,yes,end,C,18,15,0
 32,聖德,shèng dé,The integrity of the sage,drafted,71,95,1.338,yes,complete,A,10,9,3
 33,辯德,biàn dé,Telling integrity apart,drafted,38,57,1.5,no,,,8,8,1
 34,任成,rèn chéng,Letting things complete,drafted,62,88,1.419,no,,,8,8,0
@@ -57,7 +57,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 56,玄徳,xuán dé,Profound integrity,drafted,66,74,1.121,yes,complete,A,9,10,0
 57,淳風,chún fēng,Unspoiled ways,drafted,88,113,1.284,yes,complete,A,13,13,1
 58,順化,shùn huà,Going along with change,drafted,70,87,1.243,no,,,11,11,1
-59,守道,shǒu dào,Holding fast to the Tao,drafted,64,83,1.297,yes,complete,B,8,8,0
+59,守道,shǒu dào,Holding fast to the Tao,drafted,64,87,1.359,yes,complete,B,8,8,0
 60,居位,jū wèi,Keeping your place,drafted,48,73,1.521,no,,,5,5,1
 61,謙德,qiān dé,Humble integrity,drafted,81,106,1.309,no,,,9,11,4
 62,為道,wéi dào,Practising the Tao,drafted,81,115,1.42,no,,,10,13,4
@@ -65,7 +65,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 64,守微,shǒu wēi,Holding fast to the slight,drafted,125,172,1.376,yes,split,"A, C",13,22,4
 65,淳德,chún dé,Unspoiled integrity,drafted,69,91,1.319,no,,,7,13,2
 66,後巳,hòu jǐ,Putting the self last,drafted,76,104,1.368,yes,complete,A,8,10,1
-67,三寳,sān bǎo,The three treasures,drafted,99,145,1.465,no,,,11,16,2
+67,三寳,sān bǎo,The three treasures,drafted,99,146,1.475,no,,,11,16,3
 68,配天,pèi tiān,Matching the sky,drafted,43,60,1.395,no,,,7,7,1
 69,玄用,xuán yòng,Profound use,drafted,54,95,1.759,no,,,10,10,1
 70,知難,zhī nán,Hard to be known,drafted,48,71,1.479,no,,,6,11,0
@@ -73,7 +73,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 72,愛己,ài jǐ,Cherishing yourself,drafted,45,67,1.489,no,,,6,8,1
 73,任為,rèn wéi,Leaving doing alone,drafted,64,85,1.328,no,,,10,12,1
 74,制惑,zhì huò,Curbing delusion,drafted,58,75,1.293,no,,,5,9,1
-75,貪損,tān sǔn,What greed costs,drafted,54,59,1.093,no,,,4,8,1
+75,貪損,tān sǔn,What greed costs,drafted,54,57,1.056,no,,,4,8,1
 76,戒強,jiè qiáng,A caution against the strong,drafted,57,74,1.298,no,,,6,10,1
 77,天道,tiān dào,The Tao of nature,drafted,79,123,1.557,no,,,7,16,1
 78,任信,rèn xìn,Relying on trust,drafted,66,100,1.515,no,,,5,13,3

@@ -81,7 +81,7 @@ now and confirm it is the one they mean.
 
 **Then find the Chinese behind their word.** The chapter's `## Source` table
 lines the Chinese up with a literal English, a phrase per row; the row whose
-literal matches their line holds the characters: "is deathless" sits on the row
+literal matches their line holds the characters: "does not die" sits on the row
 谷神不死 (gǔ shén bù sǐ — the valley spirit does not die), so the word is 死
 (sǐ — to die), here as 不死 (bù sǐ — does not die).
 

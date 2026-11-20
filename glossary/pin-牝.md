@@ -32,7 +32,7 @@ refs:
 
 ### Three chapters, and she is a body in each
 
-> *The spirit of the valley is deathless.*
+> *The spirit of the valley does not die.*
 > *This is called the dark female.*
 > *The dark female's gate —*
 > *this is called the root of sky and earth.*

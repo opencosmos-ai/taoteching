@@ -78,7 +78,7 @@ The Shuowen gives the graph. The word is older, and its early uses, gathered in 
 
 ### Seven lines, and 神 is never a god in any of them
 
-> *The spirit of the valley is deathless.*
+> *The spirit of the valley does not die.*
 >
 > 谷神不死，
 >
