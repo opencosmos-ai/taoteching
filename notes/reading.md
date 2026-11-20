@@ -648,7 +648,7 @@ Our base text prints 故 (*gù* — therefore) at the head of the second line. *
 
 **What the reader is left to find** is the relation the commentators draw, which is a **contrast** and not an equivalence. 王弼 (*Wáng Bì*): 言暴疾美興不長也 — *"violent, rapid, splendid arisings do not last long."* 河上公 (*Héshàng Gōng*): 言疾不能長，暴不能久也 — *"the rapid cannot be long, the violent cannot endure."* The squall is not an illustration of natural brevity. It is the loud thing exhausting itself, set against speech that is sparse because nobody is forcing it.
 
-王弼 makes the contrast sharper by glossing 希言 with the Tao's own speech — 道之出言，淡兮其無味也。視之不足見，聽之不足聞, *"the Tao's issuing forth in words is bland, without flavour; look, and there is not enough to see; listen, and there is not enough to hear."* **The self-so speaks blandly and does not stop. Sky and earth roar, and stop before noon.** Two lines later the chapter names the roarer and watches it fail: 孰為此者？天地。天地尚不能久 — *"Who does this? Sky and earth. Even sky and earth cannot make it last long."*
+王弼 makes the contrast sharper by glossing 希言 with the Tao's own speech — 道之出言，淡兮其無味也。視之不足見，聽之不足聞, *"the Tao's issuing forth in words is bland, without flavour; look, and there is not enough to see; listen, and there is not enough to hear."* **The self-so speaks blandly and does not stop. Sky and earth roar, and stop before noon.** Two lines later the chapter names the roarer and watches it fail: 孰為此者？天地。天地尚不能久 — *"Who does this? Sky and earth. Even sky and earth cannot make it endure."*
 
 **A connective would have settled which relation it is.** Leaving it out leaves the work where the Chinese leaves it.
 

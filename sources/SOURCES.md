@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 232 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 88 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 89 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -159,6 +159,8 @@ Stored in this repository.
 
 - [Han Feizi, chapters 20 (Explaining Laozi) and 21 (Illustrating Laozi)](<https://zh.wikisource.org/wiki/韓非子/解老>) · pre-Qin; the oldest surviving commentary on the Laozi
 - [Stored material](<../sources/commentaries/hanfeizi>)
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Explaining Laozi, on chapter 54: the households with a surplus grow more numerous
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Explaining Laozi, on chapter 59: life established long, office held to endure
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Jie Lao, on chapter 46, convicts released and the condemned living
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Jie Lao, on chapter 58, how fortune rests on disaster and disaster on fortune
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern
@@ -176,6 +178,10 @@ Stored in this repository.
 - [Siku Quanshu, Masters Division 14, Daoist works](<https://zh.wikisource.org/zh-hant/老子道徳經_(四庫全書本)>) · commissioned 1773, completed 1782
 - [Scan](<https://archive.org/details/06049303.cn>)
 - [Stored material](<../sources/commentaries/wangbi>)
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 10, things grow to fullness of themselves and are not ruled into completion
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 22, not boasting, their integrity lasts
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 54, cultivated without ceasing, what it reaches grows greater
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 67, becoming chief of things
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 22, little and you get the root
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 23, losing as carrying too much
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 39, each thing gets the one, settles in its completion, and loses its mother
@@ -227,6 +233,13 @@ Stored in this repository.
 
 - [Sibu congkan 0532, facsimile of the Qu family's Song woodblock edition](<https://zh.wikisource.org/wiki/老子道德經_(四部叢刊本)>) · Song woodblock; Sibu congkan reproduction from 1919
 - [Stored material](<../sources/commentaries/heshanggong>)
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 10, the Tao grows and nourishes and does not butcher into vessels; reading marked zhang
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 23, the rapid cannot last, the violent cannot endure
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 24, those who love to boast of their greatness cannot last long
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 28, head chief of the hundred officers; reading marked zhang
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 54, honoring elders, and an integrity that covers and reaches everything
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 67, chief of those who have the Tao; reading marked zhang
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Chapter 7, sky and earth living long, and not seeking life
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 13, getting favor and losing it
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 29, they do not get the Tao of nature
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 42, not getting their death as dying before their span
@@ -290,6 +303,7 @@ Stored in this repository.
 
 - [Sibu congkan, first series, facsimile](<https://zh.wikisource.org/wiki/說文解字>)
 - [Stored material](<../sources/shuowen/entries.md>)
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Entry for chang (lasting and far)
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Hand radical, entry for shi (to let go)
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Step radical, entry for de (to go and get something)
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Cowry radical, entry for gui (a thing not cheap)
@@ -515,6 +529,7 @@ Recorded as evidence.
 Recorded as evidence.
 
 - [Source online](<https://en.wiktionary.org/>)
+- [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · [Entry for chang, glyph origin: a pictogram of an old person with long hair; etymology: the readings cognate, from the root of zhang, to stretch a bowstring](<https://en.wiktionary.org/wiki/%E9%95%B7>)
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · [Entry for ruo (yielding), Etymology](<https://en.wiktionary.org/wiki/%E5%BC%B1#Etymology>)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · [Entry for ling, glyph origin: the lower element varies among jade, shaman, heart and altar in the bronze forms](<https://en.wiktionary.org/wiki/%E9%9D%88>)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · [Entry for shen, glyph origin: written with the lightning graph alone in the oracle bones and some bronzes, the altar added later](<https://en.wiktionary.org/wiki/%E7%A5%9E>)

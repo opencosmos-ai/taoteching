@@ -37,7 +37,7 @@ That second half is what makes 神器 (*shén qì*) in Chapter 29 land. In the l
 
 **And weapons are 器.** Chapter 31 says it three times: 夫佳兵者，不祥之器 · 兵者不祥之器 · 非君子之器 — *fine weapons are implements of ill omen; weapons are implements of ill omen; they are not the implements of a person of quality.* Chapter 57's 人多利器，國家滋昏 (*the more sharp implements among the people, the darker the state grows*) and Chapter 36's 國之利器不可以示人 (*the sharp instruments of the state must not be displayed*) run the same way. Here "implement" or "instrument" serves better than "vessel," and the flexion is licensed.
 
-**And a person can be one.** Chapter 41's 大器晚成 — in our base text *"the great vessel is completed late,"* and in the Mawangdui and Guodian witnesses 免成 / 曼成, *never completed*, which we follow. Classical Chinese applies 器 to people as **capacity** — the size of what someone can hold — and the idiom survives in modern Chinese as *a person of great capacity matures slowly*. Chapter 67's 故能成器長 (*and so can become the elder of the vessels*) uses the same personal sense.
+**And a person can be one.** Chapter 41's 大器晚成 — in our base text *"the great vessel is completed late,"* and in the Mawangdui and Guodian witnesses 免成 / 曼成, *never completed*, which we follow. Classical Chinese applies 器 to people as **capacity** — the size of what someone can hold — and the idiom survives in modern Chinese as *a person of great capacity matures slowly*. Chapter 67's 故能成器長 (*and so you can become chief of the vessels*) uses the same personal sense.
 
 ### What is set aside, and why
 
@@ -56,7 +56,7 @@ That second half is what makes 神器 (*shén qì*) in Chapter 29 land. In the l
 - containers, and the world as one → **vessel** (有器之用 → "the use of the vessel"; 神器 → "a sacred vessel"; 大器 → "the great vessel")
 - what the uncarved becomes → **tools** (樸散則為器 → "when the uncarved wood is carved, it is made into tools")
 - weapons and sharp things → **implement / instrument** (不祥之器 → "implements of ill omen"; 利器 → "sharp instruments")
-- of a person → **capacity** (器長 → the elder among them; 大器晚成 and its variants)
+- of a person → **capacity** (器長 → the chief among them; 大器晚成 and its variants)
 
 **Never** "system," "mechanism," "machine," "utensil."
 

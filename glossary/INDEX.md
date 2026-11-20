@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**88 entries.** Sorted by how much of the book each term touches.
+**89 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ python3 tools/build_index.py
 | **事** | *shì* | affairs / undertakings (noun) · to serve, to attend to (verb) | "techniques", "processes" | 14 | **locked** | [`shi-事.md`](shi-事.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
+| **長** | *cháng / zhǎng* | long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun) | "leader", "leading", "superiority", "immortal", "everlasting" | 12 | **locked** | [`chang-長.md`](chang-長.md) |
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
@@ -106,6 +107,7 @@ python3 tools/build_index.py
 
 | Character | Render as | Treated in |
 |---|---|---|
+| **久** | endure | [`chang-長.md`](chang-長.md) — 長 |
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |

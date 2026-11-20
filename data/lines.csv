@@ -255,7 +255,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 22,9,3,不自見，故明；,"Bù zì jiàn, gù míng;","Does not \[bu\] self \[zi\] display/see \[jian\], therefore \[gu\] is bright/luminous \[ming\];","They do not show themselves off, and so they see clearly.",authored
 22,10,3,不自是，故彰；,"Bù zì shì, gù zhāng;","Does not \[bu\] self \[zi\] assert right/justify \[shi\], therefore \[gu\] is prominent/manifest \[zhang\];","They do not insist they are right, and so their rightness shows.",authored
 22,11,3,不自伐，故有功；,"Bù zì fá, gù yǒu gōng;","Does not \[bu\] self \[zi\] boast/attack \[fa\], therefore \[gu\] has \[you\] merit/success \[gong\];","They do not claim the work, and so the work is theirs.",authored
-22,12,3,不自矜，故長。,"Bù zì jīn, gù cháng.","Does not \[bu\] self \[zi\] pride/pity \[jin\], therefore \[gu\] endures/lasts long \[chang\].","They do not boast, and so they endure.",authored
+22,12,3,不自矜，故長。,"Bù zì jīn, gù cháng.","Does not \[bu\] self \[zi\] pride/pity \[jin\], therefore \[gu\] endures/lasts long \[chang\].","They do not boast, and so they last.",authored
 22,13,4,夫唯不爭，,"Fú wéi bù zhēng,","Now only/precisely \[fu wei\] not \[bu\] contending/competing \[zheng\],",Only because they do not contend can no one in the world contend with them.,authored
 22,14,4,故天下莫能與之爭。,Gù tiān xià mò néng yǔ zhī zhēng.,Therefore \[gu\] the world \[tian xia\] no one \[mo\] can \[neng\] with \[yu\] them \[zhi\] contend \[zheng\].,Only because they do not contend can no one in the world contend with them.,authored
 22,15,4,古之所謂「曲則全」者，,"Gǔ zhī suǒ wèi ""qū zé quán"" zhě,","The ancients' \[gu zhi\] so-called \[suo wei\] ""bent then whole"" \[qu ze quan\] those \[zhe\],","When the ancients said ""bend, and stay whole,"" were those empty words?",authored
@@ -265,7 +265,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 23,2,1,故飄風不終朝，,"Gù piāo fēng bù zhōng zhāo,","Therefore \[gu\] a squall/whirlwind \[piao feng\] does not \[bu\] last the whole \[zhong\] morning \[zhao\],",A squall does not last out the morning.,authored
 23,3,1,驟雨不終日。,Zhòu yǔ bù zhōng rì.,A torrential rain \[zhou yu\] does not \[bu\] last the whole \[zhong\] day \[ri\].,A downpour does not last out the day.,authored
 23,4,1,孰為此者？天地。,Shú wèi cǐ zhě? Tiān dì.,Who \[shu\] does/makes \[wei\] this \[ci\] those \[zhe\]? Heaven \[tian\] and earth \[di\].,Who does this? Sky and earth.,authored
-23,5,1,天地尚不能久，,"Tiān dì shàng bù néng jiǔ,","Heaven and earth \[tian di\] still \[shang\] cannot \[bu neng\] last long \[jiu\],",Even sky and earth cannot make it last long.,authored
+23,5,1,天地尚不能久，,"Tiān dì shàng bù néng jiǔ,","Heaven and earth \[tian di\] still \[shang\] cannot \[bu neng\] last long \[jiu\],",Even sky and earth cannot make it endure.,authored
 23,6,1,而況於人乎？,Ér kuàng yú rén hū?,And \[er\] how much more/let alone \[kuang\] for \[yu\] humans \[ren\] question particle \[hu\]?,How much less a person?,authored
 23,7,2,故從事於道者，,"Gù cóng shì yú dào zhě,","Therefore \[gu\] those who align/follow \[cong\] affairs/actions \[shi\] in/with \[yu\] the Tao \[dao\] those \[zhe\],",So one whose affairs follow the Tao is the same as the Tao.,authored
 23,8,2,同於道；,Tóng yú dào;,Merge/identify \[tong\] with \[yu\] the Tao \[dao\];,So one whose affairs follow the Tao is the same as the Tao.,authored
@@ -284,7 +284,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 24,3,2,自見者不明；,Zì jiàn zhě bù míng;,Self \[zi\] displaying/seeing \[jian\] those \[zhe\] are not \[bu\] bright/clear \[ming\];,Those who show themselves off do not see clearly.,authored
 24,4,2,自是者不彰；,Zì shì zhě bù zhāng;,Self \[zi\] asserting right \[shi\] those \[zhe\] are not \[bu\] prominent/manifest \[zhang\];,Those who insist they are right convince no one.,authored
 24,5,2,自伐者無功；,Zì fá zhě wú gōng;,Self \[zi\] boasting/attacking \[fa\] those \[zhe\] have no \[wu\] merit/success \[gong\];,Those who claim the work have none.,authored
-24,6,2,自矜者不長。,Zì jīn zhě bù cháng.,Self \[zi\] priding/pitying \[jin\] those \[zhe\] do not \[bu\] endure/last long \[chang\].,Those who boast do not endure.,authored
+24,6,2,自矜者不長。,Zì jīn zhě bù cháng.,Self \[zi\] priding/pitying \[jin\] those \[zhe\] do not \[bu\] endure/last long \[chang\].,Those who boast do not last.,authored
 24,7,3,其在道也，,"Qí zài dào yě,","Their \[qi\] place in \[zai\] the Tao \[dao\] particle \[ye\],","Measured by the Tao, these are called leftover food and wasted motion.",authored
 24,8,3,曰餘食贅行，,"Yuē yú shí zhuì xíng,","Is called \[yue\] leftover/surplus \[yu\] food \[shi\] and superfluous/tumor \[zhui\] actions/conduct \[xing\],","Measured by the Tao, these are called leftover food and wasted motion.",authored
 24,9,3,物或惡之，,"Wù huò wù zhī,","Physical entities/matter \[wu\] perhaps/naturally \[huo\] despise/hate \[wu\] them \[zhi\],",Living things recoil from them.,authored
@@ -586,7 +586,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 54,1,1,善建者不拔，善抱者不脫，子孫以祭祀不輟。,"Shàn jiàn zhě bù bá, shàn bào zhě bù tuō, zǐ sūn yǐ jì sì bù chuò.","What is masterfully established cannot be uprooted, what is masterfully embraced cannot slip away, descendants will offer sacrifices/worship without ceasing.","What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away. / By it, descendants will never cease their sacrifices.",authored
 54,2,2,修之於身，其德乃真；,"Xiū zhī yú shēn, qí dé nǎi zhēn;","Cultivate it in the self/body, its Virtue/Power becomes true/genuine;","Cultivate this in your body, and its integrity becomes authentic.",authored
 54,3,2,修之於家，其德乃餘；,"Xiū zhī yú jiā, qí dé nǎi yú;","Cultivate it in the family, its Virtue becomes abundant;","Cultivate this in your family, and its integrity becomes abundant.",authored
-54,4,2,修之於鄉，其德乃長；,"Xiū zhī yú xiāng, qí dé nǎi cháng;","Cultivate it in the village/community, its Virtue becomes enduring/long-lasting;","Cultivate this in your community, and its integrity becomes long-lasting.",authored
+54,4,2,修之於鄉，其德乃長；,"Xiū zhī yú xiāng, qí dé nǎi cháng;","Cultivate it in the village/community, its Virtue becomes enduring/long-lasting;","Cultivate this in your community, and its integrity grows.",authored
 54,5,2,修之於邦，其德乃豐；,"Xiū zhī yú bāng, qí dé nǎi fēng;","Cultivate it in the state/nation, its Virtue becomes rich/bountiful;","Cultivate this in your state, and its integrity becomes bountiful.",authored
 54,6,2,修之於天下，其德乃普。,"Xiū zhī yú tiān xià, qí dé nǎi pǔ.","Cultivate it in the world, its Virtue becomes universal/widespread.","Cultivate this in the world, and its integrity becomes universal.",authored
 54,7,3,故以身觀身，以家觀家，,"Gù yǐ shēn guān shēn, yǐ jiā guān jiā,","Therefore observe the self through the self, observe the family through the family,",So observe the body through your own body. / Observe the family through your family.,authored
