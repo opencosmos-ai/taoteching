@@ -1605,6 +1605,8 @@ Ch 15 and Ch 68 open on the **identical construction** — 善為士者, *"one m
 
 ### Ch 68 · 配天 → "matched with nature", and 極 is a ridgepole
 
+*(Superseded 2026-11-19, Shalom's call: "This is called being matched with the sky, the far end the ancients reached." 天 is what one is matched to, not an agent; Heshang Gong's 天地 is the tier pair.)*
+
 **配 (*pèi*)** is the character of pairing — it is the word in 配偶 (*pèi ǒu* — a spouse). Not *accords with*, not *corresponds to*: **matched with**, as one of a pair. 河上公: 能行此者，德**配**天地 — *"one who can do this, their integrity is matched with sky and earth."*
 
 **極 (*jí*)** is the **ridgepole** — the highest beam of a house — and from there the utmost, the pole, the limit. 古之極 is not "the ancient principle" but *the furthest the ancients got*. 河上公: 是乃古之極要道也.
@@ -2074,6 +2076,18 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 68 · 善▢者 ×4 "Those masterful at …"; 配天 "matched with the sky, the far end the ancients reached"
+
+*(2026-11-19, Shalom's calls.)* One frame, one shape, in 善's word (*master* is 大's 大匠). 配天 takes the tier *sky* with Heshang Gong's 德配天地; 極 its locked *the far end*. T2-47, T1-21. `chapters/068.md`.
+
+### Ch 18 · 智慧 → "cleverness and quick wits"
+
+*(2026-11-19, Shalom's call.)* *(was: "cleverness and erudition.")* 慧 is 儇也, nimbleness; learning is 學's. T2-83. `chapters/018.md`.
+
+### Ch 30 · 兵 → "weapons"
+
+*(2026-11-19, Shalom's call.)* *(was: "arms," set and withdrawn the same day.)* *Arms* is 臂's (38, 42, 64). T2-49.
 
 ### Ch 15 · 故強為之容 → "do I force a likeness on them"
 

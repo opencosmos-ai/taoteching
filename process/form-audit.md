@@ -577,7 +577,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
   The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes. **Done 2026-11-19 (Shalom's call),** without *only*: *"The highest: those below know that they are there."*
 - **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops. **Done 2026-11-19 (Shalom's call).**
 - **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them. **Done 2026-11-19 (Shalom's call).**
-- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*. **Done 2026-11-19 (Shalom's call).**
+- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with weapons"* (*arms* set the same day and withdrawn: it is 臂's), *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*. **Done 2026-11-19 (Shalom's call).**
 - **34, 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") ×2 and 功成 (*gōng chéng* — "the work done") — resolve:**
 
 > The countless things rely on it to live, yet it refuses none.  

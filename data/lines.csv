@@ -197,7 +197,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 17,7,3,功成事遂，,"Gōng chéng shì suì,","Work/merit \[gong\] completed \[cheng\], affairs/tasks \[shi\] accomplished \[sui\],","When their work is done,",exact-count
 17,8,3,百姓皆謂：「我自然」。,"Bǎi xìng jiē wèi: ""Wǒ zì rán"".","The hundred \[bai\] surnames/people \[xing\] all \[jie\] say \[wei\]: ""We \[wo\] are naturally so/spontaneous \[zi ran\]"".","Everyone says, “We did this by ourselves.”",exact-count
 18,1,0,大道廢，有仁義；,"Dà dào fèi, yǒu rén yì;","The Great \[da\] Tao \[dao\] is abandoned/abolished \[fei\], there is \[you\] benevolence \[ren\] and righteousness \[yi\];","When the great Tao is discarded, humaneness and duty appear.",exact-count
-18,2,0,智慧出，有大偽；,"Zhì huì chū, yǒu dà wěi;","Wisdom/cleverness \[zhi\] and intelligence \[hui\] emerge \[chu\], there is \[you\] great \[da\] hypocrisy/falseness \[wei\];","When cleverness and erudition arise, great hypocrisy appears.",exact-count
+18,2,0,智慧出，有大偽；,"Zhì huì chū, yǒu dà wěi;","Wisdom/cleverness \[zhi\] and intelligence \[hui\] emerge \[chu\], there is \[you\] great \[da\] hypocrisy/falseness \[wei\];","When cleverness and quick wits arise, great hypocrisy appears.",exact-count
 18,3,0,六親不和，有孝慈；,"Liù qīn bù hé, yǒu xiào cí;","The six \[liu\] relations/kin \[qin\] are not \[bu\] harmonious \[he\], there is \[you\] filial piety \[xiao\] and deep love/compassion \[ci\];","When kin are out of harmony, devotion and tenderness appear.",exact-count
 18,4,0,國家昏亂，有忠臣。,"Guó jiā hūn luàn, yǒu zhōng chén.","The state \[guo\] and family/nation \[jia\] are dark/chaotic \[hun luan\], there are \[you\] loyal \[zhong\] ministers/officials \[chen\].","When states grow clouded and fall into disorder, loyal ministers appear.",exact-count
 19,1,1,絕聖棄智，民利百倍；,"Jué shèng qì zhì, mín lì bǎi bèi;","Sever/cut off \[jue\] sageliness \[sheng\], abandon/discard \[qi\] wisdom/cleverness \[zhi\], the people \[min\] benefit \[li\] a hundred \[bai\] fold \[bei\];","Cut off sagehood, abandon cleverness, and the people benefit a hundredfold.",exact-count
@@ -361,8 +361,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 29,9,2,或挫或隳。,huò cuò huò huī.,sometimes \[huo\] are supported/safe \[cuo\] sometimes \[huo\] fall/are destroyed \[hui\].,"some are carried, some are toppled.",authored
 29,10,3,是以聖人去甚，,"Shì yǐ shèng rén qù shèn,","Therefore \[shi yi\] the Sage \[sheng ren\] removes/deletes \[qu\] the extreme \[shen\],","Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur.",authored
 29,11,3,去奢，去泰。,"qù shē, qù tài.","removes \[qu\] the extravagant \[she\], removes \[qu\] the excessive \[tai\].","Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur.",authored
-30,1,1,以道佐人主者，,"Yǐ dào zuǒ rén zhǔ zhě,","One who uses \[yi\] the Tao \[dao\] to assist \[zuo\] the ruler \[zhu\] of men \[ren\] those \[zhe\],",One who supports a ruler with the Tao does not force the world with arms.,authored
-30,2,1,不以兵強天下。,bù yǐ bīng qiáng tiān xià.,does not \[bu\] use \[yi\] military force \[bing\] to dominate/force \[qiang\] the world \[tian xia\].,One who supports a ruler with the Tao does not force the world with arms.,authored
+30,1,1,以道佐人主者，,"Yǐ dào zuǒ rén zhǔ zhě,","One who uses \[yi\] the Tao \[dao\] to assist \[zuo\] the ruler \[zhu\] of men \[ren\] those \[zhe\],",One who supports a ruler with the Tao does not force the world with weapons.,authored
+30,2,1,不以兵強天下。,bù yǐ bīng qiáng tiān xià.,does not \[bu\] use \[yi\] military force \[bing\] to dominate/force \[qiang\] the world \[tian xia\].,One who supports a ruler with the Tao does not force the world with weapons.,authored
 30,3,1,其事好還。,Qí shì hào huán.,Such \[qi\] affairs/actions \[shi\] are prone to/tend to \[hao\] return/cycle back \[huan\].,Such undertakings tend to come back on you.,authored
 30,4,1,師之所處，荊棘生焉。,"Shī zhī suǒ chǔ, jīng jí shēng yān.","Where \[suo chu\] armies \[shi zhi\] are stationed/positioned, thorns and brambles \[jing ji\] grow \[sheng\] there \[yan\].","Where armies camp, thorns and brambles grow.",authored
 30,5,1,大軍之後，必有凶年。,"Dà jūn zhī hòu, bì yǒu xiōng nián.","After \[zhi hou\] a great \[da\] army/campaign \[jun\], there must \[bi\] be \[you\] a disastrous/famine \[xiong\] year \[nian\].","After a big military campaign, a year of disaster follows.",authored
@@ -713,12 +713,12 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 67,10,4,夫慈，以戰則勝，以守則固。,"Fú cí, yǐ zhàn zé shèng, yǐ shǒu zé gù.","Now compassion, used in battle it wins, used in defense it is solid/firm.","Tenderness. Fight with it and you win, guard with it and you stand firm.",authored
 67,11,4,天將救之，以慈衛之。,"Tiān jiāng jiù zhī, yǐ cí wèi zhī.","Heaven will save/rescue them, using compassion to guard them.","When nature would rescue someone, it shields them with tenderness.",authored
 68,1,1,善為士者，不武；,"Shàn wéi shì zhě, bù wǔ;",A masterful warrior/scholar is not martial/violent;,Those masterful in service are not martial.,exact-count
-68,2,1,善戰者，不怒；,"Shàn zhàn zhě, bù nù;",A masterful fighter does not become angry;,The master fighter does not rage.,exact-count
-68,3,1,善勝敵者，不與；,"Shàn shèng dí zhě, bù yǔ;",A masterful conqueror of enemies does not engage/contend with them;,The master of overcoming enemies does not engage them.,exact-count
-68,4,1,善用人者，為之下。,"Shàn yòng rén zhě, wéi zhī xià.",A masterful user of people functions as their subordinate/lower.,The master of using people puts themselves below them.,exact-count
+68,2,1,善戰者，不怒；,"Shàn zhàn zhě, bù nù;",A masterful fighter does not become angry;,Those masterful at fighting do not rage.,exact-count
+68,3,1,善勝敵者，不與；,"Shàn shèng dí zhě, bù yǔ;",A masterful conqueror of enemies does not engage/contend with them;,Those masterful at overcoming enemies do not engage them.,exact-count
+68,4,1,善用人者，為之下。,"Shàn yòng rén zhě, wéi zhī xià.",A masterful user of people functions as their subordinate/lower.,Those masterful at using people put themselves below them.,exact-count
 68,5,2,是謂不爭之德，,"Shì wèi bù zhēng zhī dé,","This is called the Virtue/Power (Te) of not competing/contending,",This is called the integrity of not contending.,exact-count
 68,6,2,是謂用人之力，,"Shì wèi yòng rén zhī lì,","This is called the ability/power to use people,",This is called using people's force.,exact-count
-68,7,2,是謂配天，古之極。,"Shì wèi pèi tiān, gǔ zhī jí.","This is called matching/pairing with Heaven, the ultimate of antiquity.","This is called partnered with the sky, the pinnacle of the ancients.",exact-count
+68,7,2,是謂配天，古之極。,"Shì wèi pèi tiān, gǔ zhī jí.","This is called matching/pairing with Heaven, the ultimate of antiquity.","This is called being matched with the sky, the far end the ancients reached.",exact-count
 69,1,1,用兵有言：,Yòng bīng yǒu yán:,Deploying the military has a saying:,Soldiers have a saying:,exact-count
 69,2,1,吾不敢為主，而為客；,"Wú bù gǎn wéi zhǔ, ér wéi kè;","I dare not function as the host/initiator, but function as the guest/responder;",I do not push to be the host. I am the guest.,exact-count
 69,3,1,不敢進寸，而退尺。,"Bù gǎn jìn cùn, ér tuì chǐ.","Dare not advance an inch, but retreat a foot.",I do not push an inch into another's ground. I give up a foot of my own.,exact-count

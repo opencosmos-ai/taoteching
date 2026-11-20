@@ -66,7 +66,7 @@ The 白 here is not *white*. It is Xu Shen's 白 radical, which he calls another
 > — chapter 3
 
 > *When the great Tao is discarded, humaneness and duty appear.*
-> *When cleverness and erudition arise, great hypocrisy appears.*
+> *When cleverness and quick wits arise, great hypocrisy appears.*
 >
 > 大道廢，有仁義；
 > 智慧出，有大偽；
