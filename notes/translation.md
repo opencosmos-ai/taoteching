@@ -2081,6 +2081,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 16, 30 · 凶 → "ominous"; 凶年 → "a lean year"
+
+*(2026-11-19, Shalom's calls.)* *(was: "brings reckless action and disaster," "a year of disaster.")* 凶 is the verdict on conduct, *disaster* 禍's; 凶年 is a failed-harvest year (Heshang Gong). Ch 31's *inauspicious occasions* kept as the ritual pair's flexion. `glossary/xiong-ji-凶吉.md`; T2-53.
+
 ### Ch 64 · "does not handle it, and so ruins nothing"; "learns the not-learning"
 
 *(2026-11-19, Shalom's calls.)* The answer echoes 為者敗之's *handle*; 學不學 matches 欲不欲. T3-9. `chapters/064.md`.

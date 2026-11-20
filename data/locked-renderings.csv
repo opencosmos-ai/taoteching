@@ -337,7 +337,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,9,復,Fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Returning to what is given is called the ever-present.
 16,10,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Knowing the ever-present is called clear-seeing.
 16,10,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,Knowing the ever-present is called clear-seeing.
-16,11,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Not knowing the ever-present brings reckless action and disaster.
+16,11,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"Not knowing the ever-present, reckless action is ominous."
+16,12,凶,xiōng,凶 & 吉,ominous,yes,1.0,authored,"Not knowing the ever-present, reckless action is ominous."
 16,13,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"Knowing the ever-present, you contain everything."
 16,14,公,gōng,公,impartiality / impartial (the quality) · lord / minister (the office),yes,1.0,authored,Containing everything leads to impartiality.
 16,15,公,Gōng,公,impartiality / impartial (the quality) · lord / minister (the office),yes,1.0,authored,Impartiality leads to supreme authority.
@@ -635,9 +636,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not force the world with weapons.
 30,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Such undertakings tend to come back on you.
 30,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Where armies camp, thorns and brambles grow."
-30,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
-30,5,後,hòu,先 & 後,"behind, or after in time",NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
-30,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
+30,5,凶,xiōng,凶 & 吉,ominous,yes,1.0,authored,"After a big military campaign, a lean year follows."
+30,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"After a big military campaign, a lean year follows."
+30,5,後,hòu,先 & 後,"behind, or after in time",NOT FOUND,1.0,authored,"After a big military campaign, a lean year follows."
+30,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"After a big military campaign, a lean year follows."
 30,6,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
 30,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
 30,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
@@ -664,6 +666,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
+31,14,凶,xiōng,凶 & 吉,ominous,yes,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
+31,14,吉,Jí,凶 & 吉,auspicious,yes,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,16,言,yán,言,"words, speech (a noun) / speak (a verb)",yes,1.0,authored,which is to say they are placed by the rites of mourning.
 31,17,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"For the crowd of people killed, weep with sorrow and grief."
 32,1,名,míng,名,name,yes,1.0,authored,"The Tao is ever nameless, uncarved."

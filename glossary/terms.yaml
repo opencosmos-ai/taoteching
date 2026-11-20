@@ -575,6 +575,18 @@
   entry: glossary/gong-公.md
   # covers 私 -> the private / the private self
 
+- term: "凶 & 吉"
+  pinyin: "xiōng / jí"
+  render: "ominous / auspicious"
+  forbidden: ["disaster", "evil", "unlucky", "lucky"]
+  chapters: [16, 30, 31]
+  status: open
+  entry: glossary/xiong-ji-凶吉.md
+  binds: [taoteching]
+  flexions:
+    - { english: "lean", chapters: [30], why: "凶年 is a hardened compound for a year of failed harvest, the thing itself rather than its sign" }
+    - { english: "inauspicious", chapters: [31], why: "凶事 is the ritual category, the rites of mourning, named as the pair of 吉事 in the same line" }
+
 - term: "勤"
   pinyin: "qín"
   render: "strain"

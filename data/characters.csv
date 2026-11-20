@@ -258,7 +258,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 兌,duì,opening,word,,,,,3,2,"52,56",52,56,0.57,
 兒,ér,"child (嬰兒, infant)",word,,,,,3,3,"10,20,28",10,28,0.57,
 全,quán,whole · stay whole · keep whole (transitive),locked,,whole · stay whole · keep whole (transitive),locked,complete; perfect; flawless; restore; made whole,3,1,22,22,22,0.57,glossary/quan-全.md
-凶,xiōng,disaster / inauspicious (31),word,,,,,3,3,"16,30,31",16,31,0.57,
+凶,xiōng,ominous,open,,ominous,open,disaster; evil; unlucky; lucky,3,3,"16,30,31",16,31,0.57,glossary/xiong-ji-凶吉.md
 前,qián,front,covers,,front,locked,,3,3,"2,38,66",2,66,0.57,glossary/xian-hou-先後.md
 勤,qín,strain,locked,,strain,locked,exhausted; inexhaustible; diligence; diligent; diligently; toil,3,3,"6,41,52",6,52,0.57,glossary/qin-勤.md
 化,huà,transform,word,,,,,3,2,"37,57",37,57,0.57,
@@ -506,7 +506,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 千,Qiān,thousand,word,,,,,1,1,64,64,64,0.19,
 卻,què,"retire, send back",word,,,,,1,1,46,46,46,0.19,
 召,zhào,summon,word,,,,,1,1,73,73,73,0.19,
-吉,Jí,auspicious,word,,,,,1,1,31,31,31,0.19,
+吉,Jí,auspicious,open,,auspicious,open,disaster; evil; unlucky; lucky,1,1,31,31,31,0.19,glossary/xiong-ji-凶吉.md
 含,Hán,"hold within, contain",word,,,,,1,1,55,55,55,0.19,
 吹,chuī,blow/breathe easy,apparatus,1/1,,,,1,1,29,29,29,0.19,
 周,Zhōu,Circulating/everywhere,apparatus,1/1,,,,1,1,25,25,25,0.19,

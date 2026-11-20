@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 232 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 86 of 86 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 87 of 87 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -202,6 +202,7 @@ Stored in this repository.
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 28, the rooster with going ahead and the hen with staying behind, quoting chapter 7
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 67, on putting oneself behind and outside, and so becoming chief
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 7, on the body put ahead and kept
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Chapter 16, not knowing the ever-present, reckless action is ominous
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 17, on their words having no substitute and always meeting an answer
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 73, not speaking yet masterful at answering
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 1, on the desireless observing beginnings and the desiring observing ends
@@ -258,6 +259,9 @@ Stored in this repository.
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 66, glossing xian with qian, and others ahead and oneself behind
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 67, not being the head and front of the world
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Chapter 7, others ahead and oneself behind
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Chapter 16, reckless craft loses the spirit's clarity, and so is ominous
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Chapter 30, the sky answers with foul air and harms the five grains
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Chapter 31, the left is the place of life; the right is the way of yin, killing
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 56, the knower prizes action and not words; many words, many troubles
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 70, what I say is spare and easy to know
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 73, the sky does not speak and the countless things answer in season
@@ -308,6 +312,9 @@ Stored in this repository.
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Entry for xian (to advance forward)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Foot radical, entry for the old form of qian (to advance without walking: a foot on a boat)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Step radical, entry for hou (late, slow)
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Altar radical, entry for shi (the sky hangs down images, showing the auspicious and the ominous)
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Entry for xiong (bad; the ground broken open, something fallen in)
+- [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Mouth radical, entry for ji (good)
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Speech radical, entry for yan (speaking straight out, against debating)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Gaping-mouth radical, entry for yu (greedy wanting)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Valley radical, entry for gu (a spring coming out to reach a river)
