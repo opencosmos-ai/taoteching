@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**91 entries.** Sorted by how much of the book each term touches.
+**92 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -42,6 +42,7 @@ python3 tools/build_index.py
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
 | **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
+| **死** | *sǐ* | death (a noun) / die (a verb) / deadly (modifying a noun) | "deathless", "immortal" | 9 | **locked** | [`si-死.md`](si-死.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
 | **身** | *shēn* | body · *to the end of your days* (ch 16, 52) | "spirit", "soul", "the ego", "the separate self" | 9 | **locked** | [`shen-身.md`](shen-身.md) |
 | **一** | *yī* | the one (lowercase) · plain numeral where it counts · *one thing* (ch 22) | "the One", "Oneness", "the Absolute" | 8 | **locked** | [`yi-一.md`](yi-一.md) |

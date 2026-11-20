@@ -3464,3 +3464,9 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **Left open**: ch 47's *accomplishes*.
 
+## 死 (*sǐ*) → *death / die / deadly*, by grammar — and ch 6's *does not die*
+
+*(Shalom's calls, 2026-11-20. Argument in `glossary/si-死.md`.)*
+
+**The noun reads *death*, the verb *die*, and 死 modifying a noun *deadly*.** That held already in all but one line. **Ch 6's 谷神不死 → *"The spirit of the valley does not die"*** (was *deathless*): a verb kept a verb, and an attribute from elegy and hymn gone. **Ch 50's 死地 keeps *deadly ground*** (Shalom's correction): 死 modifies 地, and *deadly* before a place says *dangerous*, as Sunzi's death-ground is the place one is likely to die. A proposed *ground of death* was declined. Left open: 50's 十有三 (Wang Bi's three in ten against Heshang Gong's thirteen), and 厚 (*hòu* — thick) reading *thickly* at 50 and *rich* at 75.
+

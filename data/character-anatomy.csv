@@ -56,7 +56,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 然,rán,so / thus / (然後) only then,,然,exact,火,phonetic-compound,,火 (huǒ = fire),肰 (? = not yet glossed),12,Tier 1,0.1075,燒也。从火肰聲。,
 處,chǔ,"dwell / be placed / stand, stay",,処,old-form,几,compound,,"几 (jī = a low table, a stool) + 夂 (? = not yet glossed)",,15,,0.1075,止也。得几而止。从几从夂。,
 勝,Shèng,overcome,overcome,勝,exact,力,phonetic-compound,,力 (lì = force),朕 (? = not yet glossed),16,locked,0.1065,任也。从力朕聲。,"To bear [a load]. From 力 (lì — strength), with 朕 (zhèn) for sound."
-死,sǐ,death / die,,死,exact,死,compound,,"歺 (è = splintered bone — death, decay) + 人 (rén = people / others / person (聖人, sage))",,18,,0.1063,澌也，人所離也。从歺从人。凡死之屬皆从死。,
+死,sǐ,death (a noun) / die (a verb) / deadly (modifying a noun),death (a noun) / die (a verb) / deadly (modifying a noun),死,exact,死,compound,,"歺 (è = splintered bone — death, decay) + 人 (rén = people / others / person (聖人, sage))",,18,locked,0.1063,澌也，人所離也。从歺从人。凡死之屬皆从死。,To run dry; what a person parts from. From 歺 (è — bare bones) and 人 (rén — a person).
 我,Wǒ,the self seen,the self seen,我,exact,我,compound,,戈 (gē = a dagger-axe) + 𠄒 (? = not yet glossed),,19,locked,0.1059,施身自謂也。或說我，頃頓也。从戈从𠄒。𠄒，或說古垂字。一曰古殺字。凡我之屬皆从我。,
 長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)","long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",長,exact,長,phonetic-compound,,"兀 (? = not yet glossed) + 匕 (bǐ = a spoon, a ladle)",亾 (? = not yet glossed),16,locked,0.1052,久遠也。从兀从匕。兀者，高遠意也。久則變化。亾聲。{{?,"Lasting and far. From 兀 (wù — high) and 匕 (huà — change); 兀 carries the sense of high and far. What lasts, changes. 亾 (wáng — lost) gives the sound."
 也,yě,(closes a statement: it is so),,也,exact,乁,pictograph,,,,14,Tier 0,0.1021,女陰也。象形。,

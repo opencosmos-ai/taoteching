@@ -97,7 +97,7 @@ The rule most often broken. An entry is not a work log.
 - **Set a quote from the verse in the verse-quote shape**: our English, one line per verse line, a blank line, the Chinese broken where the English breaks, a blank line, and the chapter. Take the pairing from `data/lines.csv`. No pinyin and no literal gloss: the English beside the Chinese is its gloss (`CLAUDE.md`, the gloss rule). One chapter per quote, so a note such as *twice* or *in silk B's reading* goes in a sentence after it. The atlas sets this as a figure, the chapter above as a link, English beside Chinese; any other blockquote stays a plain quote.
 
   ```markdown
-  > *The spirit of the valley is deathless.*
+  > *The spirit of the valley does not die.*
   > *This is called the dark female.*
   >
   > 谷神不死，

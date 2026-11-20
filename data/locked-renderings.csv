@@ -114,8 +114,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 5,4,虛,Xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,authored,"Empty but never depleted, the more it moves, the more it yields."
 5,5,守,shǒu,守,hold to,yes,1.0,authored,"Much talk is bound to run out. Instead, hold to the center."
 5,5,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"Much talk is bound to run out. Instead, hold to the center."
-6,1,神,shén,神 & 靈,spirit,yes,1.0,exact-count,The spirit of the valley is deathless.
-6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley is deathless.
+6,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,The spirit of the valley does not die.
+6,1,神,shén,神 & 靈,spirit,yes,1.0,exact-count,The spirit of the valley does not die.
+6,1,谷,Gǔ,谷,valley,yes,1.0,exact-count,The spirit of the valley does not die.
 6,2,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,2,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,exact-count,This is called the dark female.
 6,3,牝,pìn,牝,the female,NOT FOUND,1.0,exact-count,The dark female's gate —
@@ -730,6 +731,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 33,7,久,jiǔ,長,endure,yes,1.0,exact-count,One who does not lose their place endures.
 33,7,失,shī,得 & 失,lose,yes,1.0,exact-count,One who does not lose their place endures.
+33,8,死,Sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,One who dies but does not vanish lives long.
 34,1,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
 34,1,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,The great Tao overflows. It can go left or right.
@@ -989,6 +991,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,6,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"What others teach, I also teach:"
 42,7,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,7,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
+42,7,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,8,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,I take this as the father of learning.
 42,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,I take this as the father of learning.
 42,8,父,fù,父 & 甫,father,yes,1.0,exact-count,I take this as the father of learning.
@@ -1104,11 +1107,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 49,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,8,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"In the world, the sage breathes gently; for the sake of the world, they let their heart be mixed."
 49,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Everyone pours out their attention, all eyes and ears; the sage treats them all as infants."
+50,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Emerge into life, enter into death."
 50,2,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,2,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Three in ten people are followers of life.
 50,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten are followers of death.
+50,3,死,Sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,Three in ten are followers of death.
 50,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
+50,4,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
@@ -1119,6 +1125,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,10,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,the weapon blades have nothing to cut.
+50,12,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,Why? Because in them there is no deadly ground.
 50,12,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Why? Because in them there is no deadly ground.
 51,1,德,dé,德,integrity,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The Tao births the countless things, integrity rears them,"
@@ -1536,6 +1543,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,9,廣,guǎng,廣,broad · breadth (as a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,慈,cí,慈,tenderness,yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
+67,9,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,10,勝,shèng,勝,overcome,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,守,shǒu,守,hold to,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,慈,cí,慈,tenderness,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
@@ -1619,6 +1627,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 73,9,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"It is unhurried, yet masterful at planning."
 73,10,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"Nature's net is vast. Its mesh is wide, yet it loses nothing."
 73,10,失,shī,得 & 失,lose,yes,1.0,authored,"Nature's net is vast. Its mesh is wide, yet it loses nothing."
+74,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
+74,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
 74,1,民,Mín,民,the people,yes,1.0,authored,"When the people do not fear death, why try to frighten them with death?"
 74,2,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,執,zhí,執,grasp,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
@@ -1626,6 +1636,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 74,2,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
+74,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,民,mín,民,the people,yes,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Suppose the people always feared death, and I could seize whoever steps out of line and kill them. Who would still push?"
 74,3,常,Cháng,常,the ever-present / ever / always,yes,1.0,authored,There is always one who does the killing.
@@ -1640,6 +1651,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 75,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
 75,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
 75,2,為,wéi,為,do / handle / serve as,yes,1.0,authored,The people are hard to govern because those over them will not stop doing.
+75,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,The people make light of death because those over them want their own lives so rich.
+75,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,The people make light of death because those over them want their own lives so rich.
 75,3,民,Mín,民,the people,yes,1.0,authored,The people make light of death because those over them want their own lives so rich.
 75,3,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The people make light of death because those over them want their own lives so rich.
 75,4,唯,wéi,唯,only,yes,1.0,authored,Only those who don't use living for doing are worthier than those who prize life.
@@ -1651,12 +1664,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 76,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,柔,róu,柔,soft,yes,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
+76,1,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life a person is soft and yielding. In death, hard and strong."
 76,2,柔,róu,柔,soft,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
+76,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,物,wù,萬物,things / something,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,2,萬,Wàn,萬物,countless,yes,1.0,authored,"In life the countless things, the grasses and trees, are soft and fragile. In death, withered and dry."
 76,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,So the hard and strong are followers of death.
+76,3,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,So the hard and strong are followers of death.
 76,4,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
 76,4,柔,Róu,柔,soft,yes,1.0,authored,The soft and yielding are followers of life.
 76,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
@@ -1731,6 +1747,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 80,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,民,mín,民,the people,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,用,yòng,無 & 有,use,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
+80,2,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,"Let the people find death heavy, and not move far away."
 80,2,民,mín,民,the people,yes,1.0,authored,"Let the people find death heavy, and not move far away."
 80,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
 80,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Though there are boats and carts, there is no call to travel in them. Though there are armor and weapons, there is no call to march them out."
@@ -1739,6 +1756,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 80,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,民,mín,民,the people,yes,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
+80,6,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 80,6,民,mín,民,the people,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 81,1,信,Xìn,信,trust / trustworthy,yes,1.0,authored,Trustworthy words are not pretty. Pretty words are not trustworthy.
 81,1,信,xìn,信,trust / trustworthy,yes,1.0,authored,Trustworthy words are not pretty. Pretty words are not trustworthy.

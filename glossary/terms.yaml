@@ -300,6 +300,14 @@
   status: locked
   entry: glossary/qi-器.md
 
+- term: "死"
+  pinyin: "sǐ"
+  render: "death (a noun) / die (a verb) / deadly (modifying a noun)"
+  forbidden: ["deathless", "immortal"]
+  chapters: [6, 33, 42, 50, 67, 74, 75, 76, 80]
+  status: locked
+  entry: glossary/si-死.md
+
 - term: "治"
   pinyin: "zhì"
   render: "govern"

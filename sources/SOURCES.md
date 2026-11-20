@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 91 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 92 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -215,6 +215,8 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 45, restlessness overcomes cold, stillness overcomes heat
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 67, caring for one another and not fleeing hardship, and so they win
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 76, a strong army that bullies the world cannot win
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 33, though they die, the Tao by which they lived does not vanish
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 50, emerging from the ground of life and entering the ground of death; three in ten; no deadly ground
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, defining sparse speech by quoting chapter 14
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, on the great sound that cannot be heard
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 70, on those who know me growing fewer
@@ -292,6 +294,13 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 67, fight with it and you overcome the enemy
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 68, overcoming the enemy by the Tao without contending
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 78, water wears down iron and copper, and nothing overcomes it
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 42, not getting to die at the end of one's allotted life
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 50, thirteen read as the nine openings and four gates; moving toward deadly ground by seeking life too richly
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 6, if a person can nourish the spirit, they do not die
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 67, acting so, they move into deadly ground
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 74, harsh punishment, and a people who cannot bear to live
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 75, seeking life too richly, they enter deadly ground lightly
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 76, at death the harmonious breath is spent
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 14, soundless is called xi
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, sparse speech as cherishing words
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, the great sound as thunder waiting for its season
@@ -358,6 +367,7 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for ke (to shoulder)
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for li (sinew, picturing a person's sinews)
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Strength radical, entry for sheng (to bear a load)
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Entry for si (to run dry, what a person parts from)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Entry for xian (to advance forward)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Foot radical, entry for the old form of qian (to advance without walking: a foot on a boat)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Step radical, entry for hou (late, slow)
@@ -563,6 +573,7 @@ Recorded as evidence.
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · [Entry for ruo (yielding), Etymology](<https://en.wiktionary.org/wiki/%E5%BC%B1#Etymology>)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · [Entry for ling, glyph origin: the lower element varies among jade, shaman, heart and altar in the bronze forms](<https://en.wiktionary.org/wiki/%E9%9D%88>)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · [Entry for shen, glyph origin: written with the lightning graph alone in the oracle bones and some bronzes, the altar added later](<https://en.wiktionary.org/wiki/%E7%A5%9E>)
+- [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · [Entry for si, glyph origin: semantic dai (bare bones) with phonetic shi; etymology from Proto-Sino-Tibetan](<https://en.wiktionary.org/wiki/%E6%AD%BB>)
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · [Entry for xi, glyph origin: originally a compound of crossed lines over cloth, the parent of the later graph for sparse](<https://en.wiktionary.org/wiki/%E5%B8%8C>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
