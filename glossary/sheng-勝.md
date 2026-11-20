@@ -211,10 +211,8 @@ Chapter 73 sets them side by side: 不爭而善勝 (*bù zhēng ér shàn shèng
 
 ***Overcome* is held for 勝 by argument at chapter 59.** 克 (*kè* — to shoulder) is covered here as *shoulder*, but a cover carries no frontmatter of its own, and chapter 59 has no 勝, so no rule would see *overcome* return there. `concordance.py --english "overcome"` is the check, run by hand: every hit should stand in a line with 勝.
 
-***Win over* is 取 (*qǔ* — take)'s at chapters 48 and 57**, 取天下 (*qǔ tiān xià* — "win over the world"). Neither chapter holds 勝, so no rule sees that either.
+***Win over* is 取 (*qǔ* — take)'s at chapters 48 and 57**, 取天下 (*qǔ tiān xià* — "win over the world"), and it is a different verb: a phrasal verb for drawing allegiance, where 勝's *win* is a battle's outcome. Neither chapter holds 勝. The choice is settled in `notes/translation.md` → *Ch 48, 57 · 取天下*, with every alternative and why it is spoken for.
 
 ### Left open
-
-**取's *win over* at 48 and 57.** 取 is *take* everywhere else in the book, including chapter 61, beside 勝. Now that 勝 holds *win*, the phrase is crowded from both sides, and 取 is owed a look of its own.
 
 **Heshang Gong's turning point at chapter 45.** *Restlessness at its extreme turns to cold* is a real reading, a Han reading in the language of the seasons, and the verse declines it. It is the one place a commentator reads 勝 as something other than one thing getting the better of another.
