@@ -546,7 +546,7 @@ Ch 75 says the people go hungry because those over them eat up so much in taxes.
 
 Two clauses, the same four terms, the arrows reversed. This is the most explicitly political sentence in the book, and it is also its plainest piece of physics: a strung bow, water finding its level, a garment patched where it wore thin. Nothing here appeals to justice or to a judge. 天 (*tiān* — nature) has no partiality to exercise — Ch 79 says so outright, 天道無親 — so the levelling is not a verdict. It is what happens when nobody is holding the thing up.
 
-Which is why the last movement is not a policy either. 孰能有餘以奉天下？ *Who has more than enough, and offers it up to the world?* The question expects one answer, and the answer is a person, not a law. 王弼 reads the sage's refusal of display as itself the levelling instrument — 不欲示其賢以均天下, *"does not display their worth, so as to level the world"* — which links this chapter's ending back to Ch 3's 不尚賢, *"by not exalting the exceptional."* Standing out is how the arrow gets pointed the wrong way.
+Which is why the last movement is not a policy either. 孰能有餘以奉天下？ *Who can have more than enough and offer it up to the world?* The question expects one answer, and the answer is a person, not a law. 王弼 reads the sage's refusal of display as itself the levelling instrument — 不欲示其賢以均天下, *"does not display their worth, so as to level the world"* — which links this chapter's ending back to Ch 3's 不尚賢, *"by not exalting the exceptional."* Standing out is how the arrow gets pointed the wrong way.
 
 ### Ch 78 · the low place is where the grime arrives
 

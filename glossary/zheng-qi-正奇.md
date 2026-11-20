@@ -8,7 +8,7 @@ flexions:
   - { english: "steps out of line", chapters: [74], why: "為奇者 names a person off the line, and the chapter will not grant the ruler a word for criminals" }
 forbidden: ["upright", "norm", "surprise", "correct"]
 chapters: [37, 45, 57, 58, 74, 78]
-status: open
+status: locked
 pairing: true
 covers:
   - { char: "直", render: "true" }
@@ -32,7 +32,7 @@ refs:
 
 *Say "jung," falling, and "chee," rising. 正 stands seven times in six chapters, 奇 four times in three. Chapter 57 sets them side by side as a method, and chapter 58 turns one into the other.*
 
-**Recommended: 正 → "straight," "straighten" as a verb · 奇 → "crooked."** *(Shalom's call on the system, 2026-11-19.)* Three flexions where a compound has hardened: *on the mark* (正言, 78), *strange* (奇物, 57), *steps out of line* (為奇者, 74). *(Not "upright," a moral category in English. Not "norm," an abstraction no one could point at. Not "surprise," which names 奇 only in battle. Not "correct," which makes 正 a verdict.)* **Covered:** 直 (*zhí*) → *true*, 屈 (*qū*) → *bent*, so that no two of the four share a word.
+**Locked: 正 → "straight," "straighten" as a verb · 奇 → "crooked."** *(Shalom's call on the system, 2026-11-19; locked the same day.)* Three flexions where a compound has hardened: *on the mark* (正言, 78), *strange* (奇物, 57), *steps out of line* (為奇者, 74). *(Not "upright," a moral category in English. Not "norm," an abstraction no one could point at. Not "surprise," which names 奇 only in battle. Not "correct," which makes 正 a verdict.)* **Covered:** 直 (*zhí*) → *true*, 屈 (*qū*) → *bent*, so that no two of the four share a word.
 
 ### The graph: a foot that reaches its line
 

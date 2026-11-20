@@ -2091,6 +2091,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 42, 43, 77 · three more lost lines
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 42 *"some are decreased and so increased, some increased and so decreased"* (或 … 或 restored); ch 43 *"What is not there enters the seamless"* (the 無 & 有 lock's words, not *formless*); ch 77 *"Who can have more than enough"* (能 restored).
+
 ### Ch 5, 12, 21, 55 · four of the accuracy audit's lost lines
 
 *(2026-11-19, Shalom's calls; R5.)* Ch 5 *"Much talk is bound to run out"* (was *"Speaking of this is a dead end"*). Ch 12 *"The five colors / tones / flavors"* (was *"The full spectrum of …"*). Ch 21 *"Behavior of the greatest integrity"* (容, was unrendered) and *"The Tao, as a thing"* (物 restored). Ch 55 renders our printed 朘: *"yet his member stirs,"* the newborn a boy from line 1 (Shalom's wording), the person compared unsexed.

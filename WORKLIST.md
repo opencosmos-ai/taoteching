@@ -25,13 +25,13 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **48 item rows: 41 open · 0 done · 7 part done · 0 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **47 item rows: 41 open · 0 done · 6 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
 | | | **Passes** | | |
 | PE | 🔶 | **Entries and sweeps** — the E rows below | book-wide | E |
-| PF | 🔶 | **Calls for Shalom** — the book-wide decisions that wait on him | T4-2 | F |
+| PF | 🔶 | **Calls for Shalom** — the book-wide decisions that wait on him | T2-67 | F |
 | PG | ⬜ | **The harness** — the G rows below, and `build.py` | — | G |
 | | | **Tier 1 · Wrong, not merely inconsistent** — the meaning changed; most need one line rewritten, so each goes to Shalom first | | |
 | | | **Tier 2 · One character, many Englishes** | | |
@@ -61,10 +61,9 @@
 | | | **Research** | | |
 | R2 | ⬜ | **義 (*yì* — duty) wants a glossary entry** — reads *duty* in all 5 lines, unlocked, and the source-table literals still say *righteousness* at 18, 19 and 38 | 18 19 38 | E |
 | R3 | ⬜ | ★ **Read the ten recovered Wang Bi chapters against decisions made without him** — 8, 14, 15, 19, 30, 54, 62, 70, 71, 78. Every one was drafted, and several reworked, with one commentary where there were two. Their lemma forks are logged; **the comments are unread.** First lead: **ch 15 prints 若容 (*ruò róng* — like a bearing) for our 若客 (*ruò kè* — like a guest)**, base kept provisionally. Ch 62 was already drafted with him (under 061) | 8 14 15 19 30 54 62 70 71 78 | E |
-| R5 | 🔶 | ★ **The accuracy audit's findings: what the Chinese says that the English drops, and what the English adds.** `process/accuracy-audit.md` read every line, Chinese against English, on 2026-10-27, and checked every flag against the record. Most departures were already logged. **Ch 27's two findings (13 and 15) done, 2026-11-14** (`chapters/027.md` → Notes). Owed: **the lost lines still open**, each with a proposed rewrite in the audit: ch 42's 或 … 或 (*huò … huò* — some … some), ch 43's *formless* against the 無 & 有 lock, ch 77's 能 (*néng* — can), ch 41's 若 (*ruò* — as if) ×2, ch 50's *truly* against 善 (*shàn* — masterful)'s lock, ch 79's 人 (*rén* — people); **one note correction** at ch 11 | book-wide | E |
+| R5 | 🔶 | ★ **The accuracy audit's findings: what the Chinese says that the English drops, and what the English adds.** `process/accuracy-audit.md` read every line, Chinese against English, on 2026-10-27, and checked every flag against the record. Most departures were already logged. **Ch 27's two findings (13 and 15) done, 2026-11-14** (`chapters/027.md` → Notes). Owed: **the lost lines still open**, each with a proposed rewrite in the audit: ch 41's 若 (*ruò* — as if) ×2, ch 50's *truly* against 善 (*shàn* — masterful)'s lock, ch 79's 人 (*rén* — people); **one note correction** at ch 11 | book-wide | E |
 | R6 | 🔶 | ★ **The back-translation audit's findings: where a blind reader of the English comes away with something the Chinese does not say.** `process/back-translation-audit.md`, run 2026-10-27, compared blind readers of the English against blind readers of the Chinese and verified every gap against the page and the commentaries. Owed: the minor table. Ch 57 rides with T4-2 and ch 58 with T2-67 | book-wide | E |
 | | | **Tier 4 · Open calls** | | |
-| T4-2 | 🔶 | **正 / 奇** (*zhèng / qí* — straight / crooked) — **taken up and settled 2026-11-19 (Shalom's call on the system):** 正 *straight*, 奇 *crooked*, 直 *true*, 屈 *bent*, verse changed in chs 22, 37, 45, 57, 58. Owed: lock `glossary/zheng-qi-正奇.md`, written open, on Shalom's word | 22 37 45 57 58 74 78 | F |
 | T4-5 | 🔶 | **Entries owed that have no row of their own:** 君 (*jūn* — ruler). The order is `glossary/TRIAGE.md` → *The relevance queue* | — | E |
 | T4-6 | ⬜ | Guodian **G2–G6** — the checklist is in `PLAN.md` | 5 16 17 18 25 + 26 more | E |
 | T4-8 | ⬜ | 說文 (c. 100 CE) quotes the four-greats line as 人亦大 — six centuries before our oldest 人 witness | 25 | E |

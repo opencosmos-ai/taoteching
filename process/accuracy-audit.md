@@ -63,7 +63,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **4 · Ch 42 · 故物或損之而益，或益之而損 (*gù wù huò sǔn zhī ér yì, huò yì zhī ér sǔn* — "so with things: some are decreased and gain, some are increased and lose") → *"For so it is: what is decreased is thereby increased, and what is increased is thereby decreased."***
 **Lost:** 或 … 或 (*huò … huò* — some … some). An observation about *some* things becomes a law about *all* of them. The book already has English for this construction: ch 29's 或行或隨 (*huò xíng huò suí* — "some go ahead, some follow") reads *"some go ahead, some follow."*
-**Proposed:** *"For so it is with things: some are decreased and so increased, / some increased and so decreased."*
+**Proposed:** *"For so it is with things: some are decreased and so increased, / some increased and so decreased."* **Done 2026-11-19 (Shalom's call).**
 
 **5 · Ch 30 · 果而勿強 (*guǒ ér wù qiáng* — "succeed, and do not force") → *"They succeed without using excessive force."*** *(Done 2026-11-19, Shalom's call: "They succeed without forcing.")*
 **Added:** *excessive*. That word licenses force short of excess, and the line forbids force. `glossary/qiang-強.md` reads all three 強 (*qiáng* — strong / to force) in this chapter as force and dominance themselves (*"you do not strengthen a country by invading it"*), and quotes Heshang Gong on this very line: 果敢勿以為強兵堅甲以侵凌人也 (*guǒ gǎn wù yǐ wéi qiáng bīng jiān jiǎ yǐ qīn líng rén yě* — "succeed, but do not make strong troops and hard armor to trample people"). The form audit records the series as *Kept*, and it is, as form. The word *excessive* is not logged anywhere.
@@ -71,7 +71,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **6 · Ch 43 · 無有入無間 (*wú yǒu rù wú jiàn* — "what has no presence enters where there is no gap") → *"The formless enters the seamless."***
 **Shift, against a lock.** 無 (*wú* — absence) / 有 (*wú* / *yǒu* — absence / presence) is locked, and its entry names *form and formless* as a rendering it declines: *"they name a different distinction — about visibility rather than"* presence (`glossary/wu-you-無有.md`). No waiver or note covers ch 43. `check_locks.py` cannot see it, because *formless* is not on the forbidden list.
-**Proposed:** *"What is not there enters the seamless."* This reuses ch 11's locked wording, *in what is not there*.
+**Proposed:** *"What is not there enters the seamless."* This reuses ch 11's locked wording, *in what is not there*. **Done 2026-11-19 (Shalom's call).**
 
 **7 · Ch 37 · 夫亦將無欲 … 天下將自正 (*fū yì jiāng wú yù … tiān xià jiāng zì zhèng* — "they too will be without desire … the world will right itself") → *"The nameless uncarved wood is without desire. / Relinquishing desire, being still, the world rights itself."***
 **Lost:** 將 (*jiāng* — will), twice, and 亦 (*yì* — too). The chapter makes three promises, each with 將 (*jiāng* — will): the countless things *will* transform, *will* be without desire, and the world *will* right itself. The English keeps *will* in the first and drops it from the other two, so a promise turns into a description. The last line also dangles its modifier: it is the world that relinquishes desire.
@@ -85,7 +85,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **9 · Ch 77 · 孰能有餘以奉天下 (*shú néng yǒu yú yǐ fèng tiān xià* — "who can have a surplus and offer it to the world?") → *"Who has more than enough, / and offers it up to the world?"***
 **Lost:** 能 (*néng* — can). The question asks who is *able*, and the English asks who *does*. The answer, *Only those who are with the Tao*, is about capacity.
-**Proposed:** *"Who can have more than enough / and offer it up to the world?"*
+**Proposed:** *"Who can have more than enough / and offer it up to the world?"* **Done 2026-11-19 (Shalom's call).**
 
 **10 · Ch 46 · 禍莫大於不知足 (*huò mò dà yú bù zhī zú* — "no disaster is greater than not knowing enough") → *"There is no greater disaster than discontent."***
 **Lost:** 知 (*zhī* — to know). 知足 (*zhī zú* — knowing enough) is a book-wide formula. It reads *knows they have enough* at 33 and *Know when you have enough* at 44, and two lines later in this chapter 知足之足 (*zhī zú zhī zú* — "the enough of knowing enough") reads *"the contentment of knowing you have enough."* *Discontent* names a feeling where the Chinese names a knowing, and it breaks the repetition inside the chapter. The parallel at ch 69 copies this line's frame on purpose (`notes/translation.md` → *Ch 69*), and that frame is unaffected.

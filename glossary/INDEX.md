@@ -59,7 +59,7 @@ python3 tools/build_index.py
 | **心** | *xīn* | heart | "mind", "heart-mind", "the wise core", "consciousness", "gut" | 6 | **locked** | [`xin-心.md`](xin-心.md) |
 | **智** | *zhì* | cleverness / clever · *the knowers* (ch 3) | "wisdom", "wise", "intelligence", "intelligent", "guile" | 6 | **locked** | [`zhi-智.md`](zhi-智.md) |
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
-| **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | open — not yet a lock | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
+| **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | **locked** | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |

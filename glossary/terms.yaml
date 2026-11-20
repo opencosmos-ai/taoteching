@@ -465,7 +465,7 @@
   render: "straight, straighten (verb) / crooked"
   forbidden: ["upright", "norm", "surprise", "correct"]
   chapters: [37, 45, 57, 58, 74, 78]
-  status: open
+  status: locked
   entry: glossary/zheng-qi-正奇.md
   flexions:
     - { english: "on the mark", chapters: [78], why: "正言 is speech that hits its target, the graph's foot reaching its line; Shalom's recorded call on aim" }
