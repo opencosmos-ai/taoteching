@@ -503,10 +503,10 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 #### T3-15 · Chains cut by a stanza break
 
 - **Ch 1 — done, 2026-11-14 (Shalom's call).** The blank line is gone, and *profound darkness* became *dark*, so the chain is kept word for word: *"Together, they are called dark. / Dark, and dark again, the gate of all subtlety."* `chapters/001.md` → Notes.
-- **Ch 25 — resolve.** Delete the blank after *"Forcing a name on it, I call it great."* The naming and the chain it starts become one stanza of six.
-- **Ch 55 — resolve, by moving the break.** Put it after *"…this is vital essence at its utmost."*, so the second stanza opens *"It cries all day and never goes hoarse — this is harmony at its utmost. / Knowing harmony is called the ever-present…"* Both of the chapter's chains, 和…知和 (*hé… zhī hé* — "harmony… knowing harmony") and 常…知常 (*cháng… zhī cháng* — "the ever-present… knowing the ever-present"), then sit inside one stanza.
-- **Ch 65 — resolve.** Delete the blank before *"Profound integrity is deep"*.
-- **Ch 28 — leave, and record the reason.** The three matched stanzas are the chapter's form, and rule 1 (a series keeps one shape) outranks a single link here, because the coda turns: the uncarved wood scatters into vessels, and the Chinese turns with it (rule 2). Ch 6 is not a precedent against this: there no series was at stake.
+- **Ch 25 — resolve.** Delete the blank after *"Forcing a name on it, I call it great."* The naming and the chain it starts become one stanza of six. **Done 2026-11-19 (Shalom's call).**
+- **Ch 55 — resolve, by moving the break.** Put it after *"…this is vital essence at its utmost."*, so the second stanza opens *"It cries all day and never goes hoarse — this is harmony at its utmost. / Knowing harmony is called the ever-present…"* Both of the chapter's chains, 和…知和 (*hé… zhī hé* — "harmony… knowing harmony") and 常…知常 (*cháng… zhī cháng* — "the ever-present… knowing the ever-present"), then sit inside one stanza. **Done 2026-11-19 (Shalom's call).**
+- **Ch 65 — resolve.** Delete the blank before *"Profound integrity is deep"*. **Done 2026-11-19 (Shalom's call).**
+- **Ch 28 — leave, and record the reason.** The three matched stanzas are the chapter's form, and rule 1 (a series keeps one shape) outranks a single link here, because the coda turns: the uncarved wood scatters into vessels, and the Chinese turns with it (rule 2). Ch 6 is not a precedent against this: there no series was at stake. **Reason recorded 2026-11-19** (`chapters/028.md`).
 
 #### T3-8 · Ch 37 — the chain through 化 (*huà* — transform)
 
