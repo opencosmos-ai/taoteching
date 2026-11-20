@@ -383,8 +383,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 31,5,2,用兵則貴右。,yòng bīng zé guì yòu.,using \[yong\] the military \[bing\] then/thus \[ze\] favors/values \[gui\] the right \[you\].,using weapons prizes the right.,authored
 31,6,2,兵者不祥之器，,"Bīng zhě bù xiáng zhī qì,","Weapons/military \[bing zhe\] are tools \[qi\] of ill omen \[bu xiang zhi\],","Weapons are tools of ill omen, not the noble's tools.",authored
 31,7,2,非君子之器，,"fēi jūn zǐ zhī qì,","they are not \[fei\] the noble person's/sage's \[jun zi zhi\] tools \[qi\],","Weapons are tools of ill omen, not the noble's tools.",authored
-31,8,2,不得已而用之，,"bù dé yǐ ér yòng zhī,","only when unavoidable/had no choice \[bu de yi\] and \[er\] using \[yong\] them \[zhi\],","Used only when unavoidable, calm detachment is best.",authored
-31,9,2,恬淡為上。,tián dàn wéi shàng.,calm/bland detachment \[tian dan\] functions as/is \[wei\] supreme/best \[shang\].,"Used only when unavoidable, calm detachment is best.",authored
+31,8,2,不得已而用之，,"bù dé yǐ ér yòng zhī,","only when unavoidable/had no choice \[bu de yi\] and \[er\] using \[yong\] them \[zhi\],",Use them only when unavoidable; calm detachment is best.,authored
+31,9,2,恬淡為上。,tián dàn wéi shàng.,calm/bland detachment \[tian dan\] functions as/is \[wei\] supreme/best \[shang\].,Use them only when unavoidable; calm detachment is best.,authored
 31,10,3,勝而不美，,"Shèng ér bù měi,","Achieving victory \[sheng\] but \[er\] not \[bu\] glorifying/beautifying \[mei\] it,","Win, but do not glorify it.",authored
 31,11,3,而美之者，是樂殺人。,"ér měi zhī zhě, shì lè shā rén.","and \[er\] those who glorify/beautify \[mei zhi\] it \[zhe\], this \[shi\] is delighting/rejoicing \[le\] in killing \[sha\] people \[ren\].",To glorify it is to delight in killing people.,authored
 31,12,3,夫樂殺人者，,"Fú lè shā rén zhě,","Now then \[fu\] those who delight in killing people \[le sha ren zhe\],",And those who delight in killing people cannot get their will in the world.,authored
@@ -525,7 +525,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 45,5,2,大辯若訥。,Dà biàn ruò nè.,Great eloquence seems stuttering/awkward.,Great argument seems halting.,exact-count
 45,6,3,躁勝寒，靜勝熱。,"Zào shèng hán, jìng shèng rè.","Restlessness overcomes cold, stillness overcomes heat.",Restlessness overcomes cold; stillness overcomes heat.,exact-count
 45,7,3,清靜為天下正。,Qīng jìng wéi tiān xià zhèng.,Clarity and stillness function as the standard/ruler for the world.,Clear stillness sets the world straight.,exact-count
-46,1,1,天下有道，卻走馬以糞。,"Tiān xià yǒu dào, què zǒu mǎ yǐ fèn.","When the world has the Tao, swift horses are retired to fertilize fields with their dung.","When the world embraces the Tao, swift horses are retired to work the fields.",exact-count
+46,1,1,天下有道，卻走馬以糞。,"Tiān xià yǒu dào, què zǒu mǎ yǐ fèn.","When the world has the Tao, swift horses are retired to fertilize fields with their dung.","When the world has the Tao, swift horses are retired to work the fields.",exact-count
 46,2,1,天下無道，戎馬生於郊。,"Tiān xià wú dào, róng mǎ shēng yú jiāo.","When the world lacks the Tao, war horses are bred in the suburbs/borders.","When the world lacks the Tao, war horses are bred in the borderlands.",exact-count
 46,3,2,禍莫大於不知足；,Huò mò dà yú bù zhī zú;,There is no disaster greater than not knowing sufficiency.,"There is no greater disaster than not knowing you have enough,",exact-count
 46,4,2,咎莫大於欲得。,Jiù mò dà yú yù dé.,There is no fault/flaw greater than the desire to acquire.,no greater fault than wanting to get.,exact-count

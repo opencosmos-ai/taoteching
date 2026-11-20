@@ -2091,6 +2091,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 31, 46 · two more smaller findings; ch 16 and 27 settled
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 46 *"When the world has the Tao"* (*embraces* is 抱's); ch 31 *"Use them only when unavoidable; calm detachment is best"* (the dangling modifier). Ch 16's *everything* kept, both commentators supplying it; ch 27's *naturally* found already gone.
+
 ### Ch 3, 7, 8, 14 · four of the accuracy audit's smaller findings
 
 *(2026-11-19, Shalom's calls; R5.)* Ch 3 *"the people do not contend"* (*cause* removed); ch 7 *"And so they can fulfill their private self"* (能 and the doer back); ch 8 *"masterful at ground … at depth"* (the series' nouns); ch 14 *"Unbroken"* for 繩繩 (the cord's quality, not water).

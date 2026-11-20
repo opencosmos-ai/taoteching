@@ -660,9 +660,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,5,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,using weapons prizes the right.
 31,6,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Weapons are tools of ill omen, not the noble's tools."
 31,7,器,qì,器,vessel / tool / implement,yes,1.0,authored,"Weapons are tools of ill omen, not the noble's tools."
-31,8,得,dé,得 & 失,get,yes,1.0,authored,"Used only when unavoidable, calm detachment is best."
-31,8,用,yòng,無 & 有,use,yes,1.0,authored,"Used only when unavoidable, calm detachment is best."
-31,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Used only when unavoidable, calm detachment is best."
+31,8,得,dé,得 & 失,get,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
+31,8,用,yòng,無 & 有,use,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
+31,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,13,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot get their will in the world.
@@ -1002,9 +1002,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 45,7,清,Qīng,清,clear,yes,1.0,exact-count,Clear stillness sets the world straight.
 45,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Clear stillness sets the world straight.
 45,7,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,exact-count,Clear stillness sets the world straight.
-46,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"When the world embraces the Tao, swift horses are retired to work the fields."
-46,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When the world embraces the Tao, swift horses are retired to work the fields."
-46,1,道,dào,道,the Tao / way,yes,1.0,exact-count,"When the world embraces the Tao, swift horses are retired to work the fields."
+46,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"When the world has the Tao, swift horses are retired to work the fields."
+46,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When the world has the Tao, swift horses are retired to work the fields."
+46,1,道,dào,道,the Tao / way,yes,1.0,exact-count,"When the world has the Tao, swift horses are retired to work the fields."
 46,2,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,2,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."
 46,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"When the world lacks the Tao, war horses are bred in the borderlands."

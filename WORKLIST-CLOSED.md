@@ -230,6 +230,7 @@
 - **R5** — ch 41's 若 ×2, ch 50's *truly*, ch 79's 人, and the ch 11 note — done 2026-11-19, Shalom's calls (ch 79 as *"and never asks anyone for the other half"*)
 - **R5** — **Ch 27's two findings (13 and 15) done, 2026-11-14** (`chapters/027.md` → Notes) · the smaller table's 56 · 62 *most* — found settled 2026-11-19: *"the most prized in the world"* is Shalom's call of that day in both chapters (`glossary/gui-jian-貴賤.md`)
 - **R5** — the smaller table's 3 *cause*, 7 能, 8's two added verbs, 14's 繩繩 — done 2026-11-19, Shalom's calls
+- **R5** — the smaller table's 16 *everything* (kept, recorded, Shalom's call), 27 *naturally* (found already gone), 31's dangling modifier and 46's *embraces* (Shalom's calls) — done 2026-11-19
 - **T1-26, T1-27, T2-64, T5-22** were not rows before the split. Each was a *still owed* clause inside a closed paragraph above — T2-14 (ch 12's 妨), T1-17 (ch 65's *return*), T2-11 (殆 and 畏) and Tier 5 item 1 (`glossary-self-check`) — owed and tracked nowhere.
 
 ---
