@@ -1,7 +1,7 @@
 chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,status,han_chars,english_words,words_per_character,guodian_attested,guodian_extent,guodian_bundles,source_lines,verse_lines,variants
 1,體道,tǐ dào,Embodying the Tao,drafted,59,80,1.356,no,,,9,9,3
 2,養身,yǎng shēn,Nourishing the self,drafted,87,125,1.437,yes,complete,A,12,15,1
-3,安民,ān mín,Settling the people,drafted,67,82,1.224,no,,,9,9,2
+3,安民,ān mín,Settling the people,drafted,67,81,1.209,no,,,9,9,2
 4,無源,wú yuán,The sourceless,drafted,42,57,1.357,no,,,7,7,2
 5,虛用,xū yòng,The use of emptiness,drafted,45,63,1.4,yes,middle,A,5,6,0
 6,成象,chéng xiàng,Taking form,drafted,25,37,1.48,no,,,6,6,1
@@ -36,12 +36,12 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 35,仁德,rén dé,Humane integrity,drafted,43,63,1.465,yes,complete,C,7,7,2
 36,微明,wēi míng,Subtle clear-seeing,drafted,56,75,1.339,no,,,8,8,3
 37,為政,wéi zhèng,Handling government,drafted,50,61,1.22,yes,complete,A,5,5,0
-38,論德,lùn dé,On integrity,drafted,129,185,1.434,no,,,20,17,3
-39,法本,fǎ běn,Following the root,drafted,134,203,1.515,no,,,21,21,6
+38,論德,lùn dé,On integrity,drafted,129,184,1.426,no,,,20,17,3
+39,法本,fǎ běn,Following the root,drafted,134,201,1.5,no,,,21,21,6
 40,去用,qù yòng,Putting use aside,drafted,21,27,1.286,yes,complete,A,4,4,0
 41,同異,tóng yì,Same and different,drafted,95,138,1.453,yes,complete,B,12,19,2
-42,道化,dào huà,The Tao transforming,drafted,73,104,1.425,no,,,8,8,2
-43,徧用,biàn yòng,Use that reaches everywhere,drafted,39,41,1.051,no,,,5,5,0
+42,道化,dào huà,The Tao transforming,drafted,73,103,1.411,no,,,8,8,2
+43,徧用,biàn yòng,Use that reaches everywhere,drafted,39,39,1.0,no,,,5,5,0
 44,立戒,lì jiè,A standing caution,drafted,39,61,1.564,yes,complete,A,8,8,0
 45,洪德,hóng dé,Vast integrity,drafted,40,47,1.175,yes,complete,B,7,7,1
 46,儉欲,jiǎn yù,Sparing desire,drafted,39,58,1.487,yes,end,A,5,5,2
@@ -64,17 +64,17 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 63,恩始,ēn shǐ,Favour at the beginning,drafted,79,94,1.19,yes,complete,A,8,15,2
 64,守微,shǒu wēi,Holding fast to the slight,drafted,125,172,1.376,yes,split,"A, C",13,22,4
 65,淳德,chún dé,Unspoiled integrity,drafted,69,91,1.319,no,,,7,13,2
-66,後巳,hòu jǐ,Putting the self last,drafted,76,103,1.355,yes,complete,A,8,10,1
+66,後巳,hòu jǐ,Putting the self last,drafted,76,104,1.368,yes,complete,A,8,10,1
 67,三寳,sān bǎo,The three treasures,drafted,99,145,1.465,no,,,11,16,2
 68,配天,pèi tiān,Matching the sky,drafted,43,60,1.395,no,,,7,7,1
 69,玄用,xuán yòng,Profound use,drafted,54,95,1.759,no,,,10,10,1
 70,知難,zhī nán,Hard to be known,drafted,48,71,1.479,no,,,6,11,0
 71,知病,zhī bìng,Knowing the sickness,drafted,28,41,1.464,no,,,4,4,0
-72,愛己,ài jǐ,Cherishing yourself,drafted,45,68,1.511,no,,,6,8,1
+72,愛己,ài jǐ,Cherishing yourself,drafted,45,67,1.489,no,,,6,8,1
 73,任為,rèn wéi,Leaving doing alone,drafted,64,85,1.328,no,,,10,12,1
 74,制惑,zhì huò,Curbing delusion,drafted,58,74,1.276,no,,,5,9,1
 75,貪損,tān sǔn,What greed costs,drafted,54,59,1.093,no,,,4,8,1
-76,戒強,jiè qiáng,A caution against the strong,drafted,57,76,1.333,no,,,6,10,1
+76,戒強,jiè qiáng,A caution against the strong,drafted,57,74,1.298,no,,,6,10,1
 77,天道,tiān dào,The Tao of nature,drafted,79,122,1.544,no,,,7,16,1
 78,任信,rèn xìn,Relying on trust,drafted,66,100,1.515,no,,,5,13,3
 79,任契,rèn qì,Holding to the tally,drafted,40,56,1.4,no,,,4,9,0

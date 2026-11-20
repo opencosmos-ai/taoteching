@@ -46,7 +46,7 @@ refs:
 
 ### Four chapters, one move, and the commentators make it one argument
 
-> *So the sage puts their body last, and their body comes first;*
+> *Therefore the sage puts their body last, and their body comes first;*
 >
 > 是以聖人後其身而身先，
 >

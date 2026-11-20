@@ -2085,6 +2085,18 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### 故 and 是以 → "So" and "Therefore," book-wide
+
+*(2026-11-19, Shalom's call. `WORKLIST.md` T3-12.)* **Two connectives, two Englishes.** 是以 (*shì yǐ*) → *Therefore*; 故 (*gù*) → *So*, and *and so* inside a sentence. They had shared both words, reversed outright at 57 (故聖人云 *"Therefore the sage says"*) and 78 (是以聖人云 *"So the sage says"*). They mark the joints where the chapters were put together (`process/form-audit.md` §17), and one word each lets a reader hear the seams. **The rule governs the joints**, a connective opening a sentence: 24 lines changed, in chapters 2, 3, 7, 14, 25, 38, 39, 41, 42, 43, 51, 54, 57, 63, 66, 69, 72, 73, 76, 78 and 79. **Left as they are, with this reason:** 是以 as a hinge inside one sentence, in the 夫唯 … 是以 frame (*"Only because … do …"*, Shalom's call, 2026-10-19) at 2, 70, 71 and 72, and in ch 38's 是以有德 / 是以無德 and ch 75's 是以飢 and its two sisters, where the English carries it with *and so* or *because*; 是故 (*shì gù*) at ch 44, its own compound, keeps *Therefore*; ch 1's 故 stays unrendered (Shalom's call, 2026-11-14).
+
+### Ch 38 · 大丈夫 → "the full-grown person"
+
+*(2026-11-19, Shalom's call.)* *(was: "the great person.")* A rank of adulthood (說文 人長八尺，故曰丈夫), rendered universal with the seam named. T4-7.
+
+### Ch 61 · the silks' order
+
+*(2026-11-19, Shalom's call.)* *(was: "the confluence of the world, the female of the world.")* *"the female of the world, the confluence of the world,"* following both silks; the base's chain goes. T3-20; fork 40.
+
 ### Ch 50, 55 · 厚 → "thick"; ch 44 keeps "heavy loss"
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.

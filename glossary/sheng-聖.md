@@ -115,7 +115,7 @@ Both classical commentators say which sagehood is meant. 河上公: 絕聖制作
 |---|---|---|---|
 | 聖人, subject | **the sage** | 25 chapters | 是以聖人抱一 → *"Therefore the sage embraces one thing"* (22) |
 | 聖人之 + noun | **the sage's** / **of the sage** | 3, 81 | 聖人之道 → *"the way of the sage"* (81) |
-| 聖人云 | **the sage says** | 57, 78 | 故聖人云 → *"Therefore the sage says:"* (57) |
+| 聖人云 | **the sage says** | 57, 78 | 故聖人云 → *"So the sage says:"* (57); 是以聖人云 → *"Therefore the sage says:"* (78) |
 | 聖, standing alone | **sagehood** | 19 | 絕聖棄智 → *"Cut off sagehood, abandon cleverness"* |
 
 **The Chinese names the sage once and lets the subject run.** Chapter 2 prints 聖人 once and governs six clauses with it. English needs a subject in every sentence, so it repeats *the sage* or uses *they*. The repetition is the English grammar's, not the character's, and the count of English *sage* lines (thirty-six) will always run higher than the count of 聖 lines (thirty-one).

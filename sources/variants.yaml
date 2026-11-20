@@ -823,15 +823,16 @@
     - { source: "mawangdui-a", text: "天下之牝，天下之郊也", pinyin: "tiān xià zhī pìn, tiān xià zhī jiāo yě", english: "the female of the world, the world's confluence" }
     - { source: "mawangdui-b", text: "…牝也，天下之交也", pinyin: "… pìn yě, tiān xià zhī jiāo yě", english: "… the female, the world's confluence", annotation: "The opening graphs are lost." }
   meaning_bearing: false
-  our_call: undecided
+  our_call: mawangdui-a
   note: >
-    Both silks put the female before the confluence. Silk A writes 郊 (jiao -
+    RESOLVED 2026-11-19, Shalom's call: the verse follows both silks, "the
+    female of the world, the confluence of the world." Both silks put the female before the confluence. Silk A writes 郊 (jiao -
     the outskirts), a loan for 交 (jiao - to meet). Silk B has lost the seven
     graphs before 牝, but its 牝也，天下之交也 keeps the same order. No line
     changes in meaning. The order bears on the form: our base ends one line on
     天下之牝 and opens the next on 牝, a chain the English keeps ("the female of
     the world. / The female always overcomes…"), and the silks have no chain
-    there. Open, for Shalom: WORKLIST T3.
+    there. The chain goes with the base's order.
   logged: notes/manuscript.md
 
 - chapter: 61
