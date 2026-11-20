@@ -22770,26 +22770,31 @@
     80
    ],
    "def": "邦也。从囗从或。",
-   "defen": null,
-   "entries": [],
-   "entry": null,
+   "defen": "A state. From 囗 (wéi — an enclosure) and 或 (huò — a dagger-axe guarding the ground).",
+   "entries": [
+    "guo-國"
+   ],
+   "entry": "glossary/guo-國.md",
    "fq": null,
    "fw": 0,
    "g": "state",
-   "gs": "word",
+   "gs": "locked",
    "hw": "國",
    "kind": "compound",
-   "lock": 0,
+   "lock": 1,
    "n": 25,
    "p": "guó",
    "pho": [],
-   "r": null,
+   "r": "state",
    "rad": "囗",
    "sem": [
     "囗",
     "或"
    ],
-   "tier": null
+   "shuowen": {
+    "english": "A state."
+   },
+   "tier": "locked"
   },
   {
    "c": "名",
@@ -32676,26 +32681,28 @@
    ],
    "def": "國也。从邑丰聲。",
    "defen": null,
-   "entries": [],
-   "entry": null,
+   "entries": [
+    "guo-國"
+   ],
+   "entry": "glossary/guo-國.md",
    "fq": null,
    "fw": 0,
-   "g": "state, realm",
-   "gs": "word",
+   "g": "state",
+   "gs": "covers",
    "hw": "邦",
    "kind": "phonetic-compound",
-   "lock": 0,
+   "lock": 1,
    "n": 3,
    "p": "bāng",
    "pho": [
     "丰"
    ],
-   "r": null,
+   "r": "state",
    "rad": "邑",
    "sem": [
     "邑"
    ],
-   "tier": null
+   "tier": "locked"
   },
   {
    "c": "邪",
@@ -48367,6 +48374,167 @@
    ]
   },
   {
+   "body": "## 國 (Guó) — State\n\n*Say \"gwaw,\" rising. Twenty-five times across ten chapters, and three more as 邦 (bāng) in chapter 54. One domain among others, with a ruler and people in it: the thing you govern, as the world is not.*\n\n**Locked: 國 → \"state.\"** *(Shalom's call, 2026-10-14, set at chapters 18 and 54; the entry 2026-11-20.)* **邦 (*bāng*) is the same word, covered here, and reads *state* too.** *(Not \"nation,\" which makes a people out of a domain. Not \"country,\" which makes it a landscape or a homeland. Not \"kingdom,\" which crowns someone the text does not name. Not \"realm,\" a court's word.)*\n\n### The graph: a weapon guarding a piece of ground, and a wall around it\n\n**The Shuowen defines 國 and 邦 by each other**, and gives the older graph inside 國 the same gloss:\n\n> 國，邦也。从囗从或。\n> *\"國 is 邦. From 囗 (wéi — an enclosure) and 或 (huò).\"*\n>\n> 或，邦也。从囗从戈，以守一。一，地也。\n> *\"或 is 邦. From 囗 (wéi — an enclosure) and 戈 (gē — a dagger-axe), to guard the one. The one is the ground.\"*\n>\n> 邦，國也。从邑丰聲。\n> *\"邦 is 國. From 邑 (yì — a settlement), with 丰 (fēng) for sound.\"*\n\n**或 is a dagger-axe standing guard over a stretch of ground marked by a line**, and 國 draws a wall around the whole. A state is held ground: bounded, guarded, and lived in. The same 或 sits under 域 (*yù* — a bounded stretch of ground) at chapter 25 (`notes/translation.md`). **Where the picture stops:** nothing in the graph says who holds it, or how many people are inside. The book fills that in, line by line, with a ruler and *the people* (`glossary/min-民.md`).\n\n### 邦 (bāng — state)\n\n**邦 is 國's older name, and the two differ only by a taboo.** The founder of the Han dynasty was Liu Bang, and his personal name could not be written once he ruled. Mawangdui silk A, copied before the taboo, writes 邦 wherever the graph survives; silk B, copied under it, already writes 國, as our base does (`sources/variants.yaml`). Han Fei, older still, reads 邦 at chapter 36's 邦之利器 (*\"the state's beneficial tools\"*) and at chapter 54.\n\n> *Cultivate this in your state, and its integrity becomes bountiful.*\n>\n> 修之於邦，其德乃豐；\n>\n> — chapter 54\n\n**Our base keeps 邦 only in chapter 54**, three times, where Wang Bi's text has 國. It is one word, and the English gives it one word.\n\n### Twenty-five lines, and a state is always one among others\n\n> *Governing a large state is like cooking a small fish.*\n>\n> 治大國，若烹小鮮。\n>\n> — chapter 60\n\n> *So the large state, by going below the small state, takes the small state.*\n> *The small state, by going below the large state, takes the large state.*\n>\n> 故大國以下小國，則取小國；\n> 小國以下大國，則取大國。\n>\n> — chapter 61\n\n> *A small state, few people.*\n>\n> 小國寡民。\n>\n> — chapter 80\n\n> *Neighboring states lie within sight of each other.*\n> *They hear each other's chickens and dogs.*\n>\n> 隣國相望，\n> 雞犬之聲相聞，\n>\n> — chapter 80\n\n**A state in this book is large or small, and has neighbors.** Chapter 61 is a treatise on two states, the large going low to the small. Chapter 80's small state hears the next one's chickens. That plurality is what *state* keeps and *nation* or *the land* would blur: a 國 is a unit among units, with a border you could walk to.\n\n**And a state is governed.** 治國 (*zhì guó* — govern the state) stands at 10, 57 and 65 ×2, and 治大國 (*zhì dà guó* — govern a large state) at 60. Heshang Gong on chapter 10: 治國者愛民則國安 — *\"one who governs a state loves the people, and the state is at peace.\"* Wang Bi on 59: 以有窮而莅國，非能有國也 — *\"to oversee a state with something that has limits is not to be able to have the state.\"* Chapter 78 names its two burdens: *\"whoever takes on the shame of the state / is called the keeper of the soil and the grain.\"*\n\n### The state and the world are two things, and the book keeps them apart\n\n> *Govern the state with the straight,*\n> *wage war with the crooked,*\n> *and win over the world by not meddling.*\n>\n> 以正治國，\n> 以奇用兵，\n> 以無事取天下。\n>\n> — chapter 57\n\n**Three objects, three ways.** A state is governed; war is waged; the world is won over, and only by not meddling. Chapter 29 says why the world cannot be governed as a state is: it is a sacred vessel, 不可為也 (*bù kě wéi yě* — \"it cannot be handled\"). Chapter 54's ladder gives the order: body, family, community, **state**, world, with 天下 (*tiān xià* — the world) above the state and never the same thing. Wang Bi on 57: 以道治國則國平 — *\"govern the state by the Tao, and the state is at peace.\"* The English holds the ladder by keeping *state* for 國 and *the world* for 天下 (`glossary/tian-天.md`), so that no reader takes the sage's world for a large state.\n\n### What is set aside\n\n**\"Nation,\" \"nations.\"** A people bound by descent, language or feeling, and the word of the modern nation-state. 國 is a held and governed domain; its people are 民 (*mín* — the people), and they are ruled, not constituted by it.\n\n**\"Country,\" \"countries.\"** A landscape or a homeland, *my country*. It also leans toward the countryside, which is 鄉 (*xiāng* — community)'s rung at chapter 54.\n\n**\"Kingdom.\"** Puts a king on a throne the line does not name. The book's ruler is 王 (*wáng* — ruler), whose graph is an axe-head, not a person (`glossary/wang-王.md`), and *king* would gender him.\n\n**\"Realm.\"** Courtly and medieval, and now a fantasy word. It fails the pointing test: you can point at a state's border, not at a realm's.\n\n**\"The land.\"** 地 (*dì* — earth)'s word, and a state is more than its ground.\n\n### Working register\n\n| line | form | English |\n|---|---|---|\n| 治國 (10, 57, 65 ×2) · 治大國 (60) | object of 治 | *govern the state* / *a state* |\n| 國之利器 (36) · 國之賊 · 國之福 (65) · 國之垢 · 國之不祥 (78) | genitive | *the state's* / *of the state* |\n| 有國 · 有國之母 (59) | object of 有 | *have the state* |\n| 大國 · 小國 (60, 61 ×9, 80) | with 大 / 小 | *the large state* / *the small state* |\n| 隣國 (80) | plural | *neighboring states* |\n| 國家 (18, 57) | the compound | *states* (18) · *the state* (57) |\n| 邦 (54 ×3) | covered | *state* |\n\n### What no rule can enforce\n\n**邦 has no frontmatter of its own.** A cover is listed in the index but no rule reads it, so *country* could return at chapter 54 unseen. `concordance.py --english \"country\"`, run by hand, is the check.\n\n**天下's *world* is held by its own entry.** Nothing here stops a later line from rendering 國 as *the world*, or 天下 as *the state*; the reverse check on each English word is the guard.\n\n### Left open\n\n**國家 (*guó jiā*) renders 國 alone.** At chapters 18 and 57, 國家 is the compound *the state*, as Wang Bi uses it (民强則國家弱, *\"when the people are strong, the state is weak\"*), and the English drops 家 (*jiā* — household). In older usage 國家 can be *the state and the great houses*, two rungs; Mencius lists 天下國家 (*\"the world, the state, the household\"*). Chapter 54 renders 家 *family* on its own rung. The compound reading stands; the two-rung reading is the one this entry declines.\n\n**Chapter 18 is plural, chapter 57 singular.** 國家昏亂 reads *\"When states grow clouded\"* and 國家滋昏 *\"the more clouded the state becomes.\"* Both lines put 昏 (*hūn* — clouded) on 國家. The plural at 18 is Shalom's call of 2026-10-14, a general statement against chapter 57's one state.\n\n**大國's *large*.** Six lines read *the large state*, where 大 (*dà*) is locked to *great*. `glossary/da-大.md` leaves open whether that is a flexion or a fault.\n",
+   "card": "",
+   "chars": [
+    "國"
+   ],
+   "covers": [
+    "邦"
+   ],
+   "flexions": [],
+   "forbidden": [
+    "nation",
+    "kingdom",
+    "country",
+    "realm"
+   ],
+   "path": "glossary/guo-國.md",
+   "pinyin": "guó",
+   "refs": [
+    {
+     "chain": [],
+     "locator": "Explaining Laozi, on chapter 54: bang for the fourth rung",
+     "source": "hanfeizi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 10, one who governs a state loves the people, and the state is at peace",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 80, the sage governs a large state as if it were small",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Bang for guo wherever the graph survives, before the Han name taboo",
+     "source": "mawangdui-a"
+    },
+    {
+     "chain": [],
+     "locator": "Guo, copied under the Han name taboo",
+     "source": "mawangdui-b"
+    },
+    {
+     "chain": [],
+     "locator": "Dagger-axe radical, entry for huo (a state: an enclosure and a dagger-axe guarding the one, the ground)",
+     "source": "shuowen"
+    },
+    {
+     "chain": [],
+     "locator": "Enclosure radical, entry for guo (a state)",
+     "source": "shuowen"
+    },
+    {
+     "chain": [],
+     "locator": "Settlement radical, entry for bang (a state)",
+     "source": "shuowen"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 57, governing the state by the Tao, and the straight that gives rise to the crooked",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 59, to oversee a state with something that has limits is not to have the state",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 61, the large state stays low as rivers and seas do",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 80, a state small and few in people, and how much more a large one",
+     "source": "wangbi"
+    }
+   ],
+   "refs_status": "complete",
+   "render": "state",
+   "shuowen": "A state. From 囗 (wéi — an enclosure) and 或 (huò — a dagger-axe guarding the ground).",
+   "slug": "guo-國",
+   "status": "locked",
+   "term": "國",
+   "where": [
+    [
+     "10.7",
+     1
+    ],
+    [
+     "18.4",
+     1
+    ],
+    [
+     "36.8",
+     1
+    ],
+    [
+     "57.1",
+     1
+    ],
+    [
+     "57.6",
+     1
+    ],
+    [
+     "59.6",
+     1
+    ],
+    [
+     "59.7",
+     1
+    ],
+    [
+     "60.1",
+     1
+    ],
+    [
+     "61.1",
+     1
+    ],
+    [
+     "61.4",
+     3
+    ],
+    [
+     "61.5",
+     3
+    ],
+    [
+     "61.7",
+     1
+    ],
+    [
+     "61.8",
+     1
+    ],
+    [
+     "65.3",
+     2
+    ],
+    [
+     "65.4",
+     2
+    ],
+    [
+     "78.4",
+     2
+    ],
+    [
+     "80.1",
+     1
+    ],
+    [
+     "80.6",
+     1
+    ]
+   ]
+  },
+  {
    "body": "## 和 (Hé) — Harmony\n\n*Say \"huh,\" rising. Eight appearances across seven chapters in our base text, and a ninth in chapter 55's verse, which follows the older copies there. The word for different things sounding together, and in this book it can be heard: in sound and tone, in a breath, and in an infant who cries all day.*\n\n**Locked: 和 → \"harmony,\" and as a verb \"harmonize\"; \"settle\" at chapter 79.** *(Shalom's call, 2026-11-18.)* *(Not \"dim\" at chapters 4 and 56, which is a commentator's word for the line, not the line's. Not \"peace,\" a stillness, where 和 is a sound. Not \"balance,\" two weights held level, where 和 is many voices. Not \"blend,\" which ends where the parts can no longer be told apart, and that is the work of 同 (tóng — the same), the word the book sets beside it.)* **Settled within it:** chapter 55 follows Guodian and silk A, *\"Harmony is called the ever-present\"* (Shalom's call, 2026-11-01), and chapter 79 reads *settle*.\n\n### The graph: pipes in tune, a mixing pot, and a mouth that answers\n\n**Three graphs wrote one word, and each pictures a different way of bringing differences together.**\n\n**The oldest is 龢**, which stands on the oracle bones and on Western Zhou bronzes: 龠 (yuè — a set of bamboo pipes bound side by side) with 禾 (hé — a grain stalk) for its sound. Zhou bells call themselves 龢鐘 (*hé zhōng* — \"harmonious bells\"). The *Shuowen* defines it by tuning:\n\n> 龢，調也。从龠禾聲。讀與和同。\n> *\"龢: to tune. From 龠 (yuè — pan-pipes), with 禾 for sound. Read the same as 和.\"* — the *Shuowen Jiezi* (the Han dictionary)\n\n**The second is 盉**, a bronze vessel for mixing drink, with 皿 (mǐn — a vessel) for meaning: 盉，調味也 (*hé, tiáo wèi yě* — \"盉: to blend flavors\"). The same 調 (tiáo — to tune, to adjust) defines both: pipes brought into tune, flavors brought into one taste.\n\n**The third is the graph the book writes**, 口 (kǒu — a mouth) with the same 禾 for sound:\n\n> 和，相譍也。从口禾聲。\n> *\"和: to answer one another. From 口 (kǒu — mouth), with 禾 for sound.\"* — the *Shuowen Jiezi*\n\n譍 is an old form of 應 (yìng — to answer, to respond). **The mouth is a reply, and 相 (xiāng — one another) makes it a reply in both directions.** 和 needs at least two: a voice and the voice that answers it.\n\n**Where the picture stops.** 禾 is in all three graphs for its sound, so there is no harvest or grain in the meaning. And the dictionary's *answer* is a voice answering a voice in song, not one person answering another's question; ch 73's 善應 (*shàn yìng* — \"masterful at answering\") is where the book uses 應 itself.\n\n### Eight lines, and the harmony in them can be heard\n\n> *Music and sound harmonize each other,*\n> *Front and back follow each other.*\n>\n> 音聲相和，\n> 前後相隨。\n>\n> — chapter 2\n\n> *When kin are out of harmony, devotion and tenderness appear.*\n>\n> 六親不和，有孝慈；\n>\n> — chapter 18\n\n> *The countless things carry yin on their backs and embrace yang with their arms, and the breath within makes harmony.*\n>\n> 萬物負陰而抱陽，沖氣以為和。\n>\n> — chapter 42\n\n> *It cries all day and never goes hoarse — this is harmony at its utmost.*\n> *Harmony is called the ever-present.*\n> *Knowing harmony is called clear-seeing.*\n>\n> 終日號而不嗄，和之至也。\n> 知和曰常，\n> 知常曰明。\n>\n> — chapter 55\n\nThe second and third lines follow Guodian and silk A, which read 和曰常，知和曰明 (*hé yuē cháng, zhī hé yuē míng*); the Chinese above is our base text (`notes/manuscript.md`).\n\n> *Settle a great grudge*\n> *and some grudge always remains.*\n> *How could that count as masterful?*\n>\n> 和大怨，\n> 必有餘怨；\n> 安可以為善？\n>\n> — chapter 79\n\nAnd twice, in chapters 4 and 56, 和其光 (*hé qí guāng* — \"harmonize its light\"), quoted in its own section below.\n\n**Where 和 stands without an object, it is something heard or breathed.** In chapter 2 it is sound and tone. In chapter 42 the breath makes it. In chapter 55 it is an infant's crying, and Heshang Gong says what makes the cry harmony:\n\n> 赤子從朝至暮啼號聲不変易者，和氣多之所致。\n> *\"The newborn wails from dawn to dusk and its voice does not change: an abundance of harmonious breath brings this about.\"* — Heshang Gong, on chapter 55\n\nThe graph's pipes are breath brought into tune, and its mouth is a voice that answers. That the book's own lines keep landing on breath and voice is a reason to keep an English with music in it, not proof that every 和 is music: chapter 18's is a household, and chapter 79's is a grudge.\n\n### Chapter 55: harmony is the ever-present, and it is a voice that does not strain\n\n**In the oldest reading, harmony is not a step on the way to the ever-present. It is the ever-present.** And the harmony named is the one just shown, an infant who cries all day and never goes hoarse. The chapter does not reach for a cosmic principle. It points at a voice that is used all day and never forced.\n\n**Wang Bi read the received chain and collapsed it into the same claim:**\n\n> 物以和為常，故知和則得常也。\n> *\"Things take harmony as their ever-present; so to know harmony is to gain the ever-present.\"* — Wang Bi, on chapter 55\n\n**The chapter then shows harmony's opposite**, two lines on: 心使氣曰強 (*xīn shǐ qì yuē qiáng* — \"when the heart drives the breath, that is called strong\"). Heshang Gong describes the loss: 和氣去於中，故形體日以剛強也 (*hé qì qù yú zhōng, gù xíng tǐ rì yǐ gāng qiáng yě* — \"the harmonious breath leaves the middle, and so the body grows harder and stronger by the day\"). **Harmony is the breath left undriven**, and *strong* is what the breath becomes when it is pushed (`glossary/qi-氣.md`, `glossary/qiang-強.md`).\n\n### Chapters 4 and 56: the light is harmonized, not dimmed\n\n> *It blunts the sharpness, untangles the knots,*\n> *harmonizes its light, is the same as the dust.*\n>\n> 挫其銳，解其紛，\n> 和其光，同其塵。\n>\n> — chapter 4\n\n> *Blunt the sharpness, untangle the knots.*\n> *Harmonize your light, be the same as the dust.*\n> *This is called profound sameness.*\n>\n> 挫其銳，解其紛。\n> 和其光，同其塵。\n> 是謂玄同。\n>\n> — chapter 56\n\n**These are the only two lines in the book where 和 takes an object, and the English keeps the book's word in both.** The tradition's English has long said *dim* or *soften* here, and so did this translation until 2026-11-18. *Dim* was considered at length and decided against (Shalom's call), so that a commentator's word does not stand in for the character and warp what the line says.\n\n**Dim comes from Heshang Gong, and his own gloss shows how it got into the line:**\n\n> 雖有獨見之明，當和之使闇昧，不使曜亂。\n> *\"Though one has the clarity of seeing alone, one should harmonize it, making it dark and dim, and not let it dazzle and confuse.\"* — Heshang Gong, on chapter 56\n\n**He keeps 和 as the verb and gives the dimming as its result**, with 使 (shǐ — to make, to cause): harmonize it, and so make it dim. To render the line *dim* is to keep his result and drop the verb. On chapter 4 he says the same, 當知闇昧 (*dāng zhī àn mèi* — \"one should know how to be dark and dim\").\n\n**Wang Bi does not dim the light at all:**\n\n> 和光而不汙其體，同塵而不渝其真。\n> *\"It harmonizes with the light and does not soil its substance; it is the same as the dust and does not alter its truth.\"* — Wang Bi, on chapter 4\n\n> 無所特顯則物無所偏争也。\n> *\"When nothing is specially displayed, things have nothing to contend over.\"* — Wang Bi, on 和其光, chapter 56\n\n**For Wang Bi the light is not lessened. It is no longer set apart from the light around it.** Chapter 4's verse takes his subject, the Tao, for these four lines (`chapters/004.md` → Notes). *Dim* would have given the Tao Heshang Gong's verb, an instruction he wrote for a person.\n\n**Why *dim* was set aside:**\n\n- **It is a commentator's word in the verse** (`process/principles/commentary-is-not-a-rendering.md`). One commentator gives it as a result, and the other does not give it.\n- **It carries a verdict the Chinese does not.** *Dim* judges the light as too much and lessens it. 和 describes a relation between the light and what is around it (`process/principles/no-verdict-the-chinese-lacks.md`).\n- **It cut chapter 55 from chapter 56.** Chapter 55 ends: knowing harmony is called 明 (míng — clear-seeing). The next chapter says 和其光, harmonize the 光 (guāng — outward light), and 光 and 明 are the pair chapter 52 sets side by side (`glossary/ming-明.md`). In the Chinese, two chapters in a row bring harmony to light. With *dim*, chapter 55's clear-seeing was followed by an order to go dark.\n- **It hid one word of a pair.** 和其光 and 同其塵 are harmony and sameness side by side (the next section), and *dim* left the reader only the second.\n\n*Own*, which stood in both lines, went with *dim*: it was there to steer it, and 其 (qí — its, your) is enough.\n\n**The cost, paid openly.** *Harmonize* is a long Latinate word beside *blunt* and *untangle*. The plain instruction *dim* gave at once, do not outshine, is now something the reader has to think through. *Harmonize your light* can sound like the language of a wellness retreat, the hymn test's modern cousin. Both commentators read the line toward not standing out, and the English keeps that only by implication.\n\n### 和 and 同: the book puts side by side a pair others set against each other\n\n**Before the Han, 和 and 同 (tóng — the same) were already a known contrast.** In the *Zuozhuan*, Duke Jing of Qi says that only his favorite is in harmony with him, and his minister Yanzi answers that the man is only the same:\n\n> 和如羹焉。水火醯醢鹽梅，以烹魚肉。\n> *\"Harmony is like a soup: water, fire, vinegar, pickled meat, salt and plums, to cook fish and meat.\"* — the *Zuozhuan*, Duke Zhao, year 20\n\n> 若以水濟水，誰能食之？若琴瑟之專壹，誰能聽之？同之不可也如是。\n> *\"If you add water to water, who could eat it? If the zithers played a single note, who could listen? That is why sameness will not do.\"* — the *Zuozhuan*, Duke Zhao, year 20\n\nThe soup is 盉's picture, and the zithers are 龢's. The *Analects* puts the same pair into one line: 君子和而不同，小人同而不和 (*jūn zǐ hé ér bù tóng, xiǎo rén tóng ér bù hé* — \"the noble person harmonizes and is not the same; the small person is the same and does not harmonize\").\n\n**The Laozi does both, in order, and names the whole by the second word:** 和其光，同其塵。是謂玄同 (*hé qí guāng, tóng qí chén. shì wèi xuán tóng* — \"harmonize the light, be the same as the dust. This is called profound sameness\"). Wang Bi reads the two halves as a matched pair: do not stand out above, do not hold yourself apart below. Whatever the book means by putting the two words together, the English can show the pair only if both words are visible, and with *harmonize* they are.\n\n### What the commentators did with it\n\n**Heshang Gong reads chapter 2's 相和 as call and answer:** 上唱下必和也 (*shàng chàng xià bì hè yě* — \"when the one above sings, the one below must sing in answer\"). That is the *Shuowen*'s 相譍, and later dictionaries give this sense its own reading, *hè*, falling: to join in a song, to answer it. *Harmonize each other* holds both a call and its answer and two notes sounding at once.\n\n**Wang Bi reads chapter 18's harmony as something that happens without being made:** 若六親自和，國家自治，則孝慈、忠臣不知其所在矣 (*ruò liù qīn zì hé, guó jiā zì zhì, zé xiào cí, zhōng chén bù zhī qí suǒ zài yǐ* — \"if the six relations were in harmony of themselves, and the state in order of itself, then devotion, tenderness and loyal ministers would not know where they were\"). The virtues appear only once the harmony is gone.\n\n**Heshang Gong reads chapter 79's 和 as an answering of accounts:** 殺人者死，傷人者刑，以相和報 (*shā rén zhě sǐ, shāng rén zhě xíng, yǐ xiāng hé bào* — \"whoever kills dies, whoever wounds is punished: so they answer and repay each other\"). His 相和 is the dictionary's 相譍 again, this time between a wrong and its penalty. That is the ledger *settle* stands inside (`notes/translation.md` → *Ch 79 · 和 → \"settle\"*).\n\n### What is set aside\n\n**\"Peace.\"** A stillness, where 和 is a sound: the infant in chapter 55 is crying all day. *Peace* also carries the modern compound 和平 (*hé píng* — \"peace\"), and fails the hymn test outright: *the peace that passes understanding*.\n\n**\"Balance.\"** Two weights held level on a scale. It is the reading most often laid over chapter 42's yin and yang, and the line does not say that yin and yang counterweigh. It says the breath makes harmony. 和 holds many things, the soup's six flavors and the band's many notes, not two. Levelling is 均 (jūn — to even out) at chapter 32 (`chapters/032.md` → Notes).\n\n**\"Blend.\"** Yanzi's cook does blend, and *blends its light* would be good idiomatic English for not standing out. It is set aside because a blend ends where the parts can no longer be told apart, which is 同's work, and chapters 4 and 56 put 同 in the next three words: *blends its light, is the same as the dust* would say one thing twice where the Chinese says two. The glossary has also set *blend* aside twice already, for 混 (hùn — mixed) and for 沖 (chōng — empty), as a cook's word for something done on purpose (`glossary/hun-混.md`, `glossary/chong-沖.md`).\n\n**\"Union,\" \"unity,\" \"oneness.\"** These are what 和 is not. The *Zuozhuan* defines harmony against sameness, and a harmony made one has lost its voices. *Union* is also the English of 合 (hé — to join), the same sound in chapter 55: 牝牡之合 (*pìn mǔ zhī hé* — \"the union of female and male\").\n\n**\"Concord\" and \"accord.\"** Latinate, and both are agreements between parties. *Accord* was set aside for 順 (shùn — to run with the current) at chapter 65 for being bilateral where the Chinese is not (`notes/translation.md` → *Ch 65 · 大順*). 和 is not an agreement reached. It is a sound.\n\n**\"Reconcile\" and \"reconciliation\" at chapter 79.** More literal than *settle*, and they step out of the ledger the chapter is built from: grudge, remainder, tally, score.\n\n**\"Dim\" and \"soften\" at chapters 4 and 56.** Heshang Gong's result, given as the verb, with a verdict on the light the Chinese does not carry (above).\n\n**\"Gentle.\"** Heshang Gong's compound 和柔 (*hé róu* — \"harmonious and soft\") pulls 和 toward a manner. *Gentle* is already set aside for 柔 (róu — soft) as a material quality made into praised conduct (`glossary/rou-柔.md`), and 和 is not a manner at all.\n\n### Working register\n\n| Line | English | Why |\n|---|---|---|\n| 音聲相和 (2) | *Music and sound harmonize each other* | a verb, made mutual by 相 (xiāng — each other) |\n| 六親不和 (18) | *When kin are out of harmony* | the negated state, as a noun |\n| 沖氣以為和 (42) | *and the breath within makes harmony* | the noun, what the breath makes |\n| 和之至也 (55) | *this is harmony at its utmost* | the noun |\n| 和曰常，知和曰明 (55, after Guodian and silk A) | *Harmony is called the ever-present. / Knowing harmony is called clear-seeing.* | the noun, named and known |\n| 和其光 (4, 56) | *harmonizes its light* (4), *Harmonize your light* (56) | the verb with an object |\n| 和大怨 (79) | *Settle a great grudge* | the verb with an object, inside the ledger; recorded as a flexion |\n\n**No adjective is needed.** The book never uses 和 to describe a thing as *harmonious*; it names harmony or does it.\n\n### What no rule can enforce\n\n**\"Union\" and \"unite\"** are ruled out for 和 and cannot go on the `forbidden:` list: 合 (hé — to join) stands in chapter 55, and *union* is its English there.\n\n**\"The same,\" \"one\" and \"oneness\"** belong to 同 (tóng — the same) at chapters 4 and 56 and to 一 (yī — one) at chapter 42, which share chapters with 和.\n\n**\"Soften\"** is ruled out for 和 at chapters 4 and 56, and cannot be forbidden because 柔 (róu — soft) and 弱 (ruò — yielding) stand in chapter 55, where a verb from them may one day print it. The gate keys on which characters are in a chapter, and cannot tell these apart (`process/principles/ruling-and-enforcement-are-two-facts.md`).\n\n### Left open\n\n- **Whether the Laozi answers the *Zuozhuan*'s ranking.** The book sets 和 and 同 side by side and names the practice by 同, the word Yanzi and the *Analects* rank below 和. That may be an answer to them, or two common words that fell together. The dates of the *Analects* and the *Zuozhuan* are not settled closely enough to say which way any influence ran, and this entry claims only the pairing.\n- **Chapter 2 hears a chord where Heshang Gong hears a reply.** *Harmonize each other* can hold call and answer, but an English reader will most likely hear two notes sounding at once. 應 (yìng — to answer) is spoken for at chapter 73, so the more exact *answer each other* is not free.\n- **How the old copies write 和** at chapters 2, 18, 55 and 56, whether with the pipes, the mouth, or another graph, is not recorded in `sources/variants.yaml`. Nothing in the English turns on it, but a 龢 in the Guodian slips at chapter 2 would put the pipes in the book's oldest copy of its sound-and-tone line.\n- **The *Shuowen*'s line for 龢 was read online**, since the vendored selection holds only the characters the Laozi prints. One transcription gives it as 謂也 (*wèi yě* — \"to call\") for 調也 (*tiáo yě* — \"to tune\"), likely a copying slip, since 調 is the word 盉's line shares. Duan Yucai's edition would settle it.\n- **Chapter 55's Source table keeps the base text**, 知和曰常，知常曰明, while the verse follows Guodian and silk A. A reader of the Chinese alone meets the chain; the oldest reading lives in the verse and the notes (`notes/manuscript.md` → Ch 55).\n",
    "card": "",
    "chars": [
@@ -59349,7 +59517,7 @@
   ],
   "邦": [
    "bāng",
-   "state, realm"
+   "state"
   ],
   "邪": [
    "xié",
@@ -66191,6 +66359,7 @@
     "entries": [
      "chang-長",
      "cheng-成",
+     "guo-國",
      "huo-fu-禍福",
      "ren-仁",
      "shen-ling-神靈",
@@ -66371,6 +66540,7 @@
      "cheng-成",
      "de-shi-得失",
      "gui-jian-貴賤",
+     "guo-國",
      "huo-fu-禍福",
      "jing-靜",
      "mu-母",
@@ -66654,6 +66824,7 @@
     "entries": [
      "chong-沖",
      "gu-谷",
+     "guo-國",
      "huo-fu-禍福"
     ],
     "forks": [
@@ -66781,6 +66952,7 @@
     ],
     "entries": [
      "gu-谷",
+     "guo-國",
      "huo-fu-禍福"
     ],
     "forks": [
@@ -67103,6 +67275,7 @@
      "cheng-成",
      "de-shi-得失",
      "gui-jian-貴賤",
+     "guo-國",
      "he-和",
      "huo-fu-禍福",
      "jing-靜",
@@ -67372,6 +67545,7 @@
      "cheng-成",
      "de-shi-得失",
      "gui-jian-貴賤",
+     "guo-國",
      "huo-fu-禍福",
      "jing-靜",
      "mu-母",
@@ -67651,7 +67825,7 @@
   "totals": {
    "citation_debt": 0,
    "confirmed_print": 0,
-   "entries": 92,
+   "entries": 93,
    "facts": 47,
    "incomplete_entries": 88,
    "pending_print": 36,

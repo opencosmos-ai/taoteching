@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 92 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 93 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -52,6 +52,7 @@ Recorded as evidence.
 - Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
 - [Glossary · chong](<../glossary/chong-%E6%B2%96.md>) · Silk A, chapter 42, parallel manuscript table
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · Silk A, chapter 6 valley reading
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Bang for guo wherever the graph survives, before the Han name taboo
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 46, the clause on crime; chapter 65, integrity for fortune
 - Apparatus chapters [1](<../chapters/001.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [42](<../chapters/042.md>), [45](<../chapters/045.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#excavated>)
@@ -69,6 +70,7 @@ Recorded as evidence.
 - Gao Ming, Collation of the Silk Laozi · 1996
 - Collected Bamboo and Silk Manuscripts of the Mawangdui Han Tombs · 2014
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · Silk B, chapter 6 valley reading
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Guo, copied under the Han name taboo
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 65, integrity for fortune
 - Apparatus chapters [3](<../chapters/003.md>), [4](<../chapters/004.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [45](<../chapters/045.md>), [49](<../chapters/049.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [73](<../chapters/073.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#excavated>)
@@ -162,6 +164,7 @@ Stored in this repository.
 - [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Explaining Laozi, on chapter 54: the households with a surplus grow more numerous
 - [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Explaining Laozi, on chapter 59: life established long, office held to endure
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Explaining Laozi, on chapter 67: to hold high office is to become chief of the completed affairs
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Explaining Laozi, on chapter 54: bang for the fourth rung
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Jie Lao, on chapter 46, convicts released and the condemned living
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Jie Lao, on chapter 58, how fortune rests on disaster and disaster on fortune
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern
@@ -201,6 +204,10 @@ Stored in this repository.
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 56, whatever can be prized can be made cheap
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 62, nothing more prized than this
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 72, on prizing oneself
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 57, governing the state by the Tao, and the straight that gives rise to the crooked
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 59, to oversee a state with something that has limits is not to have the state
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 61, the large state stays low as rivers and seas do
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 80, a state small and few in people, and how much more a large one
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 62, use it to seek and you get, use it to escape and you escape
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 69, having no enemy in the world as the great disaster
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 26, what does not move governs what moves
@@ -268,6 +275,8 @@ Stored in this repository.
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 39, the sage-kings taking cheap work as their root
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 56, why they are prized by the world
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Chapter 72, not prizing oneself high in the world
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 10, one who governs a state loves the people, and the state is at peace
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Chapter 80, the sage governs a large state as if it were small
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 46, the clause on crime and the wantable
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 58, on yi as arising from, and disaster hidden in fortune
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 62, on having a crime under a benighted ruler
@@ -344,6 +353,9 @@ Stored in this repository.
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Cowry radical, entry for gui (a thing not cheap)
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Cowry radical, entry for jian (small in price)
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Entry for zun (a wine vessel, raised in both hands)
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Dagger-axe radical, entry for huo (a state: an enclosure and a dagger-axe guarding the one, the ground)
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Enclosure radical, entry for guo (a state)
+- [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Settlement radical, entry for bang (a state)
 - [Glossary · he](<../glossary/he-%E5%92%8C.md>) · Entries for he (harmony), he (the flutes) and he (the vessel)
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Altar radical, entry for fu (aid)
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Altar radical, entry for huo (harm; the spirits do not grant fortune)

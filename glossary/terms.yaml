@@ -282,6 +282,15 @@
   status: locked
   entry: glossary/ming-名.md
 
+- term: "國"
+  pinyin: "guó"
+  render: "state"
+  forbidden: ["nation", "kingdom", "country", "realm"]
+  chapters: [10, 18, 36, 57, 59, 60, 61, 65, 78, 80]
+  status: locked
+  entry: glossary/guo-國.md
+  # covers 邦 -> state
+
 - term: "無為"
   pinyin: "wú wéi"
   render: "non-doing"

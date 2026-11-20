@@ -198,6 +198,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,5,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
 10,6,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
 10,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Washing and clearing the dark mirror, can you be without blemish?"
+10,7,國,guó,國,state,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,7,民,mín,民,the people,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,7,治,zhì,治,govern,yes,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
 10,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Loving the people and governing the state, can you be unknowing?"
@@ -386,6 +387,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,3,慈,cí,慈,tenderness,yes,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When kin are out of harmony, devotion and tenderness appear."
 18,4,亂,luàn,亂,disorder,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
+18,4,國,Guó,國,state,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
@@ -787,6 +789,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,8,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
+36,8,國,Guó,國,state,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
@@ -1204,12 +1207,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,4,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your community, and its integrity grows."
 54,4,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,authored,"Cultivate this in your community, and its integrity grows."
 54,5,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your state, and its integrity becomes bountiful."
+54,5,邦,bāng,國,state,yes,1.0,authored,"Cultivate this in your state, and its integrity becomes bountiful."
 54,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Cultivate this in the world, and its integrity becomes universal."
 54,6,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in the world, and its integrity becomes universal."
 54,7,身,shēn,身,body,yes,1.0,authored,So observe the body through your own body. Observe the family through your family.
 54,7,身,shēn,身,body,yes,1.0,authored,So observe the body through your own body. Observe the family through your family.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
+54,8,邦,bāng,國,state,yes,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
+54,8,邦,bāng,國,state,yes,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the world is so? By this.
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,How do I know the world is so? By this.
 55,1,德,dé,德,integrity,yes,1.0,authored,One who holds integrity thick within is like a newborn boy.
@@ -1252,6 +1258,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
+57,1,國,guó,國,state,yes,1.0,exact-count,"Govern the state with the straight,"
 57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"Govern the state with the straight,"
 57,1,治,zhì,治,govern,yes,1.0,exact-count,"Govern the state with the straight,"
 57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"wage war with the crooked,"
@@ -1264,6 +1271,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,6,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
+57,6,國,guó,國,state,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,7,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
@@ -1316,10 +1324,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,5,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when there is nothing you cannot shoulder, no one knows its limit,"
 59,5,無,Wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"when there is nothing you cannot shoulder, no one knows its limit,"
 59,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
+59,6,國,guó,國,state,yes,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,6,極,jí,極,the far end — where a thing runs out,NOT FOUND,1.0,exact-count,"when no one knows its limit, you can have the state."
 59,7,久,jiǔ,長,endure,NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
+59,7,國,guó,國,state,yes,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,母,mǔ,母,mother,yes,1.0,exact-count,"Have the mother of the state, and you can last long."
 59,7,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,"Have the mother of the state, and you can last long."
@@ -1328,6 +1338,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 59,8,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,道,dào,道,the Tao / way,yes,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
 59,8,長,cháng,長,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",NOT FOUND,1.0,exact-count,"This is called the Tao of deep roots, firm base, long life, and enduring vision."
+60,1,國,guó,國,state,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,小,xiǎo,大,small,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
 60,1,治,Zhì,治,govern,yes,1.0,exact-count,Governing a large state is like cooking a small fish.
@@ -1342,6 +1353,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 60,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,"Not only does their spirit do no harm to people, the sage, too, does no harm to people."
 60,5,德,dé,德,integrity,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
 60,5,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,"And since the two do no harm to each other, their integrity converges and returns."
+61,1,國,guó,國,state,yes,1.0,authored,"The large state is the downstream flow,"
 61,1,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The large state is the downstream flow,"
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
@@ -1353,15 +1365,23 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 61,3,牡,mǔ,牝,the male,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,4,國,guó,國,state,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
 61,4,小,xiǎo,大,small,yes,1.0,authored,"So the large state, by going below the small state, takes the small state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,5,國,guó,國,state,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"The small state, by going below the large state, takes the large state."
 61,5,小,Xiǎo,大,small,yes,1.0,authored,"The small state, by going below the large state, takes the large state."
+61,7,國,guó,國,state,yes,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,7,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,The large state wants nothing more than to gather and rear people.
 61,8,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,The small state wants nothing more than to enter and serve people.
+61,8,國,guó,國,state,yes,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,8,小,Xiǎo,大,small,yes,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,8,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,authored,The small state wants nothing more than to enter and serve people.
 61,9,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Both get what they want. The large one ought to be underneath.
@@ -1467,8 +1487,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 65,2,智,zhì,智,cleverness / clever,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,民,Mín,民,the people,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
 65,2,治,zhì,治,govern,yes,1.0,authored,The people are hard to govern because they have too much cleverness.
+65,3,國,guó,國,state,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,3,國,guó,國,state,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,3,智,zhì,智,cleverness / clever,yes,1.0,authored,So to govern a state with cleverness robs the state.
 65,3,治,zhì,治,govern,yes,1.0,authored,So to govern a state with cleverness robs the state.
+65,4,國,guó,國,state,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
+65,4,國,guó,國,state,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,智,zhì,智,cleverness / clever,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,治,zhì,治,govern,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
 65,4,福,fú,禍 & 福,fortune,yes,1.0,authored,Not to govern it with cleverness is the state's good fortune.
@@ -1719,6 +1743,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,3,柔,róu,柔,soft,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,能,néng,可,be able,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
+78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,王,wáng,王,ruler / sovereign · to rule (verb),yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the ruler of the world.
@@ -1743,6 +1769,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 79,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,The way of nature plays no favorites. It stays with those who are masterful.
 79,4,道,dào,道,the Tao / way,yes,1.0,authored,The way of nature plays no favorites. It stays with those who are masterful.
 80,1,器,qì,器,vessel / tool / implement,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
+80,1,國,guó,國,state,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,小,Xiǎo,大,small,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
 80,1,民,mín,民,the people,yes,1.0,authored,"A small state, few people. Let the people have tools that do the work of ten, of a hundred, yet no need to use them."
@@ -1756,6 +1783,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 80,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,民,mín,民,the people,yes,1.0,authored,Let the people go back to keeping their records in knotted cord.
 80,4,用,yòng,無 & 有,use,NOT FOUND,1.0,authored,Let the people go back to keeping their records in knotted cord.
+80,6,國,guó,國,state,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 80,6,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 80,6,民,mín,民,the people,yes,1.0,authored,Neighboring states lie within sight of each other. They hear each other's chickens and dogs. The people grow old and die and never once go next door.
 81,1,信,Xìn,信,trust / trustworthy,yes,1.0,authored,Trustworthy words are not pretty. Pretty words are not trustworthy.

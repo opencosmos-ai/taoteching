@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**92 entries.** Sorted by how much of the book each term touches.
+**93 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -40,6 +40,7 @@ python3 tools/build_index.py
 | **勝** | *shèng* | overcome · *win* (ch 31, 67, 69, 76) | "victory", "victorious", "conquer", "conquest", "defeat", "triumph" | 11 | **locked** | [`sheng-勝.md`](sheng-勝.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
+| **國** | *guó* | state | "nation", "kingdom", "country", "realm" | 10 | **locked** | [`guo-國.md`](guo-國.md) |
 | **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **死** | *sǐ* | death (a noun) / die (a verb) / deadly (modifying a noun) | "deathless", "immortal" | 9 | **locked** | [`si-死.md`](si-死.md) |
@@ -143,6 +144,7 @@ python3 tools/build_index.py
 | **萬** | countless | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **谿** | ravine | [`gu-谷.md`](gu-谷.md) — 谷 |
 | **躁** | restless, restlessness | [`jing-靜.md`](jing-靜.md) — 靜 |
+| **邦** | state | [`guo-國.md`](guo-國.md) — 國 |
 | **雄** | the rooster | [`ci-雌.md`](ci-雌.md) — 雌 |
 | **鬼** | ghost | [`shen-ling-神靈.md`](shen-ling-神靈.md) — 神 & 靈 |
 

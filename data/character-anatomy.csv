@@ -45,7 +45,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 將,jiāng,about to / will / (將欲) wanting to / a general (31),,將,exact,寸,phonetic-compound,,寸 (cùn = inch),𤖕 (? = not yet glossed),23,,0.1257,帥也。从寸，𤖕省聲。,
 此,Cǐ,this / here,,此,exact,此,compound,,"止 (zhǐ = stop / halt) + 匕 (bǐ = a spoon, a ladle)",,16,,0.1219,止也。从止从匕。匕，相比次也。凡此之屬皆从此。,
 成,chéng,complete,complete,成,exact,戊,phonetic-compound,,戊 (? = not yet glossed),丁 (? = not yet glossed),17,locked,0.1201,就也。从戊丁聲。,"To arrive at [its end]. From 戊 (wù — a battle-axe), with 丁 (dīng) for sound."
-國,guó,state,,國,exact,囗,compound,,"囗 (wéi = an enclosure, a boundary) + 或 (huò = some / sometimes / perhaps)",,25,,0.1197,邦也。从囗从或。,
+國,guó,state,state,國,exact,囗,compound,,"囗 (wéi = an enclosure, a boundary) + 或 (huò = some / sometimes / perhaps)",,25,locked,0.1197,邦也。从囗从或。,A state. From 囗 (wéi — an enclosure) and 或 (huò — a dagger-axe guarding the ground).
 名,míng,name,name,名,exact,口,compound,,口 (kǒu = mouths) + 夕 (xī = evening — the moon half shown),,24,Tier 3,0.1194,自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。,"To name oneself. From 口 (kǒu — mouth) and 夕 (xī — dusk). Dusk means the dark: in the dark people cannot see one another, so they name themselves with the mouth."
 身,shēn,body,body,身,exact,身,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𠂆 (? = not yet glossed),23,locked,0.1194,躳也。象人之身。从人𠂆聲。凡身之屬皆从身。,
 足,zú,enough / foot (64),,足,exact,足,compound,,止 (zhǐ = stop / halt) + 口 (kǒu = mouths),,19,,0.1178,人之足也。在下。从止、口。凡足之屬皆从足。,
@@ -435,7 +435,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 辭,cí,refuse,,辭,exact,辛,compound,,𤔔 (? = not yet glossed),,1,,0.0141,訟也。从𤔔，𤔔猶理辜也。𤔔，理也。,
 關,guān,"bolt (關楗, locks)",,關,exact,門,phonetic-compound,,門 (mén = gate / door),𢇅 (? = not yet glossed),1,,0.0141,以木橫持門戶也。从門𢇅聲。,
 惟,wéi,only,only,惟,exact,心,phonetic-compound,,心 (xīn = heart),隹 (zhuī = a short-tailed bird),3,locked,0.0135,凡思也。从心隹聲。,
-邦,bāng,"state, realm",,邦,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",丰 (? = not yet glossed),3,,0.0135,國也。从邑丰聲。,
+邦,bāng,state,state,邦,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",丰 (? = not yet glossed),3,locked,0.0135,國也。从邑丰聲。,
 鄉,xiāng,"community, village",,𨞰,old-form,𨛜,phonetic-compound,,𨛜 (? = not yet glossed),皀 (? = not yet glossed),3,,0.0135,國離邑，民所封鄉也。嗇夫別治。封圻之内六鄉，六鄉治之。从𨛜皀聲。,
 匠,jiàng,carpenter,,匠,exact,匚,compound,,匚 (? = not yet glossed) + 斤 (jīn = an axe),,2,,0.0133,木工也。从匚从斤。斤，所以作器也。,
 威,wēi,"authority / harm (大威, the great collapse)",,威,exact,女,compound,,女 (nǚ = a woman) + 戌 (? = not yet glossed),,2,,0.0133,姑也。从女从戌。漢律曰：“婦告威姑。”,

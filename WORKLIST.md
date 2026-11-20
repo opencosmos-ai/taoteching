@@ -14,7 +14,7 @@
 
 **Next, in order:**
 
-1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 智 (*zhì* — cleverness, T2-2) · 國 (*guó* — state). 長 (*cháng / zhǎng* — long / grow / chief) was written 2026-11-20, `glossary/chang-長.md`, and 勝 (*shèng* — overcome) 成 (*chéng* — complete) and 死 (*sǐ* — death) the same day, `glossary/sheng-勝.md`, `glossary/cheng-成.md` and `glossary/si-死.md`. The six from 儉 to 勝 and the last three were added 2026-11-15 from a scan of the text against the glossary.
+1. **Down `glossary/TRIAGE.md` → *The relevance queue*, one entry at a time:** 智 (*zhì* — cleverness, T2-2). 長 (*cháng / zhǎng* — long / grow / chief) was written 2026-11-20, `glossary/chang-長.md`, and 勝 (*shèng* — overcome) 成 (*chéng* — complete), 死 (*sǐ* — death) and 國 (*guó* — state) the same day, `glossary/sheng-勝.md`, `glossary/cheng-成.md`, `glossary/si-死.md` and `glossary/guo-國.md`. The six from 儉 to 勝 and the last three were added 2026-11-15 from a scan of the text against the glossary.
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 
 **Waiting on Shalom:** R6's minor table (`process/back-translation-audit.md`). The form audit (R4) and the accuracy audit (R5) are done.

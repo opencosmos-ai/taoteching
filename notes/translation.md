@@ -3474,3 +3474,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 *(Shalom's call, 2026-11-20. Argument in `chapters/075.md`.)* *(was: "because those over them want their own lives so rich.")* 求生之厚 and ch 50's 生生之厚 (*"they live life too thickly"*) share one frame, and Heshang Gong glosses both with 太厚 (*tài hòu* — too thick). 厚 (*hòu* — thick) now reads *thick* wherever it is the thickness of a life (38, 50, 55, 75); *rich* was 富 (*fù* — wealthy)'s, *want* stood for 求 (*qiú* — seek), and *own* rendered nothing. The chapter note says what the phrase means here: the rulers' life laid on thick, paid for in the first couplet's taxes, leaves the people a life too thin to guard.
 
+## 國 (*guó*) → *state*, with 邦 (*bāng*) covered — the entry, and no verse changed
+
+*(2026-11-20. Argument in `glossary/guo-國.md`; the English is Shalom's call of 2026-10-14, at chs 18 and 54.)* All 25 occurrences of 國 and the three of 邦 at ch 54 already read *state*; the entry locks it and forbids *nation*, *kingdom*, *country* and *realm*. 邦 is the same word, renamed under the Han taboo on Liu Bang (silk A 邦, silk B 國). The entry's argument is the ladder: a state is governed, the world is won over (ch 57), and *state* is kept apart from 天下's *the world*.
+
