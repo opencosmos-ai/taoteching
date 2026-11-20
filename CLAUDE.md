@@ -12,7 +12,7 @@
 
 **The format, always:** 為 (*wéi* — "to do / to handle"). Character, then pinyin with tone marks and English in parentheses right after it. Never a bare 為.
 
-**Names are the one exception: write them romanized, with no Chinese at all.** Commentators, authors, dictionaries and witnesses go by their romanized names: Wang Bi, Heshang Gong, Han Fei, Xu Shen, the Shuowen, Guodian, Mawangdui. Never "王弼's grammar," and not "王弼 (*Wáng Bì*)" either: a name in characters is one more thing the reader has to get past. *(Shalom's call, 2026-10-25. Older files still write names in characters; romanize them when you are editing that passage anyway.)*
+**Names are the one exception: write them romanized, with no Chinese at all.** Commentators, authors, dictionaries and witnesses go by their romanized names: Wang Bi, Heshang Gong, Han Fei, Xu Shen, the Shuowen, Guodian, Mawangdui. Never "王弼's grammar," and not "王弼 (*Wáng Bì*)" either: a name in characters is one more thing the reader has to get past. *(Shalom's call, 2026-10-25.)*
 
 **A verse quote is the other exception: its English stands beside its Chinese, and is its gloss.** When a glossary entry quotes the book's own verse as a block, it gives our English lines, then the Chinese lines, broken where the English breaks, then the chapter, with no pinyin and no literal gloss. Where an argument needs a literal reading, write it in the prose beside the quote, glossed as above. *(Shalom's call, 2026-10-26. The shape is in `process/skills/glossary-entry/SKILL.md` §3.)*
 
@@ -88,9 +88,9 @@ Two intentions, both sacred:
    ```
 
    A 🔶 is provisional — one case so far, so weigh it rather than obey it.
-4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. **§1's central claim was superseded**, and the file carries a banner. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
+4. **`DISCOVERIES.md`** — the findings worth an essay, newest first. Read its banners. **Do not trust a manuscript claim that is not in `sources/variants.yaml`.**
 
-**No call is deferred now.** The last, 正/奇 (*zhèng / qí* — straight / crooked), was taken up and settled on 2026-11-19 (`glossary/zheng-qi-正奇.md`): 正 *straight*, 奇 *crooked*, 直 *true*, 屈 *bent*.
+**A call Shalom defers is marked ⏸ in `WORKLIST.md`, and must not be quietly settled inside a chapter review.** Argue it with new evidence if you have it; otherwise leave it.
 
 ## Doing the work
 
