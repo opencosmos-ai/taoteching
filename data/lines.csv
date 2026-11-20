@@ -20,9 +20,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"acts, and does not rely on it.",authored
 2,11,2,功成而弗居。,gōng chéng ér fú jū.,work is accomplished and the Sage takes no credit.,"The work is done, and the sage does not stay in it.",authored
 2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not leave.,authored
-3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","By not exalting the exceptional, the people do not contend.",exact-count
-3,2,1,不貴難得之貨，使民不為盜；,"bù guì nán dé zhī huò, shǐ mín bù wéi dào;","do not prize rare goods, so that people do not steal;","By not prizing rare goods, the people do not become thieves.",exact-count
-3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","By not displaying the desirable, the people's hearts are not thrown into disorder.",exact-count
+3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","When the exceptional are not exalted, the people do not contend.",exact-count
+3,2,1,不貴難得之貨，使民不為盜；,"bù guì nán dé zhī huò, shǐ mín bù wéi dào;","do not prize rare goods, so that people do not steal;","When rare goods are not prized, the people do not become thieves.",exact-count
+3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","When the desirable is not displayed, the people's hearts are not thrown into disorder.",exact-count
 3,4,2,是以聖人之治，,"Shì yǐ shèng rén zhī zhì,","Therefore, the Sage's governance",Therefore the sage governs by,exact-count
 3,5,2,虛其心，實其腹，,"xū qí xīn, shí qí fù,","empties the heart, fills the stomach,","emptying their hearts and filling their bellies,",exact-count
 3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","teaches the ambition to yield, and strengthens the bones.","teaching their ambition to yield and strengthening their bones,",exact-count
@@ -137,7 +137,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 14,4,1,名曰希；,míng yuē xī;,its name \[ming\] is called \[yue\] inaudible/soundless \[xi\];,"Listen, but you cannot hear it — its name is the inaudible.",authored
 14,5,1,搏之不得，,"Bó zhī bù dé,","Grasping/reaching for \[bo\] it \[zhi\] but not \[bu\] getting/obtaining \[de\],","Reach, but you cannot touch it — its name is the intangible.",authored
 14,6,1,名曰微。,míng yuē wēi.,its name \[ming\] is called \[yue\] intangible/formless \[wei\].,"Reach, but you cannot touch it — its name is the intangible.",authored
-14,7,2,此三者不可致詰，,"Cǐ sān zhě bù kě zhì jié,","These \[ci\] three \[san\] things \[zhe\] cannot \[bu ke\] be fully probed/investigated \[zhi jie\],",These three defy comprehension.,authored
+14,7,2,此三者不可致詰，,"Cǐ sān zhě bù kě zhì jié,","These \[ci\] three \[san\] things \[zhe\] cannot \[bu ke\] be fully probed/investigated \[zhi jie\],",Questioning these three never reaches the end.,authored
 14,8,2,故混而為一。,Gù hùn ér wéi yī.,Therefore \[gu\] they blend/merge \[hun\] and \[er\] become \[wei\] one \[yi\].,So they mix into one.,authored
 14,9,3,其上不皦，,"Qí shàng bù jiǎo,","Its \[qi\] upper part/top \[shang\] is not \[bu\] bright/dazzling \[jiao\],","It doesn’t have a bright top,",authored
 14,10,3,其下不昧。,Qí xià bù mèi.,Its \[qi\] lower part/bottom \[xia\] is not \[bu\] dark/obscure \[mei\].,Or a murky bottom.,authored
@@ -337,16 +337,16 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 27,18,4,是謂要妙。,shì wèi yào miào.,this \[shi\] is called \[wei\] the crucial/essential \[yao\] subtle/fine \[miao\].,This is called the essential subtlety.,authored
 28,1,1,知其雄，守其雌，,"Zhī qí xióng, shǒu qí cí,","Knowing \[zhi\] the/its \[qi\] rooster \[xiong\], guarding/holding \[shou\] the/its \[qi\] hen \[ci\],","Know the rooster, hold to the hen,",exact-count
 28,2,1,為天下谿。,wéi tiān xià xī.,functioning as/being \[wei\] the world's \[tian xia\] ravine/funnel \[xi\].,serve as the world's ravine.,exact-count
-28,3,1,為天下谿，常德不離，,"Wéi tiān xià xī, cháng dé bù lí,","Functioning as \[wei\] the world's \[tian xia\] ravine \[xi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] leave/depart \[li\],","Serve as the world's ravine, and the ever-present integrity never leaves you.",exact-count
-28,4,1,復歸於嬰兒。,fù guī yú yīng ér.,reverting/returning \[fu gui\] to \[yu\] the infant/unformatted state \[ying er\].,Return to the infant.,exact-count
+28,3,1,為天下谿，常德不離，,"Wéi tiān xià xī, cháng dé bù lí,","Functioning as \[wei\] the world's \[tian xia\] ravine \[xi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] leave/depart \[li\],","Serve as the world's ravine, and the ever-present integrity never leaves you,",exact-count
+28,4,1,復歸於嬰兒。,fù guī yú yīng ér.,reverting/returning \[fu gui\] to \[yu\] the infant/unformatted state \[ying er\].,and you return to the infant.,exact-count
 28,5,2,知其白，守其黑，,"Zhī qí bái, shǒu qí hēi,","Knowing \[zhi\] the/its \[qi\] white/light \[bai\], guarding/holding \[shou\] the/its \[qi\] black/dark \[hei\],","Know the white, hold to the black,",exact-count
 28,6,2,為天下式。,wéi tiān xià shì.,functioning as/being \[wei\] the world's \[tian xia\] model/pattern \[shi\].,serve as the world's pattern.,exact-count
-28,7,2,為天下式，常德不忒，,"Wéi tiān xià shì, cháng dé bù tè,","Functioning as \[wei\] the world's \[tian xia\] model/pattern \[shi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] deviate/err \[te\],","Serve as the world's pattern, and the ever-present integrity never varies.",exact-count
-28,8,2,復歸於無極。,fù guī yú wú jí.,reverting/returning \[fu gui\] to \[yu\] the limitless/infinite \[wu ji\].,Return to the endless.,exact-count
+28,7,2,為天下式，常德不忒，,"Wéi tiān xià shì, cháng dé bù tè,","Functioning as \[wei\] the world's \[tian xia\] model/pattern \[shi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] deviate/err \[te\],","Serve as the world's pattern, and the ever-present integrity never varies,",exact-count
+28,8,2,復歸於無極。,fù guī yú wú jí.,reverting/returning \[fu gui\] to \[yu\] the limitless/infinite \[wu ji\].,and you return to the endless.,exact-count
 28,9,3,知其榮，守其辱，,"Zhī qí róng, shǒu qí rǔ,","Knowing \[zhi\] the/its \[qi\] glory/honor \[rong\], guarding/holding \[shou\] the/its \[qi\] disgrace/humility \[ru\],","Know the white, hold to the soiled,",exact-count
 28,10,3,為天下谷。,wéi tiān xià gǔ.,functioning as/being \[wei\] the world's \[tian xia\] valley/basin \[gu\].,serve as the world's valley.,exact-count
-28,11,3,為天下谷，常德乃足，,"Wéi tiān xià gǔ, cháng dé nǎi zú,","Functioning as \[wei\] the world's \[tian xia\] valley/basin \[gu\], constant/eternal \[chang\] virtue/capacity \[de\] then/thus \[nai\] is sufficient/full \[zu\],","Serve as the world's valley, and the ever-present integrity is enough at last.",exact-count
-28,12,3,復歸於樸。,fù guī yú pǔ.,reverting/returning \[fu gui\] to \[yu\] the uncarved wood \[pu\].,Return to the uncarved wood.,exact-count
+28,11,3,為天下谷，常德乃足，,"Wéi tiān xià gǔ, cháng dé nǎi zú,","Functioning as \[wei\] the world's \[tian xia\] valley/basin \[gu\], constant/eternal \[chang\] virtue/capacity \[de\] then/thus \[nai\] is sufficient/full \[zu\],","Serve as the world's valley, and the ever-present integrity is enough at last,",exact-count
+28,12,3,復歸於樸。,fù guī yú pǔ.,reverting/returning \[fu gui\] to \[yu\] the uncarved wood \[pu\].,and you return to the uncarved wood.,exact-count
 28,13,4,樸散則為器，,"Pǔ sàn zé wéi qì,","The uncarved wood \[pu\] scatters/is cut \[san\] then/thus \[ze\] functions as/becomes \[wei\] tools/instruments \[qi\],","The uncarved wood scatters, and becomes vessels.",exact-count
 28,14,4,聖人用之，則為官長，,"shèng rén yòng zhī, zé wéi guān zhǎng,","The Sage \[sheng ren\] uses \[yong\] them \[zhi\], then/thus \[ze\] functions as/becomes \[wei\] the chief administrator/executive \[guan zhang\],",The sage puts them to use and becomes chief of the officers.,exact-count
 28,15,4,故大制不割。,gù dà zhì bù gē.,therefore \[gu\] the Great \[da\] System/Administrator \[zhi\] does not \[bu\] cut/carve \[ge\].,So the great carving severs nothing.,exact-count
@@ -419,7 +419,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 34,5,2,常無欲，可名於小；,"Cháng wú yù, kě míng yú xiǎo;","Eternally \[chang\] without desire/overhead demand \[wu yu\], it can be named \[ke ming\] among the small \[yu xiao\];","Ever desireless, it can be named small.",exact-count
 34,6,2,萬物歸焉而不為主，可名為大。,"Wàn wù guī yān ér bù wéi zhǔ, kě míng wéi dà.","The ten thousand things \[wan wu\] return/drain \[gui\] to it \[yan\], yet \[er\] it does not \[bu\] act as \[wei\] their master \[zhu\], it can be named \[ke ming\] as great \[wei da\].","The countless things return to it, yet it does not act as their master. It can be named great.",exact-count
 34,7,3,以其終不自為大，,"Yǐ qí zhōng bù zì wéi dà,","Because \[yi\] to the very end \[qi zhong\] it does not \[bu\] make itself \[zi wei\] great \[da\],","It never makes itself great,",exact-count
-34,8,3,故能成其大。,Gù néng chéng qí dà.,Therefore \[gu\] it successfully completes \[neng cheng\] its greatness \[qi da\].,and so completes its greatness.,exact-count
+34,8,3,故能成其大。,Gù néng chéng qí dà.,Therefore \[gu\] it successfully completes \[neng cheng\] its greatness \[qi da\].,and so its greatness can be completed.,exact-count
 35,1,1,執大象，天下往。,"Zhí dà xiàng, tiān xià wǎng.","Hold the Great Image/Form (da xiang), the world goes/routes to you (wang).","Grasp the great image, and the world comes to you.",exact-count
 35,2,1,往而不害，安平太。,"Wǎng ér bù hài, ān píng tài.","Routing/going without harm (bu hai), there is safety, peace, and immense stability (an ping tai).","It comes unharmed, at rest, and utterly even.",exact-count
 35,3,1,樂與餌，過客止。,"Yuè yǔ ěr, guò kè zhǐ.","Music and fine food/bait (er), passing guests halt/stop (zhi).",Music and food bring a passing guest to a halt.,exact-count
@@ -670,7 +670,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 63,3,2,圖難於其易，為大於其細。,"Tú nán yú qí yì, wéi dà yú qí xì.",Map out the difficult while it is easy; do the great while it is slight (xi — thread-fine).,Map out the difficult while it is easy. / Do the great while it is slight.,authored
 63,4,2,天下難事，必作於易；,"Tiān xià nán shì, bì zuò yú yì;",The world's difficult affairs always arise from the easy;,The world's difficult affairs always begin easy.,authored
 63,5,2,天下大事，必作於細。,"Tiān xià dà shì, bì zuò yú xì.",the world's great affairs always arise from the slight.,The world's great affairs always begin slight.,authored
-63,6,3,是以聖人終不為大，故能成其大。,"Shì yǐ shèng rén zhōng bù wéi dà, gù néng chéng qí dà.","Therefore the sage to the end never does the great, and so can complete their greatness.","Therefore the sage never does the great, / and so completes their greatness.",authored
+63,6,3,是以聖人終不為大，故能成其大。,"Shì yǐ shèng rén zhōng bù wéi dà, gù néng chéng qí dà.","Therefore the sage to the end never does the great, and so can complete their greatness.","Therefore the sage never does the great, / and so their greatness can be completed.",authored
 63,7,4,夫輕諾必寡信，多易必多難。,"Fú qīng nuò bì guǎ xìn, duō yì bì duō nán.","Now, a light promise inevitably means scant trust (xin); taking much to be easy inevitably means much difficulty.",Promise lightly and you will be little trusted. / Take much to be easy and much will be difficult.,authored
 63,8,4,是以聖人猶難之，故終無難矣。,"Shì yǐ shèng rén yóu nán zhī, gù zhōng wú nán yǐ.","Therefore the sage still treats them as difficult, and so to the end has no difficulty.","Therefore the sage still finds it difficult, / and in the end has no difficulty.",authored
 64,1,1,其安易持，其未兆易謀。,"Qí ān yì chí, qí wèi zhào yì móu.","What is at rest/stable is easy to hold, what has not yet shown signs is easy to plan for.",What is at rest is easy to hold. / What shows no sign is easy to plan for.,authored

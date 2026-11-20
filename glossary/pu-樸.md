@@ -116,7 +116,7 @@ So the "block" is **English**, not Chinese — a noun supplied by translators to
 
 ### The paradoxes that are actually there
 
-**1. You are told to return to a state that cannot be recovered.** 復歸於樸 (28). Wood does not un-carve. Once the block is vessels, no craft on earth makes it a block again. Yet the instruction stands, three times over, in parallel with returning to infancy and to the limitless — both equally irreversible. Either the instruction is impossible, or *returning* means something other than reversal: not restoring a former shape but ceasing to identify with the shape you were cut into. The text does not explain. It simply keeps pointing backward along a road that only runs forward.
+**1. You are brought back to a state that cannot be recovered.** 復歸於樸 (28). Wood does not un-carve. Once the block is vessels, no craft on earth makes it a block again. Yet the return stands, three times over, in parallel with returning to infancy and to the limitless — both equally irreversible. Either the instruction is impossible, or *returning* means something other than reversal: not restoring a former shape but ceasing to identify with the shape you were cut into. The text does not explain. It simply keeps pointing backward along a road that only runs forward.
 
 **2. The great carving does not cut.** 大制不割 (28) — Laozi's own explicit paradox, placed in the very passage where the block becomes vessels. 制 is to tailor, cut out, govern; 割 is to sever. The greatest shaping does no severing. Not a refusal to shape — a shaping that leaves nothing cut.
 

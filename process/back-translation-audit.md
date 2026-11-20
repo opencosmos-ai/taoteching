@@ -140,6 +140,8 @@ The English makes the people the culprits; the Chinese makes them the casualties
 
 #### Minor
 
+*Worked through from 2026-11-19 (Shalom's calls); each chapter's Notes carries its line, and `WORKLIST.md` R6 lists what remains.*
+
 Each is real and none changes a chapter. Each is worth carrying into the next push that opens its chapter. **Logged** means the choice is recorded and the cold reader's response is evidence about its cost.
 
 | Ch | The line | What a reader of the English gets | What the Chinese says, and the evidence |

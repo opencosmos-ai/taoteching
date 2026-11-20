@@ -1,7 +1,7 @@
 chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,status,han_chars,english_words,words_per_character,guodian_attested,guodian_extent,guodian_bundles,source_lines,verse_lines,variants
 1,體道,tǐ dào,Embodying the Tao,drafted,59,80,1.356,no,,,9,9,3
 2,養身,yǎng shēn,Nourishing the self,drafted,87,125,1.437,yes,complete,A,12,15,1
-3,安民,ān mín,Settling the people,drafted,67,79,1.179,no,,,9,9,2
+3,安民,ān mín,Settling the people,drafted,67,82,1.224,no,,,9,9,2
 4,無源,wú yuán,The sourceless,drafted,42,57,1.357,no,,,7,7,2
 5,虛用,xū yòng,The use of emptiness,drafted,45,63,1.4,yes,middle,A,5,6,0
 6,成象,chéng xiàng,Taking form,drafted,25,37,1.48,no,,,6,6,1
@@ -12,7 +12,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 11,無用,wú yòng,The use of absence,drafted,49,61,1.245,no,,,11,11,1
 12,檢欲,jiǎn yù,Reining in desire,drafted,49,59,1.204,no,,,9,7,3
 13,猒恥,yàn chǐ,Shrinking from disgrace,drafted,81,128,1.58,yes,complete,B,16,12,2
-14,贊玄,zàn xuán,In praise of the dark,drafted,95,122,1.284,no,,,21,16,0
+14,贊玄,zàn xuán,In praise of the dark,drafted,95,125,1.316,no,,,21,16,0
 15,顯德,xiǎn dé,Integrity made visible,drafted,98,127,1.296,yes,complete,A,17,17,5
 16,歸根,guī gēn,Returning to the root,drafted,67,118,1.761,yes,opening,A,19,18,2
 17,淳風,chún fēng,Unspoiled ways,drafted,44,51,1.159,yes,complete,C,8,8,1
@@ -26,13 +26,13 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 25,象元,xiàng yuán,Figuring the origin,drafted,87,133,1.529,yes,complete,A,19,17,4
 26,重德,zhòng dé,The weight of integrity,drafted,47,63,1.34,no,,,9,8,2
 27,巧用,qiǎo yòng,Deft use,drafted,91,106,1.165,no,,,18,13,0
-28,反朴,fǎn pǔ,Back to uncarved wood,drafted,86,113,1.314,no,,,15,15,2
+28,反朴,fǎn pǔ,Back to uncarved wood,drafted,86,119,1.384,no,,,15,15,2
 29,無為,wú wéi,Non-doing,drafted,62,81,1.306,no,,,11,9,2
 30,儉武,jiǎn wǔ,Sparing with arms,drafted,75,91,1.213,yes,complete,A,15,9,0
 31,偃武,yǎn wǔ,Laying arms down,drafted,116,138,1.19,yes,end,C,18,15,0
 32,聖德,shèng dé,The integrity of the sage,drafted,71,94,1.324,yes,complete,A,10,9,3
 33,辯德,biàn dé,Telling integrity apart,drafted,38,57,1.5,no,,,8,8,1
-34,任成,rèn chéng,Letting things complete,drafted,62,86,1.387,no,,,8,8,0
+34,任成,rèn chéng,Letting things complete,drafted,62,88,1.419,no,,,8,8,0
 35,仁德,rén dé,Humane integrity,drafted,43,63,1.465,yes,complete,C,7,7,2
 36,微明,wēi míng,Subtle clear-seeing,drafted,56,75,1.339,no,,,8,8,3
 37,為政,wéi zhèng,Handling government,drafted,50,61,1.22,yes,complete,A,5,5,0
@@ -61,7 +61,7 @@ chapter,heshanggong_title,heshanggong_title_pinyin,heshanggong_title_english,sta
 60,居位,jū wèi,Keeping your place,drafted,48,73,1.521,no,,,5,5,1
 61,謙德,qiān dé,Humble integrity,drafted,81,106,1.309,no,,,9,11,4
 62,為道,wéi dào,Practising the Tao,drafted,81,115,1.42,no,,,10,13,4
-63,恩始,ēn shǐ,Favour at the beginning,drafted,79,94,1.19,yes,complete,A,8,15,2
+63,恩始,ēn shǐ,Favour at the beginning,drafted,79,96,1.215,yes,complete,A,8,15,2
 64,守微,shǒu wēi,Holding fast to the slight,drafted,125,172,1.376,yes,split,"A, C",13,22,4
 65,淳德,chún dé,Unspoiled integrity,drafted,69,91,1.319,no,,,7,13,2
 66,後巳,hòu jǐ,Putting the self last,drafted,76,104,1.368,yes,complete,A,8,10,1

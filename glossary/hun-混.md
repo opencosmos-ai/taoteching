@@ -32,7 +32,7 @@ A river in flood carries everything along with it: silt, leaves, branches, whate
 
 ### What the book does with it
 
-**Ch 14 — three become one.** 視之不見…聽之不聞…搏之不得…此三者不可致詰，故混而為一, *"Look, but you cannot see it… Listen, but you cannot hear it… Reach, but you cannot touch it… These three defy comprehension. So they mix into one."* 河上公 glosses the verb plainly: **混，合也**, *"混 means to join."* 王弼 (*Wáng Bì*) gives the reason they cannot be pulled apart: 無狀無象，無聲無響, *"no shape, no image, no sound, no echo."* What has no edges cannot be kept separate.
+**Ch 14 — three become one.** 視之不見…聽之不聞…搏之不得…此三者不可致詰，故混而為一, *"Look, but you cannot see it… Listen, but you cannot hear it… Reach, but you cannot touch it… Questioning these three never reaches the end. So they mix into one."* 河上公 glosses the verb plainly: **混，合也**, *"混 means to join."* 王弼 (*Wáng Bì*) gives the reason they cannot be pulled apart: 無狀無象，無聲無響, *"no shape, no image, no sound, no echo."* What has no edges cannot be kept separate.
 
 **Ch 15 — the last of seven likenesses.** The ancients were careful, hesitant, dignified, loosening, solid, open, and 混兮其若濁, *"Mixed, like muddy water."* 王弼 on all seven: 凡此諸若，皆言其容象不可得而形名也, *"every one of these 'like's says that their bearing cannot be given a shape or a name."* The likeness is the point: 若 (*ruò* — like) holds 混 and 濁 apart even as it sets them side by side. 河上公 reads 濁 as a manner, not a state of the water: 濁者不照然也，與衆合同，不自尊, *"濁 is not shining; joining with the crowd, being the same as them, not holding oneself high."*
 

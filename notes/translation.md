@@ -2093,6 +2093,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 3, 14, 28, 34, 63 · R6's minor table, first five
+
+*(2026-11-19, Shalom's calls.)* Ch 3's three 使 lines in the passive, the dangling modifier gone; ch 14 *"Questioning these three never reaches the end"*; ch 28's three returns as outcomes, *and you return to …*; chs 34 and 63 *"and so … greatness can be completed,"* 能 restored.
+
 ### Ch 74 · "To kill in their place"; ch 80 keeps "no need"
 
 *(2026-11-19, Shalom's calls; R5.)* 殺 restored at 74, 斫 left once where Shalom placed it; ch 80's *no need*, his 2026-08-26 fix on Wang Bi's 何患不足, kept. The block quote under *Ch 74* above now prints the new line.
@@ -2591,7 +2595,7 @@ Hence **"Having done for others, they have more. / Having given to others, they 
 
 **是謂玄德** (*shì wèi xuán dé* — "this is called profound integrity"). Ch 51 and ch 65 read *is called*; **ch 10 had dropped 謂** (*wèi* — is called) and asserted the identity flatly. Ch 10 now matches.
 
-**故能成其大** (*gù néng chéng qí dà* — "and so completes its greatness"). Ch 63 was right. **Ch 34 had lost 成** (*chéng* — to complete) altogether and invented an intensifier: *"The Tao shows **true** greatness."* Now *"It never makes itself great, and so completes its greatness"*, which also restores the parallel with ch 63's 終不為大 (*zhōng bù wéi dà* — "never does the great"). Note the two chapters differ in their first halves — ch 34 has 不**自**為大 (does not make **itself** great), ch 63 has 不為大 (does not do the great) — so only the second clause is shared and only it was matched.
+*(Superseded 2026-11-19: "and so its greatness can be completed," 能 restored in 34 and 63, Shalom's call.)* **故能成其大** (*gù néng chéng qí dà* — "and so completes its greatness"). Ch 63 was right. **Ch 34 had lost 成** (*chéng* — to complete) altogether and invented an intensifier: *"The Tao shows **true** greatness."* Now *"It never makes itself great, and so completes its greatness"*, which also restores the parallel with ch 63's 終不為大 (*zhōng bù wéi dà* — "never does the great"). Note the two chapters differ in their first halves — ch 34 has 不**自**為大 (does not make **itself** great), ch 63 has 不為大 (does not do the great) — so only the second clause is shared and only it was matched.
 
 **可以長久** (*kě yǐ cháng jiǔ* — "can last long"). **Neither side carried it**: ch 44 had a noun phrase (*"you have long endurance"*) and ch 59 a different verb (*"one endures long"*). Both now read **can last long**, each keeping its own chapter's pronoun — the formula is the predicate, not the subject.
 

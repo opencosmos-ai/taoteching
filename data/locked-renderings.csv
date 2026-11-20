@@ -57,18 +57,18 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,10,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acts, and does not rely on it."
 2,10,為,wéi,為,do / handle / serve as,yes,1.0,authored,"acts, and does not rely on it."
 2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not leave.
-3,1,民,mín,民,the people,yes,1.0,exact-count,"By not exalting the exceptional, the people do not contend."
-3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"By not exalting the exceptional, the people do not contend."
-3,2,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,2,民,mín,民,the people,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,2,貨,huò,貨,goods,yes,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,2,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,exact-count,"By not prizing rare goods, the people do not become thieves."
-3,3,亂,luàn,亂,disorder,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
-3,3,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
-3,3,心,xīn,心,heart,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
-3,3,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
-3,3,民,mín,民,the people,yes,1.0,exact-count,"By not displaying the desirable, the people's hearts are not thrown into disorder."
+3,1,民,mín,民,the people,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
+3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
+3,2,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
+3,2,民,mín,民,the people,yes,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
+3,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
+3,2,貨,huò,貨,goods,yes,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
+3,2,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
+3,3,亂,luàn,亂,disorder,yes,1.0,exact-count,"When the desirable is not displayed, the people's hearts are not thrown into disorder."
+3,3,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),yes,1.0,exact-count,"When the desirable is not displayed, the people's hearts are not thrown into disorder."
+3,3,心,xīn,心,heart,yes,1.0,exact-count,"When the desirable is not displayed, the people's hearts are not thrown into disorder."
+3,3,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"When the desirable is not displayed, the people's hearts are not thrown into disorder."
+3,3,民,mín,民,the people,yes,1.0,exact-count,"When the desirable is not displayed, the people's hearts are not thrown into disorder."
 3,4,治,zhì,治,govern,yes,1.0,exact-count,Therefore the sage governs by
 3,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,Therefore the sage governs by
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
@@ -271,7 +271,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 14,4,希,xī,希,few (of a count) / barely heard (of a sound),yes,1.0,authored,"Listen, but you cannot hear it — its name is the inaudible."
 14,5,得,dé,得 & 失,get,yes,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
 14,6,名,míng,名,name,yes,1.0,authored,"Reach, but you cannot touch it — its name is the intangible."
-14,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,These three defy comprehension.
+14,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,Questioning these three never reaches the end.
 14,8,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,So they mix into one.
 14,8,混,hùn,混,mixed (adjective) · to mix (verb),NOT FOUND,1.0,authored,So they mix into one.
 14,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,So they mix into one.
@@ -577,36 +577,36 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's ravine.
 28,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's ravine.
 28,2,谿,xī,谷,ravine,yes,1.0,exact-count,serve as the world's ravine.
-28,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
-28,3,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
-28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
-28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
-28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you."
-28,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the infant.
-28,4,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the infant.
+28,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,3,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,and you return to the infant.
+28,4,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,and you return to the infant.
 28,5,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the black,"
 28,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's pattern.
 28,6,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's pattern.
-28,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
-28,7,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
-28,7,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
-28,7,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies."
-28,8,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the endless.
-28,8,極,jí,極,the far end — where a thing runs out,yes,1.0,exact-count,Return to the endless.
-28,8,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the endless.
-28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Return to the endless.
+28,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies,"
+28,7,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies,"
+28,7,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies,"
+28,7,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's pattern, and the ever-present integrity never varies,"
+28,8,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,and you return to the endless.
+28,8,極,jí,極,the far end — where a thing runs out,yes,1.0,exact-count,and you return to the endless.
+28,8,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,and you return to the endless.
+28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,and you return to the endless.
 28,9,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the soiled,"
 28,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's valley.
 28,10,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's valley.
 28,10,谷,gǔ,谷,valley,yes,1.0,exact-count,serve as the world's valley.
-28,11,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,11,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,11,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,11,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,11,谷,gǔ,谷,valley,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last."
-28,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,Return to the uncarved wood.
-28,12,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,Return to the uncarved wood.
-28,12,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,Return to the uncarved wood.
+28,11,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last,"
+28,11,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last,"
+28,11,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last,"
+28,11,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last,"
+28,11,谷,gǔ,谷,valley,yes,1.0,exact-count,"Serve as the world's valley, and the ever-present integrity is enough at last,"
+28,12,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,and you return to the uncarved wood.
+28,12,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,and you return to the uncarved wood.
+28,12,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,and you return to the uncarved wood.
 28,13,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,13,樸,Pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
 28,13,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"The uncarved wood scatters, and becomes vessels."
@@ -734,8 +734,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 34,6,萬,Wàn,萬物,countless,yes,1.0,exact-count,"The countless things return to it, yet it does not act as their master. It can be named great."
 34,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"It never makes itself great,"
 34,7,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"It never makes itself great,"
-34,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,and so completes its greatness.
-34,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,and so completes its greatness.
+34,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,and so its greatness can be completed.
+34,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,and so its greatness can be completed.
 35,1,執,Zhí,執,grasp,yes,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
@@ -1357,11 +1357,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 63,5,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,The world's great affairs always begin slight.
 63,5,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The world's great affairs always begin slight.
 63,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,The world's great affairs always begin slight.
-63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so completes their greatness."
-63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so completes their greatness."
-63,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage never does the great, and so completes their greatness."
-63,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage never does the great, and so completes their greatness."
-63,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so completes their greatness."
+63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
+63,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Therefore the sage never does the great, and so their greatness can be completed."
 63,7,信,xìn,信,trust / trustworthy,yes,1.0,authored,Promise lightly and you will be little trusted. Take much to be easy and much will be difficult.
 63,8,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Therefore the sage still finds it difficult, and in the end has no difficulty."
 63,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage still finds it difficult, and in the end has no difficulty."
