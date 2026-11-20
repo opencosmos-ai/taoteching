@@ -66,6 +66,10 @@ The marks are ours; the music is the source's. The ancient text carries no punct
 
 **Sweep, 2026-08-11:** 45 instances lowercased across eight files. `chapters/` was already clean — the drift was entirely in the prose *about* the verse.
 
+### 兮 — the sung pause, carried by punctuation
+
+*(2026-11-19, `WORKLIST.md` T3-14; the reason `process/form-audit.md` drafted, written once.)* 兮 (*xī*) is a held breath with no meaning of its own, and English has no word for it. A held breath is what punctuation is for, so the English gives it a mark instead: a comma after a bare adjective (4, 15, and ch 17's *Hesitant,*), a full stop (25's *Silent. Empty.*), an exclamation (20). Where it falls inside a line rather than closing a word (14, 21, 34), the line's own pause carries it. At 58, 禍兮 (*huò xī* — "disaster!") holds a topic up, and the English names the topic: *Disaster is what fortune leans on.*
+
 ### The commentaries are evidence, never candidate renderings
 
 **Migrated to [`process/principles/commentary-is-not-a-rendering.md`](../process/principles/commentary-is-not-a-rendering.md), 2026-09-10.** The heading stays so existing links resolve; the argument lives in the entry, with its trigger and its cases, and is loaded by the skills at the moment it applies.
@@ -2080,6 +2084,18 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 50, 55 · 厚 → "thick"; ch 44 keeps "heavy loss"
+
+*(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
+
+### Ch 30 · 其事好還 → "Such affairs tend to turn back"
+
+*(2026-11-19, Shalom's call.)* *(was: "Such undertakings tend to come back on you.")* The bare figure holds the recoil and the commentators' turning back. R6.
+
+### Ch 53, 13 · two choices kept and recorded
+
+*(2026-11-19, Shalom's calls.)* Ch 53 keeps *stray* (施 read as 迤, against both commentators, for the byways) and *just a scrap* (against Heshang Gong's 介，大也). Ch 13 keeps *trusted with* twice, with Wang Bi, Heshang Gong's warning recorded. R6.
 
 ### Ch 19, 57 · 巧 → "skill"; ch 36 · 微明 → "the faint clarity"; ch 38 · 不居 → "does not stay in"
 

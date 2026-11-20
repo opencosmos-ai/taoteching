@@ -634,7 +634,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 30,1,道,dào,道,the Tao / way,yes,1.0,authored,One who supports a ruler with the Tao does not force the world with weapons.
 30,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not force the world with weapons.
 30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not force the world with weapons.
-30,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Such undertakings tend to come back on you.
+30,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",yes,1.0,authored,Such affairs tend to turn back.
 30,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Where armies camp, thorns and brambles grow."
 30,5,凶,xiōng,凶 & 吉,ominous,yes,1.0,authored,"After a big military campaign, a lean year follows."
 30,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"After a big military campaign, a lean year follows."
@@ -1069,8 +1069,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,Three in ten are followers of death.
 50,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
-50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they cling too tightly to life.
-50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they cling too tightly to life.
+50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
+50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
 50,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
 50,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
 50,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"can travel the land without meeting rhinos or tigers,"
@@ -1144,7 +1144,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 53,4,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing excess wealth and goods —"
 53,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing excess wealth and goods —"
 53,4,貨,huò,貨,goods,yes,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing excess wealth and goods —"
-53,5,道,dào,道,the Tao / way,yes,1.0,exact-count,This exposes the ringleader of thieves. It is not the Tao\!
+53,5,道,dào,道,the Tao / way,yes,1.0,exact-count,This exposes the ringleader of thieves. It is not the Tao!
 54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. Descendants will never cease offering sacrifices honoring this.
 54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. Descendants will never cease offering sacrifices honoring this.
 54,2,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your body, and its integrity becomes authentic."
@@ -1160,7 +1160,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 54,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Observe the community through your community. Observe the state through your state. Observe the world through the world.
 54,9,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the world is so? By this.
 54,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,How do I know the world is so? By this.
-55,1,德,dé,德,integrity,yes,1.0,authored,A person with abundant integrity is like a newborn.
+55,1,德,dé,德,integrity,yes,1.0,authored,One who holds integrity thick within is like a newborn.
 55,3,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,3,柔,róu,柔,soft,yes,1.0,authored,"Their bones are yielding and their muscles soft, yet their grip is firm."
 55,4,牝,pìn,牝,the female,NOT FOUND,1.0,authored,"They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost."

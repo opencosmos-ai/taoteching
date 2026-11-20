@@ -95,7 +95,7 @@ They interlock on their own vocabulary. 棄 (*qì* — abandon) binds 27 to 62; 
 - **Ch 25 describes that movement entirely in travel verbs.** 大曰逝，逝曰遠，遠曰反 — great, then 逝 (*shì* — departing), then 遠 (*yuǎn* — going far), then 反 (*fǎn* — returning). An outbound journey and a return, in four words. *(Ch 25 read 逝 as "expanding" until 2026-09-06, which is growth in place — the one thing the line denies. 說文 gives 往也, "to go"; 王弼 glosses it 逝行也.)*
 - **Ch 14 puts the head of the road out of sight.** 迎之不見其首，隨之不見其後 — *"Go to meet it and you do not see its head; follow it and you do not see its back."* Both verbs are 辵 words — 迎 (*yíng* — to go and meet) and 隨 (*suí* — to follow) — and **首, the head, is the very component 道 is built from.** 首 appears only twice in the whole book. The road has a head, and you cannot get around to the front of it.
 - **Ch 15's 通 is 道's sibling by definition, not merely by radical.** 說文 defines 通 as 達也, and defines 道 *through* 達 (一達謂之道). Both are getting-through.
-- **Ch 30's 還.** 其事好還 — *"such affairs tend to come back."* Violence is a road that loops.
+- **Ch 30's 還.** 其事好還 — *"such affairs tend to turn back."* Violence is a road that loops; and for Wang Bi and Heshang Gong, the one with the Tao is the one who turns back.
 - **Ch 27's 迷.** 雖智大迷 — clever, and badly lost. **You can lose a road. You cannot lose an abstraction.**
 
 **The through-line:** nearly every major claim about the Tao is a claim about travel — where it goes, how far, whether it returns, whether you can see its head, whether you can get lost on it. That is a different kind of statement from the one the English tradition inherited, which made 道 *the Way* and then let *way* be heard as *manner* — a way of doing things. **The character is more concrete than that, and the book keeps it concrete.** It is also an argument for leaving 道 untranslated: *the Way* keeps the road but adds a throne, and *a way* loses the road altogether.
@@ -515,7 +515,7 @@ The arc is worth reading as one movement. 72 says the fear is gone. 74 says you 
 
 And the closing line reaches back to 72 by its own character. 貴生 (*guì shēng* — a life prized) is the 貴 of 不自貴 (*bù zì guì*), two chapters earlier: *"loves themselves and does not prize themselves."* 72 asks it of a self; 75 shows what it costs a country when a ruler will not.
 
-Ch 50's 生生之厚 is the same diagnosis without the throne: *because they cling too tightly to life.* Laozi aims it at rulers in 75 and at everyone in 50.
+Ch 50's 生生之厚 is the same diagnosis without the throne: *because they live life too thickly.* Laozi aims it at rulers in 75 and at everyone in 50.
 
 ### Ch 76 · the one chapter where being low is the bad news
 

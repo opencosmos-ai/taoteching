@@ -51,7 +51,7 @@ Three ordinary verbs, each negated and then taken as its own object. That struct
 - **the business of governing** — 處無為之事 (2), *dwelling in the work of non-doing*
 - **daily competence** — 事善能 (8), water is *skillful in its affairs*
 - **the ruler's completed project** — 功成事遂 (17), *the work done, the undertaking finished*
-- **what rebounds on you** — 其事好還 (30), of military force: *such undertakings tend to come back*
+- **affairs that turn back** — 其事好還 (30), of military force: *such affairs tend to turn back*, holding both the recoil and the commentators' turning back to non-doing
 - **a ceremonial occasion** — 吉事 / 凶事 (31), auspicious and inauspicious **rites**, which is what sets the seating at a general's table
 - **proliferating busyness** — 濟其事 (52), *multiplying your affairs*, and your life is beyond saving
 - **the scale argument** — 天下難事 / 天下大事 (63), the world's *difficult* and *great* undertakings, both beginning small

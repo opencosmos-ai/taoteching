@@ -79,7 +79,7 @@ Both commentators read 施 (*shī*) as *acting*, and the line as a fear of actio
 
 The English takes the reading of 施 (*shī* — to act) as a loan for 迤 (*yǐ* — to veer). That is a respectable philological reading, and the next line's 徑 (*jìng* — byways) supports it. But it is a choice against every commentary in the repository, and nothing records it. A second choice rides in the same line: 介然 (*jiè rán* — slightly / firmly), which Heshang Gong glosses 介，大也 (*jiè, dà yě* — "*jiè* means great"), and which the English renders as *"just a scrap,"* the opposite pole, without a note.
 
-**Logged?** No. **Proposed:** keep *stray* and log the 迤 (*yǐ* — to veer) reading, with 徑 (*jìng* — byways) as its evidence and both commentators against it. Or follow them: *"my only fear would be to act."* I'd keep *stray*: the byways in the next line make the road image the chapter's own. But the choice has to be written down.
+**Logged?** No. **Proposed:** keep *stray* and log the 迤 (*yǐ* — to veer) reading, with 徑 (*jìng* — byways) as its evidence and both commentators against it. Or follow them: *"my only fear would be to act."* I'd keep *stray*: the byways in the next line make the road image the chapter's own. But the choice has to be written down. **Done 2026-11-19 (Shalom's call):** *stray* and *just a scrap* kept, both choices recorded in `chapters/053.md`.
 
 **4 · Ch 30 · 其事好還 (*qí shì hào huán* — "their affairs tend to turn back") → *"Such undertakings tend to come back on you."***
 
@@ -89,7 +89,7 @@ The English takes the recoil reading, that war rebounds on whoever wages it, the
 
 *Such undertakings* and *on you* are both supplied, and together they close the line onto one reading. `glossary/shi-事.md` and `notes/reading.md` → *Ch 30's 還* (*huán* — to turn back) assume recoil without mentioning that both commentators read it the other way.
 
-**Logged?** Assumed, not argued. **Proposed:** *"Such affairs tend to turn back."* This keeps the bare figure, which holds the recoil and the commentators' turning-back both, and is the honesty-over-closure move the ethos asks for. Log the split either way.
+**Logged?** Assumed, not argued. **Proposed:** *"Such affairs tend to turn back."* This keeps the bare figure, which holds the recoil and the commentators' turning-back both, and is the honesty-over-closure move the ethos asks for. Log the split either way. **Done 2026-11-19 (Shalom's call).**
 
 **5 · Ch 13 · 貴大患若身 (*guì dà huàn ruò shēn* — "great trouble is prized like the body") → *"Prize great trouble as your own body."***
 
@@ -110,7 +110,7 @@ Heshang Gong reads the two lines as opposites:
 
 Wang Bi reads both as praise, and swaps the two verbs. The English renders both lines as one positive claim with one verb, *trusted with*. The note logs that merger on Wang Bi's authority, cites Heshang Gong's second gloss in support, and does not mention his first.
 
-**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available. **Note corrected 2026-11-19** (`chapters/013.md`); whether the verse keeps 寄 and 託 apart is still open.
+**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available. **Note corrected 2026-11-19** (`chapters/013.md`); the verse keeps *trusted with* twice (Shalom's call, 2026-11-19).
 
 **7 · Ch 22 · 枉則直 (*wǎng zé zhí* — "bent, then straight") → *"Be wronged, and be made straight."***
 
@@ -193,7 +193,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 #### Two stray things a reader found
 
-- **Ch 53's verse prints *"It is not the Tao\!"*** with a Markdown escape, the only `\!` in any verse. It renders correctly on GitHub, but the escape reaches `data/` raw. A one-character fix, outside this audit.
+- **Ch 53's verse prints *"It is not the Tao\!"*** with a Markdown escape, the only `\!` in any verse. It renders correctly on GitHub, but the escape reaches `data/` raw. A one-character fix, outside this audit. **Fixed 2026-11-19.**
 - **Readers' notes are in the comparers' reports**, under *Readers' errors*. None of them voided a finding listed here.
 
 ---
