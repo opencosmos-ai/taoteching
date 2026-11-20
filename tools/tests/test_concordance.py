@@ -247,3 +247,35 @@ class EnglishAttribution(unittest.TestCase):
         terms = [term("身", "body", forbidden=["soul"]), term("魄", "aliveness", forbidden=["soul"])]
         lock, rivals = co.lock_for_english("soul", terms)
         self.assertEqual((lock.term, [r.term for r in rivals]), ("身", ["魄"]))
+
+
+class Covers(unittest.TestCase):
+    """A covered character has a home, and the report must say so.
+
+    鬼 (gui — ghost) and 罪 (zui — crime) were covered on 2026-11-19, inside the
+    神 & 靈 and 禍 & 福 entries. On 2026-11-20 both came back to the queue as
+    owed work, because this tool read only terms.yaml's locks and printed "no
+    glossary entry yet" for every cover. A cover is not a lock, and it is not
+    nothing either: three answers, never two.
+    """
+
+    @classmethod
+    def setUpClass(cls):
+        cls.terms = corpus.load_terms()
+        cls.covers = corpus.load_covers()
+
+    def test_load_covers_reads_every_entry(self):
+        self.assertEqual(self.covers["鬼"][2], "glossary/shen-ling-神靈.md")
+        self.assertEqual(self.covers["罪"][2], "glossary/huo-fu-禍福.md")
+
+    def test_no_cover_is_reported_as_unwritten(self):
+        """The 2026-11-20 case, for every cover in the glossary at once."""
+        for char, (_, _, entry) in self.covers.items():
+            line = co.header(char, self.terms, self.covers)
+            self.assertNotIn("no glossary entry yet", line, char)
+            if not co.lock_for(char, self.terms):
+                self.assertIn(entry, line, char)
+                self.assertIn("no lock of its own", line, char)
+
+    def test_an_unwritten_character_still_says_so(self):
+        self.assertIn("no glossary entry yet", co.header("龘", self.terms, self.covers))

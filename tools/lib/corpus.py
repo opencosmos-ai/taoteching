@@ -504,6 +504,28 @@ class Term:
         return term_parts(self.term)
 
 
+def load_covers():
+    """Every secondary character an entry absorbs through `covers:`.
+
+    Returns {char: (render, owning term, "glossary/<file>")}.
+
+    A cover has a home and an English but **no lock of its own**: build_index
+    writes it into terms.yaml only as a `# covers` comment, so load_terms()
+    cannot see it. Any tool that answers "does this character have an entry?"
+    from load_terms() alone will report a covered character as unwritten, which
+    is how 鬼 and 罪, both covered on 2026-11-19, came back to the queue as
+    owed work on 2026-11-20. Read this too. ARCHITECTURE.md, "Covers".
+    """
+    out = {}
+    for path in sorted(GLOSSARY.glob("*.md")):
+        if path.name in ("INDEX.md", "TRIAGE.md"):
+            continue
+        fm = parse_frontmatter(path.read_text(encoding="utf-8"), path) or {}
+        for char, render in fm.get("covers") or []:
+            out.setdefault(char, (render, fm.get("term", ""), f"glossary/{path.name}"))
+    return out
+
+
 def load_terms():
     """Parse glossary/terms.yaml. Generated from entry frontmatter — never hand-edited."""
     path = GLOSSARY / "terms.yaml"

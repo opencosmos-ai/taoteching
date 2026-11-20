@@ -108,6 +108,8 @@
 
 ## The relevance queue — ranked 2026-10-14
 
+**Before adding a character, run `python3 tools/concordance.py <char>`.** *Covered in the X entry* means it already has a home and is not owed an entry; *no glossary entry yet* is the only answer that is. `glossary/INDEX.md` → *Secondary characters* lists every cover. *(Added 2026-11-20, after 鬼 and 罪, covered on 2026-11-19, were raised again as owed.)*
+
 *Ranked by relevance, not frequency: argument weight, rendering instability, overlay risk, completing a locked pair, cross-text value with the I Ching (`../iching`), with reach only breaking ties. Grammar words are excluded; they now carry short glosses in `sources/grammar-glosses.yaml`. Every content character carries at least a short gloss in `sources/word-glosses.yaml`, so this queue is about which ones earn a full entry. Each entry goes through `process/skills/glossary-entry`, one at a time, one PR per batch. **Lowest number first.***
 
 | # | Term | Status | Why it ranks | First move |
