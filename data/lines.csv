@@ -78,8 +78,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 9,8,2,自遺其咎。,zì yí qí jiù.,brings upon oneself \[zi yi\] its \[qi\] disaster/blame \[jiu\].,"Grow arrogant with wealth and status, and you leave yourself the fault.",authored
 9,9,3,功遂身退，,"Gōng suì shēn tuì,","Work/merit \[gong\] accomplished/completed \[sui\], the body/self \[shen\] retreats/retires \[tui\],","The work done, the body withdraws. This is the way of nature.",authored
 9,10,3,天之道。,tiān zhī dào.,the Tao/way of Heaven \[tian\].,"The work done, the body withdraws. This is the way of nature.",authored
-10,1,1,載營魄抱一，,"Zài yíng pò bào yī,","Carrying \[zai\] the vital/encampment \[ying\] aliveness \[po\] and embracing \[bao\] the One \[yi\],","Housing your aliveness and embracing the one, can you keep these from parting?",authored
-10,2,1,能無離乎？,néng wú lí hū?,can you \[neng\] not \[wu\] depart/separate \[li\]?,"Housing your aliveness and embracing the one, can you keep these from parting?",authored
+10,1,1,載營魄抱一，,"Zài yíng pò bào yī,","Carrying \[zai\] the vital/encampment \[ying\] aliveness \[po\] and embracing \[bao\] the One \[yi\],","Housing your aliveness and embracing the one, can you be undivided?",authored
+10,2,1,能無離乎？,néng wú lí hū?,can you \[neng\] not \[wu\] depart/separate \[li\]?,"Housing your aliveness and embracing the one, can you be undivided?",authored
 10,3,1,專氣致柔，,"Zhuān qì zhì róu,","Concentrating \[zhuan\] the vital breath \[qi\] to reach \[zhi\] suppleness/softness \[rou\],","Gathering the breath to softness, can you be an infant?",authored
 10,4,1,能如嬰兒乎？,néng rú yīng ér hū?,can you be like \[ru\] a newborn infant \[ying er\]?,"Gathering the breath to softness, can you be an infant?",authored
 10,5,2,滌除玄覽，,"Dí chú xuán lǎn,","Washing \[di\] and clearing \[chu\] the dark/mysterious \[xuan\] mirror/vision \[lan\],","Washing and clearing the dark mirror, can you be without blemish?",authored
@@ -310,7 +310,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,authored
 26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,authored
 26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness \[jing\] functions as/is \[wei\] the ruler \[jun\] of the restless \[zao\].,Stillness is the ruler of the restless.,authored
-26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the baggage wagons.",authored
+26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the heavy wagons.",authored
 26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,"Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",How can the lord of ten thousand chariots,authored
@@ -545,7 +545,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 49,3,1,不善者，吾亦善之；,"Bù shàn zhě, wú yì shàn zhī;","The unmasterful, I also (yi) count as masterful;","the unmasterful, I count as masterful too.",authored
 49,4,1,德善。,Dé shàn.,"Integrity (de) is mastery (shan). Two characters, no verb and no causal word.",Integrity is mastery.,authored
 49,5,2,信者，吾信之；,"Xìn zhě, wú xìn zhī;","Those who are reliable/trustworthy, I trust/rely on;","The trustworthy, I trust;",authored
-49,6,2,不信者，吾亦信之；,"Bù xìn zhě, wú yì xìn zhī;","Those who are unreliable/untrustworthy, I also trust/rely on;","the untrustworthy, I trust as well.",authored
+49,6,2,不信者，吾亦信之；,"Bù xìn zhě, wú yì xìn zhī;","Those who are unreliable/untrustworthy, I also trust/rely on;","the untrustworthy, I trust too.",authored
 49,7,2,德信。,Dé xìn.,Integrity is trust (xin).,Integrity is trust.,authored
 49,8,3,聖人在天下，歙歙焉，為天下渾其心，,"Shèng rén zài tiān xià, xī xī yān, wéi tiān xià hún qí xīn,","The sage in the world breathes gently (xi xi — to draw in); for the sake of the world, muddies (hun) their heart (xin).","In the world, the sage breathes gently; / for the sake of the world, they let their heart go muddy.",authored
 49,9,3,百姓皆注其耳目，聖人皆孩之。,"Bǎi xìng jiē zhù qí ěr mù, shèng rén jiē hái zhī.","The people all pour (zhu) their ears and eyes; the sage sees them all as hai (an infant — the Shuowen glosses its older form as ""a small child's laugh"").","Everyone pours out their attention, all eyes and ears; / the sage sees them pure as infants.",authored
@@ -560,7 +560,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 50,9,2,兕無所投其角，,"Sì wú suǒ tóu qí jiǎo,","The rhino has nowhere to thrust its horn,","The rhino’s horn has nowhere to thrust,",exact-count
 50,10,2,虎無所用其爪，,"Hǔ wú suǒ yòng qí zhǎo,","The tiger has nowhere to use its claws,","the tiger’s claws have nowhere to tear into,",exact-count
 50,11,2,兵無所容其刃。,Bīng wú suǒ róng qí rèn.,The weapon has nowhere to house its blade.,the weapon blades have nothing to cut.,exact-count
-50,12,2,夫何故？以其無死地。,Fú hé gù? Yǐ qí wú sǐ dì.,For what reason? Because in them there is no realm of death (no fatal vulnerability).,Why? Because they give death no foothold.,exact-count
+50,12,2,夫何故？以其無死地。,Fú hé gù? Yǐ qí wú sǐ dì.,For what reason? Because in them there is no realm of death (no fatal vulnerability).,Why? Because in them there is no deadly ground.,exact-count
 51,1,1,道生之，德畜之，,"Dào shēng zhī, dé xù zhī,","The Tao generates them, the Te/Virtue nourishes them,","The Tao births the countless things, integrity rears them,",authored
 51,2,1,物形之，勢成之。,"Wù xíng zhī, shì chéng zhī.","Matter/Physical entities give them form, momentum/circumstance completes/compiles them.","matter forms them, circumstance completes them.",authored
 51,3,1,是以萬物莫不尊道而貴德。,Shì yǐ wàn wù mò bù zūn dào ér guì dé.,Therefore the ten thousand things cannot but revere the Tao and value the Te.,"Therefore the countless things, without exception, honor the Tao and prize integrity.",authored

@@ -2075,6 +2075,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 10, 26, 49, 50 · four members brought into step
+
+*(2026-11-19, Shalom's calls.)* Ch 10 *"can you be undivided?"* (was *"can you keep these from parting?"*), the sixth *can you be*; ch 26 *"the heavy wagons"* (was *baggage*), 輜重's 重 answering line 1; ch 49 *"I trust too"* (was *as well*), 亦 alike in both stanzas; ch 50 *"Because in them there is no deadly ground"* (was *"they give death no foothold"*), answering line 4's 死地. T3-18.
+
 ### Ch 22 · 枉則直 → "Be warped, and grow straight"
 
 *(2026-11-19, Shalom's call.)* *(was: "Be wronged, and be made straight.")* Both commentators bend the self and let straightness come of itself; 枉 is warped wood (說文 衺曲也). *Bent* is 曲's. R6. `chapters/022.md`.
@@ -3203,7 +3207,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 *(Shalom's word, 2026-10-15. Full argument: `glossary/po-魄.md`. The essay: `DISCOVERIES.md` §7.)*
 
-**Ch 10 now reads *"Housing your aliveness and embracing the one, can you keep these from parting?"*** It was *"housing your soul."* The verb did the watchlist's work and made the soul bodily, but the noun was still the watchlist's word. **This departs from every English translation**, all of which print *soul* with or without a qualifier (*physical-*, *bodily*, *earthbound*, *animal*). The qualifiers show the translators knew the noun was wrong.
+*(Superseded 2026-11-19 in its last words: "…can you be undivided?")* **Ch 10 now reads *"Housing your aliveness and embracing the one, can you keep these from parting?"*** It was *"housing your soul."* The verb did the watchlist's work and made the soul bodily, but the noun was still the watchlist's word. **This departs from every English translation**, all of which print *soul* with or without a qualifier (*physical-*, *bodily*, *earthbound*, *animal*). The qualifiers show the translators knew the noun was wrong.
 
 **Why not *soul*.** English *soul* is what leaves the body. 魄 is what stays with it: 杜預 魄，**形**也 (*"魄 is the form"*); 孔穎達 **附形之靈**為魄 (*"the life clinging to the form"*); 禮記 **形魄歸于地** (*"the form and the 魄 return to the earth"*). 魂 (*hún*), the half that rises, never appears in the book. Its account of a person is 身, 氣 and 精, and each of them already refuses *soul*. So *soul* at ch 10 would be the book's only immaterial self, printed on the one word that means the reverse.
 

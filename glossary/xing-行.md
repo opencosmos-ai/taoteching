@@ -41,7 +41,7 @@ So 行 is not one verb among many. It is the motion the whole vocabulary is draw
 **1. To go: the root, in most of the book.**
 
 > 周行而不殆 (25) — *it moves in a circle, never in danger.*
-> 終日行不離輜重 (26) — *travels all day without leaving the baggage wagons.*
+> 終日行不離輜重 (26) — *travels all day without leaving the heavy wagons.*
 > 善行無轍跡 (27) — *masterful traveling leaves no tracks.*
 > 故物或行或隨 (29) — *so among things, some go ahead, some follow.*
 > 陸行不遇兕虎 (50) — *can travel the land without meeting rhinos or tigers.*

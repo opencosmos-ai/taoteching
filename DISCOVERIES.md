@@ -99,7 +99,7 @@ His own answer to how to settle it: *"we must more deeply understand 辱."*
 
 **The translators' qualifiers are the evidence.** *Physical*, *bodily*, *earthbound*, *animal*: each is an attempt to take back what the noun imports, the separable, immaterial self that leaves the body and survives it. A word that needs a qualifier in every translation is the wrong word.
 
-**This edition reads it "aliveness":** *"Housing your aliveness and embracing the one, can you keep these from parting?"* *(Shalom's word.)*
+**This edition reads it "aliveness":** *"Housing your aliveness and embracing the one, can you be undivided?"* *(Shalom's word.)*
 
 ### Why "soul" was refused
 

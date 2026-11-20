@@ -564,7 +564,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
 - **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point.
 - **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*. **Done 2026-11-19 (Shalom's call).**
-- **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*.
+- **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*. **Done 2026-11-19 (Shalom's call).**
 - **12, 令人行妨 (*lìng rén xíng fáng*) — leave.** Recorded: *the fifth* makes *is carried by the verb* (`chapters/012.md`, Shalom's call 2026-10-20).
 - **13, the second 天下 (*tiān xià* — the world) — resolve:** *"…can be trusted with the world."* in both lines. 寄 / 託 (*jì / tuō*) as *trusted with* stays, as recorded. **Done 2026-11-19 (Shalom's call).**
 - **17, the ladder — resolve:**
@@ -576,7 +576,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
   The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes. **Done 2026-11-19 (Shalom's call),** without *only*: *"The highest: those below know that they are there."*
 - **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops.
-- **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them.
+- **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them. **Done 2026-11-19 (Shalom's call).**
 - **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*.
 - **34, 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") ×2 and 功成 (*gōng chéng* — "the work done") — resolve:**
 
@@ -588,8 +588,8 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 
   The two 為主 (*wéi zhǔ*) read alike, *owner* and *ownership* stop falling on two characters, and 功成 (*gōng chéng*) reads as at 2 and 77. **Done 2026-11-15, with the 名 (*míng* — name) entry:** 不名有 (*bù míng yǒu*) reads *"it does not name it its own"* rather than *claim to own it*, since *claim* is 伐's (*fá*), and 可名 reads *can be named*, as at 1 and 14 (`chapters/034.md` → Notes).
 - **46, 不知足 (*bù zhī zú*) — resolve:** *"There is no greater disaster than not knowing you have enough,"* the lock's own words, so the closing 知足之足 (*zhī zú zhī zú*) answers it. **Done, 2026-11-19 (Shalom's call),** with 欲得 → *wanting to get*.
-- **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."*
-- **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again.
+- **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."* **Done 2026-11-19 (Shalom's call).**
+- **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again. **Done 2026-11-19 (Shalom's call).**
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
 - **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line.
 - **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19.

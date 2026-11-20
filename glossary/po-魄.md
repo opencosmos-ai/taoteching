@@ -18,7 +18,7 @@ refs_status: incomplete
 
 **Locked: 魄 → "aliveness."** *(Never "soul," never "spirit," never "life force." Not "breath," "energy" or "life" either, but those three are rulings no check can hold. See the last section but one.)*
 
-*The line is* 載營魄抱一，能無離乎 *: "Housing your aliveness and embracing the one, can you keep these from parting?" 營 (yíng — a walled dwelling), the character beside it, is covered here as "housing."*
+*The line is* 載營魄抱一，能無離乎 *: "Housing your aliveness and embracing the one, can you be undivided?" 營 (yíng — a walled dwelling), the character beside it, is covered here as "housing."*
 
 ### The graph: a ghost, and the moon's pale light
 
@@ -59,7 +59,7 @@ Five things follow. 魄 is **first**, the life a person has before anything else
 
 > 載營魄抱一，能無離乎
 > 專氣致柔，能如嬰兒乎
-> *"Housing your aliveness and embracing the one, can you keep these from parting?*
+> *"Housing your aliveness and embracing the one, can you be undivided?*
 > *Gathering the breath to softness, can you be an infant?"*
 
 **The couplet names the two halves of a living person that the 禮記 pairs.** 祭義: 氣也者，神之盛也；魄也者，鬼之盛也, *"breath is the fullness of spirit; the 魄 is the fullness of ghost."* Aliveness stands in the first line and breath in the second. The infant the second line asks for is 孔穎達's picture of the 魄 itself.
