@@ -2067,6 +2067,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 36, 57 · 利器 → "beneficial tools"
+
+*(2026-11-19, Shalom's call.)* *(was: "tools of advantage" at 36, "sharp weapons" at 57.)* One compound, one English, in Wang Bi's words at both: 利國之器 (*"tools that benefit the state"*), 利己之器 (*"tools that benefit oneself"*). *Benefit* is 利's English opposite 害. T3-17. `chapters/036.md`, `chapters/057.md`.
+
+### Ch 10, 51 · 生 → "births / birthing"
+
+*(2026-11-19, Shalom's call.)* *(was: "giving birth," "gives birth to.")* After ch 2's *"The sage births them"*, 生 reads *births* in 2, 10, 42 and 51, and the 10/51 series is *birthing, acting, growing*. T3-17, T3-18. `chapters/010.md`, `chapters/051.md`.
+
 ### Ch 42 · 孤、寡、不穀 → "orphaned, alone, or unworthy"
 
 *(2026-11-19, Shalom's call.)* *(was: "orphaned, meager, or unworthy.")* The three titles match ch 39 word for word; 寡 is the ruler's 寡人, *the lone one*. T3-17. `chapters/042.md`.
@@ -2782,6 +2790,8 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 **Neither commentator reads this as a manipulator's handbook, and the English should not either.** 王弼: 將欲除强梁，去暴亂，當以此四者，因物之性，令其自戮 — *"if you would remove the strong and overbearing and rid yourself of the violent and disorderly, use these four: go along with the nature of the thing, and let it destroy itself."* 河上公 reads the same motion as the anatomy of ruin — overextension is how a thing ends. **The lines describe how overreach collapses; they do not recommend deceit.** Left standing rather than resolved, because the Chinese does not resolve it either.
 
 ### 利器 → *tools of advantage*, and all three commentators force it
+
+*(Superseded 2026-11-19: 利器 reads* beneficial tools *at 36 and 57, Shalom's call;* tools of advantage *set aside as awkward English. The commentators' reading below is why* beneficial *fits.)*
 
 *(was: "The sharp instruments of the state must not be shown to others.")* 韓非: 賞罰者，邦之利器也，在君則制臣，在臣則勝君 — *"reward and punishment are the state's 利器; in the ruler's hands they control the ministers, in the ministers' hands they overcome the ruler."* 王弼: 利器，利國之器也 — *"the tool that benefits the state."* 河上公: 利器，權道也 — *"the way of leverage."* **Unanimous, and none of them a weapon.** *Advantage* is 利's covered rendering in `glossary/wu-you-無有.md`, applied at ch 11 the same day; *edge* was the better line but is already 銳 (*ruì*)'s word at ch 9. *Instruments* also missed 器's lock, which licenses *vessel / tool / implement*. **利器 stands again at ch 57 and is not settled here — T2-33.**
 

@@ -198,9 +198,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 10,12,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
 10,12,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
 10,12,能,néng,可,be able,NOT FOUND,1.0,authored,"Clarity reaching the four quarters, can you be non-doing?"
-10,13,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Giving birth to things and rearing them,"
-10,14,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"giving birth without possessing,"
-10,14,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"giving birth without possessing,"
+10,13,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Birthing them and rearing them,"
+10,14,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"birthing without possessing,"
+10,14,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"birthing without possessing,"
 10,15,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acting without relying on it,"
 10,15,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"acting without relying on it,"
 10,17,德,dé,德,integrity,yes,1.0,authored,this is called profound integrity.
@@ -749,9 +749,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot leave deep water.
-36,8,利,lì,無 & 有,advantage,yes,1.0,exact-count,A state's tools of advantage cannot be shown.
-36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's tools of advantage cannot be shown.
-36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's tools of advantage cannot be shown.
+36,8,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
+36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
+36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
 37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
@@ -1074,9 +1074,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,10,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,11,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,the weapon blades have nothing to cut.
 50,12,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,Why? Because they give death no foothold.
-51,1,德,dé,德,integrity,yes,1.0,authored,"The Tao gives birth to the countless things, integrity rears them,"
-51,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The Tao gives birth to the countless things, integrity rears them,"
-51,1,道,Dào,道,the Tao / way,yes,1.0,authored,"The Tao gives birth to the countless things, integrity rears them,"
+51,1,德,dé,德,integrity,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
+51,1,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"The Tao births the countless things, integrity rears them,"
+51,1,道,Dào,道,the Tao / way,yes,1.0,authored,"The Tao births the countless things, integrity rears them,"
 51,2,物,Wù,萬物,things / something,NOT FOUND,1.0,authored,"matter forms them, circumstance completes them."
 51,3,尊,zūn,貴 & 賤,honor,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
 51,3,德,dé,德,integrity,yes,1.0,authored,"Therefore the countless things, without exception, honor the Tao and prize integrity."
@@ -1093,10 +1093,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 51,6,德,dé,德,integrity,yes,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
 51,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
 51,6,道,dào,道,the Tao / way,yes,1.0,authored,"Thus, the Tao births the countless things and integrity rears them,"
-51,8,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Giving birth without possessing, acting without relying on it, growing them without ruling them —"
-51,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Giving birth without possessing, acting without relying on it, growing them without ruling them —"
-51,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Giving birth without possessing, acting without relying on it, growing them without ruling them —"
-51,8,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Giving birth without possessing, acting without relying on it, growing them without ruling them —"
+51,8,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"Birthing without possessing, acting without relying on it, growing them without ruling them —"
+51,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Birthing without possessing, acting without relying on it, growing them without ruling them —"
+51,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Birthing without possessing, acting without relying on it, growing them without ruling them —"
+51,8,生,Shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Birthing without possessing, acting without relying on it, growing them without ruling them —"
 51,9,德,dé,德,integrity,yes,1.0,authored,this is called profound integrity.
 51,9,玄,xuán,玄 & 妙,dark or profound,NOT FOUND,1.0,authored,this is called profound integrity.
 52,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The world has a beginning, which serves as the mother of the world."
@@ -1203,8 +1203,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,How do I know it is so? By this:
 57,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."
-57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the more clouded the state becomes."
-57,6,器,qì,器,vessel / tool / implement,NOT FOUND,1.0,exact-count,"The more sharp weapons the people have, the more clouded the state becomes."
+57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
+57,6,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more cunning people become, the more strange contrivances appear."
 57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
 57,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,Therefore the sage says:

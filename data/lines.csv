@@ -90,8 +90,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 10,10,3,能為雌乎？,néng wéi cí hū?,can you play the part of/be \[wei\] the hen \[ci\]?,"When the gate of the sky opens and closes, can you be the hen?",authored
 10,11,3,明白四達，,"Míng bái sì dá,","Understanding/clarity \[ming bai\] reaching all four directions \[si da\],","Clarity reaching the four quarters, can you be non-doing?",authored
 10,12,3,能無為乎？,néng wú wéi hū?,can you act without doing/forcing \[wu wei\]?,"Clarity reaching the four quarters, can you be non-doing?",authored
-10,13,4,生之畜之，,"Shēng zhī xù zhī,","Generating/birthing \[sheng\] them, nourishing/rearing \[xu\] them,","Giving birth to things and rearing them,",authored
-10,14,4,生而不有，,"shēng ér bù yǒu,","generating but \[er\] not possessing \[you\],","giving birth without possessing,",authored
+10,13,4,生之畜之，,"Shēng zhī xù zhī,","Generating/birthing \[sheng\] them, nourishing/rearing \[xu\] them,","Birthing them and rearing them,",authored
+10,14,4,生而不有，,"shēng ér bù yǒu,","generating but \[er\] not possessing \[you\],","birthing without possessing,",authored
 10,15,4,為而不恃，,"wéi ér bù shì,","acting/doing \[wei\] but not relying \[shi\],","acting without relying on it,",authored
 10,16,4,長而不宰，,"zhǎng ér bù zǎi,","growing/leading \[zhang\] but not dominating/ruling \[zai\],",growing them without ruling them —,authored
 10,17,4,是謂玄德。,shì wèi xuán dé.,this is called \[shi wei\] dark/mysterious \[xuan\] virtue/power \[de\].,this is called profound integrity.,authored
@@ -434,7 +434,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 36,5,2,是謂微明。,Shì wèi wēi míng.,This is called subtle illumination.,This is called the hidden clarity.,exact-count
 36,6,2,柔弱勝剛強。,Róu ruò shèng gāng qiáng.,Soft and yielding overcomes hard and strong.,The soft and yielding overcome the unbending and strong.,exact-count
 36,7,3,魚不可脫於淵，,"Yú bù kě tuō yú yuān,",Fish cannot be removed from the deep abyss.,A fish cannot leave deep water.,exact-count
-36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's tools of advantage cannot be shown.,exact-count
+36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's beneficial tools cannot be shown.,exact-count
 37,1,1,道常無為而無不為。,Dào cháng wú wéi ér wú bù wéi.,"Tao constantly takes no action, yet nothing is left undone.","The Tao is ever non-doing, yet nothing is left undone.",exact-count
 37,2,1,侯王若能守之，萬物將自化。,"Hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì huà.","Marquises and kings, if able to maintain this, the ten thousand things will autonomously transform","If rulers are able to hold to this, the countless things will transform of themselves.",exact-count
 37,3,2,化而欲作，吾將鎮之以無名之樸。,"Huà ér yù zuò, wú jiāng zhèn zhī yǐ wú míng zhī pǔ.","Transforming and desiring to act, I will stabilize them with the nameless uncarved wood","Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.",exact-count
@@ -561,14 +561,14 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 50,10,2,虎無所用其爪，,"Hǔ wú suǒ yòng qí zhǎo,","The tiger has nowhere to use its claws,","the tiger’s claws have nowhere to tear into,",exact-count
 50,11,2,兵無所容其刃。,Bīng wú suǒ róng qí rèn.,The weapon has nowhere to house its blade.,the weapon blades have nothing to cut.,exact-count
 50,12,2,夫何故？以其無死地。,Fú hé gù? Yǐ qí wú sǐ dì.,For what reason? Because in them there is no realm of death (no fatal vulnerability).,Why? Because they give death no foothold.,exact-count
-51,1,1,道生之，德畜之，,"Dào shēng zhī, dé xù zhī,","The Tao generates them, the Te/Virtue nourishes them,","The Tao gives birth to the countless things, integrity rears them,",authored
+51,1,1,道生之，德畜之，,"Dào shēng zhī, dé xù zhī,","The Tao generates them, the Te/Virtue nourishes them,","The Tao births the countless things, integrity rears them,",authored
 51,2,1,物形之，勢成之。,"Wù xíng zhī, shì chéng zhī.","Matter/Physical entities give them form, momentum/circumstance completes/compiles them.","matter forms them, circumstance completes them.",authored
 51,3,1,是以萬物莫不尊道而貴德。,Shì yǐ wàn wù mò bù zūn dào ér guì dé.,Therefore the ten thousand things cannot but revere the Tao and value the Te.,"Therefore the countless things, without exception, honor the Tao and prize integrity.",authored
 51,4,1,道之尊，德之貴，,"Dào zhī zūn, dé zhī guì,","The reverence for the Tao, the valuing of the Te,","This honoring of the Tao, this prizing of integrity — no one commands it.",authored
 51,5,1,夫莫之命而常自然。,Fú mò zhī mìng ér cháng zì rán.,"Is not commanded/ordered by anyone, but is eternally spontaneous/autonomous (zi ran).","This honoring of the Tao, this prizing of integrity — no one commands it. / It is always so, of itself.",authored
 51,6,2,故道生之，德畜之；,"Gù dào shēng zhī, dé xù zhī;","Therefore the Tao generates them, the Te nourishes them;","Thus, the Tao births the countless things and integrity rears them,",authored
 51,7,2,長之育之；亭之毒之；養之覆之。,Zhǎng zhī yù zhī; tíng zhī dú zhī; yǎng zhī fù zhī.,"Grows them, rears them; shapes them, matures them; sustains them, covers/protects them.","grows and raises them, settles and matures them, nourishes and protects them.",authored
-51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Giving birth without possessing, / acting without relying on it, / growing them without ruling them —",authored
+51,8,2,生而不有，為而不恃，長而不宰。,"Shēng ér bù yǒu, wéi ér bù shì, zhǎng ér bù zǎi.","Generating but not possessing/owning, executing/acting but not depending/relying, growing/leading but not dominating/ruling.","Birthing without possessing, / acting without relying on it, / growing them without ruling them —",authored
 51,9,2,是謂玄德。,Shì wèi xuán dé.,This is called Profound/Dark Virtue (Te).,this is called profound integrity.,authored
 52,1,1,天下有始，以為天下母。,"Tiān xià yǒu shǐ, yǐ wéi tiān xià mǔ.","The world has a beginning, which serves as the mother of the world.","The world has a beginning, which serves as the mother of the world.",authored
 52,2,1,既得其母，以知其子；,"Jì dé qí mǔ, yǐ zhī qí zǐ;","Having obtained/known the mother, one thereby knows the children/offspring;","Find our mother, and you know her children.",authored
@@ -614,7 +614,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 57,3,1,以無事取天下。,yǐ wú shì qǔ tiān xià.,use non-interference (wu shi) to take/master the world.,and win the world by not meddling.,exact-count
 57,4,1,吾何以知其然哉？以此：,Wú hé yǐ zhī qí rán zāi? Yǐ cǐ:,How do I know it is so? By this:,How do I know it is so? By this:,exact-count
 57,5,2,天下多忌諱，而民彌貧；,"Tiān xià duō jì huì, ér mín mí pín;","The more taboos/restrictions in the world, the poorer the people become;","The more taboos in the world, the poorer the people become.",exact-count
-57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more sharp weapons the people have, the more clouded the state becomes.",exact-count
+57,6,2,人多利器，國家滋昏；,"Rén duō lì qì, guó jiā zī hūn;","The more sharp weapons/tools the people have, the darker/more chaotic the state becomes;","The more beneficial tools the people have, the more clouded the state becomes.",exact-count
 57,7,2,人多伎巧，奇物滋起；,"Rén duō jì qiǎo, qí wù zī qǐ;","The more skill/cunning the people have, the more strange things arise;","The more cunning people become, the more strange contrivances appear.",exact-count
 57,8,2,法令滋彰，盜賊多有。,"Fǎ lìng zī zhāng, dào zéi duō yǒu.","The more laws and decrees are made prominent, the more thieves and robbers there are.","The more laws are proclaimed, the more thieves there are.",exact-count
 57,9,3,故聖人云：,Gù shèng rén yún:,Therefore the Sage says:,Therefore the sage says:,exact-count

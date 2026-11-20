@@ -65,7 +65,7 @@ The stronger objection is **rhythm**, since this term recurs twenty times: 萬�
 
 ### Working register
 
-- **萬物** → **the countless things** (道生之 → "the Tao gives birth to the countless things")
+- **萬物** → **the countless things** (道生之 → "the Tao births the countless things")
 - **物** alone, of the manifest world → **things** (夫物芸芸 → "the things in their teeming growth"; 物壯則老 → "things at their peak of strength decay")
 - **物** alone, of the Tao or the formless → **something** (有物混成 → "something mixed and complete"; 無物 → "no-thing")
 - **奇物** (57) → **strange contrivances** — not "things" at all, but newfangled gadgetry
