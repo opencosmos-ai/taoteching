@@ -45,7 +45,7 @@ refs:
 
 **Goods, which the sage refuses to price.** 不貴難得之貨 (*bù guì nán dé zhī huò*) at chapters 3 and 64, *"does not prize rare goods"* (`glossary/huo-貨.md`).
 
-**The body, which the sage prices highest.** Chapter 13's 貴大患若身 (*guì dà huàn ruò shēn* — "prize great trouble as your own body") and 貴以身為天下 (*"one who prizes their body as a way to serve the world"*); chapter 75's 貴生 (*guì shēng* — "to prize life").
+**The body, which the sage prices highest.** Chapter 13's 貴大患若身 (*guì dà huàn ruò shēn* — "great trouble is prized like one's own body") and 貴以身為天下 (*"one who prizes their body as a way to serve the world"*); chapter 75's 貴生 (*guì shēng* — "to prize life").
 
 **The Tao, and the mother.** 貴食母 (*guì shí mǔ* — "I prize feeding from the mother," 20); 尊道而貴德 (*"honor the Tao and prize integrity,"* 51); 貴此道 (*"prize this Tao,"* 62).
 

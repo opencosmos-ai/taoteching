@@ -192,6 +192,9 @@
 - **T3-17** — 生而不有 (*shēng ér bù yǒu* — "gives life and does not possess"): 10 and 51 match, 2 does not — done 2026-11-19, with T3-13 · ▢之又▢ (*▢ zhī yòu ▢* — "▢, and ▢ again"): *Dark, and dark again* at 1, *Decreasing and decreasing* at 48 — done 2026-11-19, Shalom's call: *Decrease, and decrease again*
 - **T3-17** — 利器 (*lì qì* — sharp tools): *tools of advantage* at 36, *sharp weapons* at 57 — done 2026-11-19, Shalom's call: *beneficial tools* at both
 - **T3-18** — 51's 道生之，德畜之 (*dào shēng zhī, dé xù zhī* — "the Tao births them, integrity rears them") said twice, *gives birth to* then *births* — done 2026-11-19, Shalom's call: *births* both times, with 10 and 51's formula *birthing without possessing*
+- **R6** — **rewrites** at ch 13 and 22 — done 2026-11-19, Shalom's calls: ch 13 *"Great trouble is prized like one's own body"* (and its note now records Heshang Gong's warning reading of the closing couplet); ch 22 *"Be warped, and grow straight"*
+- **T3-18** — 9's first couplet, one half inverted · 13's second 天下 (*tiān xià* — the world) → *it* · 17's 其次 (*qí cì* — the next) ×3 → *Good*, *Poor*, *The worst*, grading where the Chinese counts — done 2026-11-19, Shalom's calls (`chapters/009.md`, `013.md`, `017.md` → Notes)
+- **T2-62** — **其次** (*the next*) turned into *Good / Poor / The worst leaders* at 17 · **ch 17's *only* renders no character**: 太上，下知有之 (*tài shàng, xià zhī yǒu zhī* — "the highest: those below know they exist") reads *"know only that they exist"*, and nothing in the line says *only* — done 2026-11-19 with T3-18, Shalom's call: the ladder by position, without *only*
 - **T1-26, T1-27, T2-64, T5-22** were not rows before the split. Each was a *still owed* clause inside a closed paragraph above — T2-14 (ch 12's 妨), T1-17 (ch 65's *return*), T2-11 (殆 and 畏) and Tier 5 item 1 (`glossary-self-check`) — owed and tracked nowhere.
 
 ---

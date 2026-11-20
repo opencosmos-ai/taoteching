@@ -111,7 +111,7 @@ refs_status: incomplete
 
 **"sufficiency."** A word for economists and for sermons on all-sufficient grace. It fails both tests: the hymn test, because it is at home in a sermon, and the pointing test, because no one can point at it. The Chinese is two syllables a child could say.
 
-**"fulfilled," "fulfillment."** A vessel filled to the brim, which is the fullness chapter 9 tells you to stop short of: *"Rather than keep filling what you hold, stop."* It also carries the register of self-help, where a life is *fulfilled* by getting what it wanted.
+**"fulfilled," "fulfillment."** A vessel filled to the brim, which is the fullness chapter 9 tells you to stop short of: *"Fill what you hold to the brim, and you would do better to stop."* It also carries the register of self-help, where a life is *fulfilled* by getting what it wanted.
 
 **"satisfaction," "satisfied."** An appetite met. A met appetite comes back, and the book's enough does not run out.
 

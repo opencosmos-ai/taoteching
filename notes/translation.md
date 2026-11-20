@@ -2075,6 +2075,22 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 22 · 枉則直 → "Be warped, and grow straight"
+
+*(2026-11-19, Shalom's call.)* *(was: "Be wronged, and be made straight.")* Both commentators bend the self and let straightness come of itself; 枉 is warped wood (說文 衺曲也). *Bent* is 曲's. R6. `chapters/022.md`.
+
+### Ch 13 · "Great trouble is prized like one's own body"; "trusted with the world" twice
+
+*(2026-11-19, Shalom's calls.)* *(was: "Prize great trouble as your own body," "…trusted with it.")* A quoted saying, not a command (Wang Bi; Heshang Gong). The couplet ends on 天下 twice. Heshang Gong's warning reading of the first closing line now recorded in `chapters/013.md`. R6, T3-18.
+
+### Ch 17 · the ladder by position
+
+*(2026-11-19, Shalom's call.)* *(was: "Good / Poor / The worst leaders," and "know only that they exist.")* 其次 counts, it does not grade; *leaders* and *only* had no character. T3-18, T2-62. `chapters/017.md`.
+
+### Ch 9 · "Fill what you hold to the brim, and you would do better to stop"
+
+*(2026-11-19, Shalom's call.)* *(was: "Rather than keep filling what you hold, stop.")* The matched couplet runs *act, then consequence* in both halves. T3-18.
+
 ### Ch 48, 57 · 取天下 → "win over the world"
 
 *(2026-11-19, Shalom's call.)* *(was: "The world always comes to you…" at 48, "win the world" at 57.)* 取天下 meant coming to hold the realm (Heshang Gong: 取，治也). *Take* stays with ch 29's grasper; for the sage it alarmed (Shalom), and *comes to you* was ch 35's 天下往. *Win over* is allegiance drawn, not a contest. Cost: one phrase, two Englishes, split by grasped or drawn. T1-22, T3-17.

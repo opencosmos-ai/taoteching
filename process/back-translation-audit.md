@@ -97,7 +97,7 @@ A description became a command. The chapter quotes a saying, *favor and disgrace
 - Wang Bi: 人迷之於榮寵，返之於身，故曰大患若身也 (*rén mí zhī yú róng chǒng, fǎn zhī yú shēn, gù yuē dà huàn ruò shēn yě* — "people are deluded by glory and favor, and it rebounds onto the body; so it says 'great trouble as the body'")
 - Heshang Gong: 貴，畏也；若，至也。畏大患至身，故皆驚 (*guì, wèi yě; ruò, zhì yě. wèi dà huàn zhì shēn, gù jiē jīng* — "*guì* means to fear, *ruò* means to arrive: fearing great trouble reaching the body, so all are alarmed")
 
-**Logged?** No; the chapter's notes settle 貴 (*guì* — to prize) and say nothing of mood. **Proposed:** *"Great trouble is prized like one's own body."* The *"What does it mean…?"* that follows then asks about a saying, as the Chinese does.
+**Logged?** No; the chapter's notes settle 貴 (*guì* — to prize) and say nothing of mood. **Proposed:** *"Great trouble is prized like one's own body."* The *"What does it mean…?"* that follows then asks about a saying, as the Chinese does. **Done, 2026-11-19 (Shalom's call).**
 
 **6 · Ch 13 · the closing couplet settles a divided reading, and the note cites the evidence one-sidedly.**
 
@@ -110,7 +110,7 @@ Heshang Gong reads the two lines as opposites:
 
 Wang Bi reads both as praise, and swaps the two verbs. The English renders both lines as one positive claim with one verb, *trusted with*. The note logs that merger on Wang Bi's authority, cites Heshang Gong's second gloss in support, and does not mention his first.
 
-**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available.
+**Logged?** Partly; the chosen reading is a call, but the record leaves out the evidence against it. **Proposed:** at minimum, correct the note to say that Heshang Gong reads the first line as a warning. Then decide whether the verse keeps 寄 (*jì* — to lodge) and 託 (*tuō* — to entrust) apart, which leaves his contrast available. **Note corrected 2026-11-19** (`chapters/013.md`); whether the verse keeps 寄 and 託 apart is still open.
 
 **7 · Ch 22 · 枉則直 (*wǎng zé zhí* — "bent, then straight") → *"Be wronged, and be made straight."***
 
@@ -120,7 +120,7 @@ The doer changed. *Wronged* gives 枉 (*wǎng* — bent, crooked) the legal sens
 
 The chapter's own notes map this line to 不自是，故彰 (*bù zì shì, gù zhāng* — "they do not insist they are right, and so their rightness shows"), and the English then breaks that mapping.
 
-**Logged?** No. **Proposed:** *"Be bent, and grow straight."* This restores the physical image the series runs on (bend, hollow, worn) and the 不自是 (*bù zì shì* — "not insisting they are right") echo.
+**Logged?** No. **Proposed:** *"Be bent, and grow straight."* This restores the physical image the series runs on (bend, hollow, worn) and the 不自是 (*bù zì shì* — "not insisting they are right") echo. **Done, 2026-11-19 (Shalom's call),** as *"Be warped, and grow straight"*: *bent* is 曲's English one clause earlier.
 
 **8 · Ch 57 · the opening three become three commands joined by *and*, so the English endorses all three.**
 

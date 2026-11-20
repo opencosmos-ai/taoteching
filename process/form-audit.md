@@ -563,10 +563,10 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 #### T3-18 · One member out of step
 
 - **2, 斯不善已 (*sī bù shàn yǐ* — "this is already not-good") — resolve:** *"When the world knows good as good, the not-good arises."* The lock allows *good* where the text names the category, and it does; the negation of the line's own word is the point.
-- **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*.
+- **9 — resolve:** *"Fill what you hold to the brim, and you would do better to stop. / Hammer a point ever sharper, and it will not keep for long."* Both halves now run *do X, and Y*. **Done 2026-11-19 (Shalom's call).**
 - **10, 能無離乎 (*néng wú lí hū* — "can you be without parting?") — resolve:** *"Housing your aliveness and embracing the one, can you be undivided?"* All four 能無 (*néng wú* — "can you be without") then read *can you be…*.
 - **12, 令人行妨 (*lìng rén xíng fáng*) — leave.** Recorded: *the fifth* makes *is carried by the verb* (`chapters/012.md`, Shalom's call 2026-10-20).
-- **13, the second 天下 (*tiān xià* — the world) — resolve:** *"…can be trusted with the world."* in both lines. 寄 / 託 (*jì / tuō*) as *trusted with* stays, as recorded.
+- **13, the second 天下 (*tiān xià* — the world) — resolve:** *"…can be trusted with the world."* in both lines. 寄 / 託 (*jì / tuō*) as *trusted with* stays, as recorded. **Done 2026-11-19 (Shalom's call).**
 - **17, the ladder — resolve:**
 
 > Of the highest, those below know only that they are there.  
@@ -574,7 +574,7 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 > Next, those who are feared.  
 > Next, those who are despised.
 
-  The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes.
+  The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes. **Done 2026-11-19 (Shalom's call),** without *only*: *"The highest: those below know that they are there."*
 - **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops.
 - **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them.
 - **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*.

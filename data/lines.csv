@@ -68,8 +68,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 8,11,2,動善時。,dòng shàn shí.,"in moving/action \[dong\], be good at timing \[shi\].","In moving, masterful at timing.",exact-count
 8,12,3,夫唯不爭，,"Fú wéi bù zhēng,","Now only/precisely \[fu wei\] because it does not contend \[zheng\],",Only because it does not contend,exact-count
 8,13,3,故無尤。,gù wú yóu.,therefore \[gu\] there is no \[wu\] blame/fault \[you\].,is there no blame.,exact-count
-9,1,1,持而盈之，,"Chí ér yíng zhī,","Holding/grasping \[chi\] and \[er\] filling \[ying\] it \[zhi\],","Rather than keep filling what you hold, stop.",authored
-9,2,1,不如其已；,bù rú qí yǐ;,is not as good as \[bu ru\] stopping \[yi\];,"Rather than keep filling what you hold, stop.",authored
+9,1,1,持而盈之，,"Chí ér yíng zhī,","Holding/grasping \[chi\] and \[er\] filling \[ying\] it \[zhi\],","Fill what you hold to the brim, and you would do better to stop.",authored
+9,2,1,不如其已；,bù rú qí yǐ;,is not as good as \[bu ru\] stopping \[yi\];,"Fill what you hold to the brim, and you would do better to stop.",authored
 9,3,1,揣而銳之，,"chuǎi ér ruì zhī,","hammering/feeling \[chuai\] and sharpening \[rui\] it,","Hammer a point ever sharper, and it will not keep for long.",authored
 9,4,1,不可長保。,bù kě cháng bǎo.,cannot \[bu ke\] be long \[chang\] preserved/guarded \[bao\].,"Hammer a point ever sharper, and it will not keep for long.",authored
 9,5,2,金玉滿堂，,"Jīn yù mǎn táng,","Gold \[jin\] and jade \[yu\] filling \[man\] the hall \[tang\],","Gold and jade fill the hall, and no one can guard them.",authored
@@ -116,21 +116,21 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 12,8,3,是以聖人為腹不為目，,"Shì yǐ shèng rén wèi fù bù wèi mù,","Therefore \[shi yi\] the Sage \[sheng ren\] acts for/provides for \[wei\] the belly/stomach \[fu\] not \[bu\] for \[wei\] the eyes \[mu\],","Therefore the sage acts for the belly, not for the eye.",authored
 12,9,3,故去彼取此。,Gù qù bǐ qǔ cǐ.,Therefore \[gu\] discards/rejects \[qu\] that \[bi\] and takes/chooses \[qu\] this \[ci\].,They let go of what is out there and take what is here.,authored
 13,1,1,寵辱若驚，,"Chǒng rǔ ruò jīng,","Favor/glory \[chong\] and disgrace/humiliation \[ru\] seem like/cause \[ruo\] alarm/startlement \[jing\],",Favor and disgrace are both a shock.,authored
-13,2,1,貴大患若身。,Guì dà huàn ruò shēn.,Valuing/honoring \[gui\] great \[da\] trouble/disaster \[huan\] is like \[ruo\] the body/self \[shen\].,Prize great trouble as your own body.,authored
+13,2,1,貴大患若身。,Guì dà huàn ruò shēn.,Valuing/honoring \[gui\] great \[da\] trouble/disaster \[huan\] is like \[ruo\] the body/self \[shen\].,Great trouble is prized like one's own body.,authored
 13,3,2,何謂寵辱若驚？,Hé wèi chǒng rǔ ruò jīng?,What \[he\] is called/meant by \[wei\] favor and disgrace \[chong ru\] seem like \[ruo\] alarm \[jing\]?,What does it mean that favor and disgrace are both a shock?,authored
 13,4,2,寵為下，,"Chǒng wéi xià,","Favor \[chong\] functions as/is \[wei\] lower/inferior \[xia\],",To be favored is to be below.,authored
 13,5,2,得之若驚，,"Dé zhī ruò jīng,","Obtaining/getting \[de\] it \[zhi\] seems like \[ruo\] alarm \[jing\],",Getting it is a shock.,authored
 13,6,2,失之若驚，,"Shī zhī ruò jīng,","Losing \[shi\] it \[zhi\] seems like \[ruo\] alarm \[jing\],",Losing it is a shock.,authored
 13,7,2,是謂寵辱若驚。,Shì wèi chǒng rǔ ruò jīng.,This \[shi\] is called \[wei\] favor and disgrace seem like alarm \[chong ru ruo jing\].,This is what is meant: favor and disgrace are both a shock.,authored
-13,8,3,何謂貴大患若身？,Hé wèi guì dà huàn ruò shēn?,What \[he\] is called \[wei\] valuing great trouble \[gui da huan\] like \[ruo\] the body \[shen\]?,What does it mean to prize great trouble as your own body?,authored
+13,8,3,何謂貴大患若身？,Hé wèi guì dà huàn ruò shēn?,What \[he\] is called \[wei\] valuing great trouble \[gui da huan\] like \[ruo\] the body \[shen\]?,What does it mean that great trouble is prized like one's own body?,authored
 13,9,3,吾所以有大患者，,"Wú suǒ yǐ yǒu dà huàn zhě,","The reason I \[wu suo yi\] have \[you\] great trouble \[da huan\] is \[zhe\],",The reason I have great trouble is that I have a body.,authored
 13,10,3,為吾有身，,"Wèi wú yǒu shēn,","Because \[wei\] I \[wu\] have \[you\] a body/self \[shen\],",The reason I have great trouble is that I have a body.,authored
 13,11,3,及吾無身，,"Jí wú wú shēn,","When/if \[ji\] I \[wu\] have no \[wu\] body/self \[shen\],","If I had no body, what trouble would I have?",authored
 13,12,3,吾有何患？,Wú yǒu hé huàn?,What \[he\] trouble \[huan\] do I \[wu\] have \[you\]?,"If I had no body, what trouble would I have?",authored
 13,13,4,故貴以身為天下，,"Gù guì yǐ shēn wéi tiān xià,","Therefore \[gu\] one who values \[gui\] using \[yi\] their body \[shen\] to serve/act for \[wei\] the world \[tian xia\],",So one who prizes their body as a way to serve the world can be trusted with the world.,authored
 13,14,4,若可寄天下；,Ruò kě jì tiān xià;,Seems \[ruo\] they can \[ke\] be entrusted \[ji\] with the world \[tian xia\];,So one who prizes their body as a way to serve the world can be trusted with the world.,authored
-13,15,4,愛以身為天下，,"Ài yǐ shēn wéi tiān xià,","One who loves \[ai\] using \[yi\] their body \[shen\] to serve/act for \[wei\] the world \[tian xia\],",One who loves their body as a way to serve the world can be trusted with it.,authored
-13,16,4,若可託天下。,Ruò kě tuō tiān xià.,Seems \[ruo\] they can \[ke\] be relied upon/entrusted \[tuo\] with the world \[tian xia\].,One who loves their body as a way to serve the world can be trusted with it.,authored
+13,15,4,愛以身為天下，,"Ài yǐ shēn wéi tiān xià,","One who loves \[ai\] using \[yi\] their body \[shen\] to serve/act for \[wei\] the world \[tian xia\],",One who loves their body as a way to serve the world can be trusted with the world.,authored
+13,16,4,若可託天下。,Ruò kě tuō tiān xià.,Seems \[ruo\] they can \[ke\] be relied upon/entrusted \[tuo\] with the world \[tian xia\].,One who loves their body as a way to serve the world can be trusted with the world.,authored
 14,1,1,視之不見，,"Shì zhī bù jiàn,","Looking at \[shi\] it \[zhi\] but not \[bu\] seeing \[jian\],","Look, but you cannot see it — its name is the invisible.",authored
 14,2,1,名曰夷；,míng yuē yí;,its name \[ming\] is called \[yue\] invisible/colorless \[yi\];,"Look, but you cannot see it — its name is the invisible.",authored
 14,3,1,聽之不聞，,"Tīng zhī bù wén,","Listening to \[ting\] it \[zhi\] but not \[bu\] hearing \[wen\],","Listen, but you cannot hear it — its name is the inaudible.",authored
@@ -188,10 +188,10 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 16,17,4,天乃道，,"Tiān nǎi dào,","Heaven \[tian\] then leads to \[nai\] the Tao \[dao\],",The sky leads to the Tao.,authored
 16,18,4,道乃久，,"Dào nǎi jiǔ,","The Tao \[dao\] then leads to \[nai\] endurance/longevity \[jiu\],",The Tao leads to what endures.,authored
 16,19,4,没身不殆。,Mò shēn bù dài.,To the end of one's life/body \[mo shen\] there is no \[bu\] danger/exhaustion \[dai\].,"And to the end of your days, no danger will find you.",authored
-17,1,1,太上，下知有之；,"Tài shàng, xià zhī yǒu zhī;","Highest/supreme \[tai shang\], those below \[xia\] know \[zhi\] of its existence \[you zhi\];","About the greatest leaders, those under them know only that they exist.",exact-count
-17,2,1,其次，親而譽之；,"Qí cì, qīn ér yù zhī;","The next \[qi ci\], love/are close to \[qin\] and \[er\] praise \[yu\] them \[zhi\];",Good leaders are widely loved and praised.,exact-count
-17,3,1,其次，畏之；,"Qí cì, wèi zhī;","The next \[qi ci\], fear \[wei\] them \[zhi\];",Poor leaders are feared.,exact-count
-17,4,1,其次，侮之。,"Qí cì, wǔ zhī.","The next \[qi ci\], despise/insult \[wu\] them \[zhi\].",The worst leaders are despised by all.,exact-count
+17,1,1,太上，下知有之；,"Tài shàng, xià zhī yǒu zhī;","Highest/supreme \[tai shang\], those below \[xia\] know \[zhi\] of its existence \[you zhi\];",The highest: those below know that they are there.,exact-count
+17,2,1,其次，親而譽之；,"Qí cì, qīn ér yù zhī;","The next \[qi ci\], love/are close to \[qin\] and \[er\] praise \[yu\] them \[zhi\];","Next, those who are loved and praised.",exact-count
+17,3,1,其次，畏之；,"Qí cì, wèi zhī;","The next \[qi ci\], fear \[wei\] them \[zhi\];","Next, those who are feared.",exact-count
+17,4,1,其次，侮之。,"Qí cì, wǔ zhī.","The next \[qi ci\], despise/insult \[wu\] them \[zhi\].","Next, those who are despised.",exact-count
 17,5,2,信不足焉，有不信焉。,"Xìn bù zú yān, yǒu bù xìn yān.","Trust/reliability \[xin\] is not \[bu\] sufficient \[zu\] here \[yan\], there is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].","Where trust runs short, there is no trust.",exact-count
 17,6,3,悠兮其貴言。,Yōu xī qí guì yán.,Hesitant/anxiously careful \[you\] oh \[xi\] they \[qi\] prize \[gui\] words \[yan\].,"Hesitant, they prize their words.",exact-count
 17,7,3,功成事遂，,"Gōng chéng shì suì,","Work/merit \[gong\] completed \[cheng\], affairs/tasks \[shi\] accomplished \[sui\],","When their work is done,",exact-count
@@ -244,8 +244,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 21,10,3,以閱眾甫。,Yǐ yuè zhòng fǔ.,In order to \[yi\] inspect/review \[yue\] the origin/father \[fu\] of the multitudes \[zhong\].,"In this name, I observe the father of the many.",authored
 21,11,3,吾何以知眾甫之狀哉？,Wú hé yǐ zhī zhòng fǔ zhī zhuàng zāi?,How do I \[wu he yi\] know \[zhi\] the condition/shape \[zhuang\] of the father of the multitudes \[zhong fu\] alas \[zai\]?,How do I know the father of the many is so? By this.,authored
 21,12,3,以此。,Yǐ cǐ.,By \[yi\] this \[ci\].,How do I know the father of the many is so? By this.,authored
-22,1,1,曲則全，,"Qū zé quán,","Bent/crooked \[qu\] then/thus \[ze\] whole/complete \[quan\],","Bend, and stay whole. Be wronged, and be made straight.",authored
-22,2,1,枉則直，,"Wǎng zé zhí,","Wronged/bent \[wang\] then/thus \[ze\] straight \[zhi\],","Bend, and stay whole. Be wronged, and be made straight.",authored
+22,1,1,曲則全，,"Qū zé quán,","Bent/crooked \[qu\] then/thus \[ze\] whole/complete \[quan\],","Bend, and stay whole. Be warped, and grow straight.",authored
+22,2,1,枉則直，,"Wǎng zé zhí,","Wronged/bent \[wang\] then/thus \[ze\] straight \[zhi\],","Bend, and stay whole. Be warped, and grow straight.",authored
 22,3,1,窪則盈，,"Wā zé yíng,","Hollow/low \[wa\] then/thus \[ze\] filled/full \[ying\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
 22,4,1,敝則新，,"Bì zé xīn,","Worn out/old \[bi\] then/thus \[ze\] new/renewed \[xin\],","Be hollowed out, and be filled. Be worn out, and be renewed.",authored
 22,5,1,少則得，,"Shǎo zé dé,","Few/little \[shao\] then/thus \[ze\] obtain/gain \[de\],",Hold little and receive. Hold much and be confused.,authored
