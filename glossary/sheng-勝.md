@@ -8,6 +8,8 @@ forbidden: ["victory", "victorious", "conquer", "conquest", "defeat", "triumph"]
 chapters: [31, 33, 36, 45, 61, 67, 68, 69, 73, 76, 78]
 status: locked
 pairing: false
+covers:
+  - { char: "克", render: "shoulder" }
 shuowen: "To bear [a load]. From 力 (lì — strength), with 朕 (zhèn) for sound."
 refs_status: complete
 refs:
@@ -23,6 +25,9 @@ refs:
   - { source: heshanggong, locator: "Chapter 67, fight with it and you overcome the enemy" }
   - { source: heshanggong, locator: "Chapter 68, overcoming the enemy by the Tao without contending" }
   - { source: heshanggong, locator: "Chapter 78, water wears down iron and copper, and nothing overcomes it" }
+  - { source: shuowen, locator: "Entry for ke (to shoulder)" }
+  - { source: heshanggong, locator: "Chapter 59, ke means sheng" }
+  - { source: hanfeizi, locator: "Explaining Laozi, on chapter 59: able to steer the countless things, in war one easily overcomes the enemy" }
 ---
 
 ## 勝 (Shèng) — Overcome
@@ -152,6 +157,22 @@ Chapter 73 sets them side by side: 不爭而善勝 (*bù zhēng ér shàn shèng
 
 **At chapter 68, Heshang Gong's text reads 善勝戰者 (*shàn shèng zhàn zhě* — "one masterful at winning battles")** where ours reads 善勝敵者 (*"overcoming enemies"*), and his own gloss goes back to the enemy: 善以道勝敵者 (*"one masterful at overcoming the enemy by the Tao"*). Recorded in `sources/variants.yaml`; the base stands.
 
+### 克 (kè — to shoulder)
+
+**克 stands twice in the book, both in one chain at chapter 59, and it is covered here because its English is decided by what 勝's is not.**
+
+> *a heavy accumulation of integrity is when there is nothing you cannot shoulder,*
+> *when there is nothing you cannot shoulder, no one knows its limit,*
+>
+> 重積德則無不克；
+> 無不克則莫知其極；
+>
+> — chapter 59
+
+**The Shuowen makes it the twin of 勝:** 克，肩也。象屋下刻木之形 — *"克 is to shoulder. It pictures carving wood under a roof."* 勝 is 任也, to bear a load; 克 is 肩也, the shoulder that takes it. The line names the load itself, 重積德 (*zhòng jī dé* — "a heavy accumulation of integrity"), so *shoulder* gives the chain one picture: a heavy store, and a strength equal to anything put on it. The English is active, with the *you* the chapter already speaks to (*"you can have the state"*), because the passive with the Chinese double negative, *nothing cannot be shouldered*, hid the meaning (Shalom's call, 2026-11-20).
+
+**Both commentators who gloss the line hear 勝 in it.** Heshang Gong: 剋，勝也 — *"克 means 勝."* Han Fei: 積德而後神靜……能御萬物則戰易勝敵，戰易勝敵而論必蓋世，論必蓋世，故曰「無不克」 — *"accumulate integrity, and then the spirit is still … able to steer the countless things, in war you easily overcome the enemy; easily overcoming the enemy, your arguments surpass the age; your arguments surpassing the age, so it says, 'there is nothing that cannot be 克.'"* **The verse keeps the capacity they describe and lets go of the conquest**, so that *overcome* stays one character's word. Their reading is the cost, named here and in `chapters/059.md`.
+
 ### What is set aside
 
 **"Victory," "victorious."** A noun the Chinese does not have: 戰勝 (*zhàn shèng*) at chapter 31 is a verb, *won in battle*. *Victory* also carries the triumph the chapter sets out to refuse, the garland and the parade, and it fails the hymn test (*"O grave, where is thy victory?"*).
@@ -188,13 +209,11 @@ Chapter 73 sets them side by side: 不爭而善勝 (*bù zhēng ér shàn shèng
 
 ***Win* is ruled out everywhere but the four battle lines, and cannot be forbidden.** A word that is both a declared flexion and forbidden is an error in the build. `concordance.py --english "win"` shows the flexion's scope, and the check is by hand.
 
-***Overcome* is not 勝's alone in the book.** 克 (*kè* — to shoulder; overcome) reads *overcome* twice at chapter 59, 重積德則無不克 (*zhòng jī dé zé wú bù kè* — "a heavy accumulation of integrity is when nothing cannot be overcome"). Chapter 59 has no 勝, so no rule sees it.
+***Overcome* is held for 勝 by argument at chapter 59.** 克 (*kè* — to shoulder) is covered here as *shoulder*, but a cover carries no frontmatter of its own, and chapter 59 has no 勝, so no rule would see *overcome* return there. `concordance.py --english "overcome"` is the check, run by hand: every hit should stand in a line with 勝.
 
 ***Win over* is 取 (*qǔ* — take)'s at chapters 48 and 57**, 取天下 (*qǔ tiān xià* — "win over the world"). Neither chapter holds 勝, so no rule sees that either.
 
 ### Left open
-
-**克 at chapter 59.** Heshang Gong glosses it with this word, 剋，勝也 (*"克 means 勝"*), which supports *overcome*. The Shuowen gives 克 its own carrying sense, 肩也 (*jiān yě* — "to shoulder"), the twin of 勝's 任也. Beside 重積德 (*"a heavy accumulation of integrity"*), *nothing it cannot bear* would give the line one picture, a heavy store and a strength equal to anything. Whether 克 keeps *overcome* or takes its own word is owed its own decision.
 
 **取's *win over* at 48 and 57.** 取 is *take* everywhere else in the book, including chapter 61, beside 勝. Now that 勝 holds *win*, the phrase is crowded from both sides, and 取 is owed a look of its own.
 

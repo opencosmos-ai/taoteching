@@ -365,7 +365,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 滋,zī,"more and more, the more",,滋,exact,水,phonetic-compound,,水 (shuǐ = water),兹 (? = not yet glossed),3,,0.0178,益也。从水兹聲。一曰滋水，出牛飲山白陘谷，東入呼沱。,
 二,èr,two / second (67),,二,exact,二,compound,,偶 (? = not yet glossed) + 一 (yī = the one (lowercase) · plain numeral where it counts),,3,,0.0176,地之數也。从偶一。凡二之屬皆从二。,
 俗,Sú,worldly (俗人) / ways (80),,俗,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",谷 (Gǔ = valley),3,,0.0176,習也。从人谷聲。,
-克,kè,overcome,,克,exact,克,pictograph,,,,2,,0.0176,肩也。象屋下刻木之形。凡克之屬皆从克。,
+克,kè,shoulder,shoulder,克,exact,克,pictograph,,,,2,locked,0.0176,肩也。象屋下刻木之形。凡克之屬皆从克。,
 兕,sì,rhino,,𤉡,old-form,𤉡,pictograph,,,,2,,0.0176,如野牛而青。象形。與禽、离頭同。凡𤉡之屬皆从𤉡。,
 奉,fèng,offer up,,奉,exact,𠬞,phonetic-compound,,手 (shǒu = hand) + 廾 (gǒng = two hands raised together),𡴀 (? = not yet glossed),2,,0.0176,承也。从手从廾，𡴀聲。,
 徐,xú,slowly,,徐,exact,彳,phonetic-compound,,彳 (chì = a step taken; going),"余 (yú = a shelter; and, borrowed, 'I')",2,,0.0176,安行也。从彳余聲。,

@@ -254,6 +254,7 @@
   entry: glossary/sheng-勝.md
   flexions:
     - { english: "win", chapters: [31, 67, 69, 76], why: "the battle lines, where 勝 names no object and the enemy is understood (Heshang Gong supplies it at 67); Shalom's call, 2026-11-20" }
+  # covers 克 -> shoulder
 
 - term: "明"
   pinyin: "míng"

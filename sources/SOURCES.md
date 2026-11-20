@@ -165,6 +165,7 @@ Stored in this repository.
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Jie Lao, on chapter 58, how fortune rests on disaster and disaster on fortune
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Explaining Laozi, on chapter 60
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Explaining Laozi, on chapter 59: able to steer the countless things, in war one easily overcomes the enemy
 - Apparatus chapters [1](<../chapters/001.md>), [36](<../chapters/036.md>), [38](<../chapters/038.md>), [50](<../chapters/050.md>), [53](<../chapters/053.md>), [54](<../chapters/054.md>), [58](<../chapters/058.md>), [60](<../chapters/060.md>), [64](<../chapters/064.md>), [67](<../chapters/067.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -274,6 +275,7 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 31, when a battle was won, the general took the chief mourner's place
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 33, overcoming others is no more than force
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 45, sheng read as reaching the extreme
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 59, ke means sheng
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 67, fight with it and you overcome the enemy
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 68, overcoming the enemy by the Tao without contending
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 78, water wears down iron and copper, and nothing overcomes it
@@ -339,6 +341,7 @@ Stored in this repository.
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Entry for the rain graph at the top of ling: rain falling, the three mouths picturing the drops
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Ghost radical, entry for gui (what a person returns to)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Jade radical, entry for the old form of ling (a shaman who serves the spirits with jade)
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for ke (to shoulder)
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for li (sinew, picturing a person's sinews)
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Strength radical, entry for sheng (to bear a load)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Entry for xian (to advance forward)

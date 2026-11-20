@@ -110,6 +110,7 @@ python3 tools/build_index.py
 |---|---|---|
 | **久** | endure | [`chang-長.md`](chang-長.md) — 長 |
 | **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
+| **克** | shoulder | [`sheng-勝.md`](sheng-勝.md) — 勝 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |
 | **剛** | unbending | [`rou-柔.md`](rou-柔.md) — 柔 |
