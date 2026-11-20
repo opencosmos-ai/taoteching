@@ -3439,3 +3439,11 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 **Ch 54's 其德乃長 → *"its integrity grows"*** (was *becomes long-lasting*). Han Fei, Wang Bi and Heshang Gong all read growth or reach, and none reads time; the chapter note quotes all three. It joins 10 and 51's *grow*.
 
 **長 and 久 were crossed both ways, and are now apart.** The Shuowen defines 長 as 久遠 (*jiǔ yuǎn* — "long and far"), and chapter 7 splits them by position: 長 *lasting*, 久 *enduring*. 長 had worn *endure* at 22 and 24 (flagged under ch 16 above, *"for a future 長/久 pass"*): → *"and so they last"*, *"Those who boast do not last."* 久 had worn *last long* at 23: → *"cannot make it endure."* The binome 長久 keeps *last long* at 44 and 59, read as one word; 久's past-time phrases at 58 and 67 (*a very long time*, *long since*) are declared flexions.
+
+## 勝 (*shèng*) → *overcome*, with *win* in the four battle lines
+
+*(Shalom's call, 2026-11-20. Argument in `glossary/sheng-勝.md`.)*
+
+**Sixteen uses in fourteen lines had three Englishes, and the split between two of them was already principled.** *Overcome* stood in the ten lines where one quality gets the better of its opposite (33, 36, 45, 61, 68, 73, 78). *Win* stood in the four battle lines (31, 67, 69, 76), where 勝 has no object and the enemy is understood; Heshang Gong supplies it at 67, 以戰則勝敵. *Win* is now a declared flexion there. **Ch 31's 戰勝 → *"A battle won"*** (was *"A victory in battle"*), the third English and a noun the Chinese lacks. *Prevail*, one word for both grammars, was weighed and declined: it has nothing to point at, and would take *"one who overcomes themselves"* from ch 33.
+
+**說文: 勝，任也** (*"to bear a load"*), from 力 (*lì* — sinew). The root is strength equal to its load, not conquest; *victory*, *conquer*, *conquest*, *defeat* and *triumph* are forbidden. Left open: 克 (*kè* — to shoulder) wears *overcome* at ch 59, and 取 (*qǔ* — take) *win over* at 48 and 57.

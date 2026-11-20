@@ -245,6 +245,16 @@
     - { english: "first", chapters: [7, 67], why: "Shalom's call, 2026-11-19, with last: ch 7's move, and ch 67's third treasure and its undoing" }
   # covers 前 -> front
 
+- term: "勝"
+  pinyin: "shèng"
+  render: "overcome"
+  forbidden: ["victory", "victorious", "conquer", "conquest", "defeat", "triumph"]
+  chapters: [31, 33, 36, 45, 61, 67, 68, 69, 73, 76, 78]
+  status: locked
+  entry: glossary/sheng-勝.md
+  flexions:
+    - { english: "win", chapters: [31, 67, 69, 76], why: "the battle lines, where 勝 names no object and the enemy is understood (Heshang Gong supplies it at 67); Shalom's call, 2026-11-20" }
+
 - term: "明"
   pinyin: "míng"
   render: "clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier"

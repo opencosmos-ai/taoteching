@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**89 entries.** Sorted by how much of the book each term touches.
+**90 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -36,6 +36,7 @@ python3 tools/build_index.py
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
 | **長** | *cháng / zhǎng* | long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun) | "leader", "leading", "superiority", "immortal", "everlasting" | 12 | **locked** | [`chang-長.md`](chang-長.md) |
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
+| **勝** | *shèng* | overcome · *win* (ch 31, 67, 69, 76) | "victory", "victorious", "conquer", "conquest", "defeat", "triumph" | 11 | **locked** | [`sheng-勝.md`](sheng-勝.md) |
 | **明** | *míng* | clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier · *clear-seeing* (ch 33) | "enlightenment", "illumination", "brilliance" | 11 | **locked** | [`ming-明.md`](ming-明.md) |
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
 | **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |

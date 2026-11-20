@@ -676,6 +676,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,8,得,dé,得 & 失,get,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,8,用,yòng,無 & 有,use,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Use them only when unavoidable; calm detachment is best.
+31,10,勝,Shèng,勝,overcome,yes,1.0,authored,"Win, but do not glorify it."
 31,13,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
 31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot get their will in the world.
@@ -685,6 +686,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,14,吉,Jí,凶 & 吉,auspicious,yes,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,16,言,yán,言,"words, speech (a noun) / speak (a verb)",yes,1.0,authored,which is to say they are placed by the rites of mourning.
 31,17,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"For the crowd of people killed, weep with sorrow and grief."
+31,18,勝,shèng,勝,overcome,NOT FOUND,1.0,authored,A battle won is placed by the rites of mourning.
 32,1,名,míng,名,name,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"The Tao is ever nameless, uncarved."
 32,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"The Tao is ever nameless, uncarved."
@@ -713,7 +715,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 33,1,智,zhì,智,cleverness / clever,yes,1.0,exact-count,One who knows others is clever.
 33,2,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,exact-count,One who knows themselves is clear-seeing.
 33,3,力,lì,強,force,yes,1.0,exact-count,One who overcomes others has force.
+33,3,勝,Shèng,勝,overcome,yes,1.0,exact-count,One who overcomes others has force.
 33,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who overcomes others has force.
+33,4,勝,shèng,勝,overcome,yes,1.0,exact-count,One who overcomes themselves is strong.
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
 33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
 33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
@@ -765,6 +769,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,4,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"If you would take from it, you must first give to it."
 36,5,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",NOT FOUND,1.0,exact-count,This is called the faint clarity.
 36,6,剛,gāng,柔,unbending,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
+36,6,勝,shèng,勝,overcome,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
@@ -1011,6 +1016,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 45,3,直,zhí,正 & 奇,true,yes,1.0,exact-count,Great trueness seems bent.
 45,4,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great skill seems clumsy.
 45,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,Great argument seems halting.
+45,6,勝,shèng,勝,overcome,yes,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
+45,6,勝,shèng,勝,overcome,yes,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,6,躁,Zào,靜,"restless, restlessness",NOT FOUND,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,6,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,exact-count,Restlessness overcomes cold; stillness overcomes heat.
 45,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,Clear stillness sets the world straight.
@@ -1317,6 +1324,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
 61,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"the female of the world, the confluence of the world."
 61,2,牝,pìn,牝,the female,yes,1.0,authored,"the female of the world, the confluence of the world."
+61,3,勝,shèng,勝,overcome,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
 61,3,牝,Pìn,牝,the female,yes,1.0,authored,The female always overcomes the male by stillness. By stillness she is underneath.
@@ -1510,6 +1518,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 67,9,廣,guǎng,廣,broad · breadth (as a noun),NOT FOUND,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,後,hòu,先 & 後,"behind, or after in time",yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
 67,9,慈,cí,慈,tenderness,yes,1.0,authored,"Now, to abandon tenderness and grab at courage, to abandon frugality and grab at breadth, to abandon being last and grab at being first, that is death."
+67,10,勝,shèng,勝,overcome,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,守,shǒu,守,hold to,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,10,慈,cí,慈,tenderness,yes,1.0,authored,"Tenderness. Fight with it and you win, guard with it and you stand firm."
 67,11,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"When nature would rescue someone, it shields them with tenderness."
@@ -1518,6 +1527,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 68,1,士,shì,士,in service,yes,1.0,exact-count,Those masterful in service are not martial.
 68,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Those masterful in service are not martial.
 68,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at fighting do not rage.
+68,3,勝,shèng,勝,overcome,NOT FOUND,1.0,exact-count,Those masterful at overcoming enemies do not engage them.
 68,3,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at overcoming enemies do not engage them.
 68,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Those masterful at using people put themselves below them.
 68,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,Those masterful at using people put themselves below them.
@@ -1546,6 +1556,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 69,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,There is no greater disaster than making light of the enemy.
 69,8,禍,Huò,禍 & 福,disaster,yes,1.0,exact-count,There is no greater disaster than making light of the enemy.
 69,9,吾,wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,Making light of the enemy nearly costs me my treasures.
+69,10,勝,shèng,勝,overcome,yes,1.0,exact-count,"So when the armies are evenly matched, the side that grieves wins."
 70,1,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,"My words are very easy to know, very easy to follow."
 70,1,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"My words are very easy to know, very easy to follow."
 70,1,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"My words are very easy to know, very easy to follow."
@@ -1580,6 +1591,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 73,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"Of these two, one benefits and one harms."
 73,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"What nature turns against, who knows why?"
 73,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage still finds it difficult.
+73,6,勝,shèng,勝,overcome,NOT FOUND,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
 73,6,爭,zhēng,爭,contend / contention,yes,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
@@ -1630,6 +1642,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 76,4,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
 76,4,柔,Róu,柔,soft,yes,1.0,authored,The soft and yielding are followers of life.
 76,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,The soft and yielding are followers of life.
+76,5,勝,shèng,勝,overcome,yes,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,5,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Therefore a strong army does not win, and a strong tree snaps."
 76,6,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
@@ -1658,10 +1671,13 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,1,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,柔,róu,柔,soft,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
 78,1,水,shuǐ,水,water,yes,1.0,authored,"In all the world nothing is softer and more yielding than water,"
+78,2,勝,shèng,勝,overcome,yes,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,2,能,néng,可,be able,NOT FOUND,1.0,authored,"yet at attacking the hard and the strong nothing overcomes it, for nothing can take its place."
 78,3,剛,gāng,柔,unbending,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,3,勝,shèng,勝,overcome,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
+78,3,勝,shèng,勝,overcome,yes,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,弱,Ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."
 78,3,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The yielding overcomes the strong. The soft overcomes the unbending. No one in the world fails to know this, yet no one can follow it."

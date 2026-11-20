@@ -57,7 +57,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 死,sǐ,death / die,word,,,,,18,9,"6,33,42,50,67,74,75,76,80",6,80,3.4,
 失,Shī,lose,locked,,lose,locked,attain; obtain; forfeit; acquire,17,8,"13,23,26,29,33,38,64,73",13,73,3.21,glossary/de-shi-得失.md
 成,chéng,complete / be done / accomplish,word,,,,,17,14,"2,7,15,17,25,34,41,45,47,51,63,64,67,77",2,77,3.21,
-勝,Shèng,overcome / win / victory,word,,,,,16,11,"31,33,36,45,61,67,68,69,73,76,78",31,78,3.02,
+勝,Shèng,overcome,locked,,overcome,locked,victory; victorious; conquer; conquest; defeat; triumph,16,11,"31,33,36,45,61,67,68,69,73,76,78",31,78,3.02,glossary/sheng-勝.md
 唯,wéi,only,locked,,only,locked,precisely,16,15,"2,8,15,20,22,41,42,53,59,67,70,71,72,75,77",2,77,3.02,glossary/wei-唯.md
 此,Cǐ,this / here,grammar,,,,,16,15,"1,12,14,15,19,21,23,38,39,54,57,62,65,72,73",1,73,3.02,
 長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",locked,,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",locked,leader; leading; superiority; immortal; everlasting,16,12,"2,7,9,10,22,24,28,44,51,54,59,67",2,67,3.02,glossary/chang-長.md

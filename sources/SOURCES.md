@@ -3,7 +3,7 @@
 
 The catalogue contains 61 sources. 5 have material in this repository. 36 of 232 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 89 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 90 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -202,6 +202,10 @@ Stored in this repository.
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 29, on the world as a spirit-vessel
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 39, on each arriving at its quality by the one
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 60, from the ghosts not acting as spirits to the two who do no harm
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 33, one who overcomes others merely has force
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 45, restlessness overcomes cold, stillness overcomes heat
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 67, caring for one another and not fleeing hardship, and so they win
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 76, a strong army that bullies the world cannot win
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, defining sparse speech by quoting chapter 14
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, on the great sound that cannot be heard
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 70, on those who know me growing fewer
@@ -267,6 +271,12 @@ Stored in this repository.
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 39, on spirit transforming without form, and its seasons
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 6, on the valley spirit, and the spirits of the five organs
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 60, on the ghosts not daring to show their vital spirit
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 31, when a battle was won, the general took the chief mourner's place
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 33, overcoming others is no more than force
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 45, sheng read as reaching the extreme
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 67, fight with it and you overcome the enemy
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 68, overcoming the enemy by the Tao without contending
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 78, water wears down iron and copper, and nothing overcomes it
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 14, soundless is called xi
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, sparse speech as cherishing words
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, the great sound as thunder waiting for its season
@@ -329,6 +339,8 @@ Stored in this repository.
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Entry for the rain graph at the top of ling: rain falling, the three mouths picturing the drops
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Ghost radical, entry for gui (what a person returns to)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Jade radical, entry for the old form of ling (a shaman who serves the spirits with jade)
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for li (sinew, picturing a person's sinews)
+- [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Strength radical, entry for sheng (to bear a load)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Entry for xian (to advance forward)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Foot radical, entry for the old form of qian (to advance without walking: a foot on a boat)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Step radical, entry for hou (late, slow)
