@@ -2091,6 +2091,14 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 79 · 而不責於人 → "and never asks anyone for the other half"
+
+*(2026-11-19, Shalom's call; R5.)* *(was: "and never asks for the other.")* 人 restored as *anyone*, and the line still teaches the tally's two halves. 
+
+### Ch 41, 50 · 若存若亡 "seem to keep it, seem to lose it"; 善攝生者 "masterful at tending life"
+
+*(2026-11-19, Shalom's calls; R5.)* *(was: "keep some, forget some," "one who truly tends life.")* 若 restored twice; 善 takes its lock. Ch 11's note on 當 corrected to the verse's *in*.
+
 ### Ch 42, 43, 77 · three more lost lines
 
 *(2026-11-19, Shalom's calls; R5.)* Ch 42 *"some are decreased and so increased, some increased and so decreased"* (或 … 或 restored); ch 43 *"What is not there enters the seamless"* (the 無 & 有 lock's words, not *formless*); ch 77 *"Who can have more than enough"* (能 restored).
@@ -2397,7 +2405,7 @@ The verb **remains** was adopted from the same draft, replacing *is left over*: 
 
 First draft read *"the sage holds the left half of the tally / and never calls it in"* — accurate and opaque. It asked a modern reader to supply 300 BCE material culture from a bare noun, and *left* raised a question the poem cannot answer.
 
-Revised to **"holds their half of the tally / and never asks for the other."** The second line now teaches the object: a tally has two halves, one per party, and one party can come asking. That is enough for the bare word **tally** to carry 有德司契 four lines later without a footnote. It is the poem's own way of defining a term — in use, not in a gloss.
+*(Superseded 2026-11-19, Shalom's call: "and never asks anyone for the other half," 人 restored and the tally still taught.)* Revised to **"holds their half of the tally / and never asks for the other."** The second line now teaches the object: a tally has two halves, one per party, and one party can come asking. That is enough for the bare word **tally** to carry 有德司契 four lines later without a footnote. It is the poem's own way of defining a term — in use, not in a gloss.
 
 **Modernizing the object was considered and rejected.** *Holds the note and never calls it in*, or *the IOU*, are far more legible, and both destroy the chapter. A note is a **one-sided** instrument. A 契 is **split**, and the claim cannot be enforced without the counterparty's half — which is precisely the contrast 有德司契，無德司徹 turns on: an instrument requiring the other party's participation, against a ledger you can run on someone without them. Kill the split at line four and the contrast at line six has nothing to stand on.
 
@@ -2896,7 +2904,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 *In what is not there* is the entry's own licensed wording rather than a new coinage. 無 is 說文 亡也 — *"gone"*, from 亡 (*wáng* — to flee, to lose). Not a void; a thing that is not there.
 
-**當 is *right where*, not *through*.** 說文: 當 田相值也 — *"fields matching each other,"* from 田 (*tián* — a field). It locates; it is not instrumental. *Through* made the absence a means, which is the mechanistic reading of a line that is only pointing at a place.
+*(Corrected 2026-11-19: the verse carries 當 with* in*, "In what is not there," the 無 lock's wording; *right where* was a draft.)* **當 is *right where*, not *through*.** 說文: 當 田相值也 — *"fields matching each other,"* from 田 (*tián* — a field). It locates; it is not instrumental. *Through* made the absence a means, which is the mechanistic reading of a line that is only pointing at a place.
 
 ### 利 → *advantage* — a locked rendering applied for the first time
 

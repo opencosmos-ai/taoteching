@@ -93,11 +93,11 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **11 · Ch 41 · 若存若亡 (*ruò cún ruò wáng* — "as if keeping it, as if losing it") → *"keep some, forget some."***
 **Lost:** 若 (*ruò* — as if), twice. Wavering becomes keeping part of it. Ch 4's notes already pair 存 (*cún* — to be still there) against 亡 (*wáng* — to be gone) in exactly this line.
-**Proposed:** *"Those middling in service hear the Tao / and seem to keep it, seem to lose it."*
+**Proposed:** *"Those middling in service hear the Tao / and seem to keep it, seem to lose it."* **Done 2026-11-19 (Shalom's call).**
 
 **12 · Ch 50 · 善攝生者 (*shàn shè shēng zhě* — "one masterful at tending life") → *"one who truly tends life."***
 **Shift, against a lock.** 善 (*shàn*) is locked, and `glossary/shan-善.md` lists ch 50 by name under *善 (*shàn* — masterful) + verb → masterful at*. *Truly* is neither the lock nor a recorded flexion.
-**Proposed:** *"It's been said that one masterful at tending life"*
+**Proposed:** *"It's been said that one masterful at tending life"* **Done 2026-11-19 (Shalom's call).**
 
 **13 · Ch 27 · 是謂要妙 (*shì wèi yào miào* — "this is called the essential subtlety") → *"This is the essential secret."***
 **Shift, against a lock**, and **lost:** 謂 (*wèi* — called). 妙 (*miào* — subtle) is locked to *subtle*. `glossary/xuan-miao-玄妙.md` names this very line *"the essential subtlety"* and refuses *mystery*. *Secret* carries the same esoteric charge by another word.
@@ -113,9 +113,9 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **16 · Ch 79 · 而不責於人 (*ér bù zé yú rén* — "and makes no demand on people") → *"and never asks for the other."***
 **Lost:** 人 (*rén* — people). The object moves from people to the tally's other half. The chapter's notes leave the left tally's side open on purpose, and say *"the English renders the character"*. It renders 責 (*zé* — to demand payment) but not 人 (*rén* — people), and the claim is about how the sage treats people.
-**Proposed:** *"So the sage grasps the left half of the tally / and makes no demand on anyone."*
+**Proposed:** *"So the sage grasps the left half of the tally / and makes no demand on anyone."* **Done 2026-11-19 (Shalom's call)** as *"and never asks anyone for the other half"*, which keeps the tally's teaching.
 
-**17 · Ch 11 · the note and the verse disagree.** The chapter's notes say *"當 (*dāng* — right at) → **right where**, not through,"* and the verse reads *"In what is not there"* three times. One of the two is wrong. The verse is the settled wording of 無 (*wú* — absence)'s lock, which already includes *in*, so I'd **correct the note**: 當 (*dāng* — right at) is carried by *in*, and *right where* was a draft. Also lost, and fine to leave: 其 (*qí* — its), in 當其無 (*dāng qí wú* — "right at its absence").
+**17 · Ch 11 · the note and the verse disagree.** The chapter's notes say *"當 (*dāng* — right at) → **right where**, not through,"* and the verse reads *"In what is not there"* three times. One of the two is wrong. The verse is the settled wording of 無 (*wú* — absence)'s lock, which already includes *in*, so I'd **correct the note**: 當 (*dāng* — right at) is carried by *in*, and *right where* was a draft. **Done 2026-11-19** (`chapters/011.md`). Also lost, and fine to leave: 其 (*qí* — its), in 當其無 (*dāng qí wú* — "right at its absence").
 
 #### Smaller, gathered
 

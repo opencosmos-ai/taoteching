@@ -904,8 +904,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,1,士,shì,士,in service,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
 41,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Those highest in service hear the Tao and labor to practice it.
 41,1,道,dào,道,the Tao / way,yes,1.0,authored,Those highest in service hear the Tao and labor to practice it.
-41,2,士,shì,士,in service,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
-41,2,道,dào,道,the Tao / way,yes,1.0,authored,"Those middling in service hear the Tao and keep some, forget some."
+41,2,士,shì,士,in service,yes,1.0,authored,"Those middling in service hear the Tao and seem to keep it, seem to lose it."
+41,2,道,dào,道,the Tao / way,yes,1.0,authored,"Those middling in service hear the Tao and seem to keep it, seem to lose it."
 41,3,士,shì,士,in service,yes,1.0,authored,Those lowest in service hear the Tao and laugh aloud at it.
 41,3,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Those lowest in service hear the Tao and laugh aloud at it.
 41,3,道,dào,道,the Tao / way,yes,1.0,authored,Those lowest in service hear the Tao and laugh aloud at it.
@@ -1077,8 +1077,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,"Three in ten, though alive, move toward deadly ground."
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
-50,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
-50,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,It’s been said that one who truly tends life
+50,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,It’s been said that one masterful at tending life
+50,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,It’s been said that one masterful at tending life
 50,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"can travel the land without meeting rhinos or tigers,"
 50,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The rhino’s horn has nowhere to thrust,"
 50,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
@@ -1654,8 +1654,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 79,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
 79,1,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Settle a great grudge and some grudge always remains. How could that count as masterful?
-79,2,執,zhí,執,grasp,yes,1.0,authored,Therefore the sage grasps the left half of the tally and never asks for the other.
-79,2,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage grasps the left half of the tally and never asks for the other.
+79,2,執,zhí,執,grasp,yes,1.0,authored,Therefore the sage grasps the left half of the tally and never asks anyone for the other half.
+79,2,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage grasps the left half of the tally and never asks anyone for the other half.
 79,3,德,dé,德,integrity,yes,1.0,authored,Those with integrity keep the tally. Those without integrity keep score.
 79,3,德,dé,德,integrity,yes,1.0,authored,Those with integrity keep the tally. Those without integrity keep score.
 79,3,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,Those with integrity keep the tally. Those without integrity keep score.
