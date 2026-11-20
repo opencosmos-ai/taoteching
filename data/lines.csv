@@ -40,7 +40,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 5,2,1,聖人不仁，以百姓為芻狗。,"shèng rén bù rén, yǐ bǎi xìng wéi chú gǒu.",The Sage is not humane; they regard the people as straw dogs.,The sage is not concerned with humaneness: they treat everyone as straw dogs.,authored
 5,3,2,天地之間，其猶橐籥乎？,"Tiān dì zhī jiān, qí yóu tuó yuè hū?","Between Heaven and Earth, is it not like a bellows?",Isn't the space between sky and earth like a bellows?,authored
 5,4,2,虛而不屈，動而愈出。,"Xū ér bù qū, dòng ér yù chū.","Empty yet inexhaustible, the more it moves, the more it brings forth.","Empty but never depleted, the more it moves, the more it yields.",authored
-5,5,2,多言數窮，不如守中。,"Duō yán shù qióng, bù rú shǒu zhōng.","Much speech exhausts itself, better to hold to the center.","Speaking of this is a dead end. / Instead, hold to the center.",authored
+5,5,2,多言數窮，不如守中。,"Duō yán shù qióng, bù rú shǒu zhōng.","Much speech exhausts itself, better to hold to the center.","Much talk is bound to run out. / Instead, hold to the center.",authored
 6,1,0,谷神不死，,"Gǔ shén bù sǐ,","The valley \[gu\] spirit \[shen\] does not \[bu\] die \[si\],",The spirit of the valley is deathless.,exact-count
 6,2,0,是謂玄牝。,shì wèi xuán pìn.,this \[shi\] is called \[wei\] the dark/mysterious \[xuan\] female \[pin\].,This is called the dark female.,exact-count
 6,3,0,玄牝之門，,"Xuán pìn zhī mén,","The gate/door \[men\] of the dark/mysterious female,",The dark female's gate —,exact-count
@@ -106,9 +106,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 11,9,3,有室之用。,yǒu shì zhī yòng.,there is the use/utility of the room \[shi\].,the room has its use.,exact-count
 11,10,4,故有之以為利，,"Gù yǒu zhī yǐ wéi lì,","Therefore \[gu\], presence/having \[you\] it \[zhi\] is used for/provides \[yi wei\] benefit/advantage \[li\],","So presence gives the advantage,",exact-count
 11,11,4,無之以為用。,wú zhī yǐ wéi yòng.,nothingness/absence \[wu\] of it is used for/provides utility/function \[yong\].,and absence gives the use.,exact-count
-12,1,1,五色令人目盲；,Wǔ sè lìng rén mù máng;,Five \[wu\] colors \[se\] cause/make \[ling\] people's \[ren\] eyes \[mu\] blind \[mang\];,The full spectrum of colors makes people's eyes blind.,authored
-12,2,1,五音令人耳聾；,Wǔ yīn lìng rén ěr lóng;,Five \[wu\] tones/notes \[yin\] cause \[ling\] people's \[ren\] ears \[er\] deaf \[long\];,The full spectrum of tones makes people's ears deaf.,authored
-12,3,1,五味令人口爽；,Wǔ wèi lìng rén kǒu shuǎng;,Five \[wu\] flavors/tastes \[wei\] cause \[ling\] people's \[ren\] mouths \[kou\] dull/spoiled \[shuang\];,The full spectrum of flavors makes people's palates dull.,authored
+12,1,1,五色令人目盲；,Wǔ sè lìng rén mù máng;,Five \[wu\] colors \[se\] cause/make \[ling\] people's \[ren\] eyes \[mu\] blind \[mang\];,The five colors make people's eyes blind.,authored
+12,2,1,五音令人耳聾；,Wǔ yīn lìng rén ěr lóng;,Five \[wu\] tones/notes \[yin\] cause \[ling\] people's \[ren\] ears \[er\] deaf \[long\];,The five tones make people's ears deaf.,authored
+12,3,1,五味令人口爽；,Wǔ wèi lìng rén kǒu shuǎng;,Five \[wu\] flavors/tastes \[wei\] cause \[ling\] people's \[ren\] mouths \[kou\] dull/spoiled \[shuang\];,The five flavors make people's palates dull.,authored
 12,4,2,馳騁畋獵，,"Chí chěng tián liè,","Galloping/racing \[chi cheng\] and hunting \[tian lie\],",Galloping in pursuit of prey makes people's hearts wild.,authored
 12,5,2,令人心發狂；,lìng rén xīn fā kuáng;,cause \[ling\] people's \[ren\] minds/hearts \[xin\] to go wild/mad \[fa kuang\];,Galloping in pursuit of prey makes people's hearts wild.,authored
 12,6,2,難得之貨，,"Nán dé zhī huò,","Hard \[nan\] to obtain \[de\] goods/wealth \[huo\],",Rare goods hinder people's conduct.,authored
@@ -232,10 +232,10 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 20,23,4,而我獨頑似鄙。,ér wǒ dú wán sì bǐ.,Yet \[er\] I \[wo\] alone \[du\] am stubborn \[wan\] and seem \[si\] rustic/uncouth \[bi\].,"I alone am stubborn, and look coarse.",authored
 20,24,4,我獨異於人，,"Wǒ dú yì yú rén,","I \[wo\] alone \[du\] am different \[yi\] from \[yu\] others \[ren\],",I alone differ from others:,authored
 20,25,4,而貴食母。,ér guì shí mǔ.,And \[er\] I value/prize \[gui\] feeding/eating \[shi\] from the mother \[mu\].,I prize feeding from the mother.,authored
-21,1,1,孔德之容，,"Kǒng dé zhī róng,","The appearance/capacity \[rong\] of great/hollow \[kong\] virtue/power \[de\],",The greatest integrity follows only the Tao.,authored
-21,2,1,惟道是從。,wéi dào shì cóng.,Only \[wei\] follows \[cong\] the Tao \[dao\].,The greatest integrity follows only the Tao.,authored
-21,3,1,道之為物，,"Dào zhī wéi wù,","The Tao's \[dao\] functioning as \[wei\] an entity/matter \[wu\],","Whatever the Tao is, it is only vague, only elusive.",authored
-21,4,1,惟恍惟惚。,wéi huǎng wéi hū.,Is only \[wei\] elusive/indistinct \[huang\] and evasive/blurry \[hu\].,"Whatever the Tao is, it is only vague, only elusive.",authored
+21,1,1,孔德之容，,"Kǒng dé zhī róng,","The appearance/capacity \[rong\] of great/hollow \[kong\] virtue/power \[de\],",Behavior of the greatest integrity follows only the Tao.,authored
+21,2,1,惟道是從。,wéi dào shì cóng.,Only \[wei\] follows \[cong\] the Tao \[dao\].,Behavior of the greatest integrity follows only the Tao.,authored
+21,3,1,道之為物，,"Dào zhī wéi wù,","The Tao's \[dao\] functioning as \[wei\] an entity/matter \[wu\],","The Tao, as a thing, is only vague, only elusive.",authored
+21,4,1,惟恍惟惚。,wéi huǎng wéi hū.,Is only \[wei\] elusive/indistinct \[huang\] and evasive/blurry \[hu\].,"The Tao, as a thing, is only vague, only elusive.",authored
 21,5,2,惚兮恍兮，其中有象；,"Hū xī huǎng xī, qí zhōng yǒu xiàng;","Evasive \[hu\] oh \[xi\] elusive \[huang\] oh \[xi\], within its center \[qi zhong\] there is \[you\] an image/form \[xiang\];","Elusive and vague, and within it there is an image.",authored
 21,6,2,恍兮惚兮，其中有物。,"Huǎng xī hū xī, qí zhōng yǒu wù.","Elusive \[huang\] oh \[xi\] evasive \[hu\] oh \[xi\], within its center \[qi zhong\] there is \[you\] a physical entity/matter \[wu\].","Vague and elusive, and within it there is a thing.",authored
 21,7,2,窈兮冥兮，其中有精；,"Yǎo xī míng xī, qí zhōng yǒu jīng;","Deep/dark \[yao\] oh \[xi\] obscure/dim \[ming\] oh \[xi\], within its center \[qi zhong\] there is \[you\] vital essence/primordial mass \[jing\];","Deep and dim, and within it there is vital essence.",authored
@@ -592,11 +592,11 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 54,7,3,故以身觀身，以家觀家，,"Gù yǐ shēn guān shēn, yǐ jiā guān jiā,","Therefore observe the self through the self, observe the family through the family,",So observe the body through your own body. / Observe the family through your family.,authored
 54,8,3,以鄉觀鄉，以邦觀邦，以天下觀天下。,"Yǐ xiāng guān xiāng, yǐ bāng guān bāng, yǐ tiān xià guān tiān xià.","observe the village through the village, observe the state through the state, observe the world through the world.",Observe the community through your community. / Observe the state through your state. / Observe the world through the world.,authored
 54,9,3,吾何以知天下然哉？以此。,Wú hé yǐ zhī tiān xià rán zāi? Yǐ cǐ.,How do I know the world is thus? By this.,How do I know the world is so? By this.,authored
-55,1,1,含德之厚，比於赤子。,"Hán dé zhī hòu, bǐ yú chì zǐ.",One containing abundant Virtue/Power is comparable to a newborn infant.,One who holds integrity thick within is like a newborn.,authored
-55,2,1,毒蟲不螫，猛獸不據，攫鳥不搏。,"Dú chóng bù shì, měng shòu bù jù, jué niǎo bù bó.","Poisonous insects do not sting them, fierce beasts do not seize them, birds of prey do not strike them.","Venomous creatures do not sting them, / fierce beasts do not seize them, / birds of prey do not attack them.",authored
-55,3,1,骨弱筋柔而握固。,Gǔ ruò jīn róu ér wò gù.,"Bones are yielding, muscles are soft, yet their grasp is firm.","Their bones are yielding and their muscles soft, yet their grip is firm.",authored
-55,4,1,未知牝牡之合而朘作，精之至也。,"Wèi zhī pìn mǔ zhī hé ér zuī zuò, jīng zhī zhì yě.","They do not yet know the union of male and female, yet their organ is aroused, this is the perfection/extreme of vital essence (jing).","They do not yet know the union of female and male, yet their whole being quickens with life — this is vital essence at its utmost.",authored
-55,5,1,終日號而不嗄，和之至也。,"Zhōng rì háo ér bù shà, hé zhī zhì yě.","Crying all day yet their voice does not grow hoarse, this is the perfection/extreme of harmony.",It cries all day and never goes hoarse — this is harmony at its utmost.,authored
+55,1,1,含德之厚，比於赤子。,"Hán dé zhī hòu, bǐ yú chì zǐ.",One containing abundant Virtue/Power is comparable to a newborn infant.,One who holds integrity thick within is like a newborn boy.,authored
+55,2,1,毒蟲不螫，猛獸不據，攫鳥不搏。,"Dú chóng bù shì, měng shòu bù jù, jué niǎo bù bó.","Poisonous insects do not sting them, fierce beasts do not seize them, birds of prey do not strike them.","Venomous creatures do not sting him, / fierce beasts do not seize him, / birds of prey do not attack him.",authored
+55,3,1,骨弱筋柔而握固。,Gǔ ruò jīn róu ér wò gù.,"Bones are yielding, muscles are soft, yet their grasp is firm.","His bones are yielding and his muscles soft, yet his grip is firm.",authored
+55,4,1,未知牝牡之合而朘作，精之至也。,"Wèi zhī pìn mǔ zhī hé ér zuī zuò, jīng zhī zhì yě.","They do not yet know the union of male and female, yet their organ is aroused, this is the perfection/extreme of vital essence (jing).","He does not yet know the union of female and male, yet his member stirs — this is vital essence at its utmost.",authored
+55,5,1,終日號而不嗄，和之至也。,"Zhōng rì háo ér bù shà, hé zhī zhì yě.","Crying all day yet their voice does not grow hoarse, this is the perfection/extreme of harmony.",He cries all day and never goes hoarse — this is harmony at its utmost.,authored
 55,6,2,知和曰常，知常曰明。,"Zhī hé yuē cháng, zhī cháng yuē míng.","Knowing harmony is called the constant, knowing the constant is called clarity/illumination.",Harmony is called the ever-present. / Knowing harmony is called clear-seeing.,authored
 55,7,2,益生曰祥。心使氣曰強。,Yì shēng yuē xiáng. Xīn shǐ qì yuē qiáng.,Artificially increasing life is called an ill omen. The mind directing the vital breath (qi) is called forcing/brute strength.,"Increasing life is called an ill omen. / When the heart drives the breath, that is called strong.",authored
 55,8,2,物壯則老，謂之不道，不道早已。,"Wù zhuàng zé lǎo, wèi zhī bù dào, bù dào zǎo yǐ.","When things reach peak strength they decay, this is called not-Tao, not-Tao ends early.","When things reach their prime, they decay. / This is called not-Tao. Not-Tao comes to an early end.",authored

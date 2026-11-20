@@ -605,6 +605,8 @@ Two decisions in one line. **First, it stays "sky."** Ch 16 and Ch 25 share this
 
 #### 道之為物 → "Whatever the Tao is, it is only vague, only elusive"
 
+*(Superseded 2026-11-19, Shalom's call: "The Tao, as a thing, is only vague, only elusive," the echo with 其中有物 restored; R5.)*
+
 *(was "In the manifest realm, the Tao appears intangible and dark", then briefly "As a thing, the Tao is…")*
 
 Two things were wrong with the original. **"The manifest realm" imports a two-realm metaphysics** — a manifest world set against an unmanifest one — that the line does not contain and the book does not hold. And **"dark"** was doing duty for 惚, where the lock reserves *dark* for 玄.
@@ -1086,6 +1088,8 @@ It is not literal (是謂 is "is called," not "exposes") — but to name a robed
 ### Ch 55
 
 #### 全作 → "its whole being quickens with life"
+
+*(Superseded 2026-11-19, Shalom's call: the verse renders our printed 朘, "yet his member stirs," the newborn a boy from line 1, under standing rule 1's fourth part; R5.)*
 
 *(setting aside the traditional male-erection gloss)*
 
@@ -2086,6 +2090,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 48 · 損之又損 → "Decrease, and decrease again"
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
+
+### Ch 5, 12, 21, 55 · four of the accuracy audit's lost lines
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 5 *"Much talk is bound to run out"* (was *"Speaking of this is a dead end"*). Ch 12 *"The five colors / tones / flavors"* (was *"The full spectrum of …"*). Ch 21 *"Behavior of the greatest integrity"* (容, was unrendered) and *"The Tao, as a thing"* (物 restored). Ch 55 renders our printed 朘: *"yet his member stirs,"* the newborn a boy from line 1 (Shalom's wording), the person compared unsexed.
 
 ### 正 / 奇 → "straight / crooked," with 直 "true" and 屈 "bent" (T4-2)
 

@@ -536,8 +536,17 @@ class TheCorpusItself(unittest.TestCase):
 
     def test_no_male_pronouns_anywhere(self):
         # This lock has held from the first chapter. Keep it that way.
+        # The one exception is a recorded waiver: since 2026-11-19 ch 55's
+        # newborn is a boy, the male the text names on purpose (standing rule 1,
+        # fourth part), and its Notes carry a `lock-ok: sage-pronoun` comment.
+        # Any male pronoun in a chapter without that waiver still fails here.
         chapters = [c for c in C.load_chapters().values() if c.drafted]
-        self.assertEqual(C.rule_sage_pronoun(chapters=chapters), [])
+        waived = {c.number for c in chapters
+                  if any(w.rule == "sage-pronoun" for w in c.waivers)}
+        unwaived = [f for f in C.rule_sage_pronoun(chapters=chapters)
+                    if f.chapter not in waived]
+        self.assertEqual(unwaived, [])
+        self.assertEqual(waived, {55})
 
     def test_no_virtue_anywhere(self):
         # 德 → integrity has also held from the beginning.

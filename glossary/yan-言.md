@@ -133,6 +133,6 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 
 **No line waits on this entry.** Chapter 17 (*"Hesitant, they prize their words"*) and the formula of chapters 2 and 43 (*the unspoken teaching*) were settled on 2026-11-19.
 
-**Chapter 5's 多言數窮 loses 多 (*duō* — much).** *"Speaking of this is a dead end"* renders 言 and drops the *much*, which is the line's point: not speech but too much of it, against 守中 (*shǒu zhōng* — "hold to the center"). And 數 is contested: Wang Bi's sound note reads it as reckoning, a later note as *often*. The line wants its own reading.
+**Chapter 5's 多言數窮 lost 多 (*duō* — much) until 2026-11-19.** *"Speaking of this is a dead end"* rendered 言 and dropped the *much*, which is the line's point: not speech but too much of it, against 守中 (*shǒu zhōng* — "hold to the center"). And 數 is contested: Wang Bi's sound note reads it as reckoning, a later note as *often*. The line wants its own reading.
 
 **The book distrusts speech and is made of it.** Chapter 70 claims its own words are *very easy to know, very easy to follow*, and that no one knows or follows them. The English should not soften either half.

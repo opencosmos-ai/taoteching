@@ -39,7 +39,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 - **The logged reason is universality**: *"keeping the emblem universal, for infants of every gender."* That was written on 2026-08-11.
 - **Rule 1's fourth part, set 2026-10-26, refuses exactly that move.** *"The male the text names stays named … no English that erases either sex where the Chinese names it."* It names the flinch: *"the same flinch that turns 母 (mǔ — mother) into the Source."* And 牡 (*mǔ* — the male) stands one clause earlier in this same line, 未知牝牡之合 (*wèi zhī pìn mǔ zhī hé* — "not yet knowing the union of female and male"), which the English already keeps.
 
-**My recommendation: render 朘 (*zuī* — the infant boy's member), as the printed Chinese reads.** *"They do not yet know the union of female and male, / yet the boy's member stirs — this is vital essence at its utmost."* The point of the line survives intact: potency that arises from fullness, before desire has any object. What changes is that the English stops softening the body the text names. **The cost:** the image is no longer available to infants of every gender. That is the cost the 2026-10-26 rule decided to pay at 父 (*fù* — father), and paying it at 父 (*fù* — father) but not here would apply the rule to the father and not to the son.
+**My recommendation: render 朘 (*zuī* — the infant boy's member), as the printed Chinese reads.** **Done 2026-11-19 (Shalom's call),** in his wording: the newborn a boy from line 1, *"yet his member stirs."* *"They do not yet know the union of female and male, / yet the boy's member stirs — this is vital essence at its utmost."* The point of the line survives intact: potency that arises from fullness, before desire has any object. What changes is that the English stops softening the body the text names. **The cost:** the image is no longer available to infants of every gender. That is the cost the 2026-10-26 rule decided to pay at 父 (*fù* — father), and paying it at 父 (*fù* — father) but not here would apply the rule to the father and not to the son.
 
 **The alternative, if you would rather keep the received reading:** follow Wang Bi's 全 (*quán* — whole) on the evidence of the witness, not on the ground of universality, and say so in the note. That is a witness call, which the rule allows. Universality as the reason is what it does not allow.
 
@@ -51,15 +51,15 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **1 · Ch 5 · 多言數窮 (*duō yán shuò qióng* — "much talk soon runs out") → *"Speaking of this is a dead end."***
 **Lost:** 多 (*duō* — much) and 數 (*shuò* / *shù* — soon / by reckoning). **Added:** *of this*. The Chinese makes a claim about talking too much. The English makes a different claim, that the subject cannot be spoken of, and the line does not say that. Both commentators read it as a line about much talk. Heshang Gong: 多事害神，多言害身 (*duō shì hài shén, duō yán hài shēn* — "much business harms the spirit, much talk harms the body"). Wang Bi: 必窮之數也 (*bì qióng zhī shù yě* — "it is bound, by reckoning, to run out"). A phonetic note in Heshang Gong's printed text, a later editor's addition, records both readings: Wang Bi's *shù* (reckoning) and the Tang emperor Xuanzong's *shuò* (soon). Nothing in the chapter's notes discusses the line.
-**Proposed:** *"Much talk is bound to run out. / Instead, hold to the center."* *Bound to* carries both readings of 數 (*shuò* / *shù* — soon / by reckoning). The second line is unchanged.
+**Proposed:** *"Much talk is bound to run out. / Instead, hold to the center."* *Bound to* carries both readings of 數 (*shuò* / *shù* — soon / by reckoning). The second line is unchanged. **Done 2026-11-19 (Shalom's call).**
 
 **2 · Ch 21 · 孔德之容 (*kǒng dé zhī róng* — "the bearing of great integrity") → *"The greatest integrity follows only the Tao."***
 **Lost:** 容 (*róng* — bearing, outward form). The Chinese says the *bearing* of great integrity follows the Tao. The English says integrity itself does. The glossary builds on the word the verse drops. `glossary/de-德.md` reads this line as *"the form of great 德 (*dé* — integrity) follows the Tao alone. De is what the Tao looks like once it takes a body."* Nothing records the omission.
-**Proposed:** *"The bearing of the greatest integrity / follows only the Tao."* I'd use *bearing*, not the entry's *form*, because the book spends *form* on 形 (*xíng* — shape), as in 41's 大象無形 (*dà xiàng wú xíng* — "the great image has no form").
+**Proposed:** *"The bearing of the greatest integrity / follows only the Tao."* I'd use *bearing*, not the entry's *form*, because the book spends *form* on 形 (*xíng* — shape), as in 41's 大象無形 (*dà xiàng wú xíng* — "the great image has no form"). **Done 2026-11-19 (Shalom's call)** as *"Behavior of the greatest integrity"*: *bearing* also reads as a compass heading.
 
 **3 · Ch 12 · 五色 · 五音 · 五味 (*wǔ sè · wǔ yīn · wǔ wèi* — "the five colors, the five tones, the five flavors") → *"The full spectrum of colors … of tones … of flavors."***
 **Lost:** 五 (*wǔ* — five), three times. **Added:** *spectrum*. The five colors, five tones and five flavors are a named classical system, and the chapter's force is a count: five of each and the senses are glutted. *Spectrum* is Newton's word, so it fails the pointing test (`CLAUDE.md` → *The overlay watchlist*), and it is a cousin of the mechanistic register the watchlist names as our besetting temptation. Its third use, *a spectrum of flavors*, does not hold as an image at all. The chapter's notes restore 人 (*rén* — a person) in these same lines and say nothing about 五 (*wǔ* — five).
-**Proposed:** *"The five colors make people's eyes blind. / The five tones make people's ears deaf. / The five flavors make people's palates dull."*
+**Proposed:** *"The five colors make people's eyes blind. / The five tones make people's ears deaf. / The five flavors make people's palates dull."* **Done 2026-11-19 (Shalom's call).**
 
 **4 · Ch 42 · 故物或損之而益，或益之而損 (*gù wù huò sǔn zhī ér yì, huò yì zhī ér sǔn* — "so with things: some are decreased and gain, some are increased and lose") → *"For so it is: what is decreased is thereby increased, and what is increased is thereby decreased."***
 **Lost:** 或 … 或 (*huò … huò* — some … some). An observation about *some* things becomes a law about *all* of them. The book already has English for this construction: ch 29's 或行或隨 (*huò xíng huò suí* — "some go ahead, some follow") reads *"some go ahead, some follow."*
@@ -79,7 +79,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 
 **8 · Ch 21 · 道之為物 (*dào zhī wéi wù* — "the Tao, as a thing") → *"Whatever the Tao is, it is only vague, only elusive."***
 **Lost:** 物 (*wù* — thing), and with it the answer the chapter gives two lines later. That line is 其中有物 (*qí zhōng yǒu wù* — "within it there is a thing"), and the English renders it *"there is a thing."* The Chinese says that the Tao, taken as a thing, is vague, and yet a thing is in it. *Whatever the Tao is* hedges, and the hedge breaks the echo.
-**Proposed:** *"The Tao, as a thing, / is only vague, only elusive."*
+**Proposed:** *"The Tao, as a thing, / is only vague, only elusive."* **Done 2026-11-19 (Shalom's call),** on one line.
 
 #### Changes the force
 
