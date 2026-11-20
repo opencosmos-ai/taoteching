@@ -163,7 +163,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 ***Wish* and *craving* are forbidden** since chapters 77 and 46 left them (2026-11-19); *urge* and *relinquish* left the verse with chapter 37.
 
-***Want* also renders 求 (*qiú* — to seek) at chapter 75**, in *"those over them want their own lives so rich"* (以其上求生之厚, *yǐ qí shàng qiú shēng zhī hòu*). 欲 is not in chapter 75, so no rule sees the collision; only `concordance.py --english "want"`, run by hand, does. 求 is seeking, a search with hands, and it has its own English to find.
+***Want* is not 求 (*qiú* — to seek)'s.** Chapter 75's 以其上求生之厚 (*yǐ qí shàng qiú shēng zhī hòu*) once read *"those over them want their own lives so rich,"* and since 2026-11-20 reads *"those over them seek life too thickly,"* giving 求 its own *seek*, as at chapter 62. 欲 is not in chapter 75, so no rule would see *want* return there; `concordance.py --english "want"`, run by hand, does.
 
 ***Desire* is free.** No other character in the book wears it, and nothing needs to be forbidden to keep it so.
 

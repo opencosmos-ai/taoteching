@@ -63,7 +63,7 @@ refs:
 > — chapter 74
 
 > *The people make light of death*
-> *because those over them want their own lives so rich.*
+> *because those over them seek life too thickly.*
 >
 > 民之輕死，
 > 以其上求生之厚，
@@ -138,7 +138,7 @@ Chapter 42's 強梁者不得其死 (*qiáng liáng zhě bù dé qí sǐ* — "th
 
 **Chapter 50 counts.** Three in ten follow life, three in ten follow death, and three in ten *though alive, move toward deadly ground*. Why? *Because they live life too thickly*, 以其生生之厚 (*yǐ qí shēng shēng zhī hòu*). Wang Bi: 善攝生者無以生為生，故無死地也 — *"one masterful at tending life does not make living their life, and so they have no deadly ground."* He gives the picture the chapter goes on to draw: the rhinoceros finds nowhere to drive its horn, the tiger nowhere to set its claws, *"so what deadly ground is there?"* (何死地之有乎). The deadly ground is in the person, and it is the grasping at life.
 
-**Chapter 75 says the same of a people.** They make light of death *because those over them want their own lives so rich*: the rulers' 求生之厚 (*qiú shēng zhī hòu* — "seeking life richly") is chapter 50's 生生之厚 seen from below. And chapter 74 says what follows: a people who no longer fear death cannot be governed by it. Heshang Gong: 治國者刑罰酷深，民不聊生，故不畏死也 — *"when the state is governed with harsh punishments, the people cannot bear to live, and so they do not fear death."*
+**Chapter 75 says the same of a people.** They make light of death *because those over them seek life too thickly*: the rulers' 求生之厚 (*qiú shēng zhī hòu*) is chapter 50's 生生之厚 seen from below, and the English now says so in the same words. And chapter 74 says what follows: a people who no longer fear death cannot be governed by it. Heshang Gong: 治國者刑罰酷深，民不聊生，故不畏死也 — *"when the state is governed with harsh punishments, the people cannot bear to live, and so they do not fear death."*
 
 **Chapter 76 makes it a body.** The living are soft, the dead are hard; the living grass is fragile, the dead is withered. 堅強者死之徒，柔弱者生之徒 (*jiān qiáng zhě sǐ zhī tú, róu ruò zhě shēng zhī tú* — "the hard and strong are followers of death; the soft and yielding are followers of life"), chapter 50's *followers* again. Heshang Gong: 人死和氣竭，精神亡 — *"at death the harmonious breath is spent, and the vital spirit is gone."*
 
@@ -183,7 +183,5 @@ Chapter 42's 強梁者不得其死 (*qiáng liáng zhě bù dé qí sǐ* — "th
 ### Left open
 
 **Chapter 50's 十有三: three in ten, or thirteen.** The verse follows Wang Bi, 十分有三分, *"three parts in ten."* Heshang Gong counts thirteen, 九竅四關 (*jiǔ qiào sì guān* — "the nine openings and the four gates"): the body's apertures and limbs, which serve life when kept and death when spent. Two readings of one number, and the chapter reads differently under each.
-
-**厚 (*hòu* — thick) reads two ways in the parallel.** Chapter 50's 生生之厚 is *live life too thickly*, and chapter 75's 求生之厚 is *want their own lives so rich*. The two phrases are one diagnosis, the grasping at life seen from inside and from below, and the English gives 厚 two words. Owed to 厚, not to 死.
 
 **Chapter 67's verdict.** 死矣 is two characters, and *that is death* makes it a sentence about the outcome. Heshang Gong reads it as movement, *"they move into deadly ground,"* which would tie it to chapter 50's ground. Wang Bi says nothing. The verdict stands.

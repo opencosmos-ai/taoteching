@@ -509,7 +509,7 @@ Three consecutive chapters open on the same collapse and give it three different
 
 **74** — 民不畏死，奈何以死懼之？ *When the people do not fear death, why try to frighten them with death?* The fact is turned back on the ruler as a question about the futility of the axe.
 
-**75** — 民之輕死，以其上求生之厚. *The people make light of death because those over them want their own lives so rich.* The cause is finally named, and it is not the people's hardness. It is the ruler's appetite.
+**75** — 民之輕死，以其上求生之厚. *The people make light of death because those over them seek life too thickly.* The cause is finally named, and it is not the people's hardness. It is the ruler's appetite.
 
 The arc is worth reading as one movement. 72 says the fear is gone. 74 says you cannot restore it with more killing. 75 says you spent it yourself, on your own living. And 75 escalates through three appetites to get there — for grain, for control, for life — which is why its answer is not a policy but a release: 無以生為, *make no doing of your living*. The ruler who stops making a project of being alive stops charging the people for it.
 

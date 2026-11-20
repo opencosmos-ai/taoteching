@@ -3470,3 +3470,7 @@ The chapter is a list of things that cannot be kept, and it uses **three differe
 
 **The noun reads *death*, the verb *die*, and 死 modifying a noun *deadly*.** That held already in all but one line. **Ch 6's 谷神不死 → *"The spirit of the valley does not die"*** (was *deathless*): a verb kept a verb, and an attribute from elegy and hymn gone. **Ch 50's 死地 keeps *deadly ground*** (Shalom's correction): 死 modifies 地, and *deadly* before a place says *dangerous*, as Sunzi's death-ground is the place one is likely to die. A proposed *ground of death* was declined. Left open: 50's 十有三 (Wang Bi's three in ten against Heshang Gong's thirteen), and 厚 (*hòu* — thick) reading *thickly* at 50 and *rich* at 75.
 
+## Ch 75 · 求生之厚 → *"seek life too thickly"*, one diagnosis with ch 50
+
+*(Shalom's call, 2026-11-20. Argument in `chapters/075.md`.)* *(was: "because those over them want their own lives so rich.")* 求生之厚 and ch 50's 生生之厚 (*"they live life too thickly"*) share one frame, and Heshang Gong glosses both with 太厚 (*tài hòu* — too thick). 厚 (*hòu* — thick) now reads *thick* wherever it is the thickness of a life (38, 50, 55, 75); *rich* was 富 (*fù* — wealthy)'s, *want* stood for 求 (*qiú* — seek), and *own* rendered nothing. The chapter note says what the phrase means here: the rulers' life laid on thick, paid for in the first couplet's taxes, leaves the people a life too thin to guard.
+
