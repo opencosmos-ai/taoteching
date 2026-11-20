@@ -73,7 +73,7 @@ This is the yielding that the 柔 (*róu* — soft) and 弱 (*ruò* — yielding
 
 **Water is what the valley is for.** The Shuowen defines the valley as 泉出通川 (*quán chū tōng chuān* — "a spring that comes out and runs through to a river"), and the river as 貫穿通流水也 (*guàn chuān tōng liú shuǐ yě* — "water that cuts through and flows on"). The valley is the land, and the water is what passes through it. Chapter 66's rivers and seas rule the hundred valleys 以其善下之 (*yǐ qí shàn xià zhī* — "because they are masterful at being below them"), and chapter 8's water does the same: it goes down, and it stays where it lands.
 
-**Heshang Gong reads chapter 8's ground line through the female.** On 居善地 (*jū shàn dì* — "in settling, masterful at choosing ground"): 水性善喜於地，草木之上即流而下，有似於牝，動而下人也, *"water's nature delights in the ground; on grass and trees it runs straight down; it is like the female, moving and putting itself below others."* 牝 (*pìn* — the female) is chapter 6's dark female. The commentator joins the water, the low ground and the female in one sentence, which is the thread `notes/reading.md` calls the mother and her kin.
+**Heshang Gong reads chapter 8's ground line through the female.** On 居善地 (*jū shàn dì* — "in settling, masterful at ground"): 水性善喜於地，草木之上即流而下，有似於牝，動而下人也, *"water's nature delights in the ground; on grass and trees it runs straight down; it is like the female, moving and putting itself below others."* 牝 (*pìn* — the female) is chapter 6's dark female. The commentator joins the water, the low ground and the female in one sentence, which is the thread `notes/reading.md` calls the mother and her kin.
 
 ### Water and the grime
 

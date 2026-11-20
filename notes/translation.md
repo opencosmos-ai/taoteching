@@ -2091,6 +2091,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 3, 7, 8, 14 · four of the accuracy audit's smaller findings
+
+*(2026-11-19, Shalom's calls; R5.)* Ch 3 *"the people do not contend"* (*cause* removed); ch 7 *"And so they can fulfill their private self"* (能 and the doer back); ch 8 *"masterful at ground … at depth"* (the series' nouns); ch 14 *"Unbroken"* for 繩繩 (the cord's quality, not water).
+
 ### Ch 79 · 而不責於人 → "and never asks anyone for the other half"
 
 *(2026-11-19, Shalom's call; R5.)* *(was: "and never asks for the other.")* 人 restored as *anyone*, and the line still teaches the tally's two halves. 

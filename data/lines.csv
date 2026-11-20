@@ -20,7 +20,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"acts, and does not rely on it.",authored
 2,11,2,功成而弗居。,gōng chéng ér fú jū.,work is accomplished and the Sage takes no credit.,"The work is done, and the sage does not stay in it.",authored
 2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not leave.,authored
-3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","By not exalting the exceptional, the people have no cause to contend.",exact-count
+3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","By not exalting the exceptional, the people do not contend.",exact-count
 3,2,1,不貴難得之貨，使民不為盜；,"bù guì nán dé zhī huò, shǐ mín bù wéi dào;","do not prize rare goods, so that people do not steal;","By not prizing rare goods, the people do not become thieves.",exact-count
 3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","By not displaying the desirable, the people's hearts are not thrown into disorder.",exact-count
 3,4,2,是以聖人之治，,"Shì yǐ shèng rén zhī zhì,","Therefore, the Sage's governance",Therefore the sage governs by,exact-count
@@ -54,13 +54,13 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 7,5,2,是以聖人後其身而身先，,"Shì yǐ shèng rén hòu qí shēn ér shēn xiān,","Therefore \[shi yi\] the Sage \[sheng ren\] puts behind \[hou\] their \[qi\] body/self \[shen\], yet \[er\] their body comes first/ahead \[xian\],","Therefore the sage puts their body last, and their body comes first;",exact-count
 7,6,2,外其身而身存。,wài qí shēn ér shēn cún.,"puts outside \[wai\] their body, yet their body is preserved/exists \[cun\].","puts their body outside, and their body survives.",exact-count
 7,7,2,非以其無私邪？,Fēi yǐ qí wú sī xié?,Is it not (fei) because they have no (wu) private self (si — grain held back for oneself)?,Is it not because they have no private self?,exact-count
-7,8,2,故能成其私。,gù néng chéng qí sī.,"Therefore they can complete (cheng) their private self (si) — the same character, emptied then fulfilled.",And so their private self is fulfilled.,exact-count
+7,8,2,故能成其私。,gù néng chéng qí sī.,"Therefore they can complete (cheng) their private self (si) — the same character, emptied then fulfilled.",And so they can fulfill their private self.,exact-count
 8,1,1,上善若水。,Shàng shàn ruò shuǐ.,The highest/supreme \[shang\] good/excellence \[shan\] is like \[ruo\] water \[shui\].,The most masterful are like water.,exact-count
 8,2,1,水善利萬物而不爭，,"Shuǐ shàn lì wàn wù ér bù zhēng,","Water is good at benefiting \[li\] the ten thousand things \[wan wu\] and \[er\] does not contend/compete \[zheng\],",Water is masterful at benefiting the countless things and does not contend.,exact-count
 8,3,1,處眾人之所惡，,"chǔ zhòng rén zhī suǒ è,","it dwells \[chu\] in places the multitudes \[zhong ren\] dislike/hate \[e\],","It dwells in what the crowd loathes,",exact-count
 8,4,1,故幾於道。,gù jī yú dào.,therefore \[gu\] it is close/near \[ji\] to the Tao \[dao\].,and so is nearly the Tao.,exact-count
-8,5,2,居善地，,"Jū shàn dì,","In dwelling \[ju\], be good at the place/ground \[di\],","In settling, masterful at choosing ground.",exact-count
-8,6,2,心善淵，,"xīn shàn yuān,","in mind/heart \[xin\], be good at depth/abyss \[yuan\],","In the heart, masterful at staying deep.",exact-count
+8,5,2,居善地，,"Jū shàn dì,","In dwelling \[ju\], be good at the place/ground \[di\],","In settling, masterful at ground.",exact-count
+8,6,2,心善淵，,"xīn shàn yuān,","in mind/heart \[xin\], be good at depth/abyss \[yuan\],","In the heart, masterful at depth.",exact-count
 8,7,2,與善仁，,"yǔ shàn rén,","in giving/associating \[yu\], be good at humanity/benevolence \[ren\],","In giving, masterful at humaneness.",exact-count
 8,8,2,言善信，,"yán shàn xìn,","in speaking/words \[yan\], be good at trustworthiness/reliability \[xin\],","In speech, masterful at trust.",exact-count
 8,9,2,政善治，,"zhèng shàn zhì,","in governing \[zheng\], be good at order/management \[zhi\],","In government, masterful at order.",exact-count
@@ -141,7 +141,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 14,8,2,故混而為一。,Gù hùn ér wéi yī.,Therefore \[gu\] they blend/merge \[hun\] and \[er\] become \[wei\] one \[yi\].,So they mix into one.,authored
 14,9,3,其上不皦，,"Qí shàng bù jiǎo,","Its \[qi\] upper part/top \[shang\] is not \[bu\] bright/dazzling \[jiao\],","It doesn’t have a bright top,",authored
 14,10,3,其下不昧。,Qí xià bù mèi.,Its \[qi\] lower part/bottom \[xia\] is not \[bu\] dark/obscure \[mei\].,Or a murky bottom.,authored
-14,11,3,繩繩兮不可名，,"Shéng shéng xī bù kě míng,","Continuous/unbroken \[sheng sheng\] oh \[xi\]\! It cannot \[bu ke\] be named \[ming\],","Continuously flowing, it cannot be named",authored
+14,11,3,繩繩兮不可名，,"Shéng shéng xī bù kě míng,","Continuous/unbroken \[sheng sheng\] oh \[xi\]\! It cannot \[bu ke\] be named \[ming\],","Unbroken, it cannot be named",authored
 14,12,3,復歸於無物。,Fù guī yú wú wù.,It reverts/returns \[fu gui\] to \[yu\] nothingness/non-entity \[wu wu\].,And returns to no-thing.,authored
 14,13,4,是謂無狀之狀，,"Shì wèi wú zhuàng zhī zhuàng,","This \[shi\] is called \[wei\] the shape/form \[zhuang\] of no \[wu\] shape/form \[zhuang\],","This is called the shape of no-shape, the image of no-thing.",authored
 14,14,4,無物之象，,"Wú wù zhī xiàng,","The image/representation \[xiang\] of no \[wu\] entity/matter \[wu\],","This is called the shape of no-shape, the image of no-thing.",authored

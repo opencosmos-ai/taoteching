@@ -97,7 +97,7 @@ Four characters sit close enough to this one to cause real trouble, and two of t
 
 **"soul"** imports a separable, immortal thing the text does not have anywhere. Already refused for 精 on the same grounds.
 
-**"self"** is 我/吾's, and at chapter 7 it is also 私's. Put it on 身 and the four lines that make chapter 7's argument read *their selves endure… they have no private self… their private self is fulfilled* — three selves, two characters, and the distinction 王弼 spells out (無私者，**無為於身**也 — *"to have no 私 is to not-do with regard to the 身"*) becomes invisible. There is a second cost: *body* and *self* used by turns, physical line and interior line, performs in English exactly the division between the biological and the psychological that this tradition does not make. **Choosing between them chapter by chapter is not sensitivity to context. It is a dualism, imported and then attributed to the text.**
+**"self"** is 我/吾's, and at chapter 7 it is also 私's. Put it on 身 and the four lines that make chapter 7's argument read *their selves endure… they have no private self… they can fulfill their private self* — three selves, two characters, and the distinction 王弼 spells out (無私者，**無為於身**也 — *"to have no 私 is to not-do with regard to the 身"*) becomes invisible. There is a second cost: *body* and *self* used by turns, physical line and interior line, performs in English exactly the division between the biological and the psychological that this tradition does not make. **Choosing between them chapter by chapter is not sensitivity to context. It is a dualism, imported and then attributed to the text.**
 
 **"person"** is the right width and belongs to 人 (*rén*), which stands beside 身 in six of these nine chapters.
 
