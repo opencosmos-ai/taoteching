@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 127
+# next-fork-id: 128
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -1297,6 +1297,27 @@
     couplet about below and above. We keep 折: the chapter's argument is
     physical throughout (corpse, green stem, dry stick), and 兵 would repeat the
     character from the clause immediately before it.
+  logged: notes/manuscript.md
+
+- chapter: 77
+  id: 127
+  line: "有餘者損之，不足者補之"
+  base: "補"
+  base_pinyin: "bǔ"
+  base_english: "mend"
+  readings:
+    - { source: "heshanggong", text: "與", pinyin: "yǔ", english: "give to" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Heshang Gong's Song text lemmatises the bow line as 不足者與之, "what is
+    too little is given to," and has 𥙷 only in the law line, 損有餘而𥙷不足;
+    his gloss reads the image as 損強益弱, "diminishing the strong and
+    increasing the yielding." The Siku Wang Bi has a lacuna (□) in both
+    places. Our base reads 補 twice, so the image and the law share one verb,
+    and the verse follows it: "What is too little is mended" (Shalom's call,
+    2026-11-19). Recorded 2026-11-19 from the vendored Heshang Gong text; the
+    chapter note had said he reads 補 in both places, and is corrected.
   logged: notes/manuscript.md
 
 - chapter: 80

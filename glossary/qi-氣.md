@@ -91,7 +91,7 @@ Every witness reads 能嬰兒乎 (*néng yīng ér hū* — "can you be an infan
 > *It cries all day and never goes hoarse — this is harmony at its utmost.*
 > *Harmony is called the ever-present.*
 > *Knowing harmony is called clear-seeing.*
-> *To force life to increase is an ill omen.*
+> *Increasing life is called an ill omen.*
 > *When the heart drives the breath, that is called strong.*
 >
 > 終日號而不嗄，和之至也。

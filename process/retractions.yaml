@@ -265,3 +265,14 @@
     spared?" (Shalom's call, 2026-11-19).
   see: "chapters/062.md"
   allow: ["process/back-translation/*"]
+
+- id: ch77-heshanggong-bu-in-both-places
+  retracted: 2026-11-19
+  claim: >
+    Heshang Gong's text reads 補 in both of chapter 77's lines, so the Siku
+    Wang Bi's lacunae are transcription damage with no witness fork.
+  match: ["河上公 has 補/𥙷 in both places"]
+  correction: >
+    Heshang Gong's bow line reads 不足者與之, "is given to"; only his law line
+    has 𥙷. The fork is sources/variants.yaml id 127.
+  see: "chapters/077.md"

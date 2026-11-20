@@ -69,7 +69,7 @@ the apparatus.
 ## Two cautions that matter
 
 **`alignment_method` says how a pairing is known.** Our English verse lines and
-the Chinese source lines are 1:1 in 33 of 81 chapters (858 verse lines
+the Chinese source lines are 1:1 in 33 of 81 chapters (859 verse lines
 against 798 source lines). Where the counts match, `alignment_method` is
 `exact-count`. In the other 48, the chapter file carries its own `## Alignment`,
 written by hand from the literal glosses and checked whole by the build, and the

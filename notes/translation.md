@@ -2075,6 +2075,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's call.)* *(was: "Decreasing and decreasing.")* Ch 1's frame, 玄之又玄 *"Dark, and dark again,"* with 又 rendered. T3-17. `chapters/048.md`.
 
+### Ch 25, 30, 55, 77 · four more members brought into step
+
+*(2026-11-19, Shalom's calls.)* Ch 25 *"It stands alone and never changes. / It moves in a circle and is never in danger"* (was *"Solitary. Unchanging. / … never in danger"*); ch 30 強 ×3 in the lock's words, *force the world with arms*, *seize strength*, *without forcing* (was *dominate*, *dominance*, *excessive force*); ch 55 *"Increasing life is called an ill omen"*, the fourth *is called* (was *"To force life to increase…"*); ch 77 the bow takes the law's verbs, *taken from … mended* (was *drawn off … filled in*), with Heshang Gong's 與 recorded as fork 127. T3-18.
+
 ### Ch 10, 26, 49, 50 · four members brought into step
 
 *(2026-11-19, Shalom's calls.)* Ch 10 *"can you be undivided?"* (was *"can you keep these from parting?"*), the sixth *can you be*; ch 26 *"the heavy wagons"* (was *baggage*), 輜重's 重 answering line 1; ch 49 *"I trust too"* (was *as well*), 亦 alike in both stanzas; ch 50 *"Because in them there is no deadly ground"* (was *"they give death no foothold"*), answering line 4's 死地. T3-18.

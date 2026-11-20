@@ -614,6 +614,10 @@ Our base has 折 (*zhé* — to snap). **王弼's lemma has 兵** (*bīng* — w
 
 We keep 折. The chapter's engine is physical from the first line (a corpse, a green stem, a dry stick), and 折 is the physics; 兵 imports an agent. And 兵 would repeat the character from the clause immediately before it, 兵強則不勝, which reads as transmission rather than design. Logged because this is the fifth place our base departs from a reading in the Siku 王弼 (see Ch 2, 68, 69, 73, 74).
 
+### Ch 77 · 不足者補之 / 不足者與之 — mend, or give to
+
+Heshang Gong's text reads the bow line 不足者與之 (*bù zú zhě yǔ zhī* — "what is too little is given to"), with 與 (*yǔ* — to give) where our base has 補 (*bǔ* — to mend), and keeps 𥙷 in the law line. **We keep the base**: with 補 in both lines, the bow image and the law speak one verb, and the verse says so, *"What is too little is mended … and mends where there is too little"* (Shalom's call, 2026-11-19). Fork 127. The chapter note had claimed he reads 補 twice; corrected there, and registered in `process/retractions.yaml`.
+
 ### Ch 78 · 受國之垢 / 受國之訽 — grime, or reviling — and 柔 / 水, a second water
 
 *(2026-10-25, found writing `glossary/shui-水.md`.)* Two forks in the chapter's second half.

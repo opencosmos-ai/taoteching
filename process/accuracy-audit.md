@@ -65,7 +65,7 @@ This is logged (`notes/manuscript.md` → *Ch 55 · 全作 / 朘作* (*quán zu�
 **Lost:** 或 … 或 (*huò … huò* — some … some). An observation about *some* things becomes a law about *all* of them. The book already has English for this construction: ch 29's 或行或隨 (*huò xíng huò suí* — "some go ahead, some follow") reads *"some go ahead, some follow."*
 **Proposed:** *"For so it is with things: some are decreased and so increased, / some increased and so decreased."*
 
-**5 · Ch 30 · 果而勿強 (*guǒ ér wù qiáng* — "succeed, and do not force") → *"They succeed without using excessive force."***
+**5 · Ch 30 · 果而勿強 (*guǒ ér wù qiáng* — "succeed, and do not force") → *"They succeed without using excessive force."*** *(Done 2026-11-19, Shalom's call: "They succeed without forcing.")*
 **Added:** *excessive*. That word licenses force short of excess, and the line forbids force. `glossary/qiang-強.md` reads all three 強 (*qiáng* — strong / to force) in this chapter as force and dominance themselves (*"you do not strengthen a country by invading it"*), and quotes Heshang Gong on this very line: 果敢勿以為強兵堅甲以侵凌人也 (*guǒ gǎn wù yǐ wéi qiáng bīng jiān jiǎ yǐ qīn líng rén yě* — "succeed, but do not make strong troops and hard armor to trample people"). The form audit records the series as *Kept*, and it is, as form. The word *excessive* is not logged anywhere.
 **Proposed:** *"They succeed without forcing."* That keeps the series *They succeed without boasting … without bragging … without arrogance.*
 

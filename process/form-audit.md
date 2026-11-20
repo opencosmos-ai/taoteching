@@ -575,9 +575,9 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 > Next, those who are despised.
 
   The rungs are named by position, as 其次 (*qí cì* — the next) names them, and *leaders*, which has no character here (`notes/translation.md` → 王 (*wáng* — ruler)), goes. **Done 2026-11-19 (Shalom's call),** without *only*: *"The highest: those below know that they are there."*
-- **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops.
+- **25, 獨立而不改，周行而不殆 (*dú lì ér bù gǎi, zhōu xíng ér bù dài*) — resolve:** *"Silent. Empty. / It stands alone and never changes. / It moves in a circle and is never in danger, / and can be taken as the mother of the world."* 寂兮寥兮 (*jì xī liáo xī* — "silent! empty!") keeps its two full stops. **Done 2026-11-19 (Shalom's call).**
 - **26, 輜重 (*zī zhòng*) — resolve:** *"travels all day without leaving the heavy wagons."* *Heavy* comes back from line 1, which is why the noble keeps to them. **Done 2026-11-19 (Shalom's call).**
-- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*.
+- **30, 強 (*qiáng* — to force) ×3 — resolve,** to the lock's *forcing*: *"does not force the world with arms"*, *"succeeds and stops there, and never pushes on to take by force"*, *"They succeed without forcing."* *Never pushes on* is 不敢 (*bù gǎn*), locked to *push*. **Done 2026-11-19 (Shalom's call).**
 - **34, 而不為主 (*ér bù wéi zhǔ* — "and does not act as master") ×2 and 功成 (*gōng chéng* — "the work done") — resolve:**
 
 > The countless things rely on it to live, yet it refuses none.  
@@ -591,11 +591,11 @@ The rule is for the connective that opens a line; inside a sentence both may rea
 - **49, 亦 (*yì* — also) — resolve:** *"the untrustworthy, I trust too."* **Done 2026-11-19 (Shalom's call).**
 - **50, 無死地 (*wú sǐ dì* — "no deadly ground") — resolve:** *"Why? Because in them there is no deadly ground."* The chapter's last words answer its first stanza again. **Done 2026-11-19 (Shalom's call).**
 - **51, 道生之，德畜之 (*dào shēng zhī, dé xù zhī*) — resolve:** the second reads *"Thus, the Tao gives birth to them and integrity rears them,"* as the first does.
-- **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line.
+- **55, 益生曰祥 (*yì shēng yuē xiáng* — "increasing life is called ominous") — resolve:** *"Increasing life is called an ill omen."* The four 曰 (*yuē*) then all read *is called*, and *force*, which belongs to 強 (*qiáng*) two lines later, leaves this line. **Done 2026-11-19 (Shalom's call).**
 - **57, 我無▢ (*wǒ wú ▢*) ×3 — resolve:** *"I do not desire, and the people become uncarved of themselves."* *I do not do · I do not meddle · I do not desire*. The cost: 無欲 (*wú yù*) reads *desireless* at 1, 3 and 34. For *uncarved*, see T3-19.
 - **60, 不傷人 (*bù shāng rén* — "does not harm people") ×3 — resolve:** *"their potency does no harm to people, / not only does their potency do no harm to people, the sage, too, does no harm to people."* The chain then repeats word for word, as the Chinese does. **Done, 2026-11-19 (Shalom's call),** with R6's 非 and 神 → *spirit*: *does no harm to people* ×3 (`chapters/060.md`).
 - **65, 國之賊 / 國之福 (*guó zhī zéi / guó zhī fú*) — leave.** Recorded (`notes/translation.md` → *Ch 65*): *robs the state / is the state's good fortune* was built deliberately as the pair, on the way out of the overlay *blessing* for 福 (*fú* — good fortune).
-- **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs.
+- **77, 損 / 補 (*sǔn / bǔ*) — resolve:** *"What is too much is taken from. What is too little is mended."* 補 (*bǔ*) is *mends* by a recorded call (`chapters/077.md`), so the bow image takes the law's verbs. **Done 2026-11-19 (Shalom's call).**
 - **80, 相 (*xiāng* — each other) ×3 — leave.** Recorded at length (`notes/translation.md` → 不相往來 (*bù xiāng wǎng lái* — "do not go to and fro")): *never once go next door* names the motion and its destination, which *visit one another* did not.
 
 #### T3-19 · The book's images

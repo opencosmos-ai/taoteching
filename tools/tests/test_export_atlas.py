@@ -77,7 +77,8 @@ class ReaderKeys(unittest.TestCase):
         its counts differ and why the pairing has to be written by hand."""
         self.assertEqual(self.r["align"]["25.1"], [[1, 1.0, "authored"]])
         self.assertEqual(self.r["align"]["25.2"], [[1, 1.0, "authored"]])
-        self.assertEqual(self.r["align"]["25.19"], [[16, 1.0, "authored"]])
+        # 17 since 2026-11-19, when 獨立而不改 took its own English line
+        self.assertEqual(self.r["align"]["25.19"], [[17, 1.0, "authored"]])
 
     def test_chapter_six_pairs_its_gate_correctly(self):
         """The guess paired the gate of the dark female with "This is the dark

@@ -493,7 +493,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 25,2,先,Xiān,先 & 後,"ahead, or before in time",NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
 25,2,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Something mixed and complete, born before sky and earth."
-25,5,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"It moves in a circle, never in danger,"
+25,5,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"It moves in a circle and is never in danger,"
 25,6,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,and can be taken as the mother of the world.
 25,6,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,and can be taken as the mother of the world.
 25,6,母,mǔ,母,mother,yes,1.0,authored,and can be taken as the mother of the world.
@@ -630,20 +630,20 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 29,6,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"So among things, some go ahead, some follow;"
 29,8,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"some are strong, some are frail;"
 29,10,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage lets go of excess, lets go of extravagance, lets go of grandeur."
-30,1,道,dào,道,the Tao / way,yes,1.0,authored,One who supports a ruler with the Tao does not use military force to dominate the world.
-30,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not use military force to dominate the world.
-30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not use military force to dominate the world.
+30,1,道,dào,道,the Tao / way,yes,1.0,authored,One who supports a ruler with the Tao does not force the world with arms.
+30,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not force the world with arms.
+30,2,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,One who supports a ruler with the Tao does not force the world with arms.
 30,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Such undertakings tend to come back on you.
 30,4,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Where armies camp, thorns and brambles grow."
 30,5,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
 30,5,後,hòu,先 & 後,"behind, or after in time",NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
 30,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"After a big military campaign, a year of disaster follows."
-30,6,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,The masterful one halts after succeeding and never pushes on to seize dominance.
-30,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,The masterful one halts after succeeding and never pushes on to seize dominance.
-30,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,The masterful one halts after succeeding and never pushes on to seize dominance.
-30,7,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,The masterful one halts after succeeding and never pushes on to seize dominance.
-30,11,得,dé,得 & 失,get,yes,1.0,authored,They succeed because their actions are unavoidable. They succeed without using excessive force.
-30,12,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,They succeed because their actions are unavoidable. They succeed without using excessive force.
+30,6,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
+30,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
+30,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
+30,7,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,"The masterful one succeeds and stops there, and never pushes on to seize strength."
+30,11,得,dé,得 & 失,get,yes,1.0,authored,They succeed because their actions are unavoidable. They succeed without forcing.
+30,12,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,They succeed because their actions are unavoidable. They succeed without forcing.
 30,13,物,Wù,萬物,things / something,yes,1.0,authored,"When things reach their prime, they decay."
 30,14,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,This is called not-Tao. Not-Tao comes to an early end.
 30,15,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,This is called not-Tao. Not-Tao comes to an early end.
@@ -1166,10 +1166,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
 55,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
 55,6,明,míng,明,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",yes,1.0,authored,Harmony is called the ever-present. Knowing harmony is called clear-seeing.
-55,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"To force life to increase is an ill omen. When the heart drives the breath, that is called strong."
-55,7,心,Xīn,心,heart,yes,1.0,authored,"To force life to increase is an ill omen. When the heart drives the breath, that is called strong."
-55,7,氣,qì,氣,breath,yes,1.0,authored,"To force life to increase is an ill omen. When the heart drives the breath, that is called strong."
-55,7,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"To force life to increase is an ill omen. When the heart drives the breath, that is called strong."
+55,7,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,authored,"Increasing life is called an ill omen. When the heart drives the breath, that is called strong."
+55,7,心,Xīn,心,heart,yes,1.0,authored,"Increasing life is called an ill omen. When the heart drives the breath, that is called strong."
+55,7,氣,qì,氣,breath,yes,1.0,authored,"Increasing life is called an ill omen. When the heart drives the breath, that is called strong."
+55,7,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"Increasing life is called an ill omen. When the heart drives the breath, that is called strong."
 55,8,物,Wù,萬物,things / something,yes,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
 55,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
 55,8,道,dào,道,the Tao / way,NOT FOUND,1.0,authored,"When things reach their prime, they decay. This is called not-Tao. Not-Tao comes to an early end."
@@ -1592,7 +1592,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 76,6,柔,róu,柔,soft,yes,1.0,authored,The strong and the big dwell below. The soft and the yielding dwell above.
 77,1,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,The way of nature: is it not like stringing a bow?
 77,1,道,dào,道,the Tao / way,yes,1.0,authored,The way of nature: is it not like stringing a bow?
-77,3,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,What is too much is drawn off. What is too little is filled in.
+77,3,有,Yǒu,無 & 有,presence,NOT FOUND,1.0,authored,What is too much is taken from. What is too little is mended.
 77,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,The way of nature takes from where there is too much and mends where there is too little.
 77,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,The way of nature takes from where there is too much and mends where there is too little.
 77,4,道,dào,道,the Tao / way,yes,1.0,authored,The way of nature takes from where there is too much and mends where there is too little.
