@@ -14,9 +14,9 @@
 
 **The relevance queue is empty.** Its last term, 君 (*jūn* — ruler), locked 2026-11-20 (`glossary/jun-君.md`), and moved 王 (*wáng*) to *sovereign* on the way; 主 (*zhǔ*) followed as *master*, and *lord* left the book (Shalom's calls). **The entries still owed now live in their own rows**, and the next round takes them by how much meaning each one holds open:
 
-1. The last entry row: **T2-32 · 口 (*kǒu* — mouth)**. One entry at a time with `process/skills/glossary-entry`; before each, run `concordance.py` on the character, since *covered* means it already has a home.
-2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
-3. **T5-29** — record the day's relocks (王, 君, 主, 公) on the I Ching side, a PR in that repository.
+1. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
+2. **T5-29** — record the day's relocks (王, 君, 主, 公) on the I Ching side, a PR in that repository.
+3. **The entry rows that remain are bigger or wait on evidence:** T2-24 (淵 (*yuān* — deep water) at 4 and 8), T2-48 (大 (*dà* — great)'s flexions), T2-50 (制 / 斫, the carving words), T2-65 (行 (*xíng*)'s three questions), T2-66 and T2-79 (witnesses to verify), T2-70 (126 literal glosses), T2-78 (the atlas's part glosses), T4-9 (entries brought to the template).
 
 **Waiting on Shalom:** R6's minor table (`process/back-translation-audit.md`), and T2-91's two 成 (*chéng* — complete) calls. The form audit (R4) and the accuracy audit (R5) are done.
 
@@ -26,7 +26,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **39 item rows: 35 open · 0 done · 4 part done · 0 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **38 item rows: 34 open · 0 done · 4 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -37,7 +37,6 @@
 | | | **Tier 1 · Wrong, not merely inconsistent** — the meaning changed; most need one line rewritten, so each goes to Shalom first | | |
 | | | **Tier 2 · One character, many Englishes** | | |
 | T2-24 | 🔶 | **淵** (*yuān* — deep water) — ch 36 reads **deep water** (說文 回水也…左右，岸也: circling water, banks left and right). Open: whether ch 4's *fathomless* and ch 8's *staying deep* (心善淵) join it. *pool* rejected as chlorinated; *the depths* fails the pointing test | 4 8 | E |
-| T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |
 | T2-50 | ⬜ | **Two characters now share the "carv-" root** — 制 (28, 32) and 斫 (*zhuó* — to hew) at ch 74, 代大匠斫 → *"those who carve in place of the master carpenter."* They never share a chapter, so no check fires; but 斫 is axe-work where 制 is a fitted cut | 28 32 74 | E |
 | T2-62 | ⬜ | **Smaller findings from the word-gloss pass**, each needing a look, none urgent. **伐** (*fá*) is *claim the work* at 22, 24 but *bragging* at 30 · **惚恍** shares one word (*the elusive*) at 14 where 21 splits it (*elusive / vague*) · **少 / 寡** both *diminish* in one line at 19 · **必固** reads *must first* ×4 at 36 (固 as 姑 *for now*; the literal has *firmly*) · **為天下正 / 為天下貞** take two shapes at 45 and 39 · **夸** at 53 and **晚** at 41 follow variants (recorded; the glosses describe the base graph) · **筋** (*jīn* — 說文 肉之力也, *the strength of the flesh*; sinew) reads *muscles* at 55 · characters absorbed by paraphrase: 容 (21, 50), 發 (12), 立 (25), 甚 (53), 詰 (14), 至 (65, 80), 拱 (62), 含 (55) · **有** (*yǒu* — to have)'s transitive uses beyond 有道者 (*yǒu dào zhě* — "those who have the Tao") are unchecked · **want** (`glossary/yu-欲.md`) renders 求 (*qiú* — to seek) at ch 75, *"those over them want their own lives so rich,"* two characters sharing an English no rule can see | 12 14 19 21 25 36 39 41 45 50 53 55 62 65 80 75 | E |

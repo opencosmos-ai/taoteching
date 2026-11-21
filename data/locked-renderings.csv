@@ -242,7 +242,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 11,11,用,yòng,無 & 有,use,yes,1.0,exact-count,and absence gives the use.
 12,1,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five colors make people's eyes blind.
 12,2,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five tones make people's ears deaf.
-12,3,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five flavors make people's palates dull.
+12,3,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five flavors make people's mouths dull.
+12,3,口,kǒu,口,mouth,yes,1.0,authored,The five flavors make people's mouths dull.
 12,5,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,Galloping in pursuit of prey makes people's hearts wild.
 12,5,心,xīn,心,heart,yes,1.0,authored,Galloping in pursuit of prey makes people's hearts wild.
 12,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,Rare goods hinder people's conduct.
@@ -807,6 +808,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 35,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,2,害,hài,利,harm,yes,1.0,exact-count,"It comes unharmed, at rest, and utterly even."
+35,4,口,kǒu,口,mouth,yes,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,4,道,Dào,道,the Tao / way,yes,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,Look at it. There is not enough to see.

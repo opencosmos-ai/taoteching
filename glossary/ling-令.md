@@ -60,7 +60,7 @@ refs:
 
 > *The five colors make people's eyes blind.*
 > *The five tones make people's ears deaf.*
-> *The five flavors make people's palates dull.*
+> *The five flavors make people's mouths dull.*
 >
 > 五色令人目盲；
 > 五音令人耳聾；

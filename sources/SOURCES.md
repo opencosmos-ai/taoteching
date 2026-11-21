@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 234 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 105 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 106 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -222,6 +222,8 @@ Stored in this repository.
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 61, the rooster restless and the hen still
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, the heavy as root and the still as ruler; losing the ruler is losing the ruler's seat
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, the ruler is the master of the countless things
+- [Glossary · kou](<../glossary/kou-%E5%8F%A3.md>) · Chapter 12, shuang is to err and lose: losing the use of the mouth
+- [Glossary · kou](<../glossary/kou-%E5%8F%A3.md>) · Chapter 35, the Tao's coming out in words is bland, without flavor
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 11, presence is what gives benefit, and all rely on absence for use
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 19, skill and benefit are the best of use
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 56, whatever can be benefited can be harmed
@@ -328,6 +330,8 @@ Stored in this repository.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, a ruler who is not still loses authority; the master of ten thousand chariots is a king; the restless king loses their ruler's seat
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 31, the way of arms and the way of the noble are opposed
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, affairs have ruler and minister
+- [Glossary · kou](<../glossary/kou-%E5%8F%A3.md>) · Chapter 12, indulge the five flavors in the mouth and the mouth is lost: it loses the taste of the Tao
+- [Glossary · kou](<../glossary/kou-%E5%8F%A3.md>) · Chapter 35, the Tao goes out and in at the mouth, bland, not like the five flavors
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 11, benefit means things; benefit lies in the use of the form
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 19, the people benefit: the farming is in order; abandoning benefit blocks the road of greed and closes the gate of power
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 56, not wanting wealth and rank; not contending with the greedy for benefit
@@ -446,6 +450,7 @@ Stored in this repository.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · King radical, entry for wang (that to which the world returns and goes)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Minister radical, entry for chen (one who serves the ruler, a figure bowed in submission)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Mouth radical, entry for jun (honored; from the governor, and from the mouth because it issues commands)
+- [Glossary · kou](<../glossary/kou-%E5%8F%A3.md>) · Mouth radical, entry for kou (what a person speaks and eats with; a pictograph)
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Knife radical, entry for li (sharp; from the knife, and from harmony abbreviated)
 - [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Roof radical, entry for hai (to injure; from roof and mouth, words that arise from the household; feng for sound)
 - [Glossary · ling](<../glossary/ling-%E4%BB%A4.md>) · Mouth radical, entry for ming (to send; from the mouth and ling)

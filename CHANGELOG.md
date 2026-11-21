@@ -31,7 +31,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-11-20 — Eighteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
+## 2026-11-20 — Nineteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
 
@@ -49,6 +49,7 @@ A day of Shalom's calls, one at a time with each stanza in place, through PRs #9
 - **益 (*yì*) *increase · abundance*.** [`glossary/yi-益.md`](glossary/yi-益.md): water above a vessel's rim, the Shuowen's *plenty*. Ch 43 *"the abundance of non-doing"* (was *benefit*), Shalom's call; *increase* beside 損 at 42, 48, 55. T2-94 closed.
 - **志 (*zhì*) *will*.** [`glossary/zhi-志.md`](glossary/zhi-志.md): ch 3 *"teaching their will to yield"* (was *ambition*), ch 33 *"has will"* (was *purpose*), ch 31 *"cannot achieve their aims in the world"* (was *get their will*); 得 takes *achieve* at 31. T2-7 closed.
 - **私 (*sī*) *the private self*.** [`glossary/si-私.md`](glossary/si-私.md), out of 公's covers: ch 19 *"diminish the private self, diminish desire"* (was *the self*). T2-17 closed.
+- **口 (*kǒu*) *mouth*.** [`glossary/kou-口.md`](glossary/kou-口.md): ch 12 *"The five flavors make people's mouths dull"* (was *palates*). T2-32 closed, the last of the round's entry rows.
 - **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
 
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked

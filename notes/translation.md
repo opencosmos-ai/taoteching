@@ -536,6 +536,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **Ch 19's *the self* borrowed the lock of 我吾 (*wǒ wú*)**, in a chapter that holds neither, and lost the curl 私 is: the self that encircles itself (Han Fei). Now *"diminish the private self, diminish desire,"* with ch 7's *no private self* and *complete their private self*. Heshang Gong ties the chapters together: 少私者，正無私也 (*"to diminish the private self is precisely to have no private self"*). 私 moves out of 公's covers into its own entry. Cost: the close's even rhythm.
 
+### Ch 12 · 口 → "mouths", and the series names each organ whole
+
+*2026-11-20, Shalom's call. `glossary/kou-口.md`.* *(was: "palates dull.")*
+
+**口 (*kǒu*) is the Shuowen's 人所以言食也 (*"what a person speaks and eats with"*).** Ch 12's series now reads *eyes, ears, mouths, hearts*, each organ whole, where *palate* named only the tasting part and picked eating over speech. 口 reads *mouth* in both its lines, and Heshang Gong ties them: indulge the five flavors in the mouth and it loses the taste of the Tao (人嗜五味於口則口亡，言失於道味也), the Tao *bland in the mouth* at ch 35. Cost: *palates dull* was the more exact English.
+
 ## Chapter notes
 
 ### Ch 1
@@ -2942,7 +2948,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 **道之出口 → *The Tao is bland in the mouth*** *(was: "Attempt to speak the Tao.")* — *"attempt to"* was supplied, and a first replacement, *"the Tao comes out of the mouth,"* was rejected by Shalom as reading like expulsion. It was: 出 is 說文 進也。象艸木益滋，上出達也 — *"to advance; it pictures grass and trees growing ever more abundantly, pushing up and out to the top."* A sprout, not a discharge.
 
-**口 (*kǒu* — mouth) occurs exactly twice in the book, ch 12 and ch 35, both times in a line about taste — and the word *mouth* had appeared zero times in our English.** Ch 12 renders it *palate*, which quietly picks eating and drops speech. Ch 35 is the one place 口 cannot be allowed to pick, because what passes it is the Tao, and the commentators split on the direction: 王弼 rewrites 出口 as 出言 (*"coming out in words"*), while 河上公 keeps the organ and doubles it — 道出入於口，淡淡非如五味有酸鹹苦甘辛也, *"the Tao goes out at the mouth and in at the mouth; bland, bland, not like the five flavours, which have sour, salty, bitter, sweet, pungent."* ***In the mouth*** leaves that fork open, is ordinary English for speech and for taste both, and gives 口 its first actual mouth in this book. *"Spoken aloud"* was the runner-up and was declined because it settles the fork on 王弼's side.
+**口 (*kǒu* — mouth) occurs exactly twice in the book, ch 12 and ch 35, both times in a line about taste — and the word *mouth* had appeared zero times in our English.** Ch 12 renders it *palate*, which quietly picks eating and drops speech. *(Ch 12 reads* mouths *since 2026-11-20, Shalom's call: `glossary/kou-口.md`.)* Ch 35 is the one place 口 cannot be allowed to pick, because what passes it is the Tao, and the commentators split on the direction: 王弼 rewrites 出口 as 出言 (*"coming out in words"*), while 河上公 keeps the organ and doubles it — 道出入於口，淡淡非如五味有酸鹹苦甘辛也, *"the Tao goes out at the mouth and in at the mouth; bland, bland, not like the five flavours, which have sour, salty, bitter, sweet, pungent."* ***In the mouth*** leaves that fork open, is ordinary English for speech and for taste both, and gives 口 its first actual mouth in this book. *"Spoken aloud"* was the runner-up and was declined because it settles the fork on 王弼's side.
 
 **Word order, Shalom's call:** *"The Tao **is bland in the mouth**"* over *"The Tao **in the mouth** is bland."* The three lines beneath it all take the Tao itself as object — 視之／聽之／用之, *look at it / listen to it / use it* — so the lack is predicated of the Tao and the organ is only where you meet it. The restrictive order would have set the line apart from the three it belongs with. **Mouth, eye, ear: three organs, three helpings of nothing.**
 
