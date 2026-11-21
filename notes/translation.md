@@ -356,7 +356,7 @@ ch 52   This is called holding the ever-present covered.
 
 **畏 flexes here, and the flexion is recorded rather than left implicit.** 畏 (*wèi*) reads **fear** in six other lines (17, 20, 53, 72, 74 ×2), always fear *of a thing* — authority, death, what people fear. Here the construction is different: 河上公's 畏四鄰**知之** is fear *that they will find out*, social exposure rather than a threat. English *"fearing the neighbors"* names them as the danger; *"wary of"* keeps the watching. 畏 has no entry yet and this is the line that will decide its shape.
 
-**殆 has no glossary entry**, so *danger* is correct across the book but unenforced. Owed.
+**殆 has no glossary entry**, so *danger* is correct across the book but unenforced. Owed. *(Superseded 2026-11-20: `glossary/dai-殆.md` locks it, and `glossary/wei-畏.md` locks 畏, with* wary *at 15 as the flexion this note foresaw.)*
 
 ### Ch 4, 56 · 挫其銳，解其紛，和其光，同其塵 — the nouns unified, the subject deferred
 
@@ -487,6 +487,66 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 **One finding was withdrawn: 29's *sacred vessel*.** It is argued in `notes/reading.md` (a 神器 is a ritual bronze), and *sacred* is not on the overlay watchlist. It waits for the 神/靈 entry (T2-37).
 
 **What the pass shows about method.** A character the verse drops cannot be caught by any lock, because every lock keys off a character to judge the English. Reading each character against its line is the only check for that. Here it was done for 462 characters at once, as a side effect of glossing them.
+
+### Ch 26 … 78 · 君 → "ruler", 王 → "sovereign", 侯王 → "nobles and sovereigns"
+
+*2026-11-20, Shalom's calls. `glossary/jun-君.md`, `glossary/wang-王.md`.* *(was:* ruler *for both 君 and 王;* rulers *for 侯王;* rule the hundred valleys *at 66.)*
+
+**Two characters had one English, and the book keeps them apart.** 王 (*wáng*) is the title at the top, and always stands with 天下 (*tiān xià* — the world), the cosmic ladder, or a rank-pair; the Shuowen defines it 天下所歸往也 (*"that to which the world returns and goes"*), and chapters 35, 66 and 78 act that out. 君 (*jūn*) is always the ruler *of* something (26, 70), never of the world. The *Hanshi waizhuan*, juan 5, sets them side by side: 君者…群也 (*"the 君 is the flock"*) and 王者…往也。天下往之謂之王 (*"the 王 is the going-to: what the world goes to is called 王"*). Shalom asked why Laozi used two characters, and which fits *ruler*; *ruler* names a relation, so it went to 君.
+
+**王 → *sovereign*, its own second word**, keeping the summit so that chapter 66's paradox, sovereign because below, has something to turn. *Head of state* (a constitutional office, below 天下) and *leader* (長's forbidden word, and going first) were weighed and declined. **侯王 → *nobles and sovereigns*** (Shalom's word over *lords*, which is male only): two ranks, and the Shuowen's 侯 entry puts the 侯 at the 王's court. Costs: *noble* is also 君子's (26, 31), and *nobles* now stands three times in ch 39, where 貴's *noble* was removed in September. **Ch 66 → *be sovereign of***: 為 (*wéi* — to be) with the noun, a title become, not a verb. Nine lines in chapters 32, 37, 39, 42, 66 and 78.
+
+**Then 主 (*zhǔ*) and 公 (*gōng*), the same day, line by line.** *Lord* is male only (Shalom), so it left the book. 主, the flame at a lamp's center, the master of a house, takes ***master*** at 26 (*"the master of ten thousand chariots"*, was *lord*) and 34, ***ruler*** at 30 (人主, shared with 君 by flexion, which keeps it clear of 善's *the masterful one* four lines on), *host* at 69 and *keeper* at 78. 君 keeps *ruler* at 26 and 70, so ch 26 holds 君 and 主 apart, as both commentators' reading of 躁則失君 needs. 公 at 42's 王公 → ***sovereigns and nobles*** (was *lords*), the mirror of 39's 侯王. `glossary/zhu-主.md`, `glossary/gong-公.md`.
+
+### Ch 17, 23, 53, 77 · 不足 → "not enough", 有餘 → "more than enough", in every line
+
+*2026-11-20, Shalom's calls. `glossary/zu-足.md`.* *(was: "Where trust runs short" at 17 and 23; "too much / too little" in three of ch 77's lines and "more than enough" in its fourth.)*
+
+**One compound, one English, and the book's *enough* runs unbroken.** 不足 (*bù zú*) now reads *not enough* in all its lines (17, 19, 23, 35, 41, 77), and its partner 有餘 (*yǒu yú*) *more than enough* in all five of its own at 20 and 77. Ch 77 is 知足 (*zhī zú* — knowing you have enough) made cosmic: nature takes from more than enough and mends what is not enough, and Heshang Gong's gloss on the last question keeps the same pair (天下不足者, *"those in the world who do not have enough"*). Chs 17 and 23 take **Shalom's line, *"Where there is not enough trust, there is no trust"***: each clause opens on *there is*, as the Chinese closes each on 焉 (*yān* — there), and *short* stays 寡 (*guǎ* — few)'s at ch 63. Cost: *too much / too little* was crisper, and *runs short* had motion.
+
+**Then 餘 (*yú*), line by line, the same day.** Ch 53's 財貨有餘 → *"more than enough wealth and goods"* (was *excess*, a verdict the scene should pass; Heshang Gong glosses it 無足時, *"never a time of enough"*), so 有餘 reads one way in all six lines. Ch 54 keeps *abundant* and ch 79 *remains*, as flexions (Shalom's calls). `glossary/yu-餘.md`.
+
+### Ch 11, 19 · 利 → "benefit", in every line but the sword
+
+*2026-11-20, Shalom's calls. `glossary/li-利.md`.* *(was: "advantage" at 11; "abandon profit" at 19, his call of the day before.)*
+
+**利 (*lì*) is a harvest in the graph, and the book's 利 is given**: by water (8), by nature (81), set against 害 (*hài* — harm) as one scale (56, 73, 81). Ch 11's couplet now reads *"So presence gives the benefit, and absence gives the use"* (Wang Bi: 有之所以為利). **Ch 19 prints 利 twice**, and the English now does too: abandon benefit, and the people benefit a hundredfold. Wang Bi calls skill and benefit 用之善 (*"the best of use"*), a good given up; *profit* had taken Heshang Gong's greed into the word. 利器 keeps *beneficial tools* (36, 57) and 利劍 *sharp swords* (53). Found: 益 (*yì* — increase) wears *benefit* at ch 43 (T2-94); and 無有's entry claimed 利 had *"no independent life in the book"*, corrected and registered.
+
+### Ch 32, 51, 57 · 令 and 命 → "command", one act in one frame
+
+*2026-11-20, Shalom's calls. `glossary/ling-令.md`, `glossary/ming-命.md`.* *(was: "laws" at 57.)*
+
+**令 (*lìng*) and 命 (*mìng*) were one graph in the oracle bones**, and the book sets them in the identical frame 莫之X而 at 32 and 51. Both now read *commands*, and the 命 entry's argument that 51 must not share it is set aside: Wang Bi reads 32 as 不令而自均 (*"with no one commanding"*), Heshang Gong reads 51 as 不命召萬物 (*"does not command or summon"*). The 爵 (*jué* — confer a rank) reading at 51 is recorded and declined. **Ch 57's 法令 → *laws and commands*** (was *laws*), so 令 keeps its word wherever it is an order; Heshang Gong's 法物 (*fine things*) is fork 129. 令's causative (12, 19) stays *make*. 命 locks as *what is given*, with *command* its flexion at 51.
+
+### Ch 43 · 無為之益 → "the abundance of non-doing"
+
+*2026-11-20, Shalom's call. `glossary/yi-益.md`.* *(was: "the benefit of non-doing", twice.)*
+
+**益 (*yì*) is water above a vessel's rim, and the Shuowen glosses it 饒 (*ráo* — plenty).** Shalom asked whether the picture is not abundance, and it is: the same gloss the dictionary gives 餘 (*yú*). *Abundance* keeps the overflowing vessel, carries Heshang Gong's 有益於人 (*"beneficial to people"*), since an overflow goes out to others, and gives *benefit* back to 利 (*lì*). Ch 42, 48 and 55 keep *increase*, the process paired with 損 (*sǔn* — decrease). Cost: the 42–43 seam, where 益 ends one chapter and opens the next, is heard as a link, not as one word.
+
+### Ch 3, 31, 33 · 志 → "will", the heart's drive; "aims" where it is reached
+
+*2026-11-20, Shalom's calls. `glossary/zhi-志.md`.* *(was: "ambition" at 3, his call of 2026-11-02; "get their will" at 31; "has purpose" at 33, his call of 2026-10-30.)*
+
+**The book yields 志 at ch 3 and praises having it at ch 33**, and only one word lets a reader see that a yielded will is not no will: *"teaching their will to yield"*, *"One who walks with strength has will."* Wang Bi links them (心虛則志弱 at 3; 其志必獲 at 33). **At ch 31 Shalom heard *"get their will"* as wrong: will is the drive, not the result.** 得志 is the idiom for an aim reached, so *"cannot achieve their aims in the world"*, with 得 (*dé*) taking *achieve* as a flexion. *Have their way* and *what they want* were declined as 道's and 欲's words. Cost: ch 33's *has will* is stiffer than *has purpose*.
+
+### Ch 7, 19 · 私 → "the private self", in all three lines
+
+*2026-11-20, Shalom's call. `glossary/si-私.md`.* *(was: "diminish the self" at 19.)*
+
+**Ch 19's *the self* borrowed the lock of 我吾 (*wǒ wú*)**, in a chapter that holds neither, and lost the curl 私 is: the self that encircles itself (Han Fei). Now *"diminish the private self, diminish desire,"* with ch 7's *no private self* and *their private self can be completed*. Heshang Gong ties the chapters together: 少私者，正無私也 (*"to diminish the private self is precisely to have no private self"*). 私 moves out of 公's covers into its own entry. Cost: the close's even rhythm.
+
+### Ch 12 · 口 → "mouths", and the series names each organ whole
+
+*2026-11-20, Shalom's call. `glossary/kou-口.md`.* *(was: "palates dull.")*
+
+**口 (*kǒu*) is the Shuowen's 人所以言食也 (*"what a person speaks and eats with"*).** Ch 12's series now reads *eyes, ears, mouths, hearts*, each organ whole, where *palate* named only the tasting part and picked eating over speech. 口 reads *mouth* in both its lines, and Heshang Gong ties them: indulge the five flavors in the mouth and it loses the taste of the Tao (人嗜五味於口則口亡，言失於道味也), the Tao *bland in the mouth* at ch 35. Cost: *palates dull* was the more exact English.
+
+### Ch 7, 47 · 成's last two calls: one voice for the frame, *completes* at 47
+
+*2026-11-20, Shalom's calls, closing `WORKLIST.md` T2-91. `glossary/cheng-成.md`.* *(was: "And so they can complete their private self" at 7; "and accomplishes without acting" at 47.)*
+
+**Ch 47 → *"and completes without acting"***, so 成 reads *complete* in every line. *Accomplish* was an achievement word; Wang Bi reads 使之成 (*"lets them come to completion"*). **The frame 故能成其X reads passive in all three lines**, ch 7 *"And so their private self can be completed,"* as 34 and 63 read by Shalom's call of 2026-11-19. The passive is the book's completing, which has almost no doer, and at 34 it keeps the Tao from completing the greatness it never makes. Heshang Gong at 7: 己自厚 (*"the self thickens of itself"*). Cost: the active paradox at 7, and the doer R5 restored.
 
 ## Chapter notes
 
@@ -805,6 +865,8 @@ It also brackets the chapter on its keyword: it opens *"Bend, and stay whole"* a
 ### Ch 23
 
 #### 信不足焉，有不信焉 → "Where trust runs short, there is no trust" — ch 17 and ch 23 alike
+
+*(Superseded 2026-11-20, Shalom's line: "Where there is not enough trust, there is no trust," both chapters, so that 不足 reads* not enough *everywhere and* short *stays 寡's. `glossary/zu-足.md`. The reasoning below on the agentless shape stands.)*
 
 *(**Resolved 2026-08-30, Pass C, `WORKLIST.md` T2-14.** This section previously argued for a deliberate divergence and was marked "⟡ Flagged for the editing pass." This is that pass, and **the divergence does not survive it.** Ch 17 read *"When leaders don't trust the people, no one trusts the leaders"*; ch 23 read *"Where trust is withheld, trust is withheld in return."* Both are gone, and ch 23's `lock-ok` waiver with them. What the split got right is kept below.)*
 
@@ -1446,6 +1508,8 @@ The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The ren
 | 42 | 王公 | **kings** and lords | **rulers and lords** |
 | 66 | 百谷王 ×2 | **king** of the hundred valleys | **rule** the hundred valleys |
 
+*(The* now *column was superseded on 2026-11-20: 侯王 → nobles and sovereigns, 王公 → sovereigns and lords, ch 66 → be sovereign of. See* Ch 26 … 78 · 君 → "ruler", 王 → "sovereign" *under Cross-chapter decisions, above.)*
+
 **The principle: 王 carries no gender and English *king* cannot shed one.** Chinese nouns have no grammatical gender and the graph is an axe-head, not a person. So *king* does not translate a gender; it adds one — and seats it on a throne in eight chapters that define authority by lowness.
 
 **Ch 66 takes the verb.** 王 works verbally in classical Chinese (*wàng* — to reign over), and 能為百谷王 accepts it: *rivers and seas can **rule** the hundred valleys.* The verb keeps the power and seats nobody. Shalom's line.
@@ -1457,6 +1521,8 @@ The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The ren
 **Left open, and proposed rather than applied: Ch 25's "the aligned human."** 傅奕 and 范應元 read 人 (*rén* — human) where the received text and every excavated witness read 王, and our verse follows them on internal grounds (人法地). But it renders bare 人 as *the aligned human*, and nothing in the Chinese licenses *aligned*. The qualifier does in miniature what the throne did in full: it decides which humans are among the four great things. `DISCOVERIES.md` §1 rests on the line reading simply **the human**. Recommended deletion; a different character from 王 and Shalom's own word, so it waits on him.
 
 ### Ch 66 · 百谷王 → "rule the hundred valleys"
+
+*(Superseded 2026-11-20, Shalom's call: 王 now reads* sovereign *in every line, and ch 66* be sovereign of the hundred valleys*. See* Ch 26 … 78 · 君 → "ruler", 王 → "sovereign" *under Cross-chapter decisions, above, and `glossary/wang-王.md`. The water argument here stands.)*
 
 Two further reasons beyond the gender, both about this chapter specifically.
 
@@ -1919,7 +1985,7 @@ Keeping **here** also holds the chapter inside the 以此 thread that closes cha
 
 **"Suppose", not "if you make".** 若使民常畏死 is a hypothetical the chapter exists to demolish, and a flat *"if you make the people fear death"* reads as a recommendation. 河上公 is unambiguous that it is a rebuke: 老子傷時王不先道德化之而先刑罰 — *"Laozi grieves that the rulers of his time did not first transform them with the Tao and integrity, but put punishment first."* The whole second stanza is a seduction, and the third takes the axe out of the ruler's hand.
 
-**畏 and 懼 are two different fears, and the line is built on the difference.** 畏 (*wèi*) is a spirit-figure holding a staff — standing dread of a power that can strike. 懼 (*jù*) is 忄 (heart) beside 瞿, the wide stare of a startled bird — the jolt. So 民不畏死，奈何以死懼之 is *"when the people carry no dread of death, how will you startle them with it?"* We render **fear** and **frighten**, which keeps the state-and-act distinction in ordinary English. And note Ch 72 opens on the same verb and the same construction — 民不畏威, *"when the people no longer fear authority"* — with 威 (*wēi* — authority) being 畏 with 女 beneath it. **72 and 74 are the same sentence twice**: first they stop dreading your power, then they stop dreading death, and after that you have nothing left to hold over them.
+**畏 and 懼 are two different fears, and the line is built on the difference.** 畏 (*wèi*) is a spirit-figure holding a staff — standing dread of a power that can strike. 懼 (*jù*) is 忄 (heart) beside 瞿, the wide stare of a startled bird — the jolt. So 民不畏死，奈何以死懼之 is *"when the people carry no dread of death, how will you startle them with it?"* We render **fear** and **frighten**, which keeps the state-and-act distinction in ordinary English. And note Ch 72 opens on the same verb and the same construction — 民不畏威, *"when the people no longer fear authority"* — with 威 (*wēi* — authority) the same word by sound: Old Chinese *ʔuj against 畏's *ʔuj-s (Baxter and Sagart, via Dong Chinese). *(Corrected 2026-11-20: this said 威 was 畏 with 女 beneath it. The graph is 女 (nǚ — woman) and 戌 (xū — an axe), as the ch 72 note above says; the kinship is in the sound, not the graph. `glossary/wei-畏.md`.)* **72 and 74 are the same sentence twice**: first they stop dreading your power, then they stop dreading death, and after that you have nothing left to hold over them.
 
 **"master carpenter", lowercase — and 斫 belongs in the third line, not the second.** 匠 (*jiàng*) is 斤, an axe, inside 匚, a tool-chest — the graph is literally an axe put away in its box, which is the chapter's argument in one character. We keep the craft concrete ("carve", "cut their own hand") rather than abstracting to *"presume to do the work of a master"*, because the injury at the end is a real blade in a real hand.
 
@@ -2064,6 +2130,8 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 *Taking credit* also makes the chapter repeat itself: 其不欲見賢 **is** the credit clause. Read as *not staying*, the three verbs move instead of circling — they act, they do not remain in what they did, they do not want to be seen for it. And 功成 is impersonal: the work completes. Not "they complete their work."
 
 ### Ch 77 · 有餘 / 不足 kept plain, and kept identical across both stanzas
+
+*(Superseded 2026-11-20, Shalom's call: the pair reads* more than enough / not enough *in every line. The chapter had rendered 有餘 two ways, and this note had missed the third stanza. The case against* excess / deficiency *stands. `glossary/zu-足.md`.)*
 
 *Excess* and *deficiency* were considered and set aside. They are the abstraction drift the overlay watchlist names — clinical register for the plainest Chinese in the chapter — and 補 as *supplement* loses the patched garment entirely.
 
@@ -2842,7 +2910,7 @@ Repairing the link removed three imports in one move: **create** (生 *shēng*'s
 
 ### Ch 33 · the four couplets on one grammar
 
-*(2026-10-30, Shalom's call.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose*, and the close turns on two verbs, *endures / lives long*. Couplets 1 and 2 rank, and 3 and 4 praise. 死而不亡 (*sǐ ér bù wáng* — "dies but is not gone") → *dies but does not vanish*. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
+*(2026-10-30, Shalom's call. Its* has purpose *became* has will *on 2026-11-20: `glossary/zhi-志.md`.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose*, and the close turns on two verbs, *endures / lives long*. Couplets 1 and 2 rank, and 3 and 4 praise. 死而不亡 (*sǐ ér bù wáng* — "dies but is not gone") → *dies but does not vanish*. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
 
 ## Ch 35 · the whole chapter — one argument, cut in half and mystified
 
@@ -2886,7 +2954,7 @@ So the music-and-food line is not an aside about worldly distraction. **It is wh
 
 **道之出口 → *The Tao is bland in the mouth*** *(was: "Attempt to speak the Tao.")* — *"attempt to"* was supplied, and a first replacement, *"the Tao comes out of the mouth,"* was rejected by Shalom as reading like expulsion. It was: 出 is 說文 進也。象艸木益滋，上出達也 — *"to advance; it pictures grass and trees growing ever more abundantly, pushing up and out to the top."* A sprout, not a discharge.
 
-**口 (*kǒu* — mouth) occurs exactly twice in the book, ch 12 and ch 35, both times in a line about taste — and the word *mouth* had appeared zero times in our English.** Ch 12 renders it *palate*, which quietly picks eating and drops speech. Ch 35 is the one place 口 cannot be allowed to pick, because what passes it is the Tao, and the commentators split on the direction: 王弼 rewrites 出口 as 出言 (*"coming out in words"*), while 河上公 keeps the organ and doubles it — 道出入於口，淡淡非如五味有酸鹹苦甘辛也, *"the Tao goes out at the mouth and in at the mouth; bland, bland, not like the five flavours, which have sour, salty, bitter, sweet, pungent."* ***In the mouth*** leaves that fork open, is ordinary English for speech and for taste both, and gives 口 its first actual mouth in this book. *"Spoken aloud"* was the runner-up and was declined because it settles the fork on 王弼's side.
+**口 (*kǒu* — mouth) occurs exactly twice in the book, ch 12 and ch 35, both times in a line about taste — and the word *mouth* had appeared zero times in our English.** Ch 12 renders it *palate*, which quietly picks eating and drops speech. *(Ch 12 reads* mouths *since 2026-11-20, Shalom's call: `glossary/kou-口.md`.)* Ch 35 is the one place 口 cannot be allowed to pick, because what passes it is the Tao, and the commentators split on the direction: 王弼 rewrites 出口 as 出言 (*"coming out in words"*), while 河上公 keeps the organ and doubles it — 道出入於口，淡淡非如五味有酸鹹苦甘辛也, *"the Tao goes out at the mouth and in at the mouth; bland, bland, not like the five flavours, which have sour, salty, bitter, sweet, pungent."* ***In the mouth*** leaves that fork open, is ordinary English for speech and for taste both, and gives 口 its first actual mouth in this book. *"Spoken aloud"* was the runner-up and was declined because it settles the fork on 王弼's side.
 
 **Word order, Shalom's call:** *"The Tao **is bland in the mouth**"* over *"The Tao **in the mouth** is bland."* The three lines beneath it all take the Tao itself as object — 視之／聽之／用之, *look at it / listen to it / use it* — so the lack is predicated of the Tao and the organ is only where you meet it. The restrictive order would have set the line apart from the three it belongs with. **Mouth, eye, ear: three organs, three helpings of nothing.**
 

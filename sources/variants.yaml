@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 129
+# next-fork-id: 130
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -1339,7 +1339,7 @@
     increasing the yielding." The Siku Wang Bi has a lacuna (□) in both
     places. Our base reads 補 twice, so the image and the law share one verb,
     and the verse follows it: "What is too little is mended" (Shalom's call,
-    2026-11-19). Recorded 2026-11-19 from the vendored Heshang Gong text; the
+    2026-11-19; since 2026-11-20 "What is not enough is mended"). Recorded 2026-11-19 from the vendored Heshang Gong text; the
     chapter note had said he reads 補 in both places, and is corrected.
   logged: notes/manuscript.md
 
@@ -2217,6 +2217,28 @@
     English, "the more sharp weapons the people have," already renders 民.
     We follow the witnesses, as at ch 32, and the base table stands as the
     record of our base.
+  logged: notes/manuscript.md
+
+- chapter: 57
+  id: 129
+  line: "法令滋彰，盜賊多有"
+  base: "法令"
+  base_pinyin: "fǎ lìng"
+  base_english: "laws and commands"
+  readings:
+    - { source: "heshanggong", text: "法物", pinyin: "fǎ wù", english: "fine things" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Heshang Gong's Song text prints 法物 and glosses it 法物，好物也。珍好之物
+    滋生彰著，則農事廢，飢寒並至，故盜賊多有也, "法物 means fine things: when
+    precious fine things multiply and show, farming is abandoned, hunger and
+    cold come together, and so thieves abound." With 物 the line is about
+    luxury, as ch 3 is (不貴難得之貨); with 令 it is about rule by decree, and
+    his own gloss on the line before says 令煩則姦生, "when commands are many,
+    treachery arises." The Siku Wang Bi prints 法令. We keep the base. Recorded
+    2026-11-20 from the vendored Heshang Gong text, writing glossary/ling-令.md;
+    the excavated witnesses at this line are not yet read here.
   logged: notes/manuscript.md
 
 - chapter: 64

@@ -44,7 +44,7 @@ refs_status: incomplete
 > *One who overcomes others has force.*
 > *One who overcomes themselves is strong.*
 > *One who knows they have enough is wealthy.*
-> *One who walks with strength has purpose.*
+> *One who walks with strength has will.*
 >
 > 知人者智，
 > 自知者明。
@@ -133,7 +133,7 @@ refs_status: incomplete
 
 ### What no rule can enforce
 
-**"Enough" belongs to 足 (zú — enough) wherever it stands, and most of its lines are not this entry's.** 足 alone, or in 不足 (*bù zú* — "not enough"), stands in chapters 17, 19, 23, 28, 35, 41, 48 and 77, and the foot stands in 64. Those lines print *enough*, *not enough*, *too little* and *runs short*, and no entry governs them. So *enough* cannot be held to 知足 in either direction: `concordance.py --english "enough"` reports those lines as unbacked by 知足, and 足 alone licenses each of them.
+**"Enough" belongs to 足 (zú — enough) wherever it stands, and most of its lines are not this entry's.** 足 alone, or in 不足 (*bù zú* — "not enough"), stands in chapters 17, 19, 23, 28, 35, 41, 48 and 77, and the foot stands in 64. Those lines print *enough* and *not enough*, and `glossary/zu-足.md` governs them (2026-11-20). So *enough* cannot be held to 知足 in either direction: `concordance.py --english "enough"` credits one entry and reports the other's lines as unbacked, and each is backed by its own.
 
 **"Sufficiency," "fulfilled" and "satisfaction" are forbidden only where 知足 stands,** in chapters 33, 44 and 46. The checker gates on the character's presence, so in any other chapter the ruling rests on the reader.
 

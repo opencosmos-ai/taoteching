@@ -61,7 +61,7 @@ The lines sort cleanly by what follows the character.
 >
 > — chapter 57
 
-Also chapter 3's 常使民無知無欲 (*"so the people are ever unknowing, ever desireless"*), chapter 19's 少私寡欲 (*"diminish the self, diminish desire"*), chapter 34's 常無欲 (*"ever desireless, it can be named small"*), and the second and third 欲 of chapter 37.
+Also chapter 3's 常使民無知無欲 (*"so the people are ever unknowing, ever desireless"*), chapter 19's 少私寡欲 (*"diminish the private self, diminish desire"*), chapter 34's 常無欲 (*"ever desireless, it can be named small"*), and the second and third 欲 of chapter 37.
 
 **With a verb after it, 欲 is wanting to do something, and the English is *want*.**
 
@@ -141,7 +141,7 @@ The chapter runs a chain, and 欲 is its thread: the things **want** to act (欲
 
 **"Appetite."** Heshang Gong's 嗜欲 (*shì yù* — appetites) is the body's version of the word, and *appetite* is right in a note. In the verse it narrows 欲 to food and sex, and 欲 at chapter 61 is a state's wish for people.
 
-**"Will," "intend," "aim."** *Will* belongs to 志 (*zhì* — ambition, will) at chapter 33. *Intend* and *aim* are plans, and 欲 is the leaning before a plan.
+**"Will," "intend," "aim."** *Will* belongs to 志 (*zhì* — will), at chapters 3 and 33 (`glossary/zhi-志.md`). *Intend* and *aim* are plans, and 欲 is the leaning before a plan.
 
 ### Working register
 

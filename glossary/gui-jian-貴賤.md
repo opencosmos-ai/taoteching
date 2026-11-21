@@ -49,7 +49,7 @@ refs:
 
 **The Tao, and the mother.** 貴食母 (*guì shí mǔ* — "I prize feeding from the mother," 20); 尊道而貴德 (*"honor the Tao and prize integrity,"* 51); 貴此道 (*"prize this Tao,"* 62).
 
-**People, high and low.** 侯王無以貴高 (*"rulers with no way to be prized and high,"* 39); 則我者貴 (*"those who pattern themselves on me are prized,"* 70); 不自貴 (*"does not prize themselves,"* 72).
+**People, high and low.** 侯王無以貴高 (*"nobles and sovereigns with no way to be prized and high,"* 39); 則我者貴 (*"those who pattern themselves on me are prized,"* 70); 不自貴 (*"does not prize themselves,"* 72).
 
 > *So the prized takes the cheap as its root,*
 >

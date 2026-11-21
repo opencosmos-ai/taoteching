@@ -1,7 +1,7 @@
 component,pinyin,gloss,role,gloss_status,builds_characters,characters
 人,rén,"people / others / person (聖人, sage)",semantic,glossed,40,"亡,什,仁,介,代,企,伎,伏,伐,伯,似,何,作,佳,使,侮,侯,俗,保,信,倍,倚,偏,偽,傫,傷,儉,儼,光,化,千,及,咎,寒,死,老,色,負,身,鬼"
 水,shuǐ,water,semantic,glossed,34,"冰,梁,汎,江,沖,没,治,況,法,泣,注,泮,泰,活,海,淡,深,淳,淵,混,清,渙,渝,渾,湛,滅,滋,滌,滿,澹,濁,濟,益,谷"
-口,kǒu,mouths,semantic,glossed,30,"中,加,古,召,可,右,各,合,吉,同,名,含,吹,吾,周,味,命,和,哀,哉,唯,如,孩,害,曰,甘,知,言,足,高"
+口,kǒu,mouth,semantic,glossed,30,"中,加,古,召,可,右,各,合,吉,同,名,含,吹,吾,周,味,命,和,哀,哉,唯,如,孩,害,曰,甘,知,言,足,高"
 心,xīn,heart,semantic,glossed,26,"忌,忒,志,忠,怒,怨,恃,恍,恐,恢,恬,悠,患,悲,悶,惑,惚,惟,惡,愚,慈,慎,慧,應,懷,懼"
 手,shǒu,hand,semantic,glossed,22,"失,奉,扔,投,抗,抱,拔,拙,拱,持,挫,捨,推,握,揣,損,搏,據,攘,攝,攫,舉"
 宀,mián,a roof; under a house,semantic,glossed,21,"奧,字,守,安,宗,官,宜,客,室,宰,害,家,容,寄,富,寒,察,寡,實,寵,寶"
@@ -197,7 +197,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 舟,zhōu,boat,semantic,glossed,2,"前,服"
 谷,Gǔ,valley,semantic,glossed,2,"容,谿"
 貫,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"實,患"
-足,zú,enough / foot (64),semantic,glossed,2,"跨,蹶"
+足,zú,enough · not enough (不足) · foot (the body part),semantic,glossed,2,"跨,蹶"
 長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",semantic,glossed,2,"彌,肆"
 門,mén,gate / door,phonetic,glossed,2,"悶,聞"
 青,qīng,"blue-green, the colour of growing things",phonetic,glossed,2,"清,精"
@@ -241,7 +241,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 丰,,,phonetic,"no gloss needed: present for sound, not meaning",1,邦
 丶,zhǔ,"a mark, a point",phonetic,glossed,1,主
 丶,zhǔ,"a mark, a point",semantic,glossed,1,主
-主,zhǔ,"master, lord / owner (34) / host (69)",phonetic,glossed,1,注
+主,zhǔ,master,phonetic,glossed,1,注
 丿,piě,a stroke slanting left,phonetic,glossed,1,少
 丿,piě,a stroke slanting left,semantic,glossed,1,弗
 乀,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,弗
@@ -265,7 +265,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 从,cóng,"two people, one following the other",phonetic,glossed,1,從
 从,cóng,"two people, one following the other",semantic,glossed,1,從
 代,dài,take the place of,phonetic,glossed,1,貸
-令,lìng,make (令人) / command / laws (法令),semantic,glossed,1,命
+令,lìng,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",semantic,glossed,1,命
 以,yǐ,by means of / so as to / because / take as,phonetic,glossed,1,矣
 來,lái,"come / come and go (往來, 80)",semantic,glossed,1,嗇
 侌,,,phonetic,"no gloss needed: present for sound, not meaning",1,陰
@@ -370,7 +370,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 孟,,,phonetic,"no gloss needed: present for sound, not meaning",1,猛
 守,shǒu,hold to,semantic,glossed,1,負
 宮,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,營
-害,hài,harm / hinder (66),phonetic,glossed,1,割
+害,hài,harm,phonetic,glossed,1,割
 寍,,,phonetic,"no gloss needed: present for sound, not meaning",1,寧
 尃,,,phonetic,"no gloss needed: present for sound, not meaning",1,搏
 尃,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,博
@@ -478,7 +478,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 牙,,,phonetic,"no gloss needed: present for sound, not meaning",1,邪
 犮,,,phonetic,"no gloss needed: present for sound, not meaning",1,拔
 猒,,,phonetic,"no gloss needed: present for sound, not meaning",1,厭
-王,wáng,ruler / sovereign · to rule (verb),semantic,glossed,1,寶
+王,wáng,sovereign,semantic,glossed,1,寶
 瓜,,,phonetic,"no gloss needed: present for sound, not meaning",1,孤
 甘,gān,sweet,semantic,glossed,1,甚
 甚,shèn,very / excess (29) / extreme (44),phonetic,glossed,1,湛

@@ -150,6 +150,12 @@
   use: facts
   date: "2nd century CE"
 
+- id: hanshi-waizhuan
+  name: "Hanshi waizhuan (Han Ying's Illustrations of the Odes)"
+  kind: context
+  use: facts
+  date: "2nd century BCE"
+
 - id: i-ching
   name: "I Ching"
   kind: context

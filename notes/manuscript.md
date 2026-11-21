@@ -484,6 +484,10 @@ Our base reads 人多利器 (*rén duō lì qì*), with 人 (*rén* — a person
 
 **The commentators then split on the second 人** (人多伎巧). 河上公: 人謂人君百里諸侯也 — *"人 here means the rulers, the lords of a hundred li."* 王弼 glosses it as the people's cleverness: 民多智慧則巧偽生 — *"when the people have much cleverness, artifice and falsehood arise."* The English, bare *people*, leaves both standing.
 
+### Ch 57 · 法令 / 法物 — laws and commands, or fine things
+
+*(2026-11-20, found writing `glossary/ling-令.md`. Fork 129.)* We print 法令滋彰 (*fǎ lìng zī zhāng*), *"the more laws and commands are proclaimed."* **Heshang Gong's text reads 法物 (*fǎ wù*)**, glossed 好物也 (*"fine things"*): precious things multiply, farming is abandoned, and so thieves abound. That makes the line about luxury, as ch 3's 不貴難得之貨 is, where ours is about rule by decree. **Meaning-bearing. We keep the base**, with the Siku Wang Bi, and Heshang Gong's own gloss on the line before, 令煩則姦生 (*"when commands are many, treachery arises"*), reads in its spirit. The excavated witnesses at this line are not yet read here.
+
 ### Ch 65 · 稽式 or 楷式 — the same standard, two glosses
 
 Our Wang Bi base reads 稽式 (*jī shì*), Heshang Gong's text reads 楷式 (*kǎi shì*), and the Siku compilers note it in the margin themselves: 〔案河上公注本稽作楷下同〕 — *"in the Heshang Gong recension 稽 is written 楷, and likewise below."* Both compounds name a standard or model, so nothing in the English turns on it.

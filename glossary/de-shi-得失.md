@@ -8,6 +8,7 @@ flexions:
   - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
   - { english: "gain", chapters: [44], why: "the ledger chapter, worth more, great cost, heavy loss; Wang Bi: getting much profit and losing the body. Shalom's call, 2026-11-19" }
   - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
+  - { english: "achieve", chapters: [31], why: "得志, the idiom for an aim reached: achieve their aims; Shalom's call, 2026-11-20 (glossary/zhi-志.md)" }
   - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 forbidden: ["attain", "obtain", "forfeit", "acquire"]
 chapters: [3, 12, 13, 14, 22, 23, 26, 29, 30, 31, 33, 38, 39, 42, 44, 46, 52, 56, 61, 62, 64, 73, 74]
@@ -113,7 +114,8 @@ refs:
 
 | line | grammar | English |
 |---|---|---|
-| 得之 · 失之 (13) · 得之 ×3 (23) · 得志 (31) · 得所欲 (61) | a verb, with an object | *get* · *lose* |
+| 得之 · 失之 (13) · 得之 ×3 (23) · 得所欲 (61) | a verb, with an object | *get* · *lose* |
+| 得志 (31) | the idiom, an aim reached | *achieve* (flexion) |
 | 少則得 (22) | a verb, the one | *receive* — flexion, Shalom's call |
 | 得與亡 (44) | a noun, in the ledger chapter | *gain* — flexion, Shalom's call |
 | 求以得 (62) | a verb | *find* — flexion, Shalom's call |

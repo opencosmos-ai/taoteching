@@ -14,13 +14,13 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 故,Gù,therefore / so,,故,exact,攴,phonetic-compound,,攴 (pū = a hand striking — action done to something),古 (gǔ = ancient / the ancients),64,,0.3863,使爲之也。从攴古聲。,
 道,Dào,the Tao / way,the Tao / way,道,exact,辵,compound,,"辵 (chuò = walking, going along a road) + 𩠐 (shǒu = a head, drawn with its hair — the old form of 首)",,75,locked,0.3684,所行道也。从辵从𩠐。一達謂之道。,The road that is walked. From 辵 (chuò — walking along a road) and 𩠐 (shǒu — a head). A road that runs straight through is called 道.
 大,dà,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman","great — large where the scale is physical or political, greater in comparatives, master of a craftsman",大,exact,大,pictograph,,,,58,Tier 3,0.3032,天大，地大，人亦大。故大象人形。古文𠘲也。凡大之屬皆从大。,
-知,zhī,know / knowing / knowledge (53),,知,exact,矢,compound,,口 (kǒu = mouths) + 矢 (shǐ = an arrow),,57,,0.295,詞也。从口从矢。,
+知,zhī,know / knowing / knowledge (53),,知,exact,矢,compound,,口 (kǒu = mouth) + 矢 (shǐ = an arrow),,57,,0.295,詞也。从口从矢。,
 物,wù,things / something,things / something,物,exact,牛,phonetic-compound,,牛 (niú = an ox),勿 (wù = do not),37,Tier 2,0.2531,萬物也。牛爲大物；天地之𢿙，起於牽牛，故从牛。勿聲。,
 善,shàn,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),譱,old-form,誩,compound,,誩 (? = not yet glossed) + 羊 (yáng = a sheep),,52,locked,0.2446,吉也。从誩从羊。此與義美同意。,
 若,ruò,like / as if / seems / if,,若,exact,艸,compound,,"艸 (cǎo = grass, growing plants) + 右 (yòu = right)",,46,,0.2351,擇菜也。从艸、右。右，手也。一曰杜若，香艸。,
 謂,wèi,is called / call / say / mean,,謂,exact,言,phonetic-compound,,"言 (yán = words, speech (a noun) / speak (a verb))",胃 (? = not yet glossed),35,,0.2208,報也。从言胃聲。,
 聖,shèng,"the sage · sagehood (聖 alone, ch 19)","the sage · sagehood (聖 alone, ch 19)",聖,exact,耳,phonetic-compound,,耳 (ěr = ears),呈 (? = not yet glossed),31,locked,0.2173,通也。从耳呈聲。,"Getting through. From 耳 (ěr — the ear), with 呈 (chéng) for sound."
-可,kě,can be (可 + verb) / can (可以 + verb) / cannot (不可),can be (可 + verb) / can (可以 + verb) / cannot (不可),可,exact,可,phonetic-compound,,口 (kǒu = mouths) + 丂 (kǎo = a breath pushing out past a barrier),丂 (kǎo = a breath pushing out past a barrier),36,locked,0.2143,𦘫也。从口丂，丂亦聲。凡可之屬皆从可。,"To consent. From 口 (kǒu — mouth) and 丂 (kǎo), and 丂 also gives the sound."
+可,kě,can be (可 + verb) / can (可以 + verb) / cannot (不可),can be (可 + verb) / can (可以 + verb) / cannot (不可),可,exact,可,phonetic-compound,,口 (kǒu = mouth) + 丂 (kǎo = a breath pushing out past a barrier),丂 (kǎo = a breath pushing out past a barrier),36,locked,0.2143,𦘫也。从口丂，丂亦聲。凡可之屬皆从可。,"To consent. From 口 (kǒu — mouth) and 丂 (kǎo), and 丂 also gives the sound."
 夫,Fú,"now (opening a statement) / that, those",,夫,exact,夫,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,30,,0.2079,丈夫也。从大，一以象簪也。周制以八寸爲尺，十尺爲丈。人長八尺，故曰丈夫。凡夫之屬皆从夫。,
 生,shēng,give birth to / bear / bring forth,give birth to / bear / bring forth,生,exact,生,pictograph,,,,38,locked,0.2064,進也。象艸木生出土上。凡生之屬皆从生。,
 則,zé,then / and so,,則,exact,刀,compound,,"刀 (dāo = a knife) + 貝 (bèi = a cowrie shell — money, worth)",,32,,0.201,等畫物也。从刀从貝。貝，古之物貨也。,
@@ -34,9 +34,9 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 萬,wàn,countless,countless,萬,exact,禸,compound,,厹 (? = not yet glossed),,21,Tier 2,0.1638,蟲也。从厹，象形。,
 欲,yù,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)","desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",欲,exact,欠,phonetic-compound,,"欠 (qiàn = a person with the mouth open — breath, wanting)",谷 (Gǔ = valley),26,locked,0.1621,貪欲也。从欠谷聲。,"Greedy wanting. From 欠 (a person with the mouth open), with 谷 (a valley) for sound."
 行,xíng,go / carry out / conduct,go / carry out / conduct,行,exact,行,compound,,彳 (chì = a step taken; going) + 亍 (? = not yet glossed),,20,Tier 3,0.157,人之步趨也。从彳从亍。凡行之屬皆从行。,A person's walking and hurrying. From 彳 (a step) and 亍 (a step).
-言,yán,"words, speech (a noun) / speak (a verb)","words, speech (a noun) / speak (a verb)",言,exact,言,phonetic-compound,,口 (kǒu = mouths),䇂 (? = not yet glossed),21,locked,0.1538,直言曰言，論難曰語。从口䇂聲。凡言之屬皆从言。,"Speaking straight out is yan; debating is yu. From 口 (a mouth), with a sound part."
+言,yán,"words, speech (a noun) / speak (a verb)","words, speech (a noun) / speak (a verb)",言,exact,言,phonetic-compound,,口 (kǒu = mouth),䇂 (? = not yet glossed),21,locked,0.1538,直言曰言，論難曰語。从口䇂聲。凡言之屬皆从言。,"Speaking straight out is yan; debating is yu. From 口 (a mouth), with a sound part."
 貴,guì,"prize (verb), prized (a state)","prize (verb), prized (a state)",貴,exact,貝,phonetic-compound,,"貝 (bèi = a cowrie shell — money, worth)",臾 (? = not yet glossed),22,locked,0.1525,物不賤也。从貝臾聲。臾，古文蕢。,
-吾,Wú,the self seeing,the self seeing,吾,exact,口,phonetic-compound,,口 (kǒu = mouths),"五 (Wǔ = five (五色, the full spectrum of colors))",22,locked,0.1482,我，自稱也。从口五聲。,
+吾,Wú,the self seeing,the self seeing,吾,exact,口,phonetic-compound,,口 (kǒu = mouth),"五 (Wǔ = five (五色, the full spectrum of colors))",22,locked,0.1482,我，自稱也。从口五聲。,
 用,yòng,use,use,用,exact,用,compound,,卜 (? = not yet glossed) + 中 (zhōng = within / center (5) / middling (41)),,22,locked,0.1439,可施行也。从卜从中。衞宏說。凡用之屬皆从用。,
 事,shì,"affairs / undertakings (noun) · to serve, to attend to (verb)","affairs / undertakings (noun) · to serve, to attend to (verb)",事,exact,史,phonetic-compound,,史 (? = not yet glossed),"之 (zhī = of ('s) / it, them / (links a modifier to its noun))",21,locked,0.1363,職也。从史，之省聲。,
 強,qiáng,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature","strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",強,exact,虫,phonetic-compound,,"虫 (chóng = an insect, a crawling creature)",弘 (? = not yet glossed),22,locked,0.1348,蚚也。从虫弘聲。,
@@ -46,12 +46,12 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 此,Cǐ,this / here,,此,exact,此,compound,,"止 (zhǐ = stop / halt) + 匕 (bǐ = a spoon, a ladle)",,16,,0.1219,止也。从止从匕。匕，相比次也。凡此之屬皆从此。,
 成,chéng,complete,complete,成,exact,戊,phonetic-compound,,戊 (? = not yet glossed),丁 (? = not yet glossed),17,locked,0.1201,就也。从戊丁聲。,"To arrive at [its end]. From 戊 (wù — a battle-axe), with 丁 (dīng) for sound."
 國,guó,state,state,國,exact,囗,compound,,"囗 (wéi = an enclosure, a boundary) + 或 (huò = some / sometimes / perhaps)",,25,locked,0.1197,邦也。从囗从或。,A state. From 囗 (wéi — an enclosure) and 或 (huò — a dagger-axe guarding the ground).
-名,míng,name,name,名,exact,口,compound,,口 (kǒu = mouths) + 夕 (xī = evening — the moon half shown),,24,Tier 3,0.1194,自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。,"To name oneself. From 口 (kǒu — mouth) and 夕 (xī — dusk). Dusk means the dark: in the dark people cannot see one another, so they name themselves with the mouth."
+名,míng,name,name,名,exact,口,compound,,口 (kǒu = mouth) + 夕 (xī = evening — the moon half shown),,24,Tier 3,0.1194,自命也。从口从夕。夕者，冥也。冥不相見，故以口自名。,"To name oneself. From 口 (kǒu — mouth) and 夕 (xī — dusk). Dusk means the dark: in the dark people cannot see one another, so they name themselves with the mouth."
 身,shēn,body,body,身,exact,身,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𠂆 (? = not yet glossed),23,locked,0.1194,躳也。象人之身。从人𠂆聲。凡身之屬皆从身。,
-足,zú,enough / foot (64),,足,exact,足,compound,,止 (zhǐ = stop / halt) + 口 (kǒu = mouths),,19,,0.1178,人之足也。在下。从止、口。凡足之屬皆从足。,
+足,zú,enough · not enough (不足) · foot (the body part),enough · not enough (不足) · foot (the body part),足,exact,足,compound,,止 (zhǐ = stop / halt) + 口 (kǒu = mouth),,19,Tier 3,0.1178,人之足也。在下。从止、口。凡足之屬皆从足。,A person's foot. It is below. From 止 (zhǐ — a foot) and 口 (kǒu — an enclosure).
 上,Shàng,highest / above / those over (75),,上,exact,丄,unanalysed,時掌切,,,19,,0.1139,高也。此古文上，指事也。凡丄之屬皆从丄。,
-唯,wéi,only,only,唯,exact,口,phonetic-compound,,口 (kǒu = mouths),隹 (zhuī = a short-tailed bird),16,locked,0.1121,諾也。从口隹聲。,"A yes, the word of assent. From 口 (kǒu — mouth), with 隹 (zhuī — a short-tailed bird) for sound."
-曰,yuē,is called / says,,曰,exact,曰,phonetic-compound,,口 (kǒu = mouths),乙 (? = not yet glossed),22,,0.1118,詞也。从口乙聲。亦象口气出也。凡曰之屬皆从曰。,
+唯,wéi,only,only,唯,exact,口,phonetic-compound,,口 (kǒu = mouth),隹 (zhuī = a short-tailed bird),16,locked,0.1121,諾也。从口隹聲。,"A yes, the word of assent. From 口 (kǒu — mouth), with 隹 (zhuī — a short-tailed bird) for sound."
+曰,yuē,is called / says,,曰,exact,曰,phonetic-compound,,口 (kǒu = mouth),乙 (? = not yet glossed),22,,0.1118,詞也。从口乙聲。亦象口气出也。凡曰之屬皆从曰。,
 與,yǔ,"and / with / to give / (closes a question, 77)",,與,exact,舁,compound,,舁 (yú = four hands lifting together) + 与 (? = not yet glossed),,15,,0.1114,黨與也。从舁从与。,
 然,rán,so / thus / (然後) only then,,然,exact,火,phonetic-compound,,火 (huǒ = fire),肰 (? = not yet glossed),12,Tier 1,0.1075,燒也。从火肰聲。,
 處,chǔ,"dwell / be placed / stand, stay",,処,old-form,几,compound,,"几 (jī = a low table, a stool) + 夂 (? = not yet glossed)",,15,,0.1075,止也。得几而止。从几从夂。,
@@ -69,12 +69,12 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 器,qì,vessel / tool / implement,vessel / tool / implement,器,exact,㗊,pictograph,,,,12,Tier 1,0.0919,皿也。象器之口，犬所以守之。,
 亦,yì,also / too,,亦,exact,亦,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,13,,0.0899,人之臂亦也。从大，象兩亦之形。凡亦之屬皆从亦。,
 明,Míng,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier","clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",朙,old-form,朙,compound,,月 (yuè = the moon) + 囧 (jiǒng = a lattice window letting light through),,12,Tier 1,0.0882,照也。从月从囧。凡朙之屬皆从朙。,
-王,wáng,ruler / sovereign · to rule (verb),ruler / sovereign · to rule (verb),王,exact,王,unanalysed,雨方切,,,13,Tier 3,0.088,天下所歸往也。董仲舒曰：「古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者，王也。」孔子曰：「一貫三爲王。」凡王之屬皆从王。,
+王,wáng,sovereign,sovereign,王,exact,王,unanalysed,雨方切,,,13,Tier 3,0.088,天下所歸往也。董仲舒曰：「古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者，王也。」孔子曰：「一貫三爲王。」凡王之屬皆从王。,
 失,Shī,lose,lose,失,exact,手,phonetic-compound,,手 (shǒu = hand),乙 (? = not yet glossed),17,locked,0.0879,縱也。从手乙聲。,
 相,xiāng,each other / together (32),,相,exact,目,compound,,目 (mù = eye) + 木 (mù = tree),,14,,0.0876,省視也。从目从木。《易》曰：“地可觀者，莫可觀於木。”《詩》曰：“相鼠有皮。”,
 兵,bīng,weapons / armies / military force (30),,兵,exact,𠬞,compound,,廾 (gǒng = two hands raised together) + 持 (Chí = hold) + 斤 (jīn = an axe),,12,,0.0826,械也。从廾持斤，并力之皃。,
 必,bì,must / surely,,必,exact,八,phonetic-compound,,"八 (bā = eight; to divide, to part) + 弋 (yì = a stake; a tethered arrow)",弋 (yì = a stake; a tethered arrow),14,,0.0822,分極也。从八、弋，弋亦聲。,
-利,lì,advantage,advantage,利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony (noun) · harmonize (verb)),,10,locked,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,
+利,lì,"benefit (verb and noun) · beneficial (利器, before a noun)","benefit (verb and noun) · beneficial (利器, before a noun)",利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony (noun) · harmonize (verb)),,10,Tier 3,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,"Sharp. From 刀 (dāo — a knife), and from part of 和 (hé — harmony): harmony, and then benefit."
 後,hòu,"behind, or after in time","behind, or after in time",後,exact,彳,compound,,"彳 (chì = a step taken; going) + 幺 (yāo = tiny; a small twist of silk) + 夊 (suī = walking slowly, dragging the feet)",,11,locked,0.0799,遲也。从彳、幺、夊者，後也。,
 或,huò,some / sometimes / perhaps,,或,exact,戈,compound,,"囗 (wéi = an enclosure, a boundary) + 戈 (gē = a dagger-axe)",,18,,0.0797,邦也。从囗从戈，以守一。一，地也。,
 柔,róu,soft,soft,柔,exact,木,phonetic-compound,,木 (mù = tree),矛 (? = not yet glossed),11,locked,0.0791,木曲直也。从木矛聲。,"Wood that bends and straightens. From 木 (mù — wood), with 矛 (máo — a spear) for sound."
@@ -89,7 +89,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 子,zǐ,"child (君子, the noble; 子孫, descendants)",,子,exact,子,pictograph,,,,9,,0.0753,十一月，陽气動，萬物滋，人以爲偁。象形。凡子之屬皆从子。,
 取,qǔ,take / seize (30) / win (57),,取,exact,又,compound,,又 (yòu = again / and further) + 耳 (ěr = ears),,12,,0.0748,捕取也。从又从耳。《周禮》：“獲者取左耳。”《司馬法》曰：“載獻聝。”聝者，耳也。,
 居,jū,dwell / stay in / home,,居,exact,-{尸}-,compound,,尸 (shī = a body laid out; a seated figure) + 古 (gǔ = ancient / the ancients) + 者 (zhě = the one who / that which / (marks a topic)),,11,,0.0747,蹲也。从尸古者，居从古。,
-如,rú,like / as / (不如) better to,,如,exact,女,compound,,隨 (suí = follow) + 也 (yě = (closes a statement: it is so)) + 女 (nǚ = a woman) + 口 (kǒu = mouths),,10,,0.0745,从隨也。从女从口。,
+如,rú,like / as / (不如) better to,,如,exact,女,compound,,隨 (suí = follow) + 也 (yě = (closes a statement: it is so)) + 女 (nǚ = a woman) + 口 (kǒu = mouth),,10,,0.0745,从隨也。从女从口。,
 谷,Gǔ,valley,valley,谷,exact,谷,compound,,"水 (shuǐ = water) + 半 (? = not yet glossed) + 見 (jiàn = see / show, display / appear (77))",,10,locked,0.0734,泉出通川爲谷。从水半見，出於口。凡谷之屬皆从谷。,"Where a spring comes out and runs through to a river is a valley. From 水 (shuǐ — water) half seen, coming out of 口 (kǒu — an opening)."
 守,shǒu,hold to,hold to,守,exact,宀,compound,,宀 (mián = a roof; under a house) + 寸 (cùn = inch),,11,locked,0.0724,守官也。从宀从寸。寺府之事者。从寸。寸，法度也。,
 小,xiǎo,small,small,小,exact,小,compound,,"八 (bā = eight; to divide, to part)",,10,locked,0.0723,物之微也。从八，丨見而分之。凡小之屬皆从小。,
@@ -101,9 +101,9 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 盈,yíng,full / fill,,盈,exact,皿,compound,,"皿 (mǐn = a dish, a vessel) + 夃 (? = not yet glossed)",,9,,0.0688,滿器也。从皿、夃。,
 弱,ruò,yielding — and the verb *yield* where it makes something so,yielding — and the verb *yield* where it makes something so,弱,exact,彡,pictograph,,,,10,locked,0.0682,橈也。上象橈曲，彡象毛氂橈弱也。弱物并，故从二𢎥。,
 先,xiān,"ahead, or before in time","ahead, or before in time",先,exact,先,unanalysed,,,,8,Tier 3,0.0677,前進也。从-{儿}-从之。凡先之屬皆从先。,
-餘,yú,too much / more than enough / leftover / remain,,餘,exact,食,phonetic-compound,,食 (shí = food / feed (20) / eat up (75)),"余 (yú = a shelter; and, borrowed, 'I')",9,,0.0669,饒也。从食余聲。,
+餘,yú,more than enough (有餘) · leftover (before a noun),more than enough (有餘) · leftover (before a noun),餘,exact,食,phonetic-compound,,食 (shí = food / feed (20) / eat up (75)),"余 (yú = a shelter; and, borrowed, 'I')",9,Tier 3,0.0669,饒也。从食余聲。,"Plenty. From 食 (shí — food), with 余 (yú) for sound."
 執,Zhí,grasp,grasp,執,exact,㚔,phonetic-compound,,丮 (? = not yet glossed) + 幸 (? = not yet glossed),幸 (? = not yet glossed),9,locked,0.0656,捕罪人也。从丮从幸，幸亦聲。,
-古,gǔ,ancient / the ancients,,古,exact,古,compound,,十 (shí = ten) + 口 (kǒu = mouths),,8,,0.0643,故也。从十、口。識前言者也。凡古之屬皆从古。,
+古,gǔ,ancient / the ancients,,古,exact,古,compound,,十 (shí = ten) + 口 (kǒu = mouth),,8,,0.0643,故也。从十、口。識前言者也。凡古之屬皆从古。,
 樸,pǔ,uncarved wood / the uncarved,uncarved wood / the uncarved,樸,exact,木,phonetic-compound,,木 (mù = tree),菐 (? = not yet glossed),8,Tier 1,0.0634,木素也。从木菐聲。,
 焉,yān,there / to it / (closes a statement),,焉,exact,烏,pictograph,,,,9,,0.0634,焉鳥，黃色，出於江淮。象形。凡字：朋者，羽蟲之屬；烏者，日中之禽；舄者，知太歲之所在；燕者，請子之𠋫，作巢避戊己。所䝿者故皆象形。焉亦是也。,
 易,yì,easy / take the place of (78),,易,exact,易,pictograph,,,,11,,0.0633,蜥易，蝘蜓，守宮也。象形。《祕書》說：日月爲易，象陰陽也。一曰从勿。凡易之屬皆从易。,
@@ -111,14 +111,14 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 玄,xuán,dark or profound,dark or profound,玄,exact,玄,pictograph,,,,12,locked,0.062,幽遠也。黑而有赤色者爲玄。象幽而入覆之也。凡玄之屬皆从玄。,
 去,qù,let go of / leave / apart (20),,去,exact,去,phonetic-compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",𠙴 (? = not yet glossed),10,,0.0615,人相違也。从大𠙴聲。凡去之屬皆从去。,
 至,zhì,"reach / utmost, most / come (72)",,至,exact,至,compound,,"高 (gāo = high) + 下 (xià = below / low, lowest (天下, the world)) + 至 (zhì = reach / utmost, most / come (72)) + 地 (dì = earth / ground) + 也 (yě = (closes a statement: it is so)) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,8,,0.0612,鳥飛从高下至地也。从一，一猶地也。象形。不，上去；而至，下來也。凡至之屬皆从至。,
-和,hé,harmony (noun) · harmonize (verb),harmony (noun) · harmonize (verb),和,exact,口,phonetic-compound,,口 (kǒu = mouths),禾 (hé = standing grain),8,locked,0.061,相譍也。从口禾聲。,"To answer one another. From 口 (kǒu — mouth), with 禾 (hé — grain) for sound."
+和,hé,harmony (noun) · harmonize (verb),harmony (noun) · harmonize (verb),和,exact,口,phonetic-compound,,口 (kǒu = mouth),禾 (hé = standing grain),8,locked,0.061,相譍也。从口禾聲。,"To answer one another. From 口 (kǒu — mouth), with 禾 (hé — grain) for sound."
 甚,shèn,very / excess (29) / extreme (44),,甚,exact,甘,compound,,甘 (gān = sweet) + 匹 (? = not yet glossed) + 耦 (? = not yet glossed) + 也 (yě = (closes a statement: it is so)),,9,,0.0606,尤安樂也。从甘，从匹耦也。,
 眾,zhòng,the crowd / the many,the crowd / the many,眾,exact,㐺,compound,,乑 (? = not yet glossed) + 目 (mù = eye),,9,Tier 1,0.0604,多也。从乑、目，衆意。,
 智,zhì,cleverness / clever,cleverness / clever,𥏼,old-form,𪞶,compound,,𪞶 (? = not yet glossed) + 亏 (? = not yet glossed) + 知 (zhī = know / knowing / knowledge (53)),,8,locked,0.0602,識詞也。从𪞶从亏从知。,"A word for recognizing. From 白 (here the breath of speech), 亏 (yú — breath going out) and 知 (zhī — to know). Xu Shen files it under its old form, 𥏼."
-哉,zāi,(an exclamation) / how…!,,哉,exact,口,phonetic-compound,,口 (kǒu = mouths),𢦔 (? = not yet glossed),7,,0.0599,言之閒也。从口𢦔聲。,
+哉,zāi,(an exclamation) / how…!,,哉,exact,口,phonetic-compound,,口 (kǒu = mouth),𢦔 (? = not yet glossed),7,,0.0599,言之閒也。从口𢦔聲。,
 重,Zhòng,heavy / weigh down / baggage (輜重),,重,exact,重,phonetic-compound,,壬 (? = not yet glossed),東 (? = not yet glossed),6,,0.059,厚也。从壬東聲。凡重之屬皆从重。,
 抱,bào,embrace / arms' span (64),,捊,old-form,手,phonetic-compound,,手 (shǒu = hand),孚 (? = not yet glossed),6,,0.0586,引取也。从手孚聲。,
-令,lìng,make (令人) / command / laws (法令),,令,exact,卩,compound,,亼 (jí = to gather together) + 卪 (? = not yet glossed),,8,,0.0584,發號也。从亼、卪。,
+令,lìng,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)","command (the order, verb and noun) · make (令 + a person + a verb, the causative)",令,exact,卩,compound,,亼 (jí = to gather together) + 卪 (? = not yet glossed),,8,Tier 3,0.0584,發號也。从亼、卪。,To issue a call. From 亼 (jí — gathering) and 卪 (jié — a kneeling figure).
 輕,qīng,light / make light of / lightly (63),,輕,exact,車,phonetic-compound,,車 (chē = cart),坙 (? = not yet glossed),8,,0.0584,輕車也。从車坙聲。,
 猶,yóu,"like / still, even so / hesitant (15)",,猶,exact,犬,phonetic-compound,,犬 (quǎn = dog),酋 (? = not yet glossed),6,,0.0575,玃屬。从犬酋聲。一曰隴西謂犬子爲猷。,
 皆,jiē,all,,皆,exact,𪞶,compound,,"比 (bǐ = be like, compare to) + 𪞶 (? = not yet glossed)",,8,,0.0571,俱詞也。从比从𪞶。,
@@ -127,9 +127,9 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 固,gù,firm / indeed / at first (36),,固,exact,囗,phonetic-compound,,"囗 (wéi = an enclosure, a boundary)",古 (gǔ = ancient / the ancients),8,,0.056,四塞也。从囗古聲。,
 美,měi,beauty / fine / pretty / glorify,,美,exact,羊,compound,,"羊 (yáng = a sheep) + 大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,9,,0.0552,甘也。从羊从大。羊在六畜主給膳也。美與善同意。,
 樂,lè,"gladly / delight in / pleasure / music (35, yuè)",,樂,exact,木,pictograph,,,,8,,0.055,五聲八音緫名。象鼓鞞。木，虡也。,
-畏,wèi,fear / wary of (15),,畏,exact,甶,compound,,甶 (? = not yet glossed),,8,,0.0548,惡也。从甶，虎省。鬼頭而虎爪，可畏也。,
+畏,wèi,fear,fear,畏,exact,甶,compound,,甶 (? = not yet glossed),,8,Tier 3,0.0548,惡也。从甶，虎省。鬼頭而虎爪，可畏也。,"To dread. From 甶 (fú — a ghost's head) and part of 虎 (hǔ — a tiger): a ghost's head with a tiger's claws, a thing to dread."
 百,bǎi,hundred / everyone (百姓),,百,exact,𪞶,compound,,"一 (yī = the one (lowercase) · plain numeral where it counts) + 白 (bái = white / clarity (明白, 10))",,7,Tier 3,0.0547,十十也。从一、白。數，十百爲一貫。相章也。,
-主,zhǔ,"master, lord / owner (34) / host (69)",,主,exact,丶,phonetic-compound,,"丶 (zhǔ = a mark, a point)","丶 (zhǔ = a mark, a point)",6,,0.0545,鐙中火主也。从{{?,
+主,zhǔ,master,master,主,exact,丶,phonetic-compound,,"丶 (zhǔ = a mark, a point)","丶 (zhǔ = a mark, a point)",6,Tier 3,0.0545,鐙中火主也。从{{?,"The flame at the center of a lamp. From the lamp's shape; from 丶 (zhǔ — a dot), which also gives the sound."
 出,chū,"go out, leave / arise / emerge / yield (5)",,出,exact,出,pictograph,,,,7,,0.0545,進也。象艸木益滋，上出達也。凡出之屬皆从出。,
 乃,nǎi,then / and so becomes,,乃,exact,乃,pictograph,,,,12,,0.054,曳詞之難也。象气之出難。凡𠄎之屬皆从𠄎。,
 已,yǐ,"stop, come to an end (不得已, unavoidable)",,巳,orthographic,巳,pictograph,,,,9,,0.0539,巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。凡巳之屬皆从巳。,
@@ -141,13 +141,13 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 母,mǔ,mother,mother,母,exact,女,compound,,女 (nǚ = a woman),,7,locked,0.0493,牧也。从女，象褱子形。一曰象乳子也。,
 聞,wén,"hear / it is said (蓋聞, 50)",,聞,exact,耳,phonetic-compound,,耳 (ěr = ears),門 (mén = gate / door),7,,0.0493,知聞也。从耳門聲。,
 雖,Suī,although / even if,,雖,exact,虫,phonetic-compound,,"虫 (chóng = an insect, a crawling creature)",唯 (wéi = only),6,,0.048,似蜥蜴而大。从虫唯聲。,
-同,tóng,the same / same as / together (1),,同,exact,𠔼,compound,,𠔼 (? = not yet glossed) + 口 (kǒu = mouths),,11,,0.0472,合會也。从𠔼从口。,
+同,tóng,the same / same as / together (1),,同,exact,𠔼,compound,,𠔼 (? = not yet glossed) + 口 (kǒu = mouth),,11,,0.0472,合會也。从𠔼从口。,
 動,dòng,move / movement,,動,exact,力,phonetic-compound,,力 (lì = force),重 (Zhòng = heavy / weigh down / baggage (輜重)),5,,0.0467,作也。从力重聲。,
 愛,Ài,love / attachment (44),,愛,exact,夊,phonetic-compound,,"夊 (suī = walking slowly, dragging the feet)",㤅 (? = not yet glossed),5,,0.0467,行皃。从夊㤅聲。,
 未,wèi,not yet,,未,exact,未,pictograph,,,,7,,0.0465,味也。六月，滋味也。五行，木老於未。象木重枝葉也。凡未之屬皆从未。,
 觀,guān,observe / sight (26),,觀,exact,見,phonetic-compound,,"見 (jiàn = see / show, display / appear (77))",雚 (? = not yet glossed),9,,0.0457,諦視也。从見雚聲。,
 厚,hòu,thick / abundant / heavy (44),,厚,exact,㫗,compound,,"𣆪 (? = not yet glossed) + 厂 (hǎn = a cliff, an overhang)",,5,,0.0456,山陵之厚也。从𣆪从厂。,
-君,jūn,ruler / the noble (君子),,君,exact,口,compound,,尹 (? = not yet glossed),,6,,0.0452,尊也。从尹。發號，故从口。,
+君,jūn,ruler,ruler,君,exact,口,compound,,尹 (? = not yet glossed),,6,Tier 3,0.0452,尊也。从尹。發號，故从口。,"Honored. From 尹 (yǐn — the governor); it issues commands, and so from 口 (kǒu — the mouth)."
 既,jì,already / once / used up (35),,旣,old-form,皀,phonetic-compound,,皀 (? = not yet glossed),旡 (? = not yet glossed),6,,0.045,小食也。从皀旡聲。《論語》曰：“不使勝食旣。”,
 殺,shā,kill / killing,,殺,exact,殺,phonetic-compound,,殳 (? = not yet glossed),杀 (? = not yet glossed),9,,0.0448,戮也。从殳杀聲。凡殺之屬皆从殺。,
 極,jí,the far end — where a thing runs out,the far end — where a thing runs out,極,exact,木,phonetic-compound,,木 (mù = tree),亟 (? = not yet glossed),6,,0.0447,棟也。从木亟聲。,
@@ -155,10 +155,10 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 親,qīn,"dear, draw near / kin (18) / favorites (79)",,親,exact,見,phonetic-compound,,"見 (jiàn = see / show, display / appear (77))",亲 (? = not yet glossed),5,,0.0445,至也。从見亲聲。,
 食,shí,food / feed (20) / eat up (75),,食,exact,食,phonetic-compound,,皀 (? = not yet glossed),亼 (jí = to gather together),5,,0.0445,一米也。从皀亼聲。或說亼皀也。凡食之屬皆从食。,
 神,shén,spirit,spirit,神,exact,示,phonetic-compound,食鄰切,示 (shì = show),申 (? = not yet glossed),8,locked,0.0444,天神，引出萬物者也。从示，申聲。,
-益,yì,increase / benefit (43),,益,exact,皿,compound,,"水 (shuǐ = water) + 皿 (mǐn = a dish, a vessel)",,6,,0.0439,饒也。从水、皿。皿，益之意也。,
+益,yì,"increase (the process, beside 損) · abundance (the overflow itself)","increase (the process, beside 損) · abundance (the overflow itself)",益,exact,皿,compound,,"水 (shuǐ = water) + 皿 (mǐn = a dish, a vessel)",,6,Tier 3,0.0439,饒也。从水、皿。皿，益之意也。,Plenty. From 水 (shuǐ — water) and 皿 (mǐn — a vessel): the vessel is what gives the sense.
 損,sǔn,"decrease / take from, draw off (77)",,損,exact,手,phonetic-compound,,手 (shǒu = hand),員 (? = not yet glossed),8,,0.0424,減也。从手員聲。,
 兩,liǎng,two / both (61),,兩,exact,㒳,compound,,一 (yī = the one (lowercase) · plain numeral where it counts),,5,,0.0423,二十四銖爲一兩。从一；㒳，平分，亦聲。,
-中,zhōng,within / center (5) / middling (41),,中,exact,丨,compound,陟弓切,口 (kǒu = mouths),,7,,0.042,内也。从口。丨，上下通。,
+中,zhōng,within / center (5) / middling (41),,中,exact,丨,compound,陟弓切,口 (kǒu = mouth),,7,,0.042,内也。从口。丨，上下通。,
 致,zhì,bring to / reach / follow through (39),,致,exact,夊,compound,,"夊 (suī = walking slowly, dragging the feet) + 至 (zhì = reach / utmost, most / come (72))",,5,,0.0415,送詣也。从夊从至。,
 恃,shì,rely on — the heart putting its weight on something,rely on — the heart putting its weight on something,恃,exact,心,phonetic-compound,,心 (xīn = heart),寺 (? = not yet glossed),5,locked,0.0413,賴也。从心寺聲。,
 左,zuǒ,left / left half of a tally (79),,左,exact,左,compound,,"𠂇 (? = not yet glossed) + 工 (gōng = a carpenter's square — work, craft)",,5,,0.0406,手相左助也。从𠂇、工。凡左之屬皆从左。,
@@ -166,17 +166,17 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 虛,xū,empty (adjective) · to empty (verb),empty (adjective) · to empty (verb),虛,exact,丘,phonetic-compound,,丘 (? = not yet glossed),虍 (? = not yet glossed),5,,0.0402,大丘也。崐崘丘謂之崐崘虛。古者九夫爲井，四井爲邑，四邑爲丘。丘謂之虛。从丘虍聲。,
 貨,huò,goods,goods,貨,exact,貝,phonetic-compound,,"貝 (bèi = a cowrie shell — money, worth)",化 (huà = transform),5,Tier 3,0.0402,財也。从貝化聲。,
 且,qiě,and / and also,,且,exact,且,compound,,"几 (jī = a low table, a stool)",,5,,0.0395,薦也。从几，足有二橫，一其下地也。凡且之屬皆从且。,
-侯,Hóu,ruler (inside 侯王),ruler (inside 侯王),矦,old-form,矢,compound,,"人 (rén = people / others / person (聖人, sage)) + 厂 (hǎn = a cliff, an overhang)",,5,locked,0.0395,春饗所䠶矦也。从人；从厂，象張布；矢在其下。天子䠶熊虎豹，服猛也；諸矦䠶熊豕虎；大夫射麋，麋，惑也；士射鹿豕，爲田除害也。其祝曰：“毋若不寕矦，不朝于王所，故伉而䠶汝也。”,
+侯,Hóu,nobles (inside 侯王),nobles (inside 侯王),矦,old-form,矢,compound,,"人 (rén = people / others / person (聖人, sage)) + 厂 (hǎn = a cliff, an overhang)",,5,locked,0.0395,春饗所䠶矦也。从人；从厂，象張布；矢在其下。天子䠶熊虎豹，服猛也；諸矦䠶熊豕虎；大夫射麋，麋，惑也；士射鹿豕，爲田除害也。其祝曰：“毋若不寕矦，不朝于王所，故伉而䠶汝也。”,
 容,róng,contain / likeness (15) / room for (50),,容,exact,宀,compound,,宀 (mián = a roof; under a house) + 谷 (Gǔ = valley),,5,,0.0393,盛也。从宀、谷。,
 寡,guǎ,"few, little / diminish / alone, meager (孤寡)",,寡,exact,宀,compound,,宀 (mián = a roof; under a house) + 頒 (? = not yet glossed),,5,,0.0391,少也。从宀从頒。頒，分賦也，故爲少。,
 幾,jī,nearly / how much (幾何) / just short of (64),,幾,exact,𢆶,compound,,𢆶 (? = not yet glossed) + 戍 (? = not yet glossed),,4,,0.0391,微也。殆也。从𢆶从戍。戍，兵守也。𢆶而兵守者，危也。,
 象,xiàng,"image / seem, resemble (4)",,象,exact,象,pictograph,,,,5,,0.0391,長鼻牙，南越大獸，三秊一乳，象耳牙四足之形。凡象之屬皆从象。,
 慈,cí,tenderness,tenderness,慈,exact,心,phonetic-compound,,心 (xīn = heart),兹 (? = not yet glossed),7,locked,0.0389,愛也。从心兹聲。,
-辱,rǔ,"soiled (beside white, 28, 41) / disgrace (social, 13, 44)",,辱,exact,辰,compound,,"寸 (cùn = inch) + 在 (zài = in / be in) + 辰 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world))",,6,,0.0385,恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也。,
+辱,rǔ,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)","soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",辱,exact,辰,compound,,"寸 (cùn = inch) + 在 (zài = in / be in) + 辰 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world))",,6,Tier 3,0.0385,恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也。,Shame. From 寸 (cùn — a hand) beneath 辰 (chén — the farming season). Whoever missed the ploughing season was punished on the field's boundary.
 牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 遠,yuǎn,far,,遠,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",袁 (? = not yet glossed),5,,0.0382,遼也。从辵袁聲。,
-害,hài,harm / hinder (66),,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
-殆,dài,danger,,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,,0.038,危也。从歺台聲。,
+害,hài,harm,harm,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouth),丯 (? = not yet glossed),5,locked,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
+殆,dài,danger,danger,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,Tier 3,0.038,危也。从歺台聲。,"Danger. From 歺 (è — splintered bone), with 台 (tái) for sound."
 門,mén,gate / door,,門,exact,門,compound,,二 (èr = two / second (67)) + 戶 (hù = doors),,5,,0.038,聞也。从二戶。象形。凡門之屬皆从門。,
 堅,jiān,hard,,堅,exact,臤,compound,,"臤 (? = not yet glossed) + 土 (tǔ = dirt, earth)",,4,,0.0371,剛也。从臤从土。,
 保,bǎo,keep safe,keep safe,保,exact,人,compound,,"人 (rén = people / others / person (聖人, sage)) + 𤓽 (? = not yet glossed)",,4,locked,0.0369,養也。从人，从𤓽省。𤓽，古文孚。,
@@ -207,12 +207,12 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 敗,bài,ruin,,敗,exact,攴,compound,,"攴 (pū = a hand striking — action done to something) + 貝 (bèi = a cowrie shell — money, worth)",,5,,0.0322,毀也。从攴、貝。敗、賊皆从貝，會意。,
 義,yì,duty,duty,義,exact,我,compound,,我 (Wǒ = the self seen) + 羊 (yáng = a sheep),,5,locked,0.0319,己之威儀也。從我、羊。,
 救,jiù,rescue / save (52),,救,exact,攴,phonetic-compound,,攴 (pū = a hand striking — action done to something),求 (qiú = seek / want (75)),4,,0.0317,止也。从攴求聲。,
-高,gāo,high,,高,exact,高,compound,,"冂 (jiōng = the far borders, open country) + 口 (kǒu = mouths)",,4,,0.0317,崇也。象臺觀高之形。从冂、口。與倉、舍同意。凡高之屬皆从高。,
+高,gāo,high,,高,exact,高,compound,,"冂 (jiōng = the far borders, open country) + 口 (kǒu = mouth)",,4,,0.0317,崇也。象臺觀高之形。从冂、口。與倉、舍同意。凡高之屬皆从高。,
 存,cún,be here / survive (7) / keep (41),,存,exact,子,phonetic-compound,,"子 (zǐ = child (君子, the noble; 子孫, descendants))",才 (cái = a sprout breaking the ground),4,,0.0315,恤問也。从子才聲。,
-志,zhì,purpose / will (31) / ambition (3),,志,exact,心,phonetic-compound,,心 (xīn = heart),"之 (zhī = of ('s) / it, them / (links a modifier to its noun))",3,,0.0315,意也。从心之聲。,
+志,zhì,will (the heart's drive),will (the heart's drive),志,exact,心,phonetic-compound,,心 (xīn = heart),"之 (zhī = of ('s) / it, them / (links a modifier to its noun))",3,Tier 3,0.0315,意也。从心之聲。,"Intent. From 心 (xīn — the heart), with 之 (zhī) for sound."
 姓,xìng,"surname (百姓, everyone)",,姓,exact,女,phonetic-compound,,女 (nǚ = a woman) + 生 (shēng = give birth to / bear / bring forth),生 (shēng = give birth to / bear / bring forth),4,Tier 3,0.0306,人所生也。古之神聖母，感天而生子，故稱天子。从女从生，生亦聲。《春秋傳》曰：“天子因生以賜姓。”,
 目,mù,eye,,目,exact,目,pictograph,,,,3,,0.0306,人眼。象形。重童子也。凡目之屬皆从目。,
-合,hé,"join / union (55) / arm span (合抱, 64)",,合,exact,亼,compound,,亼 (jí = to gather together) + 口 (kǒu = mouths),,3,,0.0304,合口也。从亼从口。,
+合,hé,"join / union (55) / arm span (合抱, 64)",,合,exact,亼,compound,,亼 (jí = to gather together) + 口 (kǒu = mouth),,3,,0.0304,合口也。从亼从口。,
 開,kāi,open / breach (27),,開,exact,門,compound,,門 (mén = gate / door) + 幵 (? = not yet glossed),,3,,0.0304,張也。从門从幵。,
 傷,shāng,harm / cut (74),,傷,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",𥏻 (? = not yet glossed),5,,0.03,創也。从人，𥏻省聲。,
 士,shì,in service,in service,士,exact,士,compound,鉏里切,一 (yī = the one (lowercase) · plain numeral where it counts) + 十 (shí = ten),,5,Tier 3,0.0298,事也。數始於一，終於十。从一从十。孔子曰：「推十合一爲士。」凡士之屬皆从士。,
@@ -222,7 +222,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 服,Fú,"clothes, wear / accept (早服, 59)",,服,exact,舟,phonetic-compound,,舟 (zhōu = boat),𠬝 (? = not yet glossed),4,,0.0295,用也。一曰車右騑，所以舟旋。从舟𠬝聲。,
 四,sì,four,,四,exact,四,pictograph,,,,3,,0.0293,陰數也。象四分之形。凡四之屬皆从四。,
 邪,xié,is it not? (question particle),,邪,exact,邑,phonetic-compound,,"邑 (yì = a settlement, a town)",牙 (? = not yet glossed),3,,0.0293,琅邪郡。从邑牙聲。,
-右,yòu,right,,右,exact,口,compound,,口 (kǒu = mouths) + 又 (yòu = again / and further),,4,,0.0287,助也。从口从又。,
+右,yòu,right,,右,exact,口,compound,,口 (kǒu = mouth) + 又 (yòu = again / and further),,4,,0.0287,助也。从口从又。,
 家,jiā,family / state (國家),,家,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house),豭 (? = not yet glossed),5,,0.0287,居也。从宀，豭省聲。,
 敵,dí,enemy,,敵,exact,攴,phonetic-compound,,攴 (pū = a hand striking — action done to something),啻 (? = not yet glossed),4,,0.0287,仇也。从攴啻聲。,
 早,zǎo,early,,早,exact,日,compound,,日 (rì = day / daily / all day (終日)) + 在 (zài = in / be in) + 甲 (jiǎ = armor) + 上 (Shàng = highest / above / those over (75)),,4,,0.0285,晨也。从日在甲上。,
@@ -232,13 +232,13 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 水,shuǐ,water,water,水,exact,水,pictograph,,,,3,locked,0.0284,凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。,"Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
 今,jīn,now / today (21),,今,exact,亼,compound,,亼 (jí = to gather together) + 乁 (? = not yet glossed),,3,,0.0282,是時也。从亼从乁。乁，古文及。,
 光,guāng,light / bright (58),,光,exact,火,compound,,"火 (huǒ = fire) + 在 (zài = in / be in) + 人 (rén = people / others / person (聖人, sage)) + 上 (Shàng = highest / above / those over (75))",,4,,0.0282,明也。从火在人上，光明意也。,
-寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = ruler / sovereign · to rule (verb)) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
+寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = sovereign) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
 氣,qì,breath,breath,氣,exact,米,phonetic-compound,,米 (mǐ = grains of rice),气 (? = not yet glossed),3,Tier 3,0.0282,饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”,"Fodder and grain presented to guests. From 米 (mǐ — rice), with 气 (qì — cloud vapor) as its sound."
 深,Shēn,deep,,深,exact,水,phonetic-compound,,水 (shuǐ = water),罙 (? = not yet glossed),3,,0.0282,水。出桂陽南平，西入營道。从水罙聲。,
 混,hùn,mixed (adjective) · to mix (verb),mixed (adjective) · to mix (verb),混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,"An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 隨,suí,follow,,隨,exact,辵,phonetic-compound,,"也 (yě = (closes a statement: it is so)) + 辵 (chuò = walking, going along a road)",𡐦 (? = not yet glossed),3,,0.0282,从也。从辵，𡐦省聲。,
-公,gōng,impartiality / impartial (the quality) · lord / minister (the office),impartiality / impartial (the quality) · lord / minister (the office),公,exact,八,compound,,"八 (bā = eight; to divide, to part) + 厶 (sī = enclosing for oneself — the private)",,4,locked,0.0274,平分也。从八从厶。八猶背也。韓非曰：背厶爲公。,
-味,wèi,flavor / taste,,味,exact,口,phonetic-compound,,口 (kǒu = mouths),未 (wèi = not yet),4,,0.0274,滋味也。从口未聲。,
+公,gōng,impartiality / impartial (the quality) · noble / minister (the office),impartiality / impartial (the quality) · noble / minister (the office),公,exact,八,compound,,"八 (bā = eight; to divide, to part) + 厶 (sī = enclosing for oneself — the private)",,4,locked,0.0274,平分也。从八从厶。八猶背也。韓非曰：背厶爲公。,
+味,wèi,flavor / taste,,味,exact,口,phonetic-compound,,口 (kǒu = mouth),未 (wèi = not yet),4,,0.0274,滋味也。从口未聲。,
 馬,mǎ,horse,,馬,exact,馬,pictograph,,,,3,,0.0274,怒也。武也。象馬頭髦尾四足之形。凡馬之屬皆从馬。,
 兒,ér,"child (嬰兒, infant)",,兒,exact,-{儿}-,pictograph,,,,3,,0.0271,孺子也。从-{儿}-，象小兒頭囟未合。,
 前,qián,front,front,前,exact,止,compound,,止 (zhǐ = stop / halt) + 在 (zài = in / be in) + 舟 (zhōu = boat) + 上 (Shàng = highest / above / those over (75)),,3,locked,0.0271,不行而進謂之歬。从止在舟上。,
@@ -282,12 +282,12 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 法,fǎ,model oneself on / laws (法令),,灋,old-form,𢊁,compound,,水 (shuǐ = water) + 去 (qù = let go of / leave / apart (20)),,5,,0.0246,刑也。平之如水，从水；𢊁，所以觸不直者；去之，从去。,
 司,sī,"keep / preside over (司殺者, 74)",,司,exact,司,compound,,反 (fǎn = returning) + 后 (? = not yet glossed),,4,,0.0243,臣司事於外者。从反后。凡司之屬皆从司。,
 絕,Jué,cut off,,絕,exact,糸,compound,,糸 (mì = silk thread) + 刀 (dāo = a knife) + 卩 (jié = a kneeling person),,4,,0.0243,斷絲也。从糸从刀从卩。,
-命,mìng,the allotted course — what is spoken over a thing and sent with it,the allotted course — what is spoken over a thing and sent with it,命,exact,口,compound,,口 (kǒu = mouths) + 令 (lìng = make (令人) / command / laws (法令)),,3,,0.0241,使也。从口从令。,
+命,mìng,what is given,what is given,命,exact,口,compound,,"口 (kǒu = mouth) + 令 (lìng = command (the order, verb and noun) · make (令 + a person + a verb, the causative))",,3,Tier 3,0.0241,使也。从口从令。,
 建,jiàn,established / sturdy (41) / plant (54),,建,exact,廴,compound,,聿 (? = not yet glossed) + 廴 (? = not yet glossed),,3,,0.0241,立朝律也。从聿从廴。,
 昏,hūn,clouded,,昏,exact,日,compound,,日 (rì = day / daily / all day (終日)) + 氐 (? = not yet glossed),,4,,0.0241,日冥也。从日氐省。氐者，下也。一曰民聲。,
 本,běn,root,,本,exact,木,compound,,木 (mù = tree),,3,,0.0241,木下曰本。从木，一在其下。,
 狀,zhuàng,shape,,狀,exact,犬,phonetic-compound,,犬 (quǎn = dog),爿 (? = not yet glossed),3,,0.0241,犬形也。从犬爿聲。,
-私,sī,the private / the private self,the private / the private self,私,exact,禾,phonetic-compound,,禾 (hé = standing grain),厶 (sī = enclosing for oneself — the private),3,locked,0.0241,禾也。从禾厶聲。北道名禾主人曰私主人。,
+私,sī,the private self,the private self,私,exact,禾,phonetic-compound,,禾 (hé = standing grain),厶 (sī = enclosing for oneself — the private),3,Tier 3,0.0241,禾也。从禾厶聲。北道名禾主人曰私主人。,"A grain. From 禾 (hé — a grain stalk), with 厶 (sī) for sound. In the northern regions the owner of the grain is called the 私 owner."
 果,guǒ,succeed,,果,exact,木,compound,,木 (mù = tree),,6,,0.024,木實也。从木，象果形在木之上。,
 勤,qín,strain,strain,勤,exact,力,phonetic-compound,,力 (lì = force),𡏳 (? = not yet glossed),3,locked,0.0239,勞也。从力𡏳聲。,"Labor. From 力 (lì — strength), with 堇 (jǐn) for sound."
 夷,yí,level / the invisible (14),,夷,exact,大,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 弓 (gōng = bow)",,3,,0.0239,平也。从大从弓。東方之人也。,
@@ -301,8 +301,8 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 脆,cuì,fragile,,膬,old-form,肉,phonetic-compound,,肉 (ròu = flesh),毳 (? = not yet glossed),2,,0.0228,耎易破也。从肉毳聲。,
 賊,zéi,thieves (盜賊) / rob (65),,賊,exact,戈,phonetic-compound,,戈 (gē = a dagger-axe),則 (zé = then / and so),3,,0.0228,敗也。从戈則聲。,
 廣,Guǎng,broad · breadth (as a noun),broad · breadth (as a noun),廣,exact,广,phonetic-compound,,广 (yǎn = a shelter built against a bank),黃 (? = not yet glossed),3,locked,0.0219,殿之大屋也。从广黃聲。,"The great hall of a palace. From 广 (yǎn — a roof), with 黃 (huáng) for sound."
-割,gē,cut/carve,,割,exact,刀,phonetic-compound,,刀 (dāo = a knife),害 (hài = harm / hinder (66)),2,,0.0217,剥也。从刀害聲。,
-各,Gè,each,,各,exact,口,compound,,"口 (kǒu = mouths) + 夊 (suī = walking slowly, dragging the feet)",,2,,0.0217,異辭也。从口、夊。夊者，有行而止之，不相聽也。,
+割,gē,cut/carve,,割,exact,刀,phonetic-compound,,刀 (dāo = a knife),害 (hài = harm),2,,0.0217,剥也。从刀害聲。,
+各,Gè,each,,各,exact,口,compound,,"口 (kǒu = mouth) + 夊 (suī = walking slowly, dragging the feet)",,2,,0.0217,異辭也。从口、夊。夊者，有行而止之，不相聽也。,
 方,fāng,square,,方,exact,方,pictograph,,,,2,,0.0217,併船也。象兩舟省、緫頭形。凡方之屬皆从方。,
 銳,ruì,sharpness / sharp,,銳,exact,金,phonetic-compound,,金 (Jīn = Gold),兌 (duì = opening),3,,0.0217,芒也。从金兌聲。,
 患,huàn,trouble,,患,exact,心,phonetic-compound,,心 (xīn = heart) + 上 (Shàng = highest / above / those over (75)) + 貫 (? = not yet glossed) + 吅 (? = not yet glossed),吅 (? = not yet glossed),4,,0.0213,憂也。从心上貫吅，吅亦聲。,
@@ -327,10 +327,10 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 躁,zào,"restless, restlessness","restless, restlessness",趮,old-form,走,phonetic-compound,,"走 (zǒu = run (走馬, swift horses))",喿 (? = not yet glossed),3,locked,0.0198,疾也。从走喿聲。,
 恐,kǒng,likely to (將恐; lit. fear),,恐,exact,心,phonetic-compound,,心 (xīn = heart),𢀜 (? = not yet glossed),6,,0.0196,懼也。从心𢀜聲。,
 力,lì,force,force,力,exact,力,pictograph,,,,2,locked,0.0195,筋也。象人筋之形。治功曰力，能圉大災。凡力之屬皆从力。,
-口,kǒu,mouths,,口,exact,口,pictograph,,,,2,,0.0195,人所以言食也。象形。凡口之屬皆从口。,
+口,kǒu,mouth,mouth,口,exact,口,pictograph,,,,2,Tier 3,0.0195,人所以言食也。象形。凡口之屬皆从口。,What a person speaks and eats with. A pictograph.
 咎,jiù,fault,fault,咎,exact,人,compound,,"人 (rén = people / others / person (聖人, sage)) + 各 (Gè = each)",,2,locked,0.0195,災也。从人从各。各者，相違也。,"Disaster. From 人 (rén — a person) and 各 (gè — each, apart); 各 means being at odds."
 奈,Nài,(奈何) how / why,,柰,orthographic,木,phonetic-compound,,木 (mù = tree),示 (shì = show),2,,0.0195,果也。从木示聲。,
-孩,hái,smiled/giggled,,咳,old-form,口,phonetic-compound,,口 (kǒu = mouths),亥 (? = not yet glossed),2,,0.0195,小兒笑也。从口亥聲。,
+孩,hái,smiled/giggled,,咳,old-form,口,phonetic-compound,,口 (kǒu = mouth),亥 (? = not yet glossed),2,,0.0195,小兒笑也。从口亥聲。,
 新,xīn,new / renewed (22),,新,exact,斤,phonetic-compound,,斤 (jīn = an axe),新 (xīn = new / renewed (22)),2,,0.0195,取木也。从斤新聲。,
 異,yì,am different,,異,exact,異,compound,,廾 (gǒng = two hands raised together) + 畀 (? = not yet glossed),,2,,0.0195,分也。从廾从畀。畀，予也。凡異之屬皆从異。,
 脫,tuō,slip away / leave (36),,脫,exact,肉,phonetic-compound,,肉 (ròu = flesh),兌 (duì = opening),2,,0.0195,消肉臞也。从肉兌聲。,
@@ -347,7 +347,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 乘,shèng,chariot (萬乘) / ride (80),,椉,old-form,桀,compound,,入 (rù = enter) + 桀 (? = not yet glossed),,2,,0.0185,覆也。从入、桀。桀，黠也。軍法曰乘。,
 交,jiāo,converge / confluence (61),,交,exact,交,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,2,,0.0185,交脛也。从大，象交形。凡交之屬皆从交。,
 制,zhì,System/Administrator,,制,exact,刀,compound,,刀 (dāo = a knife) + 未 (wèi = not yet),,2,,0.0185,裁也。从刀从未。未，物成有滋味，可裁斷。一曰止也。,
-哀,āi,grief,,哀,exact,口,phonetic-compound,,口 (kǒu = mouths),衣 (Yī = clothe),2,,0.0185,閔也。从口衣聲。,
+哀,āi,grief,,哀,exact,口,phonetic-compound,,口 (kǒu = mouth),衣 (Yī = clothe),2,,0.0185,閔也。从口衣聲。,
 孤,gū,orphaned,,孤,exact,子,phonetic-compound,,"子 (zǐ = child (君子, the noble; 子孫, descendants))",瓜 (? = not yet glossed),2,,0.0185,無父也。从子瓜聲。,
 張,zhāng,stretch out / string a bow (77),,張,exact,弓,phonetic-compound,,弓 (gōng = bow),"長 (cháng = long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun))",2,,0.0185,施弓弦也。从弓長聲。,
 戶,hù,doors,,戶,exact,戶,pictograph,,,,2,,0.0185,護也。半門曰戶。象形。凡戶之屬皆从戶。,
@@ -393,7 +393,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 搏,Bó,Grasping/reaching for,,搏,exact,手,phonetic-compound,,手 (shǒu = hand),尃 (? = not yet glossed),2,,0.0163,索持也。一曰至也。从手尃聲。,
 榮,róng,glory / glorious (26),,榮,exact,木,phonetic-compound,,木 (mù = tree),熒 (? = not yet glossed),2,,0.0163,桐木也。从木，熒省聲。一曰屋梠之兩頭起者爲榮。,
 毒,dú,venomous / mature (51),,毒,exact,屮,compound,徒沃切,屮 (? = not yet glossed) + 毐 (? = not yet glossed),,2,,0.0163,厚也。害人之艸，往往而生。从屮从毐。,
-甘,gān,sweet,,甘,exact,甘,compound,,"口 (kǒu = mouths) + 含 (Hán = hold within, contain) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,2,,0.0163,美也。从口含一。一，道也。凡甘之屬皆从甘。,
+甘,gān,sweet,,甘,exact,甘,compound,,"口 (kǒu = mouth) + 含 (Hán = hold within, contain) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,2,,0.0163,美也。从口含一。一，道也。凡甘之屬皆从甘。,
 疏,shū,hold off / wide-meshed (73),,疏,exact,𠫓,phonetic-compound,,𡿮 (? = not yet glossed) + 疋 (? = not yet glossed),疋 (? = not yet glossed),2,,0.0163,通也。从𡿮从疋，疋亦聲。,
 輜,zī,"baggage cart (輜重, the heavy wagons)",,輜,exact,車,phonetic-compound,,車 (chē = cart),甾 (? = not yet glossed),1,,0.0163,軿車前，衣車後也。从車甾聲。,
 迷,mí,confused/lost,,迷,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",米 (mǐ = grains of rice),2,,0.0163,或也。从辵米聲。,
@@ -466,7 +466,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 手,shǒu,hand,,手,exact,手,pictograph,,,,1,,0.0119,拳也。象形。凡手之屬皆从手。,
 握,wò,grip,,握,exact,手,phonetic-compound,,手 (shǒu = hand),屋 (? = not yet glossed),1,,0.0119,搤持也。从手屋聲。,
 梁,liáng,"beam, rigid (強梁, strong and rigid)",,梁,exact,木,phonetic-compound,,木 (mù = tree) + 水 (shuǐ = water),刅 (? = not yet glossed),1,,0.0119,水橋也。从木从水，刅聲。,
-注,zhù,pour out (attention),,注,exact,水,phonetic-compound,,水 (shuǐ = water),"主 (zhǔ = master, lord / owner (34) / host (69))",1,,0.0119,灌也。从水主聲。,
+注,zhù,pour out (attention),,注,exact,水,phonetic-compound,,水 (shuǐ = water),主 (zhǔ = master),1,,0.0119,灌也。从水主聲。,
 祀,sì,"sacrifice (祭祀, offering sacrifices)",,祀,exact,示,phonetic-compound,詳里切,示 (shì = show),巳 (sì = a curled form — the sixth earthly branch),1,,0.0119,祭無已也。从示，巳聲。,
 祭,jì,"offering (祭祀, offering sacrifices)",,祭,exact,示,compound,子例切,示 (shì = show),,1,,0.0119,祭祀也。从示，以手持肉。,
 稅,shuì,taxes,,稅,exact,禾,phonetic-compound,,禾 (hé = standing grain),兌 (duì = opening),1,,0.0119,租也。从禾兌聲。,
@@ -490,7 +490,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 共,gòng,share/unite,,共,exact,共,compound,,廿 (? = not yet glossed) + 廾 (gǒng = two hands raised together),,1,,0.0108,同也。从廿、廾。凡共之屬皆从共。,
 冬,dōng,winter,,冬,exact,仌,compound,,仌 (bīng = ice) + 夂 (? = not yet glossed),,1,,0.0108,四時盡也。从仌从夂。夂，古文終字。,
 刃,rèn,blade,,刃,exact,刃,pictograph,,,,1,,0.0108,刀堅也。象刀有刃之形。凡刃之屬皆从刃。,
-加,jiā,raise above,,加,exact,力,compound,,力 (lì = force) + 口 (kǒu = mouths),,1,,0.0108,語相增加也。从力从口。,
+加,jiā,raise above,,加,exact,力,compound,,力 (lì = force) + 口 (kǒu = mouth),,1,,0.0108,語相增加也。从力从口。,
 坐,zuò,sit,,坐,exact,土,compound,,"土 (tǔ = dirt, earth) + 畱 (? = not yet glossed)",,1,,0.0108,止也。从土，从畱省。土，所止也。此與畱同意。,
 壽,shòu,live long,,壽,exact,老,phonetic-compound,,老 (lǎo = decay / grow old),𠷎 (? = not yet glossed),1,,0.0108,久也。从老省，𠷎聲。,
 奧,ào,"sanctuary, inmost corner",,奧,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house),𢍏 (? = not yet glossed),1,,0.0108,宛也。室之西南隅。从宀𢍏聲。,
@@ -540,8 +540,8 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 偏,Piān,"deputy (偏將軍, deputy general)",,偏,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",扁 (? = not yet glossed),1,,0.0098,頗也。从人扁聲。,
 儼,Yǎn,Reserved/dignified,,儼,exact,人,phonetic-compound,,"人 (rén = people / others / person (聖人, sage))",嚴 (? = not yet glossed),1,,0.0098,昂頭也。从人嚴聲。一曰好皃。,
 卻,què,"retire, send back",,卻,exact,卩,phonetic-compound,,卪 (? = not yet glossed),谷 (Gǔ = valley),1,,0.0098,節欲也。从卪谷聲。,
-召,zhào,summon,,召,exact,口,phonetic-compound,,口 (kǒu = mouths),刀 (dāo = a knife),1,,0.0098,𧦝也。从口刀聲。,
-周,Zhōu,Circulating/everywhere,,周,exact,口,compound,,用 (yòng = use) + 口 (kǒu = mouths),,1,,0.0098,密也。从用、口。,
+召,zhào,summon,,召,exact,口,phonetic-compound,,口 (kǒu = mouth),刀 (dāo = a knife),1,,0.0098,𧦝也。从口刀聲。,
+周,Zhōu,Circulating/everywhere,,周,exact,口,compound,,用 (yòng = use) + 口 (kǒu = mouth),,1,,0.0098,密也。从用、口。,
 圖,Tú,map out,,圖,exact,囗,compound,,"囗 (wéi = an enclosure, a boundary) + 啚 (? = not yet glossed)",,1,,0.0098,畫計難也。从囗从啚。啚，難意也。,
 埏,Shān,Kneading,,埏,exact,土,phonetic-compound,,"土 (tǔ = dirt, earth)",延 (? = not yet glossed),1,,0.0098,八方之地也。从土延聲。,
 域,Yù,bounds / realm,,或,old-form,戈,compound,,"囗 (wéi = an enclosure, a boundary) + 戈 (gē = a dagger-axe)",,1,,0.0098,邦也。从囗从戈，以守一。一，地也。,
@@ -613,10 +613,10 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 六,Liù,six,,六,exact,六,compound,,"入 (rù = enter) + 八 (bā = eight; to divide, to part)",,1,,0.0087,《易》之數，陰變於六，正於八。从入从八。凡六之屬皆从六。,
 劌,guì,wound,,劌,exact,刀,phonetic-compound,,刀 (dāo = a knife),歲 (? = not yet glossed),1,,0.0087,利傷也。从刀歲聲。,
 千,Qiān,thousand,,千,exact,十,compound,,"十 (shí = ten) + 人 (rén = people / others / person (聖人, sage))",,1,,0.0087,十百也。从十从人。,
-吉,Jí,auspicious,auspicious,吉,exact,口,compound,,士 (shì = in service) + 口 (kǒu = mouths),,1,locked,0.0087,善也。从士、口。,
-含,Hán,"hold within, contain",,含,exact,口,phonetic-compound,,口 (kǒu = mouths),今 (jīn = now / today (21)),1,,0.0087,嗛也。从口今聲。,
+吉,Jí,auspicious,auspicious,吉,exact,口,compound,,士 (shì = in service) + 口 (kǒu = mouth),,1,locked,0.0087,善也。从士、口。,
+含,Hán,"hold within, contain",,含,exact,口,phonetic-compound,,口 (kǒu = mouth),今 (jīn = now / today (21)),1,,0.0087,嗛也。从口今聲。,
 土,tǔ,"dirt, earth",,土,exact,土,pictograph,,,,1,,0.0087,地之吐生物者也。二象地之下、地之中，物出形也。凡土之屬皆从土。,
-垢,gòu,"grime (ch 78 follows the silks' 詬, shame)",,垢,exact,土,phonetic-compound,,"土 (tǔ = dirt, earth)",后 (? = not yet glossed),1,,0.0087,濁也。从土后聲。,
+垢,gòu,"shame (ch 78, the silks' 詬)","shame (ch 78, the silks' 詬)",垢,exact,土,phonetic-compound,,"土 (tǔ = dirt, earth)",后 (? = not yet glossed),1,locked,0.0087,濁也。从土后聲。,
 堂,táng,hall,,堂,exact,土,phonetic-compound,,"土 (tǔ = dirt, earth)",尚 (shàng = exalt / honor / even (23)),1,,0.0087,殿也。从土尚聲。,
 報,bào,repay,,報,exact,㚔,compound,,幸 (? = not yet glossed) + 𠬝 (? = not yet glossed),,1,,0.0087,當罪人也。从幸从𠬝。𠬝，服罪也。,
 央,yāng,reached the center/end,,央,exact,冂,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 在 (zài = in / be in) + 冂 (jiōng = the far borders, open country) + 之 (zhī = of ('s) / it, them / (links a modifier to its noun)) + 内 (? = not yet glossed)",,1,,0.0087,中央也。从大在冂之内。大，人也。央㫄同意。一曰久也。,
@@ -692,7 +692,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 質,zhì,"substance, substantial",,質,exact,貝,compound,,"貝 (bèi = a cowrie shell — money, worth) + 斦 (? = not yet glossed)",,1,,0.0087,以物相贅。从貝从斦。闕。,
 赤,chì,"red (赤子, newborn)",,赤,exact,赤,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman) + 火 (huǒ = fire)",,1,,0.0087,南方色也。从大从火。凡赤之屬皆从赤。,
 超,chāo,"apart (超然, stay apart)",,超,exact,走,phonetic-compound,,"走 (zǒu = run (走馬, swift horses))",召 (zhào = summon),1,,0.0087,跳也。从走召聲。,
-跨,Kuà,Striding/taking long steps,,跨,exact,足,phonetic-compound,,足 (zú = enough / foot (64)),"夸 (kuā = boast, flaunt (verse reads 竽, ringleader))",1,,0.0087,渡也。从足夸聲。,
+跨,Kuà,Striding/taking long steps,,跨,exact,足,phonetic-compound,,足 (zú = enough · not enough (不足) · foot (the body part)),"夸 (kuā = boast, flaunt (verse reads 竽, ringleader))",1,,0.0087,渡也。从足夸聲。,
 車,chē,cart,,車,exact,車,pictograph,,,,1,,0.0087,輿輪之緫名。夏后時奚仲所造。象形。凡車之屬皆从車。,
 輿,yú,cart,,輿,exact,車,phonetic-compound,,車 (chē = cart),舁 (yú = four hands lifting together),1,,0.0087,車輿也。从車舁聲。,
 通,tōng,penetrating/connected,,通,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",甬 (? = not yet glossed),1,,0.0087,達也。从辵甬聲。,
@@ -719,7 +719,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 冥,míng,obscure/dim,,冥,exact,冥,phonetic-compound,,日 (rì = day / daily / all day (終日)) + 六 (Liù = six),冖 (? = not yet glossed),1,,0.0076,幽也。从日从六，冖聲。日數十。十六日而月始虧幽也。凡冥之屬皆从冥。,
 劍,jiàn,sword,,劒,old-form,刃,phonetic-compound,,刃 (rèn = blade),僉 (? = not yet glossed),1,,0.0076,人所帶兵也。从刃僉聲。,
 勢,shì,circumstance,,勢,exact,力,phonetic-compound,,力 (lì = force),埶 (? = not yet glossed),1,,0.0076,盛力權也。从力埶聲。經典通用埶。,
-吹,chuī,blow/breathe easy,,吹,exact,口,compound,,"口 (kǒu = mouths) + 欠 (qiàn = a person with the mouth open — breath, wanting)",,1,,0.0076,噓也。从口从欠。,
+吹,chuī,blow/breathe easy,,吹,exact,口,compound,,"口 (kǒu = mouth) + 欠 (qiàn = a person with the mouth open — breath, wanting)",,1,,0.0076,噓也。从口从欠。,
 妄,Wàng,Recklessly,,妄,exact,女,phonetic-compound,,女 (nǚ = a woman),亡 (wáng = vanish (33) / loss / forget (41)),1,,0.0076,亂也。从女亡聲。,
 寒,hán,cold,,寒,exact,宀,compound,,"人 (rén = people / others / person (聖人, sage)) + 在 (zài = in / be in) + 宀 (mián = a roof; under a house) + 下 (xià = below / low, lowest (天下, the world))",,1,,0.0076,凍也。从人在宀下，以茻薦覆之，下有仌。,
 尤,yóu,blame,blame,尢,old-form,乙,phonetic-compound,,乙 (? = not yet glossed),又 (yòu = again / and further),1,locked,0.0076,異也。从乙又聲。,"Out of the ordinary. From 乙 (yǐ — a shoot coming up bent), with 又 (yòu) for sound."
@@ -748,7 +748,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 蕪,wú,choked with weeds,,蕪,exact,艸,phonetic-compound,,"艸 (cǎo = grass, growing plants)",無 (Wú = absence),1,,0.0076,薉也。从艸無聲。,
 裂,liè,split,,裂,exact,衣,phonetic-compound,,衣 (Yī = clothe),𠛱 (? = not yet glossed),1,,0.0076,繒餘也。从衣𠛱聲。,
 覆,fù,"protect, cover over",,覆,exact,襾,phonetic-compound,,襾 (? = not yet glossed),"復 (Fù = return, go back)",1,,0.0076,覂也。一曰蓋也。从襾復聲。,
-蹶,jué,topple,,蹶,exact,足,phonetic-compound,,足 (zú = enough / foot (64)),厥 (? = not yet glossed),1,,0.0076,僵也。从足厥聲。一曰跳也。亦讀若橜。,
+蹶,jué,topple,,蹶,exact,足,phonetic-compound,,足 (zú = enough · not enough (不足) · foot (the body part)),厥 (? = not yet glossed),1,,0.0076,僵也。从足厥聲。一曰跳也。亦讀若橜。,
 闚,kuī,"look out, peer",,闚,exact,門,phonetic-compound,,門 (mén = gate / door),規 (? = not yet glossed),1,,0.0076,閃也。从門規聲。,
 隳,huī,fall/are destroyed,,隓,old-form,𨸏,phonetic-compound,,𨸏 (? = not yet glossed),𢀡 (? = not yet glossed),1,,0.0076,敗城𨸏曰隓。从𨸏𢀡聲。,
 雄,xióng,the rooster,the rooster,雄,exact,隹,phonetic-compound,,隹 (zhuī = a short-tailed bird),厷 (? = not yet glossed),1,locked,0.0076,鳥父也。从隹厷聲。,

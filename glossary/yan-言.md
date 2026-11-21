@@ -72,7 +72,7 @@ Also 73's *it does not speak, yet is masterful at answering*, and 66's *you must
 >
 > — chapter 2
 
-> *The unspoken teaching, the benefit of non-doing —*
+> *The unspoken teaching, the abundance of non-doing —*
 >
 > 不言之教，無為之益，
 >

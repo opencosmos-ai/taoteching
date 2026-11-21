@@ -36,8 +36,11 @@ Hold that against the two conventional renderings and both fall away. **Sincerit
 
 **It returns exactly what it is given.** The same seven characters close Chapters 17 and 23:
 
-> 信不足焉，有不信焉
-> *where trust runs short, there is no trust*
+> *Where there is not enough trust, there is no trust.*
+>
+> 信不足焉，有不信焉。
+>
+> — chapter 23
 
 **No agent is named, and the English must not name one either** — because the two oldest commentaries read the consequence differently and both must stand. 河上公 (*Héshàng Gōng*) reads it as reciprocity: 君信不足於下，下則應之以不信而欺其君也 — *"the ruler's trustworthiness is insufficient toward those below; those below respond with untrust and deceive their ruler."* 王弼 (*Wáng Bì*) reads it as **emergence, with no second party at all**: 夫御體失性則疾病生…信不足焉，則有不信，此自然之道也 — *"govern the body and lose its nature, and sickness arises… where trust is insufficient, there is untrust; this is the way of things being so of themselves."* Nothing is given back in 王弼's version; the deficiency simply produces its own consequence, the way disease follows a violated nature. *(Both chapters read alike as of 2026-08-30; ch 17 had supplied "leaders" and "the people," which took 河上公's side and also ran the failure backwards — 信 is the ruler's **reliability**, not the ruler's trusting.)*
 
@@ -67,7 +70,7 @@ Hold that against the two conventional renderings and both fall away. **Sincerit
 
 ### Working register
 
-- as a noun → **trust** (信不足焉，有不信焉 → "where trust runs short, there is no trust," identically at ch 17 and ch 23; 寡信 → "short on trust")
+- as a noun → **trust** (信不足焉，有不信焉 → "where there is not enough trust, there is no trust," identically at ch 17 and ch 23, Shalom's line of 2026-11-20 (`glossary/zu-足.md`); 寡信 → "short on trust")
 - as an adjective or the person who has it → **trustworthy** (信者 → "the trustworthy"; 不信者 → "the untrustworthy"; 德信 → "integrity is trustworthy")
 - as a verb → **trust** (吾信之 → "I trust them")
 - of words → **trustworthy** (信言 → "trustworthy words")

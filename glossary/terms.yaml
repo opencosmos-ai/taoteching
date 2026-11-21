@@ -8,7 +8,6 @@
   chapters: [1, 2, 3, 7, 8, 10, 11, 13, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 43, 46, 48, 49, 50, 51, 52, 53, 57, 58, 59, 62, 63, 64, 67, 69, 70, 72, 74, 75, 77, 78, 79, 80, 81]
   status: locked
   entry: glossary/wu-you-無有.md
-  # covers 利 -> advantage
   # covers 用 -> use
 
 - term: "為"
@@ -65,6 +64,7 @@
     - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
     - { english: "gain", chapters: [44], why: "the ledger chapter, worth more, great cost, heavy loss; Wang Bi: getting much profit and losing the body. Shalom's call, 2026-11-19" }
     - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
+    - { english: "achieve", chapters: [31], why: "得志, the idiom for an aim reached: achieve their aims; Shalom's call, 2026-11-20 (glossary/zhi-志.md)" }
     - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 
 - term: "可"
@@ -229,6 +229,14 @@
   entry: glossary/qiang-強.md
   # covers 力 -> force
 
+- term: "足"
+  pinyin: "zú"
+  render: "enough · not enough (不足) · foot (the body part)"
+  forbidden: ["sufficient", "insufficient", "sufficiency", "deficient", "deficiency", "too little", "runs short"]
+  chapters: [17, 19, 23, 28, 33, 35, 41, 44, 46, 48, 64, 77]
+  status: locked
+  entry: glossary/zu-足.md
+
 - term: "長"
   pinyin: "cháng / zhǎng"
   render: "long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)"
@@ -300,6 +308,17 @@
   entry: glossary/wuwei-無為.md
   flexions:
     - { english: "does not handle it", chapters: [64], why: "a verb phrase answering 為者敗之, whose 為 reads handle here and at ch 29; grammar decides the form" }
+
+- term: "利"
+  pinyin: "lì"
+  render: "benefit (verb and noun) · beneficial (利器, before a noun)"
+  forbidden: ["profit", "advantage"]
+  chapters: [8, 11, 19, 36, 53, 56, 57, 73, 81]
+  status: locked
+  entry: glossary/li-利.md
+  flexions:
+    - { english: "sharp", chapters: [53], why: "利劍 (lì jiàn), a sword's edge: the Shuowen's own sense, on the hip of a court that has more than enough" }
+  # covers 害 -> harm
 
 - term: "器"
   pinyin: "qì"
@@ -376,14 +395,14 @@
 
 - term: "王"
   pinyin: "wáng"
-  render: "ruler / sovereign · to rule (verb)"
+  render: "sovereign"
   forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]
   chapters: [16, 25, 32, 37, 39, 42, 66, 78]
   status: locked
   entry: glossary/wang-王.md
   flexions:
     - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
-  # covers 侯 -> ruler (inside 侯王)
+  # covers 侯 -> nobles (inside 侯王)
 
 - term: "和"
   pinyin: "hé"
@@ -519,6 +538,16 @@
   # covers 直 -> true
   # covers 屈 -> bent
 
+- term: "畏"
+  pinyin: "wèi"
+  render: "fear"
+  forbidden: [" awe", "reverence", "revere", "dread"]
+  chapters: [15, 17, 20, 53, 72, 74]
+  status: locked
+  entry: glossary/wei-畏.md
+  flexions:
+    - { english: "wary", chapters: [15], why: "a likeness, not a threat met: the neighbors watch, or close in, and the English keeps the watching without naming them the danger" }
+
 - term: "眾"
   pinyin: "zhòng"
   render: "the crowd / the many"
@@ -526,6 +555,29 @@
   chapters: [1, 8, 20, 21, 31, 64]
   status: locked
   entry: glossary/zhong-眾.md
+
+- term: "餘"
+  pinyin: "yú"
+  render: "more than enough (有餘) · leftover (before a noun)"
+  forbidden: ["excess", "surplus", "superfluous"]
+  chapters: [20, 24, 53, 54, 77, 79]
+  status: locked
+  entry: glossary/yu-餘.md
+  flexions:
+    - { english: "abundant", chapters: [54], why: "a rung of the ladder, 其德乃餘, kept short beside its neighbors (authentic, grows, bountiful, universal)" }
+    - { english: "remains", chapters: [79], why: "the grudge left after a settling, 必有餘怨, given the weight of a close" }
+
+- term: "主"
+  pinyin: "zhǔ"
+  render: "master"
+  forbidden: ["overlord"]
+  chapters: [26, 30, 34, 69, 78]
+  status: locked
+  entry: glossary/zhu-主.md
+  flexions:
+    - { english: "ruler", chapters: [30], why: "人主 (rén zhǔ), Han Fei's term for the one who holds a state, the one an adviser serves; shared with 君 (jūn), and it keeps the master clear of 善's 'the masterful one' four lines later" }
+    - { english: "host", chapters: [69], why: "主 against 客 (kè — guest): the master of the house, its home sense" }
+    - { english: "keeper", chapters: [78], why: "社稷主 (shè jì zhǔ), the one who presides over the soil and the grain, which no one is master of" }
 
 - term: "仁"
   pinyin: "rén"
@@ -553,6 +605,14 @@
   entry: glossary/ji-極.md
   flexions:
     - { english: "the endless", chapters: [28], why: "the compound 無極, where the negation turns the limit into its absence" }
+
+- term: "殆"
+  pinyin: "dài"
+  render: "danger"
+  forbidden: ["depletion", "deplete", "exhaust", "inexhaustible", "peril"]
+  chapters: [16, 25, 32, 44, 52]
+  status: locked
+  entry: glossary/dai-殆.md
 
 - term: "母"
   pinyin: "mǔ"
@@ -595,6 +655,14 @@
   status: locked
   entry: glossary/luan-亂.md
 
+- term: "令"
+  pinyin: "lìng"
+  render: "command (the order, verb and noun) · make (令 + a person + a verb, the causative)"
+  forbidden: ["decree", "edict", "ordain"]
+  chapters: [12, 19, 32, 57]
+  status: locked
+  entry: glossary/ling-令.md
+
 - term: "保"
   pinyin: "bǎo"
   render: "keep safe"
@@ -604,6 +672,16 @@
   entry: glossary/bao-保.md
   flexions:
     - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
+
+- term: "益"
+  pinyin: "yì"
+  render: "increase (the process, beside 損) · abundance (the overflow itself)"
+  forbidden: ["profit", "advantage"]
+  chapters: [42, 43, 48, 55]
+  status: locked
+  entry: glossary/yi-益.md
+  flexions:
+    - { english: "abundance", chapters: [43], why: "無為之益, a noun with no 損 beside it: the vessel running over, which goes out to others" }
 
 - term: "神 & 靈"
   pinyin: "shén / líng"
@@ -625,14 +703,22 @@
   entry: glossary/huo-fu-禍福.md
   # covers 罪 -> crime
 
+- term: "辱"
+  pinyin: "rǔ"
+  render: "soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)"
+  forbidden: ["humiliation", "humiliate", "dishonor", "ignominy"]
+  chapters: [13, 28, 41, 44]
+  status: locked
+  entry: glossary/ru-辱.md
+  # covers 垢 -> shame (ch 78, the silks' 詬)
+
 - term: "公"
   pinyin: "gōng"
-  render: "impartiality / impartial (the quality) · lord / minister (the office)"
+  render: "impartiality / impartial (the quality) · noble / minister (the office)"
   forbidden: ["duke", "equanimity", "justice"]
   chapters: [16, 42, 62]
   status: locked
   entry: glossary/gong-公.md
-  # covers 私 -> the private / the private self
 
 - term: "凶 & 吉"
   pinyin: "xiōng / jí"
@@ -656,6 +742,16 @@
   flexions:
     - { english: "labor", chapters: [41], why: "affirmed rather than negated, so strain would fault the effort, a verdict the Chinese does not pass" }
 
+- term: "君"
+  pinyin: "jūn"
+  render: "ruler"
+  forbidden: ["sovereign", "monarch", " king", "mastery", "gentleman", "superior man", "prince"]
+  chapters: [26, 31, 70]
+  status: locked
+  entry: glossary/jun-君.md
+  flexions:
+    - { english: "the noble", chapters: [26, 31], why: "君子 (jūn zǐ — a ruler's son), the honorific of a class: it keeps the rank and drops the sex" }
+
 - term: "士"
   pinyin: "shì"
   render: "in service"
@@ -663,6 +759,16 @@
   chapters: [15, 41, 68]
   status: locked
   entry: glossary/shi-士.md
+
+- term: "志"
+  pinyin: "zhì"
+  render: "will (the heart's drive)"
+  forbidden: ["ambition", "willpower", "aspiration"]
+  chapters: [3, 31, 33]
+  status: locked
+  entry: glossary/zhi-志.md
+  flexions:
+    - { english: "aims", chapters: [31], why: "得志, the idiom for the target reached: achieve their aims. Will is the drive, not the result (Shalom)" }
 
 - term: "愚"
   pinyin: "yú"
@@ -751,13 +857,23 @@
   status: locked
   entry: glossary/zhizu-知足.md
 
+- term: "口"
+  pinyin: "kǒu"
+  render: "mouth"
+  forbidden: ["palate"]
+  chapters: [12, 35]
+  status: locked
+  entry: glossary/kou-口.md
+
 - term: "命"
   pinyin: "mìng"
-  render: "the allotted course — what is spoken over a thing and sent with it"
+  render: "what is given"
   forbidden: ["mandate", "destiny", "fate", "decree"]
   chapters: [16, 51]
-  status: open
+  status: locked
   entry: glossary/ming-命.md
+  flexions:
+    - { english: "command", chapters: [51], why: "a verb in 令's own frame, 莫之X而; the two were one graph, and the commentators read one act" }
 
 - term: "咎"
   pinyin: "jiù"
@@ -792,6 +908,14 @@
   chapters: [21, 42]
   status: locked
   entry: glossary/fu-父.md
+
+- term: "私"
+  pinyin: "sī"
+  render: "the private self"
+  forbidden: ["selfish", "selfless", "ego"]
+  chapters: [7, 19]
+  status: locked
+  entry: glossary/si-私.md
 
 - term: "精"
   pinyin: "jīng"

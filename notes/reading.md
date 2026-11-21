@@ -541,8 +541,8 @@ So the argument for the 弱 lock and the image at the heart of Ch 77 are close k
 
 Ch 75 says the people go hungry because those over them eat up so much in taxes. Ch 77 says why that is not merely cruel but **backwards**, and it does so by putting the human arrangement and the natural one in the same grammar, one line apart:
 
-天之道，損有餘而補不足 — *the way of nature takes from what has too much and mends what falls short.*
-人之道，則不然，損不足以奉有餘 — *the way of people is not like this. It takes from those who have too little and offers it up to those who have too much.*
+天之道，損有餘而補不足 — *the way of nature takes from where there is more than enough and mends where there is not enough.*
+人之道，則不然，損不足以奉有餘 — *the way of people is not like this. It takes from those who do not have enough and offers it up to those who have more than enough.*
 
 Two clauses, the same four terms, the arrows reversed. This is the most explicitly political sentence in the book, and it is also its plainest piece of physics: a strung bow, water finding its level, a garment patched where it wore thin. Nothing here appeals to justice or to a judge. 天 (*tiān* — nature) has no partiality to exercise — Ch 79 says so outright, 天道無親 — so the levelling is not a verdict. It is what happens when nobody is holding the thing up.
 

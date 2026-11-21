@@ -57,7 +57,7 @@ supersedes: []
 
 **A pronoun with one candidate is fine.** English needs pronouns; the rule is about **competing** referents, not about pronouns as such.
 
-**Deliberate agentlessness is not a floating referent.** *"Where trust runs short, there is no trust"* has no agent **on purpose**, because 王弼 (*Wáng Bì*) reads the line as emergence with no second party. That is a resolved decision to name nobody, and it is recorded. A floating *it* is an unresolved decision to name somebody.
+**Deliberate agentlessness is not a floating referent.** *"Where there is not enough trust, there is no trust"* has no agent **on purpose**, because 王弼 (*Wáng Bì*) reads the line as emergence with no second party. That is a resolved decision to name nobody, and it is recorded. A floating *it* is an unresolved decision to name somebody.
 
 **And it does not license inserting a subject the Chinese excludes.** Where naming the referent would supply a person the line does not have, recast instead — the sentence can end without one.
 

@@ -69,18 +69,18 @@ Water and a tongue are not weak. They are things that do not resist, and therefo
 
 讓 (*ràng*) means to give way. This is the only gloss any commentator gives on the causative in ch 3, and it reads yielding, not diminishing.
 
-**The same words are for rulers.** At ch 42 he says rulers and lords 處謙卑，法虛空，和柔 (*chǔ qiān bēi, fǎ xū kōng, hé róu* — "dwell modest and low, model on empty space, gentle and soft"). What ch 3 gives the people is what the sage practices, and 弱者道之用 (*ruò zhě dào zhī yòng* — "Yielding is the Tao's use") at ch 40 is where it comes from.
+**The same words are for rulers.** At ch 42 he says sovereigns and nobles 處謙卑，法虛空，和柔 (*chǔ qiān bēi, fǎ xū kōng, hé róu* — "dwell modest and low, model on empty space, gentle and soft"). What ch 3 gives the people is what the sage practices, and 弱者道之用 (*ruò zhě dào zhī yòng* — "Yielding is the Tao's use") at ch 40 is where it comes from.
 
 ### Making something yield
 
 Two of the ten lines make something yield, with an object:
 
-- **ch 3** 弱其志，強其骨 — *teaching their ambition to yield and strengthening their bones*
+- **ch 3** 弱其志，強其骨 — *teaching their will to yield and strengthening their bones*
 - **ch 36** 將欲弱之，必固強之 — *If you would have it yield, you must first strengthen it*
 
 **弱 here is a stative word made causative,** as its neighbours in ch 3 are: 虛 (*xū* — empty) gives *emptying*, 實 (*shí* — full) gives *filling*, 強 (*qiáng* — strong) gives *strengthening*. Each keeps its root, and so does 弱. English has no one-word causative of *yield*, so each line takes a helper verb. The helper belongs to the construction and not to the character, and it is where the two lines differ: the sage **teaches**, and the strategist **has**.
 
-**Ch 3 reads *teaching their ambition to yield*.**
+**Ch 3 reads *teaching their will to yield*.** *(Since 2026-11-20; it read* ambition *from 2026-11-02, and 志 (zhì) now reads* will *as at ch 33: `glossary/zhi-志.md`.)*
 
 - ***Yielding their ambition*** fails: with an object, *yield* means produce or surrender, and *produce* reverses the line.
 - ***Making*** is accurate, but *make them yield* is the language of force, which is the fault `process/principles/collocation-carries-a-verdict.md` names.
@@ -152,7 +152,7 @@ Chapter 76 works by spending the **admiring** word on a corpse: 堅強 (*jiān q
 ### Working register
 
 - **yielding** — ch 36 (柔弱勝剛強), 40, 55, 76, 78
-- **yield**, with a helper verb — ch 3 (弱其志), *teaching their ambition to yield*; ch 36 (將欲弱之), *have it yield*
+- **yield**, with a helper verb — ch 3 (弱其志), *teaching their will to yield*; ch 36 (將欲弱之), *have it yield*
 
 ### What is set aside
 
