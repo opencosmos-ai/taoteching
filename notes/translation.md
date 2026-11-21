@@ -534,13 +534,19 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 *2026-11-20, Shalom's call. `glossary/si-私.md`.* *(was: "diminish the self" at 19.)*
 
-**Ch 19's *the self* borrowed the lock of 我吾 (*wǒ wú*)**, in a chapter that holds neither, and lost the curl 私 is: the self that encircles itself (Han Fei). Now *"diminish the private self, diminish desire,"* with ch 7's *no private self* and *complete their private self*. Heshang Gong ties the chapters together: 少私者，正無私也 (*"to diminish the private self is precisely to have no private self"*). 私 moves out of 公's covers into its own entry. Cost: the close's even rhythm.
+**Ch 19's *the self* borrowed the lock of 我吾 (*wǒ wú*)**, in a chapter that holds neither, and lost the curl 私 is: the self that encircles itself (Han Fei). Now *"diminish the private self, diminish desire,"* with ch 7's *no private self* and *their private self can be completed*. Heshang Gong ties the chapters together: 少私者，正無私也 (*"to diminish the private self is precisely to have no private self"*). 私 moves out of 公's covers into its own entry. Cost: the close's even rhythm.
 
 ### Ch 12 · 口 → "mouths", and the series names each organ whole
 
 *2026-11-20, Shalom's call. `glossary/kou-口.md`.* *(was: "palates dull.")*
 
 **口 (*kǒu*) is the Shuowen's 人所以言食也 (*"what a person speaks and eats with"*).** Ch 12's series now reads *eyes, ears, mouths, hearts*, each organ whole, where *palate* named only the tasting part and picked eating over speech. 口 reads *mouth* in both its lines, and Heshang Gong ties them: indulge the five flavors in the mouth and it loses the taste of the Tao (人嗜五味於口則口亡，言失於道味也), the Tao *bland in the mouth* at ch 35. Cost: *palates dull* was the more exact English.
+
+### Ch 7, 47 · 成's last two calls: one voice for the frame, *completes* at 47
+
+*2026-11-20, Shalom's calls, closing `WORKLIST.md` T2-91. `glossary/cheng-成.md`.* *(was: "And so they can complete their private self" at 7; "and accomplishes without acting" at 47.)*
+
+**Ch 47 → *"and completes without acting"***, so 成 reads *complete* in every line. *Accomplish* was an achievement word; Wang Bi reads 使之成 (*"lets them come to completion"*). **The frame 故能成其X reads passive in all three lines**, ch 7 *"And so their private self can be completed,"* as 34 and 63 read by Shalom's call of 2026-11-19. The passive is the book's completing, which has almost no doer, and at 34 it keeps the Tao from completing the greatness it never makes. Heshang Gong at 7: 己自厚 (*"the self thickens of itself"*). Cost: the active paradox at 7, and the doer R5 restored.
 
 ## Chapter notes
 

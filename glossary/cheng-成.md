@@ -30,7 +30,7 @@ refs:
 
 *Say "chung," rising. Seventeen lines across fourteen chapters, and one English in all of them. The word for a thing brought to its end, and in this book completion is almost never something done to a thing. It is what happens to it.*
 
-**Locked: 成 → "complete," in every line, with no exceptions.** *(Shalom's calls, 2026-11-20.)* *(Not "compiled," which makes the cosmos a program and slips a programmer in behind it. Not "perfect," which makes completion a Platonic ideal the book does not hold. Not "become," which is a verb English needs, not 成's word.)*
+**Locked: 成 → "complete," in every line, with no exceptions.** *(Shalom's calls, 2026-11-20; chapter 47 and the frame's voice settled the same day, `WORKLIST-CLOSED.md` T2-91.)* *(Not "compiled," which makes the cosmos a program and slips a programmer in behind it. Not "perfect," which makes completion a Platonic ideal the book does not hold. Not "become," which is a verb English needs, not 成's word.)*
 
 ### The graph: an axe and a wall
 
@@ -64,7 +64,7 @@ refs:
 > — chapter 51
 
 > *names without seeing,*
-> *and accomplishes without acting.*
+> *and completes without acting.*
 >
 > 不見而名，
 > 不為而成。
@@ -135,10 +135,10 @@ refs:
 
 **The reading closes a circle with chapter 28.** There, 樸散則為器 (*pǔ sàn zé wéi qì* — "the uncarved wood scatters, and becomes vessels"), and the sage, who was never carved, becomes chief of the officers. Here the one who will not go first becomes chief of the completed vessels: the uncarved presiding over the finished things. *Become* stays in the English, as the verb English needs and the verb Han Fei prints; it is not 成's word (`process/principles/supplied-verb-is-scaffolding.md`). Han Fei's 為 is recorded in `sources/variants.yaml`, beside his 事 (*shì* — affairs) for our 器 (*qì* — vessel).
 
-### And so they can complete it: one frame, three lines
+### Can be completed: one frame, three lines, one voice
 
 > *Is it not because they have no private self?*
-> *And so they can complete their private self.*
+> *And so their private self can be completed.*
 >
 > 非以其無私邪？
 > 故能成其私。
@@ -153,7 +153,7 @@ refs:
 >
 > — chapter 63
 
-**故能成其X (*gù néng chéng qí X* — "and so can complete their X") stands three times**, at 7 with 私 (*sī* — private self) and at 34 and 63 with 大 (*dà* — great). Where the Chinese repeats its frame, the English repeats its verb: *complete* in all three. **Chapter 7 is the paradox in its sharpest form**: the self is completed by the one who has none. Wang Bi: 無私者，無為於身也。身先身存，故曰能成其私也 — *"having no private self is not acting for the body. The body comes first, the body survives, and so it says they can complete their private self."* Heshang Gong: 聖人無私而己自厚 — *"the sage has no private aim, and the self thickens of itself."*
+**故能成其X (*gù néng chéng qí X* — "and so can complete their X") stands three times**, at 7 with 私 (*sī* — private self) and at 34 and 63 with 大 (*dà* — great). Where the Chinese repeats its frame, the English repeats its verb, *complete*, **and its voice: passive, with 能 (*néng*)'s *can*** (Shalom's call, 2026-11-20). The passive is the book's completing: at 34, right after *"It never makes itself great,"* an active *it can complete its greatness* would have the Tao do what the line denies. **Chapter 7 is the paradox in its sharpest form**: the self is completed in the one who has none, and no one completes it. Wang Bi: 無私者，無為於身也。身先身存，故曰能成其私也 — *"having no private self is not acting for the body. The body comes first, the body survives, and so it says they can complete their private self."* Heshang Gong: 聖人無私而己自厚 — *"the sage has no private aim, and the self thickens of itself."*
 
 ### What is set aside
 
@@ -180,11 +180,11 @@ refs:
 | 大成若缺 (45) | noun | *completeness* |
 | 勢成之 (51) | verb, with object | *completes them* |
 | 幾成而敗之 (64) | verb | *completing them* |
-| 故能成其私 (7), 故能成其大 (34, 63) | the frame | *complete their private self*, *greatness can be completed* |
+| 故能成其私 (7), 故能成其大 (34, 63) | the frame, passive | *their private self can be completed*, *their greatness can be completed* |
 | 成器長 (67) | adjective, inside the noun phrase | *completed vessels* |
 | 功成 (2, 17, 34, 77) | the formula | *the work is complete* |
 | 不新成 (15) | verb, negated | *never newly completed* |
-| 不為而成 (47) | verb, no object | *accomplishes* — owed, below |
+| 不為而成 (47) | verb, no object | *completes* |
 
 ### What no rule can enforce
 
@@ -196,6 +196,6 @@ refs:
 
 ### Left open
 
-**Chapter 47's *accomplishes*.** 不為而成 (*bù wéi ér chéng* — "completes without acting") is the one completing verb outside the register. *Completes without acting* would bring it in.
+**Chapter 7's doer.** The accuracy audit restored the sage as the one who completes (2026-11-19), and the frame's one voice took them out again the next day. The Chinese grammar is active, *they can complete*; the passive follows the commentators and the book's completing, and gives up the sharper paradox.
 
-**The frame's voice.** 故能成其X reads active at chapter 7 (*they can complete their private self*) and passive at 34 and 63 (*their greatness can be completed*), each a call of Shalom's. The verb is one word now; whether the voice should be one too is open.
+**Chapter 47's completing has an object no one names.** *Completes without acting* leaves it open whether the sage completes things or things are completed; Wang Bi reads the second, 使之成 (*"lets them come to completion"*).

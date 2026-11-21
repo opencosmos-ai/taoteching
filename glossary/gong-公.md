@@ -47,7 +47,7 @@ Every rung widens the circle beyond the self, and **公 is where the widening le
 Laozi does not use 公 and 私 in one line, but he uses 私 where it counts, and it is the same negation running the other way.
 
 > Ch 7 · 天地所以能長且久者，以其不自生 … 非以其**無私**邪？故能成其**私**。
-> *"Sky and earth can last and endure because they do not live for themselves … Is it not because they have no private self? And so they can complete their private self."*
+> *"Sky and earth can last and endure because they do not live for themselves … Is it not because they have no private self? And so their private self can be completed."*
 
 That is 公 stated as a paradox: the self is completed by facing away from it. And Ch 19 gives the instruction in four characters — 少**私**寡欲, *"diminish the private self, diminish desire"* — where 私 sits beside 欲 (*yù* — desire) as one of the two things to thin out. 私 has its own entry, `glossary/si-私.md`.
 

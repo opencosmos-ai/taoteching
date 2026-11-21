@@ -54,7 +54,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 7,5,2,是以聖人後其身而身先，,"Shì yǐ shèng rén hòu qí shēn ér shēn xiān,","Therefore \[shi yi\] the Sage \[sheng ren\] puts behind \[hou\] their \[qi\] body/self \[shen\], yet \[er\] their body comes first/ahead \[xian\],","Therefore the sage puts their body last, and their body comes first;",exact-count
 7,6,2,外其身而身存。,wài qí shēn ér shēn cún.,"puts outside \[wai\] their body, yet their body is preserved/exists \[cun\].","puts their body outside, and their body survives.",exact-count
 7,7,2,非以其無私邪？,Fēi yǐ qí wú sī xié?,Is it not (fei) because they have no (wu) private self (si — grain held back for oneself)?,Is it not because they have no private self?,exact-count
-7,8,2,故能成其私。,gù néng chéng qí sī.,"Therefore they can complete (cheng) their private self (si) — the same character, emptied then fulfilled.",And so they can complete their private self.,exact-count
+7,8,2,故能成其私。,gù néng chéng qí sī.,"Therefore they can complete (cheng) their private self (si) — the same character, emptied then fulfilled.",And so their private self can be completed.,exact-count
 8,1,1,上善若水。,Shàng shàn ruò shuǐ.,The highest/supreme \[shang\] good/excellence \[shan\] is like \[ruo\] water \[shui\].,The most masterful are like water.,exact-count
 8,2,1,水善利萬物而不爭，,"Shuǐ shàn lì wàn wù ér bù zhēng,","Water is good at benefiting \[li\] the ten thousand things \[wan wu\] and \[er\] does not contend/compete \[zheng\],",Water is masterful at benefiting the countless things and does not contend.,exact-count
 8,3,1,處眾人之所惡，,"chǔ zhòng rén zhī suǒ è,","it dwells \[chu\] in places the multitudes \[zhong ren\] dislike/hate \[e\],","It dwells in what the crowd loathes,",exact-count
@@ -534,7 +534,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 47,2,1,不闚牖，見天道。,"Bù kuī yǒu, jiàn tiān dào.","Without looking through the window, one can see the Tao of heaven.","Without looking out the window, you see the way of nature.",authored
 47,3,1,其出彌遠，其知彌少。,"Qí chū mí yuǎn, qí zhī mí shǎo.","The further one goes out, the less one knows.","The further out you venture, the less you know.",authored
 47,4,2,是以聖人不行而知，,"Shì yǐ shèng rén bù xíng ér zhī,","Therefore the Sage knows without traveling,","Therefore, the sage knows without venturing,",authored
-47,5,2,不見而名，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","names/discerns \[ming\] without seeing \[bu jian\], completes \[cheng\] without doing \[bu wei\].","names without seeing, / and accomplishes without acting.",authored
+47,5,2,不見而名，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","names/discerns \[ming\] without seeing \[bu jian\], completes \[cheng\] without doing \[bu wei\].","names without seeing, / and completes without acting.",authored
 48,1,1,為學日益，為道日損。,"Wéi xué rì yì, wéi dào rì sǔn.","Pursuing study/learning, one increases daily; pursuing the Tao, one decreases daily.","In pursuit of learning, you increase daily; / in pursuit of the Tao, you decrease daily.",authored
 48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decrease, and decrease again, until you reach non-doing.",authored
 48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",authored

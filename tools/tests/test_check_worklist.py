@@ -8,6 +8,7 @@ that got past a human reader, and then against the corrected state.
 """
 
 import sys
+import re
 import unittest
 from pathlib import Path
 
@@ -322,11 +323,18 @@ class SplitFiles(unittest.TestCase):
 
 class LiveFile(unittest.TestCase):
     def test_the_real_worklist_is_consistent(self):
-        findings, rows = cw.check(cw.WORKLIST.read_text(encoding="utf-8"))
+        text = cw.WORKLIST.read_text(encoding="utf-8")
+        findings, rows = cw.check(text)
         self.assertEqual(
             findings, [],
             "WORKLIST.md drifted: " + "; ".join(f.detail for f in findings))
-        self.assertGreater(len(rows), 40, "the table failed to parse")
+        # The parse is checked against an independent count of id-bearing
+        # table lines, not a fixed floor: the table shrinks as work closes,
+        # and a floor of 40 went stale on 2026-11-20 when it reached 40.
+        raw = [l for l in text.splitlines()
+               if re.match(r"^\| [A-Z][A-Z0-9-]* \|", l)]
+        self.assertGreater(len(raw), 0, "no table rows found at all")
+        self.assertEqual(len(rows), len(raw), "the table failed to parse")
 
     def test_the_real_files_are_split(self):
         findings = cw.check_split(
