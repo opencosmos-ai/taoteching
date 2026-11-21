@@ -129,7 +129,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 樂,lè,"gladly / delight in / pleasure / music (35, yuè)",,樂,exact,木,pictograph,,,,8,,0.055,五聲八音緫名。象鼓鞞。木，虡也。,
 畏,wèi,fear / wary of (15),,畏,exact,甶,compound,,甶 (? = not yet glossed),,8,,0.0548,惡也。从甶，虎省。鬼頭而虎爪，可畏也。,
 百,bǎi,hundred / everyone (百姓),,百,exact,𪞶,compound,,"一 (yī = the one (lowercase) · plain numeral where it counts) + 白 (bái = white / clarity (明白, 10))",,7,Tier 3,0.0547,十十也。从一、白。數，十百爲一貫。相章也。,
-主,zhǔ,"master, lord / owner (34) / host (69)",,主,exact,丶,phonetic-compound,,"丶 (zhǔ = a mark, a point)","丶 (zhǔ = a mark, a point)",6,,0.0545,鐙中火主也。从{{?,
+主,zhǔ,master,master,主,exact,丶,phonetic-compound,,"丶 (zhǔ = a mark, a point)","丶 (zhǔ = a mark, a point)",6,Tier 3,0.0545,鐙中火主也。从{{?,"The flame at the center of a lamp. From the lamp's shape; from 丶 (zhǔ — a dot), which also gives the sound."
 出,chū,"go out, leave / arise / emerge / yield (5)",,出,exact,出,pictograph,,,,7,,0.0545,進也。象艸木益滋，上出達也。凡出之屬皆从出。,
 乃,nǎi,then / and so becomes,,乃,exact,乃,pictograph,,,,12,,0.054,曳詞之難也。象气之出難。凡𠄎之屬皆从𠄎。,
 已,yǐ,"stop, come to an end (不得已, unavoidable)",,巳,orthographic,巳,pictograph,,,,9,,0.0539,巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。凡巳之屬皆从巳。,
@@ -237,7 +237,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 深,Shēn,deep,,深,exact,水,phonetic-compound,,水 (shuǐ = water),罙 (? = not yet glossed),3,,0.0282,水。出桂陽南平，西入營道。从水罙聲。,
 混,hùn,mixed (adjective) · to mix (verb),mixed (adjective) · to mix (verb),混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,"An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."
 隨,suí,follow,,隨,exact,辵,phonetic-compound,,"也 (yě = (closes a statement: it is so)) + 辵 (chuò = walking, going along a road)",𡐦 (? = not yet glossed),3,,0.0282,从也。从辵，𡐦省聲。,
-公,gōng,impartiality / impartial (the quality) · lord / minister (the office),impartiality / impartial (the quality) · lord / minister (the office),公,exact,八,compound,,"八 (bā = eight; to divide, to part) + 厶 (sī = enclosing for oneself — the private)",,4,locked,0.0274,平分也。从八从厶。八猶背也。韓非曰：背厶爲公。,
+公,gōng,impartiality / impartial (the quality) · noble / minister (the office),impartiality / impartial (the quality) · noble / minister (the office),公,exact,八,compound,,"八 (bā = eight; to divide, to part) + 厶 (sī = enclosing for oneself — the private)",,4,locked,0.0274,平分也。从八从厶。八猶背也。韓非曰：背厶爲公。,
 味,wèi,flavor / taste,,味,exact,口,phonetic-compound,,口 (kǒu = mouths),未 (wèi = not yet),4,,0.0274,滋味也。从口未聲。,
 馬,mǎ,horse,,馬,exact,馬,pictograph,,,,3,,0.0274,怒也。武也。象馬頭髦尾四足之形。凡馬之屬皆从馬。,
 兒,ér,"child (嬰兒, infant)",,兒,exact,-{儿}-,pictograph,,,,3,,0.0271,孺子也。从-{儿}-，象小兒頭囟未合。,
@@ -466,7 +466,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 手,shǒu,hand,,手,exact,手,pictograph,,,,1,,0.0119,拳也。象形。凡手之屬皆从手。,
 握,wò,grip,,握,exact,手,phonetic-compound,,手 (shǒu = hand),屋 (? = not yet glossed),1,,0.0119,搤持也。从手屋聲。,
 梁,liáng,"beam, rigid (強梁, strong and rigid)",,梁,exact,木,phonetic-compound,,木 (mù = tree) + 水 (shuǐ = water),刅 (? = not yet glossed),1,,0.0119,水橋也。从木从水，刅聲。,
-注,zhù,pour out (attention),,注,exact,水,phonetic-compound,,水 (shuǐ = water),"主 (zhǔ = master, lord / owner (34) / host (69))",1,,0.0119,灌也。从水主聲。,
+注,zhù,pour out (attention),,注,exact,水,phonetic-compound,,水 (shuǐ = water),主 (zhǔ = master),1,,0.0119,灌也。从水主聲。,
 祀,sì,"sacrifice (祭祀, offering sacrifices)",,祀,exact,示,phonetic-compound,詳里切,示 (shì = show),巳 (sì = a curled form — the sixth earthly branch),1,,0.0119,祭無已也。从示，巳聲。,
 祭,jì,"offering (祭祀, offering sacrifices)",,祭,exact,示,compound,子例切,示 (shì = show),,1,,0.0119,祭祀也。从示，以手持肉。,
 稅,shuì,taxes,,稅,exact,禾,phonetic-compound,,禾 (hé = standing grain),兌 (duì = opening),1,,0.0119,租也。从禾兌聲。,

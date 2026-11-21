@@ -69,7 +69,7 @@ Water and a tongue are not weak. They are things that do not resist, and therefo
 
 讓 (*ràng*) means to give way. This is the only gloss any commentator gives on the causative in ch 3, and it reads yielding, not diminishing.
 
-**The same words are for rulers.** At ch 42 he says rulers and lords 處謙卑，法虛空，和柔 (*chǔ qiān bēi, fǎ xū kōng, hé róu* — "dwell modest and low, model on empty space, gentle and soft"). What ch 3 gives the people is what the sage practices, and 弱者道之用 (*ruò zhě dào zhī yòng* — "Yielding is the Tao's use") at ch 40 is where it comes from.
+**The same words are for rulers.** At ch 42 he says sovereigns and nobles 處謙卑，法虛空，和柔 (*chǔ qiān bēi, fǎ xū kōng, hé róu* — "dwell modest and low, model on empty space, gentle and soft"). What ch 3 gives the people is what the sage practices, and 弱者道之用 (*ruò zhě dào zhī yòng* — "Yielding is the Tao's use") at ch 40 is where it comes from.
 
 ### Making something yield
 

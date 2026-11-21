@@ -77,7 +77,7 @@ Read the eight chapters together and something becomes hard to miss. **Not one o
 | 66 | 江海所以能為百谷**王**者，以其善下之 | is sovereign of the hundred valleys **because it stays below them** |
 | 78 | 受國之不祥，是謂天下**王** | **takes on the state's misfortune** and is therefore called it |
 
-Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社稷主；受國之不祥，是謂天下王 — *"the one who takes on the state's shame is called lord of the altars; the one who takes on the state's misfortune is called sovereign of the world."* The title is earned by absorbing what nobody else will touch.
+Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社稷主；受國之不祥，是謂天下王 — *"the one who takes on the state's shame is called the keeper of the soil and the grain; the one who takes on the state's misfortune is called the sovereign of the world."* The title is earned by absorbing what nobody else will touch.
 
 **A word defined seven times over by what it goes under still means the thing on top, and that is the paradox.** The book keeps the word for the summit and changes what it takes to get there. If the English softened the summit, to *ruler* or to *leader*, the paradox would have nothing to turn. So the English keeps a word for the top, *sovereign*, and lets the lines do the redefining (`process/principles/perform-dont-label.md`).
 
@@ -87,7 +87,7 @@ Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社�
 
 **The Shuowen's own entry ranks the 侯 below the 王.** It quotes the archers' invocation: 毋若不寧侯，不朝于王所，故伉而䠶汝也 — *"do not be like the unruly 侯 who do not come to court at the 王's place, for which we raise the bow and shoot at you."* The 侯 is the one who goes to the 王, which is the 王 of the *Hanshi waizhuan*.
 
-**So 侯王 names two ranks, and the English names both: *nobles and sovereigns*** (Shalom's call, 2026-11-20). *Lords and sovereigns* was the conventional choice and was declined: *lord* leans male, as *king* does, and it is already the word of 公 (*gōng*) at 42 and 主 (*zhǔ*) at 26. *Nobles* is a rank with no sex. Its costs are named under *Left open*. A single class word, *sovereigns*, was declined too: it promotes the nobles to the top rank, which the Shuowen's archers would not allow.
+**So 侯王 names two ranks, and the English names both: *nobles and sovereigns*** (Shalom's call, 2026-11-20). *Lords and sovereigns* was the conventional choice and was declined: *lord* is male, as *king* is (Shalom: *lord* is male only). *Nobles* is a rank with no sex. Its costs are named under *Left open*. A single class word, *sovereigns*, was declined too: it promotes the nobles to the top rank, which the Shuowen's archers would not allow.
 
 ### What is set aside
 
@@ -101,9 +101,9 @@ Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社�
 
 **leader** — forbidden for 長 (*zhǎng* — chief) (`glossary/chang-長.md`), and it means going first, where chapter 66's 王 gets there by going below and behind.
 
-**lord** — belongs to 公 (*gōng*), which is locked to *lord / minister* in `gong-公.md`, and stands beside 王 in Chapter 42's 王公. Also leans male, which is why 侯 is *nobles* (above).
+**lord** — male only (Shalom's call, 2026-11-20), as *king* is. So 侯 is *nobles* (above), and 公 (*gōng*) beside 王 in chapter 42's 王公 is *nobles* too (`gong-公.md`).
 
-**master** — 主 (*zhǔ*)'s territory, and the wrong relation besides. The sage in this book is nobody's master.
+**master** — 主 (*zhǔ*)'s word (`zhu-主.md`), and the wrong relation besides. The sage in this book is nobody's master.
 
 **sage-king, philosopher-king** — imports a Confucian and a Platonic ideal in one phrase, neither of which is here.
 
@@ -122,7 +122,7 @@ Chapter 78 is the plainest definition the book gives: 受國之垢，是謂社�
 | 王, in a sequence | 16 | **supreme authority** |
 | 為…王, a title become | 66 | *be sovereign of* the hundred valleys |
 | 侯王, two ranks | 32, 37, 39 | *nobles and sovereigns* |
-| 王公 | 42 | *sovereigns and lords* |
+| 王公 | 42 | *sovereigns and nobles* |
 | 天下王 | 78 | *the sovereign of the world* |
 
 **Chapter 66 is a noun, not a verb.** 能為百谷王 is 為 (*wéi* — to be, become) with 王 as its object: the rivers become the title. It read *rule the hundred valleys* until 2026-11-20, which turned a title into an act; *be sovereign of*, with no article, is the office, as English says *be king of*. 王 can be a verb in classical Chinese (*wàng* — to reign over), but the book never uses it so.

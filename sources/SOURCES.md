@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 94 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 95 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -216,7 +216,7 @@ Stored in this repository.
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 45, restlessness spent before it overcomes cold; stillness keeps things whole
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 61, the rooster restless and the hen still
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, the heavy as root and the still as ruler; losing the ruler is losing the ruler's seat
-- [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, the ruler is the lord of the countless things
+- [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, the ruler is the master of the countless things
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 1, on the nameless as beginning and the named as mother
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 52, on the mother as root and the children as branch tips
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 29, on the world as a spirit-vessel
@@ -247,6 +247,8 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, governing with the straight raises the crooked and the straight
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, governing with the straight returns to waging war with the crooked
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, guiding things with trueness without dashing against them
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 30, one who assists a ruler of people with the Tao, and how much more a ruler who embodies it
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 70, the ruler is the master of the countless things
 - Apparatus chapters [2](<../chapters/002.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [15](<../chapters/015.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [39](<../chapters/039.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [55](<../chapters/055.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [69](<../chapters/069.md>), [73](<../chapters/073.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -291,7 +293,7 @@ Stored in this repository.
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 26, the dragon still and the tiger restless
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 45, restless haste at its height turns to cold
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 61, the yin way takes calm stillness as going low
-- [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, a ruler who is not still loses authority; the lord of ten thousand chariots is a king; the restless king loses their ruler's seat
+- [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, a ruler who is not still loses authority; the master of ten thousand chariots is a king; the restless king loses their ruler's seat
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 31, the way of arms and the way of the noble are opposed
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, affairs have ruler and minister
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 1, on the beginning as the root of the Tao
@@ -339,6 +341,11 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 64, on the sage wanting what people do not want
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, a person straight in body; the crooked as deceit
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 78, words straight and true that the world takes for their opposite
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 26, the master of ten thousand chariots means a king
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 30, a ruler of people who can assist themselves with the Tao
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 34, the Tao is not like a ruler of people who takes for themselves, nor one who forbids
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 69, the host means first, not pushing to be first to raise troops
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 78, become the ruler of one state
 - Apparatus chapters [1](<../chapters/001.md>), [3](<../chapters/003.md>), [4](<../chapters/004.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [13](<../chapters/013.md>), [15](<../chapters/015.md>), [16](<../chapters/016.md>), [17](<../chapters/017.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [29](<../chapters/029.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [51](<../chapters/051.md>), [52](<../chapters/052.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [67](<../chapters/067.md>), [68](<../chapters/068.md>), [69](<../chapters/069.md>), [72](<../chapters/072.md>), [73](<../chapters/073.md>), [74](<../chapters/074.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [77](<../chapters/077.md>), [80](<../chapters/080.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -405,6 +412,7 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zheng (right; a foot, and a line where it stops)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zhi (seeing straight; from ten eyes)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Tail radical, entry for qu
+- [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Dot radical, entry for zhu (the flame at the center of a lamp; from the dot, which is also the sound)
 - Apparatus chapters [4](<../chapters/004.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 

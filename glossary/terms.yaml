@@ -527,6 +527,18 @@
   status: locked
   entry: glossary/zhong-眾.md
 
+- term: "主"
+  pinyin: "zhǔ"
+  render: "master"
+  forbidden: ["overlord"]
+  chapters: [26, 30, 34, 69, 78]
+  status: locked
+  entry: glossary/zhu-主.md
+  flexions:
+    - { english: "ruler", chapters: [30], why: "人主 (rén zhǔ), Han Fei's term for the one who holds a state, the one an adviser serves; shared with 君 (jūn), and it keeps the master clear of 善's 'the masterful one' four lines later" }
+    - { english: "host", chapters: [69], why: "主 against 客 (kè — guest): the master of the house, its home sense" }
+    - { english: "keeper", chapters: [78], why: "社稷主 (shè jì zhǔ), the one who presides over the soil and the grain, which no one is master of" }
+
 - term: "仁"
   pinyin: "rén"
   render: "humaneness"
@@ -627,7 +639,7 @@
 
 - term: "公"
   pinyin: "gōng"
-  render: "impartiality / impartial (the quality) · lord / minister (the office)"
+  render: "impartiality / impartial (the quality) · noble / minister (the office)"
   forbidden: ["duke", "equanimity", "justice"]
   chapters: [16, 42, 62]
   status: locked

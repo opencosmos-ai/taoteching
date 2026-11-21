@@ -16,8 +16,8 @@ refs:
   - { source: dong-chinese, locator: "Entry for jun: oracle and bronze forms; yin as sound and meaning, kou as meaning; the Shuowen's ancient form picturing the ruler seated", url: "https://www.dong-chinese.com/wiki/%E5%90%9B" }
   - { source: dong-chinese, locator: "Entry for yin: a hand holding a staff, held by people in authority; the Shuowen's to govern, the one who grips affairs", url: "https://www.dong-chinese.com/wiki/%E5%B0%B9" }
   - { source: wangbi, locator: "Chapter 26, the heavy as root and the still as ruler; losing the ruler is losing the ruler's seat" }
-  - { source: wangbi, locator: "Chapter 70, the ruler is the lord of the countless things" }
-  - { source: heshanggong, locator: "Chapter 26, a ruler who is not still loses authority; the lord of ten thousand chariots is a king; the restless king loses their ruler's seat" }
+  - { source: wangbi, locator: "Chapter 70, the ruler is the master of the countless things" }
+  - { source: heshanggong, locator: "Chapter 26, a ruler who is not still loses authority; the master of ten thousand chariots is a king; the restless king loses their ruler's seat" }
   - { source: heshanggong, locator: "Chapter 31, the way of arms and the way of the noble are opposed" }
   - { source: heshanggong, locator: "Chapter 70, affairs have ruler and minister" }
   - { source: hanshi-waizhuan, locator: "Juan 5, the passage opening 'what is the Tao': the ruler is the flock, the one who removes harm for the world's countless things; the king is the going-to", url: "https://zh.wikisource.org/wiki/%E9%9F%93%E8%A9%A9%E5%A4%96%E5%82%B3/%E5%8D%B7%E7%AC%AC5" }
@@ -30,7 +30,7 @@ refs:
 
 *Say "jwin," level. Six lines across three chapters: alone three times, and three times in 君子 (jūn zǐ — the noble). The one others answer to.*
 
-**Locked: 君 → "ruler," and 君子 → "the noble."** *(Shalom's call, 2026-11-20, which gave* sovereign *to 王 (wáng), so that* ruler *is 君's alone. 君子's* the noble *is Shalom's call of 2026-09-07.)* *(Not "sovereign," 王's word. Not "lord," which 主 (zhǔ) wears in the same chapter. Not "master," which turns the office into a skill. Not "king" or "monarch," which add a sex and a throne. For 君子, not "the gentleman" or "the superior man," which keep the male default.)*
+**Locked: 君 → "ruler," and 君子 → "the noble."** *(Shalom's call, 2026-11-20, which gave* sovereign *to 王 (wáng); 主 (zhǔ) shares* ruler *at chapter 30 alone, by flexion.)* *(君子's* the noble *is Shalom's call of 2026-09-07.)* *(Not "sovereign," 王's word. Not "lord," which is male only. Not "master," 主's word in the same chapter, which makes the office a holding. Not "king" or "monarch," which add a sex and a throne. For 君子, not "the gentleman" or "the superior man," which keep the male default.)*
 
 ### The graph: a hand holding the staff of office, over a mouth
 
@@ -69,7 +69,7 @@ refs:
 >
 > — chapter 70
 
-**In none of the three is 君 a king on a throne.** It is the thing a scattered many answer to: stillness for the restless, someone for affairs, as a lineage stands behind words. Wang Bi on chapter 70 glosses it with the book's other word for the one who presides, 君，萬物之主也 — *"the ruler is the lord of the countless things."* Chapter 26 pairs 君 with 根 (*gēn* — root) and then with 本 (*běn* — root), so the ruler stands where the root stands: underneath, holding the rest in place. **That is the book's whole doctrine of rule in one couplet**, and it is why *ruler* serves. It names the relation, the one the others answer to, and leaves the crown out.
+**In none of the three is 君 a king on a throne.** It is the thing a scattered many answer to: stillness for the restless, someone for affairs, as a lineage stands behind words. Wang Bi on chapter 70 glosses it with the book's other word for the one who presides, 君，萬物之主也 — *"the ruler is the master of the countless things."* Chapter 26 pairs 君 with 根 (*gēn* — root) and then with 本 (*běn* — root), so the ruler stands where the root stands: underneath, holding the rest in place. **That is the book's whole doctrine of rule in one couplet**, and it is why *ruler* serves. It names the relation, the one the others answer to, and leaves the crown out.
 
 ### 躁則失君 (zào zé shī jūn): the commentators hear a ruler losing their seat
 
@@ -85,9 +85,9 @@ refs:
 
 ### Two words for the one who rules, and the book keeps them apart
 
-**The book has three words for the one who rules, and the commentators pass freely between them.** 王 (*wáng*) is an axe-head. 主 (*zhǔ*) is a lamp and its flame, the one who presides. 君 is the hand and the mouth. Heshang Gong glosses chapter 26's 萬乘之主 (*wàn shèng zhī zhǔ* — "the lord of ten thousand chariots") as 謂王 (*"means a king"*), and the king's lost office as 君位 (*"the ruler's seat"*): three characters, one person. The Siku Wang Bi prints 萬乘之王 where our base has 主 (`sources/variants.yaml`). Wang Bi glosses 君 with 主 at chapter 70.
+**The book has three words for the one who rules, and the commentators pass freely between them.** 王 (*wáng*) is an axe-head. 主 (*zhǔ*) is a lamp and its flame, the one who presides. 君 is the hand and the mouth. Heshang Gong glosses chapter 26's 萬乘之主 (*wàn shèng zhī zhǔ* — "the master of ten thousand chariots") as 謂王 (*"means a king"*), and the king's lost office as 君位 (*"the ruler's seat"*): three characters, one person. The Siku Wang Bi prints 萬乘之王 where our base has 主 (`sources/variants.yaml`). Wang Bi glosses 君 with 主 at chapter 70.
 
-**The book itself does not pass between them.** 王 always stands beside 天下 (*tiān xià* — the world), in the cosmic ladder of chapters 16 and 25, or in the rank-pairs 侯王 (*hóu wáng* — nobles and sovereigns) and 王公 (*wáng gōng* — sovereigns and lords). It is the title at the top, and the Shuowen defines it as a direction: 王，天下所歸往也 (*"王 is that to which the world returns and goes"*). 君 is always the ruler *of* something, and never of the world. The *Hanshi waizhuan* (2nd century BCE) sets the two side by side and explains each by its sound:
+**The book itself does not pass between them.** 王 always stands beside 天下 (*tiān xià* — the world), in the cosmic ladder of chapters 16 and 25, or in the rank-pairs 侯王 (*hóu wáng* — nobles and sovereigns) and 王公 (*wáng gōng* — sovereigns and nobles). It is the title at the top, and the Shuowen defines it as a direction: 王，天下所歸往也 (*"王 is that to which the world returns and goes"*). 君 is always the ruler *of* something, and never of the world. The *Hanshi waizhuan* (2nd century BCE) sets the two side by side and explains each by its sound:
 
 > 君者何也？曰：群也，為天下萬物而除其害者，謂之君。王者何也？曰：往也。天下往之謂之王。
 > *"What is the 君? It is 群 (qún — the flock): the one who removes harm for the world's countless things is called 君. What is the 王? It is 往 (wǎng — to go to). What the world goes to is called 王."* — juan 5
@@ -126,9 +126,9 @@ refs:
 
 **"Sovereign," "sovereignty."** 王's word, and the abstract noun drifts toward a political theory. 君 in these lines is a person or a relation, never a doctrine.
 
-**"Lord."** 主 (*zhǔ*) wears it in chapter 26, three lines below 君's *ruler*, and the two must not merge on the page. *Lord* also fails the hymn test in chapter 70, a chapter spoken in the first person about being unknown.
+**"Lord."** Male only (Shalom's call, 2026-11-20), and it fails the hymn test in chapter 70, a chapter spoken in the first person about being unknown.
 
-**"Master," "mastery."** It makes the office a skill, as *mastery* once did at chapter 26's 躁則失君, and *master* is 主's at chapter 34 (*does not act as their master*). 善 (*shàn* — masterful) holds the skill words.
+**"Master," "mastery."** It makes the office a skill, as *mastery* once did at chapter 26's 躁則失君, and *master* is 主's, three lines from 君 at chapter 26 (*the master of ten thousand chariots*) and at 34 (*does not act as their master*). 善 (*shàn* — masterful) holds the skill words.
 
 **"King," "monarch."** Each adds a sex the graph lacks and a throne the lines never show, as 王's entry argues for its own character.
 
@@ -151,17 +151,17 @@ refs:
 
 ### What no rule can enforce
 
-**"Lord" cannot be forbidden.** 主 (*zhǔ*) prints *lord* in chapter 26, which holds 君. The ruling stands in the prose.
+**"Lord" is ruled out and not forbidden.** The I Ching vendors this lock and prints *lord* for 公 (*gōng*) by that lock's old form (`WORKLIST.md` T5-29). `concordance.py --english "lord"` is the check.
 
 **"The sage" cannot be forbidden for 君子.** The forbidden list keys on the character, and 君 stands in chapter 70, whose last line is 聖人's *the sage*. `concordance.py --english "the noble"` and a reading of chapters 26 and 31 are the check.
 
 **"Master" is ruled out, and left off the list.** The gate matches inside words, so *master* would raise a notice on *masterful*, 善's English, in some fifty lines across the book, and bury the notices worth reading (`WORKLIST.md` T5-5). The list carries *mastery*, the form the old error took.
 
-**主 (*zhǔ*) can still print *ruler*.** It has no entry, and it does at chapter 30 (below). `concordance.py --english "ruler"` is the check.
+**主 (*zhǔ*) prints *ruler* at chapter 30**, by its own flexion (`glossary/zhu-主.md`), so `concordance.py --english "ruler"` credits 君 and lists that line as *not backed*. It is backed by 主.
 
 ### Left open
 
-**主 (*zhǔ*) wears *ruler* at chapter 30.** 以道佐人主者 reads *"one who supports a ruler with the Tao,"* so *ruler* is not yet 君's alone, and 主 has five Englishes across its five chapters: *lord* (26), *ruler* (30), *master* (34), *host* (69), *keeper* (78). 主 has no entry to decide them (`WORKLIST.md` T2-92).
+**The share with 主 at chapter 30.** 人主 (*rén zhǔ*) reads *"one who supports a ruler with the Tao,"* so *ruler* is two characters' word in that one line, each chosen in its context (Shalom's calls, 2026-11-20, `glossary/zhu-主.md`). A reader meeting *ruler* at 30 will take it for 君.
 
 **Whether the Han sound-glosses reach back.** The *Hanshi waizhuan*'s 君 as 群 (*qún* — the flock) and 王 as 往 (*wǎng* — to go to) fit the book's lines closely, chapter 35's 天下往 (*tiān xià wǎng* — "the world comes to you") above all. They are attested a century and a half after Guodian. Whether Laozi's audience heard them, or the Han read the book into them, is open.
 

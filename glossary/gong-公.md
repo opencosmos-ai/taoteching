@@ -1,8 +1,8 @@
 ---
 term: "公"
 pinyin: "gōng"
-render: "impartiality / impartial (the quality) · lord / minister (the office)"
-card: "impartiality · impartial · lord · minister"
+render: "impartiality / impartial (the quality) · noble / minister (the office)"
+card: "impartiality · impartial · noble · minister"
 forbidden: ["duke", "equanimity", "justice"]
 chapters: [16, 42, 62]
 status: locked
@@ -15,7 +15,7 @@ refs_status: incomplete
 
 *Say "gong," first tone, level and held. A word English splits into two that have nothing to do with each other: a virtue and a peerage.*
 
-**Locked: 公 → "impartiality" where it names the quality; "lord" or "minister" where it names the office.** *(Never "duke." Reasoning below.)*
+**Locked: 公 → "impartiality" where it names the quality; "noble" or "minister" where it names the office.** *(The office read "lord" at chapter 42 until 2026-11-20, when Shalom ruled* lord *out as male only; ch 42 now reads* sovereigns and nobles*.)* *(Never "duke," never "lord." Reasoning below.)*
 
 Open almost any English Tao Te Ching at Chapter 42 and you will find *dukes*. Open it at Chapter 16 and you will find *fairness*, or *equanimity*, or *the impartial*. Nothing tells the reader these are one word. So the fact the Chinese states plainly — **the office is named after the virtue** — disappears, and with it the quiet judgment the text passes every time it uses the title.
 
@@ -59,14 +59,21 @@ Chinese titles are often meaning-transparent in a way English peerage is not. En
 
 That transparency does work in Chapter 42:
 
-> 人之所惡，唯孤、寡、不穀，而**王公**以為稱。
-> *"What people most hate is to be called orphaned, meagre, unworthy — yet kings and lords take these very words as their titles."*
+> *What most people hate is to be called orphaned, alone, or unworthy,*
+> *Yet sovereigns and nobles take these very descriptions for themselves.*
+>
+> 人之所惡，唯孤、寡、不穀，
+> 而王公以為稱。
+>
+> — chapter 42
 
 The chapter is about rulers naming themselves with words of **lack**. A title that means *turned away from the private* belongs in that sentence, and the joke is sharper for it: the rank itself already says *not for yourself*, and the chapter is telling rulers to live up to their own letterhead.
 
 And in Chapter 62 the manuscripts hand us an argument. Where the received text reads 三**公**, the Mawangdui silks write 三**鄉**, which editors read as a loan for 三**卿** (*sān qīng* — the three high ministers). **The oldest witness names the office with the plain word for a minister of state** — not with a rank. *Minister* is therefore not a modernization; it is the older reading's own word.
 
 ### What is set aside
+
+**"Lord," "lords."** Male only, as *king* is for 王 (*wáng*): it lives in a pair with *lady*, and no context neutralizes it (Shalom's call, 2026-11-20). *Nobles* is the rank with no sex, and it makes 42's 王公 the mirror of 39's 侯王 (*hóu wáng* — nobles and sovereigns): the same class, taking the same titles of lack. Not on the forbidden list, because the I Ching vendors this lock and prints *lord* for 公 by its old form (`WORKLIST.md` T5-29).
 
 **"Duke."** Rejected outright. It imports the European feudal ladder — duke, marquess, earl — an entire social order the Zhou did not have and did not resemble, and it severs the office from its meaning. A reader who meets *duke* in 42 and *impartiality* in 16 has no way to know they read the same character.
 
@@ -84,7 +91,7 @@ And in Chapter 62 the manuscripts hand us an argument. Where the received text r
 |---|---|---|
 | the quality, as a noun in the ladder | 16 (容乃公) | **impartiality** |
 | the quality, as an adjective | — | **impartial** |
-| the office, compounded with 王 | 42 (王公) | **lords** |
+| the office, compounded with 王 | 42 (王公) | **nobles** (*sovereigns and nobles*) |
 | the office, the three highest of state | 62 (三公) | **the three ministers** |
 
 ### Left open

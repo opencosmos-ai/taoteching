@@ -241,7 +241,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 丰,,,phonetic,"no gloss needed: present for sound, not meaning",1,邦
 丶,zhǔ,"a mark, a point",phonetic,glossed,1,主
 丶,zhǔ,"a mark, a point",semantic,glossed,1,主
-主,zhǔ,"master, lord / owner (34) / host (69)",phonetic,glossed,1,注
+主,zhǔ,master,phonetic,glossed,1,注
 丿,piě,a stroke slanting left,phonetic,glossed,1,少
 丿,piě,a stroke slanting left,semantic,glossed,1,弗
 乀,,,semantic,not yet glossed — see sources/component-glosses.yaml,1,弗

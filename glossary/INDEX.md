@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**94 entries.** Sorted by how much of the book each term touches.
+**95 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -66,6 +66,7 @@ python3 tools/build_index.py
 | **樸** | *pǔ* | uncarved wood / the uncarved | "uncarved block", "simplicity", "purity" | 6 | **locked** | [`pu-樸.md`](pu-樸.md) |
 | **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | **locked** | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
+| **主** | *zhǔ* | master · *ruler* (ch 30) · *host* (ch 69) · *keeper* (ch 78) | "overlord" | 5 | **locked** | [`zhu-主.md`](zhu-主.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |
 | **極** | *jí* | the far end — where a thing runs out · *the endless* (ch 28) | "limitless", "absolute", "ultimate", "infinite", "extreme", "utmost" | 5 | open — not yet a lock | [`ji-極.md`](ji-極.md) |
@@ -77,7 +78,7 @@ python3 tools/build_index.py
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
 | **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
 | **禍 & 福** | *huò / fú* | disaster / fortune | "bless", "luck", "misfortune", "calamity", "woe" | 4 | **locked** | [`huo-fu-禍福.md`](huo-fu-禍福.md) |
-| **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
+| **公** | *gōng* | impartiality / impartial (the quality) · noble / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **凶 & 吉** | *xiōng / jí* | ominous / auspicious · *lean* (ch 30) · *inauspicious* (ch 31) | "disaster", "evil", "unlucky", "lucky" | 3 | **locked** · binds taoteching only | [`xiong-ji-凶吉.md`](xiong-ji-凶吉.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **君** | *jūn* | ruler · *the noble* (ch 26, 31) | "sovereign", "monarch", " king", "mastery", "gentleman", "superior man", "prince" | 3 | **locked** | [`jun-君.md`](jun-君.md) |
