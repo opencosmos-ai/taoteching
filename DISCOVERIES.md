@@ -8,7 +8,7 @@
 
 ## 9 · How *weaken* weakened the text
 
-*Opened at Chapter 3, 2026-11-01, on Shalom's question about one word. Both lines are settled: chapter 3 reads* teaching their ambition to yield*, chapter 36* If you would have it yield*. The case is in `glossary/ruo-弱.md`.*
+*Opened at Chapter 3, 2026-11-01, on Shalom's question about one word. Both lines are settled: chapter 3 reads* teaching their will to yield *(ambition until 2026-11-20, `glossary/zhi-志.md`), chapter 36* If you would have it yield*. The case is in `glossary/ruo-弱.md`.*
 
 ### What was there
 

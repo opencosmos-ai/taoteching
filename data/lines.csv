@@ -25,7 +25,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","When the desirable is not displayed, the people's hearts are not thrown into disorder.",exact-count
 3,4,2,是以聖人之治，,"Shì yǐ shèng rén zhī zhì,","Therefore, the Sage's governance",Therefore the sage governs by,exact-count
 3,5,2,虛其心，實其腹，,"xū qí xīn, shí qí fù,","empties the heart, fills the stomach,","emptying their hearts and filling their bellies,",exact-count
-3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","teaches the ambition to yield, and strengthens the bones.","teaching their ambition to yield and strengthening their bones,",exact-count
+3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","teaches the ambition to yield, and strengthens the bones.","teaching their will to yield and strengthening their bones,",exact-count
 3,7,2,常使民無知無欲。,Cháng shǐ mín wú zhī wú yù.,Constantly keep the people without knowledge and desire.,"so the people are ever unknowing, ever desireless,",exact-count
 3,8,2,使夫智者不敢為也。,Shǐ fū zhì zhě bù gǎn wéi yě.,Let the clever not dare to act.,and the knowers never push to act.,exact-count
 3,9,2,為無為，則無不治。,"Wéi wú wéi, zé wú bù zhì.","Practice non-action, and nothing will not be governed.","Do the not-doing, and nothing is left ungoverned.",exact-count
@@ -387,8 +387,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 31,9,2,恬淡為上。,tián dàn wéi shàng.,calm/bland detachment \[tian dan\] functions as/is \[wei\] supreme/best \[shang\].,Use them only when unavoidable; calm detachment is best.,authored
 31,10,3,勝而不美，,"Shèng ér bù měi,","Achieving victory \[sheng\] but \[er\] not \[bu\] glorifying/beautifying \[mei\] it,","Win, but do not glorify it.",authored
 31,11,3,而美之者，是樂殺人。,"ér měi zhī zhě, shì lè shā rén.","and \[er\] those who glorify/beautify \[mei zhi\] it \[zhe\], this \[shi\] is delighting/rejoicing \[le\] in killing \[sha\] people \[ren\].",To glorify it is to delight in killing people.,authored
-31,12,3,夫樂殺人者，,"Fú lè shā rén zhě,","Now then \[fu\] those who delight in killing people \[le sha ren zhe\],",And those who delight in killing people cannot get their will in the world.,authored
-31,13,3,則不可得志於天下矣。,zé bù kě dé zhì yú tiān xià yǐ.,then/thus \[ze\] cannot \[bu ke\] achieve/obtain \[de\] their will/purpose \[zhi\] in \[yu\] the world \[tian xia\] particle \[yi\].,And those who delight in killing people cannot get their will in the world.,authored
+31,12,3,夫樂殺人者，,"Fú lè shā rén zhě,","Now then \[fu\] those who delight in killing people \[le sha ren zhe\],",And those who delight in killing people cannot achieve their aims in the world.,authored
+31,13,3,則不可得志於天下矣。,zé bù kě dé zhì yú tiān xià yǐ.,then/thus \[ze\] cannot \[bu ke\] achieve/obtain \[de\] their will/purpose \[zhi\] in \[yu\] the world \[tian xia\] particle \[yi\].,And those who delight in killing people cannot achieve their aims in the world.,authored
 31,14,4,吉事尚左，凶事尚右。,"Jí shì shàng zuǒ, xiōng shì shàng yòu.",Auspicious occasions (ji shi) honor (shang — to place above) the left; ill-omened occasions (xiong shi) honor the right.,Auspicious occasions honor the left; inauspicious occasions honor the right.,authored
 31,15,4,偏將軍居左，上將軍居右，,"Piān jiāng jūn jū zuǒ, shàng jiāng jūn jū yòu,","The second-in-command general \[pian jiang jun\] is positioned/dwells \[ju\] on the left \[zuo\], the commander-in-chief \[shang jiang jun\] is positioned/dwells \[ju\] on the right \[you\],","The deputy general takes the left, the higher general the right,",authored
 31,16,4,言以喪禮處之。,yán yǐ sàng lǐ chǔ zhī.,meaning/words \[yan\] they are handled/positioned \[chu zhi\] according to/using \[yi\] funeral rites \[sang li\].,which is to say they are placed by the rites of mourning.,authored
@@ -409,7 +409,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 33,3,2,勝人者有力，,"Shèng rén zhě yǒu lì,",One who overcomes/defeats \[sheng\] others \[ren\] has force \[li\].,One who overcomes others has force.,exact-count
 33,4,2,自勝者強。,Zì shèng zhě qiáng.,One who overcomes/defeats \[sheng\] themselves \[zi\] has true strength \[qiang\].,One who overcomes themselves is strong.,exact-count
 33,5,3,知足者富。,Zhī zú zhě fù.,"One who knows \[zhi\] ""enough"" \[zu\] is wealthy \[fu\].",One who knows they have enough is wealthy.,exact-count
-33,6,3,強行者有志。,Qiáng xíng zhě yǒu zhì.,One who acts with perseverance/vigor \[qiang xing\] has willpower \[zhi\].,One who walks with strength has purpose.,exact-count
+33,6,3,強行者有志。,Qiáng xíng zhě yǒu zhì.,One who acts with perseverance/vigor \[qiang xing\] has willpower \[zhi\].,One who walks with strength has will.,exact-count
 33,7,4,不失其所者久。,Bù shī qí suǒ zhě jiǔ.,One who does not \[bu\] lose \[shi\] their place/foundation \[suo\] endures \[jiu\].,One who does not lose their place endures.,exact-count
 33,8,4,死而不亡者壽。,Sǐ ér bù wáng zhě shòu.,One who dies \[si\] but does not \[bu\] perish \[wang\] has true longevity \[shou\].,One who dies but does not vanish lives long.,exact-count
 34,1,1,大道汎兮，其可左右。,"Dà dào fàn xī, qí kě zuǒ yòu.","The Great Tao \[da dao\] overflows/floods \[fan\] oh \[xi\], it can \[ke\] go left and right \[zuo you\].",The great Tao overflows. It can go left or right.,exact-count

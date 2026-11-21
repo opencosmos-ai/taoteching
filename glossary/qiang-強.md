@@ -76,7 +76,7 @@ The split is marked in the Chinese, so it can be checked rather than argued.
 
 **Transitive, with an object — *strengthen*.** Two lines, and they are the same two lines where 弱 (*ruò* — yielding) is made causative:
 
-- **ch 3** 弱其志，強其骨 — *teaching their ambition to yield and strengthening their bones*
+- **ch 3** 弱其志，強其骨 — *teaching their will to yield and strengthening their bones*
 - **ch 36** 將欲弱之，必固強之 — *If you would have it yield, you must first strengthen it*
 
 The symmetry is not a coincidence: it is one grammar taken twice, a stative word made causative. *Strengthen* keeps the root of *strong*, and *yield* keeps the root of *yielding* (`ruo-弱.md`).

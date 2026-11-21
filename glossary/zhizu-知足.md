@@ -44,7 +44,7 @@ refs_status: incomplete
 > *One who overcomes others has force.*
 > *One who overcomes themselves is strong.*
 > *One who knows they have enough is wealthy.*
-> *One who walks with strength has purpose.*
+> *One who walks with strength has will.*
 >
 > 知人者智，
 > 自知者明。

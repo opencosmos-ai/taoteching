@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**103 entries.** Sorted by how much of the book each term touches.
+**104 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ python3 tools/build_index.py
 | **道** | *dào* | the Tao / way | "the Way", "the Path" | 37 | **locked** | [`dao-道.md`](dao-道.md) |
 | **聖** | *shèng* | the sage · sagehood (聖 alone, ch 19) | "holy", "saint", "blessed", "wise man", "wise one", "wise soul", "perfect man", "sage-king", "sage-ruler", "sageliness" | 26 | **locked** | [`sheng-聖.md`](sheng-聖.md) |
 | **大** | *dà* | great — large where the scale is physical or political, greater in comparatives, master of a craftsman | "mighty", "grand", "supreme", "cosmic", "immense", "magnificent", "the Great" | 24 | **locked** | [`da-大.md`](da-大.md) |
-| **得 & 失** | *dé / shī* | get / lose · *received* (ch 22, 39) · *receive* (ch 22) · *unavoidable* (ch 30, 31) · *gain* (ch 44) · *touch* (ch 14) · *find* (ch 62) | "attain", "obtain", "forfeit", "acquire" | 23 | **locked** | [`de-shi-得失.md`](de-shi-得失.md) |
+| **得 & 失** | *dé / shī* | get / lose · *received* (ch 22, 39) · *receive* (ch 22) · *unavoidable* (ch 30, 31) · *gain* (ch 44) · *touch* (ch 14) · *achieve* (ch 31) · *find* (ch 62) | "attain", "obtain", "forfeit", "acquire" | 23 | **locked** | [`de-shi-得失.md`](de-shi-得失.md) |
 | **可** | *kě* | can be (可 + verb) / can (可以 + verb) / cannot (不可) · *desirable* (ch 3) · *must* (ch 20) · *never* (ch 35) | — | 20 | **locked** | [`ke-可.md`](ke-可.md) |
 | **常** | *cháng* | the ever-present / ever / always · *fixed* (ch 49) · *stays* (ch 79) | "eternal", "everlasting", "eternity", "timeless" | 19 | **locked** | [`chang-常.md`](chang-常.md) |
 | **我 & 吾** | *wǒ / wú* | the self seen / the self seeing | — | 19 | **locked** | [`wo-wu-我吾.md`](wo-wu-我吾.md) |
@@ -91,6 +91,7 @@ python3 tools/build_index.py
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
 | **君** | *jūn* | ruler · *the noble* (ch 26, 31) | "sovereign", "monarch", " king", "mastery", "gentleman", "superior man", "prince" | 3 | **locked** | [`jun-君.md`](jun-君.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
+| **志** | *zhì* | will (the heart's drive) · *aims* (ch 31) | "ambition", "willpower", "aspiration" | 3 | **locked** | [`zhi-志.md`](zhi-志.md) |
 | **愚** | *yú* | a fool / foolishness / foolish | "guileless", "ignorant", "ignorance", "stupid", "make fools of" | 3 | **locked** | [`yu-愚.md`](yu-愚.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
 | **持** | *chí* | hold | "grip", "clutch", "cling to", "sustain" | 3 | **locked** | [`chi-持.md`](chi-持.md) |

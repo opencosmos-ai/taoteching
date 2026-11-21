@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 234 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 103 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 104 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -269,6 +269,8 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, governing with the straight raises the crooked and the straight
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, governing with the straight returns to waging war with the crooked
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, guiding things with trueness without dashing against them
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Chapter 3, bones have no knowing and stand firm; the will gives rise to affairs and disorder; when the heart is emptied, the will yields
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Chapter 33, keep at it diligently, and the will surely attains
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 30, one who assists a ruler of people with the Tao, and how much more a ruler who embodies it
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 70, the ruler is the master of the countless things
 - [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 17, when the body loses its nature, illness arises; where trust is not enough there is no trust, the way of nature
@@ -391,6 +393,9 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 77, who can hold a place of more than enough and offer it to those in the world who do not have enough
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, a person straight in body; the crooked as deceit
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 78, words straight and true that the world takes for their opposite
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Chapter 3, gentle and yielding, modest and giving way, not holding on to power
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Chapter 31, a ruler who delights in killing must not be allowed to achieve their aim in the world
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Chapter 33, one who strives to do good has intent toward the Tao, and the Tao has intent toward them
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 26, the master of ten thousand chariots means a king
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 30, a ruler of people who can assist themselves with the Tao
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 34, the Tao is not like a ruler of people who takes for themselves, nor one who forbids
@@ -475,6 +480,7 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zheng (right; a foot, and a line where it stops)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zhi (seeing straight; from ten eyes)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Tail radical, entry for qu
+- [Glossary · zhi](<../glossary/zhi-%E5%BF%97.md>) · Heart radical, entry for zhi (intent; from the heart, with zhi for sound)
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Dot radical, entry for zhu (the flame at the center of a lamp; from the dot, which is also the sound)
 - [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Foot radical, entry for zu (a person's foot; it is below; from zhi and kou)
 - Apparatus chapters [4](<../chapters/004.md>) · [manuscript decisions](<../notes/manuscript.md>)

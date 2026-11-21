@@ -524,6 +524,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **益 (*yì*) is water above a vessel's rim, and the Shuowen glosses it 饒 (*ráo* — plenty).** Shalom asked whether the picture is not abundance, and it is: the same gloss the dictionary gives 餘 (*yú*). *Abundance* keeps the overflowing vessel, carries Heshang Gong's 有益於人 (*"beneficial to people"*), since an overflow goes out to others, and gives *benefit* back to 利 (*lì*). Ch 42, 48 and 55 keep *increase*, the process paired with 損 (*sǔn* — decrease). Cost: the 42–43 seam, where 益 ends one chapter and opens the next, is heard as a link, not as one word.
 
+### Ch 3, 31, 33 · 志 → "will", the heart's drive; "aims" where it is reached
+
+*2026-11-20, Shalom's calls. `glossary/zhi-志.md`.* *(was: "ambition" at 3, his call of 2026-11-02; "get their will" at 31; "has purpose" at 33, his call of 2026-10-30.)*
+
+**The book yields 志 at ch 3 and praises having it at ch 33**, and only one word lets a reader see that a yielded will is not no will: *"teaching their will to yield"*, *"One who walks with strength has will."* Wang Bi links them (心虛則志弱 at 3; 其志必獲 at 33). **At ch 31 Shalom heard *"get their will"* as wrong: will is the drive, not the result.** 得志 is the idiom for an aim reached, so *"cannot achieve their aims in the world"*, with 得 (*dé*) taking *achieve* as a flexion. *Have their way* and *what they want* were declined as 道's and 欲's words. Cost: ch 33's *has will* is stiffer than *has purpose*.
+
 ## Chapter notes
 
 ### Ch 1
@@ -2886,7 +2892,7 @@ Repairing the link removed three imports in one move: **create** (生 *shēng*'s
 
 ### Ch 33 · the four couplets on one grammar
 
-*(2026-10-30, Shalom's call.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose*, and the close turns on two verbs, *endures / lives long*. Couplets 1 and 2 rank, and 3 and 4 praise. 死而不亡 (*sǐ ér bù wáng* — "dies but is not gone") → *dies but does not vanish*. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
+*(2026-10-30, Shalom's call. Its* has purpose *became* has will *on 2026-11-20: `glossary/zhi-志.md`.)* Six bare predicates read *is* + one word, and *has* stands only for the two 有 (*yǒu* — has): *is clever, is clear-seeing / has force, is strong / is wealthy, has purpose*, and the close turns on two verbs, *endures / lives long*. Couplets 1 and 2 rank, and 3 and 4 praise. 死而不亡 (*sǐ ér bù wáng* — "dies but is not gone") → *dies but does not vanish*. 強行 (*qiáng xíng* — "goes strong") → *walks with strength*. The argument is in the chapter's notes.
 
 ## Ch 35 · the whole chapter — one argument, cut in half and mystified
 

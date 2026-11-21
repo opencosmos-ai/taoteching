@@ -77,8 +77,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,5,心,xīn,心,heart,yes,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,腹,fù,心,belly,NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
 3,5,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"emptying their hearts and filling their bellies,"
-3,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,"teaching their ambition to yield and strengthening their bones,"
-3,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"teaching their ambition to yield and strengthening their bones,"
+3,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,"teaching their will to yield and strengthening their bones,"
+3,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,"teaching their will to yield and strengthening their bones,"
+3,6,志,zhì,志,will (the heart's drive),NOT FOUND,1.0,exact-count,"teaching their will to yield and strengthening their bones,"
 3,7,常,Cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
 3,7,民,mín,民,the people,yes,1.0,exact-count,"so the people are ever unknowing, ever desireless,"
@@ -715,9 +716,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 31,8,用,yòng,無 & 有,use,yes,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Use them only when unavoidable; calm detachment is best.
 31,10,勝,Shèng,勝,overcome,yes,1.0,authored,"Win, but do not glorify it."
-31,13,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
-31,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And those who delight in killing people cannot get their will in the world.
-31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot get their will in the world.
+31,13,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,And those who delight in killing people cannot achieve their aims in the world.
+31,13,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,And those who delight in killing people cannot achieve their aims in the world.
+31,13,得,dé,得 & 失,get,yes,1.0,authored,And those who delight in killing people cannot achieve their aims in the world.
+31,13,志,zhì,志,will (the heart's drive),yes,1.0,authored,And those who delight in killing people cannot achieve their aims in the world.
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,14,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
 31,14,凶,xiōng,凶 & 吉,ominous,yes,1.0,authored,Auspicious occasions honor the left; inauspicious occasions honor the right.
@@ -760,9 +762,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 33,4,勝,shèng,勝,overcome,yes,1.0,exact-count,One who overcomes themselves is strong.
 33,4,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who overcomes themselves is strong.
 33,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,One who knows they have enough is wealthy.
-33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
-33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
-33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who walks with strength has purpose.
+33,6,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,One who walks with strength has will.
+33,6,志,zhì,志,will (the heart's drive),NOT FOUND,1.0,exact-count,One who walks with strength has will.
+33,6,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,One who walks with strength has will.
+33,6,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,One who walks with strength has will.
 33,7,久,jiǔ,長,endure,yes,1.0,exact-count,One who does not lose their place endures.
 33,7,失,shī,得 & 失,lose,yes,1.0,exact-count,One who does not lose their place endures.
 33,8,死,Sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,One who dies but does not vanish lives long.

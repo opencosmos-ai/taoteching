@@ -64,6 +64,7 @@
     - { english: "unavoidable", chapters: [30, 31], why: "不得已 is an idiom, it cannot be helped" }
     - { english: "gain", chapters: [44], why: "the ledger chapter, worth more, great cost, heavy loss; Wang Bi: getting much profit and losing the body. Shalom's call, 2026-11-19" }
     - { english: "touch", chapters: [14], why: "the triad of senses, sight, hearing, touch: Chinese has verbs for the first two and uses 得 for the third; Shalom's call, 2026-11-19" }
+    - { english: "achieve", chapters: [31], why: "得志, the idiom for an aim reached: achieve their aims; Shalom's call, 2026-11-20 (glossary/zhi-志.md)" }
     - { english: "find", chapters: [62], why: "Shalom's call, 2026-11-19: seek, and you find is kept, and its echo of Matthew 7:7 is a known cost" }
 
 - term: "可"
@@ -759,6 +760,16 @@
   chapters: [15, 41, 68]
   status: locked
   entry: glossary/shi-士.md
+
+- term: "志"
+  pinyin: "zhì"
+  render: "will (the heart's drive)"
+  forbidden: ["ambition", "willpower", "aspiration"]
+  chapters: [3, 31, 33]
+  status: locked
+  entry: glossary/zhi-志.md
+  flexions:
+    - { english: "aims", chapters: [31], why: "得志, the idiom for the target reached: achieve their aims. Will is the drive, not the result (Shalom)" }
 
 - term: "愚"
   pinyin: "yú"
