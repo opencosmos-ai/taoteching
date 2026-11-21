@@ -654,6 +654,14 @@
   status: locked
   entry: glossary/luan-亂.md
 
+- term: "令"
+  pinyin: "lìng"
+  render: "command (the order, verb and noun) · make (令 + a person + a verb, the causative)"
+  forbidden: ["decree", "edict", "ordain"]
+  chapters: [12, 19, 32, 57]
+  status: locked
+  entry: glossary/ling-令.md
+
 - term: "保"
   pinyin: "bǎo"
   render: "keep safe"
@@ -831,11 +839,13 @@
 
 - term: "命"
   pinyin: "mìng"
-  render: "the allotted course — what is spoken over a thing and sent with it"
+  render: "what is given"
   forbidden: ["mandate", "destiny", "fate", "decree"]
   chapters: [16, 51]
-  status: open
+  status: locked
   entry: glossary/ming-命.md
+  flexions:
+    - { english: "command", chapters: [51], why: "a verb in 令's own frame, 莫之X而; the two were one graph, and the commentators read one act" }
 
 - term: "咎"
   pinyin: "jiù"

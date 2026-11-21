@@ -121,7 +121,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 觀,guān,observe / sight (26),word,,,,,9,4,"1,16,26,54",1,54,1.7,
 餘,yú,more than enough (有餘) · leftover (before a noun),locked,,more than enough (有餘) · leftover (before a noun),locked,excess; surplus; superfluous,9,6,"20,24,53,54,77,79",20,79,1.7,glossary/yu-餘.md
 仁,rén,humaneness,locked,,humaneness,locked,benevolence; charity; goodwill; righteous; justice,8,5,"5,8,18,19,38",5,38,1.51,glossary/ren-仁.md
-令,lìng,make (令人) / command / laws (法令),word,,,,,8,4,"12,19,32,57",12,57,1.51,
+令,lìng,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",locked,,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",locked,decree; edict; ordain,8,4,"12,19,32,57",12,57,1.51,glossary/ling-令.md
 先,xiān,"ahead, or before in time",locked,,"ahead, or before in time",locked,precede; superior; inferior; humility,8,6,"4,7,25,62,66,67",4,67,1.51,glossary/xian-hou-先後.md
 古,gǔ,ancient / the ancients,word,,,,,8,7,"14,15,21,22,62,65,68",14,68,1.51,
 和,hé,harmony (noun) · harmonize (verb),locked,,harmony (noun) · harmonize (verb),locked,dim; peace; balance; concord; reconcile; reconciliation; blend,8,7,"2,4,18,42,55,56,79",2,79,1.51,glossary/he-和.md
@@ -263,7 +263,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 勤,qín,strain,locked,,strain,locked,exhausted; inexhaustible; diligence; diligent; diligently; toil,3,3,"6,41,52",6,52,0.57,glossary/qin-勤.md
 化,huà,transform,word,,,,,3,2,"37,57",37,57,0.57,
 合,hé,"join / union (55) / arm span (合抱, 64)",word,,,,,3,3,"32,55,64",32,64,0.57,
-命,mìng,the allotted course — what is spoken over a thing and sent with it,open,,the allotted course — what is spoken over a thing and sent with it,open,mandate; destiny; fate; decree,3,2,"16,51",16,51,0.57,glossary/ming-命.md
+命,mìng,what is given,locked,,what is given,locked,mandate; destiny; fate; decree,3,2,"16,51",16,51,0.57,glossary/ming-命.md
 喪,sàng,mourning (喪禮) / to lose (69),word,,,,,3,2,"31,69",31,69,0.57,
 四,sì,four,word,,,,,3,3,"10,15,25",10,25,0.57,
 在,zài,in / be in,word,,,,,3,3,"24,32,49",24,49,0.57,

@@ -1,11 +1,13 @@
 ---
 term: "命"
 pinyin: "mìng"
-render: "the allotted course — what is spoken over a thing and sent with it"
-card: "the allotted course"
+render: "what is given"
+card: "what is given · command"
+flexions:
+  - { english: "command", chapters: [51], why: "a verb in 令's own frame, 莫之X而; the two were one graph, and the commentators read one act" }
 forbidden: ["mandate", "destiny", "fate", "decree"]
 chapters: [16, 51]
-status: open
+status: locked
 pairing: false
 refs_status: incomplete
 ---
@@ -13,7 +15,7 @@ refs_status: incomplete
 
 *Say "ming," falling. Three lines in two chapters, and one of them is the hinge of Chapter 16's chain toward clear-seeing.*
 
-**Recommended, not yet locked: 命 → the allotted course — what is spoken over a thing and sent with it.** *(Never "mandate," never "destiny," never "fate," never "decree." Chapter 16's line and Chapter 51's verb are both still open; see the close.)*
+**Locked: 命 → "what is given" as a noun (16, inside 復命), and "command" as a verb (51).** *(Shalom's call, 2026-11-20. Chapter 16's compound is locked in `fuming-復命.md`; chapter 51 shares* command *with 令 (lìng), its twin, in the identical frame: `ling-令.md`.)* *(Never "mandate," never "destiny," never "fate," never "decree.")* What it pictures is still the entry's argument: what is spoken over a thing, and sent with it.
 
 說文解字 (c. 100 CE): **使也。从口从令** — *"命 is 使 (shǐ — to send; also, an envoy). From 口 (kǒu — a mouth) and 令 (lìng)."*
 
@@ -45,7 +47,7 @@ So *mandate* imports a warrant-to-rule the book never invokes, and *destiny* and
 > ch 32 — 民莫之**令**而自均 — *"the people, with no one 令-ing them, even out of themselves"*
 > ch 51 — 夫莫之**命**而常自然 — *"with no one 命-ing it, it is always so of itself"*
 
-Identical construction 莫之X而, different character — **and the two were one graph before the Western Zhou split them**, which is why they are so easy to collapse and so worth keeping apart. The graphs separate them cleanly: **令 is the order as issued** — impersonal, and the book uses it that way (ch 12's 五色令人目盲, *"the five colours make people's eyes blind"*; ch 57's 法令, *"laws and decrees"*). **命 is the order as given to someone who is then sent.** One is the decree; the other is the commission.
+Identical construction 莫之X而, different character — **and the two were one graph before the Western Zhou split them.** The graphs separate them: **令 is the order as issued**, impersonal, and the book uses it that way (ch 12's 五色令人目盲, *"the five colors make people's eyes blind"*; ch 57's 法令, *"laws and commands"*). **命 is the order as given to someone who is then sent.** But in this frame the commentators read one act: Wang Bi's 不令而自均 at 32, Heshang Gong's 不命召萬物 (*"does not command or summon the countless things"*) at 51. **So both read *commands*** (Shalom's call, 2026-11-20), and the commission stays in the noun, chapter 16's *what is given*.
 
 ### The commentators agree, in a word the text does not have
 
@@ -67,9 +69,9 @@ The compound at Chapter 16 — 是謂復命，復命曰常 — is treated in **`
 
 **destiny, fate** — both make 命 a script settled before the actor arrives. 命 is spoken *to* someone, at a moment, and it can be reported back on. *Fate* additionally carries the Greek Moirai and the Christian providence in a text that has neither.
 
-**decree, law** — 令's territory, and the book uses 法令 (*fǎ lìng*) for exactly that at ch 57.
+**decree, law** — a throne room's words; the book's 法令 (*fǎ lìng*) at ch 57 reads *laws and commands*, and *decree* is forbidden for both characters.
 
-**command** — 令 already carries it at ch 32, in the identical 莫之X而 frame. If 命 takes it too at ch 51, the pair the book distinguishes collapses into one English word. *(This is the open question below, not a settled prohibition — ch 51 currently reads* commands*.)*
+**command** — *set aside for the noun, kept for the verb.* At ch 51 命 is a verb in 令's own frame, and shares 令's *commands* (Shalom's call, 2026-11-20). As a noun, 命 is what is given, never a command.
 
 **"the system's command"** — the Source table's literal gloss, and mechanistic in the way `CLAUDE.md` names as this edition's besetting temptation.
 
@@ -77,15 +79,15 @@ The compound at Chapter 16 — 是謂復命，復命曰常 — is treated in **`
 
 | Form | Chapters | English |
 |---|---|---|
-| 命 as a negated verb | 51 (莫之命) | *(unsettled — must not be* command*, which is 令's at ch 32)* |
-| 復命, the compound | 16 ×2 | *(unsettled — see below)* |
+| 命 as a negated verb | 51 (莫之命) | *no one commands it*, as 令 at 32 |
+| 復命, the compound | 16 ×2 | *returning to what is given* (`fuming-復命.md`) |
 
 ### Left open
 
 **Chapter 16's line is settled.** 是謂復命，復命曰常 → *"returning to what is given"* — present tense, giver present but unnamed. The four candidates it beat, and why, are in `fuming-復命.md`.
 
-**Chapter 51's verb**, 夫莫之命而常自然, reads *"no one commands it"* — 令's English, in 令's own construction.
+**Chapter 51's verb is settled: *commands***, 令's English in 令's own construction, because the two are one word in the graph and one act in the commentators (Shalom's call, 2026-11-20). The cost: the commission 命 adds to 令, the mouth and the sending, is not heard at 51.
 
-**And Chapter 51 has a variant.** Our vendored 王弼 carries 命並作爵 — *"命 is written 爵 (jué — to confer a noble rank) [in other editions]"* — under a collation note flagging the line as probably an editorial gloss mistaken for Wang Bi's own comment: 〔案此句疑係命字下原校注語誤作弼注〕. If 爵, the line reads *"no one ennobles it."* That is the conferral sense of 命 showing through in a second character, and it argues that whatever is happening at ch 51 is a **granting**, not an ordering.
+**And Chapter 51 has a variant.** Our vendored 王弼 carries 命並作爵 — *"命 is written 爵 (jué — to confer a noble rank) [in other editions]"* — under a collation note flagging the line as probably an editorial gloss mistaken for Wang Bi's own comment: 〔案此句疑係命字下原校注語誤作弼注〕. If 爵, the line reads *"no one ennobles it."* That is the conferral sense of 命 showing through in a second character, and it argues that whatever is happening at ch 51 is a **granting**, not an ordering. The verse keeps *commands*, with the base and both commentators; this is the reading it declines.
 
-**令 is owed an entry of its own.** Eight lines, four chapters, and at least three Englishes — *makes* (12), *command* (32), *laws* (57).
+**令 has its entry**, `ling-令.md` (2026-11-20): *command* where it is an order, *make* where it is the causative.

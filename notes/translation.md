@@ -512,6 +512,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **利 (*lì*) is a harvest in the graph, and the book's 利 is given**: by water (8), by nature (81), set against 害 (*hài* — harm) as one scale (56, 73, 81). Ch 11's couplet now reads *"So presence gives the benefit, and absence gives the use"* (Wang Bi: 有之所以為利). **Ch 19 prints 利 twice**, and the English now does too: abandon benefit, and the people benefit a hundredfold. Wang Bi calls skill and benefit 用之善 (*"the best of use"*), a good given up; *profit* had taken Heshang Gong's greed into the word. 利器 keeps *beneficial tools* (36, 57) and 利劍 *sharp swords* (53). Found: 益 (*yì* — increase) wears *benefit* at ch 43 (T2-94); and 無有's entry claimed 利 had *"no independent life in the book"*, corrected and registered.
 
+### Ch 32, 51, 57 · 令 and 命 → "command", one act in one frame
+
+*2026-11-20, Shalom's calls. `glossary/ling-令.md`, `glossary/ming-命.md`.* *(was: "laws" at 57.)*
+
+**令 (*lìng*) and 命 (*mìng*) were one graph in the oracle bones**, and the book sets them in the identical frame 莫之X而 at 32 and 51. Both now read *commands*, and the 命 entry's argument that 51 must not share it is set aside: Wang Bi reads 32 as 不令而自均 (*"with no one commanding"*), Heshang Gong reads 51 as 不命召萬物 (*"does not command or summon"*). The 爵 (*jué* — confer a rank) reading at 51 is recorded and declined. **Ch 57's 法令 → *laws and commands*** (was *laws*), so 令 keeps its word wherever it is an order; Heshang Gong's 法物 (*fine things*) is fork 129. 令's causative (12, 19) stays *make*. 命 locks as *what is given*, with *command* its flexion at 51.
+
 ## Chapter notes
 
 ### Ch 1

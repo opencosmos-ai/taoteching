@@ -14,7 +14,7 @@
 
 **The relevance queue is empty.** Its last term, 君 (*jūn* — ruler), locked 2026-11-20 (`glossary/jun-君.md`), and moved 王 (*wáng*) to *sovereign* on the way; 主 (*zhǔ*) followed as *master*, and *lord* left the book (Shalom's calls). **The entries still owed now live in their own rows**, and the next round takes them by how much meaning each one holds open:
 
-1. **T2-29 · 令 (*lìng* — to command)**, then **T2-94 · 益 (*yì* — increase)** at ch 43. One entry at a time with `process/skills/glossary-entry`; before each, run `concordance.py` on the character, since *covered* means it already has a home.
+1. **T2-94 · 益 (*yì* — increase)** at ch 43, then the remaining entry rows: **T2-7 · 志 (*zhì* — will)**, **T2-17 · 私 (*sī* — private)**, **T2-32 · 口 (*kǒu* — mouth)**. One entry at a time with `process/skills/glossary-entry`; before each, run `concordance.py` on the character, since *covered* means it already has a home.
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 3. **T5-29** — record the day's relocks (王, 君, 主, 公) on the I Ching side, a PR in that repository.
 
@@ -26,7 +26,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **43 item rows: 39 open · 0 done · 4 part done · 0 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **42 item rows: 38 open · 0 done · 4 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -39,7 +39,6 @@
 | T2-7 | ⬜ | **志** (*zhì* — will) — *ambition* (3) / *will* (33). No entry | 3 33 | E |
 | T2-17 | ⬜ | **私** (*sī* — private) — *private self* (7) / *the self* (19), sheltering under 公's `covers:`. Ch 19's is arguably right in place, but 私 may want its own entry rather than a `covers:` line | 7 19 | E |
 | T2-24 | 🔶 | **淵** (*yuān* — deep water) — ch 36 reads **deep water** (說文 回水也…左右，岸也: circling water, banks left and right). Open: whether ch 4's *fathomless* and ch 8's *staying deep* (心善淵) join it. *pool* rejected as chlorinated; *the depths* fails the pointing test | 4 8 | E |
-| T2-29 | ⬜ | **命 / 令 collapse into *command*** in the identical 莫之X而 frame — 令 at ch 32, 命 at ch 51. **令 is owed its own entry**: 8 lines, 3 Englishes (*makes* 12 · *command* 32 · *laws* 57). `ming-命.md` is still `status: open` | 12 19 32 51 57 | E |
 | T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
 | T2-94 | ⬜ | **益 (*yì* — increase) wears 利 (*lì*)'s *benefit* at ch 43** (found 2026-11-20, writing `glossary/li-利.md`). 吾是以知無為之有益 and 無為之益 read *"the benefit of non-doing,"* twice, where 益 reads *increase* in every other line (42, 48, 55). Whether ch 43 should read *the increase of non-doing*, so that *benefit* is 利's alone, and 42's *decreased and so increased* hears it | 43 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |

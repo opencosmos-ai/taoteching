@@ -118,7 +118,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 哉,zāi,(an exclamation) / how…!,,哉,exact,口,phonetic-compound,,口 (kǒu = mouths),𢦔 (? = not yet glossed),7,,0.0599,言之閒也。从口𢦔聲。,
 重,Zhòng,heavy / weigh down / baggage (輜重),,重,exact,重,phonetic-compound,,壬 (? = not yet glossed),東 (? = not yet glossed),6,,0.059,厚也。从壬東聲。凡重之屬皆从重。,
 抱,bào,embrace / arms' span (64),,捊,old-form,手,phonetic-compound,,手 (shǒu = hand),孚 (? = not yet glossed),6,,0.0586,引取也。从手孚聲。,
-令,lìng,make (令人) / command / laws (法令),,令,exact,卩,compound,,亼 (jí = to gather together) + 卪 (? = not yet glossed),,8,,0.0584,發號也。从亼、卪。,
+令,lìng,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)","command (the order, verb and noun) · make (令 + a person + a verb, the causative)",令,exact,卩,compound,,亼 (jí = to gather together) + 卪 (? = not yet glossed),,8,Tier 3,0.0584,發號也。从亼、卪。,To issue a call. From 亼 (jí — gathering) and 卪 (jié — a kneeling figure).
 輕,qīng,light / make light of / lightly (63),,輕,exact,車,phonetic-compound,,車 (chē = cart),坙 (? = not yet glossed),8,,0.0584,輕車也。从車坙聲。,
 猶,yóu,"like / still, even so / hesitant (15)",,猶,exact,犬,phonetic-compound,,犬 (quǎn = dog),酋 (? = not yet glossed),6,,0.0575,玃屬。从犬酋聲。一曰隴西謂犬子爲猷。,
 皆,jiē,all,,皆,exact,𪞶,compound,,"比 (bǐ = be like, compare to) + 𪞶 (? = not yet glossed)",,8,,0.0571,俱詞也。从比从𪞶。,
@@ -282,7 +282,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 法,fǎ,model oneself on / laws (法令),,灋,old-form,𢊁,compound,,水 (shuǐ = water) + 去 (qù = let go of / leave / apart (20)),,5,,0.0246,刑也。平之如水，从水；𢊁，所以觸不直者；去之，从去。,
 司,sī,"keep / preside over (司殺者, 74)",,司,exact,司,compound,,反 (fǎn = returning) + 后 (? = not yet glossed),,4,,0.0243,臣司事於外者。从反后。凡司之屬皆从司。,
 絕,Jué,cut off,,絕,exact,糸,compound,,糸 (mì = silk thread) + 刀 (dāo = a knife) + 卩 (jié = a kneeling person),,4,,0.0243,斷絲也。从糸从刀从卩。,
-命,mìng,the allotted course — what is spoken over a thing and sent with it,the allotted course — what is spoken over a thing and sent with it,命,exact,口,compound,,口 (kǒu = mouths) + 令 (lìng = make (令人) / command / laws (法令)),,3,,0.0241,使也。从口从令。,
+命,mìng,what is given,what is given,命,exact,口,compound,,"口 (kǒu = mouths) + 令 (lìng = command (the order, verb and noun) · make (令 + a person + a verb, the causative))",,3,Tier 3,0.0241,使也。从口从令。,
 建,jiàn,established / sturdy (41) / plant (54),,建,exact,廴,compound,,聿 (? = not yet glossed) + 廴 (? = not yet glossed),,3,,0.0241,立朝律也。从聿从廴。,
 昏,hūn,clouded,,昏,exact,日,compound,,日 (rì = day / daily / all day (終日)) + 氐 (? = not yet glossed),,4,,0.0241,日冥也。从日氐省。氐者，下也。一曰民聲。,
 本,běn,root,,本,exact,木,compound,,木 (mù = tree),,3,,0.0241,木下曰本。从木，一在其下。,

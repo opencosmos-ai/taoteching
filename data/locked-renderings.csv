@@ -239,9 +239,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 11,11,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and absence gives the use.
 11,11,無,wú,無 & 有,absence,yes,1.0,exact-count,and absence gives the use.
 11,11,用,yòng,無 & 有,use,yes,1.0,exact-count,and absence gives the use.
+12,1,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five colors make people's eyes blind.
+12,2,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five tones make people's ears deaf.
+12,3,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,The five flavors make people's palates dull.
+12,5,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,Galloping in pursuit of prey makes people's hearts wild.
 12,5,心,xīn,心,heart,yes,1.0,authored,Galloping in pursuit of prey makes people's hearts wild.
 12,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,Rare goods hinder people's conduct.
 12,6,貨,huò,貨,goods,yes,1.0,authored,Rare goods hinder people's conduct.
+12,7,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,Rare goods hinder people's conduct.
 12,7,行,xíng,行,go / carry out / conduct,yes,1.0,authored,Rare goods hinder people's conduct.
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Therefore the sage acts for the belly, not for the eye."
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Therefore the sage acts for the belly, not for the eye."
@@ -349,9 +354,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 16,7,根,gēn,歸 & 復 & 反,root,yes,1.0,authored,Returning to the root is called stillness.
 16,7,歸,Guī,歸 & 復 & 反,return,yes,1.0,authored,Returning to the root is called stillness.
 16,7,靜,jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,Returning to the root is called stillness.
-16,8,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,1.0,authored,This is called returning to what is given.
+16,8,命,mìng,命,what is given,yes,1.0,authored,This is called returning to what is given.
 16,8,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,This is called returning to what is given.
-16,9,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,1.0,authored,Returning to what is given is called the ever-present.
+16,9,命,mìng,命,what is given,yes,1.0,authored,Returning to what is given is called the ever-present.
 16,9,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Returning to what is given is called the ever-present.
 16,9,復,Fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,authored,Returning to what is given is called the ever-present.
 16,10,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Knowing the ever-present is called clear-seeing.
@@ -412,6 +417,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon benefit, and there are no thieves."
 19,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"These three, taken as cultural form, are not enough."
 19,4,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,"These three, taken as cultural form, are not enough."
+19,5,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,exact-count,So give them something to belong to:
 19,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,So give them something to belong to:
 19,6,樸,pǔ,樸,uncarved wood / the uncarved,yes,1.0,exact-count,"show the undyed silk, embrace the uncarved wood,"
 19,7,欲,yù,欲,"desire (as a state, with nothing after it) / want (with a verb after it) / would (in 將欲)",NOT FOUND,1.0,exact-count,"diminish the self, diminish desire."
@@ -734,6 +740,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 32,3,能,néng,可,be able,NOT FOUND,1.0,authored,"If nobles and sovereigns are able to hold to this, the countless things will submit of themselves."
 32,3,萬,wàn,萬物,countless,yes,1.0,authored,"If nobles and sovereigns are able to hold to this, the countless things will submit of themselves."
 32,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Sky and earth join together to send down sweet dew.
+32,5,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,authored,"No one commands the people, and they even out of themselves."
 32,5,民,Mín,民,the people,yes,1.0,authored,"No one commands the people, and they even out of themselves."
 32,6,名,míng,名,name,yes,1.0,authored,"When the carving begins, there are names."
 32,6,始,Shǐ,母,beginning,NOT FOUND,1.0,authored,"When the carving begins, there are names."
@@ -1186,7 +1193,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 51,4,德,dé,德,integrity,yes,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it."
 51,4,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it."
 51,4,道,Dào,道,the Tao / way,yes,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it."
-51,5,命,mìng,命,the allotted course — what is spoken over a thing and sent with it,NOT FOUND,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it. It is always so, of itself."
+51,5,命,mìng,命,what is given,yes,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it. It is always so, of itself."
 51,5,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"This honoring of the Tao, this prizing of integrity — no one commands it. It is always so, of itself."
 51,6,德,dé,德,integrity,yes,1.0,authored,"So the Tao births the countless things and integrity rears them,"
 51,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,authored,"So the Tao births the countless things and integrity rears them,"
@@ -1320,7 +1327,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,6,國,guó,國,state,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,7,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
 57,7,物,wù,萬物,things / something,NOT FOUND,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
-57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws are proclaimed, the more thieves there are."
+57,8,令,lìng,令,"command (the order, verb and noun) · make (令 + a person + a verb, the causative)",NOT FOUND,1.0,exact-count,"The more laws and commands are proclaimed, the more thieves there are."
+57,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"The more laws and commands are proclaimed, the more thieves there are."
 57,9,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,exact-count,So the sage says:
 57,10,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"I do not do, and the people transform themselves."
 57,10,民,mín,民,the people,yes,1.0,exact-count,"I do not do, and the people transform themselves."
