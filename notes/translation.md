@@ -498,6 +498,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **Then 主 (*zhǔ*) and 公 (*gōng*), the same day, line by line.** *Lord* is male only (Shalom), so it left the book. 主, the flame at a lamp's center, the master of a house, takes ***master*** at 26 (*"the master of ten thousand chariots"*, was *lord*) and 34, ***ruler*** at 30 (人主, shared with 君 by flexion, which keeps it clear of 善's *the masterful one* four lines on), *host* at 69 and *keeper* at 78. 君 keeps *ruler* at 26 and 70, so ch 26 holds 君 and 主 apart, as both commentators' reading of 躁則失君 needs. 公 at 42's 王公 → ***sovereigns and nobles*** (was *lords*), the mirror of 39's 侯王. `glossary/zhu-主.md`, `glossary/gong-公.md`.
 
+### Ch 17, 23, 77 · 不足 → "not enough", 有餘 → "more than enough", in every line
+
+*2026-11-20, Shalom's calls. `glossary/zu-足.md`.* *(was: "Where trust runs short" at 17 and 23; "too much / too little" in three of ch 77's lines and "more than enough" in its fourth.)*
+
+**One compound, one English, and the book's *enough* runs unbroken.** 不足 (*bù zú*) now reads *not enough* in all its lines (17, 19, 23, 35, 41, 77), and its partner 有餘 (*yǒu yú*) *more than enough* in all five of its own at 20 and 77. Ch 77 is 知足 (*zhī zú* — knowing you have enough) made cosmic: nature takes from more than enough and mends what is not enough, and Heshang Gong's gloss on the last question keeps the same pair (天下不足者, *"those in the world who do not have enough"*). Chs 17 and 23 take **Shalom's line, *"Where there is not enough trust, there is no trust"***: each clause opens on *there is*, as the Chinese closes each on 焉 (*yān* — there), and *short* stays 寡 (*guǎ* — few)'s at ch 63. Cost: *too much / too little* was crisper, and *runs short* had motion.
+
 ## Chapter notes
 
 ### Ch 1
@@ -815,6 +821,8 @@ It also brackets the chapter on its keyword: it opens *"Bend, and stay whole"* a
 ### Ch 23
 
 #### 信不足焉，有不信焉 → "Where trust runs short, there is no trust" — ch 17 and ch 23 alike
+
+*(Superseded 2026-11-20, Shalom's line: "Where there is not enough trust, there is no trust," both chapters, so that 不足 reads* not enough *everywhere and* short *stays 寡's. `glossary/zu-足.md`. The reasoning below on the agentless shape stands.)*
 
 *(**Resolved 2026-08-30, Pass C, `WORKLIST.md` T2-14.** This section previously argued for a deliberate divergence and was marked "⟡ Flagged for the editing pass." This is that pass, and **the divergence does not survive it.** Ch 17 read *"When leaders don't trust the people, no one trusts the leaders"*; ch 23 read *"Where trust is withheld, trust is withheld in return."* Both are gone, and ch 23's `lock-ok` waiver with them. What the split got right is kept below.)*
 
@@ -2078,6 +2086,8 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 *Taking credit* also makes the chapter repeat itself: 其不欲見賢 **is** the credit clause. Read as *not staying*, the three verbs move instead of circling — they act, they do not remain in what they did, they do not want to be seen for it. And 功成 is impersonal: the work completes. Not "they complete their work."
 
 ### Ch 77 · 有餘 / 不足 kept plain, and kept identical across both stanzas
+
+*(Superseded 2026-11-20, Shalom's call: the pair reads* more than enough / not enough *in every line. The chapter had rendered 有餘 two ways, and this note had missed the third stanza. The case against* excess / deficiency *stands. `glossary/zu-足.md`.)*
 
 *Excess* and *deficiency* were considered and set aside. They are the abstraction drift the overlay watchlist names — clinical register for the plainest Chinese in the chapter — and 補 as *supplement* loses the patched garment entirely.
 

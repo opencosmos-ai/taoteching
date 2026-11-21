@@ -229,6 +229,14 @@
   entry: glossary/qiang-強.md
   # covers 力 -> force
 
+- term: "足"
+  pinyin: "zú"
+  render: "enough · not enough (不足) · foot (the body part)"
+  forbidden: ["sufficient", "insufficient", "sufficiency", "deficient", "deficiency", "too little", "runs short"]
+  chapters: [17, 19, 23, 28, 33, 35, 41, 44, 46, 48, 64, 77]
+  status: locked
+  entry: glossary/zu-足.md
+
 - term: "長"
   pinyin: "cháng / zhǎng"
   render: "long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)"

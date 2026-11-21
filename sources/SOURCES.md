@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 97 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 98 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -254,6 +254,9 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, guiding things with trueness without dashing against them
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 30, one who assists a ruler of people with the Tao, and how much more a ruler who embodies it
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 70, the ruler is the master of the countless things
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 17, when the body loses its nature, illness arises; where trust is not enough there is no trust, the way of nature
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 20, what is so of itself is already enough; add to it and you worry
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 80, nowhere to use them, why worry about not having enough
 - Apparatus chapters [2](<../chapters/002.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [15](<../chapters/015.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [39](<../chapters/039.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [55](<../chapters/055.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [69](<../chapters/069.md>), [73](<../chapters/073.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -357,6 +360,8 @@ Stored in this repository.
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 34, the Tao is not like a ruler of people who takes for themselves, nor one who forbids
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 69, the host means first, not pushing to be first to raise troops
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 78, become the ruler of one state
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 77, the way of nature takes from more than enough and adds to the humble, the balanced middle highest; people take from the poor to offer to the rich
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Chapter 77, who can hold a place of more than enough and offer it to those in the world who do not have enough
 - Apparatus chapters [1](<../chapters/001.md>), [3](<../chapters/003.md>), [4](<../chapters/004.md>), [8](<../chapters/008.md>), [9](<../chapters/009.md>), [10](<../chapters/010.md>), [13](<../chapters/013.md>), [15](<../chapters/015.md>), [16](<../chapters/016.md>), [17](<../chapters/017.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [23](<../chapters/023.md>), [26](<../chapters/026.md>), [29](<../chapters/029.md>), [32](<../chapters/032.md>), [35](<../chapters/035.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [51](<../chapters/051.md>), [52](<../chapters/052.md>), [57](<../chapters/057.md>), [62](<../chapters/062.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [67](<../chapters/067.md>), [68](<../chapters/068.md>), [69](<../chapters/069.md>), [72](<../chapters/072.md>), [73](<../chapters/073.md>), [74](<../chapters/074.md>), [75](<../chapters/075.md>), [76](<../chapters/076.md>), [77](<../chapters/077.md>), [80](<../chapters/080.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -426,6 +431,7 @@ Stored in this repository.
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zhi (seeing straight; from ten eyes)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Tail radical, entry for qu
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Dot radical, entry for zhu (the flame at the center of a lamp; from the dot, which is also the sound)
+- [Glossary · zu](<../glossary/zu-%E8%B6%B3.md>) · Foot radical, entry for zu (a person's foot; it is below; from zhi and kou)
 - Apparatus chapters [4](<../chapters/004.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 

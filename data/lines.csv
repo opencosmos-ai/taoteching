@@ -192,7 +192,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 17,2,1,其次，親而譽之；,"Qí cì, qīn ér yù zhī;","The next \[qi ci\], love/are close to \[qin\] and \[er\] praise \[yu\] them \[zhi\];","Next, those who are loved and praised.",exact-count
 17,3,1,其次，畏之；,"Qí cì, wèi zhī;","The next \[qi ci\], fear \[wei\] them \[zhi\];","Next, those who are feared.",exact-count
 17,4,1,其次，侮之。,"Qí cì, wǔ zhī.","The next \[qi ci\], despise/insult \[wu\] them \[zhi\].","Next, those who are despised.",exact-count
-17,5,2,信不足焉，有不信焉。,"Xìn bù zú yān, yǒu bù xìn yān.","Trust/reliability \[xin\] is not \[bu\] sufficient \[zu\] here \[yan\], there is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].","Where trust runs short, there is no trust.",exact-count
+17,5,2,信不足焉，有不信焉。,"Xìn bù zú yān, yǒu bù xìn yān.","Trust/reliability \[xin\] is not \[bu\] sufficient \[zu\] here \[yan\], there is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].","Where there is not enough trust, there is no trust.",exact-count
 17,6,3,悠兮其貴言。,Yōu xī qí guì yán.,Hesitant/anxiously careful \[you\] oh \[xi\] they \[qi\] prize \[gui\] words \[yan\].,"Hesitant, they prize their words.",exact-count
 17,7,3,功成事遂，,"Gōng chéng shì suì,","Work/merit \[gong\] completed \[cheng\], affairs/tasks \[shi\] accomplished \[sui\],","When the work is complete and the affairs are done,",exact-count
 17,8,3,百姓皆謂：「我自然」。,"Bǎi xìng jiē wèi: ""Wǒ zì rán"".","The hundred \[bai\] surnames/people \[xing\] all \[jie\] say \[wei\]: ""We \[wo\] are naturally so/spontaneous \[zi ran\]"".","Everyone says, “We did this by ourselves.”",exact-count
@@ -277,8 +277,8 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 23,14,3,德亦樂得之；,Dé yì lè dé zhī;,Virtue \[de\] also \[yi\] is glad/happy \[le\] to obtain \[de\] them \[zhi\];,"Those the same as integrity, integrity too gladly gets them.",authored
 23,15,3,同於失者，,"Tóng yú shī zhě,","Those merged with loss \[tong yu shi zhe\],","Those the same as loss, loss too gladly gets them.",authored
 23,16,3,失亦樂得之。,Shī yì lè dé zhī.,Loss \[shi\] also \[yi\] is glad/happy \[le\] to obtain \[de\] them \[zhi\].,"Those the same as loss, loss too gladly gets them.",authored
-23,17,3,信不足焉，,"Xìn bù zú yān,","Trust/reliability \[xin\] is not \[bu\] sufficient/enough \[zu\] here \[yan\],","Where trust runs short, there is no trust.",authored
-23,18,3,有不信焉。,Yǒu bù xìn yān.,There is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].,"Where trust runs short, there is no trust.",authored
+23,17,3,信不足焉，,"Xìn bù zú yān,","Trust/reliability \[xin\] is not \[bu\] sufficient/enough \[zu\] here \[yan\],","Where there is not enough trust, there is no trust.",authored
+23,18,3,有不信焉。,Yǒu bù xìn yān.,There is \[you\] no \[bu\] trust/reliability \[xin\] here \[yan\].,"Where there is not enough trust, there is no trust.",authored
 24,1,1,企者不立；,Qǐ zhě bù lì;,Tiptoeing \[qi\] those \[zhe\] do not \[bu\] stand \[li\];,Those who stand on tiptoe do not stand.,authored
 24,2,1,跨者不行；,Kuà zhě bù xíng;,Striding/taking long steps \[kua\] those \[zhe\] do not \[bu\] walk/go \[xing\];,Those who take long strides get nowhere.,authored
 24,3,2,自見者不明；,Zì jiàn zhě bù míng;,Self \[zi\] displaying/seeing \[jian\] those \[zhe\] are not \[bu\] bright/clear \[ming\];,Those who show themselves off do not see clearly.,authored
@@ -772,9 +772,9 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 76,6,3,強大處下，柔弱處上。,"Qiáng dà chǔ xià, róu ruò chǔ shàng.","The hard/strong and big reside below, the supple and yielding reside above.",The strong and the big dwell below. / The soft and the yielding dwell above.,authored
 77,1,1,天之道，其猶張弓與？,"Tiān zhī dào, qí yóu zhāng gōng yǔ?","The Tao of Heaven, is it not like drawing a bow?",The way of nature: / is it not like stringing a bow?,authored
 77,2,1,高者抑之，下者舉之；,"Gāo zhě yì zhī, xià zhě jǔ zhī;","The high is lowered, the low is raised;","The high is pressed down, the low is lifted.",authored
-77,3,1,有餘者損之，不足者補之。,"Yǒu yú zhě sǔn zhī, bù zú zhě bǔ zhī.","Those who have excess, it diminishes; those who are insufficient, it supplements.",What is too much is taken from. What is too little is mended.,authored
-77,4,2,天之道，損有餘而補不足。,"Tiān zhī dào, sǔn yǒu yú ér bǔ bù zú.",The Tao of Heaven: diminishes those who have excess and supplements those who are insufficient.,The way of nature / takes from where there is too much / and mends where there is too little.,authored
-77,5,2,人之道，則不然，損不足以奉有餘。,"Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",The Tao of humanity is not like this: it diminishes those who are insufficient to serve those who have excess.,The way of people is not like this. / It takes from those who have too little / and offers it up to those who have too much.,authored
+77,3,1,有餘者損之，不足者補之。,"Yǒu yú zhě sǔn zhī, bù zú zhě bǔ zhī.","Those who have excess, it diminishes; those who are insufficient, it supplements.",What is more than enough is taken from. What is not enough is mended.,authored
+77,4,2,天之道，損有餘而補不足。,"Tiān zhī dào, sǔn yǒu yú ér bǔ bù zú.",The Tao of Heaven: diminishes those who have excess and supplements those who are insufficient.,The way of nature / takes from where there is more than enough / and mends where there is not enough.,authored
+77,5,2,人之道，則不然，損不足以奉有餘。,"Rén zhī dào, zé bù rán, sǔn bù zú yǐ fèng yǒu yú.",The Tao of humanity is not like this: it diminishes those who are insufficient to serve those who have excess.,The way of people is not like this. / It takes from those who do not have enough / and offers it up to those who have more than enough.,authored
 77,6,3,孰能有餘以奉天下？唯有道者。,Shú néng yǒu yú yǐ fèng tiān xià? Wéi yǒu dào zhě.,Who can have excess to serve the world? Only the one who has the Tao.,Who can have more than enough / and offer it up to the world? / Only those who are with the Tao.,authored
 77,7,3,是以聖人為而不恃，功成而不處，其不欲見賢。,"Shì yǐ shèng rén wéi ér bù shì, gōng chéng ér bù chù, qí bù yù jiàn xián.","Therefore the Sage acts but does not rely, accomplishes work but does not take credit; they do not wish to display their worth.","Therefore the sage acts without relying on it. / The work is complete, and they do not stay in it. / They do not want to appear exceptional.",authored
 78,1,1,天下莫柔弱於水，,"Tiān xià mò róu ruò yú shuǐ,","In the world, nothing is more supple and yielding than water,","In all the world nothing is softer and more yielding than water,",authored

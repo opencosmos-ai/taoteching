@@ -197,7 +197,7 @@ component,pinyin,gloss,role,gloss_status,builds_characters,characters
 舟,zhōu,boat,semantic,glossed,2,"前,服"
 谷,Gǔ,valley,semantic,glossed,2,"容,谿"
 貫,,,semantic,not yet glossed — see sources/component-glosses.yaml,2,"實,患"
-足,zú,enough / foot (64),semantic,glossed,2,"跨,蹶"
+足,zú,enough · not enough (不足) · foot (the body part),semantic,glossed,2,"跨,蹶"
 長,cháng,"long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun)",semantic,glossed,2,"彌,肆"
 門,mén,gate / door,phonetic,glossed,2,"悶,聞"
 青,qīng,"blue-green, the colour of growing things",phonetic,glossed,2,"清,精"

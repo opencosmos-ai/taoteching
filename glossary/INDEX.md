@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**97 entries.** Sorted by how much of the book each term touches.
+**98 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ python3 tools/build_index.py
 | **成** | *chéng* | complete | "compile", "perfect", "perfection" | 14 | **locked** | [`cheng-成.md`](cheng-成.md) |
 | **民** | *mín* | the people · *people* (ch 64) | "the masses", "the multitude", "the populace", "subjects", "citizens", "commoners", "peasants", "the governed" | 13 | **locked** | [`min-民.md`](min-民.md) |
 | **強** | *qiáng* | strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature | "mighty", "forceful", "brute strength", "perseverance" | 12 | **locked** | [`qiang-強.md`](qiang-強.md) |
+| **足** | *zú* | enough · not enough (不足) · foot (the body part) | "sufficient", "insufficient", "sufficiency", "deficient", "deficiency", "too little", "runs short" | 12 | **locked** | [`zu-足.md`](zu-足.md) |
 | **長** | *cháng / zhǎng* | long, last (cháng) / grow (zhǎng, a verb) / chief (zhǎng, a noun) | "leader", "leading", "superiority", "immortal", "everlasting" | 12 | **locked** | [`chang-長.md`](chang-長.md) |
 | **先 & 後** | *xiān / hòu* | ahead, or before in time / behind, or after in time · *older* (ch 4) · *back* (ch 2, 14) · *then* (ch 38, 65) · *last* (ch 7, 67) · *first* (ch 7, 67) | "precede", "superior", "inferior", "humility" | 11 | **locked** | [`xian-hou-先後.md`](xian-hou-先後.md) |
 | **勝** | *shèng* | overcome · *win* (ch 31, 67, 69, 76) | "victory", "victorious", "conquer", "conquest", "defeat", "triumph" | 11 | **locked** | [`sheng-勝.md`](sheng-勝.md) |
