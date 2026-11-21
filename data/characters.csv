@@ -74,7 +74,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 見,jiàn,"see / show, display / appear (77)",word,,,,,14,11,"3,14,19,22,24,29,35,47,52,72,77",3,77,2.64,
 亦,yì,also / too,grammar,,,,,13,9,"23,25,32,37,42,49,50,60,65",23,65,2.45,
 治,zhì,govern,locked,,govern,locked,control; manage; administer,13,9,"3,8,10,57,59,60,64,65,75",3,75,2.45,glossary/zhi-治.md
-王,wáng,ruler / sovereign · to rule (verb),locked,,ruler / sovereign · to rule (verb),locked, king; kings; monarch; emperor; sovereignty,13,8,"16,25,32,37,39,42,66,78",16,78,2.45,glossary/wang-王.md
+王,wáng,sovereign,locked,,sovereign,locked, king; kings; monarch; emperor; sovereignty,13,8,"16,25,32,37,39,42,66,78",16,78,2.45,glossary/wang-王.md
 難,nán,difficult / hard / rare (難得),word,,,,,13,8,"2,3,12,63,64,65,73,75",2,75,2.45,
 乃,nǎi,then / and so becomes,grammar,,,,,12,4,"16,28,54,65",16,65,2.27,
 兵,bīng,weapons / armies / military force (30),word,,,,,12,7,"30,31,50,57,69,76,80",30,80,2.27,
@@ -150,7 +150,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 百,bǎi,hundred / everyone (百姓),word,,,,,7,5,"5,17,19,49,66",5,66,1.32,
 聞,wén,"hear / it is said (蓋聞, 50)",word,,,,,7,5,"14,35,41,50,80",14,80,1.32,
 主,zhǔ,"master, lord / owner (34) / host (69)",word,,,,,6,5,"26,30,34,69,78",26,78,1.13,
-君,jūn,ruler / the noble (君子),word,,,,,6,3,"26,31,70",26,70,1.13,
+君,jūn,ruler,locked,,ruler,locked,sovereign; monarch;  king; mastery; gentleman; superior man; prince,6,3,"26,31,70",26,70,1.13,glossary/jun-君.md
 希,xī,few (of a count) / barely heard (of a sound),locked,,few (of a count) / barely heard (of a sound),locked,rare; scarce; seldom; whisper,6,6,"14,23,41,43,70,74",14,74,1.13,glossary/xi-希.md
 恐,kǒng,likely to (將恐; lit. fear),word,,,,,6,1,39,39,39,1.13,
 抱,bào,embrace / arms' span (64),word,,,,,6,6,"10,19,22,42,54,64",10,64,1.13,
@@ -166,7 +166,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 雖,Suī,although / even if,grammar,,,,,6,5,"26,27,32,62,80",26,80,1.13,
 且,qiě,and / and also,grammar,,,,,5,3,"7,41,67",7,67,0.94,
 似,sì,seem / look like,word,,,,,5,3,"4,20,67",4,67,0.94,
-侯,Hóu,ruler (inside 侯王),covers,,ruler (inside 侯王),locked,,5,3,"32,37,39",32,39,0.94,glossary/wang-王.md
+侯,Hóu,nobles (inside 侯王),covers,,nobles (inside 侯王),locked,,5,3,"32,37,39",32,39,0.94,glossary/wang-王.md
 修,Xiū,cultivate,word,,,,,5,1,54,54,54,0.94,
 傷,shāng,harm / cut (74),word,,,,,5,2,"60,74",60,74,0.94,
 兩,liǎng,two / both (61),word,,,,,5,5,"1,60,61,65,73",1,73,0.94,

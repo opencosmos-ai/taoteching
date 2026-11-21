@@ -376,14 +376,14 @@
 
 - term: "王"
   pinyin: "wáng"
-  render: "ruler / sovereign · to rule (verb)"
+  render: "sovereign"
   forbidden: [" king", "kings", "monarch", "emperor", "sovereignty"]
   chapters: [16, 25, 32, 37, 39, 42, 66, 78]
   status: locked
   entry: glossary/wang-王.md
   flexions:
     - { english: "supreme authority", chapters: [16], why: "the 容→公→王→天→道 chain widens beyond any office, so the rung is the reach and not the post" }
-  # covers 侯 -> ruler (inside 侯王)
+  # covers 侯 -> nobles (inside 侯王)
 
 - term: "和"
   pinyin: "hé"
@@ -655,6 +655,16 @@
   entry: glossary/qin-勤.md
   flexions:
     - { english: "labor", chapters: [41], why: "affirmed rather than negated, so strain would fault the effort, a verdict the Chinese does not pass" }
+
+- term: "君"
+  pinyin: "jūn"
+  render: "ruler"
+  forbidden: ["sovereign", "monarch", " king", "mastery", "gentleman", "superior man", "prince"]
+  chapters: [26, 31, 70]
+  status: locked
+  entry: glossary/jun-君.md
+  flexions:
+    - { english: "the noble", chapters: [26, 31], why: "君子 (jūn zǐ — a ruler's son), the honorific of a class: it keeps the rank and drops the sex" }
 
 - term: "士"
   pinyin: "shì"

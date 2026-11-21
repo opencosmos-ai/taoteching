@@ -31,7 +31,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-11-20 — Five entries locked, and the relevance queue down to its last term
+## 2026-11-20 — Six entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
 
@@ -39,6 +39,7 @@ A day of Shalom's calls, one at a time with each stanza in place, through PRs #9
 - **Lines changed:** ch 54 *"its integrity grows"*; 長 and 久 uncrossed at 22, 23, 24 (*last* / *endure*); ch 31 *"A battle won"*; ch 59 *"there is nothing you cannot shoulder"*; ch 67 *"chief of the completed vessels"*; ch 7 *"complete their private self"*; 功成 *"The work is complete"* (2, 34, 77) and ch 17 *"When the work is complete and the affairs are done"*, restoring 事遂 (*shì suì* — the affairs carried through); ch 15 *"never newly completed"*; ch 6 *"The spirit of the valley does not die"*; ch 75 *"seek life too thickly,"* one diagnosis with ch 50.
 - **Kept, and recorded so no later pass reopens them:** 取天下 (*qǔ tiān xià*) *"win over the world"* at 48 and 57; ch 44's *"heavy loss"*; ch 50's *"deadly ground."*
 - **Records.** Han Fei's 為 (*wéi* — become) at ch 67 recorded as fork 128. The open 成 calls are T2-91.
+- **The queue's last term, and a relock it led to** (a third PR). [`glossary/jun-君.md`](glossary/jun-君.md): 君 (*jūn*) *ruler*, with 君子 (*jūn zǐ*) *the noble* at 26 and 31. Shalom asked why the book has two words for the one who rules: 王 (*wáng*) is the title the world goes to (說文 (*Shuōwén*) 天下所歸往也; the *Hanshi waizhuan*, a new source), 君 the ruler *of* something. So [`glossary/wang-王.md`](glossary/wang-王.md) now locks *sovereign*, and 侯王 (*hóu wáng*) reads *nobles and sovereigns*: nine lines in chapters 32, 37, 39, 42, 66 (*"can be sovereign of the hundred valleys"*) and 78. R2 (義 (*yì* — duty)) closed, found done on 2026-11-19. Opened: T2-92 (主 (*zhǔ*), five Englishes) and T5-29 (the I Ching still prints *ruler* for 王).
 - **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
 
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked

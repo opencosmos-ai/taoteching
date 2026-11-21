@@ -87,9 +87,9 @@ Chapter 32 reads with Guodian and silk B here. Our base text has 川谷 (*chuān
 >
 > — chapter 41
 
-> *Rivers and seas can rule the hundred valleys*
+> *Rivers and seas can be sovereign of the hundred valleys*
 > *because they are masterful at staying below them.*
-> *That is how they come to rule the hundred valleys.*
+> *That is how they come to be sovereign of the hundred valleys.*
 >
 > 江海所以能為百谷王者，
 > 以其善下之，

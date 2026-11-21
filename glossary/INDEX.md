@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**93 entries.** Sorted by how much of the book each term touches.
+**94 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -50,7 +50,7 @@ python3 tools/build_index.py
 | **信** | *xìn* | trust / trustworthy | "faith", "sincerity", "belief" | 8 | **locked** | [`xin-信.md`](xin-信.md) |
 | **守** | *shǒu* | hold to · *guard* (ch 9, 67) | "embrace", "attune", "stay with", "cleave to", "preserve", "abide in" | 8 | **locked** | [`shou-守.md`](shou-守.md) |
 | **玄 & 妙** | *xuán / miào* | dark or profound / subtle | "mystery", "mysterious", "the occult" | 8 | **locked** | [`xuan-miao-玄妙.md`](xuan-miao-玄妙.md) |
-| **王** | *wáng* | ruler / sovereign · to rule (verb) · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
+| **王** | *wáng* | sovereign · *supreme authority* (ch 16) | " king", "kings", "monarch", "emperor", "sovereignty" | 8 | **locked** | [`wang-王.md`](wang-王.md) |
 | **和** | *hé* | harmony (noun) · harmonize (verb) · *settle* (ch 79) | "dim", "peace", "balance", "concord", "reconcile", "reconciliation", "blend" | 7 | **locked** | [`he-和.md`](he-和.md) |
 | **執** | *zhí* | grasp · *seize* (ch 74) | "cling", "clinging", "attachment", "embody", "control", "possess" | 7 | **locked** | [`zhi-執.md`](zhi-執.md) |
 | **天地** | *tiān dì* | sky and earth | "heaven and earth", "the cosmos", "the universe" | 7 | **locked** | [`tiandi-天地.md`](tiandi-天地.md) |
@@ -80,6 +80,7 @@ python3 tools/build_index.py
 | **公** | *gōng* | impartiality / impartial (the quality) · lord / minister (the office) | "duke", "equanimity", "justice" | 3 | **locked** | [`gong-公.md`](gong-公.md) |
 | **凶 & 吉** | *xiōng / jí* | ominous / auspicious · *lean* (ch 30) · *inauspicious* (ch 31) | "disaster", "evil", "unlucky", "lucky" | 3 | **locked** · binds taoteching only | [`xiong-ji-凶吉.md`](xiong-ji-凶吉.md) |
 | **勤** | *qín* | strain · *labor* (ch 41) | "exhausted", "inexhaustible", "diligence", "diligent", "diligently", "toil" | 3 | **locked** | [`qin-勤.md`](qin-勤.md) |
+| **君** | *jūn* | ruler · *the noble* (ch 26, 31) | "sovereign", "monarch", " king", "mastery", "gentleman", "superior man", "prince" | 3 | **locked** | [`jun-君.md`](jun-君.md) |
 | **士** | *shì* | in service | "student", "scholar", "warrior", "knight", "gentleman", "officer", "servant" | 3 | **locked** | [`shi-士.md`](shi-士.md) |
 | **愚** | *yú* | a fool / foolishness / foolish | "guileless", "ignorant", "ignorance", "stupid", "make fools of" | 3 | **locked** | [`yu-愚.md`](yu-愚.md) |
 | **慈** | *cí* | tenderness | "compassion", "mercy", "maternal love", "filial piety" | 3 | **locked** | [`ci-慈.md`](ci-慈.md) |
@@ -112,7 +113,7 @@ python3 tools/build_index.py
 | Character | Render as | Treated in |
 |---|---|---|
 | **久** | endure | [`chang-長.md`](chang-長.md) — 長 |
-| **侯** | ruler (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
+| **侯** | nobles (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **克** | shoulder | [`sheng-勝.md`](sheng-勝.md) — 勝 |
 | **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |

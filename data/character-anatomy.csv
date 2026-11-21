@@ -69,7 +69,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 器,qì,vessel / tool / implement,vessel / tool / implement,器,exact,㗊,pictograph,,,,12,Tier 1,0.0919,皿也。象器之口，犬所以守之。,
 亦,yì,also / too,,亦,exact,亦,compound,,"大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,13,,0.0899,人之臂亦也。从大，象兩亦之形。凡亦之屬皆从亦。,
 明,Míng,"clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier","clear-seeing / clarity — *see clearly* in predicate position, *clear* as a modifier",朙,old-form,朙,compound,,月 (yuè = the moon) + 囧 (jiǒng = a lattice window letting light through),,12,Tier 1,0.0882,照也。从月从囧。凡朙之屬皆从朙。,
-王,wáng,ruler / sovereign · to rule (verb),ruler / sovereign · to rule (verb),王,exact,王,unanalysed,雨方切,,,13,Tier 3,0.088,天下所歸往也。董仲舒曰：「古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者，王也。」孔子曰：「一貫三爲王。」凡王之屬皆从王。,
+王,wáng,sovereign,sovereign,王,exact,王,unanalysed,雨方切,,,13,Tier 3,0.088,天下所歸往也。董仲舒曰：「古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者，王也。」孔子曰：「一貫三爲王。」凡王之屬皆从王。,
 失,Shī,lose,lose,失,exact,手,phonetic-compound,,手 (shǒu = hand),乙 (? = not yet glossed),17,locked,0.0879,縱也。从手乙聲。,
 相,xiāng,each other / together (32),,相,exact,目,compound,,目 (mù = eye) + 木 (mù = tree),,14,,0.0876,省視也。从目从木。《易》曰：“地可觀者，莫可觀於木。”《詩》曰：“相鼠有皮。”,
 兵,bīng,weapons / armies / military force (30),,兵,exact,𠬞,compound,,廾 (gǒng = two hands raised together) + 持 (Chí = hold) + 斤 (jīn = an axe),,12,,0.0826,械也。从廾持斤，并力之皃。,
@@ -147,7 +147,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 未,wèi,not yet,,未,exact,未,pictograph,,,,7,,0.0465,味也。六月，滋味也。五行，木老於未。象木重枝葉也。凡未之屬皆从未。,
 觀,guān,observe / sight (26),,觀,exact,見,phonetic-compound,,"見 (jiàn = see / show, display / appear (77))",雚 (? = not yet glossed),9,,0.0457,諦視也。从見雚聲。,
 厚,hòu,thick / abundant / heavy (44),,厚,exact,㫗,compound,,"𣆪 (? = not yet glossed) + 厂 (hǎn = a cliff, an overhang)",,5,,0.0456,山陵之厚也。从𣆪从厂。,
-君,jūn,ruler / the noble (君子),,君,exact,口,compound,,尹 (? = not yet glossed),,6,,0.0452,尊也。从尹。發號，故从口。,
+君,jūn,ruler,ruler,君,exact,口,compound,,尹 (? = not yet glossed),,6,Tier 3,0.0452,尊也。从尹。發號，故从口。,"Honored. From 尹 (yǐn — the governor); it issues commands, and so from 口 (kǒu — the mouth)."
 既,jì,already / once / used up (35),,旣,old-form,皀,phonetic-compound,,皀 (? = not yet glossed),旡 (? = not yet glossed),6,,0.045,小食也。从皀旡聲。《論語》曰：“不使勝食旣。”,
 殺,shā,kill / killing,,殺,exact,殺,phonetic-compound,,殳 (? = not yet glossed),杀 (? = not yet glossed),9,,0.0448,戮也。从殳杀聲。凡殺之屬皆从殺。,
 極,jí,the far end — where a thing runs out,the far end — where a thing runs out,極,exact,木,phonetic-compound,,木 (mù = tree),亟 (? = not yet glossed),6,,0.0447,棟也。从木亟聲。,
@@ -166,7 +166,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 虛,xū,empty (adjective) · to empty (verb),empty (adjective) · to empty (verb),虛,exact,丘,phonetic-compound,,丘 (? = not yet glossed),虍 (? = not yet glossed),5,,0.0402,大丘也。崐崘丘謂之崐崘虛。古者九夫爲井，四井爲邑，四邑爲丘。丘謂之虛。从丘虍聲。,
 貨,huò,goods,goods,貨,exact,貝,phonetic-compound,,"貝 (bèi = a cowrie shell — money, worth)",化 (huà = transform),5,Tier 3,0.0402,財也。从貝化聲。,
 且,qiě,and / and also,,且,exact,且,compound,,"几 (jī = a low table, a stool)",,5,,0.0395,薦也。从几，足有二橫，一其下地也。凡且之屬皆从且。,
-侯,Hóu,ruler (inside 侯王),ruler (inside 侯王),矦,old-form,矢,compound,,"人 (rén = people / others / person (聖人, sage)) + 厂 (hǎn = a cliff, an overhang)",,5,locked,0.0395,春饗所䠶矦也。从人；从厂，象張布；矢在其下。天子䠶熊虎豹，服猛也；諸矦䠶熊豕虎；大夫射麋，麋，惑也；士射鹿豕，爲田除害也。其祝曰：“毋若不寕矦，不朝于王所，故伉而䠶汝也。”,
+侯,Hóu,nobles (inside 侯王),nobles (inside 侯王),矦,old-form,矢,compound,,"人 (rén = people / others / person (聖人, sage)) + 厂 (hǎn = a cliff, an overhang)",,5,locked,0.0395,春饗所䠶矦也。从人；从厂，象張布；矢在其下。天子䠶熊虎豹，服猛也；諸矦䠶熊豕虎；大夫射麋，麋，惑也；士射鹿豕，爲田除害也。其祝曰：“毋若不寕矦，不朝于王所，故伉而䠶汝也。”,
 容,róng,contain / likeness (15) / room for (50),,容,exact,宀,compound,,宀 (mián = a roof; under a house) + 谷 (Gǔ = valley),,5,,0.0393,盛也。从宀、谷。,
 寡,guǎ,"few, little / diminish / alone, meager (孤寡)",,寡,exact,宀,compound,,宀 (mián = a roof; under a house) + 頒 (? = not yet glossed),,5,,0.0391,少也。从宀从頒。頒，分賦也，故爲少。,
 幾,jī,nearly / how much (幾何) / just short of (64),,幾,exact,𢆶,compound,,𢆶 (? = not yet glossed) + 戍 (? = not yet glossed),,4,,0.0391,微也。殆也。从𢆶从戍。戍，兵守也。𢆶而兵守者，危也。,
@@ -232,7 +232,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 水,shuǐ,water,water,水,exact,水,pictograph,,,,3,locked,0.0284,凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。,"Level. The agent of the north. It pictures many streams running side by side, with a faint breath of yang in the middle."
 今,jīn,now / today (21),,今,exact,亼,compound,,亼 (jí = to gather together) + 乁 (? = not yet glossed),,3,,0.0282,是時也。从亼从乁。乁，古文及。,
 光,guāng,light / bright (58),,光,exact,火,compound,,"火 (huǒ = fire) + 在 (zài = in / be in) + 人 (rén = people / others / person (聖人, sage)) + 上 (Shàng = highest / above / those over (75))",,4,,0.0282,明也。从火在人上，光明意也。,
-寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = ruler / sovereign · to rule (verb)) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
+寶,bǎo,treasure,,寶,exact,宀,phonetic-compound,,"宀 (mián = a roof; under a house) + 王 (wáng = sovereign) + 貝 (bèi = a cowrie shell — money, worth)",缶 (fǒu = an earthenware jar),3,,0.0282,珍也。从宀从王从貝，缶聲。,
 氣,qì,breath,breath,氣,exact,米,phonetic-compound,,米 (mǐ = grains of rice),气 (? = not yet glossed),3,Tier 3,0.0282,饋客芻米也。从米气聲。《春秋傳》曰：“齊人來氣諸矦。”,"Fodder and grain presented to guests. From 米 (mǐ — rice), with 气 (qì — cloud vapor) as its sound."
 深,Shēn,deep,,深,exact,水,phonetic-compound,,水 (shuǐ = water),罙 (? = not yet glossed),3,,0.0282,水。出桂陽南平，西入營道。从水罙聲。,
 混,hùn,mixed (adjective) · to mix (verb),mixed (adjective) · to mix (verb),混,exact,水,phonetic-compound,,水 (shuǐ = water),昆 (? = not yet glossed),3,Tier 3,0.0282,豐流也。从水昆聲。,"An abundant flow. From 水 (shuǐ — water), with 昆 (kūn) for sound."

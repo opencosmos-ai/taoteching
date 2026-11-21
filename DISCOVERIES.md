@@ -276,7 +276,7 @@ It was found only because the other three were being chased. **That is the argum
 
 Because the text says the opposite, and says it eight times out of eight. Read every chapter where 王 appears and **not one of them shows a 王 commanding anything**:
 
-- **Ch 66** — 江海所以能為百谷王者，以其善下之: rivers and seas rule the hundred valleys **because they stay below them**.
+- **Ch 66** — 江海所以能為百谷王者，以其善下之: rivers and seas are sovereign of the hundred valleys **because they stay below them**.
 - **Ch 78** — 受國之不祥，是謂天下王: *"the one who takes on the state's misfortune is called sovereign of the world."* The title is earned by absorbing what nobody else will touch.
 - **Ch 39, Ch 42** — the ruler **calls themselves orphaned, meagre, unworthy**.
 - **Ch 32, Ch 37** — 侯王**若能**守之: *if* they can hold to it. Conditional, and the outcome belongs to the countless things, not to them.

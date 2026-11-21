@@ -488,6 +488,14 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **What the pass shows about method.** A character the verse drops cannot be caught by any lock, because every lock keys off a character to judge the English. Reading each character against its line is the only check for that. Here it was done for 462 characters at once, as a side effect of glossing them.
 
+### Ch 26 … 78 · 君 → "ruler", 王 → "sovereign", 侯王 → "nobles and sovereigns"
+
+*2026-11-20, Shalom's calls. `glossary/jun-君.md`, `glossary/wang-王.md`.* *(was:* ruler *for both 君 and 王;* rulers *for 侯王;* rule the hundred valleys *at 66.)*
+
+**Two characters had one English, and the book keeps them apart.** 王 (*wáng*) is the title at the top, and always stands with 天下 (*tiān xià* — the world), the cosmic ladder, or a rank-pair; the Shuowen defines it 天下所歸往也 (*"that to which the world returns and goes"*), and chapters 35, 66 and 78 act that out. 君 (*jūn*) is always the ruler *of* something (26, 70), never of the world. The *Hanshi waizhuan*, juan 5, sets them side by side: 君者…群也 (*"the 君 is the flock"*) and 王者…往也。天下往之謂之王 (*"the 王 is the going-to: what the world goes to is called 王"*). Shalom asked why Laozi used two characters, and which fits *ruler*; *ruler* names a relation, so it went to 君.
+
+**王 → *sovereign*, its own second word**, keeping the summit so that chapter 66's paradox, sovereign because below, has something to turn. *Head of state* (a constitutional office, below 天下) and *leader* (長's forbidden word, and going first) were weighed and declined. **侯王 → *nobles and sovereigns*** (Shalom's word over *lords*, which leans male and is 公's and 主's): two ranks, and the Shuowen's 侯 entry puts the 侯 at the 王's court. Costs: *noble* is also 君子's (26, 31), and *nobles* now stands three times in ch 39, where 貴's *noble* was removed in September. **Ch 66 → *be sovereign of***: 為 (*wéi* — to be) with the noun, a title become, not a verb. Nine lines in chapters 32, 37, 39, 42, 66 and 78.
+
 ## Chapter notes
 
 ### Ch 1
@@ -1446,6 +1454,8 @@ The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The ren
 | 42 | 王公 | **kings** and lords | **rulers and lords** |
 | 66 | 百谷王 ×2 | **king** of the hundred valleys | **rule** the hundred valleys |
 
+*(The* now *column was superseded on 2026-11-20: 侯王 → nobles and sovereigns, 王公 → sovereigns and lords, ch 66 → be sovereign of. See* Ch 26 … 78 · 君 → "ruler", 王 → "sovereign" *under Cross-chapter decisions, above.)*
+
 **The principle: 王 carries no gender and English *king* cannot shed one.** Chinese nouns have no grammatical gender and the graph is an axe-head, not a person. So *king* does not translate a gender; it adds one — and seats it on a throne in eight chapters that define authority by lowness.
 
 **Ch 66 takes the verb.** 王 works verbally in classical Chinese (*wàng* — to reign over), and 能為百谷王 accepts it: *rivers and seas can **rule** the hundred valleys.* The verb keeps the power and seats nobody. Shalom's line.
@@ -1457,6 +1467,8 @@ The full argument is in `glossary/wang-王.md` and `DISCOVERIES.md` §4. The ren
 **Left open, and proposed rather than applied: Ch 25's "the aligned human."** 傅奕 and 范應元 read 人 (*rén* — human) where the received text and every excavated witness read 王, and our verse follows them on internal grounds (人法地). But it renders bare 人 as *the aligned human*, and nothing in the Chinese licenses *aligned*. The qualifier does in miniature what the throne did in full: it decides which humans are among the four great things. `DISCOVERIES.md` §1 rests on the line reading simply **the human**. Recommended deletion; a different character from 王 and Shalom's own word, so it waits on him.
 
 ### Ch 66 · 百谷王 → "rule the hundred valleys"
+
+*(Superseded 2026-11-20, Shalom's call: 王 now reads* sovereign *in every line, and ch 66* be sovereign of the hundred valleys*. See* Ch 26 … 78 · 君 → "ruler", 王 → "sovereign" *under Cross-chapter decisions, above, and `glossary/wang-王.md`. The water argument here stands.)*
 
 Two further reasons beyond the gender, both about this chapter specifically.
 
