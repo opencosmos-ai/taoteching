@@ -74,7 +74,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 相,xiāng,each other / together (32),,相,exact,目,compound,,目 (mù = eye) + 木 (mù = tree),,14,,0.0876,省視也。从目从木。《易》曰：“地可觀者，莫可觀於木。”《詩》曰：“相鼠有皮。”,
 兵,bīng,weapons / armies / military force (30),,兵,exact,𠬞,compound,,廾 (gǒng = two hands raised together) + 持 (Chí = hold) + 斤 (jīn = an axe),,12,,0.0826,械也。从廾持斤，并力之皃。,
 必,bì,must / surely,,必,exact,八,phonetic-compound,,"八 (bā = eight; to divide, to part) + 弋 (yì = a stake; a tethered arrow)",弋 (yì = a stake; a tethered arrow),14,,0.0822,分極也。从八、弋，弋亦聲。,
-利,lì,advantage,advantage,利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony (noun) · harmonize (verb)),,10,locked,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,
+利,lì,"benefit (verb and noun) · beneficial (利器, before a noun)","benefit (verb and noun) · beneficial (利器, before a noun)",利,exact,刀,compound,,刀 (dāo = a knife) + 和 (hé = harmony (noun) · harmonize (verb)),,10,Tier 3,0.0816,銛也。从刀。和然後利，从和省。《易》曰：“利者，義之和也。”,"Sharp. From 刀 (dāo — a knife), and from part of 和 (hé — harmony): harmony, and then benefit."
 後,hòu,"behind, or after in time","behind, or after in time",後,exact,彳,compound,,"彳 (chì = a step taken; going) + 幺 (yāo = tiny; a small twist of silk) + 夊 (suī = walking slowly, dragging the feet)",,11,locked,0.0799,遲也。从彳、幺、夊者，後也。,
 或,huò,some / sometimes / perhaps,,或,exact,戈,compound,,"囗 (wéi = an enclosure, a boundary) + 戈 (gē = a dagger-axe)",,18,,0.0797,邦也。从囗从戈，以守一。一，地也。,
 柔,róu,soft,soft,柔,exact,木,phonetic-compound,,木 (mù = tree),矛 (? = not yet glossed),11,locked,0.0791,木曲直也。从木矛聲。,"Wood that bends and straightens. From 木 (mù — wood), with 矛 (máo — a spear) for sound."
@@ -175,7 +175,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 辱,rǔ,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)","soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",辱,exact,辰,compound,,"寸 (cùn = inch) + 在 (zài = in / be in) + 辰 (? = not yet glossed) + 下 (xià = below / low, lowest (天下, the world))",,6,Tier 3,0.0385,恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也。,Shame. From 寸 (cùn — a hand) beneath 辰 (chén — the farming season). Whoever missed the ploughing season was punished on the field's boundary.
 牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 遠,yuǎn,far,,遠,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",袁 (? = not yet glossed),5,,0.0382,遼也。从辵袁聲。,
-害,hài,harm / hinder (66),,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
+害,hài,harm,harm,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,locked,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
 殆,dài,danger,danger,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,Tier 3,0.038,危也。从歺台聲。,"Danger. From 歺 (è — splintered bone), with 台 (tái) for sound."
 門,mén,gate / door,,門,exact,門,compound,,二 (èr = two / second (67)) + 戶 (hù = doors),,5,,0.038,聞也。从二戶。象形。凡門之屬皆从門。,
 堅,jiān,hard,,堅,exact,臤,compound,,"臤 (? = not yet glossed) + 土 (tǔ = dirt, earth)",,4,,0.0371,剛也。从臤从土。,
@@ -301,7 +301,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 脆,cuì,fragile,,膬,old-form,肉,phonetic-compound,,肉 (ròu = flesh),毳 (? = not yet glossed),2,,0.0228,耎易破也。从肉毳聲。,
 賊,zéi,thieves (盜賊) / rob (65),,賊,exact,戈,phonetic-compound,,戈 (gē = a dagger-axe),則 (zé = then / and so),3,,0.0228,敗也。从戈則聲。,
 廣,Guǎng,broad · breadth (as a noun),broad · breadth (as a noun),廣,exact,广,phonetic-compound,,广 (yǎn = a shelter built against a bank),黃 (? = not yet glossed),3,locked,0.0219,殿之大屋也。从广黃聲。,"The great hall of a palace. From 广 (yǎn — a roof), with 黃 (huáng) for sound."
-割,gē,cut/carve,,割,exact,刀,phonetic-compound,,刀 (dāo = a knife),害 (hài = harm / hinder (66)),2,,0.0217,剥也。从刀害聲。,
+割,gē,cut/carve,,割,exact,刀,phonetic-compound,,刀 (dāo = a knife),害 (hài = harm),2,,0.0217,剥也。从刀害聲。,
 各,Gè,each,,各,exact,口,compound,,"口 (kǒu = mouths) + 夊 (suī = walking slowly, dragging the feet)",,2,,0.0217,異辭也。从口、夊。夊者，有行而止之，不相聽也。,
 方,fāng,square,,方,exact,方,pictograph,,,,2,,0.0217,併船也。象兩舟省、緫頭形。凡方之屬皆从方。,
 銳,ruì,sharpness / sharp,,銳,exact,金,phonetic-compound,,金 (Jīn = Gold),兌 (duì = opening),3,,0.0217,芒也。从金兌聲。,

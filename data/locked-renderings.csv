@@ -150,7 +150,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 7,8,能,néng,可,be able,NOT FOUND,1.0,exact-count,And so they can complete their private self.
 8,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,The most masterful are like water.
 8,1,水,shuǐ,水,water,yes,1.0,exact-count,The most masterful are like water.
-8,2,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
+8,2,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,水,Shuǐ,水,water,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
 8,2,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,Water is masterful at benefiting the countless things and does not contend.
@@ -233,9 +233,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 11,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"In what is not there,"
 11,9,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,the room has its use.
 11,9,用,yòng,無 & 有,use,yes,1.0,exact-count,the room has its use.
-11,10,利,lì,無 & 有,advantage,yes,1.0,exact-count,"So presence gives the advantage,"
-11,10,有,yǒu,無 & 有,presence,yes,1.0,exact-count,"So presence gives the advantage,"
-11,10,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"So presence gives the advantage,"
+11,10,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,"So presence gives the benefit,"
+11,10,有,yǒu,無 & 有,presence,yes,1.0,exact-count,"So presence gives the benefit,"
+11,10,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"So presence gives the benefit,"
 11,11,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and absence gives the use.
 11,11,無,wú,無 & 有,absence,yes,1.0,exact-count,and absence gives the use.
 11,11,用,yòng,無 & 有,use,yes,1.0,exact-count,and absence gives the use.
@@ -397,7 +397,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 18,4,國,Guó,國,state,yes,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,忠,zhōng,信,loyalty,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
 18,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"When states grow clouded and fall into disorder, loyal ministers appear."
-19,1,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
+19,1,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,智,zhì,智,cleverness / clever,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,民,mín,民,the people,yes,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
 19,1,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",NOT FOUND,1.0,exact-count,"Cut off sagehood, abandon cleverness, and the people benefit a hundredfold."
@@ -407,9 +407,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 19,2,慈,cí,慈,tenderness,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,民,mín,民,the people,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
 19,2,義,yì,仁,duty,yes,1.0,exact-count,"Cut off humaneness, abandon duty, and the people return to devotion and tenderness."
-19,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
-19,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
-19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon profit, and there are no thieves."
+19,3,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,"Cut off skill, abandon benefit, and there are no thieves."
+19,3,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon benefit, and there are no thieves."
+19,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Cut off skill, abandon benefit, and there are no thieves."
 19,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,"These three, taken as cultural form, are not enough."
 19,4,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,"These three, taken as cultural form, are not enough."
 19,5,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,So give them something to belong to:
@@ -796,6 +796,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 35,1,執,Zhí,執,grasp,yes,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
 35,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Grasp the great image, and the world comes to you."
+35,2,害,hài,利,harm,yes,1.0,exact-count,"It comes unharmed, at rest, and utterly even."
 35,4,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,4,道,Dào,道,the Tao / way,yes,1.0,exact-count,The Tao is bland in the mouth. It has no flavor.
 35,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,Look at it. There is not enough to see.
@@ -815,7 +816,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot leave deep water.
-36,8,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
+36,8,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,國,Guó,國,state,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
@@ -1237,7 +1238,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 53,2,大,Dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"The great Tao is very level, yet people love to take shortcuts."
 53,2,道,dào,道,the Tao / way,NOT FOUND,1.0,exact-count,"The great Tao is very level, yet people love to take shortcuts."
 53,3,虛,xū,虛,empty (adjective) · to empty (verb),NOT FOUND,1.0,exact-count,"The courts are immaculate, the fields are choked with weeds, the granaries are empty;"
-53,4,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
+53,4,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",yes,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
 53,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
 53,4,貨,huò,貨,goods,yes,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
 53,4,餘,yú,餘,more than enough (有餘) · leftover (before a noun),NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
@@ -1288,9 +1289,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,6,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
 56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
 56,6,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be drawn near, and cannot be held off."
-56,7,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
 56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
 56,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
+56,7,害,hài,利,harm,yes,1.0,authored,"They cannot be benefited, and cannot be harmed."
 56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
 56,7,得,dé,得 & 失,get,NOT FOUND,1.0,authored,"They cannot be benefited, and cannot be harmed."
 56,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"They cannot be prized, and cannot be cheapened."
@@ -1313,7 +1315,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 57,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,How do I know it is so? By this:
 57,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."
-57,6,利,lì,無 & 有,advantage,NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
+57,6,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,6,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,6,國,guó,國,state,yes,1.0,exact-count,"The more beneficial tools the people have, the more clouded the state becomes."
 57,7,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"The more skills people have, the more strange contrivances appear."
@@ -1570,6 +1572,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 66,5,民,mín,民,the people,yes,1.0,authored,"Therefore the sage stands above, and the people are not weighed down,"
 66,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage stands above, and the people are not weighed down,"
 66,6,前,qián,先 & 後,front,yes,1.0,authored,"stands in front, and the people are not harmed."
+66,6,害,hài,利,harm,yes,1.0,authored,"stands in front, and the people are not harmed."
 66,6,民,mín,民,the people,yes,1.0,authored,"stands in front, and the people are not harmed."
 66,7,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Therefore the world gladly pushes them forward and never tires of them.
 66,8,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Because they do not contend, no one in the world can contend with them."
@@ -1686,7 +1689,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 72,5,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,loves themselves and does not prize themselves.
 73,1,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,Bravery in pushing gets you killed.
 73,2,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,authored,Bravery in not pushing keeps you alive.
-73,3,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,"Of these two, one benefits and one harms."
+73,3,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,authored,"Of these two, one benefits and one harms."
+73,3,害,hài,利,harm,yes,1.0,authored,"Of these two, one benefits and one harms."
 73,4,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"What nature turns against, who knows why?"
 73,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage still finds it difficult.
 73,6,勝,shèng,勝,overcome,NOT FOUND,1.0,authored,"The way of nature: it does not contend, yet is masterful at overcoming."
@@ -1855,8 +1859,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 81,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"The sage does not hoard. Having done for others, they have more. Having given to others, they have more still."
 81,4,為,wéi,為,do / handle / serve as,yes,1.0,authored,"The sage does not hoard. Having done for others, they have more. Having given to others, they have more still."
 81,4,聖,Shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"The sage does not hoard. Having done for others, they have more. Having given to others, they have more still."
-81,5,利,lì,無 & 有,advantage,NOT FOUND,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
+81,5,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
+81,5,害,hài,利,harm,yes,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,為,wéi,為,do / handle / serve as,yes,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,爭,zhēng,爭,contend / contention,yes,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.
 81,5,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,The way of nature benefits and does not harm. The way of the sage acts and does not contend.

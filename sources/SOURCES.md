@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 100 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 101 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -221,6 +221,9 @@ Stored in this repository.
 - [Glossary · jing](<../glossary/jing-%E9%9D%9C.md>) · Chapter 61, the rooster restless and the hen still
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, the heavy as root and the still as ruler; losing the ruler is losing the ruler's seat
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, the ruler is the master of the countless things
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 11, presence is what gives benefit, and all rely on absence for use
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 19, skill and benefit are the best of use
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 56, whatever can be benefited can be harmed
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 1, on the nameless as beginning and the named as mother
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 52, on the mother as root and the children as branch tips
 - [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 13, favor must carry disgrace and glory trouble; startled by disgrace as by glory
@@ -315,6 +318,11 @@ Stored in this repository.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, a ruler who is not still loses authority; the master of ten thousand chariots is a king; the restless king loses their ruler's seat
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 31, the way of arms and the way of the noble are opposed
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, affairs have ruler and minister
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 11, benefit means things; benefit lies in the use of the form
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 19, the people benefit: the farming is in order; abandoning benefit blocks the road of greed and closes the gate of power
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 56, not wanting wealth and rank; not contending with the greedy for benefit
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 73, keeping the body alive is benefit, killing it is harm
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Chapter 81, nature births the countless things, loves and rears them, and harms none
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 1, on the beginning as the root of the Tao
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 2, the lemma reading that the sage does not refuse the countless things
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 52, on the world's beginning as having the Tao
@@ -418,6 +426,8 @@ Stored in this repository.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · King radical, entry for wang (that to which the world returns and goes)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Minister radical, entry for chen (one who serves the ruler, a figure bowed in submission)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Mouth radical, entry for jun (honored; from the governor, and from the mouth because it issues commands)
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Knife radical, entry for li (sharp; from the knife, and from harmony abbreviated)
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · Roof radical, entry for hai (to injure; from roof and mouth, words that arise from the household; feng for sound)
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Woman radical, entry for shi (the beginning of a woman)
 - [Glossary · qi](<../glossary/qi-%E6%B0%A3.md>) · Entries for qi (cloud vapor) and qi (provisions)
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Entry for yi under the I radical (one's own dignified bearing; from I and sheep)
@@ -524,6 +534,7 @@ Recorded as evidence.
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · [Entry for ru (shame), the early graph of the hand and the farming tool](<https://www.dong-chinese.com/wiki/%E8%BE%B1>)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for jun: oracle and bronze forms; yin as sound and meaning, kou as meaning; the Shuowen's ancient form picturing the ruler seated](<https://www.dong-chinese.com/wiki/%E5%90%9B>)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for yin: a hand holding a staff, held by people in authority; the Shuowen's to govern, the one who grips affairs](<https://www.dong-chinese.com/wiki/%E5%B0%B9>)
+- [Glossary · li](<../glossary/li-%E5%88%A9.md>) · [Entry for li: harvesting grain with a blade; oracle and Mid Western Zhou bronze forms; li sounds in li (plough) and li (pear)](<https://www.dong-chinese.com/wiki/%E5%88%A9>)
 - [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru (damp heat): the Shuowen's damp heat, with ru for sound](<https://www.dong-chinese.com/wiki/%E6%BA%BD>)
 - [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru, the early graph of the hand and the farming tool](<https://www.dong-chinese.com/wiki/%E8%BE%B1>)
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · [Entry for ruo (yielding), graph history](<https://www.dong-chinese.com/wiki/%E5%BC%B1>)

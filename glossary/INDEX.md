@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**100 entries.** Sorted by how much of the book each term touches.
+**101 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -43,6 +43,7 @@ python3 tools/build_index.py
 | **名** | *míng* | name | "reputation", "fame", "renown", "description", "designation" | 10 | **locked** | [`ming-名.md`](ming-名.md) |
 | **國** | *guó* | state | "nation", "kingdom", "country", "realm" | 10 | **locked** | [`guo-國.md`](guo-國.md) |
 | **無為** | *wú wéi* | non-doing · *does not handle it* (ch 64) | "non-action", "takes no action", "effortless", "without effort", "inaction", "doing nothing" | 10 | **locked** | [`wuwei-無為.md`](wuwei-無為.md) |
+| **利** | *lì* | benefit (verb and noun) · beneficial (利器, before a noun) · *sharp* (ch 53) | "profit", "advantage" | 9 | **locked** | [`li-利.md`](li-利.md) |
 | **器** | *qì* | vessel / tool / implement | "system", "mechanism", "machine", "utensil" | 9 | **locked** | [`qi-器.md`](qi-器.md) |
 | **死** | *sǐ* | death (a noun) / die (a verb) / deadly (modifying a noun) | "deathless", "immortal" | 9 | **locked** | [`si-死.md`](si-死.md) |
 | **治** | *zhì* | govern · *order* (ch 8, 64) | "control", "manage", "administer" | 9 | **locked** | [`zhi-治.md`](zhi-治.md) |
@@ -121,7 +122,6 @@ python3 tools/build_index.py
 | **久** | endure | [`chang-長.md`](chang-長.md) — 長 |
 | **侯** | nobles (inside 侯王) | [`wang-王.md`](wang-王.md) — 王 |
 | **克** | shoulder | [`sheng-勝.md`](sheng-勝.md) — 勝 |
-| **利** | advantage | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **前** | front | [`xian-hou-先後.md`](xian-hou-先後.md) — 先 & 後 |
 | **剛** | unbending | [`rou-柔.md`](rou-柔.md) — 柔 |
 | **力** | force | [`qiang-強.md`](qiang-強.md) — 強 |
@@ -130,6 +130,7 @@ python3 tools/build_index.py
 | **天下** | the world | [`tiandi-天地.md`](tiandi-天地.md) — 天地 |
 | **始** | beginning | [`mu-母.md`](mu-母.md) — 母 |
 | **孝** | devotion | [`ci-慈.md`](ci-慈.md) — 慈 |
+| **害** | harm | [`li-利.md`](li-利.md) — 利 |
 | **尊** | honor | [`gui-jian-貴賤.md`](gui-jian-貴賤.md) — 貴 & 賤 |
 | **小** | small | [`da-大.md`](da-大.md) — 大 |
 | **屈** | bent | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |

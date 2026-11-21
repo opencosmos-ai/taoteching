@@ -287,3 +287,13 @@
     The Shuowen builds 威 from 女 and 戌 (xū — an axe). 威 and 畏 are kin in
     sound, Old Chinese *ʔuj and *ʔuj-s, not in the graph.
   see: "glossary/wei-畏.md"
+
+- id: li-yong-carry-one-line
+  retracted: 2026-11-20
+  claim: >
+    利 (lì — benefit) and 用 (yòng — use) have no independent life in the
+    book and exist only to carry chapter 11's couplet.
+  match: ["have no independent life in the book"]
+  correction: >
+    利 stands in ten lines across nine chapters, and has its own entry.
+  see: "glossary/li-利.md"

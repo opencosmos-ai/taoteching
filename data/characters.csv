@@ -94,7 +94,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 歸,guī,return,locked,,return,locked,home; revert; reversion; the Return; eternal return; source,11,8,"14,16,20,22,28,34,52,60",14,60,2.08,glossary/gui-fu-fan-歸復反.md
 久,jiǔ,endure,covers,,endure,locked,,10,8,"7,16,23,33,44,58,59,67",7,67,1.89,glossary/chang-長.md
 乎,hū,(closes a question) / (an exclamation),grammar,,,,,10,5,"5,10,23,35,39",5,39,1.89,
-利,lì,advantage,covers,,advantage,locked,,10,9,"8,11,19,36,53,56,57,73,81",8,81,1.89,glossary/wu-you-無有.md
+利,lì,"benefit (verb and noun) · beneficial (利器, before a noun)",locked,,"benefit (verb and noun) · beneficial (利器, before a noun)",locked,profit; advantage,10,9,"8,11,19,36,53,56,57,73,81",8,81,1.89,glossary/li-利.md
 去,qù,let go of / leave / apart (20),word,,,,,10,7,"2,12,20,21,29,38,72",2,72,1.89,
 如,rú,like / as / (不如) better to,grammar,,,,,10,7,"5,9,10,20,39,62,64",5,64,1.89,
 孰,Shú,who / which,grammar,,,,,10,7,"15,23,44,58,73,74,77",15,77,1.89,
@@ -175,7 +175,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 厭,yàn,oppress / tire of / gorged (53),word,,,,,5,3,"53,66,72",53,72,0.94,
 士,shì,in service,locked,,in service,locked,student; scholar; warrior; knight; gentleman; officer; servant,5,3,"15,41,68",15,68,0.94,glossary/shi-士.md
 安,ān,at rest / settled / how? (79),grammar,,,,,5,5,"15,35,64,79,80",15,80,0.94,
-害,hài,harm / hinder (66),word,,,,,5,5,"35,56,66,73,81",35,81,0.94,
+害,hài,harm,covers,,harm,locked,,5,5,"35,56,66,73,81",35,81,0.94,glossary/li-利.md
 家,jiā,family / state (國家),word,,,,,5,3,"18,54,57",18,57,0.94,
 容,róng,contain / likeness (15) / room for (50),word,,,,,5,4,"15,16,21,50",15,50,0.94,
 寡,guǎ,"few, little / diminish / alone, meager (孤寡)",word,,,,,5,5,"19,39,42,63,80",19,80,0.94,

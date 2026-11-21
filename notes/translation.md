@@ -506,6 +506,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **Then 餘 (*yú*), line by line, the same day.** Ch 53's 財貨有餘 → *"more than enough wealth and goods"* (was *excess*, a verdict the scene should pass; Heshang Gong glosses it 無足時, *"never a time of enough"*), so 有餘 reads one way in all six lines. Ch 54 keeps *abundant* and ch 79 *remains*, as flexions (Shalom's calls). `glossary/yu-餘.md`.
 
+### Ch 11, 19 · 利 → "benefit", in every line but the sword
+
+*2026-11-20, Shalom's calls. `glossary/li-利.md`.* *(was: "advantage" at 11; "abandon profit" at 19, his call of the day before.)*
+
+**利 (*lì*) is a harvest in the graph, and the book's 利 is given**: by water (8), by nature (81), set against 害 (*hài* — harm) as one scale (56, 73, 81). Ch 11's couplet now reads *"So presence gives the benefit, and absence gives the use"* (Wang Bi: 有之所以為利). **Ch 19 prints 利 twice**, and the English now does too: abandon benefit, and the people benefit a hundredfold. Wang Bi calls skill and benefit 用之善 (*"the best of use"*), a good given up; *profit* had taken Heshang Gong's greed into the word. 利器 keeps *beneficial tools* (36, 57) and 利劍 *sharp swords* (53). Found: 益 (*yì* — increase) wears *benefit* at ch 43 (T2-94); and 無有's entry claimed 利 had *"no independent life in the book"*, corrected and registered.
+
 ## Chapter notes
 
 ### Ch 1

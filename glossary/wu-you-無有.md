@@ -7,7 +7,6 @@ chapters: [1, 2, 3, 7, 8, 10, 11, 13, 14, 19, 20, 24, 27, 28, 32, 34, 35, 37, 38
 status: locked
 pairing: true
 covers:
-  - { char: "利", render: "advantage" }
   - { char: "用", render: "use" }
 refs_status: incomplete
 ---
@@ -40,12 +39,17 @@ Then the same move twice more: clay is worked into a pot, and it is the hollow t
 
 And the closing couplet states the principle:
 
-> 故**有**之以為**利**，**無**之以為**用**。
-> *So what is there provides the advantage; what is not there provides the use.*
+> *So presence gives the benefit,*
+> *and absence gives the use.*
+>
+> 故有之以為利，
+> 無之以為用。
+>
+> — chapter 11
 
-**利** (*lì*) is benefit, gain, advantage — what the material gives you. **用** (*yòng*) is use, function, what a thing is actually for. The clay is the 利; the hollow is the 用. You buy the pot for its walls and use it for its emptiness.
+**利** (*lì*) is benefit — what the material gives you (`glossary/li-利.md`). **用** (*yòng*) is use, function, what a thing is actually for. The clay is the 利; the hollow is the 用. You buy the pot for its walls and use it for its emptiness.
 
-*(利 and 用 have no independent life in the book; they exist to carry this one line, and are treated here rather than separately.)*
+*(Corrected 2026-11-20: this said 利 and 用 had no independent life in the book. 利 stands in ten lines across nine chapters and has its own entry, `glossary/li-利.md`; 用 stays covered here.)*
 
 ### The two accounts of how they relate — and they do not agree
 
@@ -91,10 +95,10 @@ But the Chinese carries no marks, and an old and serious alternative reads 無 a
 The pair flexes, and it must, because Laozi uses it at three different altitudes. Keep all three inside one plain vocabulary of *there / not there*:
 
 - **as the philosophical pair** (2, 40) → **presence / absence** ("presence and absence give birth to each other"; "presence is born from absence")
-- **as physical space** (11) → **empty / filled space**, **emptiness**, **the hollow** (有之以為利，無之以為用 → "filled space creates potential; empty space makes things useful")
+- **as physical space** (11) → **empty / filled space**, **emptiness**, **the hollow** (有之以為利，無之以為用 → "presence gives the benefit, and absence gives the use")
 - **as a modifier** (1, 32, 37, 41) → **nameless / named** (無名, 有名)
 - **有 as a plain verb** → *there is, has* (無有 in 43 → "that which has no substance")
-- **利 / 用** in 11 → **advantage / use**
+- **利 / 用** in 11 → **benefit / use**
 
 
 ### Left open
