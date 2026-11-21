@@ -161,7 +161,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 極,jí,the far end — where a thing runs out,open,,the far end — where a thing runs out,open,limitless; absolute; ultimate; infinite; extreme; utmost,6,5,"16,28,58,59,68",16,68,1.13,glossary/ji-極.md
 猶,yóu,"like / still, even so / hesitant (15)",grammar,,,,,6,6,"5,15,32,63,73,77",5,77,1.13,
 益,yì,increase / benefit (43),word,,,,,6,4,"42,43,48,55",42,55,1.13,
-辱,rǔ,"soiled (beside white, 28, 41) / disgrace (social, 13, 44)",word,,,,,6,4,"13,28,41,44",13,44,1.13,
+辱,rǔ,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",locked,,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",locked,humiliation; humiliate; dishonor; ignominy,6,4,"13,28,41,44",13,44,1.13,glossary/ru-辱.md
 重,Zhòng,heavy / weigh down / baggage (輜重),word,,,,,6,4,"26,59,66,80",26,80,1.13,
 雖,Suī,although / even if,grammar,,,,,6,5,"26,27,32,62,80",26,80,1.13,
 且,qiě,and / and also,grammar,,,,,5,3,"7,41,67",7,67,0.94,
@@ -515,7 +515,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 土,tǔ,"dirt, earth",word,,,,,1,1,64,64,64,0.19,
 均,jūn,equalize/harmonize,apparatus,1/1,,,,1,1,32,32,32,0.19,
 坐,zuò,sit,word,,,,,1,1,62,62,62,0.19,
-垢,gòu,"grime (ch 78 follows the silks' 詬, shame)",word,,,,,1,1,78,78,78,0.19,
+垢,gòu,"shame (ch 78, the silks' 詬)",covers,,"shame (ch 78, the silks' 詬)",locked,,1,1,78,78,78,0.19,glossary/ru-辱.md
 埏,Shān,Kneading,apparatus,1/1,,,,1,1,11,11,11,0.19,
 域,Yù,bounds / realm,word,,,,,1,1,25,25,25,0.19,
 埴,zhí,clay,apparatus,1/1,,,,1,1,11,11,11,0.19,

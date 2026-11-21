@@ -38,7 +38,7 @@ So chapter 3 may not describe a ruler reducing the people. It may describe the s
 
 ## 8 · Soiled, or disgraced: what the valley holds to
 
-*Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. The rendering is settled; the question it raised is still worth an essay, and 辱 is owed an entry (`WORKLIST.md` T2-72).*
+*Opened at Chapter 28, 2026-10-25, writing `glossary/gu-谷.md`. The rendering is settled; the question it raised is still worth an essay. 辱 has its entry since 2026-11-20, `glossary/ru-辱.md`, and the split below is locked (Shalom's call).*
 
 ### The question
 

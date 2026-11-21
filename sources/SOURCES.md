@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 98 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 99 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -55,6 +55,7 @@ Recorded as evidence.
 - [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Bang for guo wherever the graph survives, before the Han name taboo
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 46, the clause on crime; chapter 65, integrity for fortune
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, the noble (jun zi) for the sage
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 28, white for glory; chapter 78, reviling for grime
 - Apparatus chapters [1](<../chapters/001.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [42](<../chapters/042.md>), [45](<../chapters/045.md>), [46](<../chapters/046.md>), [47](<../chapters/047.md>), [52](<../chapters/052.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [64](<../chapters/064.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#excavated>)
 
@@ -74,6 +75,7 @@ Recorded as evidence.
 - [Glossary · guo](<../glossary/guo-%E5%9C%8B.md>) · Guo, copied under the Han name taboo
 - [Glossary · huo-fu](<../glossary/huo-fu-%E7%A6%8D%E7%A6%8F.md>) · Chapter 65, integrity for fortune
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 26, the noble (jun zi) for the sage
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 28, white for glory; chapter 78, reviling for grime
 - Apparatus chapters [3](<../chapters/003.md>), [4](<../chapters/004.md>), [6](<../chapters/006.md>), [8](<../chapters/008.md>), [10](<../chapters/010.md>), [12](<../chapters/012.md>), [15](<../chapters/015.md>), [18](<../chapters/018.md>), [20](<../chapters/020.md>), [21](<../chapters/021.md>), [25](<../chapters/025.md>), [26](<../chapters/026.md>), [28](<../chapters/028.md>), [32](<../chapters/032.md>), [33](<../chapters/033.md>), [38](<../chapters/038.md>), [39](<../chapters/039.md>), [41](<../chapters/041.md>), [45](<../chapters/045.md>), [49](<../chapters/049.md>), [53](<../chapters/053.md>), [55](<../chapters/055.md>), [61](<../chapters/061.md>), [62](<../chapters/062.md>), [63](<../chapters/063.md>), [65](<../chapters/065.md>), [66](<../chapters/066.md>), [73](<../chapters/073.md>), [78](<../chapters/078.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#excavated>)
 
@@ -220,6 +222,7 @@ Stored in this repository.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · Chapter 70, the ruler is the master of the countless things
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 1, on the nameless as beginning and the named as mother
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 52, on the mother as root and the children as branch tips
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 13, favor must carry disgrace and glory trouble; startled by disgrace as by glory
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 29, on the world as a spirit-vessel
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 39, on each arriving at its quality by the one
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 60, from the ghosts not acting as spirits to the two who do no harm
@@ -312,6 +315,11 @@ Stored in this repository.
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Chapter 52, on the world's beginning as having the Tao
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Chapter 18, humaneness and duty not visible in the time of the great Tao
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Chapter 38, duty as cutting and dividing; ritual applied when duty declines
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 13, favored one is shocked, disgraced one is shocked; his lemma reads disgrace as the lower position
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 28, ru figures the dirty and the murky; knowing you have glory and rank, hold to it with dirt and murk
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 41, the person of great clean whiteness seems sullied; the highest integrity is not ashamed of grime and murk
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 44, one who knows they have enough cuts off profit and wanting, and is not disgraced in their person
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Chapter 78, a ruler who can love the state's grime and murk is like rivers and seas, which do not refuse the small streams
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 29, on people as the world's spirit-things
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 39, on spirit transforming without form, and its seasons
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Chapter 6, on the valley spirit, and the spirits of the five organs
@@ -404,6 +412,8 @@ Stored in this repository.
 - [Glossary · mu](<../glossary/mu-%E6%AF%8D.md>) · Woman radical, entry for shi (the beginning of a woman)
 - [Glossary · qi](<../glossary/qi-%E6%B0%A3.md>) · Entries for qi (cloud vapor) and qi (provisions)
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Entry for yi under the I radical (one's own dignified bearing; from I and sheep)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Earth radical, entry for gou (murk; from earth)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Season radical, entry for ru (shame; the hand beneath the farming season; punished on the field's boundary for missing the ploughing)
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · Entry for ruo (yielding)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Altar radical, entry for shen (the spirits of the sky, which draw out the countless things)
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Altar radical, entry for shi (the sky hangs down signs)
@@ -504,6 +514,8 @@ Recorded as evidence.
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · [Entry for ru (shame), the early graph of the hand and the farming tool](<https://www.dong-chinese.com/wiki/%E8%BE%B1>)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for jun: oracle and bronze forms; yin as sound and meaning, kou as meaning; the Shuowen's ancient form picturing the ruler seated](<https://www.dong-chinese.com/wiki/%E5%90%9B>)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for yin: a hand holding a staff, held by people in authority; the Shuowen's to govern, the one who grips affairs](<https://www.dong-chinese.com/wiki/%E5%B0%B9>)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru (damp heat): the Shuowen's damp heat, with ru for sound](<https://www.dong-chinese.com/wiki/%E6%BA%BD>)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru, the early graph of the hand and the farming tool](<https://www.dong-chinese.com/wiki/%E8%BE%B1>)
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · [Entry for ruo (yielding), graph history](<https://www.dong-chinese.com/wiki/%E5%BC%B1>)
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · [Entry for wei (authority): a weapon and a woman; Old Chinese *ʔuj](<https://www.dong-chinese.com/wiki/%E5%A8%81>)
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · [Entry for wei: a ghost wielding a stick, the ghost also the sound; oracle and early Western Zhou bronze forms; Old Chinese *ʔuj-s](<https://www.dong-chinese.com/wiki/%E7%95%8F>)
@@ -640,6 +652,8 @@ Recorded as evidence.
 
 - [Source online](<https://www.zdic.net/>)
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · [Entry for ru (shame), the account of cultivating the soil](<https://www.zdic.net/hant/%E8%BE%B1>)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru (matted grass): the Shuowen's old grass growing again, with ru for sound](<https://www.zdic.net/hant/%E8%93%90>)
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · [Entry for ru, the oracle-bone graph: a hand beneath chen, the clam-shell hoe; the first sense to till, later written nou](<https://www.zdic.net/hant/%E8%BE%B1>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
 <a name="zhu-qianzhi"></a>
@@ -745,6 +759,7 @@ Recorded as evidence.
 
 Recorded as evidence.
 
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · The valley stanza read with glory, the valley spelled as grain, and King Wen's feigned indulgence
 - Apparatus chapters [62](<../chapters/062.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -807,6 +822,7 @@ Recorded as evidence.
 
 - [Glossary · gu](<../glossary/gu-%E8%B0%B7.md>) · 33, Under Heaven, paragraph 5, Laozi's saying about ravine and valley
 - [Glossary · qi](<../glossary/qi-%E6%B0%A3.md>) · 4, In the World of People, the fasting of the heart
+- [Glossary · ru](<../glossary/ru-%E8%BE%B1.md>) · Under Heaven: the valley stanza read with white; take on the world's reviling
 - [Glossary · wo-wu](<../glossary/wo-wu-%E6%88%91%E5%90%BE.md>) · 2, Discussion on Making All Things Equal, opening exchange about losing the self
 - [Glossary · yu](<../glossary/yu-%E6%84%9A.md>) · 12, Heaven and Earth, profound integrity in accord with the great current
 - [Glossary · yu](<../glossary/yu-%E6%84%9A.md>) · 2, Discussion on Making All Things Equal, the fool who believes they are awake and the foolish sage

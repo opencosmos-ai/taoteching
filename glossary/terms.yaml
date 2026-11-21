@@ -663,6 +663,15 @@
   entry: glossary/huo-fu-禍福.md
   # covers 罪 -> crime
 
+- term: "辱"
+  pinyin: "rǔ"
+  render: "soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)"
+  forbidden: ["humiliation", "humiliate", "dishonor", "ignominy"]
+  chapters: [13, 28, 41, 44]
+  status: locked
+  entry: glossary/ru-辱.md
+  # covers 垢 -> shame (ch 78, the silks' 詬)
+
 - term: "公"
   pinyin: "gōng"
   render: "impartiality / impartial (the quality) · noble / minister (the office)"

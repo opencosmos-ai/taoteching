@@ -31,7 +31,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-11-20 — Ten entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
+## 2026-11-20 — Eleven entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
 
@@ -42,6 +42,7 @@ A day of Shalom's calls, one at a time with each stanza in place, through PRs #9
 - **The queue's last term, and a relock it led to** (a third PR). [`glossary/jun-君.md`](glossary/jun-君.md): 君 (*jūn*) *ruler*, with 君子 (*jūn zǐ*) *the noble* at 26 and 31. Shalom asked why the book has two words for the one who rules: 王 (*wáng*) is the title the world goes to (說文 (*Shuōwén*) 天下所歸往也; the *Hanshi waizhuan*, a new source), 君 the ruler *of* something. So [`glossary/wang-王.md`](glossary/wang-王.md) now locks *sovereign*, and 侯王 (*hóu wáng*) reads *nobles and sovereigns*: nine lines in chapters 32, 37, 39, 42, 66 (*"can be sovereign of the hundred valleys"*) and 78. Then 主 (*zhǔ*), line by line: [`glossary/zhu-主.md`](glossary/zhu-主.md) locks *master* (26, 34), *ruler* at 30, *host* at 69, *keeper* at 78; *lord* is male only and left the book, so ch 26 reads *"the master of ten thousand chariots"* and 公 (*gōng*) at 42 *"sovereigns and nobles."* R2 (義 (*yì* — duty)) closed, found done on 2026-11-19. Opened: T5-29 (the I Ching still prints the old words).
 - **Two entries with no verse change.** [`glossary/dai-殆.md`](glossary/dai-殆.md): 殆 (*dài*) *danger*, five lines, *depletion* forbidden. [`glossary/wei-畏.md`](glossary/wei-畏.md): 畏 (*wèi*) *fear*, *wary* at 15, *awe* and *reverence* forbidden. A ch 74 note's claim that 威 (*wēi* — authority) is 畏 with 女 beneath it is corrected (the kinship is in the sound) and registered in `process/retractions.yaml`. T2-64 closed.
 - **足 (*zú*) *enough*.** [`glossary/zu-足.md`](glossary/zu-足.md): 不足 *not enough* in every line. Chs 17 and 23 *"Where there is not enough trust, there is no trust"* (Shalom's line); ch 77 *more than enough / not enough* throughout, where 有餘 had read two ways in one chapter. T2-75 closed; T2-93 (餘) opened.
+- **辱 (*rǔ*) *soiled · disgrace*.** [`glossary/ru-辱.md`](glossary/ru-辱.md): the partner decides, *soiled* beside white (28, 41), *disgrace* beside favor or as what befalls (13, 44); 垢 (*gòu*) covered. No verse change. T2-72 closed; DISCOVERIES §8's banner updated.
 - **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
 
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked

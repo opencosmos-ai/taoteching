@@ -247,12 +247,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 12,8,為,wèi,為,do / handle / serve as,NOT FOUND,1.0,authored,"Therefore the sage acts for the belly, not for the eye."
 12,8,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage acts for the belly, not for the eye."
 12,8,腹,fù,心,belly,yes,1.0,authored,"Therefore the sage acts for the belly, not for the eye."
+13,1,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",yes,1.0,authored,Favor and disgrace are both a shock.
 13,2,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,Great trouble is prized like one's own body.
 13,2,貴,Guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,Great trouble is prized like one's own body.
 13,2,身,shēn,身,body,yes,1.0,authored,Great trouble is prized like one's own body.
+13,3,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",yes,1.0,authored,What does it mean that favor and disgrace are both a shock?
 13,4,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,To be favored is to be below.
 13,5,得,Dé,得 & 失,get,yes,1.0,authored,Getting it is a shock.
 13,6,失,Shī,得 & 失,lose,NOT FOUND,1.0,authored,Losing it is a shock.
+13,7,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",yes,1.0,authored,This is what is meant: favor and disgrace are both a shock.
 13,8,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,What does it mean that great trouble is prized like one's own body?
 13,8,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,What does it mean that great trouble is prized like one's own body?
 13,8,身,shēn,身,body,yes,1.0,authored,What does it mean that great trouble is prized like one's own body?
@@ -630,6 +633,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,8,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,and you return to the endless.
 28,8,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,and you return to the endless.
 28,9,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the soiled,"
+28,9,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",NOT FOUND,1.0,exact-count,"Know the white, hold to the soiled,"
 28,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's valley.
 28,10,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's valley.
 28,10,谷,gǔ,谷,valley,yes,1.0,exact-count,serve as the world's valley.
@@ -976,6 +980,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 41,7,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,7,德,dé,德,integrity,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,7,谷,gǔ,谷,valley,yes,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
+41,7,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",NOT FOUND,1.0,authored,The highest integrity seems a valley. The whitest white seems soiled.
 41,8,廣,Guǎng,廣,broad · breadth (as a noun),yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
 41,8,德,dé,德,integrity,yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
 41,8,德,dé,德,integrity,yes,1.0,authored,Broad integrity seems not enough. Sturdy integrity seems slack. Substantial truth seems to waver.
@@ -1045,6 +1050,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 44,3,得,Dé,得 & 失,get,yes,1.0,exact-count,Gain or loss — which sickens more?
 44,4,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"Therefore, extreme attachment inevitably brings great cost"
 44,6,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,"Know when you have enough, and you are never disgraced."
+44,6,辱,rǔ,辱,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",yes,1.0,exact-count,"Know when you have enough, and you are never disgraced."
 44,7,殆,dài,殆,danger,yes,1.0,exact-count,"Know when to stop, and you come to no danger."
 44,8,久,jiǔ,長,endure,NOT FOUND,1.0,exact-count,And so you can last long.
 44,8,可,Kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,And so you can last long.
@@ -1789,6 +1795,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 78,4,主,zhǔ,主,master,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
 78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
 78,4,國,guó,國,state,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
+78,4,垢,gòu,辱,"shame (ch 78, the silks' 詬)",NOT FOUND,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
 78,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
 78,4,王,wáng,王,sovereign,yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
 78,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,Therefore the sage says: whoever takes on the shame of the state is called the keeper of the soil and the grain. Whoever takes on the ill omen of the state is called the sovereign of the world.
