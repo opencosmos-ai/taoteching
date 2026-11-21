@@ -123,7 +123,7 @@ refs:
 
 **"Deficient," "deficiency."** A ledger or a diagnosis. Rejected for chapter 77 in 2026-08 for the same reason (`notes/translation.md` → *Ch 77*), and it would put a verdict on what the Chinese only measures.
 
-**"Too little," "too much."** Crisp, and it broke chapter 77's thread: nature does not trim excess to a standard; it restores *enough*. Also, *too much* was the English for 有餘 (*yǒu yú*), which is 餘 (*yú* — surplus)'s compound and has no entry; it now reads *more than enough* in all five of its lines at 20 and 77.
+**"Too little," "too much."** Crisp, and it broke chapter 77's thread: nature does not trim excess to a standard; it restores *enough*. Also, *too much* was the English for 有餘 (*yǒu yú*), which is 餘 (*yú* — more than enough)'s compound; it now reads *more than enough* in all six of its lines (`glossary/yu-餘.md`).
 
 **"Runs short," "short."** *Short* is 寡 (*guǎ* — few)'s word at chapter 63 (寡信, *"short on trust"*, `glossary/xin-信.md`). *Runs short* gave chapters 17 and 23 a link to 63 that the Chinese does not make.
 
@@ -148,10 +148,8 @@ refs:
 
 **"Deficient" is 缺 (quē — chipped)'s at chapter 45**, 大成若缺 (*dà chéng ruò quē* — *"great completeness seems deficient"*), which holds no 足. The list forbids it only where 足 stands, so it fires there as a notice and nowhere as an error.
 
-**有餘 (yǒu yú) has no entry.** *More than enough* now reads in all five of its lines at 20 and 77, and nothing holds it there. At chapter 53, 財貨有餘 (*cái huò yǒu yú*) reads *excess wealth and goods*, and 餘 alone takes three more Englishes (24 *leftover*, 54 *abundant*, 79 *remains*). `concordance.py 餘` is the check.
+**有餘 (yǒu yú) is held by 餘's entry**, `glossary/yu-餘.md`: *more than enough* in all six of its lines, chapter 53's included (Shalom's call, 2026-11-20).
 
 ### Left open
-
-**餘 (yú — surplus) may want an entry.** It stands in six chapters with five Englishes, and its compound 有餘 is now one English everywhere but chapter 53's *excess*. Whether 53's ornate court, gorged and armed, *has more than enough wealth and goods* is a line for Shalom.
 
 **The foot and the measure.** The book puts the foot at chapter 64 and the measure everywhere else, and never sets them side by side. Whether a reader in Laozi's time heard the foot inside *enough* is not known.

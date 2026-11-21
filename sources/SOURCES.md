@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 99 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 100 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -174,6 +174,7 @@ Stored in this repository.
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Explaining Laozi, on chapter 60
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Explaining Laozi, on chapter 59: able to steer the countless things, in war one easily overcomes the enemy
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Explaining Laozi, on chapter 54: the households with more than enough grow more numerous
 - Apparatus chapters [1](<../chapters/001.md>), [36](<../chapters/036.md>), [38](<../chapters/038.md>), [50](<../chapters/050.md>), [53](<../chapters/053.md>), [54](<../chapters/054.md>), [58](<../chapters/058.md>), [60](<../chapters/060.md>), [64](<../chapters/064.md>), [67](<../chapters/067.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -251,6 +252,10 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 46, on greedy wanting without satiety
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 57, on what the sage wants being only desirelessness
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 64, on a fondness for wanting giving rise to contention
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 20, the crowd all have cherishings and ambitions overflowing the heart
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 24, like the conduct of Xi Zhi, the leftovers of a rich feast
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 54, cultivate it in the family and it has more than enough; what it extends grows greater
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 79, the great grudge has come, and integrity settles it, but the wound does not heal, so grudge remains
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 45, great trueness follows things, so it seems bent
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, governing with the straight raises the crooked and the straight
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 58, governing with the straight returns to waging war with the crooked
@@ -361,6 +366,10 @@ Stored in this repository.
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 19, on wanting little as knowing enough
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 39, on the valley that cannot only want to be full
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 64, on the sage wanting what people do not want
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 20, the crowd use surplus wealth for luxury and surplus cleverness for deceit
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 53, many cravings, never a time of enough
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 54, his text reads its integrity has more than enough; more than enough blessing reaching descendants
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Chapter 77, who can hold a place of more than enough and offer it to those in the world who do not have enough
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 57, a person straight in body; the crooked as deceit
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Chapter 78, words straight and true that the world takes for their opposite
 - [Glossary · zhu](<../glossary/zhu-%E4%B8%BB.md>) · Chapter 26, the master of ten thousand chariots means a king
@@ -436,6 +445,7 @@ Stored in this repository.
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Speech radical, entry for yan (speaking straight out, against debating)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Gaping-mouth radical, entry for yu (greedy wanting)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Valley radical, entry for gu (a spring coming out to reach a river)
+- [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Food radical, entry for yu (plenty; from food, with yu for sound)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for qi (different; one says, unpaired)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zheng (right; a foot, and a line where it stops)
 - [Glossary · zheng-qi](<../glossary/zheng-qi-%E6%AD%A3%E5%A5%87.md>) · Entry for zhi (seeing straight; from ten eyes)

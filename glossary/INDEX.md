@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**99 entries.** Sorted by how much of the book each term touches.
+**100 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -68,6 +68,7 @@ python3 tools/build_index.py
 | **正 & 奇** | *zhèng / qí* | straight, straighten (verb) / crooked · *on the mark* (ch 78) · *strange* (ch 57) · *steps out of line* (ch 74) | "upright", "norm", "surprise", "correct" | 6 | **locked** | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) |
 | **畏** | *wèi* | fear · *wary* (ch 15) | " awe", "reverence", "revere", "dread" | 6 | **locked** | [`wei-畏.md`](wei-畏.md) |
 | **眾** | *zhòng* | the crowd / the many | "the masses", "the multitude", "the people" | 6 | **locked** | [`zhong-眾.md`](zhong-眾.md) |
+| **餘** | *yú* | more than enough (有餘) · leftover (before a noun) · *abundant* (ch 54) · *remains* (ch 79) | "excess", "surplus", "superfluous" | 6 | **locked** | [`yu-餘.md`](yu-餘.md) |
 | **主** | *zhǔ* | master · *ruler* (ch 30) · *host* (ch 69) · *keeper* (ch 78) | "overlord" | 5 | **locked** | [`zhu-主.md`](zhu-主.md) |
 | **仁** | *rén* | humaneness | "benevolence", "charity", "goodwill", "righteous", "justice" | 5 | **locked** | [`ren-仁.md`](ren-仁.md) |
 | **恃** | *shì* | rely on — the heart putting its weight on something | "presume", "presuming", "depend" | 5 | **locked** | [`shi-恃.md`](shi-恃.md) |

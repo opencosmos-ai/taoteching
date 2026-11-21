@@ -498,11 +498,13 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **Then 主 (*zhǔ*) and 公 (*gōng*), the same day, line by line.** *Lord* is male only (Shalom), so it left the book. 主, the flame at a lamp's center, the master of a house, takes ***master*** at 26 (*"the master of ten thousand chariots"*, was *lord*) and 34, ***ruler*** at 30 (人主, shared with 君 by flexion, which keeps it clear of 善's *the masterful one* four lines on), *host* at 69 and *keeper* at 78. 君 keeps *ruler* at 26 and 70, so ch 26 holds 君 and 主 apart, as both commentators' reading of 躁則失君 needs. 公 at 42's 王公 → ***sovereigns and nobles*** (was *lords*), the mirror of 39's 侯王. `glossary/zhu-主.md`, `glossary/gong-公.md`.
 
-### Ch 17, 23, 77 · 不足 → "not enough", 有餘 → "more than enough", in every line
+### Ch 17, 23, 53, 77 · 不足 → "not enough", 有餘 → "more than enough", in every line
 
 *2026-11-20, Shalom's calls. `glossary/zu-足.md`.* *(was: "Where trust runs short" at 17 and 23; "too much / too little" in three of ch 77's lines and "more than enough" in its fourth.)*
 
 **One compound, one English, and the book's *enough* runs unbroken.** 不足 (*bù zú*) now reads *not enough* in all its lines (17, 19, 23, 35, 41, 77), and its partner 有餘 (*yǒu yú*) *more than enough* in all five of its own at 20 and 77. Ch 77 is 知足 (*zhī zú* — knowing you have enough) made cosmic: nature takes from more than enough and mends what is not enough, and Heshang Gong's gloss on the last question keeps the same pair (天下不足者, *"those in the world who do not have enough"*). Chs 17 and 23 take **Shalom's line, *"Where there is not enough trust, there is no trust"***: each clause opens on *there is*, as the Chinese closes each on 焉 (*yān* — there), and *short* stays 寡 (*guǎ* — few)'s at ch 63. Cost: *too much / too little* was crisper, and *runs short* had motion.
+
+**Then 餘 (*yú*), line by line, the same day.** Ch 53's 財貨有餘 → *"more than enough wealth and goods"* (was *excess*, a verdict the scene should pass; Heshang Gong glosses it 無足時, *"never a time of enough"*), so 有餘 reads one way in all six lines. Ch 54 keeps *abundant* and ch 79 *remains*, as flexions (Shalom's calls). `glossary/yu-餘.md`.
 
 ## Chapter notes
 

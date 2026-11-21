@@ -101,7 +101,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 盈,yíng,full / fill,,盈,exact,皿,compound,,"皿 (mǐn = a dish, a vessel) + 夃 (? = not yet glossed)",,9,,0.0688,滿器也。从皿、夃。,
 弱,ruò,yielding — and the verb *yield* where it makes something so,yielding — and the verb *yield* where it makes something so,弱,exact,彡,pictograph,,,,10,locked,0.0682,橈也。上象橈曲，彡象毛氂橈弱也。弱物并，故从二𢎥。,
 先,xiān,"ahead, or before in time","ahead, or before in time",先,exact,先,unanalysed,,,,8,Tier 3,0.0677,前進也。从-{儿}-从之。凡先之屬皆从先。,
-餘,yú,more than enough / leftover / remain,,餘,exact,食,phonetic-compound,,食 (shí = food / feed (20) / eat up (75)),"余 (yú = a shelter; and, borrowed, 'I')",9,,0.0669,饒也。从食余聲。,
+餘,yú,more than enough (有餘) · leftover (before a noun),more than enough (有餘) · leftover (before a noun),餘,exact,食,phonetic-compound,,食 (shí = food / feed (20) / eat up (75)),"余 (yú = a shelter; and, borrowed, 'I')",9,Tier 3,0.0669,饒也。从食余聲。,"Plenty. From 食 (shí — food), with 余 (yú) for sound."
 執,Zhí,grasp,grasp,執,exact,㚔,phonetic-compound,,丮 (? = not yet glossed) + 幸 (? = not yet glossed),幸 (? = not yet glossed),9,locked,0.0656,捕罪人也。从丮从幸，幸亦聲。,
 古,gǔ,ancient / the ancients,,古,exact,古,compound,,十 (shí = ten) + 口 (kǒu = mouths),,8,,0.0643,故也。从十、口。識前言者也。凡古之屬皆从古。,
 樸,pǔ,uncarved wood / the uncarved,uncarved wood / the uncarved,樸,exact,木,phonetic-compound,,木 (mù = tree),菐 (? = not yet glossed),8,Tier 1,0.0634,木素也。从木菐聲。,

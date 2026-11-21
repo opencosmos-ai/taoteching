@@ -31,7 +31,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-11-20 — Eleven entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
+## 2026-11-20 — Twelve entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
 
@@ -43,6 +43,7 @@ A day of Shalom's calls, one at a time with each stanza in place, through PRs #9
 - **Two entries with no verse change.** [`glossary/dai-殆.md`](glossary/dai-殆.md): 殆 (*dài*) *danger*, five lines, *depletion* forbidden. [`glossary/wei-畏.md`](glossary/wei-畏.md): 畏 (*wèi*) *fear*, *wary* at 15, *awe* and *reverence* forbidden. A ch 74 note's claim that 威 (*wēi* — authority) is 畏 with 女 beneath it is corrected (the kinship is in the sound) and registered in `process/retractions.yaml`. T2-64 closed.
 - **足 (*zú*) *enough*.** [`glossary/zu-足.md`](glossary/zu-足.md): 不足 *not enough* in every line. Chs 17 and 23 *"Where there is not enough trust, there is no trust"* (Shalom's line); ch 77 *more than enough / not enough* throughout, where 有餘 had read two ways in one chapter. T2-75 closed; T2-93 (餘) opened.
 - **辱 (*rǔ*) *soiled · disgrace*.** [`glossary/ru-辱.md`](glossary/ru-辱.md): the partner decides, *soiled* beside white (28, 41), *disgrace* beside favor or as what befalls (13, 44); 垢 (*gòu*) covered. No verse change. T2-72 closed; DISCOVERIES §8's banner updated.
+- **餘 (*yú*) *more than enough*.** [`glossary/yu-餘.md`](glossary/yu-餘.md): 有餘 one English in all six lines, ch 53 *"more than enough wealth and goods"* (was *excess*); *leftover* at 24; *abundant* (54) and *remains* (79) kept as flexions. T2-93 closed.
 - **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
 
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked

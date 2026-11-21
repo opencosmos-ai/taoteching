@@ -545,6 +545,17 @@
   status: locked
   entry: glossary/zhong-眾.md
 
+- term: "餘"
+  pinyin: "yú"
+  render: "more than enough (有餘) · leftover (before a noun)"
+  forbidden: ["excess", "surplus", "superfluous"]
+  chapters: [20, 24, 53, 54, 77, 79]
+  status: locked
+  entry: glossary/yu-餘.md
+  flexions:
+    - { english: "abundant", chapters: [54], why: "a rung of the ladder, 其德乃餘, kept short beside its neighbors (authentic, grows, bountiful, universal)" }
+    - { english: "remains", chapters: [79], why: "the grudge left after a settling, 必有餘怨, given the weight of a close" }
+
 - term: "主"
   pinyin: "zhǔ"
   render: "master"
