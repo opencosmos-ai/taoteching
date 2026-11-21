@@ -91,7 +91,7 @@ The structure only survives in English if the word is a **verb that also works a
 
 ### Working register
 
-- **無為** → **non-doing** (as a noun: *the practice of non-doing*; 無為之益 → "the benefit of non-doing")
+- **無為** → **non-doing** (as a noun: *the practice of non-doing*; 無為之益 → "the abundance of non-doing")
 - **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味)
 - **無為而無不為** → **"does not do, yet nothing is left undone"** — render identically at 37 and 48; it is one line, sounded twice
 - **我無為** (57) → **"I do not do"** — plainest possible, to match the four-line refrain

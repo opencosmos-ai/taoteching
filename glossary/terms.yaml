@@ -672,6 +672,16 @@
   flexions:
     - { english: "keep", chapters: [9], why: "the object is not cherished — a thing being destroyed, not one you protect" }
 
+- term: "益"
+  pinyin: "yì"
+  render: "increase (the process, beside 損) · abundance (the overflow itself)"
+  forbidden: ["profit", "advantage"]
+  chapters: [42, 43, 48, 55]
+  status: locked
+  entry: glossary/yi-益.md
+  flexions:
+    - { english: "abundance", chapters: [43], why: "無為之益, a noun with no 損 beside it: the vessel running over, which goes out to others" }
+
 - term: "神 & 靈"
   pinyin: "shén / líng"
   render: "spirit / potent"

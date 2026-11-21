@@ -155,7 +155,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 親,qīn,"dear, draw near / kin (18) / favorites (79)",,親,exact,見,phonetic-compound,,"見 (jiàn = see / show, display / appear (77))",亲 (? = not yet glossed),5,,0.0445,至也。从見亲聲。,
 食,shí,food / feed (20) / eat up (75),,食,exact,食,phonetic-compound,,皀 (? = not yet glossed),亼 (jí = to gather together),5,,0.0445,一米也。从皀亼聲。或說亼皀也。凡食之屬皆从食。,
 神,shén,spirit,spirit,神,exact,示,phonetic-compound,食鄰切,示 (shì = show),申 (? = not yet glossed),8,locked,0.0444,天神，引出萬物者也。从示，申聲。,
-益,yì,increase / benefit (43),,益,exact,皿,compound,,"水 (shuǐ = water) + 皿 (mǐn = a dish, a vessel)",,6,,0.0439,饒也。从水、皿。皿，益之意也。,
+益,yì,"increase (the process, beside 損) · abundance (the overflow itself)","increase (the process, beside 損) · abundance (the overflow itself)",益,exact,皿,compound,,"水 (shuǐ = water) + 皿 (mǐn = a dish, a vessel)",,6,Tier 3,0.0439,饒也。从水、皿。皿，益之意也。,Plenty. From 水 (shuǐ — water) and 皿 (mǐn — a vessel): the vessel is what gives the sense.
 損,sǔn,"decrease / take from, draw off (77)",,損,exact,手,phonetic-compound,,手 (shǒu = hand),員 (? = not yet glossed),8,,0.0424,減也。从手員聲。,
 兩,liǎng,two / both (61),,兩,exact,㒳,compound,,一 (yī = the one (lowercase) · plain numeral where it counts),,5,,0.0423,二十四銖爲一兩。从一；㒳，平分，亦聲。,
 中,zhōng,within / center (5) / middling (41),,中,exact,丨,compound,陟弓切,口 (kǒu = mouths),,7,,0.042,内也。从口。丨，上下通。,

@@ -31,7 +31,7 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
-## 2026-11-20 — Fifteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
+## 2026-11-20 — Sixteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
 
@@ -46,6 +46,7 @@ A day of Shalom's calls, one at a time with each stanza in place, through PRs #9
 - **餘 (*yú*) *more than enough*.** [`glossary/yu-餘.md`](glossary/yu-餘.md): 有餘 one English in all six lines, ch 53 *"more than enough wealth and goods"* (was *excess*); *leftover* at 24; *abundant* (54) and *remains* (79) kept as flexions. T2-93 closed.
 - **利 (*lì*) *benefit*.** [`glossary/li-利.md`](glossary/li-利.md): ch 11 *"So presence gives the benefit"* (was *advantage*); ch 19 *"abandon benefit"* (was *profit*), so the chapter's two 利 read alike; *sharp* at 53; 害 (*hài*) covered. 無有's claim that 利 had no independent life corrected and registered. T2-33 closed; T2-94 (益) opened.
 - **令 (*lìng*) *command*, and 命 (*mìng*) locked.** [`glossary/ling-令.md`](glossary/ling-令.md): one graph with 命 in the oracle bones, and both read *commands* in the frame 莫之X而 (32, 51). Ch 57 *"laws and commands"* (was *laws*); Heshang Gong's 法物 recorded as fork 129. [`glossary/ming-命.md`](glossary/ming-命.md) locked as *what is given*, *command* a flexion at 51. T2-29 closed. Baseline: variant 128 → 129.
+- **益 (*yì*) *increase · abundance*.** [`glossary/yi-益.md`](glossary/yi-益.md): water above a vessel's rim, the Shuowen's *plenty*. Ch 43 *"the abundance of non-doing"* (was *benefit*), Shalom's call; *increase* beside 損 at 42, 48, 55. T2-94 closed.
 - **Harness.** `concordance.py` reports a covered character as *covered in the X entry*, not *no glossary entry yet*, through `lib.corpus.load_covers()`; [`ARCHITECTURE.md`](ARCHITECTURE.md) → *Covers* and invariant 12 say why, and a test holds it. Baseline: variant 127 → 128.
 
 ## 2026-11-19 — The audits' losses settled, the last deferred call taken up, and three entries locked

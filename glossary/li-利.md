@@ -144,12 +144,10 @@ refs:
 
 ### What no rule can enforce
 
-**"Benefit" is also 益 (yì — increase)'s at chapter 43**, *"the benefit of non-doing,"* twice, where 益 reads *increase* in every other line (42, 48, 55). No 利 stands in chapter 43, so the gate cannot see it. `concordance.py --english "benefit"` lists those two lines as not backed (`WORKLIST.md` T2-94).
+**"Benefit" in a chapter without 利.** The gate cannot see it. Chapter 43 read *"the benefit of non-doing"* for 益 (*yì*) until 2026-11-20, when it became *the abundance of non-doing* (`glossary/yi-益.md`); `concordance.py --english "benefit"` is the check, and every line it finds should be 利's.
 
 **害 is a cover**, so nothing gates its *harm*. `concordance.py --english "harm"` is the check; it also matches inside *harmony*, 和 (*hé*)'s word, and credits that entry, so read its *not backed* list as 害's five lines.
 
 ### Left open
-
-**Chapter 43's 益.** Whether *the benefit of non-doing* should read *the increase*, as 益 does at 42, 48 and 55, so that *benefit* is 利's alone. That is 益's call, not this entry's (`WORKLIST.md` T2-94).
 
 **The edge and the harvest at chapter 36.** *Beneficial tools* follows Wang Bi. Han Fei reads the state's 利器 as reward and punishment, sharp instruments in a ruler's hand (`notes/translation.md` → *Ch 36*). The English keeps the benefit and lets the edge go.

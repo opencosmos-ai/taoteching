@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 234 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 102 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 103 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -251,6 +251,10 @@ Stored in this repository.
 - [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Chapter 16, not knowing the ever-present, reckless action is ominous
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 17, on their words having no substitute and always meeting an answer
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 73, not speaking yet masterful at answering
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 42, the more, the farther; decrease and come near it; decreased and so increased is no empty saying
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 43, empty, soft and yielding, it passes through everything; so I know non-doing has abundance
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 48, striving to advance what one can do and increase what one practises
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 55, life cannot be increased; increase it and it dies young
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 1, on the desireless observing beginnings and the desiring observing ends
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 3, on the desirable not being displayed
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 37, on transforming and wanting to act, and on desirelessness as not contending
@@ -374,6 +378,9 @@ Stored in this repository.
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 70, what I say is spare and easy to know
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 73, the sky does not speak and the countless things answer in season
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Chapter 81, pretty words as ornate phrases, empty and false
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 42, pull it and it will not come, push it and it comes back; build high and it falls, grasp at wealth and trouble comes
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 43, the Tao does not act and the countless things transform of themselves; so non-doing is beneficial to people
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Chapter 48, the learning of government, teaching, ritual and music; desires and ornaments increase daily
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 1, on the desireless observing the essential
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 19, on wanting little as knowing enough
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Chapter 39, on the valley that cannot only want to be full
@@ -459,6 +466,8 @@ Stored in this repository.
 - [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Entry for xiong (bad; the ground broken open, something fallen in)
 - [Glossary · xiong-ji](<../glossary/xiong-ji-%E5%87%B6%E5%90%89.md>) · Mouth radical, entry for ji (good)
 - [Glossary · yan](<../glossary/yan-%E8%A8%80.md>) · Speech radical, entry for yan (speaking straight out, against debating)
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Hand radical, entry for sun (to decrease)
+- [Glossary · yi](<../glossary/yi-%E7%9B%8A.md>) · Vessel radical, entry for yi (plenty; from water and a vessel)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Gaping-mouth radical, entry for yu (greedy wanting)
 - [Glossary · yu](<../glossary/yu-%E6%AC%B2.md>) · Valley radical, entry for gu (a spring coming out to reach a river)
 - [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Food radical, entry for yu (plenty; from food, with yu for sound)

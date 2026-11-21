@@ -160,7 +160,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 棄,qì,abandon,word,,,,,6,3,"19,27,62",19,62,1.13,
 極,jí,the far end — where a thing runs out,open,,the far end — where a thing runs out,open,limitless; absolute; ultimate; infinite; extreme; utmost,6,5,"16,28,58,59,68",16,68,1.13,glossary/ji-極.md
 猶,yóu,"like / still, even so / hesitant (15)",grammar,,,,,6,6,"5,15,32,63,73,77",5,77,1.13,
-益,yì,increase / benefit (43),word,,,,,6,4,"42,43,48,55",42,55,1.13,
+益,yì,"increase (the process, beside 損) · abundance (the overflow itself)",locked,,"increase (the process, beside 損) · abundance (the overflow itself)",locked,profit; advantage,6,4,"42,43,48,55",42,55,1.13,glossary/yi-益.md
 辱,rǔ,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",locked,,"soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls)",locked,humiliation; humiliate; dishonor; ignominy,6,4,"13,28,41,44",13,44,1.13,glossary/ru-辱.md
 重,Zhòng,heavy / weigh down / baggage (輜重),word,,,,,6,4,"26,59,66,80",26,80,1.13,
 雖,Suī,although / even if,grammar,,,,,6,5,"26,27,32,62,80",26,80,1.13,

@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**102 entries.** Sorted by how much of the book each term touches.
+**103 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -82,6 +82,7 @@ python3 tools/build_index.py
 | **亂** | *luàn* | disorder | "chaos", "chaotic" | 4 | **locked** | [`luan-亂.md`](luan-亂.md) |
 | **令** | *lìng* | command (the order, verb and noun) · make (令 + a person + a verb, the causative) | "decree", "edict", "ordain" | 4 | **locked** | [`ling-令.md`](ling-令.md) |
 | **保** | *bǎo* | keep safe · *keep* (ch 9) | "preserve", "safekeeping", "maintain", "hold on to", "safeguard" | 4 | **locked** | [`bao-保.md`](bao-保.md) |
+| **益** | *yì* | increase (the process, beside 損) · abundance (the overflow itself) · *abundance* (ch 43) | "profit", "advantage" | 4 | **locked** | [`yi-益.md`](yi-益.md) |
 | **神 & 靈** | *shén / líng* | spirit / potent · *sacred* (ch 29) | "god", "divine", "deity", "holy", "soul", "demon", "devil", "numinous", "potency" | 4 | **locked** | [`shen-ling-神靈.md`](shen-ling-神靈.md) |
 | **禍 & 福** | *huò / fú* | disaster / fortune | "bless", "luck", "misfortune", "calamity", "woe" | 4 | **locked** | [`huo-fu-禍福.md`](huo-fu-禍福.md) |
 | **辱** | *rǔ* | soiled (beside white) · disgrace / disgraced (beside favor, or as what befalls) | "humiliation", "humiliate", "dishonor", "ignominy" | 4 | **locked** | [`ru-辱.md`](ru-辱.md) |
