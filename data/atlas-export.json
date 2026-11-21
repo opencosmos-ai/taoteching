@@ -26287,25 +26287,30 @@
     74
    ],
    "def": "惡也。从甶，虎省。鬼頭而虎爪，可畏也。",
-   "defen": null,
-   "entries": [],
-   "entry": null,
+   "defen": "To dread. From 甶 (fú — a ghost's head) and part of 虎 (hǔ — a tiger): a ghost's head with a tiger's claws, a thing to dread.",
+   "entries": [
+    "wei-畏"
+   ],
+   "entry": "glossary/wei-畏.md",
    "fq": null,
    "fw": 0,
-   "g": "fear · wary of",
-   "gs": "word",
+   "g": "fear · wary",
+   "gs": "locked",
    "hw": "畏",
    "kind": "compound",
-   "lock": 0,
+   "lock": 1,
    "n": 8,
    "p": "wèi",
    "pho": [],
-   "r": null,
+   "r": "fear · wary",
    "rad": "甶",
    "sem": [
     "甶"
    ],
-   "tier": null
+   "shuowen": {
+    "english": "To dread."
+   },
+   "tier": "Tier 3"
   },
   {
    "c": "皆",
@@ -28114,27 +28119,32 @@
     52
    ],
    "def": "危也。从歺台聲。",
-   "defen": null,
-   "entries": [],
-   "entry": null,
+   "defen": "Danger. From 歺 (è — splintered bone), with 台 (tái) for sound.",
+   "entries": [
+    "dai-殆"
+   ],
+   "entry": "glossary/dai-殆.md",
    "fq": null,
    "fw": 0,
    "g": "danger",
-   "gs": "word",
+   "gs": "locked",
    "hw": "殆",
    "kind": "phonetic-compound",
-   "lock": 0,
+   "lock": 1,
    "n": 5,
    "p": "dài",
    "pho": [
     "台"
    ],
-   "r": null,
+   "r": "danger",
    "rad": "歺",
    "sem": [
     "歺"
    ],
-   "tier": null
+   "shuowen": {
+    "english": "Danger."
+   },
+   "tier": "Tier 3"
   },
   {
    "c": "法",
@@ -46929,6 +46939,79 @@
    ]
   },
   {
+   "body": "## 殆 (Dài) — Danger\n\n*Say \"dye,\" falling. Five lines across five chapters, and in every one of them it is denied: no danger.*\n\n**Locked: 殆 → \"danger,\" in all five lines.** *(Shalom's call, 2026-11-20; the verse has read* danger *since 2026-08-31.)* *(Not \"depletion\" or \"inexhaustible,\" which put an energy store in a character built on a bone. Not \"harm,\" which is 害 (hài)'s. Not \"peril,\" the dictionary's own word, kept out so that one English holds one character.)*\n\n### The graph: a splintered bone\n\n> 殆，危也。从歺，台聲。\n> *\"殆 is danger. From 歺 (è — splintered bone), with 台 (tái) for sound.\"*\n\n**歺 is the bone left when a body has broken apart**, the part that stands for death and decay in 死 (*sǐ* — death) and 殃 (*yāng* — calamity). 殆 is danger with the bone in it: the kind of trouble a body does not come back from. **Where the picture stops:** the bone names the stakes, not the source. Nothing in the graph says what the danger is, and the book never says either. It only says when it does not come.\n\n### Five lines, and the danger never arrives\n\n> *And to the end of your days, no danger will find you.*\n>\n> 没身不殆。\n>\n> — chapter 16\n\n> *It moves in a circle and is never in danger,*\n>\n> 周行而不殆，\n>\n> — chapter 25\n\n> *Knowing when to stop, you come to no danger.*\n>\n> 知止可以不殆。\n>\n> — chapter 32\n\n> *Know when to stop, and you come to no danger.*\n>\n> 知止不殆，\n>\n> — chapter 44\n\n> *Know her children, return and hold fast to our mother,*\n> *and to the end of your days, no danger will find you.*\n>\n> 既知其子，復守其母，\n> 没身不殆。\n>\n> — chapter 52\n\n**Every 殆 in the book stands after 不 (*bù* — not).** Danger is what the right way of living escapes: to the end of a life (16, 52), by knowing when to stop (32, 44), and, once, for the Tao itself, which goes round and is never in danger (25). The book has a word for the threat and uses it only to say the threat is answered.\n\n**The repeats read alike.** 没身不殆 (*mò shēn bù dài*) closes 16 and 52 in the same words, and 知止不殆 (*zhī zhǐ bù dài*) stands at 32 and 44 (32 adds 可以, which our base alone prints: `notes/manuscript.md` → *Ch 32*). Each pair carries one English.\n\n### The commentators agree, and they say peril\n\n**Both commentators gloss 殆 with 危 (*wēi* — danger), the Shuowen's own word for it.** Heshang Gong at 16: 乃與天地俱没，不危殆也 (*\"then one sinks away together with sky and earth, not in peril\"*); at 44: 則身不危殆也 (*\"then the body is not in peril\"*); at 52 the whole gloss is 不危殆也. Wang Bi at 25: 周行無所不至而免殆 (*\"moving in a circle, it reaches everywhere and escapes danger\"*), where the Yongle Dadian prints 危 for 免. **No one reads exhaustion into it.** Five lines, two commentators, one sense, which is rare in this book.\n\n### What is set aside\n\n**\"Depletion,\" \"exhausted,\" \"inexhaustible.\"** The energy reading: a store that does or does not run out. It fails the graph, a bone, not a reservoir, and it is this edition's besetting temptation, the mechanistic. *Inexhaustible* is also 窮 (*qióng* — to run out)'s word, at chapters 6 and 35.\n\n**\"Harm.\"** 害 (*hài* — harm)'s word, at chapters 35, 56, 66, 73 and 81. Two characters wearing one English would merge in the reader.\n\n**\"Peril,\" \"perish.\"** *Peril* is the Shuowen's 危 and the commentators', and it is not wrong. It is left out so that *danger* stays one character's word, and because *peril* drifts toward the ornate. *Perish* puts the death of the bone into a line that only denies it.\n\n**\"Threaten,\" \"threatened.\"** Puts an agent behind the danger, a someone who threatens, and the book names none.\n\n### Working register\n\n| line | form | English |\n|---|---|---|\n| 没身不殆 (16, 52) | 不殆 after a span | *no danger will find you* |\n| 周行而不殆 (25) | 不殆 of the Tao | *never in danger* |\n| 知止可以不殆 (32) · 知止不殆 (44) | 不殆 as a result | *you come to no danger* |\n\n**The noun carries all five.** The English varies its verb (*find*, *come to*, *be in*) because 不殆 takes no verb of its own; *danger* stays fixed.\n\n### What no rule can enforce\n\n**\"Harm\" is ruled out and left off the list.** 害 (*hài*) never shares a chapter with 殆, so the gate could hold it, but *harm* on this list would raise a notice on every one of 害's own lines and bury the notices worth reading (`WORKLIST.md` T5-5). `concordance.py --english \"harm\"` is the check.\n\n**\"Danger\" in a chapter without 殆.** The gate cannot see it. Ch 15 once read *\"aware of danger from all sides\"* with no 殆 in it; `concordance.py --english \"danger\"` is the check, and it now finds five lines, all backed.\n\n### Left open\n\n**Chapter 16's subject.** 没身不殆 closes a ladder that climbs from impartiality to the Tao, and Heshang Gong makes the one who climbed it the one who is not in danger. The English *\"no danger will find you\"* follows him, in the second person, which the Chinese does not print. Chapter 52 is addressed to a reader, so there the *you* is the text's own; at 16 it is borrowed from 52.\n\n**Whether the bone is heard.** 殆 shares its bone with 死 (*sǐ* — death) (`glossary/si-死.md`), and twice it closes a line that begins with 没身 (*mò shēn* — to the end of one's days). *Danger* is plain and right, and no English for danger keeps the bone.\n",
+   "card": "",
+   "chars": [
+    "殆"
+   ],
+   "covers": [],
+   "flexions": [],
+   "forbidden": [
+    "depletion",
+    "deplete",
+    "exhaust",
+    "inexhaustible",
+    "peril"
+   ],
+   "path": "glossary/dai-殆.md",
+   "pinyin": "dài",
+   "refs": [
+    {
+     "chain": [],
+     "locator": "Chapter 16, no calamity and no fault; one sinks away with sky and earth, not in peril",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 44, knowing when to stop, wealth does not burden the body, and the body is not in peril",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 52, the whole gloss: not in peril",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Splintered-bone radical, entry for dai (danger; from the splintered bone, with tai for sound)",
+     "source": "shuowen"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 25, moving in a circle it reaches everywhere and escapes danger; the Yongle Dadian reads peril for escape",
+     "source": "wangbi"
+    }
+   ],
+   "refs_status": "complete",
+   "render": "danger",
+   "shuowen": "Danger. From 歺 (è — splintered bone), with 台 (tái) for sound.",
+   "slug": "dai-殆",
+   "status": "locked",
+   "term": "殆",
+   "where": [
+    [
+     "16.19",
+     1
+    ],
+    [
+     "25.5",
+     1
+    ],
+    [
+     "32.8",
+     1
+    ],
+    [
+     "44.7",
+     1
+    ],
+    [
+     "52.3",
+     1
+    ]
+   ]
+  },
+  {
    "body": "## 道 (Dào) — The Tao\n\n*Say \"dow,\" rhyming with \"now,\" falling, like a word set down. Seventy-five appearances across thirty-seven chapters: the book's first word, and half of its name.*\n\n**Locked: 道 → \"the Tao\"** (the name, left untranslated) **/ \"way\"** (a common noun with an owner: *the way of nature*, *the way of people*; and the verb in the book's first line, *made a way*). *(Never \"the Way,\" never \"the Path.\")*\n\n道 is a road. Before it was anything else it was the ordinary word for a way through the country that people walk, and the word never lost that meaning: Laozi himself uses it for a road you could stand on (53). From the road grew the walking of it, the leading of others along it, the telling of it, and the right way to do a thing. Laozi takes this common word and points it at what everything goes by, then tells us in his first line that no way you could lay out is that.\n\n### The graph: a head on the road\n\n**Our vendored 說文解字 (*Shuōwén Jiězì*, c. 100 CE): 所行道也。从辵从𩠐。一達謂之道** — *\"the road that is walked. From 辵 (chuò) and 𩠐 (shǒu). A road that runs straight through is called 道.\"*\n\nThat last clause is a surveyor's definition. The 爾雅 (*Ěryǎ*), the oldest Chinese word-list, grades roads by how many ways they branch: 一達謂之道路, *\"one that goes straight through is called a 道 road,\"* while a road that forks has another name, and a crossroads another. So 道 is not any road. It is the road that does not branch.\n\n**辵 (*chuò*) — walking along a road.** Usually written 辶 at the left and bottom of a character. It is two pictures stacked:\n\n- **彳 (*chì*)** — the left half of **行 (*xíng*)**, whose oldest graph is **a crossroads**, two streets meeting, seen from above. 說文 on 行: 人之步趨也。从彳从亍 — *\"a person's stepping and hurrying.\"* 彳 alone is a step, a stretch of street.\n- **止 (*zhǐ*)** — **a foot**, drawn with its toes. In early graphs a foot means going.\n\nSo 辵 is a foot on a street. 說文 glosses it 乍行乍止, *\"now going, now stopping\"*: the stop-and-start of someone actually walking. *(辵's own 說文 entry comes from outside this repository's selection, which holds only the characters the Laozi uses.)*\n\n**𩠐 (*shǒu*) — a head, drawn with its hair.** This is the old form of **首 (*shǒu* — head)**. 說文 says of it: 古文𦣻也。巛象髮 — *\"the ancient form of the head-graph; the 巛 on top is the hair.\"* Below the hair is a face, and in the oldest forms the eye is the clearest thing in it.\n\n**Two jobs at once.** Xu Shen counts the head as part of the meaning. Modern reconstruction hears it as the sound as well: Old Chinese 道 is roughly *\\*l'uːʔ* and 首 roughly *\\*hljuʔ*, close enough that 首 almost certainly helped to spell 道. Both can be true. Many characters chose a sound-part that also suited the sense.\n\n**What the head is doing there.** Three readings, from safest to boldest:\n\n1. **The head goes first.** 首 means not only *head* but *first, foremost, the leading end*. A head on the road is the part of a walker that leads, the face set toward where you are going. The verb that grows from 道 says exactly this: **導 (*dǎo*)**, 道 with 寸 (*cùn* — a hand) added, is *to lead, to guide*. 說文: 導，導引也, *\"to lead along.\"*\n2. **The head stands for the person**, a part for the whole, as English counts \"heads.\" On this reading 道 is simply someone on a road.\n3. **A carried head.** Shirakawa Shizuka read the graph as a head carried to clear and purify a road into foreign country. It is a striking proposal and a disputed one. We record it and do not build on it.\n\n**The bronzes draw the whole scene.** In the Zhou bronze inscriptions 道 is usually written as 行, the crossroads, with the head standing inside it, often with a foot beneath. Some forms add a hand, the shape that later became 導, *to lead*. The seal script squeezed the crossroads down to 辵, and that is the form we print.\n\n**And the oldest copy of this book draws a person.** In the Guodian bamboo slips (c. 300 BCE), most of the copyists write 道 as **人 (*rén* — a person) standing inside 行 (a crossroads)**. Only one hand writes the head-and-walking form we know. The earliest surviving Laozi writes its central word as a person standing in the road.\n\n### What the word already meant\n\nBy Laozi's century 道 was a common word with four live senses, and a reader of the book hears all of them:\n\n- **A road.** 大道甚夷，而人好徑 (53) — *\"the great Tao is very level, yet people love to take shortcuts.\"* 徑 (*jìng*) is a footpath, a cut across the fields. Laozi is talking about roads.\n- **To lead.** The sense that became 導.\n- **To tell.** The 詩經 (*Shījīng* — the Book of Songs): 中冓之言，不可道也 — *\"the words of the inner chamber cannot be told.\"* Chinese still uses 道 for *to say*.\n- **The right way to do things.** By Confucius's time the word was already moral, and already reached toward the cosmic: 朝聞道，夕死可矣 — *\"hear the way in the morning, and you may die content in the evening\"* (論語 4.8). His students said he rarely spoke of 天道, *the way of the sky* (論語 5.13).\n\nSo 道 was not a plain word that Laozi made philosophical. It was a plain word that everyone was already using for *the right way*: the way of the former kings, the way of the gentleman. Laozi's move is to take it **under** all of those. His 道 is not a way to behave. It is what every way, and every thing, goes by.\n\n### What the book does with it\n\nWatch what he says of it, and the verbs give it away:\n\n- **It comes before.** 有物混成，先天地生 (25) — *\"something mixed and complete, born before sky and earth.\"* 象帝之先 (4) — *\"it seems older than any god,\"* where 帝 (*dì*) is the high ancestor-deity.\n- **Its name is forced.** 吾不知其名，強字之曰道 (25) — *\"I do not know its name. Forcing a label on it, I call it the Tao.\"* 字 (*zì*) is a courtesy name, the name a person is called by rather than the name they are given.\n- **It moves and is used.** 反者道之動；弱者道之用 (40) — *\"returning is the Tao's movement; yielding is the Tao's use.\"* Movement and use, not substance.\n- **It gives birth.** 道生一 (42), 道生之 (51) — *\"the Tao births the one,\"* *\"the Tao births the countless things.\"*\n- **It follows only what it is.** 道法自然 (25) — *\"the Tao models itself on being what it is.\"* Nothing stands above it.\n- **It shelters.** 道者萬物之奧 (62) — *\"the Tao is the sanctuary of the countless things.\"* 奧 (*ào*) is the innermost corner of a house.\n\n**The oldest readers name it from motion.** 韓非 (*Hán Fēi*), on ch 1: 聖人觀其玄虛，用其周行，強字之曰道 — *\"the sage watches its dark emptiness, makes use of its going-round, and forces the style 道 on it.\"* The name comes from 周行 (*zhōu xíng*), *going all the way round*, the phrase of chapter 25. **王弼 (*Wáng Bì*)** defines it in four characters: 道者，物之所由也 — *\"the Tao is what things go by\"* (51). 由 (*yóu*) is *by way of, through*. And on chapter 25: 道取於無物而不由也 — *\"it is called 道 because there is nothing that does not go by it.\"* **河上公 (*Héshàng Gōng*)** gives the reason from the other end: 見萬物皆從道所生，故字之曰道 — *\"seeing that the countless things all come from it, I style it 道.\"*\n\nAll three explain the name through the road. The Tao is not named for what it *is*. It is named for the fact that everything travels it.\n\n### What is set aside\n\n- ***the Way*** — the honest literal, and the reason it is forbidden is the capital. Capitalized and alone, *the Way* becomes a creed. It belongs to the early Christian name for itself (*the Way*, Acts 9:2), to every \"way of life\" sold since, and to a one-word answer to a question the book keeps open. Forbidden as the name; *way*, lowercase and with an owner, is kept.\n- ***the Path*** — true to the road, but too small and too private. A path is one person's track through the woods, and 說文 says 道 is the road that runs straight through. Forbidden capitalized; *path* stays available as an ordinary word.\n- ***God*, *the Absolute*, *the One*** — each imports what the text refuses: a person who creates and judges, or a metaphysical substance. 象帝之先 sets the Tao before the high deity, and 天地不仁 (5) says *\"sky and earth are not concerned with humaneness.\"* And *the One* is 一's word: 道生一, *the Tao births the one* (42), so the two cannot be the same.\n- ***Nature*** — already spoken for. *Nature* is 天 (*tiān*)'s English where 天 takes a verb (*the way of nature*), and *of itself* is 自然's (25). The ladder 人法地，地法天，天法道，道法自然 needs four different words.\n- ***the operating system, the source code*** — a modern metaphor, and it does catch three true things: the Tao is impersonal, it works without issuing commands (無為, 自然), and it runs beneath what is visible. It fails the pointing test. Laozi points at water, valleys and uncarved wood, and the graph is a person on a road under open sky. A machine metaphor brings in mechanism and design, which the book never names, and it will date faster than the text it explains. It can serve in commentary as a lens. It is never the word.\n\n### Why the name stays untranslated\n\nChapter 25 says the name is forced, so we leave it visibly as a name. **\"The Tao\"** keeps the gesture: a word that does not pretend to define. It is also already an English word, and it carries less freight than *the Way* or *God*. We spell it *Tao* rather than the pinyin *Dao* only because that is the form English readers know. Either way it is pronounced *dào*.\n\n**What stays untranslated is the name, not the word.** The first line teaches this: 道可道 → *\"The Tao that can be made a way.\"* *Tao* and *way* stand in the same sentence, so the reader learns what the name means before learning anything else.\n\n### Working register\n\n| Use | English | Chapters | Example |\n|---|---|---|---|\n| the name | **the Tao** | throughout | 道生一 → *\"the Tao births the one\"* |\n| the name, qualified | **the great Tao, the clear Tao…** | 18, 34, 41, 53 | 大道汎兮 → *\"the great Tao overflows\"* |\n| a common noun with an owner | **way** | 9, 47, 73, 77 ×3, 79, 81 ×2 | 天之道 → *\"the way of nature\"*; 人之道 → *\"the way of people\"* (77); 聖人之道 → *\"the way of the sage\"* (81) |\n| the verb in 道可道 | **made a way** | 1 | *\"The Tao that can be made a way\"* |\n| 不道, the negation | **not-Tao** | 30, 55 | 是謂不道，不道早已 → *\"this is called not-Tao. Not-Tao comes to an early end\"* |\n\n*Made a way* is a construction, not 道's English. The supplied *made* belongs to the line (`process/principles/supplied-verb-is-scaffolding.md`), so `render:` carries *way* alone.\n\n### 道 and 德\n\nThe book is the 道**德**經, named for both. If 道 is what everything goes by, **德 (*dé* — integrity)** is that way received into one thing and kept whole there. 道生之，德畜之 (51) — *\"the Tao gives birth to the countless things, integrity rears them.\"* Source and its presence in things, the grain of everything and the same grain running true through one life. See `de-德.md`.\n\n### What no rule can enforce\n\n**Lowercase *way* cannot be forbidden, and the boundary it marks can only be held by a reader.** The lock bans *the Way* and *the Path* with their capitals, which the checker reads as part of the violation. But whether a given 道 is the name or an owned way is a judgment about the line, and no check can make it. *Way* is also an ordinary English word that many lines use with no 道 in sight (13, 39). The ruling is: **the name is *the Tao*; a way that belongs to someone or something is *way*.**\n\n### Left open\n\n**Three owned ways still read *Tao*.** 長生久視之道 (59) is grammatically *the way of long life and lasting sight*, but reads *\"the Tao of deep roots, firm base, long life, and enduring vision.\"* 我道大 (67), *\"my Tao is great,\"* has an owner in 我 (*wǒ* — I). 古之道 (14), *\"the ancient Tao,\"* has antiquity as its owner. Each can be argued: the speaker of 67 means the Tao they teach, and 14's ancient way is plainly the Tao. But the line in the register above does not yet decide them, and it should.\n\n**The speech sense surfaces once, and the English drops it.** 道之出口 (35) is *\"the Tao, when it leaves the mouth\"*, that is, when it is spoken. It is the one line after chapter 1 that sets the name beside the act of telling, and *\"the Tao is bland in the mouth\"* turns the mouth that speaks into a mouth that tastes.\n\n**And the first line still breaks a pun.** 道可道 holds the road and the telling in one verb. *Made a way* keeps the road and loses the telling (`chapters/001.md` → Notes). No English word holds both, and every map of this word is, by the book's own first line, not the thing. We draw it anyway, because a map can still say *this way*, and we hold it loosely.\n",
    "card": "",
    "chars": [
@@ -53511,6 +53594,129 @@
    ]
   },
   {
+   "body": "## 畏 (Wèi) — Fear\n\n*Say \"way,\" falling. Seven lines across six chapters. Fear of something that can strike: a ruler, authority, death.*\n\n**Locked: 畏 → \"fear,\" with *wary* at chapter 15.** *(Shalom's call, 2026-11-20; no verse changed.)* *(Not \"awe\" or \"reverence,\" which turn a fear into worship. Not \"dread,\" the feeling, where 畏 always has an object. Not \"frighten,\" which is 懼 (jù)'s act.)*\n\n### The graph: a ghost with a stick\n\n**In the oracle bones and the early bronzes, 畏 is a ghost wielding a stick**: 鬼 (*guǐ* — a ghost), with 卜 (*bǔ*), a stick, in its hand, and the ghost gives the sound too (`dong-chinese`). The Shuowen, a millennium later, reads the same shape as a ghost and a tiger:\n\n> 畏，惡也。从甶，虎省。鬼頭而虎爪，可畏也。\n> *\"畏 is to dread. From 甶 (fú — a ghost's head) and part of 虎 (hǔ — a tiger). A ghost's head and a tiger's claws: a thing to dread.\"*\n\n**Either way the picture is of the thing feared, not of the person afraid.** The ghost has a weapon, or claws. 畏 is fear that has a source standing in front of it. **Where the picture stops:** the book has no ghosts in its 畏 lines. What it fears is rulers, authority, death, and straying from the Tao. 鬼 (*guǐ* — ghosts) appears once, at chapter 60, and there *\"their spirit does no harm to people\"* (`glossary/shen-ling-神靈.md`).\n\n### Seven lines, and every fear has an object\n\n> *Next, those who are feared.*\n>\n> 其次，畏之；\n>\n> — chapter 17\n\n> *What people fear must be feared.*\n>\n> 人之所畏，不可不畏。\n>\n> — chapter 20\n\n> *If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it.*\n>\n> 使我介然有知，行於大道，唯施是畏。\n>\n> — chapter 53\n\n> *When the people do not fear authority,*\n> *the great collapse comes.*\n>\n> 民不畏威，\n> 則大威至。\n>\n> — chapter 72\n\n> *When the people do not fear death,*\n> *why try to frighten them with death?*\n>\n> 民不畏死，\n> 奈何以死懼之？\n>\n> — chapter 74\n\n> *Suppose the people always feared death,*\n> *and I could seize whoever steps out of line and kill them.*\n> *Who would still push?*\n>\n> 若使民常畏死，\n> 而為奇者，吾得執而殺之，\n> 孰敢？\n>\n> — chapter 74\n\n**In every line 畏 takes an object, said or understood**: a ruler (17), what people fear (20), straying (53), authority (72), death (74). It is never a mood. **And in three of the seven, the fear is the ruler's tool**: the ruler who is feared (17), the authority the people stop fearing (72), the death a ruler would use to frighten them (74). Wang Bi on 17: the ruler feared is one 不復能以恩仁令物而賴威權也 (*\"no longer able to move things by kindness, and relying on authority\"*). Heshang Gong: 設刑法以治之 (*\"setting up punishments and laws to govern them\"*). The book's verdict is that this fear stops working.\n\n**The ruler's authority is fear's own word.** 威 (*wēi* — authority) at 72 is a different graph, 女 (*nǚ* — woman) beneath 戌 (*xū* — an axe), but in Old Chinese it is the same sound as 畏, *ʔuj against 畏's *ʔuj-s (Baxter and Sagart, via `dong-chinese`): the power and the fear of it, one word in the mouth. So 民不畏威 is close to *the people do not fear the fearsome*, and English cannot say it. *\"Fear dread\"* was tried and refused (`notes/translation.md` → *Ch 72*).\n\n### Chapter 20: the sage fears too\n\n**What people fear must be feared.** Wang Bi does not soften it: 故人之所畏，吾亦畏焉 (*\"so what people fear, I fear too\"*). He gives the reason a line earlier: 畏譽而進，何異畏刑 (*\"to fear praise and push forward, how is that different from fearing punishment?\"*). The chapter that opens *\"Cut off learning and there is no worry\"* does not put its speaker above fear. They fear what everyone fears, and do not make a use of it.\n\n### Chapter 15: wary, and the commentators split\n\n> *Hesitant, like someone wary of the neighbors on all four sides.*\n>\n> 猶兮若畏四鄰；\n>\n> — chapter 15\n\n**Here 畏 is inside a likeness, and the commentators hear two different fears.**\n\n> 四鄰合攻中央之主，猶然不知所趣向者也。\n> *\"The four neighbors join to attack the ruler at the center, who hesitates and does not know which way to turn.\"* — Wang Bi\n\n> 其進退猶猶如拘制，若人犯法畏四隣知之也。\n> *\"Their advancing and retreating is hesitant, as if held back, like someone who has broken the law fearing the four neighbors will find out.\"* — Heshang Gong\n\n**Wang Bi's is attack; Heshang Gong's is being seen.** *Fearing the neighbors* would name them the danger and take Wang Bi's side. ***Wary of*** keeps the watching, with or without the threat, and holds both. It is the one flexion, scoped to this line in `flexions:`. Heshang Gong reaches for 畏 again in the next line, 如客畏主人 (*\"like a guest who fears the host\"*), where the verse reads *\"Dignified, like a guest.\"*\n\n### What is set aside\n\n**\"Awe,\" \"reverence,\" \"revere.\"** The overlay. The *Analects* gives 君子 (*jūn zǐ* — the noble) three 畏, the first 畏天命 (*wèi tiān mìng* — \"fear the allotted course of nature\"), and Legge's English (1861) made it *\"stands in awe of the ordinances of Heaven.\"* That reading turns a fear with an object into worship, and it fails the hymn test outright. The book's 畏 is a people's fear of a ruler and of death; nobody in it worships. *Awe* is listed with a leading space, so that *aware* does not trip it.\n\n**\"Dread.\"** The feeling, where 畏 is always fear *of* something. Shalom refused it at chapter 72, *\"You fear a thing; dread is the feeling\"* (`notes/translation.md` → *Ch 72*).\n\n**\"Be afraid of,\" \"afraid.\"** Not wrong, and no line needs it: *fear* is shorter and takes an object directly.\n\n**\"Frighten,\" \"terrify.\"** 懼 (*jù* — to startle)'s act, at chapter 74, where the line is built on the difference: 畏 the fear held, 懼 the fear caused, *fear* against *frighten*.\n\n### Working register\n\n| line | form | English |\n|---|---|---|\n| 畏之 (17) | passive in English: *they fear them* | *those who are feared* |\n| 人之所畏 · 不可不畏 (20) | 所 + verb · 不可不 + verb | *what people fear* · *must be feared* (`glossary/ke-可.md`) |\n| 唯施是畏 (53) | the object fronted, 唯 X 是 V | *my only fear would be* (`glossary/wei-唯.md`) |\n| 民不畏威 (72) · 民不畏死 · 常畏死 (74) | verb + object | *fear authority* · *fear death* · *always feared death* |\n| 若畏四鄰 (15) | inside a likeness | *wary of* (flexion) |\n\n### What no rule can enforce\n\n**\"Fear\" for another character.** 懼 (*jù*) at 74 could slip into *fear*, and nothing gates it; `concordance.py --english \"fear\"` is the reverse check. The forbidden list catches only the overlay words.\n\n### Left open\n\n**Chapter 53's object.** The verse reads 施 (*shī*) as 迤 (*yǐ* — to stray), *\"my only fear would be to stray from it,\"* for the byways the next line names. Both commentators read 施 as acting, Wang Bi's 唯施為之是畏 (*\"only acting would I fear\"*). The fear is the same word either way; what it fears is Shalom's call of 2026-11-19 (`notes/translation.md` → *Ch 53*).\n\n**Chapter 17's ruler.** *Those who are feared* follows Wang Bi and Heshang Gong in making the ruler the feared one. Where a ruler fears the people, the book never says so with 畏.\n",
+   "card": "",
+   "chars": [
+    "畏"
+   ],
+   "covers": [],
+   "flexions": [
+    {
+     "chapters": [
+      15
+     ],
+     "english": "wary",
+     "why": "a likeness, not a threat met: the neighbors watch, or close in, and the English keeps the watching without naming them the danger"
+    }
+   ],
+   "forbidden": [
+    " awe",
+    "reverence",
+    "revere",
+    "dread"
+   ],
+   "path": "glossary/wei-畏.md",
+   "pinyin": "wèi",
+   "refs": [
+    {
+     "chain": [
+      "dong-chinese"
+     ],
+     "locator": "Old Chinese readings of wei (to fear) and wei (authority)",
+     "source": "baxter-sagart",
+     "via": "dong-chinese"
+    },
+    {
+     "chain": [],
+     "locator": "Entry for wei (authority): a weapon and a woman; Old Chinese *ʔuj",
+     "source": "dong-chinese",
+     "url": "https://www.dong-chinese.com/wiki/%E5%A8%81"
+    },
+    {
+     "chain": [],
+     "locator": "Entry for wei: a ghost wielding a stick, the ghost also the sound; oracle and early Western Zhou bronze forms; Old Chinese *ʔuj-s",
+     "source": "dong-chinese",
+     "url": "https://www.dong-chinese.com/wiki/%E7%95%8F"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 15, like someone who has broken the law, afraid the four neighbors will find out; like a guest who fears the host",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 17, setting up punishments and laws to govern them",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 74, punishments cruel and deep, the people have nothing to live on, and so do not fear death",
+     "source": "heshanggong"
+    },
+    {
+     "chain": [],
+     "locator": "Ghost-head radical, entry for wei (to dread; a ghost's head and a tiger's claws)",
+     "source": "shuowen"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 15, the four neighbors joining to attack the ruler at the center, who hesitates and does not know which way to turn",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 17, no longer able to move things by kindness, relying on authority",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 20, fearing praise and advancing is no different from fearing punishment; what people fear, I fear too",
+     "source": "wangbi"
+    },
+    {
+     "chain": [],
+     "locator": "Chapter 53, only acting would I fear",
+     "source": "wangbi"
+    }
+   ],
+   "refs_status": "complete",
+   "render": "fear",
+   "shuowen": "To dread. From 甶 (fú — a ghost's head) and part of 虎 (hǔ — a tiger): a ghost's head with a tiger's claws, a thing to dread.",
+   "slug": "wei-畏",
+   "status": "locked",
+   "term": "畏",
+   "where": [
+    [
+     "15.7",
+     1
+    ],
+    [
+     "17.3",
+     1
+    ],
+    [
+     "20.4",
+     2
+    ],
+    [
+     "53.1",
+     1
+    ],
+    [
+     "72.1",
+     1
+    ],
+    [
+     "74.1",
+     1
+    ],
+    [
+     "74.2",
+     1
+    ]
+   ]
+  },
+  {
    "body": "## 我 / 吾 (Wǒ / Wú) — The Self Seen and the Self Seeing\n\n*A pairing entry. 我 — say \"waw,\" a tone that dips then lifts. 吾 — say \"woo,\" rising, as if asking.*\n*Two ordinary words for \"I.\" The whole entry lives in the space between them.*\n\nSomething in us has long known there are two of us. There is the \"I\" that wants and flinches and argues its corner and keeps one eye on how it is doing in the eyes of others — and there is a quieter \"I\" *behind* that one, which simply notices the first one doing all of that. Classical Chinese happens to carry two words for the first person, **我** and **吾**, and the Daoist tradition could not resist pressing them into exactly this service. Whether Laozi meant them so cleanly is a question we will keep honest about. But the seam they mark is real, and if you have sat still for any length of years you have felt it from the inside.\n\n### The graph: two characters, two postures\n\n**我 (wǒ) — the armed hand.** The oldest graph is not a pronoun at all: it is a **weapon** — a bladed, saw-toothed halberd gripped in a hand — later borrowed for its *sound* to serve as \"I.\" Sit with that a moment. The everyday \"I\" first pictured itself as *something held and wielded*: a stance, an edge, a boundary to be defended. 我 is the self that **grips** — that takes a position, asserts, protects its perimeter. In the Tao Te Ching it beats hardest in Chapter 20, where the word will not stop: *我獨泊兮… 我愚人之心也哉… 我獨異於人* — \"*I* alone am still… *I* have the heart of a fool… *I* alone differ from others.\" That is the self *set against the crowd*, felt as separate — the self that stands out, and so is **seen**.\n\n**吾 (wú) — the mouth at the center.** 吾 is built otherwise: a mouth (口) beneath 五, \"five\" — and 五, in its oldest form, is an *X*, a crossing of lines, a point where directions meet. A voice at the intersection. Where 我 grips, 吾 only **speaks and locates** — the self at the still center of its own coordinates, saying *here*. It carries none of the blade. And in the Tao Te Ching it keeps different company: *吾不知其名* (Ch 25, \"*I* do not know its name\"); *吾何以知…* (Ch 21, \"how do *I* know…?\"); and, most tellingly, Chapter 16's *吾以觀復* — \"*I*, by this, **watch** the returning.\" Not the self that acts on the world — the self that observes it.\n\n*(A calibration, so the entry stays honest: the 五 in 吾 is mainly there for sound. The \"center / crossing\" reading is an invitation the shape offers, not a proven derivation. We take it as resonance, not as fact.)*\n\n### What the grammarians will tell you — and it deserves hearing\n\nOn the surface, the split between 我 and 吾 in Classical Chinese is **positional, not psychological**. Early usage favored 吾 in the subject and the possessive (before the verb: \"I,\" \"my\") and 我 in the object and the emphatic (after the verb: \"me,\" or a stressed \"*I*\"). By the Han even that eroded. So a careful linguist will warn — rightly — that most occurrences carry no metaphysics; the language is simply choosing a slot. If we claimed Laozi ran a strict system in which 吾 = the awakened witness and 我 = the ego, we would be overreading. Chapter 20's 我 is not a shallow ego at all — it is the *most* deeply differentiated self in the whole book, the one that nurses from the great mother (貴食母). We set that too-tidy equation aside before it misleads us.\n\n### And yet the seam is not invented\n\nLook once more at where each word falls, and a gentler pattern holds even here. **我 arrives where the self is positioned, contrasted, felt** — *I, as against others*. **吾 arrives where the self stands back to look** — *I, considering my own condition; I, watching the return*. The self *seen*, and the self *seeing*. The grammar (吾 the subject who looks out, 我 the object that gets looked at) and the contemplation rhyme more than they have any right to.\n\nAnd the tradition made the rhyme explicit. A generation or two past Laozi, Zhuangzi wrote the line that settles it: **吾喪我** — *\"I have lost me.\"* The 吾 **loses** the 我. The observer releases the observed self; the gripping, positioning, weapon-holding \"I\" is set down, and what remains is the watching. Same two words — used exactly as you feel them. So this reading is not a modern notion smuggled back into an old book. It is a seed already in the Daoist soil, which Zhuangzi brought to flower.\n\n### How Laozi held it — not a theory, a stance\n\nLaozi never lectures on an \"observer self.\" He does something quieter: he **enacts** it. Chapter 16 is the clearest window. First *致虛極，守靜篤* (*zhì xū jí, shǒu jìng dǔ* — go totally empty, hold steadily to stillness), *and then* *萬物並作，吾以觀復*: the countless things rise and stir, and \"*I* watch them return.\" Notice the order. The 吾 that watches is not attained by *adding* anything; it is what is *left* when the gripping self grows quiet. Chapter 10 hands us the image for it: *滌除玄覽* — wash the dark mirror clean. The 吾 is the mirror that reflects without reaching for what it reflects. And set beside its cousin-pair **吾 / 身** (the observer and the body-bound, status-anxious self — its own entry), the picture closes: loosen 身, set down 我, and 吾 remains — clear, still, watching, unarmed.\n\n### The lived seam\n\nYou wrote that you feel this in yourself. That feeling is not incidental to the work — it may be the finest instrument you bring to it. No dictionary can tell you, in a given line, whether the \"I\" that speaks is *gripping* or *watching*; only someone who has stood in both selves can hear the difference. The question this translation keeps asking — *which \"I\" is this?* — is the very question the practice keeps asking. To render the pair truly, you have to catch yourself in the act of being each. In that sense the translating and the deepening are one motion: attending to which \"I\" is speaking, on the page and in the chest, is a single turn of attention.\n\nAnd how did Laozi hold the two? **Lightly — and without needing to abolish either.** He does not tell us to kill the 我. The armed, feeling, differentiated self keeps its Chapter 20, its loneliness, its nursing at the mother; it is not a sin, it is weather. He tells us instead where to *stand*: at the still center, emptied, watching — so that 吾 becomes the ground and 我 becomes only weather moving across it. Not one self slaying the other. One self **holding** the other, the way a valley holds a river.\n\nWe leave the tension where it honestly lies. The grammar says *position*; the tradition says *depth*; and experience — yours, and every quiet sitter's — says the depth is real even where the grammar is loose. So we hold the distinction as a **lamp, not a law**: bright enough to read by, never gripped so tightly that it becomes one more thing the 我 is holding.\n\n---\n\n*Standard for a pairing entry, going forward: the meaning lives in the space between the two words, not in either alone. Read the characters against each other; be honest about where the language earns the contrast and where we are supplying it; find the passage where the text itself sets the pair in tension (here, Zhuangzi's 吾喪我); and let the pairing open rather than close — most of all when the seam it marks is one the reader may be living from the inside.*\n",
    "card": "",
    "chars": [
@@ -58833,7 +59039,7 @@
   ],
   "畏": [
    "wèi",
-   "fear · wary of"
+   "fear"
   ],
   "畜": [
    "xù",
@@ -65984,6 +66190,7 @@
     },
     "editions": [],
     "entries": [
+     "wei-畏",
      "zhi-智"
     ],
     "forks": [],
@@ -66217,7 +66424,8 @@
     "entries": [
      "gu-谷",
      "jun-君",
-     "ruo-弱"
+     "ruo-弱",
+     "wei-畏"
     ],
     "forks": [],
     "holds": [],
@@ -66830,6 +67038,7 @@
     "entries": [
      "chang-長",
      "cheng-成",
+     "dai-殆",
      "de-shi-得失",
      "gui-jian-貴賤",
      "guo-國",
@@ -66841,6 +67050,7 @@
      "shen-ling-神靈",
      "sheng-勝",
      "si-死",
+     "wei-畏",
      "xi-希",
      "xian-hou-先後",
      "xiong-ji-凶吉",
@@ -67569,6 +67779,7 @@
     "entries": [
      "chang-長",
      "cheng-成",
+     "dai-殆",
      "de-shi-得失",
      "gui-jian-貴賤",
      "guo-國",
@@ -67584,6 +67795,7 @@
      "sheng-勝",
      "si-死",
      "wang-王",
+     "wei-畏",
      "xian-hou-先後",
      "xiong-ji-凶吉",
      "yan-言",
@@ -67842,6 +68054,7 @@
     "entries": [
      "chang-長",
      "cheng-成",
+     "dai-殆",
      "de-shi-得失",
      "gui-jian-貴賤",
      "guo-國",
@@ -67852,6 +68065,7 @@
      "shen-ling-神靈",
      "sheng-勝",
      "si-死",
+     "wei-畏",
      "xi-希",
      "xian-hou-先後",
      "xiong-ji-凶吉",
@@ -68126,7 +68340,7 @@
   "totals": {
    "citation_debt": 0,
    "confirmed_print": 0,
-   "entries": 95,
+   "entries": 97,
    "facts": 48,
    "incomplete_entries": 88,
    "pending_print": 36,

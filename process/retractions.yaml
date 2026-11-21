@@ -276,3 +276,14 @@
     Heshang Gong's bow line reads 不足者與之, "is given to"; only his law line
     has 𥙷. The fork is sources/variants.yaml id 127.
   see: "chapters/077.md"
+
+- id: wei-authority-is-wei-fear-with-woman
+  retracted: 2026-11-20
+  claim: >
+    威 (wēi — authority) is the graph 畏 (wèi — to fear) with 女 (nǚ — woman)
+    beneath it.
+  match: ["畏 with 女 beneath", "畏 with 女 under"]
+  correction: >
+    The Shuowen builds 威 from 女 and 戌 (xū — an axe). 威 and 畏 are kin in
+    sound, Old Chinese *ʔuj and *ʔuj-s, not in the graph.
+  see: "glossary/wei-畏.md"

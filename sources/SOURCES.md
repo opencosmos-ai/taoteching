@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 233 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 95 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 97 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -196,6 +196,7 @@ Stored in this repository.
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 51, what completes them is circumstance
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 67, setting up the completed vessels
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 7, having no private self, and so able to complete it
+- [Glossary · dai](<../glossary/dai-%E6%AE%86.md>) · Chapter 25, moving in a circle it reaches everywhere and escapes danger; the Yongle Dadian reads peril for escape
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 22, little and you get the root
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 23, losing as carrying too much
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 39, each thing gets the one, settles in its completion, and loses its mother
@@ -228,6 +229,10 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 76, a strong army that bullies the world cannot win
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 33, though they die, the Tao by which they lived does not vanish
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 50, emerging from the ground of life and entering the ground of death; three in ten; no deadly ground
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 15, the four neighbors joining to attack the ruler at the center, who hesitates and does not know which way to turn
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 17, no longer able to move things by kindness, relying on authority
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 20, fearing praise and advancing is no different from fearing punishment; what people fear, I fear too
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 53, only acting would I fear
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, defining sparse speech by quoting chapter 14
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, on the great sound that cannot be heard
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 70, on those who know me growing fewer
@@ -273,6 +278,9 @@ Stored in this repository.
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 64, ruining affairs at the point of completion through greed
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 67, chief of the completed vessels means those who have attained the Tao
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Chapter 7, the sage has no private aim and the self thickens of itself
+- [Glossary · dai](<../glossary/dai-%E6%AE%86.md>) · Chapter 16, no calamity and no fault; one sinks away with sky and earth, not in peril
+- [Glossary · dai](<../glossary/dai-%E6%AE%86.md>) · Chapter 44, knowing when to stop, wealth does not burden the body, and the body is not in peril
+- [Glossary · dai](<../glossary/dai-%E6%AE%86.md>) · Chapter 52, the whole gloss: not in peril
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 13, getting favor and losing it
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 29, they do not get the Tao of nature
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Chapter 42, not getting their death as dying before their span
@@ -319,6 +327,9 @@ Stored in this repository.
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 74, harsh punishment, and a people who cannot bear to live
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 75, seeking life too richly, they enter deadly ground lightly
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 76, at death the harmonious breath is spent
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 15, like someone who has broken the law, afraid the four neighbors will find out; like a guest who fears the host
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 17, setting up punishments and laws to govern them
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 74, punishments cruel and deep, the people have nothing to live on, and so do not fear death
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 14, soundless is called xi
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 23, sparse speech as cherishing words
 - [Glossary · xi](<../glossary/xi-%E5%B8%8C.md>) · Chapter 41, the great sound as thunder waiting for its season
@@ -362,6 +373,7 @@ Stored in this repository.
 - [Stored material](<../sources/shuowen/entries.md>)
 - [Glossary · chang](<../glossary/chang-%E9%95%B7.md>) · Entry for chang (lasting and far)
 - [Glossary · cheng](<../glossary/cheng-%E6%88%90.md>) · Entry for cheng (to arrive at)
+- [Glossary · dai](<../glossary/dai-%E6%AE%86.md>) · Splintered-bone radical, entry for dai (danger; from the splintered bone, with tai for sound)
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Hand radical, entry for shi (to let go)
 - [Glossary · de-shi](<../glossary/de-shi-%E5%BE%97%E5%A4%B1.md>) · Step radical, entry for de (to go and get something)
 - [Glossary · gui-jian](<../glossary/gui-jian-%E8%B2%B4%E8%B3%A4.md>) · Cowry radical, entry for gui (a thing not cheap)
@@ -399,6 +411,7 @@ Stored in this repository.
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Entry for si (to run dry, what a person parts from)
 - [Glossary · wang](<../glossary/wang-%E7%8E%8B.md>) · King radical, entry for wang (that to which the world returns and goes), with Dong Zhongshu's three strokes
 - [Glossary · wang](<../glossary/wang-%E7%8E%8B.md>) · Man radical, entry for hou (the target shot at the spring feast), with the archers' curse on the lords who do not come to court at the king's place
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Ghost-head radical, entry for wei (to dread; a ghost's head and a tiger's claws)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Entry for xian (to advance forward)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Foot radical, entry for the old form of qian (to advance without walking: a foot on a boat)
 - [Glossary · xian-hou](<../glossary/xian-hou-%E5%85%88%E5%BE%8C.md>) · Step radical, entry for hou (late, slow)
@@ -454,6 +467,7 @@ Recorded as evidence.
 
 Recorded as evidence.
 
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Old Chinese readings of wei (to fear) and wei (authority)
 - [Glossary · zhi](<../glossary/zhi-%E6%99%BA.md>) · Reconstructions for zhi (to know) and zhi (knowing)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
@@ -485,6 +499,8 @@ Recorded as evidence.
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for jun: oracle and bronze forms; yin as sound and meaning, kou as meaning; the Shuowen's ancient form picturing the ruler seated](<https://www.dong-chinese.com/wiki/%E5%90%9B>)
 - [Glossary · jun](<../glossary/jun-%E5%90%9B.md>) · [Entry for yin: a hand holding a staff, held by people in authority; the Shuowen's to govern, the one who grips affairs](<https://www.dong-chinese.com/wiki/%E5%B0%B9>)
 - [Glossary · ruo](<../glossary/ruo-%E5%BC%B1.md>) · [Entry for ruo (yielding), graph history](<https://www.dong-chinese.com/wiki/%E5%BC%B1>)
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · [Entry for wei (authority): a weapon and a woman; Old Chinese *ʔuj](<https://www.dong-chinese.com/wiki/%E5%A8%81>)
+- [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · [Entry for wei: a ghost wielding a stick, the ghost also the sound; oracle and early Western Zhou bronze forms; Old Chinese *ʔuj-s](<https://www.dong-chinese.com/wiki/%E7%95%8F>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
 
 <a name="guodian-secondary-transcription"></a>

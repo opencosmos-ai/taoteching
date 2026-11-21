@@ -127,7 +127,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 固,gù,firm / indeed / at first (36),,固,exact,囗,phonetic-compound,,"囗 (wéi = an enclosure, a boundary)",古 (gǔ = ancient / the ancients),8,,0.056,四塞也。从囗古聲。,
 美,měi,beauty / fine / pretty / glorify,,美,exact,羊,compound,,"羊 (yáng = a sheep) + 大 (dà = great — large where the scale is physical or political, greater in comparatives, master of a craftsman)",,9,,0.0552,甘也。从羊从大。羊在六畜主給膳也。美與善同意。,
 樂,lè,"gladly / delight in / pleasure / music (35, yuè)",,樂,exact,木,pictograph,,,,8,,0.055,五聲八音緫名。象鼓鞞。木，虡也。,
-畏,wèi,fear / wary of (15),,畏,exact,甶,compound,,甶 (? = not yet glossed),,8,,0.0548,惡也。从甶，虎省。鬼頭而虎爪，可畏也。,
+畏,wèi,fear,fear,畏,exact,甶,compound,,甶 (? = not yet glossed),,8,Tier 3,0.0548,惡也。从甶，虎省。鬼頭而虎爪，可畏也。,"To dread. From 甶 (fú — a ghost's head) and part of 虎 (hǔ — a tiger): a ghost's head with a tiger's claws, a thing to dread."
 百,bǎi,hundred / everyone (百姓),,百,exact,𪞶,compound,,"一 (yī = the one (lowercase) · plain numeral where it counts) + 白 (bái = white / clarity (明白, 10))",,7,Tier 3,0.0547,十十也。从一、白。數，十百爲一貫。相章也。,
 主,zhǔ,master,master,主,exact,丶,phonetic-compound,,"丶 (zhǔ = a mark, a point)","丶 (zhǔ = a mark, a point)",6,Tier 3,0.0545,鐙中火主也。从{{?,"The flame at the center of a lamp. From the lamp's shape; from 丶 (zhǔ — a dot), which also gives the sound."
 出,chū,"go out, leave / arise / emerge / yield (5)",,出,exact,出,pictograph,,,,7,,0.0545,進也。象艸木益滋，上出達也。凡出之屬皆从出。,
@@ -176,7 +176,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 牝,pìn,the female,the female,牝,exact,牛,phonetic-compound,,牛 (niú = an ox),"匕 (bǐ = a spoon, a ladle)",5,locked,0.0384,畜母也。从牛匕聲。易曰：“畜牝牛，吉。”,"The mother among livestock. From 牛 (niú — cattle), with 匕 (bǐ) as its sound. The Changes says: 'Rearing a cow brings good fortune.'"
 遠,yuǎn,far,,遠,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",袁 (? = not yet glossed),5,,0.0382,遼也。从辵袁聲。,
 害,hài,harm / hinder (66),,害,exact,宀,phonetic-compound,,宀 (mián = a roof; under a house) + 口 (kǒu = mouths),丯 (? = not yet glossed),5,,0.038,傷也。从宀从口。宀、口，言从家起也。丯聲。,
-殆,dài,danger,,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,,0.038,危也。从歺台聲。,
+殆,dài,danger,danger,殆,exact,歺,phonetic-compound,,"歺 (è = splintered bone — death, decay)",台 (? = not yet glossed),5,Tier 3,0.038,危也。从歺台聲。,"Danger. From 歺 (è — splintered bone), with 台 (tái) for sound."
 門,mén,gate / door,,門,exact,門,compound,,二 (èr = two / second (67)) + 戶 (hù = doors),,5,,0.038,聞也。从二戶。象形。凡門之屬皆从門。,
 堅,jiān,hard,,堅,exact,臤,compound,,"臤 (? = not yet glossed) + 土 (tǔ = dirt, earth)",,4,,0.0371,剛也。从臤从土。,
 保,bǎo,keep safe,keep safe,保,exact,人,compound,,"人 (rén = people / others / person (聖人, sage)) + 𤓽 (? = not yet glossed)",,4,locked,0.0369,養也。从人，从𤓽省。𤓽，古文孚。,

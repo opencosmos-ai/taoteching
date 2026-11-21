@@ -519,6 +519,16 @@
   # covers 直 -> true
   # covers 屈 -> bent
 
+- term: "畏"
+  pinyin: "wèi"
+  render: "fear"
+  forbidden: [" awe", "reverence", "revere", "dread"]
+  chapters: [15, 17, 20, 53, 72, 74]
+  status: locked
+  entry: glossary/wei-畏.md
+  flexions:
+    - { english: "wary", chapters: [15], why: "a likeness, not a threat met: the neighbors watch, or close in, and the English keeps the watching without naming them the danger" }
+
 - term: "眾"
   pinyin: "zhòng"
   render: "the crowd / the many"
@@ -565,6 +575,14 @@
   entry: glossary/ji-極.md
   flexions:
     - { english: "the endless", chapters: [28], why: "the compound 無極, where the negation turns the limit into its absence" }
+
+- term: "殆"
+  pinyin: "dài"
+  render: "danger"
+  forbidden: ["depletion", "deplete", "exhaust", "inexhaustible", "peril"]
+  chapters: [16, 25, 32, 44, 52]
+  status: locked
+  entry: glossary/dai-殆.md
 
 - term: "母"
   pinyin: "mǔ"
