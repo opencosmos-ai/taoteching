@@ -7,8 +7,6 @@ forbidden: ["duke", "equanimity", "justice"]
 chapters: [16, 42, 62]
 status: locked
 pairing: false
-covers:
-  - { char: "私", render: "the private / the private self" }
 refs_status: incomplete
 ---
 ## 公 (Gōng) — Impartiality
@@ -51,7 +49,7 @@ Laozi does not use 公 and 私 in one line, but he uses 私 where it counts, and
 > Ch 7 · 天地所以能長且久者，以其不自生 … 非以其**無私**邪？故能成其**私**。
 > *"Sky and earth can last and endure because they do not live for themselves … Is it not because they have no private self? And so they can complete their private self."*
 
-That is 公 stated as a paradox: the self is completed by facing away from it. And Ch 19 gives the instruction in four characters — 少**私**寡欲, *"reduce the private, diminish desire"* — where 私 sits beside 欲 (*yù* — desire) as one of the two things to thin out.
+That is 公 stated as a paradox: the self is completed by facing away from it. And Ch 19 gives the instruction in four characters — 少**私**寡欲, *"diminish the private self, diminish desire"* — where 私 sits beside 欲 (*yù* — desire) as one of the two things to thin out. 私 has its own entry, `glossary/si-私.md`.
 
 ### The office, and the judgment hidden in it
 
@@ -100,4 +98,4 @@ And in Chapter 62 the manuscripts hand us an argument. Where the received text r
 
 Whether that is worth a translator's note in the finished edition, or whether the loss should simply be borne, is not settled here.
 
-**And 私 has its own drift.** It reads *"private self"* at Ch 7 and *"the self"* at Ch 19. Chapter 7's paradox, 故能成其私, *"and so they can complete their private self,"* keeps one English for both halves, the self emptied and the self completed. 私 may want an entry of its own rather than shelter under this one.
+**私 has its own entry since 2026-11-20**, `glossary/si-私.md`: *the private self* in all three of its lines, chapter 19 included (Shalom's call).

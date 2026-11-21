@@ -3,7 +3,7 @@
 
 The catalogue contains 62 sources. 5 have material in this repository. 36 of 234 recorded witness readings await checks in print.
 
-Citation recovery is incomplete in 88 of 104 glossary entries. Glossary links show the citations recorded so far.
+Citation recovery is incomplete in 88 of 105 glossary entries. Glossary links show the citations recorded so far.
 
 The excavated readings here are individual facts. A qualifying transcription can be admitted under the [source policy](PROVENANCE.md#excavated).
 
@@ -174,6 +174,7 @@ Stored in this repository.
 - [Glossary · ren](<../glossary/ren-%E4%BB%81.md>) · Explaining Laozi, on chapter 38: duty as what is fitting between ruler and minister, father and son; duty as humaneness's business, ritual as duty's pattern
 - [Glossary · shen-ling](<../glossary/shen-ling-%E7%A5%9E%E9%9D%88.md>) · Explaining Laozi, on chapter 60
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Explaining Laozi, on chapter 59: able to steer the countless things, in war one easily overcomes the enemy
+- [Glossary · si](<../glossary/si-%E7%A7%81.md>) · The Five Vermin: when Cangjie made writing, what encircles itself he called si, and what turns its back on si he called gong
 - [Glossary · yu](<../glossary/yu-%E9%A4%98.md>) · Explaining Laozi, on chapter 54: the households with more than enough grow more numerous
 - Apparatus chapters [1](<../chapters/001.md>), [36](<../chapters/036.md>), [38](<../chapters/038.md>), [50](<../chapters/050.md>), [53](<../chapters/053.md>), [54](<../chapters/054.md>), [58](<../chapters/058.md>), [60](<../chapters/060.md>), [64](<../chapters/064.md>), [67](<../chapters/067.md>) · [manuscript decisions](<../notes/manuscript.md>)
 - [Admission policy](<../sources/PROVENANCE.md#the-admission-rules>)
@@ -238,6 +239,7 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Chapter 76, a strong army that bullies the world cannot win
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 33, though they die, the Tao by which they lived does not vanish
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 50, emerging from the ground of life and entering the ground of death; three in ten; no deadly ground
+- [Glossary · si](<../glossary/si-%E7%A7%81.md>) · Chapter 7, having no private self is not acting for oneself; the body comes first and survives, so they complete their private self
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 15, the four neighbors joining to attack the ruler at the center, who hesitates and does not know which way to turn
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 17, no longer able to move things by kindness, relying on authority
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 20, fearing praise and advancing is no different from fearing punishment; what people fear, I fear too
@@ -361,6 +363,8 @@ Stored in this repository.
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 74, harsh punishment, and a people who cannot bear to live
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 75, seeking life too richly, they enter deadly ground lightly
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Chapter 76, at death the harmonious breath is spent
+- [Glossary · si](<../glossary/si-%E7%A7%81.md>) · Chapter 19, to diminish the private self is precisely to have no private self; to want little is to know enough
+- [Glossary · si](<../glossary/si-%E7%A7%81.md>) · Chapter 7, loved by people and protected by the spirits: is it not brought about by impartiality and no private self?
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 15, like someone who has broken the law, afraid the four neighbors will find out; like a guest who fears the host
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 17, setting up punishments and laws to govern them
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Chapter 74, punishments cruel and deep, the people have nothing to live on, and so do not fear death
@@ -461,6 +465,7 @@ Stored in this repository.
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Entry for li (sinew, picturing a person's sinews)
 - [Glossary · sheng](<../glossary/sheng-%E5%8B%9D.md>) · Strength radical, entry for sheng (to bear a load)
 - [Glossary · si](<../glossary/si-%E6%AD%BB.md>) · Entry for si (to run dry, what a person parts from)
+- [Glossary · si](<../glossary/si-%E7%A7%81.md>) · Grain radical, entry for si (a grain; from he, with si for sound; the northern name for the owner of the grain)
 - [Glossary · wang](<../glossary/wang-%E7%8E%8B.md>) · King radical, entry for wang (that to which the world returns and goes), with Dong Zhongshu's three strokes
 - [Glossary · wang](<../glossary/wang-%E7%8E%8B.md>) · Man radical, entry for hou (the target shot at the spring feast), with the archers' curse on the lords who do not come to court at the king's place
 - [Glossary · wei](<../glossary/wei-%E7%95%8F.md>) · Ghost-head radical, entry for wei (to dread; a ghost's head and a tiger's claws)

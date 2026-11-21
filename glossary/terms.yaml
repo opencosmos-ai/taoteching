@@ -719,7 +719,6 @@
   chapters: [16, 42, 62]
   status: locked
   entry: glossary/gong-公.md
-  # covers 私 -> the private / the private self
 
 - term: "凶 & 吉"
   pinyin: "xiōng / jí"
@@ -901,6 +900,14 @@
   chapters: [21, 42]
   status: locked
   entry: glossary/fu-父.md
+
+- term: "私"
+  pinyin: "sī"
+  render: "the private self"
+  forbidden: ["selfish", "selfless", "ego"]
+  chapters: [7, 19]
+  status: locked
+  entry: glossary/si-私.md
 
 - term: "精"
   pinyin: "jīng"

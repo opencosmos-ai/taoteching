@@ -530,6 +530,12 @@ Four entries were written together (`xin-信.md`, `jing-精.md`, `qi-器.md`, `z
 
 **The book yields 志 at ch 3 and praises having it at ch 33**, and only one word lets a reader see that a yielded will is not no will: *"teaching their will to yield"*, *"One who walks with strength has will."* Wang Bi links them (心虛則志弱 at 3; 其志必獲 at 33). **At ch 31 Shalom heard *"get their will"* as wrong: will is the drive, not the result.** 得志 is the idiom for an aim reached, so *"cannot achieve their aims in the world"*, with 得 (*dé*) taking *achieve* as a flexion. *Have their way* and *what they want* were declined as 道's and 欲's words. Cost: ch 33's *has will* is stiffer than *has purpose*.
 
+### Ch 7, 19 · 私 → "the private self", in all three lines
+
+*2026-11-20, Shalom's call. `glossary/si-私.md`.* *(was: "diminish the self" at 19.)*
+
+**Ch 19's *the self* borrowed the lock of 我吾 (*wǒ wú*)**, in a chapter that holds neither, and lost the curl 私 is: the self that encircles itself (Han Fei). Now *"diminish the private self, diminish desire,"* with ch 7's *no private self* and *complete their private self*. Heshang Gong ties the chapters together: 少私者，正無私也 (*"to diminish the private self is precisely to have no private self"*). 私 moves out of 公's covers into its own entry. Cost: the close's even rhythm.
+
 ## Chapter notes
 
 ### Ch 1

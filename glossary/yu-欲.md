@@ -61,7 +61,7 @@ The lines sort cleanly by what follows the character.
 >
 > — chapter 57
 
-Also chapter 3's 常使民無知無欲 (*"so the people are ever unknowing, ever desireless"*), chapter 19's 少私寡欲 (*"diminish the self, diminish desire"*), chapter 34's 常無欲 (*"ever desireless, it can be named small"*), and the second and third 欲 of chapter 37.
+Also chapter 3's 常使民無知無欲 (*"so the people are ever unknowing, ever desireless"*), chapter 19's 少私寡欲 (*"diminish the private self, diminish desire"*), chapter 34's 常無欲 (*"ever desireless, it can be named small"*), and the second and third 欲 of chapter 37.
 
 **With a verb after it, 欲 is wanting to do something, and the English is *want*.**
 

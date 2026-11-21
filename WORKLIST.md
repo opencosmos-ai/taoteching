@@ -14,7 +14,7 @@
 
 **The relevance queue is empty.** Its last term, 君 (*jūn* — ruler), locked 2026-11-20 (`glossary/jun-君.md`), and moved 王 (*wáng*) to *sovereign* on the way; 主 (*zhǔ*) followed as *master*, and *lord* left the book (Shalom's calls). **The entries still owed now live in their own rows**, and the next round takes them by how much meaning each one holds open:
 
-1. The remaining entry rows: **T2-17 · 私 (*sī* — private)**, **T2-32 · 口 (*kǒu* — mouth)**. One entry at a time with `process/skills/glossary-entry`; before each, run `concordance.py` on the character, since *covered* means it already has a home.
+1. The last entry row: **T2-32 · 口 (*kǒu* — mouth)**. One entry at a time with `process/skills/glossary-entry`; before each, run `concordance.py` on the character, since *covered* means it already has a home.
 2. **T2-62** — the smaller findings from the gloss pass, whenever a chapter they touch is open.
 3. **T5-29** — record the day's relocks (王, 君, 主, 公) on the I Ching side, a PR in that repository.
 
@@ -26,7 +26,7 @@
 
 ## The list
 
-**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **40 item rows: 36 open · 0 done · 4 part done · 0 deferred.**
+**⬜ open · 🔶 part done · ⏸ deferred by Shalom.** **Pass:** E entries and sweeps · F calls for Shalom · G the harness. **39 item rows: 35 open · 0 done · 4 part done · 0 deferred.**
 
 | # | | Item | Ch | Pass |
 |---|---|---|---|---|
@@ -36,7 +36,6 @@
 | PG | ⬜ | **The harness** — the G rows below, and `build.py` | — | G |
 | | | **Tier 1 · Wrong, not merely inconsistent** — the meaning changed; most need one line rewritten, so each goes to Shalom first | | |
 | | | **Tier 2 · One character, many Englishes** | | |
-| T2-17 | ⬜ | **私** (*sī* — private) — *private self* (7) / *the self* (19), sheltering under 公's `covers:`. Ch 19's is arguably right in place, but 私 may want its own entry rather than a `covers:` line | 7 19 | E |
 | T2-24 | 🔶 | **淵** (*yuān* — deep water) — ch 36 reads **deep water** (說文 回水也…左右，岸也: circling water, banks left and right). Open: whether ch 4's *fathomless* and ch 8's *staying deep* (心善淵) join it. *pool* rejected as chlorinated; *the depths* fails the pointing test | 4 8 | E |
 | T2-32 | ⬜ | **口** → *palate* at ch 12, picking eating over speech. 口 occurs twice; ch 35 now reads *mouth*, which does both | 12 35 | E |
 | T2-48 | ⬜ | **`glossary/da-大.md` owes an adverbial flexion.** 大笑之 (41) reads *laugh **aloud***, which the entry's licensed list (*large · greater · master*) does not cover. Also unresolved there: whether the 大▢若▢ frame wants a superlative — ch 41's 大白 now takes one as a recorded exception, and 41 and 45 must be decided together. Both can use `flexions:` | 41 45 + glossary | E |

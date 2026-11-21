@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**104 entries.** Sorted by how much of the book each term touches.
+**105 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -107,6 +107,7 @@ python3 tools/build_index.py
 | **廣** | *guǎng* | broad · breadth (as a noun) | "boundless", "limitless", "vast", "expansive", "reach far" | 2 | **locked** | [`guang-廣.md`](guang-廣.md) |
 | **水** | *shuǐ* | water | "element", "liquid", "fluid" | 2 | **locked** · binds taoteching only | [`shui-水.md`](shui-水.md) |
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
+| **私** | *sī* | the private self | "selfish", "selfless", "ego" | 2 | **locked** | [`si-私.md`](si-私.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
 | **儉** | *jiǎn* | frugality | "economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation" | 1 | **locked** | [`jian-儉.md`](jian-儉.md) |
@@ -148,7 +149,6 @@ python3 tools/build_index.py
 | **物** | things / something | [`wanwu-萬物.md`](wanwu-萬物.md) — 萬物 |
 | **用** | use | [`wu-you-無有.md`](wu-you-無有.md) — 無 & 有 |
 | **直** | true | [`zheng-qi-正奇.md`](zheng-qi-正奇.md) — 正 & 奇 |
-| **私** | the private / the private self | [`gong-公.md`](gong-公.md) — 公 |
 | **罪** | crime | [`huo-fu-禍福.md`](huo-fu-禍福.md) — 禍 & 福 |
 | **義** | duty | [`ren-仁.md`](ren-仁.md) — 仁 |
 | **能** | be able | [`ke-可.md`](ke-可.md) — 可 |

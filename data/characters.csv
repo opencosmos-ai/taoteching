@@ -316,7 +316,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 真,zhēn,real / truth / authentic,word,,,,,3,3,"21,41,54",21,54,0.57,
 矜,jīn,boast / pride oneself (自矜),word,,,,,3,3,"22,24,30",22,30,0.57,
 福,fú,fortune,locked,,fortune,locked,bless; luck; misfortune; calamity; woe,3,2,"58,65",58,65,0.57,glossary/huo-fu-禍福.md
-私,sī,the private / the private self,covers,,the private / the private self,locked,,3,2,"7,19",7,19,0.57,glossary/gong-公.md
+私,sī,the private self,locked,,the private self,locked,selfish; selfless; ego,3,2,"7,19",7,19,0.57,glossary/si-私.md
 積,jī,accumulate / hoard (81),word,,,,,3,2,"59,81",59,81,0.57,
 立,lì,stand / raise up (62),word,,,,,3,3,"24,25,62",24,62,0.57,
 精,jīng,vital essence / essence,locked,,vital essence / essence,locked,primordial mass; soul; spirit; energy,3,2,"21,55",21,55,0.57,glossary/jing-精.md
