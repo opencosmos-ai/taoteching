@@ -81,7 +81,7 @@ The line is about a person, 善抱者 (*shàn bào zhě* — "one masterful at e
 
 ### What is set aside
 
-**"Leave."** Already worn, by three characters with better claims to it: 去 (*qù* — to go away) at chapter 2, *"does it not leave"*; 離 (*lí* — to part from) at chapter 28, *"never leaves you"*; and 遺 (*yí* — to leave behind) at chapters 9 and 52. A word already spoken for is not available (`process/principles/already-spoken-for.md`). It also says the wrong thing at chapter 54, where *does not leave* sounds like staying put, not holding fast.
+**"Leave."** It is 遺 (*yí* — to leave behind)'s English, at chapters 9 and 52, and a word already spoken for is not available (`process/principles/already-spoken-for.md`). 去 (*qù* — to go away) reads *fade away* (2, 21) and 離 (*lí* — to separate) *separate from* (26, 28), so the book's *leave* is one character's. It also says the wrong thing at chapter 54, where *does not leave* sounds like staying put, not holding fast.
 
 **"Escape."** It makes the deep a prison. The fish's water is where it lives, and every commentator reads leaving it as loss.
 

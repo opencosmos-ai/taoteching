@@ -145,7 +145,7 @@ In both readings *rǔ* is the valley's company, and in neither is the valley ash
 
 **The ravine stands in one chapter, twice.** Chapter 28's first stanza reads 知其雄，守其雌，為天下谿 (*zhī qí xióng, shǒu qí cí, wéi tiān xià xī* — "know the rooster, hold to the hen, serve as the world's ravine"). Its third stanza reads 為天下谷 (*wéi tiān xià gǔ* — "serve as the world's valley"). The chapter sets the closed watercourse and the open one in the same template, and the English keeps them apart with two words. It cannot keep the Shuowen's reason for the difference, which is the outlet, and so this section exists.
 
-**The stanzas may answer each other.** The ravine's line ends 常德不離 (*cháng dé bù lí* — "the ever-present integrity never leaves you"): nothing leaves a watercourse with no outlet. The valley's ends 常德乃足 (*cháng dé nǎi zú* — "the ever-present integrity is enough at last"). Wang Bi on the ravine: 谿不求物而物自歸之, *"the ravine does not seek things, and things come to it of themselves."* That fit may be an accident of the template. It is a reason to look, and not yet a reason to conclude.
+**The stanzas may answer each other.** The ravine's line ends 常德不離 (*cháng dé bù lí* — "the ever-present integrity never separates from you"): nothing gets out of a watercourse with no outlet. The valley's ends 常德乃足 (*cháng dé nǎi zú* — "the ever-present integrity is enough at last"). Wang Bi on the ravine: 谿不求物而物自歸之, *"the ravine does not seek things, and things come to it of themselves."* That fit may be an accident of the template. It is a reason to look, and not yet a reason to conclude.
 
 ### What is set aside
 

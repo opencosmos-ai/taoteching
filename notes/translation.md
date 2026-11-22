@@ -2221,6 +2221,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
 
+### *Leave*, one character's: 遺; 去 → "fade away," 離 → "separate from," 出戶 → "going out your door"
+
+*(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. Still open: ch 20's 若遺 reads *"missed out"*; ch 27's supplied *leaves no tracks / no flaw*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
+
 ### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "slip away"
 
 *(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal. 脫 → *slip away* at 36 and 54, locked the same day (`glossary/tuo-脫.md`): intransitive, no agent, a going-out from a hold. *Depart* is 逝's at 25, and *leave* is worn by 去, 離 and 遺. R6 minor; `chapters/054.md` → Notes.

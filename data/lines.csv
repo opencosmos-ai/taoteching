@@ -19,7 +19,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 2,9,2,生而弗有，,"shēng ér fú yǒu,",they are born and the Sage does not possess;,"The sage births them, and does not possess them;",authored
 2,10,2,為而弗恃，,"wéi ér fú shì,",they act and the Sage does not rely;,"acts, and does not rely on it.",authored
 2,11,2,功成而弗居。,gōng chéng ér fú jū.,work is accomplished and the Sage takes no credit.,"The work is complete, and the sage does not stay in it.",authored
-2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not leave.,authored
+2,12,2,夫唯弗居，是以不去。,"Fú wéi fú jū, shì yǐ bù qù.","Because the Sage takes no credit, it does not depart.",Only because the sage does not stay does it not fade away.,authored
 3,1,1,不尚賢，使民不爭；,"Bù shàng xián, shǐ mín bù zhēng;","Do not exalt the talented, so that people do not contend;","When the exceptional are not exalted, the people do not contend.",exact-count
 3,2,1,不貴難得之貨，使民不為盜；,"bù guì nán dé zhī huò, shǐ mín bù wéi dào;","do not prize rare goods, so that people do not steal;","When rare goods are not prized, the people do not become thieves.",exact-count
 3,3,1,不見可欲，使民心不亂。,"bù jiàn kě yù, shǐ mín xīn bù luàn.","do not show what is desirable, so that people's hearts are not confused.","When the desirable is not displayed, the people's hearts are not thrown into disorder.",exact-count
@@ -240,7 +240,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 21,6,2,恍兮惚兮，其中有物。,"Huǎng xī hū xī, qí zhōng yǒu wù.","Elusive \[huang\] oh \[xi\] evasive \[hu\] oh \[xi\], within its center \[qi zhong\] there is \[you\] a physical entity/matter \[wu\].","Vague and elusive, and within it there is a thing.",authored
 21,7,2,窈兮冥兮，其中有精；,"Yǎo xī míng xī, qí zhōng yǒu jīng;","Deep/dark \[yao\] oh \[xi\] obscure/dim \[ming\] oh \[xi\], within its center \[qi zhong\] there is \[you\] vital essence/primordial mass \[jing\];","Deep and dim, and within it there is vital essence.",authored
 21,8,2,其精甚真，其中有信。,"Qí jīng shèn zhēn, qí zhōng yǒu xìn.","Its \[qi\] essence \[jing\] is very \[shen\] real/true \[zhen\], within its center \[qi zhong\] there is \[you\] reliability/trust \[xin\].","Its essence utterly real, and within it there is trust.",authored
-21,9,3,自古及今，其名不去，,"Zì gǔ jí jīn, qí míng bù qù,","From \[zi\] ancient times \[gu\] until \[ji\] today/present \[jin\], its \[qi\] name/ledger \[ming\] does not \[bu\] go away/erase \[qu\],","From ancient times until today, the Tao's name has never been erased.",authored
+21,9,3,自古及今，其名不去，,"Zì gǔ jí jīn, qí míng bù qù,","From \[zi\] ancient times \[gu\] until \[ji\] today/present \[jin\], its \[qi\] name/ledger \[ming\] does not \[bu\] go away/erase \[qu\],","From ancient times until today, the Tao's name has never faded away.",authored
 21,10,3,以閱眾甫。,Yǐ yuè zhòng fǔ.,In order to \[yi\] inspect/review \[yue\] the origin/father \[fu\] of the multitudes \[zhong\].,"In this name, I observe the father of the many.",authored
 21,11,3,吾何以知眾甫之狀哉？,Wú hé yǐ zhī zhòng fǔ zhī zhuàng zāi?,How do I \[wu he yi\] know \[zhi\] the condition/shape \[zhuang\] of the father of the multitudes \[zhong fu\] alas \[zai\]?,How do I know the father of the many is so? By this.,authored
 21,12,3,以此。,Yǐ cǐ.,By \[yi\] this \[ci\].,How do I know the father of the many is so? By this.,authored
@@ -310,7 +310,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 25,19,5,道法自然。,Dào fǎ zì rán.,The Tao \[dao\] models/follows the law of \[fa\] spontaneous autonomy/self-so \[zi ran\].,The Tao models itself on being what it is.,authored
 26,1,1,重為輕根，,"Zhòng wéi qīng gēn,","Heavy/mass \[zhong\] functions as/is \[wei\] the root \[gen\] of the light/weightless \[qing\],",The heavy is the root of the light.,authored
 26,2,1,靜為躁君。,Jìng wéi zào jūn.,Stillness \[jing\] functions as/is \[wei\] the ruler \[jun\] of the restless \[zao\].,Stillness is the ruler of the restless.,authored
-26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without leaving the heavy wagons.",authored
+26,3,2,是以君子終日行不離輜重。,Shì yǐ jūn zǐ zhōng rì xíng bù lí zī zhòng.,Therefore \[shi yi\] the noble person/sage \[jun zi\] all \[zhong\] day \[ri\] travels \[xing\] not \[bu\] leaving/separating from \[li\] the heavy baggage train/supply lines \[zi zhong\].,"Therefore, the noble travels all day without separating from the heavy wagons.",authored
 26,4,2,雖有榮觀，,"Suī yǒu róng guān,","Even though \[sui\] there are \[you\] glorious \[rong\] sights/views \[guan\],","Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,5,2,燕處超然。,Yàn chǔ chāo rán.,Peacefully \[yan\] dwelling \[chu\] detached/transcendent \[chao ran\].,"Even where the sights are glorious, they dwell at ease and stay apart.",authored
 26,6,3,奈何萬乘之主，,"Nài hé wàn shèng zhī zhǔ,","How could \[nai he\] ten thousand \[wan\] chariots' \[sheng zhi\] lord/master \[zhu\],",How can the master of ten thousand chariots,authored
@@ -337,7 +337,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 27,18,4,是謂要妙。,shì wèi yào miào.,this \[shi\] is called \[wei\] the crucial/essential \[yao\] subtle/fine \[miao\].,This is called the essential subtlety.,authored
 28,1,1,知其雄，守其雌，,"Zhī qí xióng, shǒu qí cí,","Knowing \[zhi\] the/its \[qi\] rooster \[xiong\], guarding/holding \[shou\] the/its \[qi\] hen \[ci\],","Know the rooster, hold to the hen,",exact-count
 28,2,1,為天下谿。,wéi tiān xià xī.,functioning as/being \[wei\] the world's \[tian xia\] ravine/funnel \[xi\].,serve as the world's ravine.,exact-count
-28,3,1,為天下谿，常德不離，,"Wéi tiān xià xī, cháng dé bù lí,","Functioning as \[wei\] the world's \[tian xia\] ravine \[xi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] leave/depart \[li\],","Serve as the world's ravine, and the ever-present integrity never leaves you,",exact-count
+28,3,1,為天下谿，常德不離，,"Wéi tiān xià xī, cháng dé bù lí,","Functioning as \[wei\] the world's \[tian xia\] ravine \[xi\], constant/eternal \[chang\] virtue/capacity \[de\] does not \[bu\] leave/depart \[li\],","Serve as the world's ravine, and the ever-present integrity never separates from you,",exact-count
 28,4,1,復歸於嬰兒。,fù guī yú yīng ér.,reverting/returning \[fu gui\] to \[yu\] the infant/unformatted state \[ying er\].,and you return to the infant.,exact-count
 28,5,2,知其白，守其黑，,"Zhī qí bái, shǒu qí hēi,","Knowing \[zhi\] the/its \[qi\] white/light \[bai\], guarding/holding \[shou\] the/its \[qi\] black/dark \[hei\],","Know the white, hold to the black,",exact-count
 28,6,2,為天下式。,wéi tiān xià shì.,functioning as/being \[wei\] the world's \[tian xia\] model/pattern \[shi\].,serve as the world's pattern.,exact-count
@@ -530,7 +530,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 46,3,2,禍莫大於不知足；,Huò mò dà yú bù zhī zú;,There is no disaster greater than not knowing sufficiency.,"There is no greater disaster than not knowing you have enough,",exact-count
 46,4,2,咎莫大於欲得。,Jiù mò dà yú yù dé.,There is no fault/flaw greater than the desire to acquire.,no greater fault than wanting to get.,exact-count
 46,5,2,故知足之足，常足矣。,"Gù zhī zú zhī zú, cháng zú yǐ.","Therefore, the sufficiency of knowing sufficiency is eternally sufficient.",And so the contentment of knowing you have enough is ever-present contentment.,exact-count
-47,1,1,不出戶，知天下；,"Bù chū hù, zhī tiān xià;","Without going out the door, one can know the world;","Without leaving home, you know the whole world.",authored
+47,1,1,不出戶，知天下；,"Bù chū hù, zhī tiān xià;","Without going out the door, one can know the world;","Without going out your door, you know the whole world.",authored
 47,2,1,不闚牖，見天道。,"Bù kuī yǒu, jiàn tiān dào.","Without looking through the window, one can see the Tao of heaven.","Without looking out the window, you see the way of nature.",authored
 47,3,1,其出彌遠，其知彌少。,"Qí chū mí yuǎn, qí zhī mí shǎo.","The further one goes out, the less one knows.","The further out you venture, the less you know.",authored
 47,4,2,是以聖人不行而知，,"Shì yǐ shèng rén bù xíng ér zhī,","Therefore the Sage knows without traveling,","Therefore, the sage knows without venturing,",authored
