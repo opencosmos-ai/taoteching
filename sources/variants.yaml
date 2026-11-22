@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 130
+# next-fork-id: 131
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -2063,6 +2063,32 @@
     the next line, 兩不相傷, on the couplet's symmetry, which needs the same
     object in both clauses. The fork stays evidence that the distinction was
     live in the oldest witness. glossary/min-民.md.
+  logged: notes/manuscript.md
+
+- chapter: 50
+  id: 130
+  line: "入軍不被甲兵"
+  base: "被"
+  base_pinyin: "bèi"
+  base_english: "be reached by"
+  readings:
+    - { source: "hanfeizi", text: "備", pinyin: "bèi", english: "be equipped with" }
+    - { source: "heshanggong", text: "避", pinyin: "bì", english: "avoid" }
+  meaning_bearing: true
+  our_call: hanfeizi
+  note: >
+    Han Fei, the oldest witness to this chapter (Guodian does not attest it),
+    reads 入軍不備甲兵: enters an army without armor or weapons. Unarmed, not
+    untouchable: 重生者，雖入軍無忿爭之心；無忿爭之心，則無所用救害之備 (one
+    who values life has no anger or contention even in the army, and so no
+    use for defenses). Our base reads 被, "is not reached by," and Wang Bi's
+    comment reads it so, 雖入軍而不害 (though entering the army, not harmed);
+    his printed lemma has an unencoded glyph here. Heshang Gong's lemma reads
+    避, "does not avoid," glossed 不好戰以殺人 (does not love war for killing).
+    Followed 2026-11-21, Shalom's call, by the tie-break order: oldest witness
+    first. Verse: "and enters into battle without armor or weapons." The base
+    text and the Source table keep 被; only the verse follows Han Fei. The
+    Mawangdui silks' reading of this line is not yet in the apparatus.
   logged: notes/manuscript.md
 
 - chapter: 50
