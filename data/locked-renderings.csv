@@ -1322,14 +1322,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
-57,1,國,guó,國,state,yes,1.0,exact-count,"Govern the state with the straight,"
-57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"Govern the state with the straight,"
-57,1,治,zhì,治,govern,yes,1.0,exact-count,"Govern the state with the straight,"
-57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"wage war with the crooked,"
-57,2,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"wage war with the crooked,"
-57,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,and win over the world by not meddling.
-57,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,and win over the world by not meddling.
-57,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,and win over the world by not meddling.
+57,1,國,guó,國,state,yes,1.0,exact-count,"With the straight, the state is governed;"
+57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"With the straight, the state is governed;"
+57,1,治,zhì,治,govern,yes,1.0,exact-count,"With the straight, the state is governed;"
+57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"with the crooked, war is waged;"
+57,2,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"with the crooked, war is waged;"
+57,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
+57,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
+57,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
 57,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,How do I know it is so? By this:
 57,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."

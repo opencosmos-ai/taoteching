@@ -130,6 +130,8 @@ The English: *"Govern the state with uprightness, / wage war with surprise, / an
 
 **This touches only the mood and the added *and*, never the words for 正 / 奇 (*zhèng / qí* — straight / crooked), which Shalom has deferred.** So it does not belong in a chapter review. **It rides with T4-2** as evidence when that opens.
 
+**Done, 2026-11-21 (Shalom's call),** after T4-2 closed: *"With the straight, the state is governed; / with the crooked, war is waged; / by not meddling, the world is won over."* Descriptions, each line opening on its 以 (*yǐ* — with), no added *and*; the words unchanged. `chapters/057.md` → Notes.
+
 **9 · Ch 58 · 其民缺缺 (*qí mín quē quē* — "its people are lacking, broken") → *"the people turn cunning."***
 
 The English makes the people the culprits; the Chinese makes them the casualties. Neither commentator reads craft into the word:
@@ -210,7 +212,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 **Ch 13 and 22 are rewrites with the evidence above.** Ch 13's note needs correcting whatever the verse does.
 
-**Ch 57 waits for T4-2, and ch 58 for T2-67.** Neither is settled here.
+**Ch 57 waits for T4-2, and ch 58 for T2-67.** Neither is settled here. *(Ch 57 done 2026-11-21, finding 8.)*
 
 **The minor table and the logged table ride with whatever next opens each chapter.** Three of the minor rows are better done as sets:
 - ch 32 with ch 37 (夫亦將 (*fū yì jiāng* — "they too will"))

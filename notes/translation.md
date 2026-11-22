@@ -2221,6 +2221,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
 
+### Ch 57 · the opening three → descriptions, 以 first
+
+*(2026-11-21, Shalom's call.)* *(was: "Govern the state with the straight, / wage war with the crooked, / and win over the world by not meddling.")* *"With the straight, the state is governed; / with the crooked, war is waged; / by not meddling, the world is won over."* Heshang Gong reads descriptions, Wang Bi reads the first two as failing; the commands endorsed all three. R6, finding 8; argument in `chapters/057.md` → Notes.
+
 ### Ch 30 · 其事好還 → "Such affairs tend to turn back"
 
 *(2026-11-19, Shalom's call.)* *(was: "Such undertakings tend to come back on you.")* The bare figure holds the recoil and the commentators' turning back. R6.
