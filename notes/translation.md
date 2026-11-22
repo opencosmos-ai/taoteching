@@ -2221,6 +2221,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
 
+### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "leave"
+
+*(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal; 脫 *leave* as at ch 36, *depart* being 逝's at 25. R6 minor; `chapters/054.md` → Notes.
+
 ### Ch 50 · 入軍不被甲兵 → "enters into battle without armor or weapons"
 
 *(2026-11-21, Shalom's call.)* *(was: "can travel… and can enter into battle untouched by armor or weapons.")* *Can* dropped twice, no 能; the verse follows Han Fei's 不備甲兵, the oldest witness, against the base's 被. Fork 130; `notes/manuscript.md` → Ch 50. R6 minor.
