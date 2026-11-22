@@ -320,7 +320,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **襲 is grave-clothes.** 說文解字: **左衽袍** — *"a robe with the lapel closed to the left."* The living close a robe right over left; **the dead are dressed left over right.** The graph is 衣 (*yī* — clothing) with 龖 abbreviated for sound, and every later sense — to double, to succeed to, to fall upon — descends from **one garment put on over another**. So 襲明 is not clarity received from ancestors. It is **clarity worn, and therefore covered.**
 
-**Which is what both chapters are about.** Ch 27 opens 善行無轍跡 (*shàn xíng wú zhé jì* — "masterful traveling leaves no tracks") and runs through five masteries that leave no mark, closing on this line; the summary says the clarity is under something. The book says it elsewhere in plain images — 被褐懷玉 (*bèi hè huái yù* — "wears coarse cloth, carries jade at the breast," ch 70) and 光而不耀 (*guāng ér bù yào* — "bright but not dazzling," ch 58). Ch 52's line closes a movement that has just said 用其光，復歸其明 — *"use the outer light, return to your inner clarity"* — the same motion of putting the shine away.
+**Which is what both chapters are about.** Ch 27 opens 善行無轍跡 (*shàn xíng wú zhé jì* — "masterful traveling, no tracks") and runs through five masteries that leave no mark, closing on this line; the summary says the clarity is under something. The book says it elsewhere in plain images — 被褐懷玉 (*bèi hè huái yù* — "wears coarse cloth, carries jade at the breast," ch 70) and 光而不耀 (*guāng ér bù yào* — "bright but not dazzling," ch 58). Ch 52's line closes a movement that has just said 用其光，復歸其明 — *"use the outer light, return to your inner clarity"* — the same motion of putting the shine away.
 
 ```
 ch 27   This is called clarity worn covered.
@@ -981,6 +981,8 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 **Retrofit closed.** This was the debt opened when Ch 62 settled 棄 → *abandon*; `WORKLIST.md` can drop it. The wider point is logged as a Thread in `notes/reading.md`: Wang Bi glosses this very line with 不造進向以殊**棄不肖** — *"does not create tracks of advancement that single out and discard **the unfit**"* — and 不肖 is Ch 62's 不善人.
 
 #### 善言無瑕謫 → "Masterful speaking leaves no flaw"
+
+*(Superseded 2026-11-22, Shalom's call: "Masterful speaking, no flaw," the four 無 lines bare and the one 不用 line with *uses*. `chapters/027.md` → Notes.)*
 
 *(Shalom's call, 2026-11-15, T3-18. Was "Masterful speaking is flawless.")*
 
@@ -2223,7 +2225,7 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 ### *Leave*, one character's: 遺; 去 → "fade away," 離 → "separate from," 出戶 → "going out your door"
 
-*(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. Still open: ch 20's 若遺 reads *"missed out"*; ch 27's supplied *leaves no tracks / no flaw*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
+*(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. **Ch 27's supplied *leaves* went too:** the four 無 (*wú* — no) lines read bare, *"Masterful traveling, no tracks,"* and only 不用 (*bù yòng* — does not use) keeps *uses*. Still open: ch 20's 若遺 reads *"missed out"*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
 
 ### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "slip away"
 
