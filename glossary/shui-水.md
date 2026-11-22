@@ -110,7 +110,7 @@ This is the yielding that the 柔 (*róu* — soft) and 弱 (*ruò* — yielding
 **Two lines print *water* for other characters, and both are licensed.** A lock is a claim in both directions, so these are named here.
 
 - **Chapter 15, *"Mixed, like muddy water."*** The character is 濁 (*zhuó* — muddy), built on 水, and the Shuowen names it as a river. English needs a noun for the adjective to describe, and *water* is it. The 清 (*qīng* — clear) entry covers 濁.
-- **Chapter 36, *"A fish cannot leave deep water."*** The character is 淵 (*yuān* — a deep pool), which the Shuowen calls 回水也 (*huí shuǐ yě* — "circling water") between two banks. *Deep water* is its English there, and its other chapters are `WORKLIST.md` T2-24.
+- **Chapter 36, *"A fish cannot slip away from deep water."*** The character is 淵 (*yuān* — a deep pool), which the Shuowen calls 回水也 (*huí shuǐ yě* — "circling water") between two banks. *Deep water* is its English there, and its other chapters are `WORKLIST.md` T2-24.
 
 Neither can be held by a rule: 水 stands in neither chapter, so the checker never looks. This entry and the reader hold it.
 

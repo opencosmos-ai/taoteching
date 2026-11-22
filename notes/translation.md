@@ -2221,9 +2221,9 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
 
-### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "leave"
+### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "slip away"
 
-*(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal; 脫 *leave* as at ch 36, *depart* being 逝's at 25. R6 minor; `chapters/054.md` → Notes.
+*(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal. 脫 → *slip away* at 36 and 54, locked the same day (`glossary/tuo-脫.md`): intransitive, no agent, a going-out from a hold. *Depart* is 逝's at 25, and *leave* is worn by 去, 離 and 遺. R6 minor; `chapters/054.md` → Notes.
 
 ### Ch 50 · 入軍不被甲兵 → "enters into battle without armor or weapons"
 

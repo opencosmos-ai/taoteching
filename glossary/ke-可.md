@@ -93,13 +93,13 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 ### Chapter 36, the hardest line
 
 > 魚不可脫於淵，國之利器不可以示人。
-> *"A fish cannot leave deep water. / A state's beneficial tools cannot be shown."*
+> *"A fish cannot slip away from deep water. / A state's beneficial tools cannot be shown."*
 
 **The two clauses are one parallel, and the English keeps it.** Both read *cannot* (Shalom's call, 2026-10-14).
 
 **Why *cannot* for both:**
 
-- **王弼 reads both halves as one consequence:** 魚脫於淵則必見失矣。利國器而立刑以示人，亦必失也 — *"a fish that leaves the deep is surely lost. To set up punishments as the state's tools and show them to people, that too is surely lost."* 亦 (*yì* — also) ties the two clauses together, and 必 makes both predictions.
+- **王弼 reads both halves as one consequence:** 魚脫於淵則必見失矣。利國器而立刑以示人，亦必失也 — *"a fish that slips away from the deep is surely lost. To set up punishments as the state's tools and show them to people, that too is surely lost."* 亦 (*yì* — also) ties the two clauses together, and 必 makes both predictions.
 - **The fish line is plainly not advice.** A fish is not forbidden to leave the water. It dies. The second line borrows the first's logic.
 - **The chapter keeps its *musts* for the four 必固 lines** (*"you must first stretch it out…"*), where 必 (*bì*) prints them.
 

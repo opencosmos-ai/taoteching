@@ -925,6 +925,14 @@
   status: locked
   entry: glossary/jing-精.md
 
+- term: "脫"
+  pinyin: "tuō"
+  render: "slip away (from)"
+  forbidden: ["leave", "escape", "come loose"]
+  chapters: [36, 54]
+  status: locked
+  entry: glossary/tuo-脫.md
+
 - term: "雌"
   pinyin: "cí"
   render: "the hen"

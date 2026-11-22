@@ -333,7 +333,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 孩,hái,smiled/giggled,,咳,old-form,口,phonetic-compound,,口 (kǒu = mouth),亥 (? = not yet glossed),2,,0.0195,小兒笑也。从口亥聲。,
 新,xīn,new / renewed (22),,新,exact,斤,phonetic-compound,,斤 (jīn = an axe),新 (xīn = new / renewed (22)),2,,0.0195,取木也。从斤新聲。,
 異,yì,am different,,異,exact,異,compound,,廾 (gǒng = two hands raised together) + 畀 (? = not yet glossed),,2,,0.0195,分也。从廾从畀。畀，予也。凡異之屬皆从異。,
-脫,tuō,slip away / leave (36),,脫,exact,肉,phonetic-compound,,肉 (ròu = flesh),兌 (duì = opening),2,,0.0195,消肉臞也。从肉兌聲。,
+脫,tuō,slip away (from),slip away (from),脫,exact,肉,phonetic-compound,,肉 (ròu = flesh),兌 (duì = opening),2,locked,0.0195,消肉臞也。从肉兌聲。,"Flesh wasting away. From 肉 (ròu — flesh), with 兌 (duì) for sound."
 謀,móu,plan,,謀,exact,言,phonetic-compound,,"言 (yán = words, speech (a noun) / speak (a verb))",某 (? = not yet glossed),2,,0.0195,慮難曰謀。从言某聲。,
 馳,Chí,"drive hard, gallop (馳騁, gallop)",,馳,exact,馬,phonetic-compound,,馬 (mǎ = horse),也 (yě = (closes a statement: it is so)),2,,0.0195,大驅也。从馬也聲。,
 騁,chěng,"run straight, gallop (馳騁, gallop)",,騁,exact,馬,phonetic-compound,,馬 (mǎ = horse),甹 (? = not yet glossed),2,,0.0195,直馳也。从馬甹聲。,
