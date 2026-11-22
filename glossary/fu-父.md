@@ -43,7 +43,7 @@ A few scholars doubt that the seedling graph and 甫 are one character, but most
 >
 > — chapter 21
 
-> *What others teach, I also teach:*
+> *What others teach, I also teach.*
 > *The strong and rigid do not die a natural death.*
 > *I take this as the father of learning.*
 >
