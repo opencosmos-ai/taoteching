@@ -165,7 +165,7 @@ This rests on hearing 十有三 as "three in ten," which reads naturally in the 
 
 ### Ch 57 · The two lives of 正 — order imposed, and order arisen
 
-The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "govern the state with the straight," the line applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people straighten themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
+The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "with the straight, the state is governed," the line applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people straighten themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
 
 Everything between the two argues the point. The first half is a catalogue of imposition backfiring — the more taboos, the poorer the people; the more laws proclaimed, the more thieves — every attempt to carve order into the world breeding its own opposite. The second half is the reversal: when the ruler will not act, will not meddle, wants nothing, and above all grows *still*, the people transform, right, enrich, and grow plain — 自, of their own accord. Order was never something to install; it was something to stop preventing. That is the bookend's quiet claim: you do not make people upright by being upright *at* them. You grow still, and the uprightness that was in them all along comes up by itself — the way plainness (自樸) does in the very next breath.
 

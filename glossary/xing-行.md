@@ -44,7 +44,7 @@ So 行 is not one verb among many. It is the motion the whole vocabulary is draw
 > 終日行不離輜重 (26) — *travels all day without separating from the heavy wagons.*
 > 善行無轍跡 (27) — *masterful traveling, no tracks.*
 > 故物或行或隨 (29) — *so among things, some go ahead, some follow.*
-> 陸行不遇兕虎 (50) — *can travel the land without meeting rhinos or tigers.*
+> 陸行不遇兕虎 (50) — *travels the land without meeting rhinos or tigers.*
 > 千里之行，始於足下 (64) — *the thousand-mile journey begins beneath your feet.*
 
 The same sense stands at 24 (跨者不行, *get nowhere*), 33 (強行者, *walks with strength*), 47 (不行而知, *knows without venturing*), 53 (行於大道, *walking the path of the great Tao*) and 69 (the first 行 of 行無行, *marching*). Ch 64's 千里之行 is the going made a noun, *the journey*, and it is still motion.

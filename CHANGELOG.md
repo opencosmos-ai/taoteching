@@ -31,6 +31,16 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-22 — 脫 (*tuō* — slip away) locked, *leave* made one character's, and four more of R6's lines settled
+
+Shalom's calls on 2026-11-21 and 22, brought one at a time with each stanza in place. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md).
+
+- **One entry locked.** [`glossary/tuo-脫.md`](glossary/tuo-脫.md): 脫 (*tuō*) *slip away (from)*, with *leave*, *escape* and *come loose* forbidden. Ch 36 *"A fish cannot slip away from deep water"*; ch 54 *"One who is masterful at embracing does not slip away."* Left open in the entry: the silk manuscripts' readings of the fish line, not yet checked against a print edition or recorded in [`sources/variants.yaml`](sources/variants.yaml).
+- ***Leave*, one character's.** It stood for four. 遺 (*yí* — to leave behind) keeps it (9, 52). 去 (*qù* — to go away) reads *fade away*, so the two 不去 (*bù qù* — "does not go away") lines match: ch 2 *"does it not fade away,"* ch 21 *"has never faded away."* 離 (*lí* — to separate) reads *separate from* (26, 28). Ch 47 *"Without going out your door,"* with 戶 (*hù* — door) as at ch 11.
+- **Ch 27's four 無 (*wú* — no) lines bare**, in Shalom's wording: *"Masterful traveling, no tracks,"* and the same for speaking, security and tying. Only the 不用 (*bù yòng* — "does not use") line keeps *uses*. The supplied *leaves* was the last *leave* that was not 遺's.
+- **The back-translation audit (R6): four more rows done.** Ch 57's opening three read as descriptions, each opening on its 以 (*yǐ* — with), as finding 8 asked: *"With the straight, the state is governed."* Ch 42's colon after 我亦教之 (*wǒ yì jiào zhī* — "I also teach it") becomes a full stop. Ch 50 follows Han Fei, unarmed: *"and enters into battle without armor or weapons,"* with both *can*s gone, recorded as fork 130. Ch 54's planter is a person, on the lock for 善 (*shàn* — masterful): *"One who is masterful at planting is not uprooted."* [`WORKLIST.md`](WORKLIST.md) R6 now owes ch 61 and two records.
+- **Baselines:** variant 129 → 130.
+
 ## 2026-11-20 — Nineteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.
