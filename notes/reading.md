@@ -296,7 +296,7 @@ The through-line is 下 — *below* as an action you take. Read together they sa
 **1. The sage is the fool before anyone else is.** In chapter 20, amid the crowd's feast, the speaker says it as a boast:
 
 > *The crowd all have more than enough.*
-> *I alone seem to have missed out.*
+> *I alone seem left behind.*
 > *I have the heart of a fool!*
 > *How fluid!*
 >
@@ -329,7 +329,7 @@ Chapter 20 is the one place the book sounds like a person rather than a position
 
 **Then the chapter refuses its own consolation.** 人之所畏，不可不畏 — *what people fear must be feared*. Wang Bi does not soften it: 故人之所畏，吾亦畏焉 — *"what people fear, I fear too."* The speaker has seen through the distinctions and is **still afraid**, and says so before saying anything else about their own state. No enlightenment is claimed. That single line is what keeps the rest of the chapter from being a boast.
 
-**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker has missed out. The worldly are bright and sharp; the speaker is clouded and dull. Stubborn. Coarse. **One word in the descent is not an insult.** Straight after *"I have the heart of a fool!"* comes 沌沌兮, *"How fluid!"*: the book's word for the whole before it divides, the heart that makes no distinctions. The descent is what the crowd sees. 沌沌 is what is there. *(Seeking to understand that word is what opened the meaning of the fool: Ch 65 below, and `glossary/yu-愚.md`.)*
+**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker seems left behind. The worldly are bright and sharp; the speaker is clouded and dull. Stubborn. Coarse. **One word in the descent is not an insult.** Straight after *"I have the heart of a fool!"* comes 沌沌兮, *"How fluid!"*: the book's word for the whole before it divides, the heart that makes no distinctions. The descent is what the crowd sees. 沌沌 is what is there. *(Seeking to understand that word is what opened the meaning of the fool: Ch 65 below, and `glossary/yu-愚.md`.)*
 
 The last word is where it resolves, and it resolves without arguing: 而貴食母 — *I prize feeding from the mother.* Everyone else is at the great feast, 太牢, the ox-sacrifice. The speaker is at the breast. Not a lesser meal — the **first** one, the one that comes before food is something you choose. 王弼: 食母，生之本也, *"the feeding mother is the root of what lives."*
 

@@ -5,7 +5,7 @@ render: "leave (behind / to)"
 card: "leave"
 forbidden: ["bequeath", "cast aside", "left out"]
 chapters: [9, 20, 52]
-status: open
+status: locked
 pairing: false
 shuowen: "Gone missing. From 辵 (chuò — walking), with 䝿 (guì — an older form of 貴, dear) for sound."
 refs_status: complete
@@ -33,7 +33,7 @@ refs:
 
 *Say "yee," rising; in its second word, "way," falling. Three lines in three chapters. In each, something is left: passed to someone, or left behind on the way.*
 
-**Recommended: 遺 → "leave": *leave to* where something passes to someone (9, 52), *left behind* where the speaker is what remains (20).** *(Not "lose," which is 失 (shī — lose)'s. Not "abandon," which is 棄 (qì — cast away)'s, and Heshang Gong's gloss. Not "missed out," which neither commentator reads. Not "bequeath," which gives the graph's second word an English of its own.)*
+**Locked: 遺 → "leave": *leave to* where something passes to someone (9, 52), *left behind* where the speaker is what remains (20).** *(Shalom's call, 2026-11-23.)* *(Not "lose," which is 失 (shī — lose)'s. Not "abandon," which is 棄 (qì — cast away)'s, and Heshang Gong's gloss. Not "missed out," which neither commentator reads. Not "bequeath," which gives the graph's second word an English of its own.)*
 
 ### The graph: two hands, something falling from them, and the walking
 
@@ -64,7 +64,7 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 > — chapter 9
 
 > *The crowd all have more than enough.*
-> *I alone seem to have missed out.*
+> *I alone seem left behind.*
 >
 > 眾人皆有餘，
 > 而我獨若遺。
@@ -105,7 +105,7 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 
 **"Abandon," "cast aside."** *Abandon* is 棄 (*qì*)'s at chapters 19 and 27, and *cast aside* is Heshang Gong's 遺棄 in English, a gloss put into the verse (`process/principles/commentary-is-not-a-rendering.md`). Both also bring in someone who did the abandoning, and the line names no one.
 
-**"Missed out."** A failure to get one's share. Neither commentator reads it, and it makes chapter 20 the one 遺 line without the character's English.
+**"Missed out."** A failure to get one's share. Neither commentator reads it, and it would leave chapter 20 the one 遺 line without the character's English.
 
 **"Left out."** Exclusion from a share, a social grievance. Neither commentator reads it either.
 
@@ -120,7 +120,7 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 | line | word | form | English |
 |---|---|---|---|
 | 自遺其咎 (9) | *wèi*, by the Heshang Gong note | to leave something to someone, here oneself | *you leave yourself the fault* |
-| 而我獨若遺 (20) | *yí* | a state, under 若 (*ruò* — seem) | *I alone seem left behind* (recommended) |
+| 而我獨若遺 (20) | *yí* | a state, under 若 (*ruò* — seem) | *I alone seem left behind* |
 | 無遺身殃 (52) | *wèi*, by the Heshang Gong note | to leave something for someone | *leave no calamity for the body* |
 
 ***Behind* belongs to the verb, not the line.** At chapter 20, bare *"I alone seem left"* would read as *the only one remaining*. *Behind* makes it what is left as others go. *To* and *for* at 9 and 52 carry the *wèi* word's receiver, which the Chinese names: 自 (*zì* — self), 身 (*shēn* — body).
@@ -131,9 +131,7 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 
 ### Left open
 
-**Chapter 20's English is Shalom's call.** The recommendation is *"I alone seem left behind,"* for the reasons above. The line now reads *"I alone seem to have missed out."*
-
-**Silk A states what our base only seems.** Its 我獨遺, without 若, would read *"I alone am left behind."* It is the oldest witness to the line, so the tie-break order weighs it, against both commentators, who gloss the base's 若 with their own *as if*. Read from a Wikisource transcription, not yet checked against a print edition (`WORKLIST.md` T2-95).
+**Silk A states what our base only seems.** Its 我獨遺, without 若, would read *"I alone am left behind."* It is the oldest witness to the line, so the tie-break order weighs it. Against it stand both commentators, who gloss the base's 若 with their own *as if*, and silk B, which has no counterpart; the base was kept (Shalom's call, 2026-11-23). Read from a Wikisource transcription, not yet checked against a print edition (`WORKLIST.md` T2-95).
 
 **Silk A's 道 at chapter 52:** a loan by sound, or *"do not lead the body into calamity."* The two reconstructions disagree about the sound, and no edition's reading of the line is consulted here (fork 135, T2-95).
 

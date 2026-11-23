@@ -102,7 +102,7 @@ python3 tools/build_index.py
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
 | **百姓** | *bǎi xìng* | everyone | "the people", "the hundred families", "the hundred surnames", "the masses", "the common people" | 3 | **locked** | [`baixing-百姓.md`](baixing-百姓.md) |
 | **知足** | *zhī zú* | knowing you have enough / contentment | "sufficiency", "fulfilled", "satisfaction", "discontent" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
-| **遺** | *yí / wèi* | leave (behind / to) | "bequeath", "cast aside", "left out" | 3 | open — not yet a lock | [`yi-遺.md`](yi-遺.md) |
+| **遺** | *yí / wèi* | leave (behind / to) | "bequeath", "cast aside", "left out" | 3 | **locked** | [`yi-遺.md`](yi-遺.md) |
 | **口** | *kǒu* | mouth | "palate" | 2 | **locked** | [`kou-口.md`](kou-口.md) |
 | **命** | *mìng* | what is given · *command* (ch 51) | "mandate", "destiny", "fate", "decree" | 2 | **locked** | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |

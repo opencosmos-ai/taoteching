@@ -102,7 +102,7 @@ Worth noting what he does next: having softened the text to *as if*, 河上公 g
 
 ### Ch 20 · 而我獨若遺 / 我獨遺 — a statement, or a seeming
 
-**Silk A, as Wikisource transcribes it, reads 我獨遺 (*wǒ dú yí* — "I alone am left")**, with no 而 (*ér* — yet) and no 若 (*ruò* — seem). Silk B's transcription has no counterpart to the clause. Guodian attests only the chapter's opening and Han Fei does not quote it, so silk A is the oldest witness to the line. **The base stands for now:** the English for 遺 (*yí* — to leave behind) is being weighed in `glossary/yi-遺.md`, and the 若 is part of that call. Fork 134; print check `WORKLIST.md` T2-95.
+**Silk A, as Wikisource transcribes it, reads 我獨遺 (*wǒ dú yí* — "I alone am left")**, with no 而 (*ér* — yet) and no 若 (*ruò* — seem). Silk B's transcription has no counterpart to the clause. Guodian attests only the chapter's opening and Han Fei does not quote it, so silk A is the oldest witness to the line. **Our call: the base,** *"I alone seem left behind"* (Shalom's call, 2026-11-23). Both commentators gloss the 若 with their own *as if*, and silk A is one manuscript, read only in transcription. `glossary/yi-遺.md`. Fork 134; print check `WORKLIST.md` T2-95.
 
 ### Ch 9 · 功遂 / 功成名遂 — how many things are finished before the body withdraws
 

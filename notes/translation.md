@@ -2227,6 +2227,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. **Ch 27's supplied *leaves* went too:** the four 無 (*wú* — no) lines read bare, *"Masterful traveling, no tracks,"* and only 不用 (*bù yòng* — does not use) keeps *uses*. Still open: ch 20's 若遺 reads *"missed out"*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
 
+### Ch 20 · 而我獨若遺 → "I alone seem left behind"; 遺 → "leave," locked
+
+*(2026-11-23, Shalom's call.)* *(was: "I alone seem to have missed out.")* 遺 (*yí* — to leave behind) locked as *leave* in all three lines (`glossary/yi-遺.md`): *leave to* at 9 and 52, *left behind* at 20. One graph holds two words, *yí* (be left behind) and *wèi* (to present), and English *leave* holds both. Silk A's 我獨遺 (*wǒ dú yí* — "I alone am left"), without 若 (*ruò* — seem), is fork 134; the base kept with both commentators' *as if*. Closes the *leave* entry's last open line. `chapters/020.md` → Notes.
+
 ### Ch 10 · 能無離乎 → "can you be without separation?"
 
 *(2026-11-23, Shalom's call.)* *(was: "can you be undivided?")* 離 (*lí* — to separate) reads *separate from* at 26 and 28, and ch 10 now carries it in the frame *can you be …?*, matching 能無疵乎 (*néng wú cī hū*), *"can you be without blemish?"* Wang Bi glosses the line 能常無離乎 (*néng cháng wú lí hū* — "can you always be without separation?"). *Inseparable* adds a second modal to 能 (*néng* — can). Closes the *leave* entry's last open line for 離. Argument in `chapters/010.md` → Notes.

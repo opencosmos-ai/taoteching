@@ -37,7 +37,7 @@ The silks bear this out. At chapter 20 silk A writes only 禺 where silk B and o
 ### Three lines, and the word changes sides
 
 > *The crowd all have more than enough.*
-> *I alone seem to have missed out.*
+> *I alone seem left behind.*
 > *I have the heart of a fool!*
 > *How fluid!*
 >

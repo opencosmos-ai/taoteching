@@ -33,7 +33,7 @@ This matters for the register. **"The masses"** imports a nineteenth-century cla
 > 眾人熙熙 · 眾人皆有餘 · 眾人皆有以
 > *the crowd is merry · the crowd all has surplus · the crowd all has purpose*
 
-Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏 (*I alone am dim*), 我獨頑似鄙 (*I alone am stubborn and seem crude*). The crowd is **bright, full, and busy**; the speaker is dim, empty, and useless. The chapter needs the crowd to be genuinely enviable for its reversal to cost anything, which is one more reason to avoid a word that pre-judges them.
+Against which: 我獨若遺 (*I alone seem left behind*), 我獨昏昏 (*I alone am dim*), 我獨頑似鄙 (*I alone am stubborn and seem crude*). The crowd is **bright, full, and busy**; the speaker is dim, empty, and useless. The chapter needs the crowd to be genuinely enviable for its reversal to cost anything, which is one more reason to avoid a word that pre-judges them.
 
 **Chapter 8 measures water by them.** 處眾人之所惡 — *it dwells in what the crowd finds distasteful.* 惡 (*è*) is *to dislike, to find repugnant.* Water's virtue is located precisely where the crowd will not stand.
 
@@ -67,6 +67,6 @@ Against which: 我獨若遺 (*I alone seem to have been left out*), 我獨昏昏
 
 Chapter 20 can be read either way, and the reading changes the whole voice of the book. Take 我獨 (*I alone*) as pride and the chapter is an aristocrat's complaint: the crowd is shallow, I am deep. Take it as loneliness and the chapter is an admission: everyone else knows how to live and I do not. The Chinese supports both, and the same six-fold contrast carries them equally.
 
-Two things weigh toward the second. The self-descriptions are **not flattering** — 昏昏 (*dim*), 頑 (*stubborn*), 鄙 (*crude*), 若遺 (*as if left out*) — and Laozi elsewhere claims 愚 (*yú* — simple, foolish) for himself as a good. And Chapter 64 has the sage **return** to what the crowd walked past, which is a movement toward them rather than away.
+Two things weigh toward the second. The self-descriptions are **not flattering** — 昏昏 (*dim*), 頑 (*stubborn*), 鄙 (*crude*), 若遺 (*as if left behind*) — and Laozi elsewhere claims 愚 (*yú* — simple, foolish) for himself as a good. And Chapter 64 has the sage **return** to what the crowd walked past, which is a movement toward them rather than away.
 
 But Chapter 20 also says 我獨異於人 — *I alone am different from people* — and difference is not humility. We keep "the crowd," which is neutral enough to let a reader hear either, and we do not decide for them.

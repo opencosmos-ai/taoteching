@@ -438,8 +438,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,12,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,The crowd all have more than enough.
 20,12,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,The crowd all have more than enough.
 20,12,餘,yú,餘,more than enough (有餘) · leftover (before a noun),NOT FOUND,1.0,authored,The crowd all have more than enough.
-20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem to have missed out.
-20,13,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,I alone seem to have missed out.
+20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem left behind.
+20,13,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,I alone seem left behind.
 20,14,心,xīn,心,heart,yes,1.0,authored,I have the heart of a fool!
 20,14,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,I have the heart of a fool!
 20,14,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I have the heart of a fool!
