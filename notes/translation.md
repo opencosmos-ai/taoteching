@@ -2227,6 +2227,10 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 
 *(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. **Ch 27's supplied *leaves* went too:** the four 無 (*wú* — no) lines read bare, *"Masterful traveling, no tracks,"* and only 不用 (*bù yòng* — does not use) keeps *uses*. Still open: ch 20's 若遺 reads *"missed out"*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
 
+### Ch 10 · 能無離乎 → "can you be without separation?"
+
+*(2026-11-23, Shalom's call.)* *(was: "can you be undivided?")* 離 (*lí* — to separate) reads *separate from* at 26 and 28, and ch 10 now carries it in the frame *can you be …?*, matching 能無疵乎 (*néng wú cī hū*), *"can you be without blemish?"* Wang Bi glosses the line 能常無離乎 (*néng cháng wú lí hū* — "can you always be without separation?"). *Inseparable* adds a second modal to 能 (*néng* — can). Closes the *leave* entry's last open line for 離. Argument in `chapters/010.md` → Notes.
+
 ### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "slip away"
 
 *(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal. 脫 → *slip away* at 36 and 54, locked the same day (`glossary/tuo-脫.md`): intransitive, no agent, a going-out from a hold. *Depart* is 逝's at 25, and *leave* is worn by 去, 離 and 遺. R6 minor; `chapters/054.md` → Notes.
