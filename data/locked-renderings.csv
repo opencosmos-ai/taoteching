@@ -185,14 +185,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 9,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Gold and jade fill the hall, and no one can guard them."
 9,7,貴,guì,貴 & 賤,"prize (verb), prized (a state)",yes,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
 9,8,咎,jiù,咎,fault,yes,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
+9,8,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
 9,9,身,shēn,身,body,yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
 9,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
 9,10,道,dào,道,the Tao / way,yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
-10,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,1,營,yíng,魄,housing,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,1,魄,pò,魄,aliveness,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,2,能,néng,可,be able,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
+10,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,1,營,yíng,魄,housing,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,1,魄,pò,魄,aliveness,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,2,能,néng,可,be able,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
 10,3,柔,róu,柔,soft,yes,1.0,authored,"Gathering the breath to softness, can you be an infant?"
 10,3,氣,qì,氣,breath,yes,1.0,authored,"Gathering the breath to softness, can you be an infant?"
 10,4,能,néng,可,be able,NOT FOUND,1.0,authored,"Gathering the breath to softness, can you be an infant?"
@@ -438,6 +439,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,12,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,The crowd all have more than enough.
 20,12,餘,yú,餘,more than enough (有餘) · leftover (before a noun),NOT FOUND,1.0,authored,The crowd all have more than enough.
 20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem to have missed out.
+20,13,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,I alone seem to have missed out.
 20,14,心,xīn,心,heart,yes,1.0,authored,I have the heart of a fool!
 20,14,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,I have the heart of a fool!
 20,14,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I have the heart of a fool!
@@ -1245,6 +1247,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,7,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,用,Yòng,無 & 有,use,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,身,shēn,身,body,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
+52,7,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,8,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,This is called the ever-present worn covered.
 53,1,唯,wéi,唯,only,yes,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."

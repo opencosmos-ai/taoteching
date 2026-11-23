@@ -857,6 +857,14 @@
   status: locked
   entry: glossary/zhizu-知足.md
 
+- term: "遺"
+  pinyin: "yí / wèi"
+  render: "leave (behind / to)"
+  forbidden: ["bequeath", "cast aside", "left out"]
+  chapters: [9, 20, 52]
+  status: open
+  entry: glossary/yi-遺.md
+
 - term: "口"
   pinyin: "kǒu"
   render: "mouth"

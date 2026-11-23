@@ -100,6 +100,10 @@ We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone a
 
 Worth noting what he does next: having softened the text to *as if*, 河上公 glosses it **如闇昧也**, *"like 闇昧"* — and restores by commentary the flatness his reading had taken out. `sources/variants.yaml`.
 
+### Ch 20 · 而我獨若遺 / 我獨遺 — a statement, or a seeming
+
+**Silk A, as Wikisource transcribes it, reads 我獨遺 (*wǒ dú yí* — "I alone am left")**, with no 而 (*ér* — yet) and no 若 (*ruò* — seem). Silk B's transcription has no counterpart to the clause. Guodian attests only the chapter's opening and Han Fei does not quote it, so silk A is the oldest witness to the line. **The base stands for now:** the English for 遺 (*yí* — to leave behind) is being weighed in `glossary/yi-遺.md`, and the 若 is part of that call. Fork 134; print check `WORKLIST.md` T2-95.
+
 ### Ch 9 · 功遂 / 功成名遂 — how many things are finished before the body withdraws
 
 We print 功遂身退，天之道 — *"the work done, the body withdraws; this is the way of nature."* **The Siku compilers attach a collation note to their own 王弼 (*Wáng Bì*) text**: 〔案**河上公注本及各本俱作功成名遂身退**〕 — *"Heshang Gong's commentary text and all editions read 功成名遂身退."* Our vendored 河上公 prints the longer lemma, and glosses it 言人所為功成事立，**名迹稱遂**，不退身避位則遇於害.
@@ -387,6 +391,10 @@ Received: 不見而**名** (名, *to name / discern*) — "without seeing, disce
 **We keep the base text and read 襲, and the argument is structural rather than documentary.** 是謂襲明 (ch 27) and 是謂襲常 (ch 52) are the identical frame, and 明 (*míng* — clear-seeing) and 常 (*cháng* — the ever-present) are the book's own bonded pair: 知常曰明 (*zhī cháng yuē míng* — "knowing the ever-present is called clarity") stands verbatim at ch 16 and ch 55. **襲明 and 襲常 are one gesture applied to the two halves of that formula**, and reading 習 at ch 52 dissolves the pair into a coincidence. 習 is also the easier character of the two, which is the direction copying usually runs.
 
 *Recorded in `sources/variants.yaml`; the rendering decision is in `notes/translation.md`. The fork was invisible to `check_locks.py`'s `unlogged-variant` rule, which fires only on variants a chapter **claims** — an English that quietly follows an unrecorded reading is exactly what no check can see.*
+
+### Ch 52 · 無遺身殃 / 毋道身央 — silk A writes 道 for 遺
+
+**Silk A, as Wikisource transcribes it, reads 毋道身央**, with 道 (*dào* — the road) where silk B and every transmitted text have 遺 (*yí* — leave). Two readings are open. **A loan by sound:** Zhengzhang reconstructs both words with an *\*l-* initial (遺 \*lul, 道 \*l'uːʔ), though Baxter–Sagart sets them apart. **Or 道 in its sense *to lead*:** "do not lead the body into calamity." Either way the base stands. Guodian attests only the chapter's middle. Fork 135; `glossary/yi-遺.md`; print check `WORKLIST.md` T2-95.
 
 ### Ch 53 · 是謂盜夸 / 盜竽 — the boast, or the lead-pipe
 
@@ -725,6 +733,12 @@ The Siku editors note inside our 王弼: 〔案永樂大典作柔勝剛弱勝强
 **韓非 supports the split** by quoting only half of it as a saying in its own right: 處小弱而重自卑損，謂「弱勝強」也 — *"to dwell in the small and weak and make much of humbling and diminishing oneself: this is what 'the weak overcomes the strong' means."*
 
 **Our call: the base.** But the English renders it as two matched pairs regardless — *"The soft and yielding overcome the hard and strong"* — because 柔 (*róu*), 弱 (*ruò*), 剛 (*gāng*) and 強 (*qiáng*) are used separately everywhere else in the book, and binding them into two compounds in English would claim more than our own glossary does. 弱 and 強 are both locked; 剛 is still owed a mention (`WORKLIST` T4-4).
+
+### Ch 36 · 魚不可脫於淵 — silk A without 可, Han Fei's 深淵, silk B's 說
+
+**Silk A, as Wikisource transcribes it, reads 魚不脫於瀟 (*yú bù tuō yú xiāo* — "a fish does not slip away from the deep, clear water").** It has no 可 (*kě* — can), so the line reports what a fish does not do, not what it cannot do. **Han Fei, the oldest witness to the chapter, keeps 可:** 魚不可脫於深淵 (*yú bù kě tuō yú shēn yuān* — "a fish cannot slip away from the deep pool"), adding 深 (*shēn* — deep). Silk B keeps 可 and writes 說 (*shuō*) for 脫 (*tuō* — slip away), a graph on the same 兌 (*duì*) for sound.
+
+**Our call: the base, and the verse's *cannot*,** by the tie-break order, oldest witness first (Shalom's call, 2026-11-23). Silk A's 瀟 (*xiāo*) is the Shuowen's name of a river; its 潚 (*sù*), 深清也 (*"deep and clear"*), is the graph later dictionaries fold into 瀟. Which one the silk writes is for the print check (`WORKLIST.md` T2-95). Forks 131–133; `glossary/tuo-脫.md`, `glossary/ke-可.md`, and for 淵 (*yuān* — the deep), T2-24.
 
 ### Ch 39 · 故致數譽無譽 — we depart from the base, and our own 王弼 says why
 

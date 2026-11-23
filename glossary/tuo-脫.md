@@ -18,8 +18,8 @@ refs:
   - { source: wangbi, locator: "Chapter 54, not craving much and keeping to what they can manage, so they do not slip away" }
   - { source: heshanggong, locator: "Chapter 54, one masterful at embracing the vital spirit with the Tao can never be pulled out and come loose" }
   - { source: hanfeizi, locator: "Explaining Laozi, chapter 54: though there are things to want, the spirit is not moved, and this is called not slipping away" }
-  - { source: mawangdui-a, via: wikisource, locator: "Silk A, chapter 36, the fish line, with no ke and with xiao for yuan" }
-  - { source: mawangdui-b, via: wikisource, locator: "Silk B, chapter 36, the fish line, with shuo for tuo" }
+  - { source: mawangdui-a, via: wikisource, locator: "Silk A, chapter 36, the fish line, with no ke and with xiao for yuan", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#36_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E5%85%AD" }
+  - { source: mawangdui-b, via: wikisource, locator: "Silk B, chapter 36, the fish line, with shuo for tuo", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#36_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E5%85%AD" }
 ---
 
 ## 脫 (Tuō) — Slip Away
@@ -110,7 +110,7 @@ The line is about a person, 善抱者 (*shàn bào zhě* — "one masterful at e
 
 **At chapter 54, *does not slip away* can be heard as *does not die*.** It stands one line before the descendants' sacrifices, and Heshang Gong reads that very sense into the next line: 為人子孫能修道如是，長生不死 (*"descendants who can cultivate the Tao like this live long and do not die"*). So the echo has a commentator behind it, but it narrows a line the Chinese leaves open: the Chinese says only that the embracer does not come out of their hold.
 
-**Silk A reads the fish line differently, and the apparatus has not recorded it.** Silk A reads 魚不脫於瀟 (*yú bù tuō yú xiāo*): no 可 (*kě* — can), and 瀟 (*xiāo* — clear, deep water) for 淵 (*yuān* — the deep). Silk B reads 魚不可說於淵, writing 說 (*shuō*) for 脫, a graph on the same 兌. Without 可, the line reports what a fish does not do, and the *cannot* that `glossary/ke-可.md` defends would need its case made again. Both readings are from a Wikisource transcription and not yet checked against a print edition; neither is in `sources/variants.yaml`.
+**Silk A reads the fish line without 可, and the oldest witness keeps it.** Silk A reads 魚不脫於瀟 (*yú bù tuō yú xiāo*): no 可 (*kě* — can), and 瀟 (*xiāo* — deep and clear water) for 淵 (*yuān* — the deep). The Shuowen makes 瀟 a river's name and gives *deep and clear* to 潚 (*sù*), which later dictionaries treat as its variant. Silk B reads 魚不可說於淵, writing 說 (*shuō*) for 脫, a graph on the same 兌. Without 可, the line reports what a fish does not do. Han Fei, the oldest witness to the chapter, quotes it with 可, as 魚不可脫於深淵 (*yú bù kě tuō yú shēn yuān* — "a fish cannot slip away from the deep pool"), so by the tie-break order the *cannot* that `glossary/ke-可.md` defends stands. The three readings are forks 131–133 in `sources/variants.yaml`. The silks' are from a Wikisource transcription and not yet checked against a print edition (`WORKLIST.md` T2-95).
 
 **The other witnesses at chapter 54.** Both silks are broken where 抱 and 脫 stand. The Guodian slips attest the chapter whole (bundle B), and their graph at 脫 is not yet read here.
 

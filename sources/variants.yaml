@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 131
+# next-fork-id: 136
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -188,6 +188,26 @@
     following 習 without anyone recording the fork.
     Mawangdui A prints 襲, so the oldest witness sides with the base text
     against both commentaries.
+  logged: notes/manuscript.md
+
+- chapter: 52
+  id: 135
+  line: "無遺身殃"
+  base: "遺"
+  base_pinyin: "yí"
+  base_english: "leave"
+  readings:
+    - { source: "mawangdui-a", text: "道", pinyin: "dào", english: "the road; to lead", annotation: "The line reads wu dao shen yang: the road written where the other witnesses leave.", via: "wikisource", locator: "Silk A, Chapter 52 (received numbering), the line before the practice of the constant", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#52_-_%E7%AB%A0%E4%BA%94%E5%8D%81%E4%BA%8C", verification: "pending-print", confirm: "T2-95" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk A, as Wikisource transcribes it, reads 毋道身央: 道 (dao - the road)
+    where silk B and every transmitted text have 遺 (yi - leave). Two readings
+    of silk A are open. A loan by sound: Zhengzhang reconstructs both words
+    with an *l- initial (遺 *lul, 道 *l'uːʔ), though Baxter-Sagart sets them
+    apart, a uvular initial for 遺 and an *l- for 道. Or 道 in its sense "to lead": "do not lead
+    the body into calamity." Guodian attests only the chapter's middle, not
+    this line. See glossary/yi-遺.md.
   logged: notes/manuscript.md
 
 - chapter: 3
@@ -1437,6 +1457,27 @@
 # facts about which characters are present, not as a transcription: the Guodian
 # 釋文 is 1998 living scholarship. See PROVENANCE.md.
 
+- chapter: 20
+  id: 134
+  line: "而我獨若遺"
+  base: "而我獨若遺"
+  base_pinyin: "ér wǒ dú ruò yí"
+  base_english: "yet I alone seem left"
+  readings:
+    - { source: "mawangdui-a", text: "我獨遺", pinyin: "wǒ dú yí", english: "I alone am left", annotation: "No yet and no seem: a statement, not a seeming.", via: "wikisource", locator: "Silk A, Chapter 20 (received numbering), the line after the crowd's more than enough", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#20_-_%E7%AB%A0%E4%BA%8C%E5%8D%81", verification: "pending-print", confirm: "T2-95" }
+    - { source: "mawangdui-b", text: "absent", english: "absent", annotation: "The transcription runs from all have more than enough straight to I have the heart of a fool.", via: "wikisource", locator: "Silk B, Chapter 20 (received numbering), the crowd's more than enough", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#20_-_%E7%AB%A0%E4%BA%8C%E5%8D%81", verification: "pending-print", confirm: "T2-95" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk A, as Wikisource transcribes it, reads 我獨遺, "I alone am left": a
+    statement, where our base hedges it with 若 (ruo - seem). Silk B's
+    transcription has no counterpart to the clause, perhaps an eye-skip from
+    one 我 (wo - I) to the next. Guodian attests only the chapter's opening
+    and Han Fei does not quote it, so silk A is the oldest witness to this
+    line. The base stands while the English for 遺 (yi) is weighed in
+    glossary/yi-遺.md, and the 若 is part of that call.
+  logged: notes/manuscript.md
+
 - chapter: 19
   id: 66
   line: "絕聖棄智，民利百倍"
@@ -1691,6 +1732,64 @@
     separate terms in two matched pairs. We keep the base; the English renders
     it as two pairs anyway, which is the honest reading of a compound whose
     halves the book uses separately everywhere else.
+  logged: notes/manuscript.md
+
+- chapter: 36
+  id: 131
+  line: "魚不可脫於淵"
+  base: "可"
+  base_pinyin: "kě"
+  base_english: "can"
+  readings:
+    - { source: "mawangdui-a", text: "absent", english: "absent", annotation: "The line reads a fish does not slip away, with no can.", via: "wikisource", locator: "Silk A, Chapter 36 (received numbering), the fish line", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#36_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E5%85%AD", verification: "pending-print", confirm: "T2-95" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk A, as Wikisource transcribes it, reads 魚不脫於瀟 (yu bu tuo yu xiao),
+    with no 可 (ke - can): the line reports what a fish does not do, not what
+    it cannot do. Silk B keeps 可 (魚不可說於淵), and so does Han Fei, the
+    oldest witness to the chapter (Guodian does not attest it): 魚不可脫於深淵.
+    By the tie-break order the oldest witness comes first, so the base and
+    the verse's "cannot" stand (glossary/ke-可.md, glossary/tuo-脫.md).
+    Recorded 2026-11-23, Shalom's call; silk A awaits a print check.
+  logged: notes/manuscript.md
+
+- chapter: 36
+  id: 132
+  line: "魚不可脫於淵"
+  base: "淵"
+  base_pinyin: "yuān"
+  base_english: "deep water"
+  readings:
+    - { source: "hanfeizi", text: "深淵", pinyin: "shēn yuān", english: "the deep pool" }
+    - { source: "mawangdui-a", text: "瀟", pinyin: "xiāo", english: "deep and clear water", annotation: "The Shuowen makes this graph a river name and gives deep and clear to a near graph, which later dictionaries treat as its variant.", via: "wikisource", locator: "Silk A, Chapter 36 (received numbering), the fish line", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#36_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E5%85%AD", verification: "pending-print", confirm: "T2-95" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Han Fei quotes the line as 魚不可脫於深淵, adding 深 (shen - deep), in
+    the passage where weighty position is the ruler's deep water. Silk A, as
+    transcribed, prints 瀟 (xiao): the Shuowen's 水名, a river's name, while
+    its 潚 (su) is 深清也, "deep and clear," and later dictionaries give 瀟 that
+    sense too. Which graph the silk writes is the print check's question.
+    Silk B reads 淵. Every reading names the water the fish lives in, so the
+    verse does not turn on it; it bears on 淵's English (WORKLIST T2-24).
+  logged: notes/manuscript.md
+
+- chapter: 36
+  id: 133
+  line: "魚不可脫於淵"
+  base: "脫"
+  base_pinyin: "tuō"
+  base_english: "slip away"
+  readings:
+    - { source: "mawangdui-b", text: "說", pinyin: "shuō", english: "slip away, written with the graph for to speak", annotation: "Both graphs carry the same sound part.", via: "wikisource", locator: "Silk B, Chapter 36 (received numbering), the fish line", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#36_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E5%85%AD", verification: "pending-print", confirm: "T2-95" }
+  meaning_bearing: false
+  our_call: base
+  note: >
+    Silk B, as Wikisource transcribes it, writes 說 (shuo) for 脫 (tuo). Both
+    graphs carry 兌 (dui) for sound, and nothing in the line calls for 說's
+    own sense, to speak. Silk A and Han Fei write 脫. Recorded 2026-11-23
+    with forks 131 and 132 so the reading is not rediscovered as news.
   logged: notes/manuscript.md
 
 - chapter: 39

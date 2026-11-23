@@ -245,7 +245,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 嬰,yīng,"newborn (嬰兒, infant)",,嬰,exact,女,compound,,女 (nǚ = a woman) + 賏 (? = not yet glossed),,3,,0.0271,頸飾也。从女、賏。賏，其連也。,
 愚,yú,a fool / foolishness / foolish,a fool / foolishness / foolish,愚,exact,心,compound,,心 (xīn = heart) + 禺 (? = not yet glossed),,3,locked,0.0271,戇也。从心从禺。禺，猴屬，獸之愚者。,"Dull-witted. From 心 (xīn — heart) and 禺 (yú — a monkey). 禺 is a kind of monkey, the most foolish of beasts."
 解,jiě,untangle / untie,,解,exact,角,compound,,刀 (dāo = a knife) + 判 (? = not yet glossed) + 牛 (niú = an ox) + 角 (jiǎo = horn),,3,,0.0271,判也。从刀判牛角。一曰解𢊁，獸也。,
-遺,yí,leave / miss out (20),,遺,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",䝿 (? = not yet glossed),3,,0.0271,亾也。从辵䝿聲。,
+遺,yí,leave (behind / to),leave (behind / to),遺,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",䝿 (? = not yet glossed),3,,0.0271,亾也。从辵䝿聲。,"Gone missing. From 辵 (chuò — walking), with 䝿 (guì — an older form of 貴, dear) for sound."
 閉,bì,close,,閉,exact,門,compound,,門 (mén = gate / door),,3,,0.0271,闔門也。从門；才，所以歫門也。,
 音,yīn,tone / sound,,音,exact,音,compound,,"言 (yán = words, speech (a noun) / speak (a verb)) + 含 (Hán = hold within, contain) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,3,,0.0271,聲也。生於心，有節於外，謂之音。宮商角徵羽，聲；絲竹金石匏土革木，音也。从言含一。凡音之屬皆从音。,
 勇,yǒng,brave / courage,,勇,exact,力,phonetic-compound,,力 (lì = force),甬 (? = not yet glossed),4,,0.0265,气也。从力甬聲。,
