@@ -398,7 +398,7 @@ Received: 不見而**名** (名, *to name / discern*) — "without seeing, disce
 
 ### Ch 52 · 無遺身殃 / 毋道身央 — silk A writes 道 for 遺
 
-**Silk A, as Wikisource transcribes it, reads 毋道身央**, with 道 (*dào* — the road) where silk B and every transmitted text have 遺 (*yí* — leave). Two readings are open. **A loan by sound:** Zhengzhang reconstructs both words with an *\*l-* initial (遺 \*lul, 道 \*l'uːʔ), though Baxter–Sagart sets them apart. **Or 道 in its sense *to lead*:** "do not lead the body into calamity." Either way the base stands. Guodian attests only the chapter's middle. Fork 135; `glossary/yi-遺.md`; print check `WORKLIST.md` T2-95.
+**Silk A, as Wikisource transcribes it, reads 毋道身央 (*wú dào shēn yāng* — "do not *dào* the body calamity")**, with 道 (*dào* — the road) where silk B and every transmitted text have 遺 (*yí* — leave). Two readings are open. **A loan by sound:** Zhengzhang reconstructs both words with an *\*l-* initial (遺 \*lul, 道 \*l'uːʔ), though Baxter–Sagart sets them apart. **Or 道 in its sense *to lead*:** "do not lead the body into calamity." Either way the base stands. Guodian attests only the chapter's middle. Fork 135; `glossary/yi-遺.md`; print check `WORKLIST.md` T2-95.
 
 ### Ch 53 · 是謂盜夸 / 盜竽 — the boast, or the lead-pipe
 
