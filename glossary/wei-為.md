@@ -52,7 +52,7 @@ Integrity does not handle, and has nothing it handles *for*. Humaneness reaches 
 
 Two formulations carry the weight, and both are built from 為 alone:
 
-**道常無為而無不為** (37) — *the Tao ever does-not-handle, and yet nothing is left undone.* Repeated at **48**, after the famous instruction 損之又損 — *diminish, and diminish again, until you arrive at 無為.*
+**道常無為而無不為** (37) — *the Tao ever does-not-handle, and yet nothing is not done.* Repeated at **48**, after the famous instruction 損之又損 — *diminish, and diminish again, until you arrive at 無為.*
 
 **為無為** (3, 63) — three characters: *do the not-doing.* The paradox at full compression, and grammatically undeniable: 無為 is something you **actively do**. It is a practice, not an absence.
 
@@ -81,12 +81,12 @@ Read with the elephant in view, neither is mystical. Stop steering, and things s
 
 | | 無為而無不為 (37, 48) | 為無為 (3, 63) |
 |---|---|---|
-| **non-doing** | "does not do, yet nothing is left undone" | "do the non-doing" |
-| non-action | "non-action, yet nothing is left undone" | "act without action" |
+| **non-doing** | "non-doing, yet nothing is not done" | "do the non-doing" |
+| non-action | "non-action, yet nothing is not done" | "act without action" |
 | effortless action | *(breaks — there is no negation left to carry the paradox)* | *(breaks)* |
 | *wu wei*, untranslated | defers the problem | defers the problem |
 
-**"Non-doing" wins** because of the *do / undone* chime in the first line, which is the book's central paradox stated twice, and because plain Anglo-Saxon "doing" sits closer to a hand on a hide than Latinate "action" does. **"Effortless action"** must be rejected outright: it is an interpretation smuggled into a rendering, and it destroys the paradox by resolving it in advance — the whole force of 無為而無不為 is that a *negation* produces completeness.
+**"Non-doing" wins** because of the *doing / done* chime in the first line, which is the book's central paradox stated twice, and because plain Anglo-Saxon "doing" sits closer to a hand on a hide than Latinate "action" does. **"Effortless action"** must be rejected outright: it is an interpretation smuggled into a rendering, and it destroys the paradox by resolving it in advance — the whole force of 無為而無不為 is that a *negation* produces completeness.
 
 On leaving it untranslated as *wu wei*: we keep 道 untranslated because every English rendering is actively wrong. 無為 is not in that position — it is renderable, and rendering it keeps the reader inside the argument rather than handing them a mantra.
 

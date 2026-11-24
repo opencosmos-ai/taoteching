@@ -170,6 +170,10 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 
 **Nothing in the sense turns on it** — the subject is the people in either reading, and 王弼 glosses the line 故可欲不見，則心無所亂也, *"so when the desirable is not displayed, the heart has nothing to disorder it,"* with a bare 心. It is logged because **this file's companion note at ch 3 says "all three clauses are 使民X"** (`notes/translation.md`, 2026-08-30), and in the third clause that is an editorial restoration rather than a reading the witnesses agree on. We keep the base text as printed.
 
+### Ch 3 · 為無為 / 弗為而已 — silk B has no do-not-doing
+
+**Silk B, as Wikisource transcribes it, closes the chapter 使夫知不敢，弗為而已，則無不治矣** (*"make the knowing not push; do not act, and that is all, and then nothing is not governed"*). It has no 為無為 (*wéi wú wéi* — "do not-doing"). Silk A is damaged here, and Guodian does not attest the chapter. **Our call: the base,** which both commentators print (Shalom's call, 2026-11-23). Fork 137, pending print (`WORKLIST.md` T2-80).
+
 ### Ch 4 · 湛兮似或存 / 似若存 — a hedge either way
 
 河上公's lemma reads 似**若**存, and the Siku edition of 王弼 carries the collation note 〔案或一作若〕 — *"for 或, one edition reads 若."* 或 (*huò* — perhaps) and 若 (*ruò* — as if) are hedges of the same force, so **nothing turns on it**: the line carries a doubled hedge, 似 plus one of them, under either reading. Recorded so it is not rediscovered later as if it were news, since the line was rewritten on 2026-08-31. *(Ch 4 is **not attested at Guodian**; it rests on the silks and later.)*
@@ -739,6 +743,10 @@ The Siku editors note inside our 王弼: 〔案永樂大典作柔勝剛弱勝强
 **Silk A, as Wikisource transcribes it, reads 魚不脫於瀟 (*yú bù tuō yú xiāo* — "a fish does not slip away from the deep, clear water").** It has no 可 (*kě* — can), so the line reports what a fish does not do, not what it cannot do. **Han Fei, the oldest witness to the chapter, keeps 可:** 魚不可脫於深淵 (*yú bù kě tuō yú shēn yuān* — "a fish cannot slip away from the deep pool"), adding 深 (*shēn* — deep). Silk B keeps 可 and writes 說 (*shuō*) for 脫 (*tuō* — slip away), a graph on the same 兌 (*duì*) for sound.
 
 **Our call: the base, and the verse's *cannot*,** by the tie-break order, oldest witness first (Shalom's call, 2026-11-23). Silk A's 瀟 (*xiāo*) is the Shuowen's name of a river; its 潚 (*sù*), 深清也 (*"deep and clear"*), is the graph later dictionaries fold into 瀟. Which one the silk writes is for the print check (`WORKLIST.md` T2-95). Forks 131–133; `glossary/tuo-脫.md`, `glossary/ke-可.md`, and for 淵 (*yuān* — the deep), T2-24.
+
+### Ch 37 · 道常無為而無不為 / 道恒亡為也 / 道恆無名 — the paradox is in no excavated witness here
+
+**Guodian, the oldest witness, reads 道恒亡為也 (*dào héng wú wéi yě* — "the Tao is ever non-doing")** and stops: no 而無不為 (*ér wú bù wéi* — "yet nothing is not done"). **Both silks read 道恆無名 (*dào héng wú míng* — "the Tao is ever nameless")**, as at ch 32. Guodian has the whole line, 亡為而亡不為 (*wú wéi ér wú bù wéi*), at ch 48. **Our call, for now: the base** (Shalom's call, 2026-11-23). Guodian reads the chapter differently in about six other places, among them 知足 (*zhī zú* — knowing enough) for 無欲 (*wú yù* — desireless), and the chapter is to be read against it whole (`WORKLIST.md` T4-12). Fork 136; Guodian via 6dsy and the silks via Wikisource, both pending print (T2-80).
 
 ### Ch 39 · 故致數譽無譽 — we depart from the base, and our own 王弼 says why
 

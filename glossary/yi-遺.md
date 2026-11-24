@@ -127,7 +127,7 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 
 ### What no rule can enforce
 
-**The reverse direction.** `forbidden:` holds *bequeath*, *cast aside* and *left out* out of 遺's chapters, and nothing there prints them. *Abandon* stays off the list: it is 棄 (*qì* — cast away)'s English at chapters 19 and 27, and the gate would raise a note at each of its lines. *Leave* and *left* are 遺's English, but *left* also stands in lines with no 遺: chapter 3's *"nothing is left ungoverned,"* and chapters 37 and 48, *"nothing is left undone,"* for 無不 (*wú bù* — "there is nothing not"). Chapter 24's *leftover* is 餘 (*yú*)'s declared English, and *the left* of chapters 31, 34 and 79 is 左 (*zuǒ* — left), another word. No gate sees these. Run `concordance.py --english "left"` when a line elsewhere reaches for it.
+**The reverse direction.** `forbidden:` holds *bequeath*, *cast aside* and *left out* out of 遺's chapters, and nothing there prints them. *Abandon* stays off the list: it is 棄 (*qì* — cast away)'s English at chapters 19 and 27, and the gate would raise a note at each of its lines. *Leave* and *left* are 遺's English, and *left* still stands where 遺 does not: chapter 24's *leftover* is 餘 (*yú*)'s declared English, and *the left* of chapters 31, 34 and 79 is 左 (*zuǒ* — left), another word. No gate sees these. Run `concordance.py --english "left"` when a line elsewhere reaches for it.
 
 ### Left open
 
@@ -136,7 +136,5 @@ Dong Chinese gives 遺 two readings in Middle Chinese: *ywij*, now *yí*, "leave
 **Silk A's 道 at chapter 52:** a loan by sound, or *"do not lead the body into calamity."* The two reconstructions disagree about the sound, and no edition's reading of the line is consulted here (fork 135, T2-95).
 
 **The Heshang Gong text pulls two ways at chapter 52.** Its pronunciation note spells *wèi*, while his gloss, 內視存神，不爲漏失 (*"looking within and keeping the spirit, not letting it leak away and be lost"*), reads the *yí* word. The notes are printed in a Song edition, and when they entered the text is not established here.
-
-**Whether *nothing is left undone* (37, 48) keeps its *left*.** It is supplied English, and *leave* is now one character's. Its phrasing belongs with 無為 (*wú wéi* — non-doing), not here.
 
 **The graph before the seal script** is read here only through the CUHK database's description. The forms themselves, and the Guodian slips' graph at chapter 9, are not.

@@ -28,7 +28,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 3,6,2,弱其志，強其骨。,"ruò qí zhì, qiáng qí gǔ.","teaches the ambition to yield, and strengthens the bones.","teaching their will to yield and strengthening their bones,",exact-count
 3,7,2,常使民無知無欲。,Cháng shǐ mín wú zhī wú yù.,Constantly keep the people without knowledge and desire.,"so the people are ever unknowing, ever desireless,",exact-count
 3,8,2,使夫智者不敢為也。,Shǐ fū zhì zhě bù gǎn wéi yě.,Let the clever not dare to act.,and the knowers never push to act.,exact-count
-3,9,2,為無為，則無不治。,"Wéi wú wéi, zé wú bù zhì.","Practice non-action, and nothing will not be governed.","Do the not-doing, and nothing is left ungoverned.",exact-count
+3,9,2,為無為，則無不治。,"Wéi wú wéi, zé wú bù zhì.","Practice non-action, and nothing will not be governed.","Doing not-doing, nothing is not governed.",exact-count
 4,1,0,道沖，而用之或不盈。,"Dào chōng, ér yòng zhī huò bù yíng.","The Tao is empty/hollow \[chong\], and using \[yong\] it, it is never \[huo bu\] full \[ying\].","The Tao is empty, and using it, it never fills.",exact-count
 4,2,0,淵兮，似萬物之宗。,"Yuān xī, sì wàn wù zhī zōng.","Abyss-like, it seems to be the ancestor of all things.","Fathomless, it seems to be the ancestor of the countless things.",exact-count
 4,3,0,挫其銳，解其紛，,"Cuò qí ruì, jiě qí fēn,","Blunt the sharpness, unravel the complexity,","It blunts the sharpness, untangles the knots,",exact-count
@@ -435,7 +435,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 36,6,2,柔弱勝剛強。,Róu ruò shèng gāng qiáng.,Soft and yielding overcomes hard and strong.,The soft and yielding overcome the unbending and strong.,exact-count
 36,7,3,魚不可脫於淵，,"Yú bù kě tuō yú yuān,",Fish cannot be removed from the deep abyss.,A fish cannot slip away from deep water.,exact-count
 36,8,3,國之利器不可以示人。,Guó zhī lì qì bù kě yǐ shì rén.,State's sharp vessels cannot be shown to humans.,A state's beneficial tools cannot be shown.,exact-count
-37,1,1,道常無為而無不為。,Dào cháng wú wéi ér wú bù wéi.,"Tao constantly takes no action, yet nothing is left undone.","The Tao is ever non-doing, yet nothing is left undone.",exact-count
+37,1,1,道常無為而無不為。,Dào cháng wú wéi ér wú bù wéi.,"Tao constantly takes no action, yet nothing is left undone.","The Tao is ever non-doing, yet nothing is not done.",exact-count
 37,2,1,侯王若能守之，萬物將自化。,"Hóu wáng ruò néng shǒu zhī, wàn wù jiāng zì huà.","Marquises and kings, if able to maintain this, the ten thousand things will autonomously transform","If nobles and sovereigns are able to hold to this, the countless things will transform of themselves.",exact-count
 37,3,2,化而欲作，吾將鎮之以無名之樸。,"Huà ér yù zuò, wú jiāng zhèn zhī yǐ wú míng zhī pǔ.","Transforming and desiring to act, I will stabilize them with the nameless uncarved wood","Transforming, if they want to act, I will stabilize them with the nameless uncarved wood.",exact-count
 37,4,2,無名之樸，夫亦將無欲。,"Wú míng zhī pǔ, fū yì jiāng wú yù.","The nameless uncarved wood, indeed also will be without desire.","With the nameless uncarved wood, they too will be desireless.",exact-count
@@ -537,7 +537,7 @@ chapter,line,block,chinese,pinyin,literal_gloss,our_english,alignment_method
 47,5,2,不見而名，不為而成。,"Bù jiàn ér míng, bù wéi ér chéng.","names/discerns \[ming\] without seeing \[bu jian\], completes \[cheng\] without doing \[bu wei\].","names without seeing, / and completes without acting.",authored
 48,1,1,為學日益，為道日損。,"Wéi xué rì yì, wéi dào rì sǔn.","Pursuing study/learning, one increases daily; pursuing the Tao, one decreases daily.","In pursuit of learning, you increase daily; / in pursuit of the Tao, you decrease daily.",authored
 48,2,1,損之又損，以至於無為。,"Sǔn zhī yòu sǔn, yǐ zhì yú wú wéi.","Decreasing and decreasing again, until reaching zero-friction execution (wu wei).","Decrease, and decrease again, until you reach non-doing.",authored
-48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is left undone.",authored
+48,3,1,無為而無不為。,Wú wéi ér wú bù wéi.,"Zero-friction execution, yet nothing is left undone/unexecuted.","Non-doing, yet nothing is not done.",authored
 48,4,2,取天下常以無事，,"Qǔ tiān xià cháng yǐ wú shì,","Taking (qu) the world is always (chang) by means of no-undertaking (wu shi),",Win over the world by never meddling with it.,authored
 48,5,2,及其有事，不足以取天下。,"Jí qí yǒu shì, bù zú yǐ qǔ tiān xià.","Once there is undertaking (you shi), that is not enough (bu zu) to take the world.","The moment you meddle, you cannot win it over.",authored
 49,1,1,聖人無常心，以百姓心為心。,"Shèng rén wú cháng xīn, yǐ bǎi xìng xīn wéi xīn.","The Sage has no constant/fixed mind, takes the people's mind as their mind.",The sage has no fixed heart; / they take everyone's heart as their own.,authored

@@ -9,7 +9,7 @@
 # See SOURCES.md for source identities and PROVENANCE.md for admission rules.
 # Each fork has a permanent numeric ID. Use the counter's current value for a
 # new fork, then advance it. Deleting or moving a fork leaves the counter alone.
-# next-fork-id: 136
+# next-fork-id: 138
 # Each reading carries its evidence and its own gloss.
 # A print check is tracked on the individual reading and linked to WORKLIST.md.
 
@@ -258,6 +258,27 @@
     people either way. Logged because our own note at ch 3 says "all three
     clauses are 使民X," and in the third clause that is an eighteenth-century
     editorial restoration rather than a reading the witnesses agree on.
+  logged: notes/manuscript.md
+
+- chapter: 3
+  id: 137
+  line: "使夫智者不敢為也。為無為，則無不治"
+  base: "不敢為也。為無為"
+  base_pinyin: "bù gǎn wéi yě. wéi wú wéi"
+  base_english: "never push to act. Doing not-doing"
+  readings:
+    - { source: "mawangdui-b", text: "不敢，弗為而已", pinyin: "bù gǎn, fú wéi ér yǐ", english: "not push; do not act, and that is all", annotation: "No doing not-doing: not acting, and that is all, then nothing is not governed.", via: "wikisource", locator: "Silk B, Chapter 3 (received numbering), the chapter's close", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#3_-_%E7%AB%A0%E4%B8%89", verification: "pending-print", confirm: "T2-80" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    Silk B, as Wikisource transcribes it, closes the chapter 使夫知不敢，弗為而已，
+    則無不治矣: "make the knowing not push; do not act, and that is all, and
+    then nothing is not governed." It has no 為無為 (wei wu wei - do
+    not-doing), the formula ch 63 also opens on. Silk A is damaged here, and
+    Guodian does not attest the chapter. Wang Bi and Heshang Gong both print
+    為無為, and Heshang Gong glosses it as the sage's manner, 不造作，動因循 (not
+    contriving, moving by following). The base kept, 2026-11-23, Shalom's
+    call. The silk's 知 for 智者 is fork 8.
   logged: notes/manuscript.md
 
 - chapter: 38
@@ -1790,6 +1811,29 @@
     graphs carry 兌 (dui) for sound, and nothing in the line calls for 說's
     own sense, to speak. Silk A and Han Fei write 脫. Recorded 2026-11-23
     with forks 131 and 132 so the reading is not rediscovered as news.
+  logged: notes/manuscript.md
+
+- chapter: 37
+  id: 136
+  line: "道常無為而無不為"
+  base: "道常無為而無不為"
+  base_pinyin: "dào cháng wú wéi ér wú bù wéi"
+  base_english: "the Tao is ever non-doing, yet nothing is not done"
+  readings:
+    - { source: "guodian", text: "道恒亡為也", pinyin: "dào héng wú wéi yě", english: "the Tao is ever non-doing", annotation: "No second half: the paradox is absent here.", via: "six-dsy", locator: "Bundle A, unit A.1, Chapter 37 (received numbering), the opening line", url: "https://6dsy.cn/daodejing-guodianchujianben-37zhang/", verification: "pending-print", confirm: "T2-80" }
+    - { source: "mawangdui-a", text: "道恆無名", pinyin: "dào héng wú míng", english: "the Tao is ever nameless", via: "wikisource", locator: "Silk A, Chapter 37 (received numbering), the opening line", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E7%94%B2%E6%9C%AC%29#37_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E4%B8%83", verification: "pending-print", confirm: "T2-80" }
+    - { source: "mawangdui-b", text: "道恆無名", pinyin: "dào héng wú míng", english: "the Tao is ever nameless", via: "wikisource", locator: "Silk B, Chapter 37 (received numbering), the opening line", url: "https://zh.wikisource.org/zh-hant/%E8%80%81%E5%AD%90_%28%E5%B8%9B%E6%9B%B8%E4%B9%99%E6%9C%AC%29#37_-_%E7%AB%A0%E4%B8%89%E5%8D%81%E4%B8%83", verification: "pending-print", confirm: "T2-80" }
+  meaning_bearing: true
+  our_call: base
+  note: >
+    No excavated witness has the paradox at this chapter. Guodian, the oldest,
+    as 6dsy transcribes it, reads 道恒亡為也, "the Tao is ever non-doing," and
+    stops; both silks read 道恆無名, "the Tao is ever nameless," as at ch 32.
+    Guodian does have 亡為而亡不為 at ch 48, so the line is the book's; the
+    received text may carry it here from there. Wang Bi and Heshang Gong both
+    print and gloss it. The base is kept while the chapter is read against
+    Guodian as a whole, which differs in about six other places (WORKLIST
+    T4-12). Recorded 2026-11-23, Shalom's call.
   logged: notes/manuscript.md
 
 - chapter: 39

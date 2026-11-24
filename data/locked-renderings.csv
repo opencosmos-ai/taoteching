@@ -88,11 +88,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,exact-count,and the knowers never push to act.
 3,8,智,zhì,智,cleverness / clever,yes,1.0,exact-count,and the knowers never push to act.
 3,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and the knowers never push to act.
-3,9,治,zhì,治,govern,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
+3,9,治,zhì,治,govern,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Doing not-doing, nothing is not governed."
 4,1,沖,chōng,沖,empty,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
@@ -835,12 +835,12 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,國,Guó,國,state,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
-37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
+37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
 37,2,侯,Hóu,王,nobles (inside 侯王),NOT FOUND,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
 37,2,守,shǒu,守,hold to,yes,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
 37,2,物,wù,萬物,things / something,yes,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
@@ -1129,10 +1129,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 48,1,道,dào,道,the Tao / way,yes,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,2,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Decrease, and decrease again, until you reach non-doing."
 48,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Decrease, and decrease again, until you reach non-doing."
-48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is left undone."
+48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is not done."
 48,4,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Win over the world by never meddling with it.
 48,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Win over the world by never meddling with it.
 48,4,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Win over the world by never meddling with it.
