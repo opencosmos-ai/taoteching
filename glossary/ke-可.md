@@ -93,15 +93,17 @@ Our 說文: 熊屬。足似鹿。从肉㠯聲。能獸堅中，故稱賢能；�
 ### Chapter 36, the hardest line
 
 > 魚不可脫於淵，國之利器不可以示人。
-> *"A fish cannot leave deep water. / A state's beneficial tools cannot be shown."*
+> *"A fish cannot slip away from deep water. / A state's beneficial tools cannot be shown."*
 
 **The two clauses are one parallel, and the English keeps it.** Both read *cannot* (Shalom's call, 2026-10-14).
 
 **Why *cannot* for both:**
 
-- **王弼 reads both halves as one consequence:** 魚脫於淵則必見失矣。利國器而立刑以示人，亦必失也 — *"a fish that leaves the deep is surely lost. To set up punishments as the state's tools and show them to people, that too is surely lost."* 亦 (*yì* — also) ties the two clauses together, and 必 makes both predictions.
+- **王弼 reads both halves as one consequence:** 魚脫於淵則必見失矣。利國器而立刑以示人，亦必失也 — *"a fish that slips away from the deep is surely lost. To set up punishments as the state's tools and show them to people, that too is surely lost."* 亦 (*yì* — also) ties the two clauses together, and 必 makes both predictions.
 - **The fish line is plainly not advice.** A fish is not forbidden to leave the water. It dies. The second line borrows the first's logic.
 - **The chapter keeps its *musts* for the four 必固 lines** (*"you must first stretch it out…"*), where 必 (*bì*) prints them.
+
+**The witnesses keep 可, all but one.** Silk A, as transcribed, reads 魚不脫於瀟 (*yú bù tuō yú xiāo* — "a fish does not slip away from the deep, clear water"), with no 可 in the fish line, so there the line would report what a fish does not do. Han Fei, the oldest witness to the chapter, quotes 魚不可脫於深淵 (*yú bù kě tuō yú shēn yuān* — "a fish cannot slip away from the deep pool"), and silk B keeps 可 too. Oldest witness first, so *cannot* stands (`sources/variants.yaml` fork 131, awaiting a print check).
 
 **What it costs:** 河上公 hears advice: 治國權者不可以示執事之臣也, *"the authority that governs the state must not be shown to the ministers who run affairs."* 韓非 (*Hán Fēi*) reads the whole chapter as counsel to a ruler: rewards and punishments, the state's 利器, 在君則制臣，在臣則勝君, *"held by the lord they control the ministers; held by the ministers they overcome the lord."* And 可以 rather than 可 marks the second clause slightly differently from the first. On their reading the line is a warning to rulers, and *must never* would be honest to it. That reading is set aside, not refuted.
 

@@ -32,7 +32,7 @@ That path is not a curiosity of this one word. It is the oldest governing metaph
 
 | ch | line | now |
 |---|---|---|
-| 3 | 是以聖人之**治** · 為無為，則無不**治** | governs · nothing is left ungoverned |
+| 3 | 是以聖人之**治** · 為無為，則無不**治** | governs · nothing is not governed |
 | 8 | 政善**治** | **order** |
 | 10 | 愛民**治**國 | governing the state |
 | 57 | 以正**治**國 | govern the state |
@@ -76,7 +76,7 @@ At **8**, the line is 政善治, and **政 (*zhèng* — government) is already 
 ### Working register
 
 - of a state or a people → **govern** (治大國 → "governing a large state"; 民之難治 → "the people are hard to govern")
-- as the state's own condition → **ungoverned** (無不治 → "nothing is left ungoverned")
+- as the state's own condition → **not governed** (無不治 → "nothing is not governed," its two negations kept as in 無不為 (*wú bù wéi* — "nothing not done"))
 - where the object is not a polity → **order** (治之於未亂 → "order it before it falls into disorder")
 
 ### 政, settled — and 正, which is not
@@ -85,7 +85,7 @@ At **8**, the line is 政善治, and **政 (*zhèng* — government) is already 
 
 **The decision turned on part of speech, not on consistency.** 其政 (*qí zhèng* — ***its*** government) can only be nominal, since 其 takes a noun — so the book's own two unambiguous uses of 政 are nouns. And chapter 8's other six first slots are each rendered by **their own** part of speech: 居 (*jū* — to dwell), 與 (*yǔ* — to give) and 動 (*dòng* — to move) as verbs, 心 (*xīn* — heart), 言 (*yán* — speech) and 事 (*shì* — affairs) as nouns. **The stanza alternates three and four, and that mix is the thing to keep.** Making 政 the one slot rendered against its own part of speech was the error, and it is what pushed 治 onto *order* in the first place.
 
-**正 (*zhèng* — upright) is in the room and stays untouched.** 說文 defines 政 *as* 正 — 政，正也。从攴从正, *"from 攴 (pū — a hand holding a rod) and 正, which is also the sound"*; our base at chapter 8 reads 政 where 河上公's reads 正, a fork already logged; and 正 stands at chapter 57 inside another 治 line, 以正治國 (*"govern the state with the straight"* since 2026-11-19, `glossary/zheng-qi-正奇.md`). 政 was settled before 正 was, and without reaching into it.
+**正 (*zhèng* — upright) is in the room and stays untouched.** 說文 defines 政 *as* 正 — 政，正也。从攴从正, *"from 攴 (pū — a hand holding a rod) and 正, which is also the sound"*; our base at chapter 8 reads 政 where 河上公's reads 正, a fork already logged; and 正 stands at chapter 57 inside another 治 line, 以正治國 (*"with the straight, the state is governed"*: the words since 2026-11-19, `glossary/zheng-qi-正奇.md`, and the order since 2026-11-21, `chapters/057.md` → Notes). 政 was settled before 正 was, and without reaching into it.
 
 ### Left open
 

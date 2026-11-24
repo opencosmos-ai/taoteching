@@ -30,9 +30,9 @@ That single image dissolves the quietism. The elephant is not asleep. It is enor
 
 ### The paradox, stated twice
 
-**道常無為而無不為** (37, and again at 48) — *the Tao ever does not do, and yet nothing is left undone.*
+**道常無為而無不為** (37, and again at 48) — *the Tao is ever non-doing, yet nothing is not done.*
 
-This is the line that makes 無為 impossible to read as laziness. Nothing is left undone. The work gets finished — *better*, in fact, than when someone was managing it — because everything was already going where it needed to go. The claim is not that non-doing is virtuous restraint. The claim is that it is **more effective**. Laozi is making an argument about how results actually happen.
+This is the line that makes 無為 impossible to read as laziness. Nothing is not done. The work gets finished — *better*, in fact, than when someone was managing it — because everything was already going where it needed to go. The claim is not that non-doing is virtuous restraint. The claim is that it is **more effective**. Laozi is making an argument about how results actually happen.
 
 And **為無為** (3, 63) — three characters: *do the not-doing.* Grammatically undeniable, and it settles the question: 無為 is something you **actively do**. It is a practice, not an absence. Keeping your hand off something you are certain you could improve is continuous, effortful, and difficult.
 
@@ -64,9 +64,9 @@ Three arguments, the last of which is decisive.
 
 **1. The chime.** 無為而無不為 repeats the *same character* — 為, then 不為. English should repeat the same word:
 
-> **"does not do, yet nothing is left undone"**
+> **"non-doing, yet nothing is not done"**
 
-*Do* and *undone* share a root, and the line closes on itself the way the Chinese does. "Non-action, yet nothing is left undone" breaks the mirror — two different roots, and the reader no longer hears that the second half is the first half negated.
+*Doing* and *done* share a root, and the line closes on itself the way the Chinese does: two negations, 無 (*wú* — there is no) over 不為 (*bù wéi* — not do), make a whole. "Non-action, yet nothing is not done" breaks the mirror — two different roots, and the reader no longer hears that the second half is the first half negated.
 
 **2. The register.** 為 is a hand on a hide: concrete, physical, manual. "Doing" is plain, bodily, Anglo-Saxon. "Action" is abstract and Latinate, and in English philosophy it is a term of art — action theory, agency, praxis — which invites the reader into a seminar. The naturalistic razor cuts toward the picture, not away from it. And "non-action" slides morphologically toward "**inaction**," which is precisely the two-thousand-year misreading. "Non-doing" resists that slide, because *doing* is so plainly something you are up to.
 
@@ -92,8 +92,8 @@ The structure only survives in English if the word is a **verb that also works a
 ### Working register
 
 - **無為** → **non-doing** (as a noun: *the practice of non-doing*; 無為之益 → "the abundance of non-doing")
-- **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味)
-- **無為而無不為** → **"does not do, yet nothing is left undone"** — render identically at 37 and 48; it is one line, sounded twice
+- **為無為** → **"do the not-doing"** (hyphenated in the verb position, to keep the parallel with 事無事, 味無味) at ch 63; at ch 3, **"Doing not-doing,"** a gerund, the last of the sage's means under 聖人之治 (*shèng rén zhī zhì* — "the sage's governing"), which has no such parallel (Shalom's call and wording, 2026-11-23)
+- **無為而無不為** → **"non-doing, yet nothing is not done"** — identical at 37 and 48; it is one line, sounded twice, and 無不 (*wú bù* — "there is nothing not") keeps both its negations
 - **我無為** (57) → **"I do not do"** — plainest possible, to match the four-line refrain
 - **聖人無為故無敗** (64) → **"the sage does not handle it, and so ruins nothing"** — the answer to 為者敗之, *"Those who handle it ruin it,"* so it takes the question's verb; a flexion scoped to ch 64 (Shalom's call, 2026-11-19)
 

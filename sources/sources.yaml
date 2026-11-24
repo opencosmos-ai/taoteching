@@ -229,6 +229,12 @@
   use: facts
   url: https://www.dong-chinese.com/
 
+- id: cuhk-lexis
+  name: "CUHK Multi-function Chinese Character Database"
+  kind: reference
+  use: facts
+  url: https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
+
 - id: duan-yucai
   name: "Duan Yucai's annotated Shuowen"
   kind: reference

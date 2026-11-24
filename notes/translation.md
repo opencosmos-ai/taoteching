@@ -320,7 +320,7 @@ The entry carries all of it — the chime (無為而無不為 repeats 為, so th
 
 **襲 is grave-clothes.** 說文解字: **左衽袍** — *"a robe with the lapel closed to the left."* The living close a robe right over left; **the dead are dressed left over right.** The graph is 衣 (*yī* — clothing) with 龖 abbreviated for sound, and every later sense — to double, to succeed to, to fall upon — descends from **one garment put on over another**. So 襲明 is not clarity received from ancestors. It is **clarity worn, and therefore covered.**
 
-**Which is what both chapters are about.** Ch 27 opens 善行無轍跡 (*shàn xíng wú zhé jì* — "masterful traveling leaves no tracks") and runs through five masteries that leave no mark, closing on this line; the summary says the clarity is under something. The book says it elsewhere in plain images — 被褐懷玉 (*bèi hè huái yù* — "wears coarse cloth, carries jade at the breast," ch 70) and 光而不耀 (*guāng ér bù yào* — "bright but not dazzling," ch 58). Ch 52's line closes a movement that has just said 用其光，復歸其明 — *"use the outer light, return to your inner clarity"* — the same motion of putting the shine away.
+**Which is what both chapters are about.** Ch 27 opens 善行無轍跡 (*shàn xíng wú zhé jì* — "masterful traveling, no tracks") and runs through five masteries that leave no mark, closing on this line; the summary says the clarity is under something. The book says it elsewhere in plain images — 被褐懷玉 (*bèi hè huái yù* — "wears coarse cloth, carries jade at the breast," ch 70) and 光而不耀 (*guāng ér bù yào* — "bright but not dazzling," ch 58). Ch 52's line closes a movement that has just said 用其光，復歸其明 — *"use the outer light, return to your inner clarity"* — the same motion of putting the shine away.
 
 ```
 ch 27   This is called clarity worn covered.
@@ -981,6 +981,8 @@ That fact resolves the witness fork rather than deepening it. **Both silks read 
 **Retrofit closed.** This was the debt opened when Ch 62 settled 棄 → *abandon*; `WORKLIST.md` can drop it. The wider point is logged as a Thread in `notes/reading.md`: Wang Bi glosses this very line with 不造進向以殊**棄不肖** — *"does not create tracks of advancement that single out and discard **the unfit**"* — and 不肖 is Ch 62's 不善人.
 
 #### 善言無瑕謫 → "Masterful speaking leaves no flaw"
+
+*(Superseded 2026-11-22, Shalom's call: "Masterful speaking, no flaw," the four 無 lines bare and the one 不用 line with *uses*. `chapters/027.md` → Notes.)*
 
 *(Shalom's call, 2026-11-15, T3-18. Was "Masterful speaking is flawless.")*
 
@@ -2220,6 +2222,38 @@ The cost of *drawing* is the whole point: aim makes it a chapter about hitting s
 ### Ch 50, 55 · 厚 → "thick"; ch 44 keeps "heavy loss"
 
 *(2026-11-19, Shalom's calls.)* *(was: "cling too tightly to life," "abundant integrity.")* Ch 50 *"live life too thickly,"* the doubled verb back; ch 55 *"holds integrity thick within"* (*abundant* is 餘's at 54). Ch 44's *heavy* (重's word) kept as a recorded departure. T2-21, T3-14.
+
+### *Leave*, one character's: 遺; 去 → "fade away," 離 → "separate from," 出戶 → "going out your door"
+
+*(2026-11-22, Shalom's calls.)* *Leave* stood for four characters. **遺 (*yí* — to leave behind; 說文 亾也, "lost") keeps it**, at 9 and 52, where the 咎 entry already reads 自遺 as *"leave to oneself."* **去 (*qù*) → *fade away*** at 2 and 21, the two 不去 lines now alike (*was* "does it not leave," "has never been erased"); transitive 去 keeps *let go of* (12, 29, 38, 72). **離 (*lí*) → *separate from*** at 26 and 28 (*was* "without leaving," "never leaves you"); ch 10's *undivided* is the same verb, left for its own review. **出 (*chū*) at 47 → *"Without going out your door"*** (*was* "Without leaving home"), 戶 *door* as at 11. **Ch 27's supplied *leaves* went too:** the four 無 (*wú* — no) lines read bare, *"Masterful traveling, no tracks,"* and only 不用 (*bù yòng* — does not use) keeps *uses*. Still open: ch 20's 若遺 reads *"missed out"*. Arguments in each chapter's Notes; `glossary/tuo-脫.md` → *What is set aside*.
+
+### Ch 3, 37, 48 · 無不為 → "nothing is not done"; ch 3 → "Doing not-doing, nothing is not governed"
+
+*(2026-11-23, Shalom's calls; ch 3's wording his.)* *(was: "yet nothing is left undone," "Do the not-doing, and nothing is left ungoverned.")* 無不 (*wú bù* — "there is nothing not") keeps its two negations at all three, and the supplied *left* goes, since *leave* is 遺 (*yí* — to leave behind)'s. 為 (*wéi* — to do) reads *do* in both halves of 無為而無不為. At ch 3, 為無為 (*wéi wú wéi* — "do not-doing") is a gerund, the last of the sage's means under 聖人之治 (*shèng rén zhī zhì* — "the sage's governing"); ch 63 keeps the imperative, a recorded departure. Ch 37's second half is in no excavated witness: Guodian 道恒亡為也 (*"the Tao is ever non-doing"*), the silks 道恆無名 (*"the Tao is ever nameless"*). Fork 136; the chapter to be read against Guodian whole, `WORKLIST.md` T4-12. Silk B's ch 3, fork 137. Arguments in each chapter's Notes.
+
+### Ch 20 · 而我獨若遺 → "I alone seem left behind"; 遺 → "leave," locked
+
+*(2026-11-23, Shalom's call.)* *(was: "I alone seem to have missed out.")* 遺 (*yí* — to leave behind) locked as *leave* in all three lines (`glossary/yi-遺.md`): *leave to* at 9 and 52, *left behind* at 20. One graph holds two words, *yí* (be left behind) and *wèi* (to present), and English *leave* holds both. Silk A's 我獨遺 (*wǒ dú yí* — "I alone am left"), without 若 (*ruò* — seem), is fork 134; the base kept with both commentators' *as if*. Closes the *leave* entry's last open line. `chapters/020.md` → Notes.
+
+### Ch 10 · 能無離乎 → "can you be without separation?"
+
+*(2026-11-23, Shalom's call.)* *(was: "can you be undivided?")* 離 (*lí* — to separate) reads *separate from* at 26 and 28, and ch 10 now carries it in the frame *can you be …?*, matching 能無疵乎 (*néng wú cī hū*), *"can you be without blemish?"* Wang Bi glosses the line 能常無離乎 (*néng cháng wú lí hū* — "can you always be without separation?"). *Inseparable* adds a second modal to 能 (*néng* — can). Closes the *leave* entry's last open line for 離. Argument in `chapters/010.md` → Notes.
+
+### Ch 54 · 善建者 → "One who is masterful at planting"; 脫 → "slip away"
+
+*(2026-11-22, Shalom's call and wording.)* *(was: "What is masterfully planted cannot be uprooted. / What is masterfully embraced cannot slip away.")* A person, on the 善 lock, as all three commentators read; no modal. 脫 → *slip away* at 36 and 54, locked the same day (`glossary/tuo-脫.md`): intransitive, no agent, a going-out from a hold. *Depart* is 逝's at 25, and *leave* is worn by 去, 離 and 遺. R6 minor; `chapters/054.md` → Notes.
+
+### Ch 50 · 入軍不被甲兵 → "enters into battle without armor or weapons"
+
+*(2026-11-21, Shalom's call.)* *(was: "can travel… and can enter into battle untouched by armor or weapons.")* *Can* dropped twice, no 能; the verse follows Han Fei's 不備甲兵, the oldest witness, against the base's 被. Fork 130; `notes/manuscript.md` → Ch 50. R6 minor.
+
+### Ch 42 · 我亦教之 → a full stop for the colon
+
+*(2026-11-21, Shalom's call.)* *(was: "What others teach, I also teach:")* The strong-die line is the speaker's lesson, not the crowd's: Heshang Gong's two curricula, and Wang Bi's 不當為强梁. R6 minor; `chapters/042.md` → Notes.
+
+### Ch 57 · the opening three → descriptions, 以 first
+
+*(2026-11-21, Shalom's call.)* *(was: "Govern the state with the straight, / wage war with the crooked, / and win over the world by not meddling.")* *"With the straight, the state is governed; / with the crooked, war is waged; / by not meddling, the world is won over."* Heshang Gong reads descriptions, Wang Bi reads the first two as failing; the commands endorsed all three. R6, finding 8; argument in `chapters/057.md` → Notes.
 
 ### Ch 30 · 其事好還 → "Such affairs tend to turn back"
 

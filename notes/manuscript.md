@@ -100,6 +100,10 @@ We print 俗人昭昭，我獨**昏昏** — *"the worldly are bright; I alone a
 
 Worth noting what he does next: having softened the text to *as if*, 河上公 glosses it **如闇昧也**, *"like 闇昧"* — and restores by commentary the flatness his reading had taken out. `sources/variants.yaml`.
 
+### Ch 20 · 而我獨若遺 / 我獨遺 — a statement, or a seeming
+
+**Silk A, as Wikisource transcribes it, reads 我獨遺 (*wǒ dú yí* — "I alone am left")**, with no 而 (*ér* — yet) and no 若 (*ruò* — seem). Silk B's transcription has no counterpart to the clause. Guodian attests only the chapter's opening and Han Fei does not quote it, so silk A is the oldest witness to the line. **Our call: the base,** *"I alone seem left behind"* (Shalom's call, 2026-11-23). Both commentators gloss the 若 with their own *as if*, and silk A is one manuscript, read only in transcription. `glossary/yi-遺.md`. Fork 134; print check `WORKLIST.md` T2-95.
+
 ### Ch 9 · 功遂 / 功成名遂 — how many things are finished before the body withdraws
 
 We print 功遂身退，天之道 — *"the work done, the body withdraws; this is the way of nature."* **The Siku compilers attach a collation note to their own 王弼 (*Wáng Bì*) text**: 〔案**河上公注本及各本俱作功成名遂身退**〕 — *"Heshang Gong's commentary text and all editions read 功成名遂身退."* Our vendored 河上公 prints the longer lemma, and glosses it 言人所為功成事立，**名迹稱遂**，不退身避位則遇於害.
@@ -165,6 +169,10 @@ It is recorded here because it **licenses a rendering decision**: the two verbs 
 **河上公's lemma reads 使心不亂, with no 民** (*mín* — the people). And our own vendored 王弼 carries the Siku compilers' collation note on the passage: 〔案原本及各本俱無民字，惟永樂大典有之…今校〕 — *"the base edition and all editions lack the character 民; only the Yongle Dadian has it… now emended."* They restored it on the evidence of 王弼's own commentary.
 
 **Nothing in the sense turns on it** — the subject is the people in either reading, and 王弼 glosses the line 故可欲不見，則心無所亂也, *"so when the desirable is not displayed, the heart has nothing to disorder it,"* with a bare 心. It is logged because **this file's companion note at ch 3 says "all three clauses are 使民X"** (`notes/translation.md`, 2026-08-30), and in the third clause that is an editorial restoration rather than a reading the witnesses agree on. We keep the base text as printed.
+
+### Ch 3 · 為無為 / 弗為而已 — silk B has no do-not-doing
+
+**Silk B, as Wikisource transcribes it, closes the chapter 使夫知不敢，弗為而已，則無不治矣** (*"make the knowing not push; do not act, and that is all, and then nothing is not governed"*). It has no 為無為 (*wéi wú wéi* — "do not-doing"). Silk A is damaged here, and Guodian does not attest the chapter. **Our call: the base,** which both commentators print (Shalom's call, 2026-11-23). Fork 137, pending print (`WORKLIST.md` T2-80).
 
 ### Ch 4 · 湛兮似或存 / 似若存 — a hedge either way
 
@@ -307,7 +315,7 @@ Heshang Gong's reading also independently supports the Mawangdui 自今及古 (*
 
 ### Ch 26 · 君子 / 聖人, 主 / 王 and 失本 / 失臣 — three forks, and our base is alone on the first
 
-**君子 / 聖人.** We print 是以**君子**終日行不離輜重 — *"the noble travels all day without leaving the heavy wagons."* **Both of our vendored commentaries print 聖人** (*shèng rén* — the sage) in the lemma, and 河上公 (*Héshàng Gōng*) glosses on his own reading: 聖人終日行道，不離其靜與重也, *"the sage travels the Tao all day and does not leave stillness and heaviness."* 王弼 (*Wáng Bì*)'s gloss, 以重為本故不離 (*"takes the heavy as the root, and so does not leave it"*), names no subject and cannot settle it. **Our base is the minority reading against two independent editions.** We keep it, per the standing rule that this is an edition of the received recension. 君子 (*jūn zǐ* — the noble, literally a ruler's son) and 聖人 are different figures in this book, not two names for one (`WORKLIST` T2-6, T4-7). That makes this a live fork about **who** the chapter is addressed to, not a synonym swap. The English follows the base: *the noble*.
+**君子 / 聖人.** We print 是以**君子**終日行不離輜重 — *"the noble travels all day without separating from the heavy wagons."* **Both of our vendored commentaries print 聖人** (*shèng rén* — the sage) in the lemma, and 河上公 (*Héshàng Gōng*) glosses on his own reading: 聖人終日行道，不離其靜與重也, *"the sage travels the Tao all day and does not leave stillness and heaviness."* 王弼 (*Wáng Bì*)'s gloss, 以重為本故不離 (*"takes the heavy as the root, and so does not leave it"*), names no subject and cannot settle it. **Our base is the minority reading against two independent editions.** We keep it, per the standing rule that this is an edition of the received recension. 君子 (*jūn zǐ* — the noble, literally a ruler's son) and 聖人 are different figures in this book, not two names for one (`WORKLIST` T2-6, T4-7). That makes this a live fork about **who** the chapter is addressed to, not a synonym swap. The English follows the base: *the noble*.
 
 **主 / 王.** We print 奈何萬乘之**主** (*zhǔ* — lord); **the Siku 王弼 prints 萬乗之王** (*wáng* — king, ruler), and 河上公 agrees with our base (柰何萬乗之主). Not meaning-bearing, since both name the sovereign and the English's *lord* fits either. *(Corrected 2026-09-24: `sources/variants.yaml` had this the wrong way round, saying the Siku reads 主 where we read 王.)*
 
@@ -370,6 +378,14 @@ The received close is 故知足之足，常足矣 (*gù zhī zú zhī zú, chán
 
 Received: 不見而**名** (名, *to name / discern*) — "without seeing, discerns." Mawangdui reads 不見而**明** (明, *clarity / be clear*) — "without seeing, understands clearly." ~~We follow **明**: it completes the parallel (*know / see-clearly / accomplish*, each without its usual means) and reads cleaner than 名 here.~~ **Reversed 2026-09-24, Shalom's call: we keep the received 名**, which both our commentaries print. 王弼 (*Wáng Bì*): 雖不見而是非之理可得而名也, *"though not seeing, the principles of right and wrong can still be named."* The parallel holds with 名: *know / name / accomplish*. 明's predicate English, *see clearly*, had put *see* on two characters in one line, 明 and 見 (*jiàn* — to see). Now *"names without seeing."* See `chapters/047.md`. Worth noting the fork falls between two of our own glossary entries — 名 (the name / ledger) and 明 (clear-seeing) — the homophone pair, both *míng*.
 
+### Ch 50 · 不被甲兵 / 不備甲兵 / 不避甲兵 — untouched, unarmed, or unafraid — **resolved 2026-11-21: we follow Han Fei**
+
+**Three readings of one graph.** Our base reads 入軍不被甲兵 (*rù jūn bù bèi jiǎ bīng* — "enters an army and is not reached by armor or weapons"), and Wang Bi's comment reads it so: 雖入軍而不害 (*"though entering the army, not harmed"*); his printed lemma has an unencoded glyph at 被. Heshang Gong reads 不避甲兵 (*bù bì jiǎ bīng* — "does not avoid armor and weapons"), glossed 不好戰以殺人 (*"does not love war for killing"*). **Han Fei, the oldest witness to this chapter** (Guodian does not attest it), reads 不備甲兵 (*bù bèi jiǎ bīng* — "is not equipped with armor or weapons"), and says why: 重生者，雖入軍無忿爭之心；無忿爭之心，則無所用救害之備 (*"one who values life has no anger or contention even in the army, and so no use for defenses"*).
+
+**What turns on it.** Untouchable, or unarmed. In the base, the next three lines describe harm that cannot land on the sage. In Han Fei, they say why the sage carries nothing to stop it: 不設備而必無害 (*"setting up no defenses, and surely unharmed"*).
+
+**We follow Han Fei, Shalom's call, 2026-11-21:** *"and enters into battle without armor or weapons"* (was: *"and can enter into battle untouched by armor or weapons"*). The tie-break order puts the oldest witness before the commentators. **The base text and the Source table keep 被; only the verse follows Han Fei.** Fork 130. **Not yet checked:** the Mawangdui silks' reading of this line, which is not in the apparatus. Found by the back-translation audit (`process/back-translation-audit.md` → *Minor*); `WORKLIST.md` R6.
+
 ### Ch 52 · 是謂襲常 / 習常 — two characters, and our English had been following the one we do not print
 
 **Found 2026-08-31, by asking why ch 27 and ch 52 rendered the same character two ways.** They were not rendering the same character. Ch 27's *"inherited clarity"* read 襲 (*xí* — to layer a garment over another, hence to succeed to); ch 52's *"the practice of the ever-present"* read **習** (*xí* — to repeat, to drill). Our base text prints **襲** in both places, so ch 52's English was following a variant nobody had recorded.
@@ -379,6 +395,10 @@ Received: 不見而**名** (名, *to name / discern*) — "without seeing, disce
 **We keep the base text and read 襲, and the argument is structural rather than documentary.** 是謂襲明 (ch 27) and 是謂襲常 (ch 52) are the identical frame, and 明 (*míng* — clear-seeing) and 常 (*cháng* — the ever-present) are the book's own bonded pair: 知常曰明 (*zhī cháng yuē míng* — "knowing the ever-present is called clarity") stands verbatim at ch 16 and ch 55. **襲明 and 襲常 are one gesture applied to the two halves of that formula**, and reading 習 at ch 52 dissolves the pair into a coincidence. 習 is also the easier character of the two, which is the direction copying usually runs.
 
 *Recorded in `sources/variants.yaml`; the rendering decision is in `notes/translation.md`. The fork was invisible to `check_locks.py`'s `unlogged-variant` rule, which fires only on variants a chapter **claims** — an English that quietly follows an unrecorded reading is exactly what no check can see.*
+
+### Ch 52 · 無遺身殃 / 毋道身央 — silk A writes 道 for 遺
+
+**Silk A, as Wikisource transcribes it, reads 毋道身央**, with 道 (*dào* — the road) where silk B and every transmitted text have 遺 (*yí* — leave). Two readings are open. **A loan by sound:** Zhengzhang reconstructs both words with an *\*l-* initial (遺 \*lul, 道 \*l'uːʔ), though Baxter–Sagart sets them apart. **Or 道 in its sense *to lead*:** "do not lead the body into calamity." Either way the base stands. Guodian attests only the chapter's middle. Fork 135; `glossary/yi-遺.md`; print check `WORKLIST.md` T2-95.
 
 ### Ch 53 · 是謂盜夸 / 盜竽 — the boast, or the lead-pipe
 
@@ -717,6 +737,16 @@ The Siku editors note inside our 王弼: 〔案永樂大典作柔勝剛弱勝强
 **韓非 supports the split** by quoting only half of it as a saying in its own right: 處小弱而重自卑損，謂「弱勝強」也 — *"to dwell in the small and weak and make much of humbling and diminishing oneself: this is what 'the weak overcomes the strong' means."*
 
 **Our call: the base.** But the English renders it as two matched pairs regardless — *"The soft and yielding overcome the hard and strong"* — because 柔 (*róu*), 弱 (*ruò*), 剛 (*gāng*) and 強 (*qiáng*) are used separately everywhere else in the book, and binding them into two compounds in English would claim more than our own glossary does. 弱 and 強 are both locked; 剛 is still owed a mention (`WORKLIST` T4-4).
+
+### Ch 36 · 魚不可脫於淵 — silk A without 可, Han Fei's 深淵, silk B's 說
+
+**Silk A, as Wikisource transcribes it, reads 魚不脫於瀟 (*yú bù tuō yú xiāo* — "a fish does not slip away from the deep, clear water").** It has no 可 (*kě* — can), so the line reports what a fish does not do, not what it cannot do. **Han Fei, the oldest witness to the chapter, keeps 可:** 魚不可脫於深淵 (*yú bù kě tuō yú shēn yuān* — "a fish cannot slip away from the deep pool"), adding 深 (*shēn* — deep). Silk B keeps 可 and writes 說 (*shuō*) for 脫 (*tuō* — slip away), a graph on the same 兌 (*duì*) for sound.
+
+**Our call: the base, and the verse's *cannot*,** by the tie-break order, oldest witness first (Shalom's call, 2026-11-23). Silk A's 瀟 (*xiāo*) is the Shuowen's name of a river; its 潚 (*sù*), 深清也 (*"deep and clear"*), is the graph later dictionaries fold into 瀟. Which one the silk writes is for the print check (`WORKLIST.md` T2-95). Forks 131–133; `glossary/tuo-脫.md`, `glossary/ke-可.md`, and for 淵 (*yuān* — the deep), T2-24.
+
+### Ch 37 · 道常無為而無不為 / 道恒亡為也 / 道恆無名 — the paradox is in no excavated witness here
+
+**Guodian, the oldest witness, reads 道恒亡為也 (*dào héng wú wéi yě* — "the Tao is ever non-doing")** and stops: no 而無不為 (*ér wú bù wéi* — "yet nothing is not done"). **Both silks read 道恆無名 (*dào héng wú míng* — "the Tao is ever nameless")**, as at ch 32. Guodian has the whole line, 亡為而亡不為 (*wú wéi ér wú bù wéi*), at ch 48. **Our call, for now: the base** (Shalom's call, 2026-11-23). Guodian reads the chapter differently in about six other places, among them 知足 (*zhī zú* — knowing enough) for 無欲 (*wú yù* — desireless), and the chapter is to be read against it whole (`WORKLIST.md` T4-12). Fork 136; Guodian via 6dsy and the silks via Wikisource, both pending print (T2-80).
 
 ### Ch 39 · 故致數譽無譽 — we depart from the base, and our own 王弼 says why
 

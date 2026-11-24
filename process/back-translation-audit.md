@@ -130,6 +130,8 @@ The English: *"Govern the state with uprightness, / wage war with surprise, / an
 
 **This touches only the mood and the added *and*, never the words for 正 / 奇 (*zhèng / qí* — straight / crooked), which Shalom has deferred.** So it does not belong in a chapter review. **It rides with T4-2** as evidence when that opens.
 
+**Done, 2026-11-21 (Shalom's call),** after T4-2 closed: *"With the straight, the state is governed; / with the crooked, war is waged; / by not meddling, the world is won over."* Descriptions, each line opening on its 以 (*yǐ* — with), no added *and*; the words unchanged. `chapters/057.md` → Notes.
+
 **9 · Ch 58 · 其民缺缺 (*qí mín quē quē* — "its people are lacking, broken") → *"the people turn cunning."***
 
 The English makes the people the culprits; the Chinese makes them the casualties. Neither commentator reads craft into the word:
@@ -162,10 +164,10 @@ Each is real and none changes a chapter. Each is worth carrying into the next pu
 | 32 | 夫亦將知止 (*fū yì jiāng zhī zhǐ* — "one too will know to stop") → *"one must know when to stop"* | an obligation | a promise: the same 夫亦將 (*fū yì jiāng* — "they too will") frame as ch 37, where accuracy-audit finding 7 restores *will*. Move them together |
 | 34 · 63 | 故能成其大 (*gù néng chéng qí dà* — "so can complete its greatness") → *"and so completes"* | a result | 能 (*néng* — can), a capacity, as at ch 7 and 77 in the accuracy audit. One formula, so fix all together |
 | 37 | 化而欲作 (*huà ér yù zuò* — "as they transform, desire stirs") → *"When the countless things urge action"* | the things pressing the ruler | desire stirring inside things as they change (Wang Bi: 作，欲成也 (*zuò, yù chéng yě* — "*zuò* is desire coming to fruition")). Ride with T3-8 |
-| 42 | 人之所教，我亦教之 (*rén zhī suǒ jiào, wǒ yì jiào zhī* — "what others teach, I also teach") with a colon after | the strong-die line is what *others* teach | Heshang Gong: I teach the opposite. `glossary/qiang-強.md` quotes him under this English without noticing. A full stop for the colon |
+| 42 | 人之所教，我亦教之 (*rén zhī suǒ jiào, wǒ yì jiào zhī* — "what others teach, I also teach") with a colon after | the strong-die line is what *others* teach | Heshang Gong: I teach the opposite. `glossary/qiang-強.md` quotes him under this English without noticing. A full stop for the colon *(Done 2026-11-21, Shalom's call; Wang Bi reads it the same way.)* |
 | 48 | *"The world always comes to you by not meddling with it"* | the world does not meddle | the rendering is logged; the dangling modifier is not. *"When you do not meddle, the world always comes to you"* *(Done 2026-11-19 another way: "Win over the world by never meddling with it," Shalom's call.)* |
-| 50 | 入軍不被甲兵 (*rù jūn bù pèi jiǎ bīng* — "enters an army and is not reached by / does not wear armor") → *"can enter into battle untouched"* | invulnerability, and *can* | Han Fei quotes 不備甲兵 (*bù bèi jiǎ bīng* — "without armor or weapons"): unarmed, not invulnerable. Record the fork; *can* is added twice |
-| 54 | 善建者不拔 (*shàn jiàn zhě bù bá* — "one masterful at planting is not uprooted") → *"What is masterfully planted"* | a thing | Heshang Gong and Han Fei read a person, and `glossary/shan-善.md` lists ch 54 under *masterful at*. The adverb departs from the lock |
+| 50 | 入軍不被甲兵 (*rù jūn bù pèi jiǎ bīng* — "enters an army and is not reached by / does not wear armor") → *"can enter into battle untouched"* | invulnerability, and *can* | Han Fei quotes 不備甲兵 (*bù bèi jiǎ bīng* — "without armor or weapons"): unarmed, not invulnerable. Record the fork; *can* is added twice *(Done 2026-11-21, Shalom's call: both *can*s dropped, and the verse follows Han Fei, "without armor or weapons"; fork 130.)* |
+| 54 | 善建者不拔 (*shàn jiàn zhě bù bá* — "one masterful at planting is not uprooted") → *"What is masterfully planted"* | a thing | Heshang Gong and Han Fei read a person, and `glossary/shan-善.md` lists ch 54 under *masterful at*. The adverb departs from the lock *(Done 2026-11-22, Shalom's call: "One who is masterful at planting is not uprooted. / One who is masterful at embracing does not slip away," 脫 locked with ch 36, `glossary/tuo-脫.md`.)* |
 | 61 | 夫兩者各得所欲 (*fū liǎng zhě gè dé suǒ yù* — "for the two each to get what they want") → *"Both get what they want."* | a fact, then an unconnected *ought* | Wang Bi: 各得其所欲則大者宜為下 (*gè dé qí suǒ yù zé dà zhě yí wéi xià* — "if each is to get what it wants, then the large one ought to be underneath"). *"For both to get what they want"* |
 | 65 | 將以愚之 (*jiāng yǐ yú zhī* — "meant to make them guileless") → *"to return them to being guileless"* | a fall and a restoration | no *return* in the text or either commentator. *"to make them guileless"* |
 | 73 | 疏而不失 (*shū ér bù shī* — "wide-meshed, yet loses nothing") → *"Its mesh is wide, and nothing slips through"* | an addition | a concession, the chapter's own *yet* four times above it. *"…yet nothing slips through"* |
@@ -210,7 +212,7 @@ The comparers had `process/accuracy-audit.md` in hand and were told not to re-re
 
 **Ch 13 and 22 are rewrites with the evidence above.** Ch 13's note needs correcting whatever the verse does.
 
-**Ch 57 waits for T4-2, and ch 58 for T2-67.** Neither is settled here.
+**Ch 57 waits for T4-2, and ch 58 for T2-67.** Neither is settled here. *(Ch 57 done 2026-11-21, finding 8.)*
 
 **The minor table and the logged table ride with whatever next opens each chapter.** Three of the minor rows are better done as sets:
 - ch 32 with ch 37 (夫亦將 (*fū yì jiāng* — "they too will"))

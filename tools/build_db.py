@@ -1099,7 +1099,7 @@ BASELINE = {
     "line":       (798, "source-table rows across all chapters"),
     "token":      (5296, "Han characters in the base text"),
     "character":  (798, "rows in the character table"),
-    "variant":    (129, "distinct variant_group rows, from sources/variants.yaml. "
+    "variant":    (137, "distinct variant_group rows, from sources/variants.yaml. "
                        "75→82 the 韓非 harvest, 2026-09-10 (R1) · "
                        "82→83 ch 9 功遂 / 功成名遂, 2026-09-20 · "
                        "83→84 ch 20 昏昏 / 若昏, 2026-09-20 · "
@@ -1119,7 +1119,7 @@ BASELINE = {
                        "111→112 ch 61 天下之交 / 天下之牝, the silks' order, 2026-10-26 (notes/manuscript.md) · "
                        "112→113 ch 46 知足之足 / 知足之為足, Guodian, 2026-10-30 (glossary/zhizu-知足.md) · "
                        "113→114 ch 33 不亡 / 不忘, the silks, 2026-10-30 (notes/manuscript.md) · "
-                       "114→118 ch 10 致 / 至 and 能如嬰兒乎 / 能嬰兒乎, ch 42 沖 / 中, ch 55 知和曰常 / 和曰常, 2026-11-01 (glossary/qi-氣.md) · 118→119 ch 1 故 / no 故, the Yongle Dadian, 2026-11-14 (chapters/001.md) · 119→121 ch 4 沖 / 盅 and ch 45 沖 / 盅, the empty-vessel word, 2026-11-15 (glossary/chong-沖.md) · 121→123 ch 18 智慧出 absent from Guodian, ch 65 以智治國 / 以知知邦, 2026-11-16 (glossary/zhi-智.md) · 123→125 ch 38 愚之始 / 愚之首 and ch 20 愚 / 禺, 2026-11-16 (glossary/yu-愚.md) · 125→126 ch 17 悠 / 猶, the base a singleton by its own note, 2026-11-19 (chapters/017.md) · 126→127 ch 77 補 / 與, Heshang Gong's bow line, 2026-11-19 (chapters/077.md) · 127→128 ch 67 故能成 / 故能為成, Han Fei's 為, 2026-11-20 (glossary/cheng-成.md) · 128→129 ch 57 法令 / 法物, Heshang Gong's fine things, 2026-11-20 (glossary/ling-令.md)"),
+                       "114→118 ch 10 致 / 至 and 能如嬰兒乎 / 能嬰兒乎, ch 42 沖 / 中, ch 55 知和曰常 / 和曰常, 2026-11-01 (glossary/qi-氣.md) · 118→119 ch 1 故 / no 故, the Yongle Dadian, 2026-11-14 (chapters/001.md) · 119→121 ch 4 沖 / 盅 and ch 45 沖 / 盅, the empty-vessel word, 2026-11-15 (glossary/chong-沖.md) · 121→123 ch 18 智慧出 absent from Guodian, ch 65 以智治國 / 以知知邦, 2026-11-16 (glossary/zhi-智.md) · 123→125 ch 38 愚之始 / 愚之首 and ch 20 愚 / 禺, 2026-11-16 (glossary/yu-愚.md) · 125→126 ch 17 悠 / 猶, the base a singleton by its own note, 2026-11-19 (chapters/017.md) · 126→127 ch 77 補 / 與, Heshang Gong's bow line, 2026-11-19 (chapters/077.md) · 127→128 ch 67 故能成 / 故能為成, Han Fei's 為, 2026-11-20 (glossary/cheng-成.md) · 128→129 ch 57 法令 / 法物, Heshang Gong's fine things, 2026-11-20 (glossary/ling-令.md) · 129→130 ch 50 被 / 備 / 避, the verse follows Han Fei, 2026-11-21 (notes/manuscript.md) · 130→135 ch 36 可 absent, 淵 / 深淵 / 瀟, 脫 / 說; ch 20 若遺 / 遺; ch 52 遺 / 道, the silks and Han Fei, 2026-11-23 (notes/manuscript.md) · 135→137 ch 37 無為而無不為 / 亡為 / 無名, ch 3 為無為 / 弗為而已, Guodian and the silks, 2026-11-23 (notes/manuscript.md)"),
     "verse_line": (859, "English verse lines across chapters/*.md. "
                         "854→855 ch 26's 奈何萬乘之主，而以身輕天下 set as its "
                         "two comma-segments, 2026-09-20 · "

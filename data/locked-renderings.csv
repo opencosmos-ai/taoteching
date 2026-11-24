@@ -59,7 +59,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 2,10,恃,shì,恃,rely on — the heart putting its weight on something,NOT FOUND,1.0,authored,"acts, and does not rely on it."
 2,10,為,wéi,為,do / handle / serve as,yes,1.0,authored,"acts, and does not rely on it."
 2,11,成,chéng,成,complete,yes,1.0,authored,"The work is complete, and the sage does not stay in it."
-2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not leave.
+2,12,唯,wéi,唯,only,yes,1.0,authored,Only because the sage does not stay does it not fade away.
 3,1,民,mín,民,the people,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
 3,1,爭,zhēng,爭,contend / contention,yes,1.0,exact-count,"When the exceptional are not exalted, the people do not contend."
 3,2,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,"When rare goods are not prized, the people do not become thieves."
@@ -88,11 +88,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 3,8,敢,gǎn,敢,push / venture — the forward press to take,yes,1.0,exact-count,and the knowers never push to act.
 3,8,智,zhì,智,cleverness / clever,yes,1.0,exact-count,and the knowers never push to act.
 3,8,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,exact-count,and the knowers never push to act.
-3,9,治,zhì,治,govern,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
-3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Do the not-doing, and nothing is left ungoverned."
+3,9,治,zhì,治,govern,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Doing not-doing, nothing is not governed."
+3,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"Doing not-doing, nothing is not governed."
 4,1,沖,chōng,沖,empty,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"The Tao is empty, and using it, it never fills."
 4,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is empty, and using it, it never fills."
@@ -185,14 +185,15 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 9,6,能,néng,可,be able,NOT FOUND,1.0,authored,"Gold and jade fill the hall, and no one can guard them."
 9,7,貴,guì,貴 & 賤,"prize (verb), prized (a state)",yes,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
 9,8,咎,jiù,咎,fault,yes,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
+9,8,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,"Grow arrogant with wealth and status, and you leave yourself the fault."
 9,9,身,shēn,身,body,yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
 9,10,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
 9,10,道,dào,道,the Tao / way,yes,1.0,authored,"The work done, the body withdraws. This is the way of nature."
-10,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,1,營,yíng,魄,housing,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,1,魄,pò,魄,aliveness,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
-10,2,能,néng,可,be able,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be undivided?"
+10,1,一,yī,一,the one (lowercase) · plain numeral where it counts,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,1,營,yíng,魄,housing,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,1,魄,pò,魄,aliveness,yes,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
+10,2,能,néng,可,be able,NOT FOUND,1.0,authored,"Housing your aliveness and embracing the one, can you be without separation?"
 10,3,柔,róu,柔,soft,yes,1.0,authored,"Gathering the breath to softness, can you be an infant?"
 10,3,氣,qì,氣,breath,yes,1.0,authored,"Gathering the breath to softness, can you be an infant?"
 10,4,能,néng,可,be able,NOT FOUND,1.0,authored,"Gathering the breath to softness, can you be an infant?"
@@ -437,7 +438,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 20,12,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,The crowd all have more than enough.
 20,12,眾,Zhòng,眾,the crowd / the many,yes,1.0,authored,The crowd all have more than enough.
 20,12,餘,yú,餘,more than enough (有餘) · leftover (before a noun),NOT FOUND,1.0,authored,The crowd all have more than enough.
-20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem to have missed out.
+20,13,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I alone seem left behind.
+20,13,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,I alone seem left behind.
 20,14,心,xīn,心,heart,yes,1.0,authored,I have the heart of a fool!
 20,14,愚,yú,愚,a fool / foolishness / foolish,yes,1.0,authored,I have the heart of a fool!
 20,14,我,Wǒ,我 & 吾,the self seen,NOT FOUND,1.0,authored,I have the heart of a fool!
@@ -466,7 +468,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 21,8,信,xìn,信,trust / trustworthy,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Its essence utterly real, and within it there is trust."
 21,8,精,jīng,精,vital essence / essence,yes,1.0,authored,"Its essence utterly real, and within it there is trust."
-21,9,名,míng,名,name,yes,1.0,authored,"From ancient times until today, the Tao's name has never been erased."
+21,9,名,míng,名,name,yes,1.0,authored,"From ancient times until today, the Tao's name has never faded away."
 21,10,甫,fǔ,父 & 甫,father,yes,1.0,authored,"In this name, I observe the father of the many."
 21,10,眾,zhòng,眾,the crowd / the many,yes,1.0,authored,"In this name, I observe the father of the many."
 21,11,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,authored,How do I know the father of the many is so? By this.
@@ -575,8 +577,8 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 26,2,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,Stillness is the ruler of the restless.
 26,2,躁,zào,靜,"restless, restlessness",NOT FOUND,1.0,authored,Stillness is the ruler of the restless.
 26,2,靜,Jìng,靜,"still, stillness (a state) / still (a verb, to make still)",NOT FOUND,1.0,authored,Stillness is the ruler of the restless.
-26,3,君,jūn,君,ruler,yes,1.0,authored,"Therefore, the noble travels all day without leaving the heavy wagons."
-26,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"Therefore, the noble travels all day without leaving the heavy wagons."
+26,3,君,jūn,君,ruler,yes,1.0,authored,"Therefore, the noble travels all day without separating from the heavy wagons."
+26,3,行,xíng,行,go / carry out / conduct,yes,1.0,authored,"Therefore, the noble travels all day without separating from the heavy wagons."
 26,4,有,yǒu,無 & 有,presence,NOT FOUND,1.0,authored,"Even where the sights are glorious, they dwell at ease and stay apart."
 26,6,主,zhǔ,主,master,yes,1.0,authored,How can the master of ten thousand chariots
 26,6,萬,wàn,萬物,countless,NOT FOUND,1.0,authored,How can the master of ten thousand chariots
@@ -586,20 +588,20 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 26,9,君,jūn,君,ruler,yes,1.0,authored,Restlessness loses the ruler.
 26,9,失,shī,得 & 失,lose,yes,1.0,authored,Restlessness loses the ruler.
 26,9,躁,Zào,靜,"restless, restlessness",NOT FOUND,1.0,authored,Restlessness loses the ruler.
-27,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Masterful traveling leaves no tracks.
-27,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Masterful traveling leaves no tracks.
-27,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,Masterful traveling leaves no tracks.
-27,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Masterful speaking leaves no flaw.
-27,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,Masterful speaking leaves no flaw.
-27,2,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,Masterful speaking leaves no flaw.
+27,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful traveling, no tracks."
+27,1,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful traveling, no tracks."
+27,1,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,authored,"Masterful traveling, no tracks."
+27,2,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful speaking, no flaw."
+27,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful speaking, no flaw."
+27,2,言,yán,言,"words, speech (a noun) / speak (a verb)",NOT FOUND,1.0,authored,"Masterful speaking, no flaw."
 27,3,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,Masterful calculating uses no counting rods.
 27,3,用,yòng,無 & 有,use,yes,1.0,authored,Masterful calculating uses no counting rods.
-27,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Masterful security uses no locks, yet cannot be breached."
-27,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful security uses no locks, yet cannot be breached."
-27,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful security uses no locks, yet cannot be breached."
-27,5,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Masterful tying uses no ropes, yet cannot be untied."
-27,5,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful tying uses no ropes, yet cannot be untied."
-27,5,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful tying uses no ropes, yet cannot be untied."
+27,4,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Masterful security, no locks, yet it cannot be breached."
+27,4,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful security, no locks, yet it cannot be breached."
+27,4,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful security, no locks, yet it cannot be breached."
+27,5,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,authored,"Masterful tying, no ropes, yet it cannot be untied."
+27,5,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Masterful tying, no ropes, yet it cannot be untied."
+27,5,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Masterful tying, no ropes, yet it cannot be untied."
 27,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
 27,6,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
 27,6,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore the sage is always masterful at rescuing people, and so no one is abandoned."
@@ -624,11 +626,11 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 28,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,serve as the world's ravine.
 28,2,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,serve as the world's ravine.
 28,2,谿,xī,谷,ravine,yes,1.0,exact-count,serve as the world's ravine.
-28,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
-28,3,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
-28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
-28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
-28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never leaves you,"
+28,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never separates from you,"
+28,3,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never separates from you,"
+28,3,德,dé,德,integrity,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never separates from you,"
+28,3,為,Wéi,為,do / handle / serve as,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never separates from you,"
+28,3,谿,xī,谷,ravine,yes,1.0,exact-count,"Serve as the world's ravine, and the ever-present integrity never separates from you,"
 28,4,復,fù,歸 & 復 & 反,"return, go back",NOT FOUND,1.0,exact-count,and you return to the infant.
 28,4,歸,guī,歸 & 復 & 反,return,yes,1.0,exact-count,and you return to the infant.
 28,5,守,shǒu,守,hold to,yes,1.0,exact-count,"Know the white, hold to the black,"
@@ -827,17 +829,18 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 36,6,弱,ruò,弱,yielding — and the verb *yield* where it makes something so,NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,強,qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The soft and yielding overcome the unbending and strong.
 36,6,柔,Róu,柔,soft,yes,1.0,exact-count,The soft and yielding overcome the unbending and strong.
-36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot leave deep water.
+36,7,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A fish cannot slip away from deep water.
+36,7,脫,tuō,脫,slip away (from),NOT FOUND,1.0,exact-count,A fish cannot slip away from deep water.
 36,8,利,lì,利,"benefit (verb and noun) · beneficial (利器, before a noun)",NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,可,kě,可,can be (可 + verb) / can (可以 + verb) / cannot (不可),NOT FOUND,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,器,qì,器,vessel / tool / implement,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
 36,8,國,Guó,國,state,yes,1.0,exact-count,A state's beneficial tools cannot be shown.
-37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
-37,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is left undone."
+37,1,常,cháng,常,the ever-present / ever / always,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,為,wéi,為,do / handle / serve as,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
+37,1,道,Dào,道,the Tao / way,yes,1.0,exact-count,"The Tao is ever non-doing, yet nothing is not done."
 37,2,侯,Hóu,王,nobles (inside 侯王),NOT FOUND,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
 37,2,守,shǒu,守,hold to,yes,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
 37,2,物,wù,萬物,things / something,yes,1.0,exact-count,"If nobles and sovereigns are able to hold to this, the countless things will transform of themselves."
@@ -1038,7 +1041,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 42,5,物,wù,萬物,things / something,yes,1.0,exact-count,"So it is with things: some are decreased and so increased, some increased and so decreased."
 42,5,益,yì,益,"increase (the process, beside 損) · abundance (the overflow itself)",NOT FOUND,1.0,exact-count,"So it is with things: some are decreased and so increased, some increased and so decreased."
 42,5,益,yì,益,"increase (the process, beside 損) · abundance (the overflow itself)",NOT FOUND,1.0,exact-count,"So it is with things: some are decreased and so increased, some increased and so decreased."
-42,6,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"What others teach, I also teach:"
+42,6,我,wǒ,我 & 吾,the self seen,NOT FOUND,1.0,exact-count,"What others teach, I also teach."
 42,7,強,Qiáng,強,"strong — *strengthen* where it takes an object, *forcing* where it strains against a thing's nature",NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,7,得,dé,得 & 失,get,NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
 42,7,死,sǐ,死,death (a noun) / die (a verb) / deadly (modifying a noun),NOT FOUND,1.0,exact-count,The strong and rigid do not die a natural death.
@@ -1112,7 +1115,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 46,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,And so the contentment of knowing you have enough is ever-present contentment.
 46,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,And so the contentment of knowing you have enough is ever-present contentment.
 46,5,足,zú,足,enough · not enough (不足) · foot (the body part),yes,1.0,exact-count,And so the contentment of knowing you have enough is ever-present contentment.
-47,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Without leaving home, you know the whole world."
+47,1,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"Without going out your door, you know the whole world."
 47,2,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),yes,1.0,authored,"Without looking out the window, you see the way of nature."
 47,2,道,dào,道,the Tao / way,yes,1.0,authored,"Without looking out the window, you see the way of nature."
 47,4,聖,shèng,聖,"the sage · sagehood (聖 alone, ch 19)",yes,1.0,authored,"Therefore, the sage knows without venturing,"
@@ -1126,10 +1129,10 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 48,1,道,dào,道,the Tao / way,yes,1.0,authored,"In pursuit of learning, you increase daily; in pursuit of the Tao, you decrease daily."
 48,2,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Decrease, and decrease again, until you reach non-doing."
 48,2,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Decrease, and decrease again, until you reach non-doing."
-48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is left undone."
-48,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is left undone."
+48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,為,wéi,為,do / handle / serve as,yes,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,無,Wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is not done."
+48,3,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Non-doing, yet nothing is not done."
 48,4,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,authored,Win over the world by never meddling with it.
 48,4,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,Win over the world by never meddling with it.
 48,4,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,Win over the world by never meddling with it.
@@ -1181,7 +1184,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 50,5,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,Why? Because they live life too thickly.
 50,6,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,exact-count,It’s been said that one masterful at tending life
 50,6,生,shēng,生,give birth to / bear / bring forth,NOT FOUND,1.0,exact-count,It’s been said that one masterful at tending life
-50,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"can travel the land without meeting rhinos or tigers,"
+50,7,行,xíng,行,go / carry out / conduct,NOT FOUND,1.0,exact-count,"travels the land without meeting rhinos or tigers,"
 50,9,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"The rhino’s horn has nowhere to thrust,"
 50,10,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
 50,10,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"the tiger’s claws have nowhere to tear into,"
@@ -1244,6 +1247,7 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 52,7,無,wú,無 & 有,absence,NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,用,Yòng,無 & 有,use,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,7,身,shēn,身,body,yes,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
+52,7,遺,yí,遺,leave (behind / to),NOT FOUND,1.0,authored,"Use the outer light, return to your inner clarity, and leave no calamity for the body."
 52,8,常,cháng,常,the ever-present / ever / always,yes,1.0,authored,This is called the ever-present worn covered.
 53,1,唯,wéi,唯,only,yes,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
 53,1,大,dà,大,"great — large where the scale is physical or political, greater in comparatives, master of a craftsman",NOT FOUND,1.0,exact-count,"If I had just a scrap of knowledge, walking the path of the great Tao, my only fear would be to stray from it."
@@ -1260,8 +1264,9 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 53,4,貨,huò,貨,goods,yes,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
 53,4,餘,yú,餘,more than enough (有餘) · leftover (before a noun),NOT FOUND,1.0,exact-count,"Wearing ornate, colorful clothes, carrying sharp swords, gorged on food and drink, possessing more than enough wealth and goods —"
 53,5,道,dào,道,the Tao / way,yes,1.0,exact-count,This exposes the ringleader of thieves. It is not the Tao!
-54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. By it, descendants will never cease their sacrifices."
-54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"What is masterfully planted cannot be uprooted. What is masterfully embraced cannot slip away. By it, descendants will never cease their sacrifices."
+54,1,善,Shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"One who is masterful at planting is not uprooted. One who is masterful at embracing does not slip away. By it, descendants will never cease their sacrifices."
+54,1,善,shàn,善,masterful / masterful at · the masterful & the unmasterful (of people) · good (only where the text names the category),yes,1.0,authored,"One who is masterful at planting is not uprooted. One who is masterful at embracing does not slip away. By it, descendants will never cease their sacrifices."
+54,1,脫,tuō,脫,slip away (from),NOT FOUND,1.0,authored,"One who is masterful at planting is not uprooted. One who is masterful at embracing does not slip away. By it, descendants will never cease their sacrifices."
 54,2,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your body, and its integrity becomes authentic."
 54,2,身,shēn,身,body,yes,1.0,authored,"Cultivate this in your body, and its integrity becomes authentic."
 54,3,德,dé,德,integrity,yes,1.0,authored,"Cultivate this in your family, and its integrity becomes abundant."
@@ -1322,14 +1327,14 @@ chapter,line,character,pinyin,locked_term,expected_rendering,rendering_present,a
 56,9,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,為,wéi,為,do / handle / serve as,NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
 56,9,貴,guì,貴 & 賤,"prize (verb), prized (a state)",NOT FOUND,1.0,authored,"And so, they become the most prized in the world."
-57,1,國,guó,國,state,yes,1.0,exact-count,"Govern the state with the straight,"
-57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"Govern the state with the straight,"
-57,1,治,zhì,治,govern,yes,1.0,exact-count,"Govern the state with the straight,"
-57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"wage war with the crooked,"
-57,2,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"wage war with the crooked,"
-57,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,and win over the world by not meddling.
-57,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,and win over the world by not meddling.
-57,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,and win over the world by not meddling.
+57,1,國,guó,國,state,yes,1.0,exact-count,"With the straight, the state is governed;"
+57,1,正,zhèng,正 & 奇,"straight, straighten (verb)",NOT FOUND,1.0,exact-count,"With the straight, the state is governed;"
+57,1,治,zhì,治,govern,yes,1.0,exact-count,"With the straight, the state is governed;"
+57,2,奇,qí,正 & 奇,crooked,yes,1.0,exact-count,"with the crooked, war is waged;"
+57,2,用,yòng,無 & 有,use,NOT FOUND,1.0,exact-count,"with the crooked, war is waged;"
+57,3,事,shì,事,"affairs / undertakings (noun) · to serve, to attend to (verb)",NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
+57,3,天,tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
+57,3,無,wú,無 & 有,absence,NOT FOUND,1.0,exact-count,"by not meddling, the world is won over."
 57,4,吾,Wú,我 & 吾,the self seeing,NOT FOUND,1.0,exact-count,How do I know it is so? By this:
 57,5,天,Tiān,天,sky (as a tier) · nature / the natural (as an agent),NOT FOUND,1.0,exact-count,"The more taboos in the world, the poorer the people become."
 57,5,民,mín,民,the people,yes,1.0,exact-count,"The more taboos in the world, the poorer the people become."

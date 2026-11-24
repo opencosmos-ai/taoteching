@@ -336,7 +336,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 辯,biàn,argue / argument (45),word,,,,,3,2,"45,81",45,81,0.57,
 退,tuì,withdraw / retreat / give up (69),word,,,,,3,3,"9,41,69",9,69,0.57,
 進,jìn,advance / offer (62),word,,,,,3,3,"41,62,69",41,69,0.57,
-遺,yí,leave / miss out (20),word,,,,,3,3,"9,20,52",9,52,0.57,
+遺,yí,leave (behind / to),locked,,leave (behind / to),locked,bequeath; cast aside; left out,3,3,"9,20,52",9,52,0.57,glossary/yi-遺.md
 邦,bāng,state,covers,,state,locked,,3,1,54,54,54,0.57,glossary/guo-國.md
 邪,xié,is it not? (question particle),word,,,,,3,3,"7,39,62",7,62,0.57,
 鄉,xiāng,"community, village",word,,,,,3,1,54,54,54,0.57,
@@ -438,7 +438,7 @@ character,pinyin,gloss,gloss_source,gloss_agreement,our_render,lock_status,never
 耳,ěr,ears,apparatus,1/1,,,,2,2,"12,49",12,49,0.38,
 聽,Tīng,Listening to,apparatus,1/1,,,,2,2,"14,35",14,35,0.38,
 脆,cuì,fragile,word,,,,,2,2,"64,76",64,76,0.38,
-脫,tuō,slip away / leave (36),word,,,,,2,2,"36,54",36,54,0.38,
+脫,tuō,slip away (from),locked,,slip away (from),locked,leave; escape; come loose,2,2,"36,54",36,54,0.38,glossary/tuo-脫.md
 腹,fù,belly,covers,,belly,locked,,2,2,"3,12",3,12,0.38,glossary/xin-心.md
 臂,bì,arm,word,,,,,2,2,"38,69",38,69,0.38,
 臣,chén,minister / bring under (32),word,,,,,2,2,"18,32",18,32,0.38,

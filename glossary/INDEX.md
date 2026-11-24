@@ -7,7 +7,7 @@
 python3 tools/build_index.py
 ```
 
-**106 entries.** Sorted by how much of the book each term touches.
+**108 entries.** Sorted by how much of the book each term touches.
 
 | Term | Say | Render as | Never | Ch. | Status | Entry |
 |---|---|---|---|---|---|---|
@@ -102,6 +102,7 @@ python3 tools/build_index.py
 | **牝** | *pìn* | the female | "receptive", "feminine", "the Female" | 3 | **locked** · binds taoteching only | [`pin-牝.md`](pin-牝.md) |
 | **百姓** | *bǎi xìng* | everyone | "the people", "the hundred families", "the hundred surnames", "the masses", "the common people" | 3 | **locked** | [`baixing-百姓.md`](baixing-百姓.md) |
 | **知足** | *zhī zú* | knowing you have enough / contentment | "sufficiency", "fulfilled", "satisfaction", "discontent" | 3 | **locked** | [`zhizu-知足.md`](zhizu-知足.md) |
+| **遺** | *yí / wèi* | leave (behind / to) | "bequeath", "cast aside", "left out" | 3 | **locked** | [`yi-遺.md`](yi-遺.md) |
 | **口** | *kǒu* | mouth | "palate" | 2 | **locked** | [`kou-口.md`](kou-口.md) |
 | **命** | *mìng* | what is given · *command* (ch 51) | "mandate", "destiny", "fate", "decree" | 2 | **locked** | [`ming-命.md`](ming-命.md) |
 | **咎** | *jiù* | fault | "blame", "calamity" | 2 | **locked** · binds taoteching only | [`jiu-咎.md`](jiu-咎.md) |
@@ -110,6 +111,7 @@ python3 tools/build_index.py
 | **父 & 甫** | *fù / fǔ* | father | "origin", "root" | 2 | **locked** | [`fu-父.md`](fu-父.md) |
 | **私** | *sī* | the private self | "selfish", "selfless", "ego" | 2 | **locked** | [`si-私.md`](si-私.md) |
 | **精** | *jīng* | vital essence / essence | "primordial mass", "soul", "spirit", "energy" | 2 | **locked** | [`jing-精.md`](jing-精.md) |
+| **脫** | *tuō* | slip away (from) | "leave", "escape", "come loose" | 2 | **locked** | [`tuo-脫.md`](tuo-脫.md) |
 | **雌** | *cí* | the hen | "female", "feminine", "receptive", "passive", "energy", "the Hen" | 2 | **locked** · binds taoteching only | [`ci-雌.md`](ci-雌.md) |
 | **儉** | *jiǎn* | frugality | "economy", "thrift", "austerity", "simplicity", "moderation", "restraint", "conservation" | 1 | **locked** | [`jian-儉.md`](jian-儉.md) |
 | **全** | *quán* | whole · stay whole · keep whole (transitive) | "complete", "perfect", "flawless", "restore", "made whole" | 1 | **locked** | [`quan-全.md`](quan-全.md) |

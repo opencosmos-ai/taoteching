@@ -33,7 +33,7 @@ A few scholars doubt that the seedling graph and 甫 are one character, but most
 
 ### Three lines, and in each a father is where something starts
 
-> *From ancient times until today, the Tao's name has never been erased.*
+> *From ancient times until today, the Tao's name has never faded away.*
 > *In this name, I observe the father of the many.*
 > *How do I know the father of the many is so? By this.*
 >
@@ -43,7 +43,7 @@ A few scholars doubt that the seedling graph and 甫 are one character, but most
 >
 > — chapter 21
 
-> *What others teach, I also teach:*
+> *What others teach, I also teach.*
 > *The strong and rigid do not die a natural death.*
 > *I take this as the father of learning.*
 >

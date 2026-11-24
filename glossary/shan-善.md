@@ -41,7 +41,7 @@ That is precisely the sense Laozi uses, over and over.
 **Thirty occurrences are 善 + a verb — skilled at doing something**, and they are the book's most concrete lines:
 
 > Ch 27 · 善行無轍跡，善言無瑕謫，善數不用籌策，善閉無關楗而不可開，善結無繩約而不可解
-> *masterful travelling leaves no tracks · masterful speech is flawless · masterful reckoning uses no counting rods · masterful shutting uses no bolts, yet cannot be opened · masterful tying uses no rope, yet cannot be untied*
+> *masterful traveling, no tracks · masterful speaking, no flaw · masterful calculating uses no counting rods · masterful security, no locks, yet it cannot be breached · masterful tying, no ropes, yet it cannot be untied*
 
 A traveller, a speaker, an accountant, a locksmith, a knot-tier. **Five trades in five lines.** **Chapter 8 is the showcase: nine occurrences in thirteen lines**, more concentrated than anywhere else in the book — 上善, 善利, then the seven couplets 善地, 善淵, 善仁, 善信, 善治, 善能, 善時: masterful at ground, at depth, at giving, at speech, at governing, at what can be done, at timing. Chapter 68 gives four: the masterful officer is not martial, the masterful fighter does not rage, the masterful conqueror does not engage, the masterful user of people puts themselves below. Chapter 73 gives three more of the Tao itself: 不爭而**善**勝，不言而**善**應 — *does not contend yet masterfully prevails; does not speak yet masterfully answers.*
 

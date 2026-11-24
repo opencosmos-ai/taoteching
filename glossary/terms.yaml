@@ -857,6 +857,14 @@
   status: locked
   entry: glossary/zhizu-知足.md
 
+- term: "遺"
+  pinyin: "yí / wèi"
+  render: "leave (behind / to)"
+  forbidden: ["bequeath", "cast aside", "left out"]
+  chapters: [9, 20, 52]
+  status: locked
+  entry: glossary/yi-遺.md
+
 - term: "口"
   pinyin: "kǒu"
   render: "mouth"
@@ -924,6 +932,14 @@
   chapters: [21, 55]
   status: locked
   entry: glossary/jing-精.md
+
+- term: "脫"
+  pinyin: "tuō"
+  render: "slip away (from)"
+  forbidden: ["leave", "escape", "come loose"]
+  chapters: [36, 54]
+  status: locked
+  entry: glossary/tuo-脫.md
 
 - term: "雌"
   pinyin: "cí"

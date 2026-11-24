@@ -31,6 +31,26 @@ This is a **spine that points into the other layers**, never a second copy of th
 
 ---
 
+## 2026-11-23 — 遺 (*yí* — leave) locked, 無不 (*wú bù* — nothing not) kept double, and the oldest witnesses recorded
+
+Shalom's calls, closing the two lines the *leave* sweep left open the day before. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md).
+
+- **One entry locked.** [`glossary/yi-遺.md`](glossary/yi-遺.md): 遺 (*yí / wèi*) *leave*, *leave to* at 9 and 52, *left behind* at 20. The bronze graph is two hands with something falling from them, beside 辵 (*chuò* — walking), the radical of 道 (*dào* — the Tao), and silk A writes 道 for 遺 at ch 52. One graph holds two words, *yí* (be left behind) and *wèi* (to present), and English *leave* holds both. Ch 20 *"I alone seem left behind"* (was *missed out*).
+- **Ch 10 *"can you be without separation?"*** (was *undivided*), with 離 (*lí* — to separate) read as at 26 and 28.
+- **無不為 (*wú bù wéi*) → *"nothing is not done"*** at 37 and 48 (was *left undone*): the two negations kept, *do* in both halves, the supplied *left* gone. Ch 3 *"Doing not-doing, nothing is not governed"*, in Shalom's wording, the gerund continuing the sage's means; ch 63 keeps its imperative. *Leave* is now one character's in every line.
+- **Seven forks recorded** (131–137). Ch 36's fish line in silk A has no 可 (*kě* — can), but Han Fei, the oldest witness, keeps it, so the verse's *cannot* stands; Han Fei's 深淵 (*shēn yuān* — the deep pool) and silk A's 瀟 (*xiāo* — deep and clear water); silk B's 說 (*shuō*) for 脫 (*tuō* — slip away). Silk A's 我獨遺 (*wǒ dú yí* — I alone am left) at ch 20, and its 道 for 遺 at ch 52. **Ch 37's paradox is in no excavated witness:** Guodian reads only 道恒亡為也 (*dào héng wú wéi yě* — the Tao is ever non-doing), the silks 道恆無名 (*dào héng wú míng* — the Tao is ever nameless); the base kept, and the chapter to be read against Guodian whole (T4-12). Silk B's ch 3 has 弗為而已 (*fú wéi ér yǐ* — do not act, and that is all) for 為無為. The excavated readings await a print check ([`WORKLIST.md`](WORKLIST.md) T2-80, T2-95).
+- **Records.** Ch 8's note on 淵 (*yuān* — a deep pool) and T2-24 brought current. The CUHK character database joins the [source catalogue](sources/SOURCES.md). Baselines: variant 130 → 137.
+
+## 2026-11-22 — 脫 (*tuō* — slip away) locked, *leave* made one character's, and four more of R6's lines settled
+
+Shalom's calls on 2026-11-21 and 22, brought one at a time with each stanza in place. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md).
+
+- **One entry locked.** [`glossary/tuo-脫.md`](glossary/tuo-脫.md): 脫 (*tuō*) *slip away (from)*, with *leave*, *escape* and *come loose* forbidden. Ch 36 *"A fish cannot slip away from deep water"*; ch 54 *"One who is masterful at embracing does not slip away."* Left open in the entry: the silk manuscripts' readings of the fish line, not yet checked against a print edition or recorded in [`sources/variants.yaml`](sources/variants.yaml).
+- ***Leave*, one character's.** It stood for four. 遺 (*yí* — to leave behind) keeps it (9, 52). 去 (*qù* — to go away) reads *fade away*, so the two 不去 (*bù qù* — "does not go away") lines match: ch 2 *"does it not fade away,"* ch 21 *"has never faded away."* 離 (*lí* — to separate) reads *separate from* (26, 28). Ch 47 *"Without going out your door,"* with 戶 (*hù* — door) as at ch 11.
+- **Ch 27's four 無 (*wú* — no) lines bare**, in Shalom's wording: *"Masterful traveling, no tracks,"* and the same for speaking, security and tying. Only the 不用 (*bù yòng* — "does not use") line keeps *uses*. The supplied *leaves* was the last *leave* that was not 遺's.
+- **The back-translation audit (R6): four more rows done.** Ch 57's opening three read as descriptions, each opening on its 以 (*yǐ* — with), as finding 8 asked: *"With the straight, the state is governed."* Ch 42's colon after 我亦教之 (*wǒ yì jiào zhī* — "I also teach it") becomes a full stop. Ch 50 follows Han Fei, unarmed: *"and enters into battle without armor or weapons,"* with both *can*s gone, recorded as fork 130. Ch 54's planter is a person, on the lock for 善 (*shàn* — masterful): *"One who is masterful at planting is not uprooted."* [`WORKLIST.md`](WORKLIST.md) R6 now owes ch 61 and two records.
+- **Baselines:** variant 129 → 130.
+
 ## 2026-11-20 — Nineteen entries locked, the relevance queue emptied, and 王 relocked to *sovereign*
 
 A day of Shalom's calls, one at a time with each stanza in place, through PRs #93 and #94. Each line's call is in its chapter's Notes and in [`notes/translation.md`](notes/translation.md); each entry carries its own argument.

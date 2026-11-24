@@ -245,7 +245,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 嬰,yīng,"newborn (嬰兒, infant)",,嬰,exact,女,compound,,女 (nǚ = a woman) + 賏 (? = not yet glossed),,3,,0.0271,頸飾也。从女、賏。賏，其連也。,
 愚,yú,a fool / foolishness / foolish,a fool / foolishness / foolish,愚,exact,心,compound,,心 (xīn = heart) + 禺 (? = not yet glossed),,3,locked,0.0271,戇也。从心从禺。禺，猴屬，獸之愚者。,"Dull-witted. From 心 (xīn — heart) and 禺 (yú — a monkey). 禺 is a kind of monkey, the most foolish of beasts."
 解,jiě,untangle / untie,,解,exact,角,compound,,刀 (dāo = a knife) + 判 (? = not yet glossed) + 牛 (niú = an ox) + 角 (jiǎo = horn),,3,,0.0271,判也。从刀判牛角。一曰解𢊁，獸也。,
-遺,yí,leave / miss out (20),,遺,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",䝿 (? = not yet glossed),3,,0.0271,亾也。从辵䝿聲。,
+遺,yí,leave (behind / to),leave (behind / to),遺,exact,辵,phonetic-compound,,"辵 (chuò = walking, going along a road)",䝿 (? = not yet glossed),3,locked,0.0271,亾也。从辵䝿聲。,"Gone missing. From 辵 (chuò — walking), with 䝿 (guì — an older form of 貴, dear) for sound."
 閉,bì,close,,閉,exact,門,compound,,門 (mén = gate / door),,3,,0.0271,闔門也。从門；才，所以歫門也。,
 音,yīn,tone / sound,,音,exact,音,compound,,"言 (yán = words, speech (a noun) / speak (a verb)) + 含 (Hán = hold within, contain) + 一 (yī = the one (lowercase) · plain numeral where it counts)",,3,,0.0271,聲也。生於心，有節於外，謂之音。宮商角徵羽，聲；絲竹金石匏土革木，音也。从言含一。凡音之屬皆从音。,
 勇,yǒng,brave / courage,,勇,exact,力,phonetic-compound,,力 (lì = force),甬 (? = not yet glossed),4,,0.0265,气也。从力甬聲。,
@@ -333,7 +333,7 @@ character,pinyin,gloss,our_render,shuowen_headword,matched_by,shuowen_section,co
 孩,hái,smiled/giggled,,咳,old-form,口,phonetic-compound,,口 (kǒu = mouth),亥 (? = not yet glossed),2,,0.0195,小兒笑也。从口亥聲。,
 新,xīn,new / renewed (22),,新,exact,斤,phonetic-compound,,斤 (jīn = an axe),新 (xīn = new / renewed (22)),2,,0.0195,取木也。从斤新聲。,
 異,yì,am different,,異,exact,異,compound,,廾 (gǒng = two hands raised together) + 畀 (? = not yet glossed),,2,,0.0195,分也。从廾从畀。畀，予也。凡異之屬皆从異。,
-脫,tuō,slip away / leave (36),,脫,exact,肉,phonetic-compound,,肉 (ròu = flesh),兌 (duì = opening),2,,0.0195,消肉臞也。从肉兌聲。,
+脫,tuō,slip away (from),slip away (from),脫,exact,肉,phonetic-compound,,肉 (ròu = flesh),兌 (duì = opening),2,locked,0.0195,消肉臞也。从肉兌聲。,"Flesh wasting away. From 肉 (ròu — flesh), with 兌 (duì) for sound."
 謀,móu,plan,,謀,exact,言,phonetic-compound,,"言 (yán = words, speech (a noun) / speak (a verb))",某 (? = not yet glossed),2,,0.0195,慮難曰謀。从言某聲。,
 馳,Chí,"drive hard, gallop (馳騁, gallop)",,馳,exact,馬,phonetic-compound,,馬 (mǎ = horse),也 (yě = (closes a statement: it is so)),2,,0.0195,大驅也。从馬也聲。,
 騁,chěng,"run straight, gallop (馳騁, gallop)",,騁,exact,馬,phonetic-compound,,馬 (mǎ = horse),甹 (? = not yet glossed),2,,0.0195,直馳也。从馬甹聲。,

@@ -48,9 +48,9 @@ refs:
 
 ### Chapter 57 sets the method, and chapter 58 undoes it
 
-> *Govern the state with the straight,*
-> *wage war with the crooked,*
-> *and win over the world by not meddling.*
+> *With the straight, the state is governed;*
+> *with the crooked, war is waged;*
+> *by not meddling, the world is won over.*
 >
 > 以正治國，
 > 以奇用兵，

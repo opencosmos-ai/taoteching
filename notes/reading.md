@@ -165,7 +165,7 @@ This rests on hearing 十有三 as "three in ten," which reads naturally in the 
 
 ### Ch 57 · The two lives of 正 — order imposed, and order arisen
 
-The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "govern the state with the straight," the line applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people straighten themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
+The chapter opens and closes on the same character, 正, and the distance between its two appearances is the whole teaching. It begins as a *method of rule* — 以正治國, "with the straight, the state is governed," the line applied from above — and it ends with no ruler applying anything: 我好靜而民自正, "I love stillness, and the people straighten themselves." Same word, opposite motion. First, 正 is imposed; last, 正 arises.
 
 Everything between the two argues the point. The first half is a catalogue of imposition backfiring — the more taboos, the poorer the people; the more laws proclaimed, the more thieves — every attempt to carve order into the world breeding its own opposite. The second half is the reversal: when the ruler will not act, will not meddle, wants nothing, and above all grows *still*, the people transform, right, enrich, and grow plain — 自, of their own accord. Order was never something to install; it was something to stop preventing. That is the bookend's quiet claim: you do not make people upright by being upright *at* them. You grow still, and the uprightness that was in them all along comes up by itself — the way plainness (自樸) does in the very next breath.
 
@@ -296,7 +296,7 @@ The through-line is 下 — *below* as an action you take. Read together they sa
 **1. The sage is the fool before anyone else is.** In chapter 20, amid the crowd's feast, the speaker says it as a boast:
 
 > *The crowd all have more than enough.*
-> *I alone seem to have missed out.*
+> *I alone seem left behind.*
 > *I have the heart of a fool!*
 > *How fluid!*
 >
@@ -329,7 +329,7 @@ Chapter 20 is the one place the book sounds like a person rather than a position
 
 **Then the chapter refuses its own consolation.** 人之所畏，不可不畏 — *what people fear must be feared*. Wang Bi does not soften it: 故人之所畏，吾亦畏焉 — *"what people fear, I fear too."* The speaker has seen through the distinctions and is **still afraid**, and says so before saying anything else about their own state. No enlightenment is claimed. That single line is what keeps the rest of the chapter from being a boast.
 
-**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker has missed out. The worldly are bright and sharp; the speaker is clouded and dull. Stubborn. Coarse. **One word in the descent is not an insult.** Straight after *"I have the heart of a fool!"* comes 沌沌兮, *"How fluid!"*: the book's word for the whole before it divides, the heart that makes no distinctions. The descent is what the crowd sees. 沌沌 is what is there. *(Seeking to understand that word is what opened the meaning of the fool: Ch 65 below, and `glossary/yu-愚.md`.)*
+**And then the long descent**, in which every term of praise is inverted. The crowd is at the feast; the speaker is an infant who cannot yet smile. The crowd has more than enough; the speaker seems left behind. The worldly are bright and sharp; the speaker is clouded and dull. Stubborn. Coarse. **One word in the descent is not an insult.** Straight after *"I have the heart of a fool!"* comes 沌沌兮, *"How fluid!"*: the book's word for the whole before it divides, the heart that makes no distinctions. The descent is what the crowd sees. 沌沌 is what is there. *(Seeking to understand that word is what opened the meaning of the fool: Ch 65 below, and `glossary/yu-愚.md`.)*
 
 The last word is where it resolves, and it resolves without arguing: 而貴食母 — *I prize feeding from the mother.* Everyone else is at the great feast, 太牢, the ox-sacrifice. The speaker is at the breast. Not a lesser meal — the **first** one, the one that comes before food is something you choose. 王弼: 食母，生之本也, *"the feeding mother is the root of what lives."*
 

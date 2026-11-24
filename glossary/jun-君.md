@@ -98,7 +98,7 @@ refs:
 
 **Literally a ruler's son: the honorific of the ruling class, and in the *Analects* the name of Confucius's ideal person.** It stands in two chapters.
 
-> *Therefore, the noble travels all day without leaving the heavy wagons.*
+> *Therefore, the noble travels all day without separating from the heavy wagons.*
 >
 > 是以君子終日行不離輜重。
 >
